@@ -1,11 +1,9 @@
 {
   "id": 40075,
   "name": "Wardrobe space",
-  "models_2": {
-    "models": [
-      40829
-    ]
-  },
+  "models_2": [
+    40829
+  ],
   "actions": [
     null,
     null,

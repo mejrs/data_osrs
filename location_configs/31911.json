@@ -1,11 +1,9 @@
 {
   "id": 31911,
   "name": "The Grotesque Guardians' display",
-  "models_2": {
-    "models": [
-      34259
-    ]
-  },
+  "models_2": [
+    34259
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "ambient": 30,

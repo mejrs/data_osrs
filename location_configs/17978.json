@@ -1,11 +1,9 @@
 {
   "id": 17978,
   "name": "Stairs down",
-  "models_2": {
-    "models": [
-      17687
-    ]
-  },
+  "models_2": [
+    17687
+  ],
   "dim_y": 2,
   "actions": [
     "Climb-down",

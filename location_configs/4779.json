@@ -1,11 +1,9 @@
 {
   "id": 4779,
   "name": "Bamboo Ladder",
-  "models_2": {
-    "models": [
-      4727
-    ]
-  },
+  "models_2": [
+    4727
+  ],
   "unknown_27": false,
   "actions": [
     "Climb-down",

@@ -1,11 +1,9 @@
 {
   "id": 6009,
   "name": "Blue Fire",
-  "models_2": {
-    "models": [
-      6022
-    ]
-  },
+  "models_2": [
+    6022
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 476,

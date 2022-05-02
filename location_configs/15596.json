@@ -1,11 +1,9 @@
 {
   "id": 15596,
   "name": "Dwarf remains",
-  "models_2": {
-    "models": [
-      2595
-    ]
-  },
+  "models_2": [
+    2595
+  ],
   "unknown_17": false,
   "actions": [
     "Take",

@@ -1,11 +1,9 @@
 {
   "id": 40101,
   "name": "Broken table",
-  "models_2": {
-    "models": [
-      9547
-    ]
-  },
+  "models_2": [
+    9547
+  ],
   "ambient": 25,
   "actions": [
     null,

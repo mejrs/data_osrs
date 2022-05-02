@@ -1,11 +1,9 @@
 {
   "id": 21253,
   "name": "An anonymous looking door",
-  "models_2": {
-    "models": [
-      16400
-    ]
-  },
+  "models_2": [
+    16400
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 4339,

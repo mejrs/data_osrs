@@ -1,12 +1,10 @@
 {
   "id": 10722,
   "name": "Old Bookshelf",
-  "models_2": {
-    "models": [
-      7396,
-      7397
-    ]
-  },
+  "models_2": [
+    7396,
+    7397
+  ],
   "colours": [
     [
       6565,

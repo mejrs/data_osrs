@@ -1,11 +1,9 @@
 {
   "id": 1403,
   "name": "Cactus",
-  "models_2": {
-    "models": [
-      1597
-    ]
-  },
+  "models_2": [
+    1597
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "mapscene": 4

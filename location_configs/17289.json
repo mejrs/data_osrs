@@ -1,10 +1,8 @@
 {
   "id": 17289,
   "name": "Hoisted sail",
-  "models_2": {
-    "models": [
-      17281
-    ]
-  },
+  "models_2": [
+    17281
+  ],
   "mirror": true
 }

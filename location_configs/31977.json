@@ -1,11 +1,9 @@
 {
   "id": 31977,
   "name": "Vorkath head",
-  "models_2": {
-    "models": [
-      35097
-    ]
-  },
+  "models_2": [
+    35097
+  ],
   "ambient": 25,
   "actions": [
     "Talk-to",

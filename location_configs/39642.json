@@ -1,11 +1,9 @@
 {
   "id": 39642,
   "name": "Altar",
-  "models_2": {
-    "models": [
-      40703
-    ]
-  },
+  "models_2": [
+    40703
+  ],
   "dim_x": 3,
   "ambient": 20,
   "actions": [

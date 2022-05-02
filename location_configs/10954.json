@@ -1,11 +1,9 @@
 {
   "id": 10954,
   "name": "Flat ground",
-  "models_2": {
-    "models": [
-      10900
-    ]
-  },
+  "models_2": [
+    10900
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "colours": [

@@ -1,12 +1,10 @@
 {
   "id": 22520,
   "name": "Sarah (ghastly!)",
-  "models_2": {
-    "models": [
-      23208,
-      23196
-    ]
-  },
+  "models_2": [
+    23208,
+    23196
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

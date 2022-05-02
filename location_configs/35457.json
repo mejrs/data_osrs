@@ -1,11 +1,9 @@
 {
   "id": 35457,
   "name": "Seal of Hefin",
-  "models_2": {
-    "models": [
-      38398
-    ]
-  },
+  "models_2": [
+    38398
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "ambient": 10,

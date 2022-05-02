@@ -1,11 +1,9 @@
 {
   "id": 29165,
   "name": "Mounted Coins",
-  "models_2": {
-    "models": [
-      32153
-    ]
-  },
+  "models_2": [
+    32153
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

@@ -1,0 +1,52 @@
+{
+  "id": 43743,
+  "models": [
+    [
+      22,
+      44002
+    ]
+  ],
+  "name": "Overpowered cell tile",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Place-cell",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      11200,
+      125
+    ],
+    [
+      22464,
+      125
+    ],
+    [
+      33728,
+      125
+    ],
+    [
+      43968,
+      125
+    ],
+    [
+      960,
+      850
+    ],
+    [
+      972,
+      125
+    ]
+  ],
+  "category": 1618,
+  "params": {
+    "1585": 4
+  }
+}

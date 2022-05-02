@@ -1,13 +1,11 @@
 {
   "id": 8063,
   "name": "Orange tree",
-  "models_2": {
-    "models": [
-      8061,
-      7767,
-      8051
-    ]
-  },
+  "models_2": [
+    8061,
+    7767,
+    8051
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

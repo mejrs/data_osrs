@@ -1,13 +1,43 @@
 {
   "id": 42863,
-  "name": "Snowman",
-  "models_2": {
-    "models": [
-      43080,
-      43066
+  "name": "Trophy pedestal",
+  "models_2": [
+    41707,
+    41714
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    "Remove-trophy",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      48476,
+      29646
+    ],
+    [
+      48941,
+      3371
+    ],
+    [
+      48918,
+      43150
+    ],
+    [
+      52160,
+      43169
+    ],
+    [
+      51887,
+      43162
     ]
-  },
-  "is_transparent": true,
-  "unknown_27": false,
-  "ambient": 20
+  ],
+  "category": 206
 }

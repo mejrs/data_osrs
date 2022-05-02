@@ -1,11 +1,9 @@
 {
   "id": 10991,
   "name": "Pedestal",
-  "models_2": {
-    "models": [
-      10893
-    ]
-  },
+  "models_2": [
+    10893
+  ],
   "colours": [
     [
       7481,

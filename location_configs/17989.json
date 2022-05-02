@@ -1,11 +1,9 @@
 {
   "id": 17989,
   "name": "Bush",
-  "models_2": {
-    "models": [
-      17668
-    ]
-  },
+  "models_2": [
+    17668
+  ],
   "actions": [
     "Search",
     null,

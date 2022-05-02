@@ -1,9 +1,7 @@
 {
   "id": 15465,
   "name": "Display board",
-  "models_2": {
-    "models": [
-      12272
-    ]
-  }
+  "models_2": [
+    12272
+  ]
 }

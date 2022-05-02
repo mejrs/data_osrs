@@ -1,11 +1,9 @@
 {
   "id": 32157,
   "name": "Machinery",
-  "models_2": {
-    "models": [
-      34728
-    ]
-  },
+  "models_2": [
+    34728
+  ],
   "dim_x": 3,
   "dim_y": 4,
   "unknown_22": true,

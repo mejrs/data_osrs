@@ -1,0 +1,37 @@
+{
+  "id": 44028,
+  "name": "Fire",
+  "models_2": [
+    26582
+  ],
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_24": 6645,
+  "ambient": 25,
+  "contrast": 60,
+  "colours": [
+    [
+      10471,
+      16
+    ],
+    [
+      5056,
+      12
+    ],
+    [
+      7104,
+      8
+    ],
+    [
+      8146,
+      4
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 48,
+  "scale_z": 64,
+  "unknown_78": {
+    "unknown_1": 2066,
+    "unknown_2": 4
+  }
+}

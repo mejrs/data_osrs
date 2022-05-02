@@ -1,11 +1,9 @@
 {
   "id": 22142,
   "name": "Drawers",
-  "models_2": {
-    "models": [
-      22937
-    ]
-  },
+  "models_2": [
+    22937
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,

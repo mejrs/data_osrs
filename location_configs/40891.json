@@ -1,11 +1,9 @@
 {
   "id": 40891,
   "name": "Fire remains",
-  "models_2": {
-    "models": [
-      2262
-    ]
-  },
+  "models_2": [
+    2262
+  ],
   "unknown_24": 475,
   "colours": [
     [

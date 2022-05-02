@@ -1,11 +1,9 @@
 {
   "id": 31941,
   "name": "Fountain of Rune",
-  "models_2": {
-    "models": [
-      28258
-    ]
-  },
+  "models_2": [
+    28258
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "is_transparent": true,

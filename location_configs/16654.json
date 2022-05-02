@@ -1,11 +1,9 @@
 {
   "id": 16654,
   "name": "Loader",
-  "models_2": {
-    "models": [
-      11023
-    ]
-  },
+  "models_2": [
+    11023
+  ],
   "dim_x": 2,
   "unknown_22": true,
   "unknown_69": 13

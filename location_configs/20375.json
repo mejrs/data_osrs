@@ -1,11 +1,9 @@
 {
   "id": 20375,
   "name": "Potter's wheel",
-  "models_2": {
-    "models": [
-      1179
-    ]
-  },
+  "models_2": [
+    1179
+  ],
   "ambient": 20,
   "actions": [
     "Use",

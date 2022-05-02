@@ -1,12 +1,10 @@
 {
   "id": 21881,
   "name": "Pipe machine",
-  "models_2": {
-    "models": [
-      22670,
-      22667
-    ]
-  },
+  "models_2": [
+    22670,
+    22667
+  ],
   "dim_x": 2,
   "ambient": 10,
   "contrast": 10

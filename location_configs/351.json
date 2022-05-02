@@ -1,11 +1,9 @@
 {
   "id": 351,
   "name": "Drawers",
-  "models_2": {
-    "models": [
-      1236
-    ]
-  },
+  "models_2": [
+    1236
+  ],
   "actions": [
     null,
     "Search",

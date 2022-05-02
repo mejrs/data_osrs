@@ -1,12 +1,10 @@
 {
   "id": 27699,
   "name": "Till",
-  "models_2": {
-    "models": [
-      30328,
-      30304
-    ]
-  },
+  "models_2": [
+    30328,
+    30304
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "unknown_27": false,

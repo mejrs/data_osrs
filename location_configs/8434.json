@@ -1,12 +1,10 @@
 {
   "id": 8434,
   "name": "Dead Magic Tree",
-  "models_2": {
-    "models": [
-      7988,
-      7768
-    ]
-  },
+  "models_2": [
+    7988,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

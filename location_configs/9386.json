@@ -1,12 +1,10 @@
 {
   "id": 9386,
   "name": "Box trap",
-  "models_2": {
-    "models": [
-      19904,
-      19906
-    ]
-  },
+  "models_2": [
+    19904,
+    19906
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 5175,

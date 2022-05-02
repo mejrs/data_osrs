@@ -1,11 +1,9 @@
 {
   "id": 27525,
   "name": "Potato basket",
-  "models_2": {
-    "models": [
-      30222
-    ]
-  },
+  "models_2": [
+    30222
+  ],
   "is_transparent": true,
   "unknown_27": false
 }

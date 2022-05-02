@@ -1,11 +1,9 @@
 {
   "id": 29069,
   "name": "Chest",
-  "models_2": {
-    "models": [
-      40630
-    ]
-  },
+  "models_2": [
+    40630
+  ],
   "is_transparent": true,
   "ambient": 40,
   "actions": [

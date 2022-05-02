@@ -1,11 +1,9 @@
 {
   "id": 40023,
   "name": "Sink",
-  "models_2": {
-    "models": [
-      40822
-    ]
-  },
+  "models_2": [
+    40822
+  ],
   "contrast": 10,
   "category": 175
 }

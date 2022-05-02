@@ -1,11 +1,9 @@
 {
   "id": 26720,
   "name": "Root",
-  "models_2": {
-    "models": [
-      2173
-    ]
-  },
+  "models_2": [
+    2173
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "actions": [

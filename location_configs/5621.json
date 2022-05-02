@@ -1,9 +1,7 @@
 {
   "id": 5621,
   "name": "Big vase",
-  "models_2": {
-    "models": [
-      5562
-    ]
-  }
+  "models_2": [
+    5562
+  ]
 }

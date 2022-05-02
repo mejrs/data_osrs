@@ -1,11 +1,9 @@
 {
   "id": 16600,
   "name": "Hurdle",
-  "models_2": {
-    "models": [
-      16764
-    ]
-  },
+  "models_2": [
+    16764
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "unknown_24": 4357,

@@ -1,0 +1,23 @@
+{
+  "id": 44211,
+  "name": "Stone Pile",
+  "models_2": [
+    44170
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      20,
+      40214
+    ],
+    [
+      16,
+      40090
+    ]
+  ]
+}

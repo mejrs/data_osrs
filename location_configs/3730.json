@@ -1,11 +1,9 @@
 {
   "id": 3730,
   "name": "Stile",
-  "models_2": {
-    "models": [
-      982
-    ]
-  },
+  "models_2": [
+    982
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "unknown_21": true,

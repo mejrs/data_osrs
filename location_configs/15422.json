@@ -1,11 +1,9 @@
 {
   "id": 15422,
   "name": "Crystal ball space",
-  "models_2": {
-    "models": [
-      12677
-    ]
-  },
+  "models_2": [
+    12677
+  ],
   "actions": [
     null,
     null,

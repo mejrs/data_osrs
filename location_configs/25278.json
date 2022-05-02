@@ -1,11 +1,9 @@
 {
   "id": 25278,
   "name": "Mighty torrent",
-  "models_2": {
-    "models": [
-      26822
-    ]
-  },
+  "models_2": [
+    26822
+  ],
   "unknown_19": 1,
   "unknown_24": 6732,
   "ambient": 10,

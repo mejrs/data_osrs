@@ -1,11 +1,9 @@
 {
   "id": 9151,
   "name": "Hole in the wall",
-  "models_2": {
-    "models": [
-      9105
-    ]
-  },
+  "models_2": [
+    9105
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "occludes_1": false,

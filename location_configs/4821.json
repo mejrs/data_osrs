@@ -1,11 +1,9 @@
 {
   "id": 4821,
   "name": "Jungle Tree Stump",
-  "models_2": {
-    "models": [
-      4837
-    ]
-  },
+  "models_2": [
+    4837
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "colours": [

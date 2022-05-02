@@ -1,12 +1,10 @@
 {
   "id": 5625,
   "name": "Ned's Table",
-  "models_2": {
-    "models": [
-      1213,
-      5491
-    ]
-  },
+  "models_2": [
+    1213,
+    5491
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "textures": {

@@ -1,11 +1,9 @@
 {
   "id": 18650,
   "name": "Piping",
-  "models_2": {
-    "models": [
-      18675
-    ]
-  },
+  "models_2": [
+    18675
+  ],
   "unknown_19": 1,
   "colours": [
     [

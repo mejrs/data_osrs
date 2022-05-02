@@ -1,11 +1,9 @@
 {
   "id": 8689,
   "name": "Dairy cow",
-  "models_2": {
-    "models": [
-      23891
-    ]
-  },
+  "models_2": [
+    23891
+  ],
   "dim_y": 2,
   "unknown_24": 5855,
   "ambient": 20,

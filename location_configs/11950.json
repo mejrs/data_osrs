@@ -1,11 +1,9 @@
 {
   "id": 11950,
   "name": "Stalactite",
-  "models_2": {
-    "models": [
-      753
-    ]
-  },
+  "models_2": [
+    753
+  ],
   "unknown_17": false,
   "unknown_21": true,
   "colours": [

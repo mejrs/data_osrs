@@ -1,11 +1,9 @@
 {
   "id": 22123,
   "name": "Stand",
-  "models_2": {
-    "models": [
-      22942
-    ]
-  },
+  "models_2": [
+    22942
+  ],
   "unknown_24": 5906,
   "unknown_27": false,
   "ambient": 25,

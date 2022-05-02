@@ -1,11 +1,9 @@
 {
   "id": 5169,
   "name": "Grave",
-  "models_2": {
-    "models": [
-      1366
-    ]
-  },
+  "models_2": [
+    1366
+  ],
   "unknown_27": false,
   "actions": [
     "Read",

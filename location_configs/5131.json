@@ -1,11 +1,9 @@
 {
   "id": 5131,
   "name": "Short Plant",
-  "models_2": {
-    "models": [
-      12935
-    ]
-  },
+  "models_2": [
+    12935
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

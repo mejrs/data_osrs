@@ -1,11 +1,9 @@
 {
   "id": 25665,
   "name": "Sir Palomedes",
-  "models_2": {
-    "models": [
-      27126
-    ]
-  },
+  "models_2": [
+    27126
+  ],
   "unknown_17": false,
   "unknown_24": 6913,
   "ambient": 10,

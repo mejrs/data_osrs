@@ -1,11 +1,9 @@
 {
   "id": 29736,
   "name": "Rotten sapling",
-  "models_2": {
-    "models": [
-      1716
-    ]
-  },
+  "models_2": [
+    1716
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,

@@ -1,12 +1,10 @@
 {
   "id": 30495,
   "name": "Diseased seaweed",
-  "models_2": {
-    "models": [
-      33253,
-      7767
-    ]
-  },
+  "models_2": [
+    33253,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

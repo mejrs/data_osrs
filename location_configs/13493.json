@@ -1,11 +1,9 @@
 {
   "id": 13493,
   "name": "Rune armour",
-  "models_2": {
-    "models": [
-      12382
-    ]
-  },
+  "models_2": [
+    12382
+  ],
   "actions": [
     null,
     null,

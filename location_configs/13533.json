@@ -1,12 +1,10 @@
 {
   "id": 13533,
   "name": "Small oven",
-  "models_2": {
-    "models": [
-      14100,
-      12620
-    ]
-  },
+  "models_2": [
+    14100,
+    12620
+  ],
   "dim_y": 2,
   "unknown_24": 3105,
   "ambient": 25,

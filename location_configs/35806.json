@@ -1,12 +1,10 @@
 {
   "id": 35806,
   "name": "Barricade",
-  "models_2": {
-    "models": [
-      14205,
-      4495
-    ]
-  },
+  "models_2": [
+    14205,
+    4495
+  ],
   "is_transparent": true,
   "unknown_24": 475,
   "unknown_27": false,

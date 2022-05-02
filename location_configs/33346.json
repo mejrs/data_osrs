@@ -1,11 +1,9 @@
 {
   "id": 33346,
   "name": "Portal Nexus space",
-  "models_2": {
-    "models": [
-      36051
-    ]
-  },
+  "models_2": [
+    36051
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 29741,
   "name": "Mark of Power",
-  "models_2": {
-    "models": [
-      1131
-    ]
-  },
+  "models_2": [
+    1131
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

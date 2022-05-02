@@ -1,9 +1,7 @@
 {
   "id": 1359,
   "name": "Tree stump",
-  "models_2": {
-    "models": [
-      1592
-    ]
-  }
+  "models_2": [
+    1592
+  ]
 }

@@ -1,11 +1,9 @@
 {
   "id": 20789,
   "name": "Lever",
-  "models_2": {
-    "models": [
-      31313
-    ]
-  },
+  "models_2": [
+    31313
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

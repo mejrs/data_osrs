@@ -1,11 +1,9 @@
 {
   "id": 24961,
   "name": "Hopper",
-  "models_2": {
-    "models": [
-      1379
-    ]
-  },
+  "models_2": [
+    1379
+  ],
   "dim_x": 2,
   "actions": [
     "Fill",

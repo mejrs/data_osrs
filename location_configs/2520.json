@@ -1,11 +1,9 @@
 {
   "id": 2520,
   "name": "Crane",
-  "models_2": {
-    "models": [
-      2232
-    ]
-  },
+  "models_2": [
+    2232
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "actions": [

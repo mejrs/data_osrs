@@ -1,12 +1,10 @@
 {
   "id": 7920,
   "name": "Woad plant",
-  "models_2": {
-    "models": [
-      7867,
-      7767
-    ]
-  },
+  "models_2": [
+    7867,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

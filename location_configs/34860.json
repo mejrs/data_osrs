@@ -1,11 +1,9 @@
 {
   "id": 34860,
   "name": "Strange passage",
-  "models_2": {
-    "models": [
-      37307
-    ]
-  },
+  "models_2": [
+    37307
+  ],
   "dim_y": 2,
   "unknown_27": false,
   "ambient": 20,

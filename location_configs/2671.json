@@ -1,11 +1,9 @@
 {
   "id": 2671,
   "name": "Kharidian cactus (Dry)",
-  "models_2": {
-    "models": [
-      1604
-    ]
-  },
+  "models_2": [
+    1604
+  ],
   "ambient": 45,
   "colours": [
     [

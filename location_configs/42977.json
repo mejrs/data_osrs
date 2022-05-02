@@ -1,0 +1,10 @@
+{
+  "id": 42977,
+  "name": "Lock",
+  "models_2": [
+    43364
+  ],
+  "ambient": 50,
+  "contrast": 20,
+  "model": false
+}

@@ -1,11 +1,9 @@
 {
   "id": 28670,
   "name": "Gnome statue",
-  "models_2": {
-    "models": [
-      1318
-    ]
-  },
+  "models_2": [
+    1318
+  ],
   "actions": [
     "Investigate",
     null,

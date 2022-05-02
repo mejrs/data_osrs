@@ -1,11 +1,9 @@
 {
   "id": 10557,
   "name": "Champion Statue",
-  "models_2": {
-    "models": [
-      10258
-    ]
-  },
+  "models_2": [
+    10258
+  ],
   "ambient": 15,
   "actions": [
     "Climb-down",

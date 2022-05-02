@@ -1,11 +1,9 @@
 {
   "id": 23566,
   "name": "Monkeybars",
-  "models_2": {
-    "models": [
-      1474
-    ]
-  },
+  "models_2": [
+    1474
+  ],
   "dim_x": 3,
   "unknown_17": false,
   "actions": [

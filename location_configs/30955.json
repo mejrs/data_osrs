@@ -1,12 +1,10 @@
 {
   "id": 30955,
   "name": "Drift net (full)",
-  "models_2": {
-    "models": [
-      33827,
-      33826
-    ]
-  },
+  "models_2": [
+    33827,
+    33826
+  ],
   "dim_x": 5,
   "dim_y": 2,
   "is_transparent": true,

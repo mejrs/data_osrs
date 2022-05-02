@@ -1,0 +1,25 @@
+{
+  "id": 43719,
+  "name": "Large guardian remains",
+  "models_2": [
+    44025
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1617,
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192
+}

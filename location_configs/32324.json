@@ -1,11 +1,9 @@
 {
   "id": 32324,
   "name": "Rope",
-  "models_2": {
-    "models": [
-      34978
-    ]
-  },
+  "models_2": [
+    34978
+  ],
   "unknown_22": true,
   "ambient": 20,
   "actions": [

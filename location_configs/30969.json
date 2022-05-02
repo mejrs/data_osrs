@@ -1,11 +1,9 @@
 {
   "id": 30969,
   "name": "Clam",
-  "models_2": {
-    "models": [
-      33829
-    ]
-  },
+  "models_2": [
+    33829
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 7671,

@@ -1,11 +1,9 @@
 {
   "id": 28892,
   "name": "Crack",
-  "models_2": {
-    "models": [
-      31601
-    ]
-  },
+  "models_2": [
+    31601
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,

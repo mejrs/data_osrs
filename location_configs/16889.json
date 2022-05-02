@@ -1,11 +1,9 @@
 {
   "id": 16889,
   "name": "Wooden chest",
-  "models_2": {
-    "models": [
-      12148
-    ]
-  },
+  "models_2": [
+    12148
+  ],
   "colours": [
     [
       6558,

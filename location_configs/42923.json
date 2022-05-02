@@ -1,18 +1,43 @@
 {
   "id": 42923,
+  "name": "Ornate trophy pedestal",
+  "models_2": [
+    41709,
+    41706
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "morphs_1": {
-    "varbit": 13154,
-    "ids": [
-      42854,
-      42859,
-      42860,
-      42861,
-      42862,
-      42863,
-      42864
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    "Remove-trophy",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      48476,
+      29646
+    ],
+    [
+      48941,
+      3371
+    ],
+    [
+      48918,
+      43150
+    ],
+    [
+      52160,
+      43169
+    ],
+    [
+      51887,
+      43162
     ]
-  }
+  ],
+  "category": 206
 }

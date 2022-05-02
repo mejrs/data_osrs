@@ -1,11 +1,9 @@
 {
   "id": 39934,
   "name": "Broken Shelves",
-  "models_2": {
-    "models": [
-      1271
-    ]
-  },
+  "models_2": [
+    1271
+  ],
   "actions": [
     null,
     null,

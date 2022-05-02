@@ -1,11 +1,9 @@
 {
   "id": 14573,
   "name": "Skeleton",
-  "models_2": {
-    "models": [
-      1078
-    ]
-  },
+  "models_2": [
+    1078
+  ],
   "is_transparent": true,
   "colours": [
     [

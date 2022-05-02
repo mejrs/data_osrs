@@ -1,9 +1,7 @@
 {
   "id": 25464,
   "name": "Potential fire",
-  "models_2": {
-    "models": [
-      26945
-    ]
-  }
+  "models_2": [
+    26945
+  ]
 }

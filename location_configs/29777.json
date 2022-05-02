@@ -1,11 +1,9 @@
 {
   "id": 29777,
   "name": "Chambers of Xeric",
-  "models_2": {
-    "models": [
-      32384
-    ]
-  },
+  "models_2": [
+    32384
+  ],
   "dim_x": 4,
   "is_transparent": true,
   "unknown_21": true,

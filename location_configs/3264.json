@@ -1,11 +1,9 @@
 {
   "id": 3264,
   "name": "Well",
-  "models_2": {
-    "models": [
-      695
-    ]
-  },
+  "models_2": [
+    695
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

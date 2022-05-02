@@ -1,12 +1,10 @@
 {
   "id": 40844,
   "name": "Frozen Pool of Restoration",
-  "models_2": {
-    "models": [
-      32096,
-      41515
-    ]
-  },
+  "models_2": [
+    32096,
+    41515
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

@@ -1,11 +1,9 @@
 {
   "id": 31693,
   "name": "Rope",
-  "models_2": {
-    "models": [
-      27837
-    ]
-  },
+  "models_2": [
+    27837
+  ],
   "ambient": 25,
   "actions": [
     "Climb",

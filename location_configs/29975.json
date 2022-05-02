@@ -1,11 +1,9 @@
 {
   "id": 29975,
   "name": "Fallen soldier",
-  "models_2": {
-    "models": [
-      32620
-    ]
-  },
+  "models_2": [
+    32620
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1

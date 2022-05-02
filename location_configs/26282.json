@@ -1,11 +1,9 @@
 {
   "id": 26282,
   "name": "<col=ff9040>Magic secateurs",
-  "models_2": {
-    "models": [
-      7303
-    ]
-  },
+  "models_2": [
+    7303
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 40,

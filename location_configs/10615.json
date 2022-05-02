@@ -1,11 +1,9 @@
 {
   "id": 10615,
   "name": "Steel Chest",
-  "models_2": {
-    "models": [
-      6616
-    ]
-  },
+  "models_2": [
+    6616
+  ],
   "ambient": 20,
   "colours": [
     [

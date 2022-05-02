@@ -1,11 +1,9 @@
 {
   "id": 6751,
   "name": "Ornamental fountain",
-  "models_2": {
-    "models": [
-      13191
-    ]
-  },
+  "models_2": [
+    13191
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 3647,

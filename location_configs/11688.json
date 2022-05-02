@@ -1,11 +1,9 @@
 {
   "id": 11688,
   "name": "Mature Axeman's Folly",
-  "models_2": {
-    "models": [
-      7775
-    ]
-  },
+  "models_2": [
+    7775
+  ],
   "is_transparent": true,
   "ambient": 15,
   "actions": [

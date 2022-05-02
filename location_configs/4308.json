@@ -1,11 +1,9 @@
 {
   "id": 4308,
   "name": "Pottery Oven",
-  "models_2": {
-    "models": [
-      1184
-    ]
-  },
+  "models_2": [
+    1184
+  ],
   "dim_y": 2,
   "actions": [
     "Fire",

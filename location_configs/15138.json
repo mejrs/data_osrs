@@ -1,11 +1,9 @@
 {
   "id": 15138,
   "name": "Dye Pots",
-  "models_2": {
-    "models": [
-      15055
-    ]
-  },
+  "models_2": [
+    15055
+  ],
   "colours": [
     [
       8121,

@@ -1,11 +1,9 @@
 {
   "id": 26113,
   "name": "Bookcase",
-  "models_2": {
-    "models": [
-      27323
-    ]
-  },
+  "models_2": [
+    27323
+  ],
   "dim_y": 2,
   "ambient": 20,
   "actions": [

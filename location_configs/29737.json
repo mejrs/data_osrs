@@ -1,11 +1,9 @@
 {
   "id": 29737,
   "name": "Rotten stump",
-  "models_2": {
-    "models": [
-      1685
-    ]
-  },
+  "models_2": [
+    1685
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,

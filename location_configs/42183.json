@@ -1,11 +1,9 @@
 {
   "id": 42183,
   "name": "Tombstone",
-  "models_2": {
-    "models": [
-      1364
-    ]
-  },
+  "models_2": [
+    1364
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "ambient": -20,

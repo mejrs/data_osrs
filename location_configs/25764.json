@@ -1,11 +1,9 @@
 {
   "id": 25764,
   "name": "Piano",
-  "models_2": {
-    "models": [
-      1948
-    ]
-  },
+  "models_2": [
+    1948
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 30,

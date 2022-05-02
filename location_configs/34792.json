@@ -1,11 +1,9 @@
 {
   "id": 34792,
   "name": "Mysterious glow",
-  "models_2": {
-    "models": [
-      2317
-    ]
-  },
+  "models_2": [
+    2317
+  ],
   "unknown_24": 502,
   "ambient": 60,
   "colours": [

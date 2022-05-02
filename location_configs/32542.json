@@ -1,11 +1,9 @@
 {
   "id": 32542,
   "name": "Hole",
-  "models_2": {
-    "models": [
-      32385
-    ]
-  },
+  "models_2": [
+    32385
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

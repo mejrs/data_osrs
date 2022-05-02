@@ -1,11 +1,9 @@
 {
   "id": 1231,
   "name": "Vine",
-  "models_2": {
-    "models": [
-      1622
-    ]
-  },
+  "models_2": [
+    1622
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_22": true

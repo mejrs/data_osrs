@@ -1,12 +1,10 @@
 {
   "id": 18855,
   "name": "Hardy goutweed",
-  "models_2": {
-    "models": [
-      19141,
-      19140
-    ]
-  },
+  "models_2": [
+    19141,
+    19140
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

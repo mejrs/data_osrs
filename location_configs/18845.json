@@ -1,11 +1,9 @@
 {
   "id": 18845,
   "name": "Soil patch",
-  "models_2": {
-    "models": [
-      19141
-    ]
-  },
+  "models_2": [
+    19141
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

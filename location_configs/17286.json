@@ -1,9 +1,7 @@
 {
   "id": 17286,
   "name": "Hoisted sail",
-  "models_2": {
-    "models": [
-      17281
-    ]
-  }
+  "models_2": [
+    17281
+  ]
 }

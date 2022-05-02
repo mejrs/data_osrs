@@ -1,11 +1,9 @@
 {
   "id": 13178,
   "name": "Icon of Bob",
-  "models_2": {
-    "models": [
-      12487
-    ]
-  },
+  "models_2": [
+    12487
+  ],
   "dim_x": 2,
   "ambient": 15,
   "actions": [

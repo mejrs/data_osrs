@@ -1,11 +1,9 @@
 {
   "id": 10957,
   "name": "Headless statue",
-  "models_2": {
-    "models": [
-      10905
-    ]
-  },
+  "models_2": [
+    10905
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

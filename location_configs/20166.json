@@ -1,12 +1,10 @@
 {
   "id": 20166,
   "name": "Penance Runner statue",
-  "models_2": {
-    "models": [
-      20678,
-      20675
-    ]
-  },
+  "models_2": [
+    20678,
+    20675
+  ],
   "unknown_19": 1,
   "actions": [
     "Inspect",

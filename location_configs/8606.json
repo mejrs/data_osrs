@@ -1,13 +1,11 @@
 {
   "id": 8606,
   "name": "Strawberry plant",
-  "models_2": {
-    "models": [
-      8222,
-      8167,
-      7766
-    ]
-  },
+  "models_2": [
+    8222,
+    8167,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     null,

@@ -1,11 +1,9 @@
 {
   "id": 31878,
   "name": "Totem Pole",
-  "models_2": {
-    "models": [
-      1759
-    ]
-  },
+  "models_2": [
+    1759
+  ],
   "actions": [
     "Look",
     null,

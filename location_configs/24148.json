@@ -1,11 +1,9 @@
 {
   "id": 24148,
   "name": "Rocks",
-  "models_2": {
-    "models": [
-      11800
-    ]
-  },
+  "models_2": [
+    11800
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "ambient": 15,

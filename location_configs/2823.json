@@ -1,11 +1,9 @@
 {
   "id": 2823,
   "name": "Hole",
-  "models_2": {
-    "models": [
-      1464
-    ]
-  },
+  "models_2": [
+    1464
+  ],
   "actions": [
     "Climb-down",
     null,

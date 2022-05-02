@@ -1,9 +1,7 @@
 {
   "id": 23185,
   "name": "Wreck",
-  "models_2": {
-    "models": [
-      18324
-    ]
-  }
+  "models_2": [
+    18324
+  ]
 }

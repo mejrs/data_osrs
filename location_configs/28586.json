@@ -1,12 +1,10 @@
 {
   "id": 28586,
   "name": "Pot of dynamite",
-  "models_2": {
-    "models": [
-      30186,
-      30183
-    ]
-  },
+  "models_2": [
+    30186,
+    30183
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 7204,

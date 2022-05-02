@@ -1,11 +1,9 @@
 {
   "id": 8992,
   "name": "Net trap",
-  "models_2": {
-    "models": [
-      19932
-    ]
-  },
+  "models_2": [
+    19932
+  ],
   "unknown_17": false,
   "actions": [
     "Dismantle",

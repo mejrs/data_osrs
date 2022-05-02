@@ -1,11 +1,9 @@
 {
   "id": 27092,
   "name": "Insurance stall",
-  "models_2": {
-    "models": [
-      29665
-    ]
-  },
+  "models_2": [
+    29665
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_27": false,

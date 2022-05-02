@@ -1,11 +1,9 @@
 {
   "id": 2935,
   "name": "Winch",
-  "models_2": {
-    "models": [
-      1778
-    ]
-  },
+  "models_2": [
+    1778
+  ],
   "dim_x": 4,
   "dim_y": 5,
   "actions": [

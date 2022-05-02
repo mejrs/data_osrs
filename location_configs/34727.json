@@ -1,11 +1,9 @@
 {
   "id": 34727,
   "name": "Keyhole",
-  "models_2": {
-    "models": [
-      37136
-    ]
-  },
+  "models_2": [
+    37136
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "unknown_19": 1,

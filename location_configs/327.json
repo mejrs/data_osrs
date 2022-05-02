@@ -1,9 +1,7 @@
 {
   "id": 327,
   "name": "Broken cart wheel",
-  "models_2": {
-    "models": [
-      1544
-    ]
-  }
+  "models_2": [
+    1544
+  ]
 }

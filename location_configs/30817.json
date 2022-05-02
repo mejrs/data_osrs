@@ -1,11 +1,9 @@
 {
   "id": 30817,
   "name": "Boxes",
-  "models_2": {
-    "models": [
-      33926
-    ]
-  },
+  "models_2": [
+    33926
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 20,

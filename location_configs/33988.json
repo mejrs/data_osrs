@@ -1,12 +1,10 @@
 {
   "id": 33988,
   "name": "Iasor plant",
-  "models_2": {
-    "models": [
-      36849,
-      7768
-    ]
-  },
+  "models_2": [
+    36849,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 33,
   "ambient": 10,

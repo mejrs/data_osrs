@@ -1,11 +1,9 @@
 {
   "id": 20790,
   "name": "Entrance",
-  "models_2": {
-    "models": [
-      15589
-    ]
-  },
+  "models_2": [
+    15589
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "actions": [

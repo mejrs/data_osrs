@@ -1,12 +1,10 @@
 {
   "id": 7804,
   "name": "Dead Calquat",
-  "models_2": {
-    "models": [
-      7956,
-      7768
-    ]
-  },
+  "models_2": [
+    7956,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

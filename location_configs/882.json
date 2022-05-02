@@ -1,11 +1,9 @@
 {
   "id": 882,
   "name": "Manhole",
-  "models_2": {
-    "models": [
-      25035
-    ]
-  },
+  "models_2": [
+    25035
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "actions": [

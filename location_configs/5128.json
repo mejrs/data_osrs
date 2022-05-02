@@ -1,11 +1,9 @@
 {
   "id": 5128,
   "name": "Fern",
-  "models_2": {
-    "models": [
-      12932
-    ]
-  },
+  "models_2": [
+    12932
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

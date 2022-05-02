@@ -1,11 +1,9 @@
 {
   "id": 8845,
   "name": "City Gate",
-  "models_2": {
-    "models": [
-      8341
-    ]
-  },
+  "models_2": [
+    8341
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "actions": [

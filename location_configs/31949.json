@@ -1,11 +1,9 @@
 {
   "id": 31949,
   "name": "Bank Box",
-  "models_2": {
-    "models": [
-      34593
-    ]
-  },
+  "models_2": [
+    34593
+  ],
   "unknown_19": 1,
   "unknown_24": 7824,
   "actions": [

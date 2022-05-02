@@ -1,11 +1,9 @@
 {
   "id": 20826,
   "name": "Rack of barrels",
-  "models_2": {
-    "models": [
-      9860
-    ]
-  },
+  "models_2": [
+    9860
+  ],
   "ambient": 10,
   "contrast": 10,
   "colours": [

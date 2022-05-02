@@ -1,11 +1,9 @@
 {
   "id": 16375,
   "name": "Potion shelves",
-  "models_2": {
-    "models": [
-      16124
-    ]
-  },
+  "models_2": [
+    16124
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "colours": [

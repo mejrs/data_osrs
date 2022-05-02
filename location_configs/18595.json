@@ -1,11 +1,9 @@
 {
   "id": 18595,
   "name": "Hatch",
-  "models_2": {
-    "models": [
-      18707
-    ]
-  },
+  "models_2": [
+    18707
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

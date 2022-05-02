@@ -1,11 +1,9 @@
 {
   "id": 28581,
   "name": "Cavity",
-  "models_2": {
-    "models": [
-      30187
-    ]
-  },
+  "models_2": [
+    30187
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,

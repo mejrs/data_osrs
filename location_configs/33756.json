@@ -1,12 +1,10 @@
 {
   "id": 33756,
   "name": "Dead Potato cactus",
-  "models_2": {
-    "models": [
-      36808,
-      7767
-    ]
-  },
+  "models_2": [
+    36808,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

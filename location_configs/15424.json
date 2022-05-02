@@ -1,11 +1,9 @@
 {
   "id": 15424,
   "name": "Telescope space",
-  "models_2": {
-    "models": [
-      12878
-    ]
-  },
+  "models_2": [
+    12878
+  ],
   "actions": [
     null,
     null,

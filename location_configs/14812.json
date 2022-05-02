@@ -1,11 +1,9 @@
 {
   "id": 14812,
   "name": "Creeper",
-  "models_2": {
-    "models": [
-      14757
-    ]
-  },
+  "models_2": [
+    14757
+  ],
   "colours": [
     [
       11148,

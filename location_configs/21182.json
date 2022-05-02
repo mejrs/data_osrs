@@ -1,11 +1,9 @@
 {
   "id": 21182,
   "name": "Destroyed bird hide",
-  "models_2": {
-    "models": [
-      21577
-    ]
-  },
+  "models_2": [
+    21577
+  ],
   "dim_x": 3,
   "dim_y": 4,
   "unknown_19": 1,

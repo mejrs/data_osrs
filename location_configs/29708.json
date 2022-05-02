@@ -1,11 +1,9 @@
 {
   "id": 29708,
   "name": "Scoreboard",
-  "models_2": {
-    "models": [
-      39514
-    ]
-  },
+  "models_2": [
+    39514
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

@@ -1,0 +1,21 @@
+{
+  "id": 43966,
+  "models": [
+    [
+      0,
+      44501
+    ]
+  ],
+  "name": "Door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0
+}

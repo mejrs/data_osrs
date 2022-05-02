@@ -1,12 +1,10 @@
 {
   "id": 34914,
   "name": "Crystal tree",
-  "models_2": {
-    "models": [
-      37357,
-      7767
-    ]
-  },
+  "models_2": [
+    37357,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 30,

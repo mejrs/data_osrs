@@ -1,11 +1,9 @@
 {
   "id": 36219,
   "name": "Mine cart",
-  "models_2": {
-    "models": [
-      37846
-    ]
-  },
+  "models_2": [
+    37846
+  ],
   "dim_y": 3,
   "unknown_21": true,
   "unknown_22": true,

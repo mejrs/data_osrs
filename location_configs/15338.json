@@ -1,11 +1,9 @@
 {
   "id": 15338,
   "name": "Door space",
-  "models_2": {
-    "models": [
-      12651
-    ]
-  },
+  "models_2": [
+    12651
+  ],
   "dim_x": 2,
   "actions": [
     null,

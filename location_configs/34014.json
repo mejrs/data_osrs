@@ -1,12 +1,10 @@
 {
   "id": 34014,
   "name": "Dragonfruit tree",
-  "models_2": {
-    "models": [
-      36648,
-      7767
-    ]
-  },
+  "models_2": [
+    36648,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 10,

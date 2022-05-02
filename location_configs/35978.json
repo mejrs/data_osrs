@@ -1,11 +1,9 @@
 {
   "id": 35978,
   "name": "Crystal Singing Recipes",
-  "models_2": {
-    "models": [
-      37606
-    ]
-  },
+  "models_2": [
+    37606
+  ],
   "actions": [
     "Read",
     null,

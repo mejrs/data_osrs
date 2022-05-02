@@ -1,12 +1,10 @@
 {
   "id": 20331,
-  "name": "Dagger stall",
-  "models_2": {
-    "models": [
-      1421,
-      20787
-    ]
-  },
+  "name": "Market stall",
+  "models_2": [
+    1421,
+    20787
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 15,

@@ -1,11 +1,9 @@
 {
   "id": 39160,
   "name": "Corpse cart",
-  "models_2": {
-    "models": [
-      40351
-    ]
-  },
+  "models_2": [
+    40351
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "unknown_21": true,

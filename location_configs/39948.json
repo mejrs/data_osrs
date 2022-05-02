@@ -1,12 +1,10 @@
 {
   "id": 39948,
   "name": "Dresser",
-  "models_2": {
-    "models": [
-      12468,
-      40790
-    ]
-  },
+  "models_2": [
+    12468,
+    40790
+  ],
   "ambient": 25,
   "actions": [
     null,

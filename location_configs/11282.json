@@ -1,11 +1,9 @@
 {
   "id": 11282,
   "name": "Sail",
-  "models_2": {
-    "models": [
-      1859
-    ]
-  },
+  "models_2": [
+    1859
+  ],
   "dim_y": 3,
   "colours": [
     [

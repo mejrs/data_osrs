@@ -1,11 +1,9 @@
 {
   "id": 6929,
   "name": "Bone support",
-  "models_2": {
-    "models": [
-      6897
-    ]
-  },
+  "models_2": [
+    6897
+  ],
   "unknown_21": true,
   "unknown_22": true
 }

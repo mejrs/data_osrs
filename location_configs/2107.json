@@ -1,11 +1,9 @@
 {
   "id": 2107,
   "name": "Danger sign",
-  "models_2": {
-    "models": [
-      1552
-    ]
-  },
+  "models_2": [
+    1552
+  ],
   "actions": [
     "Read",
     null,

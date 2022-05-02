@@ -1,10 +1,8 @@
 {
   "id": 8854,
-  "models_2": {
-    "models": [
-      8345
-    ]
-  },
+  "models_2": [
+    8345
+  ],
   "unknown_19": 0,
   "unknown_21": true,
   "mirror": true

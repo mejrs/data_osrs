@@ -1,11 +1,9 @@
 {
   "id": 27108,
   "name": "Charcoal furnace",
-  "models_2": {
-    "models": [
-      29850
-    ]
-  },
+  "models_2": [
+    29850
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

@@ -1,12 +1,10 @@
 {
   "id": 16244,
   "name": "Medical table",
-  "models_2": {
-    "models": [
-      16104,
-      9590
-    ]
-  },
+  "models_2": [
+    16104,
+    9590
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 20,

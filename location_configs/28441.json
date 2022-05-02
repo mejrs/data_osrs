@@ -1,11 +1,9 @@
 {
   "id": 28441,
   "name": "Grave",
-  "models_2": {
-    "models": [
-      30479
-    ]
-  },
+  "models_2": [
+    30479
+  ],
   "unknown_27": false,
   "mapscene": 34
 }

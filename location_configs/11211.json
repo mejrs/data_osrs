@@ -1,11 +1,9 @@
 {
   "id": 11211,
   "name": "Gangplank",
-  "models_2": {
-    "models": [
-      1844
-    ]
-  },
+  "models_2": [
+    1844
+  ],
   "unknown_27": false,
   "actions": [
     "Cross",

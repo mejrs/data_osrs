@@ -1,11 +1,9 @@
 {
   "id": 15894,
   "name": "Bamboo Ladder",
-  "models_2": {
-    "models": [
-      15746
-    ]
-  },
+  "models_2": [
+    15746
+  ],
   "colours": [
     [
       6585,

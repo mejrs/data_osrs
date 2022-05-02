@@ -1,11 +1,9 @@
 {
   "id": 27065,
   "name": "Log raft",
-  "models_2": {
-    "models": [
-      1461
-    ]
-  },
+  "models_2": [
+    1461
+  ],
   "unknown_19": 1,
   "actions": [
     "Board",

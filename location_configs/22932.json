@@ -1,11 +1,9 @@
 {
   "id": 22932,
   "name": "Stairs",
-  "models_2": {
-    "models": [
-      23733
-    ]
-  },
+  "models_2": [
+    23733
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

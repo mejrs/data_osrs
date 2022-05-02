@@ -1,11 +1,9 @@
 {
   "id": 9088,
   "name": "Coke",
-  "models_2": {
-    "models": [
-      9038
-    ]
-  },
+  "models_2": [
+    9038
+  ],
   "actions": [
     "Collect",
     null,

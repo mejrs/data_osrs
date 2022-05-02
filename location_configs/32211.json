@@ -1,11 +1,9 @@
 {
   "id": 32211,
   "name": "Rough hewn steps",
-  "models_2": {
-    "models": [
-      26714
-    ]
-  },
+  "models_2": [
+    26714
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

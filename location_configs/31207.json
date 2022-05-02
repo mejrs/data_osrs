@@ -1,12 +1,10 @@
 {
   "id": 31207,
   "name": "Small Fossil Display",
-  "models_2": {
-    "models": [
-      33316,
-      33488
-    ]
-  },
+  "models_2": [
+    33316,
+    33488
+  ],
   "actions": [
     "Add to",
     null,

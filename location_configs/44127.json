@@ -1,0 +1,11 @@
+{
+  "id": 44127,
+  "name": "Grass",
+  "models_2": [
+    44702
+  ],
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 20,
+  "model": false
+}

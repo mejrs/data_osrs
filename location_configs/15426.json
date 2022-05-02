@@ -1,11 +1,9 @@
 {
   "id": 15426,
   "name": "Throne space",
-  "models_2": {
-    "models": [
-      12879
-    ]
-  },
+  "models_2": [
+    12879
+  ],
   "actions": [
     null,
     null,

@@ -1,12 +1,10 @@
 {
   "id": 24044,
   "name": "Statue of Saradomin",
-  "models_2": {
-    "models": [
-      9146,
-      9148
-    ]
-  },
+  "models_2": [
+    9146,
+    9148
+  ],
   "ambient": 10,
   "colours": [
     [

@@ -1,11 +1,9 @@
 {
   "id": 40077,
   "name": "Shelves space",
-  "models_2": {
-    "models": [
-      40835
-    ]
-  },
+  "models_2": [
+    40835
+  ],
   "actions": [
     null,
     null,

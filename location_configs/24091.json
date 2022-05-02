@@ -1,11 +1,9 @@
 {
   "id": 24091,
   "name": "Table",
-  "models_2": {
-    "models": [
-      11562
-    ]
-  },
+  "models_2": [
+    11562
+  ],
   "dim_x": 3,
   "colours": [
     [

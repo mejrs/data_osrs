@@ -1,11 +1,9 @@
 {
   "id": 32076,
   "name": "Ancient Incubator",
-  "models_2": {
-    "models": [
-      35009
-    ]
-  },
+  "models_2": [
+    35009
+  ],
   "dim_x": 4,
   "dim_y": 2,
   "unknown_19": 1,

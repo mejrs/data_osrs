@@ -1,11 +1,9 @@
 {
   "id": 18781,
   "name": "Armour case",
-  "models_2": {
-    "models": [
-      18996
-    ]
-  },
+  "models_2": [
+    18996
+  ],
   "ambient": 35,
   "actions": [
     "Search",

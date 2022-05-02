@@ -1,11 +1,9 @@
 {
   "id": 15440,
   "name": "Nothing",
-  "models_2": {
-    "models": [
-      596
-    ]
-  },
+  "models_2": [
+    596
+  ],
   "actions": [
     null,
     null,

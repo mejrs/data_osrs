@@ -1,11 +1,9 @@
 {
   "id": 12512,
   "name": "Coral",
-  "models_2": {
-    "models": [
-      13749
-    ]
-  },
+  "models_2": [
+    13749
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

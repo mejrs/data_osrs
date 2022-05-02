@@ -1,11 +1,9 @@
 {
   "id": 13594,
   "name": "Firebox",
-  "models_2": {
-    "models": [
-      14902
-    ]
-  },
+  "models_2": [
+    14902
+  ],
   "dim_x": 2,
   "dim_y": 2
 }

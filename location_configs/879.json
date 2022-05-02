@@ -1,11 +1,9 @@
 {
   "id": 879,
   "name": "Fountain",
-  "models_2": {
-    "models": [
-      1497
-    ]
-  },
+  "models_2": [
+    1497
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

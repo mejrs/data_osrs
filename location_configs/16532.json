@@ -1,11 +1,9 @@
 {
   "id": 16532,
   "name": "Jutting wall",
-  "models_2": {
-    "models": [
-      9234
-    ]
-  },
+  "models_2": [
+    9234
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_22": true,

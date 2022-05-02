@@ -1,10 +1,8 @@
 {
   "id": 23252,
   "name": "Wreck",
-  "models_2": {
-    "models": [
-      24103
-    ]
-  },
+  "models_2": [
+    24103
+  ],
   "unknown_22": true
 }

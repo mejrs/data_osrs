@@ -1,12 +1,10 @@
 {
   "id": 20332,
   "name": "Craft stall",
-  "models_2": {
-    "models": [
-      1421,
-      20786
-    ]
-  },
+  "models_2": [
+    1421,
+    20786
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 15,

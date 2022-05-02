@@ -1,11 +1,9 @@
 {
   "id": 3662,
   "name": "Cooking pot",
-  "models_2": {
-    "models": [
-      19167
-    ]
-  },
+  "models_2": [
+    19167
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 479,

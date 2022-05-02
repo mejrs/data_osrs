@@ -1,11 +1,9 @@
 {
   "id": 10727,
   "name": "Bones",
-  "models_2": {
-    "models": [
-      10594
-    ]
-  },
+  "models_2": [
+    10594
+  ],
   "unknown_19": 1,
   "ambient": 15,
   "actions": [

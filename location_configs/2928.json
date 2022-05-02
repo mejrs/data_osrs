@@ -1,11 +1,9 @@
 {
   "id": 2928,
   "name": "Carved rock",
-  "models_2": {
-    "models": [
-      693
-    ]
-  },
+  "models_2": [
+    693
+  ],
   "actions": [
     "Look",
     "Search",

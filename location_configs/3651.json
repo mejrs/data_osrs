@@ -1,11 +1,9 @@
 {
   "id": 3651,
   "name": "Cave entrance",
-  "models_2": {
-    "models": [
-      15621
-    ]
-  },
+  "models_2": [
+    15621
+  ],
   "unknown_22": true,
   "ambient": 70
 }

@@ -1,14 +1,12 @@
 {
   "id": 13372,
   "name": "Baby red dragon",
-  "models_2": {
-    "models": [
-      17411,
-      17427,
-      17421,
-      17417
-    ]
-  },
+  "models_2": [
+    17411,
+    17427,
+    17421,
+    17417
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

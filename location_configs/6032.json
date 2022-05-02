@@ -1,11 +1,9 @@
 {
   "id": 6032,
   "name": "Boiler",
-  "models_2": {
-    "models": [
-      6001
-    ]
-  },
+  "models_2": [
+    6001
+  ],
   "dim_y": 2,
   "unknown_78": {
     "unknown_1": 3142,

@@ -1,11 +1,9 @@
 {
   "id": 34683,
   "name": "Magic Mirror",
-  "models_2": {
-    "models": [
-      36981
-    ]
-  },
+  "models_2": [
+    36981
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_24": 8295,

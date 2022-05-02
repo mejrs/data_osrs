@@ -1,11 +1,9 @@
 {
   "id": 40361,
   "name": "Mounted Head",
-  "models_2": {
-    "models": [
-      41112
-    ]
-  },
+  "models_2": [
+    41112
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

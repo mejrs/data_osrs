@@ -1,11 +1,9 @@
 {
   "id": 29239,
   "name": "Pool of Rejuvenation",
-  "models_2": {
-    "models": [
-      32112
-    ]
-  },
+  "models_2": [
+    32112
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

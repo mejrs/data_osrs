@@ -1,11 +1,9 @@
 {
   "id": 18833,
   "name": "Troll ladder",
-  "models_2": {
-    "models": [
-      19125
-    ]
-  },
+  "models_2": [
+    19125
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

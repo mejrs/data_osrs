@@ -1,11 +1,9 @@
 {
   "id": 3862,
   "name": "Burning bones",
-  "models_2": {
-    "models": [
-      3880
-    ]
-  },
+  "models_2": [
+    3880
+  ],
   "unknown_17": false,
   "unknown_24": 475,
   "unknown_78": {

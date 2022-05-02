@@ -1,11 +1,9 @@
 {
   "id": 27044,
   "name": "<col=ffff00>The Overseer</col>",
-  "models_2": {
-    "models": [
-      29518
-    ]
-  },
+  "models_2": [
+    29518
+  ],
   "dim_x": 6,
   "dim_y": 6,
   "unknown_19": 1,

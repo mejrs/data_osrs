@@ -1,11 +1,9 @@
 {
   "id": 40996,
   "name": "Damaged mast",
-  "models_2": {
-    "models": [
-      41833
-    ]
-  },
+  "models_2": [
+    41833
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

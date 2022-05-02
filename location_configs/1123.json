@@ -1,11 +1,9 @@
 {
   "id": 1123,
   "name": "Bush",
-  "models_2": {
-    "models": [
-      1640
-    ]
-  },
+  "models_2": [
+    1640
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,
@@ -15,6 +13,7 @@
       8483
     ]
   ],
+  "model": false,
   "scale_x": 80,
   "scale_y": 80,
   "scale_z": 80,

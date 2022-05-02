@@ -1,11 +1,9 @@
 {
   "id": 26857,
   "name": "Scratching post space",
-  "models_2": {
-    "models": [
-      28952
-    ]
-  },
+  "models_2": [
+    28952
+  ],
   "actions": [
     null,
     null,

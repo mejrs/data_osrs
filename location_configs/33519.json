@@ -1,11 +1,9 @@
 {
   "id": 33519,
   "name": "Refinery",
-  "models_2": {
-    "models": [
-      36222
-    ]
-  },
+  "models_2": [
+    36222
+  ],
   "dim_x": 3,
   "scale_x": 104,
   "scale_y": 104,

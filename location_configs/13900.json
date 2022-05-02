@@ -1,11 +1,9 @@
 {
   "id": 13900,
   "name": "Black hole",
-  "models_2": {
-    "models": [
-      14237
-    ]
-  },
+  "models_2": [
+    14237
+  ],
   "dim_y": 2,
   "unknown_21": true,
   "ambient": 50,

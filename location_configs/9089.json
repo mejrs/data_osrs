@@ -1,11 +1,9 @@
 {
   "id": 9089,
   "name": "Temperature gauge",
-  "models_2": {
-    "models": [
-      9043
-    ]
-  },
+  "models_2": [
+    9043
+  ],
   "unknown_22": true,
   "actions": [
     "Read",

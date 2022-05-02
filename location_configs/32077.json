@@ -1,11 +1,9 @@
 {
   "id": 32077,
   "name": "Ancient Equipment",
-  "models_2": {
-    "models": [
-      34708
-    ]
-  },
+  "models_2": [
+    34708
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "unknown_22": true,

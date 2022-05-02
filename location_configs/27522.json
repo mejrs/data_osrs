@@ -1,11 +1,9 @@
 {
   "id": 27522,
   "name": "Apple basket",
-  "models_2": {
-    "models": [
-      30227
-    ]
-  },
+  "models_2": [
+    30227
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "actions": [

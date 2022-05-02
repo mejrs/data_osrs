@@ -1,11 +1,9 @@
 {
   "id": 30271,
   "name": "Node",
-  "models_2": {
-    "models": [
-      33126
-    ]
-  },
+  "models_2": [
+    33126
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_21": true,

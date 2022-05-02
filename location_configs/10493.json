@@ -1,11 +1,9 @@
 {
   "id": 10493,
   "name": "Ladder",
-  "models_2": {
-    "models": [
-      5187
-    ]
-  },
+  "models_2": [
+    5187
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 30,

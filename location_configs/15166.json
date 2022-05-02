@@ -1,11 +1,9 @@
 {
   "id": 15166,
   "name": "Armour",
-  "models_2": {
-    "models": [
-      5919
-    ]
-  },
+  "models_2": [
+    5919
+  ],
   "unknown_19": 1,
   "colours": [
     [

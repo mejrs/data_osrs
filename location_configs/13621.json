@@ -1,11 +1,9 @@
 {
   "id": 13621,
   "name": "Fairy ring",
-  "models_2": {
-    "models": [
-      32109
-    ]
-  },
+  "models_2": [
+    32109
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [

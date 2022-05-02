@@ -1,11 +1,9 @@
 {
   "id": 24969,
   "name": "Fireplace",
-  "models_2": {
-    "models": [
-      2249
-    ]
-  },
+  "models_2": [
+    2249
+  ],
   "unknown_24": 477,
   "category": 152,
   "unknown_78": {

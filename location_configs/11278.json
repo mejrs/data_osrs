@@ -1,11 +1,9 @@
 {
   "id": 11278,
   "name": "Mast",
-  "models_2": {
-    "models": [
-      1870
-    ]
-  },
+  "models_2": [
+    1870
+  ],
   "colours": [
     [
       5559,

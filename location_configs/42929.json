@@ -1,17 +1,18 @@
 {
   "id": 42929,
-  "name": "Santa's Throne",
-  "models_2": {
-    "models": [
-      43108
-    ]
-  },
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_21": true,
-  "ambient": 10,
-  "contrast": 15,
-  "scale_x": 112,
-  "scale_y": 112,
-  "scale_z": 112
+  "name": "Oak outfit stand",
+  "models_2": [
+    43416
+  ],
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    "Remove-outfit",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 206
 }

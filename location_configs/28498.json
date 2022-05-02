@@ -1,11 +1,9 @@
 {
   "id": 28498,
   "name": "Volcanic sulphur",
-  "models_2": {
-    "models": [
-      30858
-    ]
-  },
+  "models_2": [
+    30858
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

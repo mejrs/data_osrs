@@ -1,13 +1,11 @@
 {
   "id": 16236,
   "name": "Wounded fairy",
-  "models_2": {
-    "models": [
-      16110,
-      16100,
-      16103
-    ]
-  },
+  "models_2": [
+    16110,
+    16100,
+    16103
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_19": 1,

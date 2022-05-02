@@ -1,12 +1,10 @@
 {
   "id": 8580,
   "name": "Onion seeds",
-  "models_2": {
-    "models": [
-      8207,
-      7766
-    ]
-  },
+  "models_2": [
+    8207,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     null,

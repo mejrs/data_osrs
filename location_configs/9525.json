@@ -1,11 +1,9 @@
 {
   "id": 9525,
   "name": "Cart",
-  "models_2": {
-    "models": [
-      1480
-    ]
-  },
+  "models_2": [
+    1480
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "ambient": 25,

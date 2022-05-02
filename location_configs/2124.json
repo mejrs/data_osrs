@@ -1,11 +1,9 @@
 {
   "id": 2124,
   "name": "Statue",
-  "models_2": {
-    "models": [
-      1527
-    ]
-  },
+  "models_2": [
+    1527
+  ],
   "ambient": 30,
   "colours": [
     [

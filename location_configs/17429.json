@@ -1,12 +1,10 @@
 {
   "id": 17429,
   "name": "Rusty key",
-  "models_2": {
-    "models": [
-      17468,
-      17471
-    ]
-  },
+  "models_2": [
+    17468,
+    17471
+  ],
   "actions": [
     "Take",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 18711,
   "name": "Schematic crate",
-  "models_2": {
-    "models": [
-      18661
-    ]
-  },
+  "models_2": [
+    18661
+  ],
   "actions": [
     "Take-from",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 24049,
   "name": "Rockery",
-  "models_2": {
-    "models": [
-      1711
-    ]
-  },
+  "models_2": [
+    1711
+  ],
   "unknown_17": false,
   "colours": [
     [

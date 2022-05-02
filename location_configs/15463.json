@@ -1,11 +1,9 @@
 {
   "id": 15463,
   "name": "Hat stand",
-  "models_2": {
-    "models": [
-      1185
-    ]
-  },
+  "models_2": [
+    1185
+  ],
   "colours": [
     [
       10126,

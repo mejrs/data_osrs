@@ -1,11 +1,9 @@
 {
   "id": 6882,
   "name": "Crushed barricade",
-  "models_2": {
-    "models": [
-      6789
-    ]
-  },
+  "models_2": [
+    6789
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "actions": [

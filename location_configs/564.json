@@ -1,9 +1,7 @@
 {
   "id": 564,
   "name": "Statue of a queen",
-  "models_2": {
-    "models": [
-      1523
-    ]
-  }
+  "models_2": [
+    1523
+  ]
 }

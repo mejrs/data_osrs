@@ -1,11 +1,9 @@
 {
   "id": 2541,
   "name": "Sewer pipe",
-  "models_2": {
-    "models": [
-      11450
-    ]
-  },
+  "models_2": [
+    11450
+  ],
   "actions": [
     "Open",
     null,

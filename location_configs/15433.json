@@ -1,11 +1,9 @@
 {
   "id": 15433,
   "name": "Decoration space",
-  "models_2": {
-    "models": [
-      12880
-    ]
-  },
+  "models_2": [
+    12880
+  ],
   "dim_x": 2,
   "actions": [
     null,

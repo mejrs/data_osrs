@@ -1,11 +1,9 @@
 {
   "id": 22281,
   "name": "Locked door",
-  "models_2": {
-    "models": [
-      22882
-    ]
-  },
+  "models_2": [
+    22882
+  ],
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 20,

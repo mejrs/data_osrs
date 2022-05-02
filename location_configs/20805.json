@@ -1,11 +1,9 @@
 {
   "id": 20805,
-  "models_2": {
-    "models": [
-      9787,
-      9790
-    ]
-  },
+  "models_2": [
+    9787,
+    9790
+  ],
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_69": 11,

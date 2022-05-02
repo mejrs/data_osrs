@@ -1,11 +1,9 @@
 {
   "id": 27431,
   "name": "Sack",
-  "models_2": {
-    "models": [
-      30134
-    ]
-  },
+  "models_2": [
+    30134
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 425,
   "name": "Bed",
-  "models_2": {
-    "models": [
-      1288
-    ]
-  },
+  "models_2": [
+    1288
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "colours": [

@@ -1,11 +1,9 @@
 {
   "id": 26109,
   "name": "Spiders' nest",
-  "models_2": {
-    "models": [
-      27296
-    ]
-  },
+  "models_2": [
+    27296
+  ],
   "actions": [
     null,
     "Investigate",

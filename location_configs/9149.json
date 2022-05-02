@@ -1,11 +1,9 @@
 {
   "id": 9149,
   "name": "Gold Screen",
-  "models_2": {
-    "models": [
-      1149
-    ]
-  },
+  "models_2": [
+    1149
+  ],
   "dim_y": 2,
   "colours": [
     [

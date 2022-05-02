@@ -1,11 +1,9 @@
 {
   "id": 1326,
   "name": "Tropical tree",
-  "models_2": {
-    "models": [
-      1676
-    ]
-  },
+  "models_2": [
+    1676
+  ],
   "ambient": 10,
   "contrast": 10,
   "mapscene": 0

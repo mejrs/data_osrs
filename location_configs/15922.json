@@ -1,9 +1,7 @@
 {
   "id": 15922,
   "name": "Bottle Machine",
-  "models_2": {
-    "models": [
-      15802
-    ]
-  }
+  "models_2": [
+    15802
+  ]
 }

@@ -1,11 +1,9 @@
 {
   "id": 1306,
   "name": "Cage door",
-  "models_2": {
-    "models": [
-      31248
-    ]
-  },
+  "models_2": [
+    31248
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 30602,
   "name": "Sulliuscep",
-  "models_2": {
-    "models": [
-      33700
-    ]
-  },
+  "models_2": [
+    33700
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

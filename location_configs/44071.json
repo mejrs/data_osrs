@@ -1,0 +1,11 @@
+{
+  "id": 44071,
+  "name": "Cactus",
+  "models_2": [
+    44720
+  ],
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 10,
+  "mapscene": 4
+}

@@ -1,11 +1,9 @@
 {
   "id": 34728,
   "name": "Coins",
-  "models_2": {
-    "models": [
-      37133
-    ]
-  },
+  "models_2": [
+    37133
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

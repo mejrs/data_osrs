@@ -1,11 +1,9 @@
 {
   "id": 13400,
   "name": "Dartboard",
-  "models_2": {
-    "models": [
-      12955
-    ]
-  },
+  "models_2": [
+    12955
+  ],
   "actions": [
     "Throw-at",
     null,

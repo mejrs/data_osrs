@@ -1,9 +1,7 @@
 {
   "id": 31064,
   "name": "Large Fossil Support",
-  "models_2": {
-    "models": [
-      33357
-    ]
-  }
+  "models_2": [
+    33357
+  ]
 }

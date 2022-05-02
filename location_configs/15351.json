@@ -1,11 +1,9 @@
 {
   "id": 15351,
   "name": "Floor space",
-  "models_2": {
-    "models": [
-      4730
-    ]
-  },
+  "models_2": [
+    4730
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "actions": [

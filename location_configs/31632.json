@@ -1,11 +1,9 @@
 {
   "id": 31632,
   "name": "Telescope",
-  "models_2": {
-    "models": [
-      7401
-    ]
-  },
+  "models_2": [
+    7401
+  ],
   "unknown_19": 1,
   "actions": [
     "Observe",

@@ -1,11 +1,9 @@
 {
   "id": 2902,
   "name": "Rocks",
-  "models_2": {
-    "models": [
-      1388
-    ]
-  },
+  "models_2": [
+    1388
+  ],
   "actions": [
     "Search",
     null,

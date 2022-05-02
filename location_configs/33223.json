@@ -1,11 +1,9 @@
 {
   "id": 33223,
   "name": "Urt salt",
-  "models_2": {
-    "models": [
-      35925
-    ]
-  },
+  "models_2": [
+    35925
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

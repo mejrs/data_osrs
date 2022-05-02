@@ -1,9 +1,7 @@
 {
   "id": 17233,
   "name": "Drawers",
-  "models_2": {
-    "models": [
-      17062
-    ]
-  }
+  "models_2": [
+    17062
+  ]
 }

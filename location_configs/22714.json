@@ -1,13 +1,11 @@
 {
   "id": 22714,
   "name": "Range",
-  "models_2": {
-    "models": [
-      23446,
-      23445,
-      23447
-    ]
-  },
+  "models_2": [
+    23446,
+    23445,
+    23447
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "unknown_19": 1,

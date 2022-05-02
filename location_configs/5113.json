@@ -1,12 +1,10 @@
 {
   "id": 5113,
   "name": "Crate",
-  "models_2": {
-    "models": [
-      7685,
-      16950
-    ]
-  },
+  "models_2": [
+    7685,
+    16950
+  ],
   "unknown_19": 1,
   "ambient": 20,
   "actions": [

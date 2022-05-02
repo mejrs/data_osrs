@@ -1,11 +1,9 @@
 {
   "id": 18773,
   "name": "Fancy dress box",
-  "models_2": {
-    "models": [
-      19014
-    ]
-  },
+  "models_2": [
+    19014
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

@@ -1,11 +1,9 @@
 {
   "id": 31673,
   "name": "Roof Entrance",
-  "models_2": {
-    "models": [
-      34590
-    ]
-  },
+  "models_2": [
+    34590
+  ],
   "unknown_19": 1,
   "actions": [
     "Go-through",

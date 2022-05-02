@@ -1,12 +1,10 @@
 {
   "id": 12269,
   "name": "Stove",
-  "models_2": {
-    "models": [
-      12616,
-      12617
-    ]
-  },
+  "models_2": [
+    12616,
+    12617
+  ],
   "dim_y": 2,
   "actions": [
     "Cook",

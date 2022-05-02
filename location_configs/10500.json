@@ -1,11 +1,9 @@
 {
   "id": 10500,
   "name": "Potted fern",
-  "models_2": {
-    "models": [
-      1619
-    ]
-  },
+  "models_2": [
+    1619
+  ],
   "is_transparent": true,
   "ambient": 30,
   "colours": [

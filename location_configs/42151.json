@@ -1,11 +1,9 @@
 {
   "id": 42151,
   "name": "Bow case",
-  "models_2": {
-    "models": [
-      24722
-    ]
-  },
+  "models_2": [
+    24722
+  ],
   "dim_x": 2,
   "ambient": 10,
   "contrast": 5,

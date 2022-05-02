@@ -1,11 +1,9 @@
 {
   "id": 16951,
   "name": "Support",
-  "models_2": {
-    "models": [
-      16584
-    ]
-  },
+  "models_2": [
+    16584
+  ],
   "unknown_19": 1,
   "ambient": 20,
   "contrast": 20

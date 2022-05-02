@@ -1,13 +1,11 @@
 {
   "id": 33674,
   "name": "Snape grass seedling",
-  "models_2": {
-    "models": [
-      36897,
-      7766,
-      8222
-    ]
-  },
+  "models_2": [
+    36897,
+    7766,
+    8222
+  ],
   "ambient": 10,
   "actions": [
     null,

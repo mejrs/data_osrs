@@ -1,12 +1,10 @@
 {
   "id": 21273,
   "name": "Urn",
-  "models_2": {
-    "models": [
-      16421,
-      16418
-    ]
-  },
+  "models_2": [
+    16421,
+    16418
+  ],
   "unknown_19": 1,
   "unknown_24": 4335,
   "ambient": 10,

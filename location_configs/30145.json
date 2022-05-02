@@ -1,11 +1,9 @@
 {
   "id": 30145,
   "name": "Table",
-  "models_2": {
-    "models": [
-      32336
-    ]
-  },
+  "models_2": [
+    32336
+  ],
   "unknown_19": 1,
   "actions": [
     "Take-knife",

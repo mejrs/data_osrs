@@ -1,11 +1,9 @@
 {
   "id": 22975,
   "name": "Smoke",
-  "models_2": {
-    "models": [
-      21817
-    ]
-  },
+  "models_2": [
+    21817
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 13485,
   "name": "Abyssal demon head",
-  "models_2": {
-    "models": [
-      12159
-    ]
-  },
+  "models_2": [
+    12159
+  ],
   "ambient": 25,
   "actions": [
     "Talk-to",

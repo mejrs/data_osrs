@@ -1,11 +1,9 @@
 {
   "id": 32968,
   "name": "Mercenary",
-  "models_2": {
-    "models": [
-      35406
-    ]
-  },
+  "models_2": [
+    35406
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,

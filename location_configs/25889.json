@@ -1,11 +1,9 @@
 {
   "id": 25889,
   "name": "Sir Tristram",
-  "models_2": {
-    "models": [
-      27479
-    ]
-  },
+  "models_2": [
+    27479
+  ],
   "dim_x": 8,
   "unknown_17": false,
   "unknown_24": 6925,

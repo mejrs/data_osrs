@@ -1,11 +1,9 @@
 {
   "id": 12579,
   "name": "Boulder",
-  "models_2": {
-    "models": [
-      1405
-    ]
-  },
+  "models_2": [
+    1405
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "mapscene": 11

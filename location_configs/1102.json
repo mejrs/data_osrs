@@ -1,10 +1,8 @@
 {
   "id": 1102,
   "name": "Stool",
-  "models_2": {
-    "models": [
-      1258
-    ]
-  },
+  "models_2": [
+    1258
+  ],
   "is_transparent": true
 }

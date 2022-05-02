@@ -1,11 +1,9 @@
 {
   "id": 15930,
   "name": "Steam_Pump",
-  "models_2": {
-    "models": [
-      15832
-    ]
-  },
+  "models_2": [
+    15832
+  ],
   "actions": [
     "hidden",
     null,

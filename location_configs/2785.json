@@ -1,11 +1,9 @@
 {
   "id": 2785,
   "name": "Sword in stone",
-  "models_2": {
-    "models": [
-      25185
-    ]
-  },
+  "models_2": [
+    25185
+  ],
   "ambient": 10,
   "contrast": 10
 }

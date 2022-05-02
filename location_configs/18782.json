@@ -1,11 +1,9 @@
 {
   "id": 18782,
   "name": "Armour case",
-  "models_2": {
-    "models": [
-      18994
-    ]
-  },
+  "models_2": [
+    18994
+  ],
   "ambient": 35,
   "actions": [
     "Open",

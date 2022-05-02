@@ -1,12 +1,10 @@
 {
   "id": 31846,
   "name": "Notice board",
-  "models_2": {
-    "models": [
-      14651,
-      34439
-    ]
-  },
+  "models_2": [
+    14651,
+    34439
+  ],
   "unknown_27": false,
   "ambient": 5,
   "actions": [

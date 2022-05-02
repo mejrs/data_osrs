@@ -1,11 +1,9 @@
 {
   "id": 8975,
   "name": "Dense runestone",
-  "models_2": {
-    "models": [
-      30836
-    ]
-  },
+  "models_2": [
+    30836
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "unknown_19": 1,

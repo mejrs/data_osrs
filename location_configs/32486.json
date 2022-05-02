@@ -1,11 +1,9 @@
 {
   "id": 32486,
   "name": "Plinth",
-  "models_2": {
-    "models": [
-      34825
-    ]
-  },
+  "models_2": [
+    34825
+  ],
   "unknown_19": 1,
   "ambient": 20,
   "actions": [

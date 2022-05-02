@@ -1,11 +1,9 @@
 {
   "id": 18381,
   "name": "Badly repaired wall",
-  "models_2": {
-    "models": [
-      18473
-    ]
-  },
+  "models_2": [
+    18473
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "occludes_1": false,

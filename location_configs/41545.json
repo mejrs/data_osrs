@@ -1,11 +1,9 @@
 {
   "id": 41545,
   "name": "Preparation Table",
-  "models_2": {
-    "models": [
-      42040
-    ]
-  },
+  "models_2": [
+    42040
+  ],
   "dim_x": 2,
   "unknown_27": false,
   "ambient": 60,

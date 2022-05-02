@@ -1,11 +1,9 @@
 {
   "id": 29100,
   "name": "Well",
-  "models_2": {
-    "models": [
-      1410
-    ]
-  },
+  "models_2": [
+    1410
+  ],
   "is_transparent": true,
   "ambient": 20,
   "category": 245,

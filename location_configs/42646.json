@@ -1,11 +1,9 @@
 {
   "id": 42646,
   "name": "Spider eggs",
-  "models_2": {
-    "models": [
-      42847
-    ]
-  },
+  "models_2": [
+    42847
+  ],
   "dim_x": 2,
   "unknown_21": true,
   "ambient": 10,

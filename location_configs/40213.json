@@ -1,10 +1,8 @@
 {
   "id": 40213,
   "name": "Bath",
-  "models_2": {
-    "models": [
-      12121
-    ]
-  },
+  "models_2": [
+    12121
+  ],
   "ambient": 25
 }

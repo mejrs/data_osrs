@@ -1,11 +1,9 @@
 {
   "id": 38097,
   "name": "Ladder",
-  "models_2": {
-    "models": [
-      17852
-    ]
-  },
+  "models_2": [
+    17852
+  ],
   "ambient": 10,
   "mapscene": 7
 }

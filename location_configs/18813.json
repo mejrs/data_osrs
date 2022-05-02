@@ -1,11 +1,9 @@
 {
   "id": 18813,
   "name": "Treasure chest space",
-  "models_2": {
-    "models": [
-      19040
-    ]
-  },
+  "models_2": [
+    19040
+  ],
   "dim_x": 2,
   "actions": [
     null,

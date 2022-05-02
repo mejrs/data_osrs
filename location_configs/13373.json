@@ -1,11 +1,9 @@
 {
   "id": 13373,
   "name": "Rocnar",
-  "models_2": {
-    "models": [
-      13224
-    ]
-  },
+  "models_2": [
+    13224
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

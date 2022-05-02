@@ -1,11 +1,9 @@
 {
   "id": 40965,
   "name": "Ropes",
-  "models_2": {
-    "models": [
-      41866
-    ]
-  },
+  "models_2": [
+    41866
+  ],
   "ambient": 20,
   "actions": [
     "Take",

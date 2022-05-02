@@ -1,11 +1,9 @@
 {
   "id": 36575,
   "name": "Crwys Banner",
-  "models_2": {
-    "models": [
-      37930
-    ]
-  },
+  "models_2": [
+    37930
+  ],
   "unknown_27": false,
   "ambient": 20,
   "contrast": 10

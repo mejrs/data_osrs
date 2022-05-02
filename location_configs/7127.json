@@ -1,11 +1,9 @@
 {
   "id": 7127,
   "name": "Clan Cup Trophy",
-  "models_2": {
-    "models": [
-      28914
-    ]
-  },
+  "models_2": [
+    28914
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_27": false,

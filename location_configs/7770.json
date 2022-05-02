@@ -1,12 +1,10 @@
 {
   "id": 7770,
   "name": "Dead cactus",
-  "models_2": {
-    "models": [
-      7833,
-      7767
-    ]
-  },
+  "models_2": [
+    7833,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

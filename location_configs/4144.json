@@ -1,11 +1,9 @@
 {
   "id": 4144,
   "name": "Golden tree",
-  "models_2": {
-    "models": [
-      3597
-    ]
-  },
+  "models_2": [
+    3597
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 40,

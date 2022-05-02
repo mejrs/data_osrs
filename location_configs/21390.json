@@ -1,11 +1,9 @@
 {
   "id": 21390,
   "name": "Sacks",
-  "models_2": {
-    "models": [
-      21973
-    ]
-  },
+  "models_2": [
+    21973
+  ],
   "unknown_17": false,
   "ambient": 10
 }

@@ -1,11 +1,9 @@
 {
   "id": 29185,
   "name": "Mounted Construction Cape (t)",
-  "models_2": {
-    "models": [
-      32193
-    ]
-  },
+  "models_2": [
+    32193
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

@@ -1,11 +1,9 @@
 {
   "id": 15448,
   "name": "Repair space",
-  "models_2": {
-    "models": [
-      12733
-    ]
-  },
+  "models_2": [
+    12733
+  ],
   "dim_x": 2,
   "actions": [
     null,

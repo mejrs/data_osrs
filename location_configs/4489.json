@@ -1,11 +1,9 @@
 {
   "id": 4489,
   "name": "Pigeon",
-  "models_2": {
-    "models": [
-      25858
-    ]
-  },
+  "models_2": [
+    25858
+  ],
   "unknown_19": 1,
   "unknown_24": 4133,
   "ambient": 10,

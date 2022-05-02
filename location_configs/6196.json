@@ -1,11 +1,9 @@
 {
   "id": 6196,
   "name": "Table",
-  "models_2": {
-    "models": [
-      5952
-    ]
-  },
+  "models_2": [
+    5952
+  ],
   "category": 155,
   "unknown_75": 1
 }

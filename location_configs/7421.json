@@ -1,12 +1,10 @@
 {
   "id": 7421,
   "name": "Oven",
-  "models_2": {
-    "models": [
-      12629,
-      12620
-    ]
-  },
+  "models_2": [
+    12629,
+    12620
+  ],
   "dim_y": 2,
   "unknown_24": 3105,
   "ambient": 25,

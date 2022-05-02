@@ -1,11 +1,9 @@
 {
   "id": 38015,
   "name": "Blood Orb",
-  "models_2": {
-    "models": [
-      7412
-    ]
-  },
+  "models_2": [
+    7412
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,

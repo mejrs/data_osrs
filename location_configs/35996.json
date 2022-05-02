@@ -1,10 +1,8 @@
 {
   "id": 35996,
-  "models_2": {
-    "models": [
-      37540
-    ]
-  },
+  "models_2": [
+    37540
+  ],
   "dim_x": 4,
   "unknown_19": 0,
   "unknown_21": true,

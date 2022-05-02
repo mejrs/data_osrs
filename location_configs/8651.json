@@ -1,12 +1,10 @@
 {
   "id": 8651,
   "name": "Diseased tomato plant",
-  "models_2": {
-    "models": [
-      8219,
-      7766
-    ]
-  },
+  "models_2": [
+    8219,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Cure",

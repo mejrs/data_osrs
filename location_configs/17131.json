@@ -1,11 +1,9 @@
 {
   "id": 17131,
   "name": "Gnome cooker",
-  "models_2": {
-    "models": [
-      17137
-    ]
-  },
+  "models_2": [
+    17137
+  ],
   "dim_y": 2,
   "actions": [
     "Cook",

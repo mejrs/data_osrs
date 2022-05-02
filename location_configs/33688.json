@@ -1,12 +1,10 @@
 {
   "id": 33688,
   "name": "Dead Snape grass",
-  "models_2": {
-    "models": [
-      36907,
-      7766
-    ]
-  },
+  "models_2": [
+    36907,
+    7766
+  ],
   "ambient": 10,
   "actions": [
     "Clear",

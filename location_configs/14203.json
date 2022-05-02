@@ -1,11 +1,9 @@
 {
   "id": 14203,
   "name": "Stone block",
-  "models_2": {
-    "models": [
-      31148
-    ]
-  },
+  "models_2": [
+    31148
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "unknown_19": 1,

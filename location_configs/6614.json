@@ -1,18 +1,16 @@
 {
   "id": 6614,
   "name": "Door",
-  "models_2": {
-    "models": [
-      14199
-    ]
-  },
+  "models_2": [
+    14199
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "ambient": 20,
   "actions": [
-    "Touch",
-    null,
     "Open",
+    null,
+    null,
     null,
     null
   ],

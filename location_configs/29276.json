@@ -1,11 +1,9 @@
 {
   "id": 29276,
   "name": "Obsidian bench",
-  "models_2": {
-    "models": [
-      32091
-    ]
-  },
+  "models_2": [
+    32091
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

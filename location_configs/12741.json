@@ -1,11 +1,9 @@
 {
   "id": 12741,
   "name": "Fallen Wall",
-  "models_2": {
-    "models": [
-      14063
-    ]
-  },
+  "models_2": [
+    14063
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

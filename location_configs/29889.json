@@ -1,11 +1,9 @@
 {
   "id": 29889,
   "name": "Bubbles",
-  "models_2": {
-    "models": [
-      32529
-    ]
-  },
+  "models_2": [
+    32529
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,

@@ -1,11 +1,9 @@
 {
   "id": 41029,
   "name": "Outfit stand space",
-  "models_2": {
-    "models": [
-      41673
-    ]
-  },
+  "models_2": [
+    41673
+  ],
   "unknown_19": 1,
   "ambient": 100,
   "actions": [

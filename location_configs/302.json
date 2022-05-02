@@ -1,9 +1,7 @@
 {
   "id": 302,
   "name": "Eggs",
-  "models_2": {
-    "models": [
-      1463
-    ]
-  }
+  "models_2": [
+    1463
+  ]
 }

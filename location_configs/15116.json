@@ -1,11 +1,9 @@
 {
   "id": 15116,
   "name": "Ladder",
-  "models_2": {
-    "models": [
-      14781
-    ]
-  },
+  "models_2": [
+    14781
+  ],
   "unknown_22": true,
   "ambient": 10,
   "actions": [

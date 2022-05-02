@@ -1,11 +1,9 @@
 {
   "id": 32536,
   "name": "Logs",
-  "models_2": {
-    "models": [
-      5495
-    ]
-  },
+  "models_2": [
+    5495
+  ],
   "is_transparent": true,
   "actions": [
     "Take-axe",

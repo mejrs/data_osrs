@@ -1,11 +1,9 @@
 {
   "id": 29875,
   "name": "<col=ffff00>Creature keeper</col>",
-  "models_2": {
-    "models": [
-      32513
-    ]
-  },
+  "models_2": [
+    32513
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

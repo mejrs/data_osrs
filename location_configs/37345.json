@@ -1,11 +1,9 @@
 {
   "id": 37345,
   "name": "Archery target",
-  "models_2": {
-    "models": [
-      1451
-    ]
-  },
+  "models_2": [
+    1451
+  ],
   "ambient": 45,
   "colours": [
     [

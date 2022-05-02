@@ -1,11 +1,9 @@
 {
   "id": 39548,
   "name": "Death's Domain",
-  "models_2": {
-    "models": [
-      40637
-    ]
-  },
+  "models_2": [
+    40637
+  ],
   "dim_x": 4,
   "dim_y": 2,
   "is_transparent": true,

@@ -1,12 +1,10 @@
 {
   "id": 8040,
   "name": "Dead curry tree",
-  "models_2": {
-    "models": [
-      7964,
-      7767
-    ]
-  },
+  "models_2": [
+    7964,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

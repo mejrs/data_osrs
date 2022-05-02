@@ -1,11 +1,9 @@
 {
   "id": 26212,
   "name": "Carved oak bench",
-  "models_2": {
-    "models": [
-      12402
-    ]
-  },
+  "models_2": [
+    12402
+  ],
   "unknown_19": 1,
   "category": 206,
   "unknown_69": 14

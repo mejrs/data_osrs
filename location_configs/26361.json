@@ -1,11 +1,9 @@
 {
   "id": 26361,
   "name": "Frozen orc",
-  "models_2": {
-    "models": [
-      27801
-    ]
-  },
+  "models_2": [
+    27801
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_21": true,

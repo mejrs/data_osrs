@@ -1,11 +1,9 @@
 {
   "id": 36065,
   "name": "Crystal Deposit (Depleted)",
-  "models_2": {
-    "models": [
-      37449
-    ]
-  },
+  "models_2": [
+    37449
+  ],
   "is_transparent": true,
   "ambient": 30,
   "contrast": 44,

@@ -1,11 +1,9 @@
 {
   "id": 40216,
   "name": "Broken stool",
-  "models_2": {
-    "models": [
-      16951
-    ]
-  },
+  "models_2": [
+    16951
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

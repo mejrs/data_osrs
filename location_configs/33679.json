@@ -1,13 +1,11 @@
 {
   "id": 33679,
   "name": "Snape grass plant",
-  "models_2": {
-    "models": [
-      36898,
-      8222,
-      7766
-    ]
-  },
+  "models_2": [
+    36898,
+    8222,
+    7766
+  ],
   "ambient": 10,
   "actions": [
     null,

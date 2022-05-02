@@ -1,10 +1,8 @@
 {
   "id": 18642,
   "name": "Press support",
-  "models_2": {
-    "models": [
-      18815
-    ]
-  },
+  "models_2": [
+    18815
+  ],
   "unknown_24": 4894
 }

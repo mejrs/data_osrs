@@ -1,12 +1,10 @@
 {
   "id": 6772,
   "name": "Scroll rack",
-  "models_2": {
-    "models": [
-      12413,
-      12411
-    ]
-  },
+  "models_2": [
+    12413,
+    12411
+  ],
   "actions": [
     "Search",
     null,

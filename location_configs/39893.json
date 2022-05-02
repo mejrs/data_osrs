@@ -1,11 +1,9 @@
 {
   "id": 39893,
   "name": "Wooden table",
-  "models_2": {
-    "models": [
-      12493
-    ]
-  },
+  "models_2": [
+    12493
+  ],
   "actions": [
     null,
     "Remove",

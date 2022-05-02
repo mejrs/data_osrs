@@ -1,12 +1,10 @@
 {
   "id": 13693,
   "name": "Decoration",
-  "models_2": {
-    "models": [
-      12587,
-      12588
-    ]
-  },
+  "models_2": [
+    12587,
+    12588
+  ],
   "dim_x": 2,
   "actions": [
     null,

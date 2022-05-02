@@ -1,11 +1,9 @@
 {
   "id": 28396,
   "name": "Bookcase",
-  "models_2": {
-    "models": [
-      30505
-    ]
-  },
+  "models_2": [
+    30505
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_27": false

@@ -1,11 +1,9 @@
 {
   "id": 29731,
   "name": "Painting",
-  "models_2": {
-    "models": [
-      25349
-    ]
-  },
+  "models_2": [
+    25349
+  ],
   "dim_x": 3,
   "unknown_22": true,
   "unknown_27": false,

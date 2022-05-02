@@ -1,11 +1,9 @@
 {
   "id": 13175,
   "name": "Icon of Saradomin",
-  "models_2": {
-    "models": [
-      12489
-    ]
-  },
+  "models_2": [
+    12489
+  ],
   "dim_x": 2,
   "actions": [
     null,

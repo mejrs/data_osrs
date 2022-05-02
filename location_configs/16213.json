@@ -1,11 +1,9 @@
 {
   "id": 16213,
   "name": "Fairy workbench",
-  "models_2": {
-    "models": [
-      16227
-    ]
-  },
+  "models_2": [
+    16227
+  ],
   "unknown_19": 1,
   "unknown_24": 3246,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 15425,
   "name": "Bookcase space",
-  "models_2": {
-    "models": [
-      12651
-    ]
-  },
+  "models_2": [
+    12651
+  ],
   "actions": [
     null,
     null,

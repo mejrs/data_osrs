@@ -1,11 +1,9 @@
 {
   "id": 27096,
   "name": "Exit portal",
-  "models_2": {
-    "models": [
-      2318
-    ]
-  },
+  "models_2": [
+    2318
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "unknown_24": 504,

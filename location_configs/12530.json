@@ -1,11 +1,9 @@
 {
   "id": 12530,
   "name": "Anchor",
-  "models_2": {
-    "models": [
-      13747
-    ]
-  },
+  "models_2": [
+    13747
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

@@ -1,11 +1,9 @@
 {
   "id": 25708,
   "name": "Drawers",
-  "models_2": {
-    "models": [
-      12959
-    ]
-  },
+  "models_2": [
+    12959
+  ],
   "ambient": 20,
   "actions": [
     "Open",

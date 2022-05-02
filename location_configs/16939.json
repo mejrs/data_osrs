@@ -1,11 +1,9 @@
 {
   "id": 16939,
   "name": "Cannon",
-  "models_2": {
-    "models": [
-      16539
-    ]
-  },
+  "models_2": [
+    16539
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "unknown_22": true,

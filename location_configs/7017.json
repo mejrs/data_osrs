@@ -1,9 +1,7 @@
 {
   "id": 7017,
   "name": "Pillar",
-  "models_2": {
-    "models": [
-      7096
-    ]
-  }
+  "models_2": [
+    7096
+  ]
 }

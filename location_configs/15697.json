@@ -1,11 +1,9 @@
 {
   "id": 15697,
   "name": "Crate",
-  "models_2": {
-    "models": [
-      15520
-    ]
-  },
+  "models_2": [
+    15520
+  ],
   "dim_x": 2,
   "is_transparent": true
 }

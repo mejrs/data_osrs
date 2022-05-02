@@ -1,11 +1,9 @@
 {
   "id": 19337,
   "name": "Rabbit hole",
-  "models_2": {
-    "models": [
-      19356
-    ]
-  },
+  "models_2": [
+    19356
+  ],
   "unknown_21": true,
   "actions": [
     "Flush",

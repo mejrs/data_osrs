@@ -1,11 +1,9 @@
 {
   "id": 3402,
   "name": "Workbench",
-  "models_2": {
-    "models": [
-      18586
-    ]
-  },
+  "models_2": [
+    18586
+  ],
   "dim_x": 3,
   "actions": [
     "Smith",

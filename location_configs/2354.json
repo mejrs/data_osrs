@@ -1,11 +1,9 @@
 {
   "id": 2354,
   "name": "Sacks",
-  "models_2": {
-    "models": [
-      1482
-    ]
-  },
+  "models_2": [
+    1482
+  ],
   "actions": [
     "Search",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 22390,
   "name": "Granary roof",
-  "models_2": {
-    "models": [
-      22804
-    ]
-  },
+  "models_2": [
+    22804
+  ],
   "unknown_22": true,
   "ambient": 35,
   "mirror": true

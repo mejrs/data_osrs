@@ -1,12 +1,10 @@
 {
   "id": 33712,
   "name": "Dead celastrus tree",
-  "models_2": {
-    "models": [
-      36825,
-      7768
-    ]
-  },
+  "models_2": [
+    36825,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 30,

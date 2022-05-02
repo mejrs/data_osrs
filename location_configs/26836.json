@@ -1,11 +1,9 @@
 {
   "id": 26836,
   "name": "Cactus",
-  "models_2": {
-    "models": [
-      28941
-    ]
-  },
+  "models_2": [
+    28941
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

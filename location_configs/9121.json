@@ -1,11 +1,9 @@
 {
   "id": 9121,
   "name": "Pipes",
-  "models_2": {
-    "models": [
-      9058
-    ]
-  },
+  "models_2": [
+    9058
+  ],
   "unknown_19": 1,
   "unknown_24": 2439,
   "actions": [

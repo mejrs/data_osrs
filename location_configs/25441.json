@@ -1,12 +1,10 @@
 {
   "id": 25441,
   "name": "Goblin stove",
-  "models_2": {
-    "models": [
-      26908,
-      26903
-    ]
-  },
+  "models_2": [
+    26908,
+    26903
+  ],
   "dim_y": 2,
   "unknown_24": 3105,
   "ambient": 5,

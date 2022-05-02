@@ -1,11 +1,9 @@
 {
   "id": 17782,
   "name": "Fence end",
-  "models_2": {
-    "models": [
-      17819
-    ]
-  },
+  "models_2": [
+    17819
+  ],
   "scale_x": 128,
   "scale_y": 160,
   "scale_z": 128

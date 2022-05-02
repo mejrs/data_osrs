@@ -1,11 +1,9 @@
 {
   "id": 1723,
   "name": "Odd looking wall",
-  "models_2": {
-    "models": [
-      598
-    ]
-  },
+  "models_2": [
+    598
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

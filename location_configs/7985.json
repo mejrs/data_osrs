@@ -1,12 +1,10 @@
 {
   "id": 7985,
   "name": "Diseased pineapple plant",
-  "models_2": {
-    "models": [
-      8097,
-      7767
-    ]
-  },
+  "models_2": [
+    8097,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

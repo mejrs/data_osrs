@@ -1,11 +1,9 @@
 {
   "id": 13484,
   "name": "Kurask head",
-  "models_2": {
-    "models": [
-      12165
-    ]
-  },
+  "models_2": [
+    12165
+  ],
   "ambient": 25,
   "actions": [
     "Talk-to",

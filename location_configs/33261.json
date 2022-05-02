@@ -1,11 +1,9 @@
 {
   "id": 33261,
   "name": "Steps",
-  "models_2": {
-    "models": [
-      35865
-    ]
-  },
+  "models_2": [
+    35865
+  ],
   "dim_x": 3,
   "dim_y": 4,
   "unknown_19": 1,

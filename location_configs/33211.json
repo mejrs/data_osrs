@@ -1,13 +1,11 @@
 {
   "id": 33211,
   "name": "<col=ffff00>Mountain goat</col>",
-  "models_2": {
-    "models": [
-      20273,
-      20280,
-      20275
-    ]
-  },
+  "models_2": [
+    20273,
+    20280,
+    20275
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 5339,

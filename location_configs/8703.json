@@ -1,11 +1,9 @@
 {
   "id": 8703,
   "name": "Water barrel",
-  "models_2": {
-    "models": [
-      5499
-    ]
-  },
+  "models_2": [
+    5499
+  ],
   "colours": [
     [
       6932,

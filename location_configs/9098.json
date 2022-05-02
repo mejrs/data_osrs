@@ -1,11 +1,9 @@
 {
   "id": 9098,
   "name": "Melting Pot",
-  "models_2": {
-    "models": [
-      9037
-    ]
-  },
+  "models_2": [
+    9037
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_19": 1,

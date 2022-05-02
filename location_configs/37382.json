@@ -1,11 +1,9 @@
 {
   "id": 37382,
   "name": "Supply chest",
-  "models_2": {
-    "models": [
-      5272
-    ]
-  },
+  "models_2": [
+    5272
+  ],
   "unknown_19": 1,
   "colours": [
     [

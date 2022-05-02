@@ -1,11 +1,9 @@
 {
   "id": 15262,
   "name": "Dresser space",
-  "models_2": {
-    "models": [
-      12688
-    ]
-  },
+  "models_2": [
+    12688
+  ],
   "dim_x": 2,
   "actions": [
     null,

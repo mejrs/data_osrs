@@ -1,11 +1,9 @@
 {
   "id": 3265,
   "name": "Pile of rocks",
-  "models_2": {
-    "models": [
-      1411
-    ]
-  },
+  "models_2": [
+    1411
+  ],
   "dim_y": 2,
   "actions": [
     "Climb",

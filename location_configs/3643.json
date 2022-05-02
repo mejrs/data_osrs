@@ -1,11 +1,9 @@
 {
   "id": 3643,
   "name": "Statue",
-  "models_2": {
-    "models": [
-      7708
-    ]
-  },
+  "models_2": [
+    7708
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 35,

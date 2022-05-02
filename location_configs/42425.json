@@ -1,11 +1,9 @@
 {
   "id": 42425,
   "name": "Bar",
-  "models_2": {
-    "models": [
-      27578
-    ]
-  },
+  "models_2": [
+    27578
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 20,

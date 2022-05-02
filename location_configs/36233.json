@@ -1,11 +1,9 @@
 {
   "id": 36233,
   "name": "Rope bridge",
-  "models_2": {
-    "models": [
-      37827
-    ]
-  },
+  "models_2": [
+    37827
+  ],
   "actions": [
     "Cross",
     null,

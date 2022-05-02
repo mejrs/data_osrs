@@ -1,11 +1,9 @@
 {
   "id": 2219,
   "name": "Fissure",
-  "models_2": {
-    "models": [
-      831
-    ]
-  },
+  "models_2": [
+    831
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_21": true,

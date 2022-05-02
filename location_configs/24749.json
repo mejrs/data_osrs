@@ -1,11 +1,9 @@
 {
   "id": 24749,
   "name": "Crumbling wall",
-  "models_2": {
-    "models": [
-      26046
-    ]
-  },
+  "models_2": [
+    26046
+  ],
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 20,

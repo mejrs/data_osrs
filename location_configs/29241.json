@@ -1,11 +1,9 @@
 {
   "id": 29241,
   "name": "Ornate pool of Rejuvenation",
-  "models_2": {
-    "models": [
-      32101
-    ]
-  },
+  "models_2": [
+    32101
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

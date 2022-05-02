@@ -1,11 +1,9 @@
 {
   "id": 1610,
   "name": "Scaffold",
-  "models_2": {
-    "models": [
-      2196
-    ]
-  },
+  "models_2": [
+    2196
+  ],
   "unknown_19": 1,
   "unknown_22": true
 }

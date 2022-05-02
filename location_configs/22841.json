@@ -1,12 +1,10 @@
 {
   "id": 22841,
   "name": "Bust",
-  "models_2": {
-    "models": [
-      23395,
-      23393
-    ]
-  },
+  "models_2": [
+    23395,
+    23393
+  ],
   "unknown_27": false,
   "ambient": 20
 }

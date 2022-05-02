@@ -1,23 +1,14 @@
 {
   "id": 31557,
-  "name": "Opening",
-  "models_2": {
-    "models": [
-      34134
-    ]
-  },
-  "dim_x": 3,
+  "name": "Trapdoor",
+  "models_2": [
+    44162
+  ],
+  "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 15,
-  "actions": [
-    "Exit",
-    null,
-    null,
-    null,
-    null
-  ],
   "contrast": 15,
   "model": false,
   "unknown_69": 11

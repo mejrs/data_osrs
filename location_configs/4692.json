@@ -1,11 +1,9 @@
 {
   "id": 4692,
   "name": "Flagpole",
-  "models_2": {
-    "models": [
-      2280
-    ]
-  },
+  "models_2": [
+    2280
+  ],
   "unknown_24": 471,
   "colours": [
     [

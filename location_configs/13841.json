@@ -1,12 +1,10 @@
 {
   "id": 13841,
   "name": "Row boat",
-  "models_2": {
-    "models": [
-      14159,
-      14160
-    ]
-  },
+  "models_2": [
+    14159,
+    14160
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "unknown_24": 3742,

@@ -1,11 +1,9 @@
 {
   "id": 36083,
   "name": "The Gauntlet",
-  "models_2": {
-    "models": [
-      37456
-    ]
-  },
+  "models_2": [
+    37456
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 723,
   "name": "Buried skeleton",
-  "models_2": {
-    "models": [
-      1102
-    ]
-  },
+  "models_2": [
+    1102
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 42365,
   "name": "Boulders",
-  "models_2": {
-    "models": [
-      42526
-    ]
-  },
+  "models_2": [
+    42526
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

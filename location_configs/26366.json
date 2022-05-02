@@ -1,11 +1,9 @@
 {
   "id": 26366,
   "name": "Bandos altar",
-  "models_2": {
-    "models": [
-      27752
-    ]
-  },
+  "models_2": [
+    27752
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

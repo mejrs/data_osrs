@@ -1,11 +1,9 @@
 {
   "id": 28665,
   "name": "Cupboard",
-  "models_2": {
-    "models": [
-      2244
-    ]
-  },
+  "models_2": [
+    2244
+  ],
   "dim_y": 2,
   "actions": [
     null,

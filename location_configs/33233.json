@@ -1,11 +1,9 @@
 {
   "id": 33233,
   "name": "Weiss banner",
-  "models_2": {
-    "models": [
-      35905
-    ]
-  },
+  "models_2": [
+    35905
+  ],
   "dim_x": 2,
   "unknown_27": false,
   "ambient": 10

@@ -1,13 +1,11 @@
 {
   "id": 26149,
-  "name": "Abyssal rift",
-  "models_2": {
-    "models": [
-      7427,
-      7428,
-      7426
-    ]
-  },
+  "name": "Abyssal Rift",
+  "models_2": [
+    7427,
+    7428,
+    7426
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_24": 2260,

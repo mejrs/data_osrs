@@ -1,9 +1,7 @@
 {
   "id": 1900,
   "name": "Suit of armour",
-  "models_2": {
-    "models": [
-      1559
-    ]
-  }
+  "models_2": [
+    1559
+  ]
 }

@@ -1,11 +1,9 @@
 {
   "id": 29188,
   "name": "Mounted Crafting Cape",
-  "models_2": {
-    "models": [
-      32186
-    ]
-  },
+  "models_2": [
+    32186
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

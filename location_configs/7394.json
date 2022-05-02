@@ -1,11 +1,9 @@
 {
   "id": 7394,
   "name": "Rug",
-  "models_2": {
-    "models": [
-      7736
-    ]
-  },
+  "models_2": [
+    7736
+  ],
   "dim_y": 2,
   "unknown_17": false,
   "unknown_21": true

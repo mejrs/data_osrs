@@ -1,12 +1,10 @@
 {
   "id": 9053,
   "name": "Dead goutweed",
-  "models_2": {
-    "models": [
-      7873,
-      7766
-    ]
-  },
+  "models_2": [
+    7873,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Clear",

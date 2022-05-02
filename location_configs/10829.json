@@ -1,11 +1,9 @@
 {
   "id": 10829,
   "name": "Willow",
-  "models_2": {
-    "models": [
-      5528
-    ]
-  },
+  "models_2": [
+    5528
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

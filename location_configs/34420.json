@@ -1,11 +1,9 @@
 {
   "id": 34420,
   "name": "Lizardman eggs",
-  "models_2": {
-    "models": [
-      36363
-    ]
-  },
+  "models_2": [
+    36363
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,

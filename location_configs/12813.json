@@ -1,11 +1,9 @@
 {
   "id": 12813,
   "name": "Rubble",
-  "models_2": {
-    "models": [
-      14032
-    ]
-  },
+  "models_2": [
+    14032
+  ],
   "is_transparent": true,
   "actions": [
     "Mine",

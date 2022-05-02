@@ -1,11 +1,9 @@
 {
   "id": 31046,
   "name": "Depleted Rock",
-  "models_2": {
-    "models": [
-      33528
-    ]
-  },
+  "models_2": [
+    33528
+  ],
   "unknown_22": true,
   "ambient": 15,
   "contrast": 15,

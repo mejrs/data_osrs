@@ -1,11 +1,9 @@
 {
   "id": 33212,
   "name": "<col=ffff00>Ice wolf</col>",
-  "models_2": {
-    "models": [
-      26266
-    ]
-  },
+  "models_2": [
+    26266
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

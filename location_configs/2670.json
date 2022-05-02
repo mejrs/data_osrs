@@ -1,11 +1,9 @@
 {
   "id": 2670,
   "name": "Kharidian cactus (Healthy)",
-  "models_2": {
-    "models": [
-      1580
-    ]
-  },
+  "models_2": [
+    1580
+  ],
   "ambient": 45,
   "actions": [
     "Cut",
@@ -14,5 +12,6 @@
     null,
     null
   ],
+  "category": 1632,
   "mapscene": 4
 }

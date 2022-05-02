@@ -1,11 +1,9 @@
 {
   "id": 26211,
   "name": "Oak bench",
-  "models_2": {
-    "models": [
-      12406
-    ]
-  },
+  "models_2": [
+    12406
+  ],
   "unknown_19": 1,
   "category": 206,
   "unknown_69": 14

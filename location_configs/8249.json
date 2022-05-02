@@ -1,12 +1,10 @@
 {
   "id": 8249,
   "name": "Diseased Jute",
-  "models_2": {
-    "models": [
-      7877,
-      7766
-    ]
-  },
+  "models_2": [
+    7877,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Cure",

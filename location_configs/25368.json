@@ -1,11 +1,9 @@
 {
   "id": 25368,
   "name": "Apparatus",
-  "models_2": {
-    "models": [
-      31320
-    ]
-  },
+  "models_2": [
+    31320
+  ],
   "dim_x": 5,
   "dim_y": 4,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 27512,
   "name": "Chair",
-  "models_2": {
-    "models": [
-      30246
-    ]
-  },
+  "models_2": [
+    30246
+  ],
   "is_transparent": true,
   "unknown_27": false
 }

@@ -1,11 +1,9 @@
 {
   "id": 27722,
   "name": "Destroyed furniture",
-  "models_2": {
-    "models": [
-      30300
-    ]
-  },
+  "models_2": [
+    30300
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "colours": [

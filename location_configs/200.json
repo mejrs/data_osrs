@@ -1,9 +1,7 @@
 {
   "id": 200,
   "name": "Lamp",
-  "models_2": {
-    "models": [
-      1324
-    ]
-  }
+  "models_2": [
+    1324
+  ]
 }

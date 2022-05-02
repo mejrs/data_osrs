@@ -1,11 +1,9 @@
 {
   "id": 39064,
   "name": "Box",
-  "models_2": {
-    "models": [
-      39501
-    ]
-  },
+  "models_2": [
+    39501
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,

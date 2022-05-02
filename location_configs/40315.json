@@ -1,11 +1,9 @@
 {
   "id": 40315,
   "name": "Fallen tree",
-  "models_2": {
-    "models": [
-      1633
-    ]
-  },
+  "models_2": [
+    1633
+  ],
   "colours": [
     [
       5029,

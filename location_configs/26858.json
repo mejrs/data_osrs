@@ -1,11 +1,9 @@
 {
   "id": 26858,
   "name": "Oak scratching post",
-  "models_2": {
-    "models": [
-      28950
-    ]
-  },
+  "models_2": [
+    28950
+  ],
   "unknown_19": 1,
   "ambient": 25,
   "actions": [

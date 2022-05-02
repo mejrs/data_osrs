@@ -1,11 +1,9 @@
 {
   "id": 272,
   "name": "Ship's ladder",
-  "models_2": {
-    "models": [
-      5190
-    ]
-  },
+  "models_2": [
+    5190
+  ],
   "actions": [
     "Climb-up",
     null,

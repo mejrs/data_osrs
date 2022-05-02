@@ -1,11 +1,9 @@
 {
   "id": 41095,
   "name": "Trophy pedestal",
-  "models_2": {
-    "models": [
-      41707
-    ]
-  },
+  "models_2": [
+    41707
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

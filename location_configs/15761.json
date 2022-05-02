@@ -1,11 +1,9 @@
 {
   "id": 15761,
   "name": "Sack Pile",
-  "models_2": {
-    "models": [
-      13904
-    ]
-  },
+  "models_2": [
+    13904
+  ],
   "dim_x": 2,
   "colours": [
     [

@@ -1,11 +1,9 @@
 {
   "id": 4929,
   "name": "Dark tunnel",
-  "models_2": {
-    "models": [
-      4887
-    ]
-  },
+  "models_2": [
+    4887
+  ],
   "unknown_22": true,
   "colours": [
     [

@@ -1,11 +1,9 @@
 {
   "id": 10033,
   "name": "Wall support",
-  "models_2": {
-    "models": [
-      9680
-    ]
-  },
+  "models_2": [
+    9680
+  ],
   "actions": [
     "Climb",
     null,

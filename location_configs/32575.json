@@ -1,12 +1,10 @@
 {
   "id": 32575,
   "name": "Crate",
-  "models_2": {
-    "models": [
-      13975,
-      35328
-    ]
-  },
+  "models_2": [
+    13975,
+    35328
+  ],
   "is_transparent": true,
   "actions": [
     "Search",

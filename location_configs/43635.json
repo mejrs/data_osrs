@@ -1,0 +1,19 @@
+{
+  "id": 43635,
+  "models": [
+    [
+      10,
+      44045
+    ],
+    [
+      22,
+      44049
+    ]
+  ],
+  "name": "Dark lace",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 25,
+  "mapscene": 26
+}

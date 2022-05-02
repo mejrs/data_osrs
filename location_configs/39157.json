@@ -1,12 +1,10 @@
 {
   "id": 39157,
   "name": "<col=ffff00>Blood Tithe</col>",
-  "models_2": {
-    "models": [
-      40357,
-      29153
-    ]
-  },
+  "models_2": [
+    40357,
+    29153
+  ],
   "unknown_21": true,
   "unknown_24": 8698,
   "unknown_27": false,

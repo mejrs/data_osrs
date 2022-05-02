@@ -1,11 +1,9 @@
 {
   "id": 35314,
   "name": "Pillar of Light",
-  "models_2": {
-    "models": [
-      38353
-    ]
-  },
+  "models_2": [
+    38353
+  ],
   "ambient": 40,
   "contrast": 30,
   "colours": [

@@ -1,13 +1,11 @@
 {
   "id": 8563,
   "name": "Potato seed",
-  "models_2": {
-    "models": [
-      8212,
-      7766,
-      8222
-    ]
-  },
+  "models_2": [
+    8212,
+    7766,
+    8222
+  ],
   "ambient": 25,
   "actions": [
     null,

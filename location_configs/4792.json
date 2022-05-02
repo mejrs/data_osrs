@@ -1,11 +1,9 @@
 {
   "id": 4792,
   "name": "Bamboo Bed",
-  "models_2": {
-    "models": [
-      1220
-    ]
-  },
+  "models_2": [
+    1220
+  ],
   "dim_y": 2,
   "colours": [
     [

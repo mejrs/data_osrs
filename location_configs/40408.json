@@ -1,12 +1,10 @@
 {
   "id": 40408,
   "name": "Waystone",
-  "models_2": {
-    "models": [
-      41009,
-      41028
-    ]
-  },
+  "models_2": [
+    41009,
+    41028
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,

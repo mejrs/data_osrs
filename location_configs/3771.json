@@ -1,11 +1,9 @@
 {
   "id": 3771,
   "name": "Stronghold",
-  "models_2": {
-    "models": [
-      3798
-    ]
-  },
+  "models_2": [
+    3798
+  ],
   "dim_y": 3,
   "unknown_21": true,
   "ambient": 25,

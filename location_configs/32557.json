@@ -1,11 +1,9 @@
 {
   "id": 32557,
   "name": "Broken Fountain",
-  "models_2": {
-    "models": [
-      35324
-    ]
-  },
+  "models_2": [
+    35324
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

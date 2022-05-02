@@ -1,11 +1,9 @@
 {
   "id": 33143,
   "name": "Horn of Death",
-  "models_2": {
-    "models": [
-      20661
-    ]
-  },
+  "models_2": [
+    20661
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_24": 5423,

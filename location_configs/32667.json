@@ -1,11 +1,9 @@
 {
   "id": 32667,
   "name": "Closed bank booth",
-  "models_2": {
-    "models": [
-      35254
-    ]
-  },
+  "models_2": [
+    35254
+  ],
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 25

@@ -1,11 +1,9 @@
 {
   "id": 4940,
   "name": "Lift",
-  "models_2": {
-    "models": [
-      21234
-    ]
-  },
+  "models_2": [
+    21234
+  ],
   "dim_y": 2,
   "unknown_22": true,
   "ambient": 20,

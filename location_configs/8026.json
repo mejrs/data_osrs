@@ -1,12 +1,10 @@
 {
   "id": 8026,
   "name": "Curry tree",
-  "models_2": {
-    "models": [
-      7969,
-      7767
-    ]
-  },
+  "models_2": [
+    7969,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

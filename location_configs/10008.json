@@ -1,11 +1,9 @@
 {
   "id": 10008,
   "name": "Light door",
-  "models_2": {
-    "models": [
-      9683
-    ]
-  },
+  "models_2": [
+    9683
+  ],
   "dim_x": 2,
   "colours": [
     [

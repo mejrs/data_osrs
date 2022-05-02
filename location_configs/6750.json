@@ -1,11 +1,9 @@
 {
   "id": 6750,
   "name": "Large fountain",
-  "models_2": {
-    "models": [
-      13149
-    ]
-  },
+  "models_2": [
+    13149
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

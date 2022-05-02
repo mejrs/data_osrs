@@ -1,12 +1,10 @@
 {
   "id": 34426,
   "name": "Stone chest",
-  "models_2": {
-    "models": [
-      36372,
-      36384
-    ]
-  },
+  "models_2": [
+    36372,
+    36384
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

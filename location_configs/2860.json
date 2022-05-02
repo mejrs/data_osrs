@@ -1,11 +1,9 @@
 {
   "id": 2860,
   "name": "Hazeel's coffin",
-  "models_2": {
-    "models": [
-      1819
-    ]
-  },
+  "models_2": [
+    1819
+  ],
   "dim_x": 3,
   "unknown_19": 1
 }

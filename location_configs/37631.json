@@ -1,11 +1,9 @@
 {
   "id": 37631,
   "name": "Supplies",
-  "models_2": {
-    "models": [
-      11205
-    ]
-  },
+  "models_2": [
+    11205
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

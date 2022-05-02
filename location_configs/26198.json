@@ -1,11 +1,9 @@
 {
   "id": 26198,
   "name": "Birthday cake",
-  "models_2": {
-    "models": [
-      39524
-    ]
-  },
+  "models_2": [
+    39524
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

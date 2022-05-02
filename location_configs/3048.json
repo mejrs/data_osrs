@@ -1,10 +1,8 @@
 {
   "id": 3048,
-  "models_2": {
-    "models": [
-      3302
-    ]
-  },
+  "models_2": [
+    3302
+  ],
   "unknown_19": 0,
   "unknown_22": true,
   "ambient": 30,

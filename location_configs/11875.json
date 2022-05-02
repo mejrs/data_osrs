@@ -1,12 +1,10 @@
 {
   "id": 11875,
   "name": "Canary",
-  "models_2": {
-    "models": [
-      11602,
-      11603
-    ]
-  },
+  "models_2": [
+    11602,
+    11603
+  ],
   "unknown_24": 3237,
   "colours": [
     [

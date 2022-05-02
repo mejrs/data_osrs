@@ -1,12 +1,10 @@
 {
   "id": 15575,
   "name": "Light",
-  "models_2": {
-    "models": [
-      10941,
-      13593
-    ]
-  },
+  "models_2": [
+    10941,
+    13593
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

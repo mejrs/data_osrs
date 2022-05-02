@@ -1,9 +1,7 @@
 {
   "id": 12412,
   "name": "Rolling pin",
-  "models_2": {
-    "models": [
-      13475
-    ]
-  }
+  "models_2": [
+    13475
+  ]
 }

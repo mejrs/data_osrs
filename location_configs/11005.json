@@ -1,11 +1,9 @@
 {
   "id": 11005,
   "name": "Magic barrier",
-  "models_2": {
-    "models": [
-      10936
-    ]
-  },
+  "models_2": [
+    10936
+  ],
   "unknown_19": 1,
   "unknown_24": 3095,
   "ambient": 60,

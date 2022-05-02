@@ -1,0 +1,11 @@
+{
+  "id": 44129,
+  "name": "Ritual Pillar",
+  "models_2": [
+    44206
+  ],
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 20,
+  "model": false
+}

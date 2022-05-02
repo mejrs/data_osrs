@@ -1,11 +1,9 @@
 {
   "id": 7281,
   "name": "Chicken",
-  "models_2": {
-    "models": [
-      7728
-    ]
-  },
+  "models_2": [
+    7728
+  ],
   "ambient": 20,
   "actions": [
     "Pick-up",

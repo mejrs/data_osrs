@@ -1,11 +1,9 @@
 {
   "id": 12089,
   "name": "Fairy fountain",
-  "models_2": {
-    "models": [
-      11934
-    ]
-  },
+  "models_2": [
+    11934
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

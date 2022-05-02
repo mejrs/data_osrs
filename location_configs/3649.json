@@ -1,11 +1,9 @@
 {
   "id": 3649,
   "name": "Dying tree Stump",
-  "models_2": {
-    "models": [
-      25026
-    ]
-  },
+  "models_2": [
+    25026
+  ],
   "ambient": 25,
   "colours": [
     [

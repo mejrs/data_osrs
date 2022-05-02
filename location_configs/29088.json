@@ -1,11 +1,9 @@
 {
   "id": 29088,
   "name": "Shrine",
-  "models_2": {
-    "models": [
-      13846
-    ]
-  },
+  "models_2": [
+    13846
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_24": 3343,

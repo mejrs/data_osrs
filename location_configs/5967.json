@@ -1,9 +1,7 @@
 {
   "id": 5967,
   "name": "Cannonballs",
-  "models_2": {
-    "models": [
-      1550
-    ]
-  }
+  "models_2": [
+    1550
+  ]
 }

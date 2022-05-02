@@ -1,11 +1,9 @@
 {
   "id": 32656,
   "name": "Chest",
-  "models_2": {
-    "models": [
-      5273
-    ]
-  },
+  "models_2": [
+    5273
+  ],
   "unknown_19": 1,
   "actions": [
     "Claim",

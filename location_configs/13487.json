@@ -1,11 +1,9 @@
 {
   "id": 13487,
   "name": "KQ head",
-  "models_2": {
-    "models": [
-      24627
-    ]
-  },
+  "models_2": [
+    24627
+  ],
   "ambient": 25,
   "actions": [
     "Talk-to",

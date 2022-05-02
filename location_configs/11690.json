@@ -1,11 +1,9 @@
 {
   "id": 11690,
   "name": "Mature Chef's Delight",
-  "models_2": {
-    "models": [
-      7775
-    ]
-  },
+  "models_2": [
+    7775
+  ],
   "is_transparent": true,
   "ambient": 15,
   "actions": [

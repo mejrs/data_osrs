@@ -1,13 +1,11 @@
 {
   "id": 2714,
   "name": "Study desk",
-  "models_2": {
-    "models": [
-      25082,
-      25078,
-      25083
-    ]
-  },
+  "models_2": [
+    25082,
+    25078,
+    25083
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "actions": [

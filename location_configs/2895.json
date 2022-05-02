@@ -1,11 +1,9 @@
 {
   "id": 2895,
   "name": "Slashed bush",
-  "models_2": {
-    "models": [
-      1613
-    ]
-  },
+  "models_2": [
+    1613
+  ],
   "unknown_17": false,
   "colours": [
     [

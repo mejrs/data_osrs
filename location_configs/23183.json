@@ -1,9 +1,7 @@
 {
   "id": 23183,
   "name": "Barrel",
-  "models_2": {
-    "models": [
-      24080
-    ]
-  }
+  "models_2": [
+    24080
+  ]
 }

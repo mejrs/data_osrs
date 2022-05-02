@@ -1,11 +1,9 @@
 {
   "id": 210,
   "name": "Ice Light",
-  "models_2": {
-    "models": [
-      1531
-    ]
-  },
+  "models_2": [
+    1531
+  ],
   "ambient": 50,
   "contrast": 50
 }

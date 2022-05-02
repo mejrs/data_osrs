@@ -1,11 +1,9 @@
 {
   "id": 29885,
   "name": "Large rock",
-  "models_2": {
-    "models": [
-      32525
-    ]
-  },
+  "models_2": [
+    32525
+  ],
   "dim_x": 5,
   "dim_y": 8,
   "is_transparent": true,

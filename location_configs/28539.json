@@ -1,11 +1,9 @@
 {
   "id": 28539,
   "name": "Metal ladder",
-  "models_2": {
-    "models": [
-      30899
-    ]
-  },
+  "models_2": [
+    30899
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,

@@ -1,12 +1,10 @@
 {
   "id": 18852,
   "name": "Diseased hardy goutweed",
-  "models_2": {
-    "models": [
-      19141,
-      19143
-    ]
-  },
+  "models_2": [
+    19141,
+    19143
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

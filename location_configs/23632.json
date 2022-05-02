@@ -1,12 +1,10 @@
 {
   "id": 23632,
   "name": "Stand",
-  "models_2": {
-    "models": [
-      24905,
-      25779
-    ]
-  },
+  "models_2": [
+    24905,
+    25779
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20

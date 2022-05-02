@@ -1,11 +1,9 @@
 {
   "id": 33237,
   "name": "Narrow gap",
-  "models_2": {
-    "models": [
-      35911
-    ]
-  },
+  "models_2": [
+    35911
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "unknown_21": true,

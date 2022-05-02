@@ -1,11 +1,9 @@
 {
   "id": 32451,
   "name": "Hook briar",
-  "models_2": {
-    "models": [
-      33951
-    ]
-  },
+  "models_2": [
+    33951
+  ],
   "unknown_19": 1,
   "ambient": 10,
   "contrast": 10,

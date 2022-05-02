@@ -1,9 +1,7 @@
 {
   "id": 5582,
   "name": "Logs",
-  "models_2": {
-    "models": [
-      5496
-    ]
-  }
+  "models_2": [
+    5496
+  ]
 }

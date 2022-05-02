@@ -1,9 +1,7 @@
 {
   "id": 1084,
   "name": "Signpost",
-  "models_2": {
-    "models": [
-      1403
-    ]
-  }
+  "models_2": [
+    1403
+  ]
 }

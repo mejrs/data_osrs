@@ -1,11 +1,9 @@
 {
   "id": 868,
   "name": "Standard",
-  "models_2": {
-    "models": [
-      1490
-    ]
-  },
+  "models_2": [
+    1490
+  ],
   "ambient": 10,
   "contrast": 100
 }

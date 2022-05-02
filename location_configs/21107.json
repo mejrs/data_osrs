@@ -1,11 +1,9 @@
 {
   "id": 21107,
   "name": "Sign",
-  "models_2": {
-    "models": [
-      21614
-    ]
-  },
+  "models_2": [
+    21614
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,

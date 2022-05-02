@@ -1,11 +1,9 @@
 {
   "id": 12257,
   "name": "Dragon egg",
-  "models_2": {
-    "models": [
-      1758
-    ]
-  },
+  "models_2": [
+    1758
+  ],
   "colours": [
     [
       43125,

@@ -1,12 +1,10 @@
 {
   "id": 7877,
   "name": "Diseased marigold",
-  "models_2": {
-    "models": [
-      7853,
-      7767
-    ]
-  },
+  "models_2": [
+    7853,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

@@ -1,11 +1,9 @@
 {
   "id": 35463,
   "name": "Seal of Meilyr",
-  "models_2": {
-    "models": [
-      38403
-    ]
-  },
+  "models_2": [
+    38403
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "ambient": 10,

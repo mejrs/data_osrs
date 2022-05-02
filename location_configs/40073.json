@@ -1,11 +1,9 @@
 {
   "id": 40073,
   "name": "Cabinet space",
-  "models_2": {
-    "models": [
-      40811
-    ]
-  },
+  "models_2": [
+    40811
+  ],
   "actions": [
     null,
     null,

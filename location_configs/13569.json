@@ -1,11 +1,9 @@
 {
   "id": 13569,
   "name": "Cider barrel",
-  "models_2": {
-    "models": [
-      12389
-    ]
-  },
+  "models_2": [
+    12389
+  ],
   "actions": [
     null,
     null,

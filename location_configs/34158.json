@@ -1,11 +1,9 @@
 {
   "id": 34158,
   "name": "Diseased Redwood tree",
-  "models_2": {
-    "models": [
-      36693
-    ]
-  },
+  "models_2": [
+    36693
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

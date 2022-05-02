@@ -1,11 +1,9 @@
 {
   "id": 21394,
   "name": "Bell",
-  "models_2": {
-    "models": [
-      21995
-    ]
-  },
+  "models_2": [
+    21995
+  ],
   "actions": [
     "Ring-bell",
     null,

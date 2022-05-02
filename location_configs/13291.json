@@ -1,11 +1,9 @@
 {
   "id": 13291,
   "name": "Magic chest",
-  "models_2": {
-    "models": [
-      11123
-    ]
-  },
+  "models_2": [
+    11123
+  ],
   "unknown_24": 3117,
   "actions": [
     "Open",

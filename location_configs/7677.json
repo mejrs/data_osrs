@@ -1,12 +1,10 @@
 {
   "id": 7677,
   "name": "Diseased Poison Ivy bush",
-  "models_2": {
-    "models": [
-      7819,
-      7767
-    ]
-  },
+  "models_2": [
+    7819,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

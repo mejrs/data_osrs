@@ -1,11 +1,9 @@
 {
   "id": 9335,
   "name": "Empty desk",
-  "models_2": {
-    "models": [
-      27081
-    ]
-  },
+  "models_2": [
+    27081
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "model": false

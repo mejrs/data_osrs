@@ -1,11 +1,9 @@
 {
   "id": 29152,
   "name": "Gilded Adventure Log",
-  "models_2": {
-    "models": [
-      32159
-    ]
-  },
+  "models_2": [
+    32159
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

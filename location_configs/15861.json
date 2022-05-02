@@ -1,11 +1,9 @@
 {
   "id": 15861,
   "name": "Bridge",
-  "models_2": {
-    "models": [
-      15751
-    ]
-  },
+  "models_2": [
+    15751
+  ],
   "dim_x": 3,
   "is_transparent": true,
   "unknown_19": 1,

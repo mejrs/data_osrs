@@ -1,9 +1,7 @@
 {
   "id": 702,
   "name": "Large bone",
-  "models_2": {
-    "models": [
-      1821
-    ]
-  }
+  "models_2": [
+    1821
+  ]
 }

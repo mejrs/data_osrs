@@ -1,11 +1,9 @@
 {
   "id": 42908,
   "name": "Dead Oak",
-  "models_2": {
-    "models": [
-      23908
-    ]
-  },
+  "models_2": [
+    23908
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 37487,
   "name": "Dragon trophy display",
-  "models_2": {
-    "models": [
-      38993
-    ]
-  },
+  "models_2": [
+    38993
+  ],
   "unknown_27": false,
   "ambient": 20,
   "contrast": 10,

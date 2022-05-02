@@ -1,11 +1,9 @@
 {
   "id": 13386,
   "name": "Teak prize chest",
-  "models_2": {
-    "models": [
-      12151
-    ]
-  },
+  "models_2": [
+    12151
+  ],
   "actions": [
     null,
     null,

@@ -1,11 +1,9 @@
 {
   "id": 5146,
   "name": "Sunflower",
-  "models_2": {
-    "models": [
-      13137
-    ]
-  },
+  "models_2": [
+    13137
+  ],
   "unknown_17": false,
   "actions": [
     null,

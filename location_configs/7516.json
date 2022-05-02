@@ -1,11 +1,9 @@
 {
   "id": 7516,
   "name": "Tools",
-  "models_2": {
-    "models": [
-      7914
-    ]
-  },
+  "models_2": [
+    7914
+  ],
   "colours": [
     [
       61,

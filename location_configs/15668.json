@@ -1,11 +1,9 @@
 {
   "id": 15668,
   "name": "Keg",
-  "models_2": {
-    "models": [
-      15385
-    ]
-  },
+  "models_2": [
+    15385
+  ],
   "actions": [
     "Pick-up",
     null,

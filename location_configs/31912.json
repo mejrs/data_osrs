@@ -1,11 +1,9 @@
 {
   "id": 31912,
   "name": "Vorkath display",
-  "models_2": {
-    "models": [
-      35100
-    ]
-  },
+  "models_2": [
+    35100
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "ambient": 30,

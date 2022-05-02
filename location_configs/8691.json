@@ -1,9 +1,7 @@
 {
   "id": 8691,
   "name": "Milk Urns",
-  "models_2": {
-    "models": [
-      8250
-    ]
-  }
+  "models_2": [
+    8250
+  ]
 }

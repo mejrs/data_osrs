@@ -1,13 +1,11 @@
 {
   "id": 7875,
   "name": "Marigold",
-  "models_2": {
-    "models": [
-      7854,
-      7767,
-      7783
-    ]
-  },
+  "models_2": [
+    7854,
+    7767,
+    7783
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

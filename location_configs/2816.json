@@ -1,11 +1,9 @@
 {
   "id": 2816,
   "name": "Rock of Dalgroth",
-  "models_2": {
-    "models": [
-      1798
-    ]
-  },
+  "models_2": [
+    1798
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

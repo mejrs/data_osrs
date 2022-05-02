@@ -1,11 +1,9 @@
 {
   "id": 34861,
   "name": "Strange wall",
-  "models_2": {
-    "models": [
-      37299
-    ]
-  },
+  "models_2": [
+    37299
+  ],
   "dim_y": 2,
   "unknown_27": false,
   "ambient": 20,

@@ -1,12 +1,10 @@
 {
   "id": 9191,
   "name": "Rose bush",
-  "models_2": {
-    "models": [
-      9166,
-      7767
-    ]
-  },
+  "models_2": [
+    9166,
+    7767
+  ],
   "ambient": 25,
   "colours": [
     [

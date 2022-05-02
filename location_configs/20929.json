@@ -1,11 +1,9 @@
 {
   "id": 20929,
   "name": "Fishing spot",
-  "models_2": {
-    "models": [
-      1491
-    ]
-  },
+  "models_2": [
+    1491
+  ],
   "actions": [
     "Net",
     "Harpoon",

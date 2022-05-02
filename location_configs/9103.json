@@ -1,11 +1,9 @@
 {
   "id": 9103,
   "name": "Drive belt",
-  "models_2": {
-    "models": [
-      9070
-    ]
-  },
+  "models_2": [
+    9070
+  ],
   "unknown_19": 1,
   "unknown_24": 2451,
   "actions": [

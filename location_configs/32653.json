@@ -1,11 +1,9 @@
 {
   "id": 32653,
   "name": "Theatre of Blood",
-  "models_2": {
-    "models": [
-      35242
-    ]
-  },
+  "models_2": [
+    35242
+  ],
   "dim_x": 7,
   "dim_y": 2,
   "ambient": 10,

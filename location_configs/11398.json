@@ -1,11 +1,9 @@
 {
   "id": 11398,
   "name": "Our lives",
-  "models_2": {
-    "models": [
-      16788
-    ]
-  },
+  "models_2": [
+    16788
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

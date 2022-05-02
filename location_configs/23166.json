@@ -1,11 +1,9 @@
 {
   "id": 23166,
   "name": "Cave entrance",
-  "models_2": {
-    "models": [
-      24061
-    ]
-  },
+  "models_2": [
+    24061
+  ],
   "unknown_22": true,
   "ambient": 10,
   "colours": [

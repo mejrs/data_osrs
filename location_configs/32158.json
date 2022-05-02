@@ -1,11 +1,9 @@
 {
   "id": 32158,
   "name": "Ancient Machinery",
-  "models_2": {
-    "models": [
-      34737
-    ]
-  },
+  "models_2": [
+    34737
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_24": 7899,

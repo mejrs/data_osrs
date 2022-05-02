@@ -1,11 +1,9 @@
 {
   "id": 6494,
   "name": "Mystical door",
-  "models_2": {
-    "models": [
-      6246
-    ]
-  },
+  "models_2": [
+    6246
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_21": true,

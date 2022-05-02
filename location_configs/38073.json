@@ -1,11 +1,9 @@
 {
   "id": 38073,
   "name": "Coffin",
-  "models_2": {
-    "models": [
-      40403
-    ]
-  },
+  "models_2": [
+    40403
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "unknown_21": true,

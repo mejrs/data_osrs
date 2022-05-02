@@ -1,11 +1,9 @@
 {
   "id": 35877,
   "name": "Cooking range",
-  "models_2": {
-    "models": [
-      8310
-    ]
-  },
+  "models_2": [
+    8310
+  ],
   "dim_y": 2,
   "actions": [
     "Search",

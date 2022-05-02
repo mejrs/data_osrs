@@ -1,0 +1,19 @@
+{
+  "id": 43732,
+  "name": "Uncharged cells",
+  "models_2": [
+    43954
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take",
+    "Take-1",
+    "Take-5",
+    "Take-10",
+    null
+  ],
+  "contrast": 25
+}

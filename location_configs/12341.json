@@ -1,13 +1,11 @@
 {
   "id": 12341,
   "name": "Evil Dave",
-  "models_2": {
-    "models": [
-      13671,
-      13673,
-      13672
-    ]
-  },
+  "models_2": [
+    13671,
+    13673,
+    13672
+  ],
   "actions": [
     "Inspect",
     null,

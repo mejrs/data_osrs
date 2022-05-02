@@ -1,11 +1,9 @@
 {
   "id": 13214,
   "name": "Windchimes",
-  "models_2": {
-    "models": [
-      13222
-    ]
-  },
+  "models_2": [
+    13222
+  ],
   "dim_x": 2,
   "actions": [
     "Play",

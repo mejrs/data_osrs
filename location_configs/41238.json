@@ -1,11 +1,9 @@
 {
   "id": 41238,
   "name": "Harpoonfish cannon",
-  "models_2": {
-    "models": [
-      41918
-    ]
-  },
+  "models_2": [
+    41918
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "ambient": 20,

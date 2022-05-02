@@ -1,11 +1,9 @@
 {
   "id": 9500,
   "name": "Plant",
-  "models_2": {
-    "models": [
-      9542
-    ]
-  },
+  "models_2": [
+    9542
+  ],
   "ambient": 20,
   "contrast": 15,
   "scale_x": 70,

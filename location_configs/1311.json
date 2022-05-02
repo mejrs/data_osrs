@@ -1,11 +1,9 @@
 {
   "id": 1311,
   "name": "Palm",
-  "models_2": {
-    "models": [
-      1612
-    ]
-  },
+  "models_2": [
+    1612
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "mapscene": 5

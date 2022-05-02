@@ -1,11 +1,9 @@
 {
   "id": 6456,
   "name": "Ice ledge",
-  "models_2": {
-    "models": [
-      6318
-    ]
-  },
+  "models_2": [
+    6318
+  ],
   "actions": [
     "Step-off",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 32115,
   "name": "Grandiose Doors",
-  "models_2": {
-    "models": [
-      34745
-    ]
-  },
+  "models_2": [
+    34745
+  ],
   "unknown_19": 1,
   "ambient": 30,
   "actions": [

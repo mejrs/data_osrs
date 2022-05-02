@@ -1,11 +1,9 @@
 {
   "id": 11653,
   "name": "Goal",
-  "models_2": {
-    "models": [
-      5142
-    ]
-  },
+  "models_2": [
+    5142
+  ],
   "unknown_21": true,
   "colours": [
     [

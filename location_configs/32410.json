@@ -1,11 +1,9 @@
 {
   "id": 32410,
   "name": "Tomb",
-  "models_2": {
-    "models": [
-      34793
-    ]
-  },
+  "models_2": [
+    34793
+  ],
   "unknown_19": 1,
   "ambient": 15,
   "contrast": 15

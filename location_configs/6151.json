@@ -1,10 +1,8 @@
 {
   "id": 6151,
   "name": "Sink",
-  "models_2": {
-    "models": [
-      5936
-    ]
-  },
+  "models_2": [
+    5936
+  ],
   "dim_y": 2
 }

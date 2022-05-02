@@ -1,11 +1,9 @@
 {
   "id": 13177,
   "name": "Icon of Guthix",
-  "models_2": {
-    "models": [
-      12488
-    ]
-  },
+  "models_2": [
+    12488
+  ],
   "dim_x": 2,
   "actions": [
     null,

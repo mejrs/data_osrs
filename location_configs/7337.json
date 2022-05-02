@@ -1,12 +1,10 @@
 {
   "id": 7337,
   "name": "Shelves",
-  "models_2": {
-    "models": [
-      7392,
-      7680
-    ]
-  },
+  "models_2": [
+    7392,
+    7680
+  ],
   "ambient": 30,
   "actions": [
     "Search",

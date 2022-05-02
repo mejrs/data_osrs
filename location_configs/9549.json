@@ -1,11 +1,9 @@
 {
   "id": 9549,
   "name": "Hot Coals",
-  "models_2": {
-    "models": [
-      9523
-    ]
-  },
+  "models_2": [
+    9523
+  ],
   "dim_x": 2,
   "unknown_24": 2708,
   "ambient": 20

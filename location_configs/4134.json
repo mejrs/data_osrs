@@ -1,10 +1,8 @@
 {
   "id": 4134,
   "name": "Hillside entrance",
-  "models_2": {
-    "models": [
-      627
-    ]
-  },
+  "models_2": [
+    627
+  ],
   "dim_x": 2
 }

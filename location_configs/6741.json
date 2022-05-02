@@ -1,11 +1,9 @@
 {
   "id": 6741,
   "name": "Hedge",
-  "models_2": {
-    "models": [
-      13181
-    ]
-  },
+  "models_2": [
+    13181
+  ],
   "is_transparent": true,
   "ambient": 20,
   "actions": [

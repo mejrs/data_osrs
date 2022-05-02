@@ -1,11 +1,9 @@
 {
   "id": 12749,
   "name": "Rubble Pile",
-  "models_2": {
-    "models": [
-      14031
-    ]
-  },
+  "models_2": [
+    14031
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

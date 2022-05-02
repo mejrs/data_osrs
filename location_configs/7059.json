@@ -1,12 +1,10 @@
 {
   "id": 7059,
   "name": "Old Bookshelf",
-  "models_2": {
-    "models": [
-      7392,
-      7393
-    ]
-  },
+  "models_2": [
+    7392,
+    7393
+  ],
   "actions": [
     "Search",
     null,

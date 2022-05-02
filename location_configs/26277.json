@@ -1,11 +1,9 @@
 {
   "id": 26277,
   "name": "Super ranging potion",
-  "models_2": {
-    "models": [
-      12388
-    ]
-  },
+  "models_2": [
+    12388
+  ],
   "actions": [
     "Check",
     "Take",

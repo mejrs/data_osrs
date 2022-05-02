@@ -1,11 +1,9 @@
 {
   "id": 42405,
   "name": "Plant",
-  "models_2": {
-    "models": [
-      1645
-    ]
-  },
+  "models_2": [
+    1645
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

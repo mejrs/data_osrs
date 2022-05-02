@@ -1,11 +1,9 @@
 {
   "id": 5015,
-  "name": "slope",
-  "models_2": {
-    "models": [
-      3951
-    ]
-  },
+  "name": "Slope",
+  "models_2": [
+    3951
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,

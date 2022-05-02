@@ -1,11 +1,9 @@
 {
   "id": 32629,
   "name": "Large grave",
-  "models_2": {
-    "models": [
-      35289
-    ]
-  },
+  "models_2": [
+    35289
+  ],
   "dim_x": 2,
   "dim_y": 2
 }

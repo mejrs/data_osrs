@@ -1,13 +1,11 @@
 {
   "id": 21847,
   "name": "Water pipes",
-  "models_2": {
-    "models": [
-      22717,
-      22716,
-      22715
-    ]
-  },
+  "models_2": [
+    22717,
+    22716,
+    22715
+  ],
   "ambient": 5,
   "colours": [
     [

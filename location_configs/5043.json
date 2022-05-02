@@ -1,11 +1,9 @@
 {
   "id": 5043,
   "name": "Ice gate",
-  "models_2": {
-    "models": [
-      4960
-    ]
-  },
+  "models_2": [
+    4960
+  ],
   "dim_y": 3,
   "unknown_19": 1,
   "unknown_22": true,

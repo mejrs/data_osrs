@@ -1,11 +1,9 @@
 {
   "id": 37843,
   "name": "Statue",
-  "models_2": {
-    "models": [
-      39431
-    ]
-  },
+  "models_2": [
+    39431
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,

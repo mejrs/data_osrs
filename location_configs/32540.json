@@ -1,11 +1,9 @@
 {
   "id": 32540,
   "name": "Mounted Xeric's General",
-  "models_2": {
-    "models": [
-      34609
-    ]
-  },
+  "models_2": [
+    34609
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

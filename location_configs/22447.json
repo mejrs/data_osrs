@@ -1,11 +1,9 @@
 {
   "id": 22447,
   "name": "Rock wall",
-  "models_2": {
-    "models": [
-      23102
-    ]
-  },
+  "models_2": [
+    23102
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 35,

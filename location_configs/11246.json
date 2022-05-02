@@ -1,11 +1,9 @@
 {
   "id": 11246,
   "name": "Repair Locker",
-  "models_2": {
-    "models": [
-      11129
-    ]
-  },
+  "models_2": [
+    11129
+  ],
   "actions": [
     "Open",
     null,

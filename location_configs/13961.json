@@ -1,11 +1,9 @@
 {
   "id": 13961,
   "name": "Hope bridge",
-  "models_2": {
-    "models": [
-      14268
-    ]
-  },
+  "models_2": [
+    14268
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 50,

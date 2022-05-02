@@ -1,11 +1,9 @@
 {
   "id": 4149,
   "name": "Lalli's Stew",
-  "models_2": {
-    "models": [
-      2241
-    ]
-  },
+  "models_2": [
+    2241
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 479,

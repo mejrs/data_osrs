@@ -1,11 +1,9 @@
 {
   "id": 22731,
   "name": "Wire",
-  "models_2": {
-    "models": [
-      23570
-    ]
-  },
+  "models_2": [
+    23570
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

@@ -1,11 +1,9 @@
 {
   "id": 19810,
   "name": "Large cave",
-  "models_2": {
-    "models": [
-      19358
-    ]
-  },
+  "models_2": [
+    19358
+  ],
   "dim_x": 2,
   "unknown_21": true,
   "unknown_22": true

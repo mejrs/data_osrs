@@ -1,11 +1,9 @@
 {
   "id": 11844,
   "name": "Hot vent door",
-  "models_2": {
-    "models": [
-      9290
-    ]
-  },
+  "models_2": [
+    9290
+  ],
   "unknown_21": true,
   "unknown_24": 2598,
   "unknown_27": false,

@@ -1,11 +1,9 @@
 {
   "id": 36064,
   "name": "Crystal Deposit",
-  "models_2": {
-    "models": [
-      37448
-    ]
-  },
+  "models_2": [
+    37448
+  ],
   "is_transparent": true,
   "ambient": 30,
   "actions": [

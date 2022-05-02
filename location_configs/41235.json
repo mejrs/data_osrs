@@ -1,11 +1,9 @@
 {
   "id": 41235,
   "name": "mast",
-  "models_2": {
-    "models": [
-      41832
-    ]
-  },
+  "models_2": [
+    41832
+  ],
   "dim_x": 7,
   "dim_y": 2,
   "unknown_19": 1,

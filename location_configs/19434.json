@@ -1,11 +1,9 @@
 {
   "id": 19434,
   "name": "Tunnel",
-  "models_2": {
-    "models": [
-      833
-    ]
-  },
+  "models_2": [
+    833
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 30,

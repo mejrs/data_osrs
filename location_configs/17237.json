@@ -1,12 +1,10 @@
 {
   "id": 17237,
   "name": "Torch",
-  "models_2": {
-    "models": [
-      11323,
-      11320
-    ]
-  },
+  "models_2": [
+    11323,
+    11320
+  ],
   "unknown_24": 3105,
   "ambient": 20,
   "contrast": 20,

@@ -1,11 +1,9 @@
 {
   "id": 26491,
   "name": "Large geyser",
-  "models_2": {
-    "models": [
-      22050
-    ]
-  },
+  "models_2": [
+    22050
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

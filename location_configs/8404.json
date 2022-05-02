@@ -1,12 +1,10 @@
 {
   "id": 8404,
   "name": "Magic Tree",
-  "models_2": {
-    "models": [
-      8008,
-      7768
-    ]
-  },
+  "models_2": [
+    8008,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

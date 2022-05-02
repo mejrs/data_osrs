@@ -1,11 +1,9 @@
 {
   "id": 35971,
   "name": "Fishing Spot",
-  "models_2": {
-    "models": [
-      37462
-    ]
-  },
+  "models_2": [
+    37462
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

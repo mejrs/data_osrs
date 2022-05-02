@@ -1,11 +1,9 @@
 {
   "id": 42172,
   "name": "Ceremonial Pillar",
-  "models_2": {
-    "models": [
-      42454
-    ]
-  },
+  "models_2": [
+    42454
+  ],
   "unknown_19": 1,
   "ambient": -15,
   "contrast": 40,

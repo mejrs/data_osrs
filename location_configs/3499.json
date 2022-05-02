@@ -1,11 +1,9 @@
 {
   "id": 3499,
   "name": "Monument",
-  "models_2": {
-    "models": [
-      3555
-    ]
-  },
+  "models_2": [
+    3555
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

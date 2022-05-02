@@ -1,11 +1,9 @@
 {
   "id": 16656,
   "name": "Bin",
-  "models_2": {
-    "models": [
-      11021
-    ]
-  },
+  "models_2": [
+    11021
+  ],
   "dim_x": 2,
   "unknown_22": true,
   "actions": [

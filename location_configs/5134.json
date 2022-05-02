@@ -1,11 +1,9 @@
 {
   "id": 5134,
   "name": "Plant",
-  "models_2": {
-    "models": [
-      12938
-    ]
-  },
+  "models_2": [
+    12938
+  ],
   "actions": [
     null,
     null,

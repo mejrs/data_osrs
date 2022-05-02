@@ -1,11 +1,9 @@
 {
   "id": 3802,
   "name": "Smashed chair",
-  "models_2": {
-    "models": [
-      1242
-    ]
-  },
+  "models_2": [
+    1242
+  ],
   "is_transparent": true,
   "colours": [
     [

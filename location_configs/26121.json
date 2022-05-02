@@ -1,11 +1,9 @@
 {
   "id": 26121,
   "name": "Sinclair family beehive",
-  "models_2": {
-    "models": [
-      27529
-    ]
-  },
+  "models_2": [
+    27529
+  ],
   "ambient": 20,
   "actions": [
     null,

@@ -1,11 +1,9 @@
 {
   "id": 2257,
   "name": "Rocks",
-  "models_2": {
-    "models": [
-      1390
-    ]
-  },
+  "models_2": [
+    1390
+  ],
   "unknown_21": true,
   "actions": [
     "Climb",

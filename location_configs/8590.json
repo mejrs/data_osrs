@@ -1,12 +1,10 @@
 {
   "id": 8590,
   "name": "Diseased onions",
-  "models_2": {
-    "models": [
-      8209,
-      7766
-    ]
-  },
+  "models_2": [
+    8209,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Cure",

@@ -1,11 +1,9 @@
 {
   "id": 29130,
   "name": "Theme space",
-  "models_2": {
-    "models": [
-      32126
-    ]
-  },
+  "models_2": [
+    32126
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

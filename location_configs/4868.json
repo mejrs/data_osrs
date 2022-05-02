@@ -1,11 +1,9 @@
 {
   "id": 4868,
   "name": "Teleportation Device",
-  "models_2": {
-    "models": [
-      4733
-    ]
-  },
+  "models_2": [
+    4733
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_17": false,

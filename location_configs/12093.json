@@ -1,11 +1,9 @@
 {
   "id": 12093,
   "name": "Chicken Shrine",
-  "models_2": {
-    "models": [
-      11951
-    ]
-  },
+  "models_2": [
+    11951
+  ],
   "unknown_19": 1,
   "unknown_24": 3264,
   "ambient": 20

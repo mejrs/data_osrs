@@ -1,11 +1,9 @@
 {
   "id": 32864,
   "name": "Broken support",
-  "models_2": {
-    "models": [
-      35639
-    ]
-  },
+  "models_2": [
+    35639
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

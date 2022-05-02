@@ -1,11 +1,9 @@
 {
   "id": 16177,
   "name": "Waterlily",
-  "models_2": {
-    "models": [
-      1703
-    ]
-  },
+  "models_2": [
+    1703
+  ],
   "unknown_17": false,
   "unknown_21": true,
   "colours": [

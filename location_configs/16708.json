@@ -1,11 +1,9 @@
 {
   "id": 16708,
   "name": "Tall mirror",
-  "models_2": {
-    "models": [
-      12512
-    ]
-  },
+  "models_2": [
+    12512
+  ],
   "actions": [
     "Admire",
     null,

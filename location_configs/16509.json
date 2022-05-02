@@ -1,11 +1,9 @@
 {
   "id": 16509,
   "name": "Obstacle pipe",
-  "models_2": {
-    "models": [
-      774
-    ]
-  },
+  "models_2": [
+    774
+  ],
   "dim_x": 2,
   "actions": [
     "Squeeze-through",

@@ -1,11 +1,9 @@
 {
   "id": 9980,
   "name": "Final Pillar",
-  "models_2": {
-    "models": [
-      9679
-    ]
-  },
+  "models_2": [
+    9679
+  ],
   "ambient": 25,
   "contrast": 25,
   "colours": [

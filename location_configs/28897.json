@@ -1,11 +1,9 @@
 {
   "id": 28897,
   "name": "Vine",
-  "models_2": {
-    "models": [
-      37320
-    ]
-  },
+  "models_2": [
+    37320
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [

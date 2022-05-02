@@ -1,11 +1,9 @@
 {
   "id": 2544,
   "name": "Manhole",
-  "models_2": {
-    "models": [
-      1543
-    ]
-  },
+  "models_2": [
+    1543
+  ],
   "actions": [
     "Climb-down",
     null,

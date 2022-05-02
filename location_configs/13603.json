@@ -1,11 +1,9 @@
 {
   "id": 13603,
   "name": "Large Barrel",
-  "models_2": {
-    "models": [
-      7775
-    ]
-  },
+  "models_2": [
+    7775
+  ],
   "colours": [
     [
       5409,

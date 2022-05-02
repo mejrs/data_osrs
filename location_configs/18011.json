@@ -1,11 +1,9 @@
 {
   "id": 18011,
   "name": "A fallen barrel",
-  "models_2": {
-    "models": [
-      18181
-    ]
-  },
+  "models_2": [
+    18181
+  ],
   "colours": [
     [
       7333,

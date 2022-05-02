@@ -1,10 +1,8 @@
 {
   "id": 2213,
   "name": "Trawler net",
-  "models_2": {
-    "models": [
-      24544
-    ]
-  },
+  "models_2": [
+    24544
+  ],
   "unknown_22": true
 }

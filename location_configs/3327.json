@@ -1,11 +1,9 @@
 {
   "id": 3327,
   "name": "Eerie statue",
-  "models_2": {
-    "models": [
-      26396
-    ]
-  },
+  "models_2": [
+    26396
+  ],
   "dim_y": 3,
   "unknown_22": true,
   "mirror": true

@@ -1,20 +1,14 @@
 {
   "id": 42859,
-  "name": "Snowman",
-  "models_2": {
-    "models": [
-      43080,
-      43052
-    ]
-  },
-  "is_transparent": true,
-  "unknown_27": false,
-  "ambient": 20,
-  "actions": [
-    "Place",
-    null,
-    null,
-    null,
-    null
-  ]
+  "name": "Ancient Forge",
+  "models_2": [
+    43250
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_22": true,
+  "unknown_24": 6645,
+  "ambient": 25,
+  "contrast": 20,
+  "unknown_69": 11
 }

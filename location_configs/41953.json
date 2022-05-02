@@ -1,11 +1,9 @@
 {
   "id": 41953,
   "name": "Damaged Table",
-  "models_2": {
-    "models": [
-      24085
-    ]
-  },
+  "models_2": [
+    24085
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "ambient": 20,

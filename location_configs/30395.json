@@ -1,11 +1,9 @@
 {
   "id": 30395,
   "name": "Mysterious pool",
-  "models_2": {
-    "models": [
-      37275
-    ]
-  },
+  "models_2": [
+    37275
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

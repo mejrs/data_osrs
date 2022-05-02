@@ -1,11 +1,9 @@
 {
   "id": 21001,
   "name": "Interrogation chair",
-  "models_2": {
-    "models": [
-      21735
-    ]
-  },
+  "models_2": [
+    21735
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

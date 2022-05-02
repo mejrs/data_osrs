@@ -1,12 +1,10 @@
 {
   "id": 3037,
   "name": "Arctic Pine",
-  "models_2": {
-    "models": [
-      16293,
-      16294
-    ]
-  },
+  "models_2": [
+    16293,
+    16294
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

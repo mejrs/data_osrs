@@ -1,11 +1,9 @@
 {
   "id": 11043,
   "name": "Stone Ladder",
-  "models_2": {
-    "models": [
-      10950
-    ]
-  },
+  "models_2": [
+    10950
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 30,

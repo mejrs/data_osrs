@@ -1,12 +1,10 @@
 {
   "id": 32296,
   "name": "Potions",
-  "models_2": {
-    "models": [
-      34951,
-      32267
-    ]
-  },
+  "models_2": [
+    34951,
+    32267
+  ],
   "ambient": 25,
   "actions": [
     "Take",

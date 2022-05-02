@@ -1,11 +1,9 @@
 {
   "id": 3235,
   "name": "Pipe",
-  "models_2": {
-    "models": [
-      813
-    ]
-  },
+  "models_2": [
+    813
+  ],
   "dim_x": 2,
   "actions": [
     "Squeeze-through",

@@ -1,11 +1,9 @@
 {
   "id": 35897,
   "name": "Blocked Tunnel",
-  "models_2": {
-    "models": [
-      9697
-    ]
-  },
+  "models_2": [
+    9697
+  ],
   "dim_y": 3,
   "unknown_19": 1,
   "colours": [

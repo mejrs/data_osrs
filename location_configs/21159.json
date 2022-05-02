@@ -1,11 +1,9 @@
 {
   "id": 21159,
   "name": "Avalanche",
-  "models_2": {
-    "models": [
-      21655
-    ]
-  },
+  "models_2": [
+    21655
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 20,

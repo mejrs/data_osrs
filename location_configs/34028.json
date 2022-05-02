@@ -1,12 +1,10 @@
 {
   "id": 34028,
   "name": "Dead dragonfruit plant",
-  "models_2": {
-    "models": [
-      36652,
-      7767
-    ]
-  },
+  "models_2": [
+    36652,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 10,

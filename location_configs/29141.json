@@ -1,11 +1,9 @@
 {
   "id": 29141,
   "name": "Adventure log space",
-  "models_2": {
-    "models": [
-      32155
-    ]
-  },
+  "models_2": [
+    32155
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

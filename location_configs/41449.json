@@ -1,11 +1,9 @@
 {
   "id": 41449,
   "name": "Willow's bag",
-  "models_2": {
-    "models": [
-      14145
-    ]
-  },
+  "models_2": [
+    14145
+  ],
   "colours": [
     [
       24,

@@ -1,11 +1,9 @@
 {
   "id": 29682,
   "name": "Carved redwood",
-  "models_2": {
-    "models": [
-      32879
-    ]
-  },
+  "models_2": [
+    32879
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 29226,
   "name": "Quest List",
-  "models_2": {
-    "models": [
-      32164
-    ]
-  },
+  "models_2": [
+    32164
+  ],
   "ambient": 20,
   "actions": [
     "Read",

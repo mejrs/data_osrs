@@ -1,11 +1,9 @@
 {
   "id": 14854,
   "name": "Chest",
-  "models_2": {
-    "models": [
-      24729
-    ]
-  },
+  "models_2": [
+    24729
+  ],
   "colours": [
     [
       7706,

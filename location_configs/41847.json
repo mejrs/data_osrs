@@ -1,11 +1,9 @@
 {
   "id": 41847,
   "name": "Piscarilius statue",
-  "models_2": {
-    "models": [
-      37264
-    ]
-  },
+  "models_2": [
+    37264
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

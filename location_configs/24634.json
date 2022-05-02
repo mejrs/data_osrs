@@ -1,11 +1,9 @@
 {
   "id": 24634,
   "name": "Display case",
-  "models_2": {
-    "models": [
-      25603
-    ]
-  },
+  "models_2": [
+    25603
+  ],
   "unknown_27": false,
   "ambient": 20,
   "actions": [

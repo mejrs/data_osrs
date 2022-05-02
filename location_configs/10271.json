@@ -1,12 +1,10 @@
 {
   "id": 10271,
   "name": "Large Display",
-  "models_2": {
-    "models": [
-      10022,
-      10020
-    ]
-  },
+  "models_2": [
+    10022,
+    10020
+  ],
   "ambient": 20,
   "actions": [
     "Study",

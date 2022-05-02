@@ -1,11 +1,9 @@
 {
   "id": 32555,
   "name": "Roof",
-  "models_2": {
-    "models": [
-      35235
-    ]
-  },
+  "models_2": [
+    35235
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "actions": [

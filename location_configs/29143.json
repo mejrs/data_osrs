@@ -1,11 +1,9 @@
 {
   "id": 29143,
   "name": "Boss lair space",
-  "models_2": {
-    "models": [
-      32168
-    ]
-  },
+  "models_2": [
+    32168
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

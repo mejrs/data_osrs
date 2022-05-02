@@ -1,11 +1,9 @@
 {
   "id": 13157,
   "name": "Oak wardrobe",
-  "models_2": {
-    "models": [
-      11127
-    ]
-  },
+  "models_2": [
+    11127
+  ],
   "ambient": 25,
   "actions": [
     "Change-clothes",

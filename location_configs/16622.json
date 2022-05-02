@@ -1,11 +1,9 @@
 {
   "id": 16622,
   "name": "Three",
-  "models_2": {
-    "models": [
-      16785
-    ]
-  },
+  "models_2": [
+    16785
+  ],
   "unknown_19": 1,
   "unknown_24": 4356,
   "ambient": 30,

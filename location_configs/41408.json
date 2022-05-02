@@ -1,11 +1,9 @@
 {
   "id": 41408,
   "name": "Bailing buckets",
-  "models_2": {
-    "models": [
-      41534
-    ]
-  },
+  "models_2": [
+    41534
+  ],
   "ambient": 20,
   "actions": [
     "Take",

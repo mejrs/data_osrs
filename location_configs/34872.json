@@ -1,11 +1,9 @@
 {
   "id": 34872,
   "name": "Broken sun altar",
-  "models_2": {
-    "models": [
-      37300
-    ]
-  },
+  "models_2": [
+    37300
+  ],
   "dim_x": 4,
   "unknown_27": false,
   "ambient": 30,

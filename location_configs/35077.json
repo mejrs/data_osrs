@@ -1,11 +1,9 @@
 {
   "id": 35077,
   "name": "Pack",
-  "models_2": {
-    "models": [
-      38314
-    ]
-  },
+  "models_2": [
+    38314
+  ],
   "ambient": 15,
   "actions": [
     "Search",

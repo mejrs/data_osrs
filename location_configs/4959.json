@@ -1,11 +1,9 @@
 {
   "id": 4959,
   "name": "Lever",
-  "models_2": {
-    "models": [
-      1774
-    ]
-  },
+  "models_2": [
+    1774
+  ],
   "actions": [
     "Pull",
     null,

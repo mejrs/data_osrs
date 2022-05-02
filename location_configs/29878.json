@@ -1,11 +1,9 @@
 {
   "id": 29878,
   "name": "Geyser",
-  "models_2": {
-    "models": [
-      32511
-    ]
-  },
+  "models_2": [
+    32511
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

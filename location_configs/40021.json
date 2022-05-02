@@ -1,11 +1,9 @@
 {
   "id": 40021,
   "name": "Table",
-  "models_2": {
-    "models": [
-      40809
-    ]
-  },
+  "models_2": [
+    40809
+  ],
   "actions": [
     null,
     "Remove",

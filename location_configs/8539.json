@@ -1,12 +1,10 @@
 {
   "id": 8539,
   "name": "Cabbages",
-  "models_2": {
-    "models": [
-      8195,
-      7766
-    ]
-  },
+  "models_2": [
+    8195,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Harvest",

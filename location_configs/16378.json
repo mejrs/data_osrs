@@ -1,11 +1,9 @@
 {
   "id": 16378,
   "name": "Healing certificate",
-  "models_2": {
-    "models": [
-      16121
-    ]
-  },
+  "models_2": [
+    16121
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 20,

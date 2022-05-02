@@ -1,11 +1,9 @@
 {
   "id": 36071,
   "name": "Grym Root (Depleted)",
-  "models_2": {
-    "models": [
-      37443
-    ]
-  },
+  "models_2": [
+    37443
+  ],
   "ambient": 80,
   "contrast": 44,
   "category": 1359,

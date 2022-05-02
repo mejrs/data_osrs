@@ -1,11 +1,9 @@
 {
   "id": 14896,
   "name": "Flax",
-  "models_2": {
-    "models": [
-      1668
-    ]
-  },
+  "models_2": [
+    1668
+  ],
   "unknown_17": false,
   "actions": [
     null,

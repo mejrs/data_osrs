@@ -1,11 +1,9 @@
 {
   "id": 9976,
   "name": "Cave wall",
-  "models_2": {
-    "models": [
-      782
-    ]
-  },
+  "models_2": [
+    782
+  ],
   "unknown_21": true,
   "colours": [
     [

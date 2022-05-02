@@ -1,11 +1,9 @@
 {
   "id": 23105,
   "name": "Flames",
-  "models_2": {
-    "models": [
-      2298
-    ]
-  },
+  "models_2": [
+    2298
+  ],
   "unknown_19": 1,
   "unknown_24": 494,
   "unknown_27": false,

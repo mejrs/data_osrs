@@ -1,11 +1,9 @@
 {
   "id": 24323,
   "name": "Barstool",
-  "models_2": {
-    "models": [
-      25132
-    ]
-  },
+  "models_2": [
+    25132
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 15,

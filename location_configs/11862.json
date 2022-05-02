@@ -1,11 +1,9 @@
 {
   "id": 11862,
   "name": "Dwarf bath",
-  "models_2": {
-    "models": [
-      11604
-    ]
-  },
+  "models_2": [
+    11604
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "ambient": 10

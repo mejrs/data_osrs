@@ -1,9 +1,7 @@
 {
   "id": 6266,
   "name": "Cage",
-  "models_2": {
-    "models": [
-      6065
-    ]
-  }
+  "models_2": [
+    6065
+  ]
 }

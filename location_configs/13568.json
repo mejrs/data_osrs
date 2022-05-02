@@ -1,11 +1,9 @@
 {
   "id": 13568,
   "name": "Beer barrel",
-  "models_2": {
-    "models": [
-      12388
-    ]
-  },
+  "models_2": [
+    12388
+  ],
   "actions": [
     null,
     null,

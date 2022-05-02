@@ -1,11 +1,9 @@
 {
   "id": 13287,
   "name": "Teak chest",
-  "models_2": {
-    "models": [
-      12150
-    ]
-  },
+  "models_2": [
+    12150
+  ],
   "actions": [
     "Open",
     null,

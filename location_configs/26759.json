@@ -1,11 +1,9 @@
 {
   "id": 26759,
   "name": "Artefacts",
-  "models_2": {
-    "models": [
-      28257
-    ]
-  },
+  "models_2": [
+    28257
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 50

@@ -1,11 +1,9 @@
 {
   "id": 31936,
   "name": "Nightmare zone display",
-  "models_2": {
-    "models": [
-      34554
-    ]
-  },
+  "models_2": [
+    34554
+  ],
   "unknown_27": false,
   "ambient": 20
 }

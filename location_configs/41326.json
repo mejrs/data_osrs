@@ -1,11 +1,9 @@
 {
   "id": 41326,
   "name": "Shantay pass",
-  "models_2": {
-    "models": [
-      41863
-    ]
-  },
+  "models_2": [
+    41863
+  ],
   "dim_x": 4,
   "dim_y": 2,
   "ambient": 10,

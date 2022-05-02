@@ -1,11 +1,9 @@
 {
   "id": 14431,
   "name": "Rift",
-  "models_2": {
-    "models": [
-      13861
-    ]
-  },
+  "models_2": [
+    13861
+  ],
   "unknown_17": false,
   "unknown_21": true,
   "unknown_22": true,

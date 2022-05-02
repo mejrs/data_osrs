@@ -1,0 +1,15 @@
+{
+  "id": 44009,
+  "name": "Blocked Entry",
+  "models_2": [
+    44265
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 0,
+  "model": false
+}

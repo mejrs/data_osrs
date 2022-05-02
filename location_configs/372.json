@@ -1,11 +1,9 @@
 {
   "id": 372,
   "name": "Large open cupboard",
-  "models_2": {
-    "models": [
-      2242
-    ]
-  },
+  "models_2": [
+    2242
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "actions": [

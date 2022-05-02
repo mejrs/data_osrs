@@ -1,11 +1,9 @@
 {
   "id": 31292,
   "name": "Dragonfly",
-  "models_2": {
-    "models": [
-      33461
-    ]
-  },
+  "models_2": [
+    33461
+  ],
   "unknown_22": true,
   "mirror": true
 }

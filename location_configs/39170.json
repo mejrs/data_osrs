@@ -1,11 +1,9 @@
 {
   "id": 39170,
   "name": "Cracked wall",
-  "models_2": {
-    "models": [
-      40306
-    ]
-  },
+  "models_2": [
+    40306
+  ],
   "unknown_22": true,
   "ambient": -10,
   "actions": [

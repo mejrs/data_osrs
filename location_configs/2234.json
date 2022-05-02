@@ -1,11 +1,9 @@
 {
   "id": 2234,
   "name": "Well stacked rocks",
-  "models_2": {
-    "models": [
-      1390
-    ]
-  },
+  "models_2": [
+    1390
+  ],
   "unknown_21": true,
   "actions": [
     "Investigate",

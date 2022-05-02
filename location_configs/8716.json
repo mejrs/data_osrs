@@ -1,11 +1,9 @@
 {
   "id": 8716,
   "name": "Haystack",
-  "models_2": {
-    "models": [
-      8248
-    ]
-  },
+  "models_2": [
+    8248
+  ],
   "dim_y": 2,
   "ambient": 30,
   "scale_x": 100

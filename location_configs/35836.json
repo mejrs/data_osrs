@@ -1,11 +1,9 @@
 {
   "id": 35836,
   "name": "Open Chest",
-  "models_2": {
-    "models": [
-      1226
-    ]
-  },
+  "models_2": [
+    1226
+  ],
   "actions": [
     "Search",
     "Shut",

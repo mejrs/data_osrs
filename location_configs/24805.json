@@ -1,11 +1,9 @@
 {
   "id": 24805,
   "name": "Witch's charm",
-  "models_2": {
-    "models": [
-      26005
-    ]
-  },
+  "models_2": [
+    26005
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,

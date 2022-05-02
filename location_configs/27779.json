@@ -1,11 +1,9 @@
 {
   "id": 27779,
   "name": "Alchemical Hydra",
-  "models_2": {
-    "models": [
-      36955
-    ]
-  },
+  "models_2": [
+    36955
+  ],
   "ambient": 25,
   "actions": [
     "Talk-to",

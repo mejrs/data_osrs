@@ -1,11 +1,9 @@
 {
   "id": 15365,
   "name": "Big Plant space 2",
-  "models_2": {
-    "models": [
-      12724
-    ]
-  },
+  "models_2": [
+    12724
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

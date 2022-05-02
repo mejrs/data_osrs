@@ -1,12 +1,10 @@
 {
   "id": 30484,
   "name": "Seaweed patch",
-  "models_2": {
-    "models": [
-      7798,
-      7767
-    ]
-  },
+  "models_2": [
+    7798,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

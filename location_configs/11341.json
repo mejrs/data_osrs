@@ -1,11 +1,9 @@
 {
   "id": 11341,
   "name": "Closed chest",
-  "models_2": {
-    "models": [
-      11204
-    ]
-  },
+  "models_2": [
+    11204
+  ],
   "colours": [
     [
       6443,

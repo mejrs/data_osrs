@@ -1,11 +1,9 @@
 {
   "id": 24354,
   "name": "Mangle",
-  "models_2": {
-    "models": [
-      1293
-    ]
-  },
+  "models_2": [
+    1293
+  ],
   "colours": [
     [
       5788,

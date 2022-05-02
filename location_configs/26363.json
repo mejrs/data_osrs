@@ -1,11 +1,9 @@
 {
   "id": 26363,
   "name": "Zamorak altar",
-  "models_2": {
-    "models": [
-      27778
-    ]
-  },
+  "models_2": [
+    27778
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "unknown_19": 1,

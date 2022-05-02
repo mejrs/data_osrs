@@ -1,11 +1,9 @@
 {
   "id": 29235,
   "name": "Abyssal Sire Topiary",
-  "models_2": {
-    "models": [
-      32103
-    ]
-  },
+  "models_2": [
+    32103
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

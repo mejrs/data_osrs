@@ -1,11 +1,9 @@
 {
   "id": 24732,
   "name": "Beanstalk",
-  "models_2": {
-    "models": [
-      25956
-    ]
-  },
+  "models_2": [
+    25956
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_24": 6497

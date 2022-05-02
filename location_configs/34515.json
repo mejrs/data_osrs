@@ -1,11 +1,9 @@
 {
   "id": 34515,
   "name": "Lava gap",
-  "models_2": {
-    "models": [
-      36414
-    ]
-  },
+  "models_2": [
+    36414
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "unknown_19": 1,

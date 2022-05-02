@@ -1,11 +1,9 @@
 {
   "id": 33199,
   "name": "<col=ffff00>Mother</col>",
-  "models_2": {
-    "models": [
-      35830
-    ]
-  },
+  "models_2": [
+    35830
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 16655,
   "name": "Bone grinder",
-  "models_2": {
-    "models": [
-      11022
-    ]
-  },
+  "models_2": [
+    11022
+  ],
   "dim_x": 2,
   "unknown_22": true,
   "actions": [

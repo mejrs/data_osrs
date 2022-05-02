@@ -1,11 +1,9 @@
 {
   "id": 14947,
   "name": "Gap",
-  "models_2": {
-    "models": [
-      16238
-    ]
-  },
+  "models_2": [
+    16238
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "is_transparent": true,

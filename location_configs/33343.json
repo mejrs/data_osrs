@@ -1,11 +1,9 @@
 {
   "id": 33343,
   "name": "Larran's small chest",
-  "models_2": {
-    "models": [
-      6615
-    ]
-  },
+  "models_2": [
+    6615
+  ],
   "unknown_19": 1,
   "ambient": 10,
   "actions": [

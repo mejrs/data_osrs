@@ -1,11 +1,9 @@
 {
   "id": 34830,
   "name": "Larran's big chest",
-  "models_2": {
-    "models": [
-      6616
-    ]
-  },
+  "models_2": [
+    6616
+  ],
   "unknown_19": 1,
   "ambient": 10,
   "contrast": 5,

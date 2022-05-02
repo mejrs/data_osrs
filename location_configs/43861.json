@@ -1,0 +1,16 @@
+{
+  "id": 43861,
+  "name": "Pile of junk",
+  "models_2": [
+    44148
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

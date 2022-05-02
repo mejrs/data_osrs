@@ -1,11 +1,9 @@
 {
   "id": 30380,
   "name": "Lizardman lair",
-  "models_2": {
-    "models": [
-      32612
-    ]
-  },
+  "models_2": [
+    32612
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 41410,
   "name": "Axes",
-  "models_2": {
-    "models": [
-      41535
-    ]
-  },
+  "models_2": [
+    41535
+  ],
   "ambient": 10,
   "actions": [
     "Take",

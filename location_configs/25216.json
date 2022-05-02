@@ -1,11 +1,9 @@
 {
   "id": 25216,
   "name": "Aged log",
-  "models_2": {
-    "models": [
-      12020
-    ]
-  },
+  "models_2": [
+    12020
+  ],
   "dim_x": 3,
   "unknown_17": false,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 14884,
   "name": "Tree trunk",
-  "models_2": {
-    "models": [
-      25862
-    ]
-  },
+  "models_2": [
+    25862
+  ],
   "unknown_21": true,
   "ambient": 25,
   "colours": [

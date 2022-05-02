@@ -1,9 +1,7 @@
 {
   "id": 575,
   "name": "Statue",
-  "models_2": {
-    "models": [
-      1165
-    ]
-  }
+  "models_2": [
+    1165
+  ]
 }

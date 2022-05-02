@@ -1,12 +1,10 @@
 {
   "id": 8601,
   "name": "Strawberry",
-  "models_2": {
-    "models": [
-      8169,
-      7766
-    ]
-  },
+  "models_2": [
+    8169,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Harvest",

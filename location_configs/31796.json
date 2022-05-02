@@ -1,11 +1,9 @@
 {
   "id": 31796,
   "name": "Root",
-  "models_2": {
-    "models": [
-      34396
-    ]
-  },
+  "models_2": [
+    34396
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

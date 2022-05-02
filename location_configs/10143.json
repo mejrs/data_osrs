@@ -1,11 +1,9 @@
 {
   "id": 10143,
   "name": "Brewing control",
-  "models_2": {
-    "models": [
-      14317
-    ]
-  },
+  "models_2": [
+    14317
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,

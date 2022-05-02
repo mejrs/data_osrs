@@ -1,11 +1,9 @@
 {
   "id": 10250,
   "name": "Eric",
-  "models_2": {
-    "models": [
-      9993
-    ]
-  },
+  "models_2": [
+    9993
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

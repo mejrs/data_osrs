@@ -1,11 +1,9 @@
 {
   "id": 42044,
   "name": "Tent",
-  "models_2": {
-    "models": [
-      42373
-    ]
-  },
+  "models_2": [
+    42373
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "unknown_19": 1,

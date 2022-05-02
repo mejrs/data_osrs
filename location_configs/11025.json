@@ -1,13 +1,11 @@
 {
   "id": 11025,
   "name": "Brazier",
-  "models_2": {
-    "models": [
-      10991,
-      10993,
-      10994
-    ]
-  },
+  "models_2": [
+    10991,
+    10993,
+    10994
+  ],
   "unknown_19": 1,
   "actions": [
     "Investigate",

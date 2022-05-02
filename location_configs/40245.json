@@ -1,11 +1,9 @@
 {
   "id": 40245,
   "name": "<col=ffff00>Vasa Minirio",
-  "models_2": {
-    "models": [
-      32680
-    ]
-  },
+  "models_2": [
+    32680
+  ],
   "unknown_24": 7411,
   "scale_x": 20,
   "scale_y": 20,

@@ -1,11 +1,9 @@
 {
   "id": 26871,
   "name": "Teak feeder",
-  "models_2": {
-    "models": [
-      28955
-    ]
-  },
+  "models_2": [
+    28955
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

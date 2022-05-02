@@ -1,11 +1,9 @@
 {
   "id": 33312,
   "name": "Little boulder",
-  "models_2": {
-    "models": [
-      7766
-    ]
-  },
+  "models_2": [
+    7766
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,

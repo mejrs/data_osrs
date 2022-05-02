@@ -1,11 +1,9 @@
 {
   "id": 13170,
   "name": "Clock",
-  "models_2": {
-    "models": [
-      12973
-    ]
-  },
+  "models_2": [
+    12973
+  ],
   "unknown_19": 1,
   "unknown_24": 3511,
   "ambient": 25,

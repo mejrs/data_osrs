@@ -1,12 +1,10 @@
 {
   "id": 30436,
   "name": "Dead Mahogany",
-  "models_2": {
-    "models": [
-      33241,
-      7768
-    ]
-  },
+  "models_2": [
+    33241,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

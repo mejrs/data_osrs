@@ -1,11 +1,9 @@
 {
   "id": 40360,
   "name": "Mounted Head Space",
-  "models_2": {
-    "models": [
-      41109
-    ]
-  },
+  "models_2": [
+    41109
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

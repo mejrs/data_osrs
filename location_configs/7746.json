@@ -1,12 +1,10 @@
 {
   "id": 7746,
   "name": "Cactus patch",
-  "models_2": {
-    "models": [
-      7801,
-      7767
-    ]
-  },
+  "models_2": [
+    7801,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

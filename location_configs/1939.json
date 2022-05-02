@@ -1,11 +1,9 @@
 {
   "id": 1939,
   "name": "Tower",
-  "models_2": {
-    "models": [
-      1412
-    ]
-  },
+  "models_2": [
+    1412
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "textures": {

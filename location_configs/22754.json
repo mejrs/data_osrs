@@ -1,11 +1,9 @@
 {
   "id": 22754,
   "name": "Cable",
-  "models_2": {
-    "models": [
-      23260
-    ]
-  },
+  "models_2": [
+    23260
+  ],
   "dim_y": 3,
   "unknown_17": false,
   "unknown_19": 1,

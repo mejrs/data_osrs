@@ -1,11 +1,9 @@
 {
   "id": 28859,
   "name": "Servant's moneybag",
-  "models_2": {
-    "models": [
-      32822
-    ]
-  },
+  "models_2": [
+    32822
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 25,

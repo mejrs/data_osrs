@@ -1,11 +1,9 @@
 {
   "id": 3397,
   "name": "Boxes",
-  "models_2": {
-    "models": [
-      7704
-    ]
-  },
+  "models_2": [
+    7704
+  ],
   "actions": [
     "Search",
     null,

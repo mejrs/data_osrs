@@ -1,11 +1,9 @@
 {
   "id": 35465,
   "name": "Seal of Trahaearn",
-  "models_2": {
-    "models": [
-      38400
-    ]
-  },
+  "models_2": [
+    38400
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "ambient": 10,

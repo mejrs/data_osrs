@@ -1,11 +1,9 @@
 {
   "id": 11141,
   "name": "Magic spell",
-  "models_2": {
-    "models": [
-      10935
-    ]
-  },
+  "models_2": [
+    10935
+  ],
   "unknown_24": 3097,
   "ambient": 60,
   "contrast": 60,

@@ -1,11 +1,9 @@
 {
   "id": 1997,
   "name": "Rock",
-  "models_2": {
-    "models": [
-      1773
-    ]
-  },
+  "models_2": [
+    1773
+  ],
   "unknown_17": false,
   "actions": [
     "Swim to",

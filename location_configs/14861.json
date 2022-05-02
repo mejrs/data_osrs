@@ -1,11 +1,9 @@
 {
   "id": 14861,
   "name": "Church pew",
-  "models_2": {
-    "models": [
-      25060
-    ]
-  },
+  "models_2": [
+    25060
+  ],
   "dim_x": 2,
   "ambient": 25,
   "contrast": 5,

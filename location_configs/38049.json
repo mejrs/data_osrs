@@ -1,11 +1,9 @@
 {
   "id": 38049,
   "name": "Grave",
-  "models_2": {
-    "models": [
-      40412
-    ]
-  },
+  "models_2": [
+    40412
+  ],
   "dim_y": 2,
   "unknown_21": true,
   "unknown_27": false,

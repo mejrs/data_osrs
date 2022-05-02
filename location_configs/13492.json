@@ -1,11 +1,9 @@
 {
   "id": 13492,
   "name": "Adamant armour",
-  "models_2": {
-    "models": [
-      12382
-    ]
-  },
+  "models_2": [
+    12382
+  ],
   "actions": [
     null,
     null,

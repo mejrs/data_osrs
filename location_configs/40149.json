@@ -1,11 +1,9 @@
 {
   "id": 40149,
   "name": "Range",
-  "models_2": {
-    "models": [
-      40826
-    ]
-  },
+  "models_2": [
+    40826
+  ],
   "ambient": 25,
   "actions": [
     "Cook",

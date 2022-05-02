@@ -1,11 +1,9 @@
 {
   "id": 7406,
   "name": "Teak table",
-  "models_2": {
-    "models": [
-      12460
-    ]
-  },
+  "models_2": [
+    12460
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

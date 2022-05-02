@@ -1,12 +1,10 @@
 {
   "id": 24779,
   "name": "Beard",
-  "models_2": {
-    "models": [
-      26055,
-      26040
-    ]
-  },
+  "models_2": [
+    26055,
+    26040
+  ],
   "dim_y": 3,
   "unknown_17": false,
   "unknown_19": 1,

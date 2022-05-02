@@ -1,11 +1,9 @@
 {
   "id": 26278,
   "name": "Super magic potion",
-  "models_2": {
-    "models": [
-      12388
-    ]
-  },
+  "models_2": [
+    12388
+  ],
   "actions": [
     "Check",
     "Take",

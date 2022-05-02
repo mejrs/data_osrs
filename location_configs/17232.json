@@ -1,12 +1,10 @@
 {
   "id": 17232,
   "name": "Drawers",
-  "models_2": {
-    "models": [
-      17062,
-      17060
-    ]
-  },
+  "models_2": [
+    17062,
+    17060
+  ],
   "actions": [
     "Search",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 15380,
   "name": "Stair Space",
-  "models_2": {
-    "models": [
-      12872
-    ]
-  },
+  "models_2": [
+    12872
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

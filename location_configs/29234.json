@@ -1,11 +1,9 @@
 {
   "id": 29234,
   "name": "Cerberus Topiary",
-  "models_2": {
-    "models": [
-      32100
-    ]
-  },
+  "models_2": [
+    32100
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

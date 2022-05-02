@@ -1,11 +1,9 @@
 {
   "id": 41451,
   "name": "Rubble",
-  "models_2": {
-    "models": [
-      27753
-    ]
-  },
+  "models_2": [
+    27753
+  ],
   "is_transparent": true,
   "ambient": 25,
   "contrast": 25,

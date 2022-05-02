@@ -1,11 +1,9 @@
 {
   "id": 14637,
   "name": "Tree",
-  "models_2": {
-    "models": [
-      14756
-    ]
-  },
+  "models_2": [
+    14756
+  ],
   "unknown_21": true,
   "colours": [
     [

@@ -1,11 +1,9 @@
 {
   "id": 27280,
   "name": "Deadman chest",
-  "models_2": {
-    "models": [
-      29747
-    ]
-  },
+  "models_2": [
+    29747
+  ],
   "actions": [
     "Open",
     null,

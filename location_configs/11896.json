@@ -1,11 +1,9 @@
 {
   "id": 11896,
   "name": "Thorns",
-  "models_2": {
-    "models": [
-      11713
-    ]
-  },
+  "models_2": [
+    11713
+  ],
   "dim_y": 2,
   "unknown_21": true
 }

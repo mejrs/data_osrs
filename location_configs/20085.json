@@ -1,11 +1,9 @@
 {
   "id": 20085,
   "name": "Hole",
-  "models_2": {
-    "models": [
-      9233
-    ]
-  },
+  "models_2": [
+    9233
+  ],
   "unknown_22": true,
   "occludes_1": false,
   "unknown_28": 32,

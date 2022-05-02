@@ -1,11 +1,9 @@
 {
   "id": 1661,
   "name": "Bricks",
-  "models_2": {
-    "models": [
-      841
-    ]
-  },
+  "models_2": [
+    841
+  ],
   "ambient": 25,
   "contrast": 25,
   "colours": [

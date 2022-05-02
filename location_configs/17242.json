@@ -1,11 +1,9 @@
 {
   "id": 17242,
   "name": "Broken cogs",
-  "models_2": {
-    "models": [
-      17081
-    ]
-  },
+  "models_2": [
+    17081
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_24": 4563,

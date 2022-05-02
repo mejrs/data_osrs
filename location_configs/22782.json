@@ -1,12 +1,10 @@
 {
   "id": 22782,
   "name": "Toy sink",
-  "models_2": {
-    "models": [
-      23454,
-      23453
-    ]
-  },
+  "models_2": [
+    23454,
+    23453
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

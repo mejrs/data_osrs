@@ -1,11 +1,9 @@
 {
   "id": 13389,
   "name": "Mahogany prize chest",
-  "models_2": {
-    "models": [
-      11204
-    ]
-  },
+  "models_2": [
+    11204
+  ],
   "actions": [
     "Open",
     null,

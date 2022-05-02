@@ -1,11 +1,9 @@
 {
   "id": 9170,
   "name": "Delphiniums",
-  "models_2": {
-    "models": [
-      9150,
-      7766
-    ]
-  },
+  "models_2": [
+    9150,
+    7766
+  ],
   "ambient": 25
 }

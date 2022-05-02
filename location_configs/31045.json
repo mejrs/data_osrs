@@ -1,11 +1,9 @@
 {
   "id": 31045,
   "name": "Large Rock",
-  "models_2": {
-    "models": [
-      33529
-    ]
-  },
+  "models_2": [
+    33529
+  ],
   "unknown_22": true,
   "ambient": 15,
   "actions": [

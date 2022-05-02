@@ -1,11 +1,9 @@
 {
   "id": 10038,
   "name": "Rope",
-  "models_2": {
-    "models": [
-      9709
-    ]
-  },
+  "models_2": [
+    9709
+  ],
   "actions": [
     "Climb-up",
     null,

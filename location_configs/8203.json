@@ -1,12 +1,10 @@
 {
   "id": 8203,
   "name": "Diseased Barley",
-  "models_2": {
-    "models": [
-      8189,
-      7766
-    ]
-  },
+  "models_2": [
+    8189,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Cure",

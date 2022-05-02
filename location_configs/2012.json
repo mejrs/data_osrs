@@ -1,11 +1,9 @@
 {
   "id": 2012,
   "name": "Ledge",
-  "models_2": {
-    "models": [
-      1813
-    ]
-  },
+  "models_2": [
+    1813
+  ],
   "unknown_22": true,
   "actions": [
     "Open",

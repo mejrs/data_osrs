@@ -1,11 +1,9 @@
 {
   "id": 6156,
   "name": "Shelves",
-  "models_2": {
-    "models": [
-      2134
-    ]
-  },
+  "models_2": [
+    2134
+  ],
   "colours": [
     [
       8076,

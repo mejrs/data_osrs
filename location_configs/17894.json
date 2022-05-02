@@ -1,11 +1,9 @@
 {
   "id": 17894,
   "name": "Lab table",
-  "models_2": {
-    "models": [
-      17874
-    ]
-  },
+  "models_2": [
+    17874
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_27": false,

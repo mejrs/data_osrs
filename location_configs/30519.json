@@ -1,11 +1,9 @@
 {
   "id": 30519,
   "name": "Rock",
-  "models_2": {
-    "models": [
-      33850
-    ]
-  },
+  "models_2": [
+    33850
+  ],
   "actions": [
     "Inspect",
     "Check count",

@@ -1,11 +1,9 @@
 {
   "id": 6294,
   "name": "Display case",
-  "models_2": {
-    "models": [
-      6196
-    ]
-  },
+  "models_2": [
+    6196
+  ],
   "dim_y": 2,
   "actions": [
     "Open",

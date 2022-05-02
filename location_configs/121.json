@@ -1,11 +1,9 @@
 {
   "id": 121,
   "name": "Party Balloon",
-  "models_2": {
-    "models": [
-      2226
-    ]
-  },
+  "models_2": [
+    2226
+  ],
   "unknown_17": false,
   "unknown_24": 498,
   "ambient": 60,

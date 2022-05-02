@@ -1,11 +1,9 @@
 {
   "id": 26674,
   "name": "Hopper",
-  "models_2": {
-    "models": [
-      25317
-    ]
-  },
+  "models_2": [
+    25317
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [

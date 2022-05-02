@@ -1,12 +1,10 @@
 {
   "id": 8533,
   "name": "Dead Yew",
-  "models_2": {
-    "models": [
-      8142,
-      7768
-    ]
-  },
+  "models_2": [
+    8142,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

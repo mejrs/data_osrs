@@ -1,11 +1,9 @@
 {
   "id": 13573,
   "name": "Chef's Delight",
-  "models_2": {
-    "models": [
-      14093
-    ]
-  },
+  "models_2": [
+    14093
+  ],
   "actions": [
     null,
     null,

@@ -1,11 +1,9 @@
 {
   "id": 4818,
   "name": "Jungle Tree",
-  "models_2": {
-    "models": [
-      1701
-    ]
-  },
+  "models_2": [
+    1701
+  ],
   "ambient": 40,
   "actions": [
     "Chop-down",

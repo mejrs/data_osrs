@@ -1,9 +1,7 @@
 {
   "id": 24487,
   "name": "Canal wall",
-  "models_2": {
-    "models": [
-      25434
-    ]
-  }
+  "models_2": [
+    25434
+  ]
 }

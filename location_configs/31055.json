@@ -1,10 +1,8 @@
 {
   "id": 31055,
   "name": "Leviathan",
-  "models_2": {
-    "models": [
-      33362
-    ]
-  },
+  "models_2": [
+    33362
+  ],
   "unknown_19": 1
 }

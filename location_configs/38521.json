@@ -1,11 +1,9 @@
 {
   "id": 38521,
   "name": "Icyene Statue",
-  "models_2": {
-    "models": [
-      40058
-    ]
-  },
+  "models_2": [
+    40058
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_19": 1,

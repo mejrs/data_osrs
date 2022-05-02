@@ -1,0 +1,14 @@
+{
+  "id": 44206,
+  "name": "Rubble",
+  "models_2": [
+    44675
+  ],
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 20,
+  "model": false
+}

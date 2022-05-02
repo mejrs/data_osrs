@@ -1,11 +1,9 @@
 {
   "id": 13539,
   "name": "Steel range",
-  "models_2": {
-    "models": [
-      12616
-    ]
-  },
+  "models_2": [
+    12616
+  ],
   "dim_y": 2,
   "ambient": 25,
   "actions": [

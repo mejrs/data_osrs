@@ -1,11 +1,9 @@
 {
   "id": 22299,
   "name": "Locker",
-  "models_2": {
-    "models": [
-      11162
-    ]
-  },
+  "models_2": [
+    11162
+  ],
   "actions": [
     "Search",
     "Close",

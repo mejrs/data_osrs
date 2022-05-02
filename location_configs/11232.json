@@ -1,11 +1,9 @@
 {
   "id": 11232,
   "name": "Open chest",
-  "models_2": {
-    "models": [
-      11205
-    ]
-  },
+  "models_2": [
+    11205
+  ],
   "actions": [
     "Plunder",
     null,

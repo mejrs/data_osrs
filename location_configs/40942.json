@@ -1,11 +1,9 @@
 {
   "id": 40942,
   "name": "Gallows",
-  "models_2": {
-    "models": [
-      1498
-    ]
-  },
+  "models_2": [
+    1498
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

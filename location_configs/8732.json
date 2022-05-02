@@ -1,11 +1,9 @@
 {
   "id": 8732,
   "name": "Young tree",
-  "models_2": {
-    "models": [
-      19931
-    ]
-  },
+  "models_2": [
+    19931
+  ],
   "actions": [
     "Set-trap",
     null,
@@ -16,7 +14,7 @@
   "colours": [
     [
       6682,
-      5388
+      6565
     ]
   ],
   "unknown_69": 14,

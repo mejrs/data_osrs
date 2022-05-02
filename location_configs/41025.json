@@ -1,11 +1,9 @@
 {
   "id": 41025,
   "name": "Pedestal space",
-  "models_2": {
-    "models": [
-      41708
-    ]
-  },
+  "models_2": [
+    41708
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

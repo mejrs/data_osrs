@@ -1,11 +1,9 @@
 {
   "id": 9123,
   "name": "Smoke",
-  "models_2": {
-    "models": [
-      9059
-    ]
-  },
+  "models_2": [
+    9059
+  ],
   "unknown_19": 1,
   "unknown_24": 2439,
   "unknown_78": {

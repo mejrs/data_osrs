@@ -1,11 +1,9 @@
 {
   "id": 1300,
   "name": "Fern",
-  "models_2": {
-    "models": [
-      1655
-    ]
-  },
+  "models_2": [
+    1655
+  ],
   "unknown_17": false,
   "ambient": 40,
   "mapscene": 9

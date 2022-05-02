@@ -1,11 +1,9 @@
 {
   "id": 37549,
   "name": "Portal Nexus",
-  "models_2": {
-    "models": [
-      36050
-    ]
-  },
+  "models_2": [
+    36050
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

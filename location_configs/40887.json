@@ -1,11 +1,9 @@
 {
   "id": 40887,
   "name": "Cave entrance",
-  "models_2": {
-    "models": [
-      731
-    ]
-  },
+  "models_2": [
+    731
+  ],
   "dim_x": 4,
   "dim_y": 2,
   "actions": [
@@ -15,8 +13,5 @@
     null,
     null
   ],
-  "unknown_69": 11,
-  "translate_x": 0,
-  "translate_y": 80,
-  "translate_z": 0
+  "unknown_69": 11
 }

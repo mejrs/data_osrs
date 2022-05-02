@@ -1,11 +1,9 @@
 {
   "id": 16254,
   "name": "Tactical map frame",
-  "models_2": {
-    "models": [
-      16111
-    ]
-  },
+  "models_2": [
+    16111
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "ambient": 40,

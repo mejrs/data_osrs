@@ -1,11 +1,9 @@
 {
   "id": 4516,
   "name": "Chair space",
-  "models_2": {
-    "models": [
-      12660
-    ]
-  },
+  "models_2": [
+    12660
+  ],
   "actions": [
     null,
     null,

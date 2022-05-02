@@ -1,11 +1,9 @@
 {
   "id": 26809,
   "name": "Poll booth",
-  "models_2": {
-    "models": [
-      28901
-    ]
-  },
+  "models_2": [
+    28901
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,

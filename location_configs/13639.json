@@ -1,11 +1,9 @@
 {
   "id": 13639,
   "name": "Scrying pool",
-  "models_2": {
-    "models": [
-      13192
-    ]
-  },
+  "models_2": [
+    13192
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 3644,

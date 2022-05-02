@@ -1,11 +1,9 @@
 {
   "id": 13698,
   "name": "Throne",
-  "models_2": {
-    "models": [
-      12593
-    ]
-  },
+  "models_2": [
+    12593
+  ],
   "colours": [
     [
       926,

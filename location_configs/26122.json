@@ -1,11 +1,9 @@
 {
   "id": 26122,
   "name": "Barrel of flour",
-  "models_2": {
-    "models": [
-      27536
-    ]
-  },
+  "models_2": [
+    27536
+  ],
   "ambient": 20,
   "actions": [
     null,

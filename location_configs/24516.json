@@ -1,10 +1,8 @@
 {
   "id": 24516,
   "name": "Canal barge",
-  "models_2": {
-    "models": [
-      25455
-    ]
-  },
+  "models_2": [
+    25455
+  ],
   "mirror": true
 }

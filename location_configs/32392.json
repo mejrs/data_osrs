@@ -1,11 +1,9 @@
 {
   "id": 32392,
   "name": "Tomb",
-  "models_2": {
-    "models": [
-      34794
-    ]
-  },
+  "models_2": [
+    34794
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

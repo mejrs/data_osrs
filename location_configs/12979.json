@@ -1,11 +1,9 @@
 {
   "id": 12979,
   "name": "Rocking chair",
-  "models_2": {
-    "models": [
-      12448
-    ]
-  },
+  "models_2": [
+    12448
+  ],
   "colours": [
     [
       6707,

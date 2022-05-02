@@ -1,12 +1,10 @@
 {
   "id": 21622,
   "name": "Ice Troll King",
-  "models_2": {
-    "models": [
-      22146,
-      22147
-    ]
-  },
+  "models_2": [
+    22146,
+    22147
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_27": false,

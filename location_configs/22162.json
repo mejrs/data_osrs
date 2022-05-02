@@ -1,11 +1,9 @@
 {
   "id": 22162,
   "name": "Larder",
-  "models_2": {
-    "models": [
-      12502
-    ]
-  },
+  "models_2": [
+    12502
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_27": false,

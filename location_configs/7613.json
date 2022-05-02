@@ -1,13 +1,11 @@
 {
   "id": 7613,
   "name": "Dwellberry bush",
-  "models_2": {
-    "models": [
-      7826,
-      7767,
-      7816
-    ]
-  },
+  "models_2": [
+    7826,
+    7767,
+    7816
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

@@ -1,12 +1,10 @@
 {
   "id": 29300,
   "name": "Bonfire",
-  "models_2": {
-    "models": [
-      32252,
-      26585
-    ]
-  },
+  "models_2": [
+    32252,
+    26585
+  ],
   "is_transparent": true,
   "unknown_24": 6853,
   "unknown_27": false,

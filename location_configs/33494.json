@@ -1,11 +1,9 @@
 {
   "id": 33494,
   "name": "Steam Generator",
-  "models_2": {
-    "models": [
-      36233
-    ]
-  },
+  "models_2": [
+    36233
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

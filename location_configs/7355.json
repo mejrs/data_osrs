@@ -1,11 +1,9 @@
 {
   "id": 7355,
   "name": "Warning Sign",
-  "models_2": {
-    "models": [
-      7686
-    ]
-  },
+  "models_2": [
+    7686
+  ],
   "ambient": 15,
   "colours": [
     [

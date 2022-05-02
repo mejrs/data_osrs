@@ -1,11 +1,9 @@
 {
   "id": 3970,
   "name": "Charred bones",
-  "models_2": {
-    "models": [
-      2149
-    ]
-  },
+  "models_2": [
+    2149
+  ],
   "unknown_17": false,
   "colours": [
     [

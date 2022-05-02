@@ -1,11 +1,9 @@
 {
   "id": 31993,
   "name": "Ice chunks",
-  "models_2": {
-    "models": [
-      6328
-    ]
-  },
+  "models_2": [
+    6328
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "scale_x": 64,

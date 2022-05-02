@@ -1,11 +1,9 @@
 {
   "id": 23700,
   "name": "Stinking tendrils",
-  "models_2": {
-    "models": [
-      7458
-    ]
-  },
+  "models_2": [
+    7458
+  ],
   "unknown_24": 2173,
   "ambient": 25,
   "colours": [

@@ -1,11 +1,9 @@
 {
   "id": 32986,
   "name": "<col=ff9040>Tatty toy</col>",
-  "models_2": {
-    "models": [
-      17291
-    ]
-  },
+  "models_2": [
+    17291
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 5,

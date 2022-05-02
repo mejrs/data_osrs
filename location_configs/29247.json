@@ -1,11 +1,9 @@
 {
   "id": 29247,
   "name": "Zen theme",
-  "models_2": {
-    "models": [
-      32132
-    ]
-  },
+  "models_2": [
+    32132
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

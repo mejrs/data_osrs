@@ -1,11 +1,9 @@
 {
   "id": 5354,
   "name": "Trough",
-  "models_2": {
-    "models": [
-      14206
-    ]
-  },
+  "models_2": [
+    14206
+  ],
   "dim_x": 2,
   "colours": [
     [

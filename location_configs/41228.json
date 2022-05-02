@@ -1,12 +1,10 @@
 {
   "id": 41228,
   "name": "Crashed Star",
-  "models_2": {
-    "models": [
-      41612,
-      41605
-    ]
-  },
+  "models_2": [
+    41612,
+    41605
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

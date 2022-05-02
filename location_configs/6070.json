@@ -1,9 +1,7 @@
 {
   "id": 6070,
   "name": "Cabinet",
-  "models_2": {
-    "models": [
-      5926
-    ]
-  }
+  "models_2": [
+    5926
+  ]
 }

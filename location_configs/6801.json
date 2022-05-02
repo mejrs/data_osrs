@@ -1,11 +1,9 @@
 {
   "id": 6801,
   "name": "Whetstone",
-  "models_2": {
-    "models": [
-      10388
-    ]
-  },
+  "models_2": [
+    10388
+  ],
   "dim_x": 2,
   "actions": [
     null,

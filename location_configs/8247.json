@@ -1,13 +1,11 @@
 {
   "id": 8247,
   "name": "Jute",
-  "models_2": {
-    "models": [
-      8222,
-      7879,
-      7766
-    ]
-  },
+  "models_2": [
+    8222,
+    7879,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     null,

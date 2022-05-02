@@ -1,11 +1,9 @@
 {
   "id": 41018,
   "name": "Thermonuclear Smoke Devil Display",
-  "models_2": {
-    "models": [
-      41575
-    ]
-  },
+  "models_2": [
+    41575
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 30,

@@ -1,12 +1,10 @@
 {
   "id": 30447,
   "name": "Diseased Teak",
-  "models_2": {
-    "models": [
-      33222,
-      7768
-    ]
-  },
+  "models_2": [
+    33222,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

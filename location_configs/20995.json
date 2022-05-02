@@ -1,11 +1,9 @@
 {
   "id": 20995,
   "name": "Golf-cart",
-  "models_2": {
-    "models": [
-      21734
-    ]
-  },
+  "models_2": [
+    21734
+  ],
   "unknown_19": 1,
   "unknown_24": 5740,
   "ambient": 25,

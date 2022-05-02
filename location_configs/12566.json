@@ -1,11 +1,9 @@
 {
   "id": 12566,
   "name": "Pile of Rock",
-  "models_2": {
-    "models": [
-      3195
-    ]
-  },
+  "models_2": [
+    3195
+  ],
   "actions": [
     "Mine",
     "Prospect",

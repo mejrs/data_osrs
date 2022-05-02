@@ -1,11 +1,9 @@
 {
   "id": 12309,
   "name": "Chest",
-  "models_2": {
-    "models": [
-      13651
-    ]
-  },
+  "models_2": [
+    13651
+  ],
   "unknown_19": 1,
   "actions": [
     "Bank",

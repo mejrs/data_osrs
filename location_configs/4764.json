@@ -1,11 +1,9 @@
 {
   "id": 4764,
   "name": "Bamboo Stool",
-  "models_2": {
-    "models": [
-      1261
-    ]
-  },
+  "models_2": [
+    1261
+  ],
   "is_transparent": true,
   "colours": [
     [

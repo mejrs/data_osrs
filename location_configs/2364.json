@@ -1,9 +1,7 @@
 {
   "id": 2364,
   "name": "Crate",
-  "models_2": {
-    "models": [
-      2143
-    ]
-  }
+  "models_2": [
+    2143
+  ]
 }

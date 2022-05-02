@@ -1,11 +1,9 @@
 {
   "id": 18243,
   "name": "Anchor",
-  "models_2": {
-    "models": [
-      18205
-    ]
-  },
+  "models_2": [
+    18205
+  ],
   "ambient": 20,
   "colours": [
     [

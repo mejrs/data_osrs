@@ -1,11 +1,9 @@
 {
   "id": 9354,
   "name": "Ornate combat dummy",
-  "models_2": {
-    "models": [
-      41143
-    ]
-  },
+  "models_2": [
+    41143
+  ],
   "ambient": 25,
   "actions": [
     "Attach",

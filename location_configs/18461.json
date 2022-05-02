@@ -1,11 +1,9 @@
 {
   "id": 18461,
   "name": "Crow nest",
-  "models_2": {
-    "models": [
-      18294
-    ]
-  },
+  "models_2": [
+    18294
+  ],
   "dim_x": 2,
   "dim_y": 5,
   "unknown_24": 4781,

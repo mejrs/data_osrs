@@ -1,11 +1,9 @@
 {
   "id": 30141,
   "name": "Wardrobe",
-  "models_2": {
-    "models": [
-      1951
-    ]
-  },
+  "models_2": [
+    1951
+  ],
   "ambient": 15,
   "colours": [
     [

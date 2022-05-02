@@ -1,12 +1,10 @@
 {
   "id": 12806,
   "name": "Broken furnace",
-  "models_2": {
-    "models": [
-      10998,
-      11001
-    ]
-  },
+  "models_2": [
+    10998,
+    11001
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

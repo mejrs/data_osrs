@@ -1,12 +1,10 @@
 {
   "id": 7855,
   "name": "Limpwurt plant",
-  "models_2": {
-    "models": [
-      7119,
-      7767
-    ]
-  },
+  "models_2": [
+    7119,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

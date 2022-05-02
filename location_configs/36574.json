@@ -1,11 +1,9 @@
 {
   "id": 36574,
   "name": "Cadarn Banner",
-  "models_2": {
-    "models": [
-      37936
-    ]
-  },
+  "models_2": [
+    37936
+  ],
   "unknown_27": false,
   "ambient": 20,
   "contrast": 10

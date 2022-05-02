@@ -1,11 +1,9 @@
 {
   "id": 2020,
   "name": "Dead Tree",
-  "models_2": {
-    "models": [
-      1716
-    ]
-  },
+  "models_2": [
+    1716
+  ],
   "actions": [
     "Climb",
     null,

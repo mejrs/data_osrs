@@ -1,30 +1,14 @@
 {
   "id": 38044,
-  "name": "Mysterious ruins",
-  "models_2": {
-    "models": [
-      9625
+  "unknown_19": 1,
+  "unknown_24": 2260,
+  "unknown_27": false,
+  "morphs_1": {
+    "varbit": 13687,
+    "ids": [
+      null,
+      43730
     ]
   },
-  "dim_x": 3,
-  "dim_y": 3,
-  "unknown_24": 2714,
-  "colours": [
-    [
-      38860,
-      935
-    ],
-    [
-      36824,
-      957
-    ],
-    [
-      32883,
-      984
-    ]
-  ],
-  "unknown_78": {
-    "unknown_1": 3141,
-    "unknown_2": 5
-  }
+  "mapscene": 12
 }

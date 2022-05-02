@@ -1,11 +1,9 @@
 {
   "id": 37826,
   "name": "Brazier",
-  "models_2": {
-    "models": [
-      39512
-    ]
-  },
+  "models_2": [
+    39512
+  ],
   "unknown_19": 1,
   "unknown_24": 8170,
   "ambient": 20,

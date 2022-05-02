@@ -1,11 +1,9 @@
 {
   "id": 30825,
   "name": "Mushrooms",
-  "models_2": {
-    "models": [
-      33657
-    ]
-  },
+  "models_2": [
+    33657
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 10

@@ -1,11 +1,9 @@
 {
   "id": 20430,
   "name": "Crate",
-  "models_2": {
-    "models": [
-      7700
-    ]
-  },
+  "models_2": [
+    7700
+  ],
   "ambient": 20,
   "colours": [
     [

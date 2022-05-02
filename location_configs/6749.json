@@ -1,11 +1,9 @@
 {
   "id": 6749,
   "name": "Small fountain",
-  "models_2": {
-    "models": [
-      13184
-    ]
-  },
+  "models_2": [
+    13184
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

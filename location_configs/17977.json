@@ -1,11 +1,9 @@
 {
   "id": 17977,
   "name": "Broken stairs",
-  "models_2": {
-    "models": [
-      17690
-    ]
-  },
+  "models_2": [
+    17690
+  ],
   "dim_y": 2,
   "actions": [
     "Climb-up",

@@ -1,12 +1,10 @@
 {
   "id": 24141,
   "name": "Standing stone",
-  "models_2": {
-    "models": [
-      11705,
-      7767
-    ]
-  },
+  "models_2": [
+    11705,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,

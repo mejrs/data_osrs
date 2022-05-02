@@ -1,11 +1,9 @@
 {
   "id": 30069,
   "name": "Medivaemia root",
-  "models_2": {
-    "models": [
-      32757
-    ]
-  },
+  "models_2": [
+    32757
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

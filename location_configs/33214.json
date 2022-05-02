@@ -1,11 +1,9 @@
 {
   "id": 33214,
   "name": "Goat poo",
-  "models_2": {
-    "models": [
-      14202
-    ]
-  },
+  "models_2": [
+    14202
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,

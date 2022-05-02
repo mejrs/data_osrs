@@ -1,12 +1,10 @@
 {
   "id": 24003,
   "name": "Table",
-  "models_2": {
-    "models": [
-      11581,
-      7906
-    ]
-  },
+  "models_2": [
+    11581,
+    7906
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "colours": [

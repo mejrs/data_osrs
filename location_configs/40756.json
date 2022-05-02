@@ -1,11 +1,9 @@
 {
   "id": 40756,
   "name": "Yew",
-  "models_2": {
-    "models": [
-      37895
-    ]
-  },
+  "models_2": [
+    37895
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 10,

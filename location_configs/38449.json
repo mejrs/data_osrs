@@ -1,11 +1,9 @@
 {
   "id": 38449,
   "name": "Priest Statue",
-  "models_2": {
-    "models": [
-      40160
-    ]
-  },
+  "models_2": [
+    40160
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_21": true,

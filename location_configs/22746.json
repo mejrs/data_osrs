@@ -1,13 +1,11 @@
 {
   "id": 22746,
   "name": "Lamppost",
-  "models_2": {
-    "models": [
-      23255,
-      23265,
-      23256
-    ]
-  },
+  "models_2": [
+    23255,
+    23265,
+    23256
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

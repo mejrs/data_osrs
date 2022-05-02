@@ -1,11 +1,9 @@
 {
   "id": 37995,
   "name": "Magical Fire",
-  "models_2": {
-    "models": [
-      26582
-    ]
-  },
+  "models_2": [
+    26582
+  ],
   "unknown_24": 6645,
   "unknown_27": false,
   "ambient": 60,

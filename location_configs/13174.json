@@ -1,11 +1,9 @@
 {
   "id": 13174,
   "name": "Symbol of Guthix",
-  "models_2": {
-    "models": [
-      12578
-    ]
-  },
+  "models_2": [
+    12578
+  ],
   "dim_x": 2,
   "actions": [
     null,

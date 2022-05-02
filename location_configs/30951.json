@@ -1,9 +1,7 @@
 {
   "id": 30951,
   "name": "Anchor rope",
-  "models_2": {
-    "models": [
-      1433
-    ]
-  }
+  "models_2": [
+    1433
+  ]
 }

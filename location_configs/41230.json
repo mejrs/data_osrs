@@ -1,11 +1,9 @@
 {
   "id": 41230,
   "name": "Shooting Star Noticeboard",
-  "models_2": {
-    "models": [
-      41603
-    ]
-  },
+  "models_2": [
+    41603
+  ],
   "dim_x": 2,
   "unknown_27": false,
   "ambient": 10,

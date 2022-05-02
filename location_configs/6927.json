@@ -1,9 +1,7 @@
 {
   "id": 6927,
   "name": "Big, big boulder...",
-  "models_2": {
-    "models": [
-      6880
-    ]
-  }
+  "models_2": [
+    6880
+  ]
 }

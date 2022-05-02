@@ -1,11 +1,9 @@
 {
   "id": 11174,
   "name": "Cave rocks",
-  "models_2": {
-    "models": [
-      1391
-    ]
-  },
+  "models_2": [
+    1391
+  ],
   "is_transparent": true,
   "colours": [
     [

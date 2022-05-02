@@ -1,11 +1,9 @@
 {
   "id": 68,
   "name": "Beehive",
-  "models_2": {
-    "models": [
-      1505
-    ]
-  },
+  "models_2": [
+    1505
+  ],
   "unknown_19": 1,
   "actions": [
     "Take-from",

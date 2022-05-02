@@ -1,9 +1,7 @@
 {
   "id": 6264,
   "name": "Bird cage stand",
-  "models_2": {
-    "models": [
-      6023
-    ]
-  }
+  "models_2": [
+    6023
+  ]
 }

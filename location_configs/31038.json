@@ -1,11 +1,9 @@
 {
   "id": 31038,
   "name": "Small Boulder",
-  "models_2": {
-    "models": [
-      33539
-    ]
-  },
+  "models_2": [
+    33539
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

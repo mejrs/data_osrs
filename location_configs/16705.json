@@ -1,11 +1,9 @@
 {
   "id": 16705,
   "name": "Sink",
-  "models_2": {
-    "models": [
-      9589
-    ]
-  },
+  "models_2": [
+    9589
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "colours": [

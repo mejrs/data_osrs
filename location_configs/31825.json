@@ -1,11 +1,9 @@
 {
   "id": 31825,
   "name": "Pool of Dreams",
-  "models_2": {
-    "models": [
-      34438
-    ]
-  },
+  "models_2": [
+    34438
+  ],
   "unknown_24": 2686,
   "ambient": 15,
   "actions": [

@@ -1,12 +1,10 @@
 {
   "id": 8420,
   "name": "Diseased Magic Tree",
-  "models_2": {
-    "models": [
-      7983,
-      7768
-    ]
-  },
+  "models_2": [
+    7983,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

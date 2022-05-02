@@ -1,11 +1,9 @@
 {
   "id": 12550,
   "name": "Old tree",
-  "models_2": {
-    "models": [
-      13717
-    ]
-  },
+  "models_2": [
+    13717
+  ],
   "dim_x": 4,
   "unknown_21": true,
   "model": false,

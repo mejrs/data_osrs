@@ -1,11 +1,9 @@
 {
   "id": 13202,
   "name": "Torch",
-  "models_2": {
-    "models": [
-      11321
-    ]
-  },
+  "models_2": [
+    11321
+  ],
   "ambient": 20,
   "actions": [
     "Light",

@@ -1,11 +1,9 @@
 {
   "id": 2137,
   "name": "Barrel",
-  "models_2": {
-    "models": [
-      25198
-    ]
-  },
+  "models_2": [
+    25198
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

@@ -1,11 +1,9 @@
 {
   "id": 36192,
   "name": "Rock Formation (Glowing)",
-  "models_2": {
-    "models": [
-      37816
-    ]
-  },
+  "models_2": [
+    37816
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

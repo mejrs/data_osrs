@@ -1,9 +1,7 @@
 {
   "id": 854,
   "name": "Standard",
-  "models_2": {
-    "models": [
-      1536
-    ]
-  }
+  "models_2": [
+    1536
+  ]
 }

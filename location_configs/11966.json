@@ -1,11 +1,9 @@
 {
   "id": 11966,
   "name": "Egg",
-  "models_2": {
-    "models": [
-      9296
-    ]
-  },
+  "models_2": [
+    9296
+  ],
   "unknown_24": 2600,
   "ambient": 35,
   "contrast": 15,

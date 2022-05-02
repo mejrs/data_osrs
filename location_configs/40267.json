@@ -1,12 +1,10 @@
 {
   "id": 40267,
   "name": "<col=ffff00>Overgrown hellcat",
-  "models_2": {
-    "models": [
-      13409,
-      13405
-    ]
-  },
+  "models_2": [
+    13409,
+    13405
+  ],
   "unknown_24": 317,
   "ambient": 40,
   "colours": [

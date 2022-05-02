@@ -1,11 +1,9 @@
 {
   "id": 33207,
   "name": "<col=ffff00>Yellow Snow</col>",
-  "models_2": {
-    "models": [
-      35829
-    ]
-  },
+  "models_2": [
+    35829
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

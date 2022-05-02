@@ -1,11 +1,9 @@
 {
   "id": 3833,
   "name": "Cocoon",
-  "models_2": {
-    "models": [
-      3845
-    ]
-  },
+  "models_2": [
+    3845
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

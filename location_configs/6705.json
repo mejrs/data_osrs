@@ -1,11 +1,9 @@
 {
   "id": 6705,
   "name": "Mushrooms",
-  "models_2": {
-    "models": [
-      11984
-    ]
-  },
+  "models_2": [
+    11984
+  ],
   "colours": [
     [
       14400,

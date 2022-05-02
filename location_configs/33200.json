@@ -1,11 +1,9 @@
 {
   "id": 33200,
   "name": "<col=ffff00>Don't Know What</col>",
-  "models_2": {
-    "models": [
-      35831
-    ]
-  },
+  "models_2": [
+    35831
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

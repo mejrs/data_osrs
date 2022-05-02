@@ -1,11 +1,9 @@
 {
   "id": 4878,
   "name": "Scimitar Stall",
-  "models_2": {
-    "models": [
-      4762
-    ]
-  },
+  "models_2": [
+    4762
+  ],
   "actions": [
     null,
     "Steal from",

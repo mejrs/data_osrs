@@ -1,11 +1,9 @@
 {
   "id": 4121,
   "name": "Black Chest",
-  "models_2": {
-    "models": [
-      6615
-    ]
-  },
+  "models_2": [
+    6615
+  ],
   "ambient": 20,
   "actions": [
     "Open",

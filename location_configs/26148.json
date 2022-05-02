@@ -1,11 +1,9 @@
 {
   "id": 26148,
   "name": "Eyes",
-  "models_2": {
-    "models": [
-      7437
-    ]
-  },
+  "models_2": [
+    7437
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_69": 11

@@ -1,12 +1,10 @@
 {
   "id": 27378,
   "name": "Buffet table",
-  "models_2": {
-    "models": [
-      30962,
-      30963
-    ]
-  },
+  "models_2": [
+    30962,
+    30963
+  ],
   "dim_x": 3,
   "is_transparent": true,
   "unknown_27": false,

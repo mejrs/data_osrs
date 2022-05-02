@@ -1,9 +1,7 @@
 {
   "id": 19887,
   "name": "Camping equipment",
-  "models_2": {
-    "models": [
-      19995
-    ]
-  }
+  "models_2": [
+    19995
+  ]
 }

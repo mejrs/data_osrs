@@ -1,11 +1,9 @@
 {
   "id": 22273,
   "name": "Broken cannon",
-  "models_2": {
-    "models": [
-      22912
-    ]
-  },
+  "models_2": [
+    22912
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_21": true,

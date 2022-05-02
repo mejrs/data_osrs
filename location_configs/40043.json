@@ -1,12 +1,10 @@
 {
   "id": 40043,
   "name": "Bed",
-  "models_2": {
-    "models": [
-      30214,
-      40789
-    ]
-  },
+  "models_2": [
+    30214,
+    40789
+  ],
   "actions": [
     null,
     "Remove",

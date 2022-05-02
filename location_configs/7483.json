@@ -1,12 +1,10 @@
 {
   "id": 7483,
   "name": "Cooking pot",
-  "models_2": {
-    "models": [
-      24874,
-      24873
-    ]
-  },
+  "models_2": [
+    24874,
+    24873
+  ],
   "unknown_24": 4124,
   "ambient": 25,
   "unknown_78": {

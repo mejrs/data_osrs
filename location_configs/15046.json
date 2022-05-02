@@ -1,11 +1,9 @@
 {
   "id": 15046,
   "name": "Warehouse shelves",
-  "models_2": {
-    "models": [
-      2132
-    ]
-  },
+  "models_2": [
+    2132
+  ],
   "ambient": 10,
   "contrast": 10,
   "colours": [

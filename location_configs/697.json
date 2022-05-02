@@ -1,9 +1,7 @@
 {
   "id": 697,
   "name": "Animal skull",
-  "models_2": {
-    "models": [
-      1733
-    ]
-  }
+  "models_2": [
+    1733
+  ]
 }

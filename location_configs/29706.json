@@ -1,11 +1,9 @@
 {
   "id": 29706,
   "name": "Pool of Nightmares",
-  "models_2": {
-    "models": [
-      32903
-    ]
-  },
+  "models_2": [
+    32903
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 2686,

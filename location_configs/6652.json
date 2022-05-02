@@ -1,15 +1,12 @@
 {
   "id": 6652,
-  "name": "Bridge",
-  "models_2": {
-    "models": [
-      6450
-    ]
-  },
+  "models_2": [
+    6450
+  ],
   "dim_x": 7,
   "dim_y": 2,
+  "unknown_19": 0,
   "unknown_22": true,
   "mirror": true,
-  "translate_y": 120,
-  "mapscene": 46
+  "translate_y": 120
 }

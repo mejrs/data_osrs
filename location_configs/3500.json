@@ -1,11 +1,9 @@
 {
   "id": 3500,
   "name": "Church organ",
-  "models_2": {
-    "models": [
-      1732
-    ]
-  },
+  "models_2": [
+    1732
+  ],
   "dim_x": 2,
   "actions": [
     "Play",

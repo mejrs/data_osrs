@@ -1,11 +1,9 @@
 {
   "id": 34316,
   "name": "Spike defence",
-  "models_2": {
-    "models": [
-      36343
-    ]
-  },
+  "models_2": [
+    36343
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "mapscene": 51

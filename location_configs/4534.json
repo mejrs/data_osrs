@@ -1,11 +1,9 @@
 {
   "id": 4534,
   "name": "Willow tree",
-  "models_2": {
-    "models": [
-      12947
-    ]
-  },
+  "models_2": [
+    12947
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

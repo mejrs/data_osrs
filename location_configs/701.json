@@ -1,11 +1,9 @@
 {
   "id": 701,
   "name": "Curved bone",
-  "models_2": {
-    "models": [
-      1776
-    ]
-  },
+  "models_2": [
+    1776
+  ],
   "colours": [
     [
       127,

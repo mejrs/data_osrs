@@ -1,11 +1,9 @@
 {
   "id": 34319,
   "name": "Glass table",
-  "models_2": {
-    "models": [
-      30923
-    ]
-  },
+  "models_2": [
+    30923
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "is_transparent": true,

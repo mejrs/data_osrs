@@ -1,11 +1,9 @@
 {
   "id": 5897,
   "name": "Shining pool",
-  "models_2": {
-    "models": [
-      5724
-    ]
-  },
+  "models_2": [
+    5724
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

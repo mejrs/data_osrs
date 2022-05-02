@@ -1,11 +1,9 @@
 {
   "id": 18137,
   "name": "Windswept tree",
-  "models_2": {
-    "models": [
-      16842
-    ]
-  },
+  "models_2": [
+    16842
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

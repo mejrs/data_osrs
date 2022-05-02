@@ -1,11 +1,9 @@
 {
   "id": 9711,
   "name": "Tree Stump",
-  "models_2": {
-    "models": [
-      8140
-    ]
-  },
+  "models_2": [
+    8140
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

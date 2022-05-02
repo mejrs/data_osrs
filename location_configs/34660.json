@@ -1,11 +1,9 @@
 {
   "id": 34660,
   "name": "Brimstone chest",
-  "models_2": {
-    "models": [
-      36952
-    ]
-  },
+  "models_2": [
+    36952
+  ],
   "unknown_19": 1,
   "ambient": 10,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 31677,
   "name": "Dawn",
-  "models_2": {
-    "models": [
-      34178
-    ]
-  },
+  "models_2": [
+    34178
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "unknown_19": 1

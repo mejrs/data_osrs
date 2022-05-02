@@ -1,11 +1,9 @@
 {
   "id": 38515,
   "name": "Ancient Books",
-  "models_2": {
-    "models": [
-      40132
-    ]
-  },
+  "models_2": [
+    40132
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

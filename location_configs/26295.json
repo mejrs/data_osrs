@@ -1,11 +1,9 @@
 {
   "id": 26295,
   "name": "Bear droppings",
-  "models_2": {
-    "models": [
-      6048
-    ]
-  },
+  "models_2": [
+    6048
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "unknown_24": 1881,

@@ -1,11 +1,9 @@
 {
   "id": 41540,
   "name": "Security Barrier",
-  "models_2": {
-    "models": [
-      42030
-    ]
-  },
+  "models_2": [
+    42030
+  ],
   "ambient": 30,
   "actions": [
     "Enter",

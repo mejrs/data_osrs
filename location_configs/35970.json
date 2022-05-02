@@ -1,11 +1,9 @@
 {
   "id": 35970,
   "name": "Phren Roots (Depleted)",
-  "models_2": {
-    "models": [
-      37610
-    ]
-  },
+  "models_2": [
+    37610
+  ],
   "ambient": 30,
   "contrast": 44,
   "category": 1356,

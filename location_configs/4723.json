@@ -1,11 +1,9 @@
 {
   "id": 4723,
   "name": "Crate",
-  "models_2": {
-    "models": [
-      2142
-    ]
-  },
+  "models_2": [
+    2142
+  ],
   "actions": [
     "Search",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 6081,
   "name": "Bank table",
-  "models_2": {
-    "models": [
-      1262
-    ]
-  },
+  "models_2": [
+    1262
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "colours": [

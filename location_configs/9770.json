@@ -1,11 +1,9 @@
 {
   "id": 9770,
   "name": "Light door",
-  "models_2": {
-    "models": [
-      9723
-    ]
-  },
+  "models_2": [
+    9723
+  ],
   "unknown_24": 2746,
   "ambient": 100,
   "contrast": 100,

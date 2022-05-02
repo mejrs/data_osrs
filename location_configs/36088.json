@@ -1,11 +1,9 @@
 {
   "id": 36088,
   "name": "Reward Chest",
-  "models_2": {
-    "models": [
-      37450
-    ]
-  },
+  "models_2": [
+    37450
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

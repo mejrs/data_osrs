@@ -1,11 +1,9 @@
 {
   "id": 13653,
   "name": "Armillary sphere",
-  "models_2": {
-    "models": [
-      12482
-    ]
-  },
+  "models_2": [
+    12482
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "actions": [

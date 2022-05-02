@@ -1,11 +1,9 @@
 {
   "id": 41030,
   "name": "Statue space",
-  "models_2": {
-    "models": [
-      41677
-    ]
-  },
+  "models_2": [
+    41677
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

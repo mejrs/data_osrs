@@ -1,11 +1,9 @@
 {
   "id": 23174,
   "name": "Camping gear",
-  "models_2": {
-    "models": [
-      20051
-    ]
-  },
+  "models_2": [
+    20051
+  ],
   "colours": [
     [
       49,

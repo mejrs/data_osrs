@@ -1,12 +1,10 @@
 {
   "id": 39892,
   "name": "Teak table",
-  "models_2": {
-    "models": [
-      12492,
-      40791
-    ]
-  },
+  "models_2": [
+    12492,
+    40791
+  ],
   "ambient": 25,
   "actions": [
     null,

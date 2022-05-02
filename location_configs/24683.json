@@ -1,11 +1,9 @@
 {
   "id": 24683,
   "name": "Chair",
-  "models_2": {
-    "models": [
-      23959
-    ]
-  },
+  "models_2": [
+    23959
+  ],
   "ambient": 25,
   "contrast": 15,
   "colours": [

@@ -1,11 +1,9 @@
 {
   "id": 30033,
   "name": "Small crystals",
-  "models_2": {
-    "models": [
-      32708
-    ]
-  },
+  "models_2": [
+    32708
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "colours": [

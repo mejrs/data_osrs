@@ -1,0 +1,22 @@
+{
+  "id": 43072,
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 9228,
+  "unknown_27": false,
+  "scale_x": 240,
+  "scale_y": 240,
+  "scale_z": 240,
+  "morphs_1": {
+    "varbit": 13513,
+    "ids": [
+      43011,
+      43012
+    ]
+  },
+  "unknown_78": {
+    "unknown_1": 5312,
+    "unknown_2": 4
+  }
+}

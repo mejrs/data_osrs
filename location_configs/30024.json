@@ -1,12 +1,10 @@
 {
   "id": 30024,
   "name": "Septic tendrils",
-  "models_2": {
-    "models": [
-      7458,
-      7766
-    ]
-  },
+  "models_2": [
+    7458,
+    7766
+  ],
   "unknown_19": 1,
   "unknown_24": 2173,
   "unknown_27": false,

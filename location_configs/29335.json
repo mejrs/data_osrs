@@ -1,11 +1,9 @@
 {
   "id": 29335,
   "name": "Combat dummy space",
-  "models_2": {
-    "models": [
-      32311
-    ]
-  },
+  "models_2": [
+    32311
+  ],
   "actions": [
     null,
     null,

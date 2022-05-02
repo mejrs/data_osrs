@@ -1,9 +1,7 @@
 {
   "id": 1024,
   "name": "Shelves",
-  "models_2": {
-    "models": [
-      1144
-    ]
-  }
+  "models_2": [
+    1144
+  ]
 }

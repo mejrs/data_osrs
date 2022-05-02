@@ -1,11 +1,9 @@
 {
   "id": 14259,
   "name": "Lander boat",
-  "models_2": {
-    "models": [
-      14508
-    ]
-  },
+  "models_2": [
+    14508
+  ],
   "dim_x": 3,
   "unknown_22": true,
   "ambient": 20,

@@ -1,11 +1,9 @@
 {
   "id": 10246,
   "name": "Broken kiln",
-  "models_2": {
-    "models": [
-      6171
-    ]
-  },
+  "models_2": [
+    6171
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

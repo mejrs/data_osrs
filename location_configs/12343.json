@@ -1,13 +1,11 @@
 {
   "id": 12343,
   "name": "Skrach Uglogwee",
-  "models_2": {
-    "models": [
-      13685,
-      13686,
-      13684
-    ]
-  },
+  "models_2": [
+    13685,
+    13686,
+    13684
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 36081,
   "name": "Gauntlet Portal",
-  "models_2": {
-    "models": [
-      37928
-    ]
-  },
+  "models_2": [
+    37928
+  ],
   "dim_x": 6,
   "dim_y": 2,
   "ambient": 20,

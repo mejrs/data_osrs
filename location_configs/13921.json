@@ -1,11 +1,9 @@
 {
   "id": 13921,
   "name": "Confusing door",
-  "models_2": {
-    "models": [
-      14217
-    ]
-  },
+  "models_2": [
+    14217
+  ],
   "unknown_21": true,
   "actions": [
     "Enter",

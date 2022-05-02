@@ -1,12 +1,10 @@
 {
   "id": 13370,
   "name": "Huge Spider",
-  "models_2": {
-    "models": [
-      2884,
-      13415
-    ]
-  },
+  "models_2": [
+    2884,
+    13415
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

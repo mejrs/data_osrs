@@ -1,11 +1,9 @@
 {
   "id": 19439,
   "name": "Burrow",
-  "models_2": {
-    "models": [
-      733
-    ]
-  },
+  "models_2": [
+    733
+  ],
   "actions": [
     "Inspect",
     null,

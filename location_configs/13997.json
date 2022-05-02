@@ -1,13 +1,11 @@
 {
   "id": 13997,
   "name": "Weapon rack",
-  "models_2": {
-    "models": [
-      6382,
-      6047,
-      5923
-    ]
-  },
+  "models_2": [
+    6382,
+    6047,
+    5923
+  ],
   "dim_y": 2,
   "actions": [
     "Take-from",

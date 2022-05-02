@@ -1,12 +1,10 @@
 {
   "id": 9051,
   "name": "Diseased goutweed",
-  "models_2": {
-    "models": [
-      7874,
-      7766
-    ]
-  },
+  "models_2": [
+    7874,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Cure",

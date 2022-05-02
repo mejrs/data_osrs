@@ -1,11 +1,9 @@
 {
   "id": 2181,
   "name": "Ballista",
-  "models_2": {
-    "models": [
-      2225
-    ]
-  },
+  "models_2": [
+    2225
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "actions": [

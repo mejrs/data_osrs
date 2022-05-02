@@ -1,12 +1,10 @@
 {
   "id": 33314,
   "name": "New farming patch",
-  "models_2": {
-    "models": [
-      19148,
-      19152
-    ]
-  },
+  "models_2": [
+    19148,
+    19152
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

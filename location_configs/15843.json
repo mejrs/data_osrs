@@ -1,11 +1,9 @@
 {
   "id": 15843,
   "name": "Bamboo Pipes",
-  "models_2": {
-    "models": [
-      15820
-    ]
-  },
+  "models_2": [
+    15820
+  ],
   "colours": [
     [
       5912,

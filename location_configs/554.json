@@ -1,11 +1,9 @@
 {
   "id": 554,
   "name": "Icicle",
-  "models_2": {
-    "models": [
-      709
-    ]
-  },
+  "models_2": [
+    709
+  ],
   "colours": [
     [
       5916,

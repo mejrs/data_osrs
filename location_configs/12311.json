@@ -1,9 +1,7 @@
 {
   "id": 12311,
   "name": "Chair",
-  "models_2": {
-    "models": [
-      12760
-    ]
-  }
+  "models_2": [
+    12760
+  ]
 }

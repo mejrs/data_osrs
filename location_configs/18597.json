@@ -1,12 +1,10 @@
 {
   "id": 18597,
   "name": "Stairwell",
-  "models_2": {
-    "models": [
-      18710,
-      18709
-    ]
-  },
+  "models_2": [
+    18710,
+    18709
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

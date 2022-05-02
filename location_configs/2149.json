@@ -1,9 +1,7 @@
 {
   "id": 2149,
   "name": "Obelisk",
-  "models_2": {
-    "models": [
-      1810
-    ]
-  }
+  "models_2": [
+    1810
+  ]
 }

@@ -1,11 +1,9 @@
 {
   "id": 30096,
   "name": "Ancient Relic",
-  "models_2": {
-    "models": [
-      32705
-    ]
-  },
+  "models_2": [
+    32705
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

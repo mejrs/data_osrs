@@ -1,11 +1,9 @@
 {
   "id": 37494,
   "name": "Basic Jewellery Box",
-  "models_2": {
-    "models": [
-      32156
-    ]
-  },
+  "models_2": [
+    32156
+  ],
   "unknown_19": 1,
   "actions": [
     null,

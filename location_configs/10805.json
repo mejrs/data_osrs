@@ -1,11 +1,9 @@
 {
   "id": 10805,
   "name": "Sandy's Desk",
-  "models_2": {
-    "models": [
-      10715
-    ]
-  },
+  "models_2": [
+    10715
+  ],
   "dim_x": 2,
   "actions": [
     "Search",

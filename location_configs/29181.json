@@ -1,11 +1,9 @@
 {
   "id": 29181,
   "name": "Mounted Agility Cape (t)",
-  "models_2": {
-    "models": [
-      32176
-    ]
-  },
+  "models_2": [
+    32176
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

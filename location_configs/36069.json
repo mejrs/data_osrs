@@ -1,11 +1,9 @@
 {
   "id": 36069,
   "name": "Fishing Spot (Depleted)",
-  "models_2": {
-    "models": [
-      37464
-    ]
-  },
+  "models_2": [
+    37464
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

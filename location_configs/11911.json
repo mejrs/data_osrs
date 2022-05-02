@@ -1,11 +1,9 @@
 {
   "id": 11911,
   "name": "Bush",
-  "models_2": {
-    "models": [
-      11550
-    ]
-  },
+  "models_2": [
+    11550
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,

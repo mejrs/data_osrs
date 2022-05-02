@@ -1,11 +1,9 @@
 {
   "id": 41826,
   "name": "Stone Pile",
-  "models_2": {
-    "models": [
-      4476
-    ]
-  },
+  "models_2": [
+    4476
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,

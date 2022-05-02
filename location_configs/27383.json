@@ -1,11 +1,9 @@
 {
   "id": 27383,
   "name": "Tithe patch",
-  "models_2": {
-    "models": [
-      7768
-    ]
-  },
+  "models_2": [
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "is_transparent": true,

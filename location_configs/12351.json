@@ -1,11 +1,9 @@
 {
   "id": 12351,
   "name": "Barrier",
-  "models_2": {
-    "models": [
-      13669
-    ]
-  },
+  "models_2": [
+    13669
+  ],
   "unknown_24": 3349,
   "ambient": 40,
   "actions": [

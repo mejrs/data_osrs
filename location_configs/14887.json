@@ -1,11 +1,9 @@
 {
   "id": 14887,
   "name": "Potter's Wheel",
-  "models_2": {
-    "models": [
-      1179
-    ]
-  },
+  "models_2": [
+    1179
+  ],
   "actions": [
     "Use",
     null,

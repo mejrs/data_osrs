@@ -1,11 +1,9 @@
 {
   "id": 33310,
   "name": "Fire pit",
-  "models_2": {
-    "models": [
-      35935
-    ]
-  },
+  "models_2": [
+    35935
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

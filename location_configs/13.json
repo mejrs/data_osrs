@@ -1,11 +1,9 @@
 {
   "id": 13,
   "name": "Mud pile",
-  "models_2": {
-    "models": [
-      1411
-    ]
-  },
+  "models_2": [
+    1411
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "unknown_21": true,

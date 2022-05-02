@@ -1,11 +1,9 @@
 {
   "id": 18770,
   "name": "Marble cape rack",
-  "models_2": {
-    "models": [
-      19007
-    ]
-  },
+  "models_2": [
+    19007
+  ],
   "ambient": 20,
   "actions": [
     "Search",

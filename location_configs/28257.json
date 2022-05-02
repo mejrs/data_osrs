@@ -1,13 +1,11 @@
 {
   "id": 28257,
   "name": "Bookshelf",
-  "models_2": {
-    "models": [
-      30806,
-      30807,
-      30784
-    ]
-  },
+  "models_2": [
+    30806,
+    30807,
+    30784
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,

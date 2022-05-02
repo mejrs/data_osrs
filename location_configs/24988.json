@@ -1,11 +1,9 @@
 {
   "id": 24988,
   "name": "Centre of crop circle",
-  "models_2": {
-    "models": [
-      26336
-    ]
-  },
+  "models_2": [
+    26336
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 6627,

@@ -1,12 +1,10 @@
 {
   "id": 10295,
   "name": "Bar pumps",
-  "models_2": {
-    "models": [
-      5281,
-      5282
-    ]
-  },
+  "models_2": [
+    5281,
+    5282
+  ],
   "colours": [
     [
       5559,

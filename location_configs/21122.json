@@ -1,11 +1,9 @@
 {
   "id": 21122,
   "name": "Stepping Stone",
-  "models_2": {
-    "models": [
-      21533
-    ]
-  },
+  "models_2": [
+    21533
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_24": 3743,

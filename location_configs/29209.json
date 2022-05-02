@@ -1,11 +1,9 @@
 {
   "id": 29209,
   "name": "Mounted Mining Cape (t)",
-  "models_2": {
-    "models": [
-      32185
-    ]
-  },
+  "models_2": [
+    32185
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

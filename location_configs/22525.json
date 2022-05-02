@@ -1,12 +1,10 @@
 {
   "id": 22525,
   "name": "Rachel (sick)",
-  "models_2": {
-    "models": [
-      23209,
-      23196
-    ]
-  },
+  "models_2": [
+    23209,
+    23196
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

@@ -1,11 +1,9 @@
 {
   "id": 28951,
   "name": "STASH (master)",
-  "models_2": {
-    "models": [
-      32056
-    ]
-  },
+  "models_2": [
+    32056
+  ],
   "unknown_19": 1,
   "actions": [
     null,

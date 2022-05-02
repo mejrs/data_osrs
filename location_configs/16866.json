@@ -1,11 +1,9 @@
 {
   "id": 16866,
   "name": "Sack pile",
-  "models_2": {
-    "models": [
-      16526,
-      13903
-    ]
-  },
+  "models_2": [
+    16526,
+    13903
+  ],
   "category": 529
 }

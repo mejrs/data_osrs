@@ -1,11 +1,9 @@
 {
   "id": 41842,
   "name": "Arceuus statue",
-  "models_2": {
-    "models": [
-      37267
-    ]
-  },
+  "models_2": [
+    37267
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

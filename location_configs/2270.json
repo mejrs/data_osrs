@@ -1,10 +1,8 @@
 {
   "id": 2270,
   "name": "Plant",
-  "models_2": {
-    "models": [
-      1617
-    ]
-  },
+  "models_2": [
+    1617
+  ],
   "mapscene": 5
 }

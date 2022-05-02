@@ -1,11 +1,9 @@
 {
   "id": 32863,
   "name": "Support",
-  "models_2": {
-    "models": [
-      35640
-    ]
-  },
+  "models_2": [
+    35640
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

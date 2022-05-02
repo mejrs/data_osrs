@@ -1,11 +1,9 @@
 {
   "id": 13542,
   "name": "Fancy range",
-  "models_2": {
-    "models": [
-      12632
-    ]
-  },
+  "models_2": [
+    12632
+  ],
   "dim_y": 2,
   "ambient": 25,
   "actions": [

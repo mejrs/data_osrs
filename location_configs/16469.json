@@ -1,12 +1,10 @@
 {
   "id": 16469,
   "name": "Furnace",
-  "models_2": {
-    "models": [
-      29109,
-      29108
-    ]
-  },
+  "models_2": [
+    29109,
+    29108
+  ],
   "unknown_24": 2416,
   "ambient": 20,
   "actions": [

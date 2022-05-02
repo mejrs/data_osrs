@@ -1,11 +1,9 @@
 {
   "id": 17769,
   "name": "Ornate vase",
-  "models_2": {
-    "models": [
-      5562
-    ]
-  },
+  "models_2": [
+    5562
+  ],
   "colours": [
     [
       8375,

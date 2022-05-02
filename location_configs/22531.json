@@ -1,12 +1,10 @@
 {
   "id": 22531,
   "name": "Rachel (Well)",
-  "models_2": {
-    "models": [
-      23194,
-      23196
-    ]
-  },
+  "models_2": [
+    23194,
+    23196
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

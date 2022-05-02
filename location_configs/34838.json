@@ -1,11 +1,9 @@
 {
   "id": 34838,
   "name": "Grubby Chest",
-  "models_2": {
-    "models": [
-      37325
-    ]
-  },
+  "models_2": [
+    37325
+  ],
   "ambient": 20,
   "actions": [
     "Open",

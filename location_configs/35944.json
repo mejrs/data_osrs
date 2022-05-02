@@ -1,11 +1,9 @@
 {
   "id": 35944,
   "name": "<col=ff9040>Orb of light</col>",
-  "models_2": {
-    "models": [
-      3176
-    ]
-  },
+  "models_2": [
+    3176
+  ],
   "unknown_19": 1,
   "actions": [
     "Take",

@@ -1,11 +1,9 @@
 {
   "id": 8748,
   "name": "Spinning wheel",
-  "models_2": {
-    "models": [
-      2248
-    ]
-  },
+  "models_2": [
+    2248
+  ],
   "actions": [
     null,
     "Spin",

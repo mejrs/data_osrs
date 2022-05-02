@@ -1,11 +1,9 @@
 {
   "id": 37630,
   "name": "Nightmare Topiary",
-  "models_2": {
-    "models": [
-      39505
-    ]
-  },
+  "models_2": [
+    39505
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

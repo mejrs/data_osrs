@@ -1,11 +1,9 @@
 {
   "id": 36061,
   "name": "Crystal Sceptre",
-  "models_2": {
-    "models": [
-      37455
-    ]
-  },
+  "models_2": [
+    37455
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

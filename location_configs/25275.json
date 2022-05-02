@@ -1,11 +1,9 @@
 {
   "id": 25275,
   "name": "Whirlpool",
-  "models_2": {
-    "models": [
-      26699
-    ]
-  },
+  "models_2": [
+    26699
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "is_transparent": true,

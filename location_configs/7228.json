@@ -1,11 +1,9 @@
 {
   "id": 7228,
   "name": "Wall",
-  "models_2": {
-    "models": [
-      7581
-    ]
-  },
+  "models_2": [
+    7581
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 2196,

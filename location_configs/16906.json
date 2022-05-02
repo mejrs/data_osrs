@@ -1,11 +1,9 @@
 {
   "id": 16906,
   "name": "Wheel",
-  "models_2": {
-    "models": [
-      16583
-    ]
-  },
+  "models_2": [
+    16583
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 20,

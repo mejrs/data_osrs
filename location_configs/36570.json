@@ -1,11 +1,9 @@
 {
   "id": 36570,
   "name": "Silver stall",
-  "models_2": {
-    "models": [
-      37897
-    ]
-  },
+  "models_2": [
+    37897
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 32741,
   "name": "Skeleton",
-  "models_2": {
-    "models": [
-      35724
-    ]
-  },
+  "models_2": [
+    35724
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_19": 1,

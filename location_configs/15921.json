@@ -1,10 +1,8 @@
 {
   "id": 15921,
   "name": "middle section",
-  "models_2": {
-    "models": [
-      15798
-    ]
-  },
+  "models_2": [
+    15798
+  ],
   "mirror": true
 }

@@ -1,11 +1,9 @@
 {
   "id": 29327,
   "name": "Bank Deposit Box",
-  "models_2": {
-    "models": [
-      32251
-    ]
-  },
+  "models_2": [
+    32251
+  ],
   "ambient": 25,
   "actions": [
     "Deposit",

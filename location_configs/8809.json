@@ -1,11 +1,9 @@
 {
   "id": 8809,
   "name": "Rotten Apple Pile",
-  "models_2": {
-    "models": [
-      8287
-    ]
-  },
+  "models_2": [
+    8287
+  ],
   "actions": [
     "Take-from",
     null,

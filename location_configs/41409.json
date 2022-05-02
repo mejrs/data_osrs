@@ -1,11 +1,9 @@
 {
   "id": 41409,
   "name": "Hammers",
-  "models_2": {
-    "models": [
-      32072
-    ]
-  },
+  "models_2": [
+    32072
+  ],
   "ambient": 20,
   "actions": [
     "Take",

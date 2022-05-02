@@ -1,11 +1,9 @@
 {
   "id": 33003,
   "name": "Grand bookshelf",
-  "models_2": {
-    "models": [
-      35440
-    ]
-  },
+  "models_2": [
+    35440
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "unknown_22": true,

@@ -1,11 +1,9 @@
 {
   "id": 255,
   "name": "Winch",
-  "models_2": {
-    "models": [
-      1835
-    ]
-  },
+  "models_2": [
+    1835
+  ],
   "actions": [
     "Operate",
     null,

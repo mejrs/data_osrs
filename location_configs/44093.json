@@ -1,0 +1,13 @@
+{
+  "id": 44093,
+  "models_2": [
+    44739
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 15,
+  "mapscene": 12
+}

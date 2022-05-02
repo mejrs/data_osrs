@@ -1,9 +1,7 @@
 {
   "id": 31713,
   "name": "Throne",
-  "models_2": {
-    "models": [
-      12595
-    ]
-  }
+  "models_2": [
+    12595
+  ]
 }

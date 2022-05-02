@@ -1,11 +1,9 @@
 {
   "id": 16467,
   "name": "Incubation chamber",
-  "models_2": {
-    "models": [
-      31322
-    ]
-  },
+  "models_2": [
+    31322
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_19": 1,

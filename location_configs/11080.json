@@ -1,11 +1,9 @@
 {
   "id": 11080,
   "name": "Scaffold",
-  "models_2": {
-    "models": [
-      1510
-    ]
-  },
+  "models_2": [
+    1510
+  ],
   "dim_x": 2,
   "colours": [
     [

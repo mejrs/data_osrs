@@ -1,11 +1,9 @@
 {
   "id": 40967,
   "name": "Harpoons",
-  "models_2": {
-    "models": [
-      41840
-    ]
-  },
+  "models_2": [
+    41840
+  ],
   "ambient": 20,
   "actions": [
     "Take",

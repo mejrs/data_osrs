@@ -1,11 +1,9 @@
 {
   "id": 30801,
   "name": "Mushtree",
-  "models_2": {
-    "models": [
-      33668
-    ]
-  },
+  "models_2": [
+    33668
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_27": false

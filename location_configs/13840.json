@@ -1,11 +1,9 @@
 {
   "id": 13840,
   "name": "Spiny bush",
-  "models_2": {
-    "models": [
-      14146
-    ]
-  },
+  "models_2": [
+    14146
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

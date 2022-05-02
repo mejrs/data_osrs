@@ -1,11 +1,9 @@
 {
   "id": 20247,
   "name": "Horn of glory",
-  "models_2": {
-    "models": [
-      20661
-    ]
-  },
+  "models_2": [
+    20661
+  ],
   "dim_y": 2,
   "unknown_24": 5423,
   "actions": [

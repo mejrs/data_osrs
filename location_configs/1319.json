@@ -1,11 +1,9 @@
 {
   "id": 1319,
   "name": "Evergreen",
-  "models_2": {
-    "models": [
-      1611
-    ]
-  },
+  "models_2": [
+    1611
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "actions": [

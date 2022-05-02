@@ -1,12 +1,10 @@
 {
   "id": 23676,
   "name": "Graveyard Teleport",
-  "models_2": {
-    "models": [
-      10619,
-      10618
-    ]
-  },
+  "models_2": [
+    10619,
+    10618
+  ],
   "unknown_19": 1,
   "unknown_24": 3030,
   "actions": [

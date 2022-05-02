@@ -1,11 +1,9 @@
 {
   "id": 7091,
   "name": "Study Desk",
-  "models_2": {
-    "models": [
-      7399
-    ]
-  },
+  "models_2": [
+    7399
+  ],
   "dim_x": 2,
   "colours": [
     [

@@ -1,11 +1,9 @@
 {
   "id": 42966,
   "name": "Ancient Forge",
-  "models_2": {
-    "models": [
-      43250
-    ]
-  },
+  "models_2": [
+    43250
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "unknown_22": true,

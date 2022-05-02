@@ -1,11 +1,9 @@
 {
   "id": 15970,
   "name": "Scrapey Tree",
-  "models_2": {
-    "models": [
-      15774
-    ]
-  },
+  "models_2": [
+    15774
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 30,

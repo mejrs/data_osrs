@@ -1,11 +1,9 @@
 {
   "id": 36577,
   "name": "Iorwerth Banner",
-  "models_2": {
-    "models": [
-      37933
-    ]
-  },
+  "models_2": [
+    37933
+  ],
   "unknown_27": false,
   "ambient": 20,
   "contrast": 10

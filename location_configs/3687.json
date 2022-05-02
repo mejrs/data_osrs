@@ -1,11 +1,9 @@
 {
   "id": 3687,
   "name": "Boxes",
-  "models_2": {
-    "models": [
-      2140
-    ]
-  },
+  "models_2": [
+    2140
+  ],
   "is_transparent": true,
   "actions": [
     "Search",

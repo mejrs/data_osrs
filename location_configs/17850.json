@@ -1,11 +1,9 @@
 {
   "id": 17850,
   "name": "Rift",
-  "models_2": {
-    "models": [
-      13257
-    ]
-  },
+  "models_2": [
+    13257
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 35,

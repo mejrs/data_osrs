@@ -1,11 +1,9 @@
 {
   "id": 22419,
   "name": "Millstones",
-  "models_2": {
-    "models": [
-      22789
-    ]
-  },
+  "models_2": [
+    22789
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 1731,

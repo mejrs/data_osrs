@@ -1,12 +1,10 @@
 {
   "id": 13846,
   "name": "Swamp tree branch",
-  "models_2": {
-    "models": [
-      14148,
-      14172
-    ]
-  },
+  "models_2": [
+    14148,
+    14172
+  ],
   "dim_y": 2,
   "ambient": 10,
   "actions": [

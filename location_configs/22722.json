@@ -1,11 +1,9 @@
 {
   "id": 22722,
   "name": "Bellows",
-  "models_2": {
-    "models": [
-      23438
-    ]
-  },
+  "models_2": [
+    23438
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

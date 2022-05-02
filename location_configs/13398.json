@@ -1,11 +1,9 @@
 {
   "id": 13398,
   "name": "Stick",
-  "models_2": {
-    "models": [
-      13196
-    ]
-  },
+  "models_2": [
+    13196
+  ],
   "actions": [
     "Hoop",
     null,

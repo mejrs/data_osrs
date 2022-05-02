@@ -1,11 +1,9 @@
 {
   "id": 18325,
   "name": "Ladder",
-  "models_2": {
-    "models": [
-      18430
-    ]
-  },
+  "models_2": [
+    18430
+  ],
   "actions": [
     "Climb-down",
     null,

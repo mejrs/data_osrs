@@ -1,12 +1,10 @@
 {
   "id": 9214,
   "name": "White Tree patch",
-  "models_2": {
-    "models": [
-      9217,
-      7768
-    ]
-  },
+  "models_2": [
+    9217,
+    7768
+  ],
   "ambient": 25,
   "colours": [
     [

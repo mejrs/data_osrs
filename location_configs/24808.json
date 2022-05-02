@@ -1,11 +1,9 @@
 {
   "id": 24808,
   "name": "Drain",
-  "models_2": {
-    "models": [
-      25950
-    ]
-  },
+  "models_2": [
+    25950
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 15,

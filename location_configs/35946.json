@@ -1,11 +1,9 @@
 {
   "id": 35946,
   "name": "Cauldron",
-  "models_2": {
-    "models": [
-      2241
-    ]
-  },
+  "models_2": [
+    2241
+  ],
   "unknown_19": 1,
   "unknown_24": 479,
   "colours": [

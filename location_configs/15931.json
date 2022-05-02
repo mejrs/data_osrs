@@ -1,11 +1,9 @@
 {
   "id": 15931,
   "name": "Log Store",
-  "models_2": {
-    "models": [
-      15813
-    ]
-  },
+  "models_2": [
+    15813
+  ],
   "actions": [
     "Take-Log",
     null,

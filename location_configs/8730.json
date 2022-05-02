@@ -1,11 +1,9 @@
 {
   "id": 8730,
   "name": "Young tree",
-  "models_2": {
-    "models": [
-      19931
-    ]
-  },
+  "models_2": [
+    19931
+  ],
   "unknown_24": 5267,
   "actions": [
     "Dismantle",
@@ -17,7 +15,7 @@
   "colours": [
     [
       6682,
-      5388
+      6565
     ]
   ],
   "category": 191,

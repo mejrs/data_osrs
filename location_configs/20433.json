@@ -1,11 +1,9 @@
 {
   "id": 20433,
   "name": "Cart tunnel",
-  "models_2": {
-    "models": [
-      21248
-    ]
-  },
+  "models_2": [
+    21248
+  ],
   "unknown_22": true,
   "ambient": 20,
   "contrast": 20,

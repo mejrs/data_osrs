@@ -1,11 +1,9 @@
 {
   "id": 1186,
   "name": "Curling plant",
-  "models_2": {
-    "models": [
-      1617
-    ]
-  },
+  "models_2": [
+    1617
+  ],
   "unknown_17": false,
   "colours": [
     [

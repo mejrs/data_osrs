@@ -1,11 +1,9 @@
 {
   "id": 4915,
   "name": "Cart tunnel",
-  "models_2": {
-    "models": [
-      21233
-    ]
-  },
+  "models_2": [
+    21233
+  ],
   "unknown_22": true,
   "actions": [
     "Crawl-down",

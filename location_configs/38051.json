@@ -1,11 +1,9 @@
 {
   "id": 38051,
   "name": "Gravestone",
-  "models_2": {
-    "models": [
-      40399
-    ]
-  },
+  "models_2": [
+    40399
+  ],
   "ambient": 30,
   "contrast": 15
 }

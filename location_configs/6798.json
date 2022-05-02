@@ -1,13 +1,11 @@
 {
   "id": 6798,
   "name": "Clockmaker's bench",
-  "models_2": {
-    "models": [
-      12184,
-      12182,
-      12183
-    ]
-  },
+  "models_2": [
+    12184,
+    12182,
+    12183
+  ],
   "dim_x": 2,
   "actions": [
     "Craft",

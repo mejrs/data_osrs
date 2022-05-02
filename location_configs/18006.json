@@ -1,11 +1,9 @@
 {
   "id": 18006,
   "name": "Barrel of fishbones",
-  "models_2": {
-    "models": [
-      17730
-    ]
-  },
+  "models_2": [
+    17730
+  ],
   "ambient": 15,
   "colours": [
     [

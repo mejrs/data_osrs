@@ -1,11 +1,9 @@
 {
   "id": 17788,
   "name": "Fence corner",
-  "models_2": {
-    "models": [
-      17814
-    ]
-  },
+  "models_2": [
+    17814
+  ],
   "scale_x": 128,
   "scale_y": 160,
   "scale_z": 128

@@ -1,11 +1,9 @@
 {
   "id": 18270,
   "name": "Old ruin entrance",
-  "models_2": {
-    "models": [
-      18246
-    ]
-  },
+  "models_2": [
+    18246
+  ],
   "unknown_19": 1,
   "ambient": 25,
   "actions": [

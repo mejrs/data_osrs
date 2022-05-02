@@ -1,11 +1,9 @@
 {
   "id": 38827,
   "name": "Portal frame",
-  "models_2": {
-    "models": [
-      40179
-    ]
-  },
+  "models_2": [
+    40179
+  ],
   "dim_x": 5,
   "unknown_22": true,
   "unknown_24": 8694,

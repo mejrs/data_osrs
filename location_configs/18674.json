@@ -1,11 +1,9 @@
 {
   "id": 18674,
   "name": "Cog",
-  "models_2": {
-    "models": [
-      18840
-    ]
-  },
+  "models_2": [
+    18840
+  ],
   "unknown_19": 1,
   "unknown_24": 4896,
   "ambient": 20,

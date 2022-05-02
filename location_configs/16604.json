@@ -1,11 +1,9 @@
 {
   "id": 16604,
   "name": "Dream tree",
-  "models_2": {
-    "models": [
-      16761
-    ]
-  },
+  "models_2": [
+    16761
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

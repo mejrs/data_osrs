@@ -1,11 +1,9 @@
 {
   "id": 32186,
   "name": "Large Cage",
-  "models_2": {
-    "models": [
-      34701
-    ]
-  },
+  "models_2": [
+    34701
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_27": false

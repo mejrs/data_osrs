@@ -1,11 +1,9 @@
 {
   "id": 7343,
   "name": "Stone Door",
-  "models_2": {
-    "models": [
-      7705
-    ]
-  },
+  "models_2": [
+    7705
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_27": false,

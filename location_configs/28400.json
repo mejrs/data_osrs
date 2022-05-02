@@ -1,11 +1,9 @@
 {
   "id": 28400,
   "name": "Books",
-  "models_2": {
-    "models": [
-      30521
-    ]
-  },
+  "models_2": [
+    30521
+  ],
   "is_transparent": true,
   "unknown_27": false
 }

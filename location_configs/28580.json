@@ -1,11 +1,9 @@
 {
   "id": 28580,
   "name": "Hard rock",
-  "models_2": {
-    "models": [
-      30179
-    ]
-  },
+  "models_2": [
+    30179
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,

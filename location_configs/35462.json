@@ -1,12 +1,10 @@
 {
   "id": 35462,
   "name": "Seal of Ithell",
-  "models_2": {
-    "models": [
-      38333,
-      38327
-    ]
-  },
+  "models_2": [
+    38333,
+    38327
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "ambient": 10,

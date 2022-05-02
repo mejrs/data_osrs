@@ -1,11 +1,9 @@
 {
   "id": 29223,
   "name": "Mounted Thieving Cape (t)",
-  "models_2": {
-    "models": [
-      32180
-    ]
-  },
+  "models_2": [
+    32180
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

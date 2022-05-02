@@ -1,12 +1,10 @@
 {
   "id": 7937,
   "name": "Apple tree",
-  "models_2": {
-    "models": [
-      7917,
-      7767
-    ]
-  },
+  "models_2": [
+    7917,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

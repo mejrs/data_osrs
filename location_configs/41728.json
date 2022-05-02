@@ -1,11 +1,9 @@
 {
   "id": 41728,
   "name": "Clan recruitment board",
-  "models_2": {
-    "models": [
-      42261
-    ]
-  },
+  "models_2": [
+    42261
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "unknown_27": false,

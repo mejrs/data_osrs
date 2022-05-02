@@ -1,11 +1,9 @@
 {
   "id": 38092,
   "name": "Mud mound",
-  "models_2": {
-    "models": [
-      33849
-    ]
-  },
+  "models_2": [
+    33849
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,

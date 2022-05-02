@@ -1,11 +1,9 @@
 {
   "id": 34346,
   "name": "Standing torch",
-  "models_2": {
-    "models": [
-      2288
-    ]
-  },
+  "models_2": [
+    2288
+  ],
   "unknown_24": 473,
   "colours": [
     [

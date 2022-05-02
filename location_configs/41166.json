@@ -1,11 +1,9 @@
 {
   "id": 41166,
   "name": "Oak outfit stand",
-  "models_2": {
-    "models": [
-      41674
-    ]
-  },
+  "models_2": [
+    41674
+  ],
   "unknown_19": 1,
   "ambient": 20,
   "actions": [

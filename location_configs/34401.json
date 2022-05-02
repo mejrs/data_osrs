@@ -1,11 +1,9 @@
 {
   "id": 34401,
   "name": "Olmic pillar",
-  "models_2": {
-    "models": [
-      36385
-    ]
-  },
+  "models_2": [
+    36385
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

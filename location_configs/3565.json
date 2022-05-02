@@ -1,11 +1,9 @@
 {
   "id": 3565,
   "name": "Low wall",
-  "models_2": {
-    "models": [
-      3654
-    ]
-  },
+  "models_2": [
+    3654
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "actions": [

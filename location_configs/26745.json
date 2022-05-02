@@ -1,11 +1,9 @@
 {
   "id": 26745,
   "name": "Viewing orb",
-  "models_2": {
-    "models": [
-      9754
-    ]
-  },
+  "models_2": [
+    9754
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 2657,

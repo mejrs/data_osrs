@@ -1,11 +1,9 @@
 {
   "id": 7433,
   "name": "Oak chair",
-  "models_2": {
-    "models": [
-      12446
-    ]
-  },
+  "models_2": [
+    12446
+  ],
   "ambient": 25,
   "colours": [
     [

@@ -1,11 +1,9 @@
 {
   "id": 14611,
   "name": "Bones",
-  "models_2": {
-    "models": [
-      14331
-    ]
-  },
+  "models_2": [
+    14331
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

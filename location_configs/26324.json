@@ -1,11 +1,9 @@
 {
   "id": 26324,
   "name": "Old axe",
-  "models_2": {
-    "models": [
-      27893
-    ]
-  },
+  "models_2": [
+    27893
+  ],
   "dim_y": 2,
   "unknown_21": true,
   "ambient": 25

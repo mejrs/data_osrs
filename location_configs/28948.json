@@ -1,11 +1,9 @@
 {
   "id": 28948,
   "name": "Inconspicuous crate (elite)",
-  "models_2": {
-    "models": [
-      31450
-    ]
-  },
+  "models_2": [
+    31450
+  ],
   "unknown_19": 1,
   "actions": [
     "Build",

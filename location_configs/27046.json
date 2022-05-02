@@ -1,11 +1,9 @@
 {
   "id": 27046,
   "name": "Boils",
-  "models_2": {
-    "models": [
-      7420
-    ]
-  },
+  "models_2": [
+    7420
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

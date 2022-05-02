@@ -1,11 +1,9 @@
 {
   "id": 34873,
   "name": "Empty Sarcophagus",
-  "models_2": {
-    "models": [
-      37322
-    ]
-  },
+  "models_2": [
+    37322
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

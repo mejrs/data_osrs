@@ -1,11 +1,9 @@
 {
   "id": 37424,
   "name": "The Jormungand",
-  "models_2": {
-    "models": [
-      38881
-    ]
-  },
+  "models_2": [
+    38881
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "unknown_19": 1,

@@ -1,10 +1,8 @@
 {
   "id": 6064,
   "name": "Hat stand",
-  "models_2": {
-    "models": [
-      5935
-    ]
-  },
+  "models_2": [
+    5935
+  ],
   "category": 153
 }

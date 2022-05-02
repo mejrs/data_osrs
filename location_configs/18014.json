@@ -1,12 +1,10 @@
 {
   "id": 18014,
   "name": "Table and till",
-  "models_2": {
-    "models": [
-      4326,
-      17735
-    ]
-  },
+  "models_2": [
+    4326,
+    17735
+  ],
   "ambient": 12,
   "colours": [
     [

@@ -1,11 +1,9 @@
 {
   "id": 24591,
   "name": "Button",
-  "models_2": {
-    "models": [
-      25792
-    ]
-  },
+  "models_2": [
+    25792
+  ],
   "dim_x": 2,
   "unknown_27": false,
   "ambient": 20,

@@ -1,11 +1,9 @@
 {
   "id": 19033,
   "name": "Snow",
-  "models_2": {
-    "models": [
-      20485
-    ]
-  },
+  "models_2": [
+    20485
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,

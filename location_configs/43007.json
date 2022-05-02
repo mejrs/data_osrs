@@ -1,0 +1,21 @@
+{
+  "id": 43007,
+  "name": "Varrock Waystone",
+  "models_2": [
+    43391
+  ],
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "scale_x": 220,
+  "scale_y": 220,
+  "scale_z": 220,
+  "mapscene": 14
+}

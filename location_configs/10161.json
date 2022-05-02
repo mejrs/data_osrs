@@ -1,9 +1,7 @@
 {
   "id": 10161,
   "name": "Boxes",
-  "models_2": {
-    "models": [
-      5283
-    ]
-  }
+  "models_2": [
+    5283
+  ]
 }

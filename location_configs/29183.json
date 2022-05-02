@@ -1,11 +1,9 @@
 {
   "id": 29183,
   "name": "Mounted Attack Cape (t)",
-  "models_2": {
-    "models": [
-      32197
-    ]
-  },
+  "models_2": [
+    32197
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

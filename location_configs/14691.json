@@ -1,11 +1,9 @@
 {
   "id": 14691,
   "name": "Mushroom",
-  "models_2": {
-    "models": [
-      14715
-    ]
-  },
+  "models_2": [
+    14715
+  ],
   "is_transparent": true,
   "colours": [
     [

@@ -1,11 +1,9 @@
 {
   "id": 15954,
   "name": "Jungle Tree",
-  "models_2": {
-    "models": [
-      15811
-    ]
-  },
+  "models_2": [
+    15811
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 30,

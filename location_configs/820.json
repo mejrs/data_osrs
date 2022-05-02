@@ -1,11 +1,9 @@
 {
   "id": 820,
   "name": "Suit of armour",
-  "models_2": {
-    "models": [
-      1214
-    ]
-  },
+  "models_2": [
+    1214
+  ],
   "colours": [
     [
       926,

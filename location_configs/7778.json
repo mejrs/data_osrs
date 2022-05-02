@@ -1,12 +1,10 @@
 {
   "id": 7778,
   "name": "Calquat Tree",
-  "models_2": {
-    "models": [
-      7951,
-      7768
-    ]
-  },
+  "models_2": [
+    7951,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

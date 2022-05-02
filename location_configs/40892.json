@@ -1,11 +1,9 @@
 {
   "id": 40892,
   "name": "<col=ff9040>Sled</col>",
-  "models_2": {
-    "models": [
-      4937
-    ]
-  },
+  "models_2": [
+    4937
+  ],
   "unknown_19": 1,
   "actions": [
     "Take",

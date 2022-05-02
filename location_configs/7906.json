@@ -1,13 +1,11 @@
 {
   "id": 7906,
   "name": "Rosemary",
-  "models_2": {
-    "models": [
-      7863,
-      7767,
-      7783
-    ]
-  },
+  "models_2": [
+    7863,
+    7767,
+    7783
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

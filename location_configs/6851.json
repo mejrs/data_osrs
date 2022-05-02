@@ -1,11 +1,9 @@
 {
   "id": 6851,
   "name": "Ogre Coffin",
-  "models_2": {
-    "models": [
-      6808
-    ]
-  },
+  "models_2": [
+    6808
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "is_transparent": true,

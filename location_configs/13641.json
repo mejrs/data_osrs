@@ -1,11 +1,9 @@
 {
   "id": 13641,
   "name": "Greater teleport focus",
-  "models_2": {
-    "models": [
-      13200
-    ]
-  },
+  "models_2": [
+    13200
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 3648,

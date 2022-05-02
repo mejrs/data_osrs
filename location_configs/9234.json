@@ -1,11 +1,9 @@
 {
   "id": 9234,
   "name": "Vine patch",
-  "models_2": {
-    "models": [
-      9207
-    ]
-  },
+  "models_2": [
+    9207
+  ],
   "ambient": 25,
   "actions": [
     "Rake",

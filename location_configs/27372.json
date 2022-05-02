@@ -1,11 +1,9 @@
 {
   "id": 27372,
   "name": "Broken crossbow",
-  "models_2": {
-    "models": [
-      29990
-    ]
-  },
+  "models_2": [
+    29990
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_27": false

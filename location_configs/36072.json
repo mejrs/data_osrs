@@ -1,11 +1,9 @@
 {
   "id": 36072,
   "name": "Linum Tirinum",
-  "models_2": {
-    "models": [
-      37453
-    ]
-  },
+  "models_2": [
+    37453
+  ],
   "ambient": 30,
   "actions": [
     "Pick",

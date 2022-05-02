@@ -1,11 +1,9 @@
 {
   "id": 25170,
   "name": "White tree",
-  "models_2": {
-    "models": [
-      9221
-    ]
-  },
+  "models_2": [
+    9221
+  ],
   "unknown_21": true,
   "ambient": 25,
   "colours": [

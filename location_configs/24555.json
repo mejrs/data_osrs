@@ -1,11 +1,9 @@
 {
   "id": 24555,
   "name": "Specimen table",
-  "models_2": {
-    "models": [
-      25354
-    ]
-  },
+  "models_2": [
+    25354
+  ],
   "dim_x": 2,
   "ambient": 20,
   "actions": [

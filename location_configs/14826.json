@@ -1,11 +1,9 @@
 {
   "id": 14826,
   "name": "Obelisk",
-  "models_2": {
-    "models": [
-      14776
-    ]
-  },
+  "models_2": [
+    14776
+  ],
   "actions": [
     "Activate",
     "Teleport to Destination",

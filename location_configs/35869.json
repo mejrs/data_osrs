@@ -1,11 +1,9 @@
 {
   "id": 35869,
   "name": "Broken cart",
-  "models_2": {
-    "models": [
-      1500
-    ]
-  },
+  "models_2": [
+    1500
+  ],
   "unknown_19": 1,
   "actions": [
     "Inspect",

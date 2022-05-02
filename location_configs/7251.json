@@ -1,11 +1,9 @@
 {
   "id": 7251,
   "name": "Contortion Bars",
-  "models_2": {
-    "models": [
-      7568
-    ]
-  },
+  "models_2": [
+    7568
+  ],
   "unknown_19": 1,
   "actions": [
     "Enter",

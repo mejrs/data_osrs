@@ -1,12 +1,10 @@
 {
   "id": 20595,
   "name": "Wall",
-  "models_2": {
-    "models": [
-      21494,
-      21492
-    ]
-  },
+  "models_2": [
+    21494,
+    21492
+  ],
   "dim_x": 2,
   "unknown_17": false,
   "ambient": 25,

@@ -1,11 +1,9 @@
 {
   "id": 17367,
   "name": "Stone Tablet",
-  "models_2": {
-    "models": [
-      2627
-    ]
-  },
+  "models_2": [
+    2627
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 16626,
   "name": "Seven",
-  "models_2": {
-    "models": [
-      16783
-    ]
-  },
+  "models_2": [
+    16783
+  ],
   "unknown_19": 1,
   "unknown_24": 4356,
   "ambient": 30,

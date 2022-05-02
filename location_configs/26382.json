@@ -1,11 +1,9 @@
 {
   "id": 26382,
   "name": "Little crack",
-  "models_2": {
-    "models": [
-      27820
-    ]
-  },
+  "models_2": [
+    27820
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 25,

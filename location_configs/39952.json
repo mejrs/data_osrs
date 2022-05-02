@@ -1,11 +1,9 @@
 {
   "id": 39952,
   "name": "Dresser",
-  "models_2": {
-    "models": [
-      12467
-    ]
-  },
+  "models_2": [
+    12467
+  ],
   "actions": [
     null,
     "Remove",

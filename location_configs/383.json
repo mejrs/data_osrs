@@ -1,9 +1,7 @@
 {
   "id": 383,
   "name": "Basket",
-  "models_2": {
-    "models": [
-      881
-    ]
-  }
+  "models_2": [
+    881
+  ]
 }

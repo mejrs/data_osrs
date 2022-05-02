@@ -1,11 +1,9 @@
 {
   "id": 25415,
   "name": "Stalagmites",
-  "models_2": {
-    "models": [
-      12041
-    ]
-  },
+  "models_2": [
+    12041
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 10,

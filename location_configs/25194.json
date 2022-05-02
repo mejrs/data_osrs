@@ -1,11 +1,9 @@
 {
   "id": 25194,
   "name": "Dragon statue",
-  "models_2": {
-    "models": [
-      26477
-    ]
-  },
+  "models_2": [
+    26477
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 40,

@@ -1,11 +1,9 @@
 {
   "id": 39898,
   "name": "Broken Cabinet",
-  "models_2": {
-    "models": [
-      25064
-    ]
-  },
+  "models_2": [
+    25064
+  ],
   "actions": [
     null,
     null,

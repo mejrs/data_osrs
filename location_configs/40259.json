@@ -1,12 +1,10 @@
 {
   "id": 40259,
   "name": "<col=ffff00>Cat",
-  "models_2": {
-    "models": [
-      3010,
-      3006
-    ]
-  },
+  "models_2": [
+    3010,
+    3006
+  ],
   "unknown_24": 317,
   "colours": [
     [

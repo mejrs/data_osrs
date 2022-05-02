@@ -1,11 +1,9 @@
 {
   "id": 3648,
   "name": "Dying tree",
-  "models_2": {
-    "models": [
-      14747
-    ]
-  },
+  "models_2": [
+    14747
+  ],
   "ambient": 25,
   "actions": [
     "Chop down",

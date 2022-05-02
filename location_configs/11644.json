@@ -1,11 +1,9 @@
 {
   "id": 11644,
   "name": "Zip line",
-  "models_2": {
-    "models": [
-      5131
-    ]
-  },
+  "models_2": [
+    5131
+  ],
   "unknown_21": true,
   "actions": [
     "Teeth-grip",

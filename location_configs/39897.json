@@ -1,11 +1,9 @@
 {
   "id": 39897,
   "name": "Broken Grandfather Clock",
-  "models_2": {
-    "models": [
-      40873
-    ]
-  },
+  "models_2": [
+    40873
+  ],
   "ambient": 10,
   "actions": [
     null,

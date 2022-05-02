@@ -1,11 +1,9 @@
 {
   "id": 1338,
   "name": "Hollow log",
-  "models_2": {
-    "models": [
-      1659
-    ]
-  },
+  "models_2": [
+    1659
+  ],
   "colours": [
     [
       4537,

@@ -1,13 +1,11 @@
 {
   "id": 41303,
   "name": "Reward pool",
-  "models_2": {
-    "models": [
-      41886,
-      41889,
-      41887
-    ]
-  },
+  "models_2": [
+    41886,
+    41889,
+    41887
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "is_transparent": true,

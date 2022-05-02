@@ -1,11 +1,9 @@
 {
   "id": 25287,
   "name": "Boat station",
-  "models_2": {
-    "models": [
-      2214
-    ]
-  },
+  "models_2": [
+    2214
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "model": false

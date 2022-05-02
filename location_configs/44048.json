@@ -1,0 +1,12 @@
+{
+  "id": 44048,
+  "name": "Stalagmites",
+  "models_2": [
+    20801
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false
+}

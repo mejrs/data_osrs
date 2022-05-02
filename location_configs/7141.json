@@ -1,11 +1,9 @@
 {
   "id": 7141,
   "name": "Signpost",
-  "models_2": {
-    "models": [
-      18518
-    ]
-  },
+  "models_2": [
+    18518
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 15,

@@ -1,11 +1,9 @@
 {
   "id": 4753,
   "name": "Banana Tree",
-  "models_2": {
-    "models": [
-      1689
-    ]
-  },
+  "models_2": [
+    1689
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

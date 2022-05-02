@@ -1,11 +1,9 @@
 {
   "id": 30858,
   "name": "Rock",
-  "models_2": {
-    "models": [
-      33567
-    ]
-  },
+  "models_2": [
+    33567
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

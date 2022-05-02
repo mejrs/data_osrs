@@ -1,11 +1,9 @@
 {
   "id": 30018,
   "name": "Crystal",
-  "models_2": {
-    "models": [
-      32762
-    ]
-  },
+  "models_2": [
+    32762
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

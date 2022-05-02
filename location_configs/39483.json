@@ -1,11 +1,9 @@
 {
   "id": 39483,
   "name": "Sofa",
-  "models_2": {
-    "models": [
-      40284
-    ]
-  },
+  "models_2": [
+    40284
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 10,

@@ -1,10 +1,8 @@
 {
   "id": 6915,
   "name": "Rubble",
-  "models_2": {
-    "models": [
-      6895
-    ]
-  },
+  "models_2": [
+    6895
+  ],
   "dim_x": 3
 }

@@ -1,20 +1,11 @@
 {
   "id": 42860,
-  "name": "Snowman",
-  "models_2": {
-    "models": [
-      43080,
-      43043
-    ]
-  },
+  "name": "Anvil",
+  "models_2": [
+    30873
+  ],
   "is_transparent": true,
+  "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 20,
-  "actions": [
-    "Place",
-    null,
-    null,
-    null,
-    null
-  ]
+  "category": 772
 }

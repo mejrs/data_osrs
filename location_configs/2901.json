@@ -1,11 +1,9 @@
 {
   "id": 2901,
   "name": "Mossy rock",
-  "models_2": {
-    "models": [
-      2157
-    ]
-  },
+  "models_2": [
+    2157
+  ],
   "actions": [
     "Search",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 32538,
   "name": "Mounted Xeric's Warrior",
-  "models_2": {
-    "models": [
-      35110
-    ]
-  },
+  "models_2": [
+    35110
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

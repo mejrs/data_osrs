@@ -1,11 +1,9 @@
 {
   "id": 42091,
   "name": "Wooden barricade",
-  "models_2": {
-    "models": [
-      2195
-    ]
-  },
+  "models_2": [
+    2195
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 15,

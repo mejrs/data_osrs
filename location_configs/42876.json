@@ -1,22 +1,43 @@
 {
   "id": 42876,
-  "models": [
+  "name": "Trophy pedestal",
+  "models_2": [
+    41707,
+    41705
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    "Remove-trophy",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
     [
-      10,
-      43067
+      48476,
+      29646
     ],
     [
-      4,
-      43051
+      48941,
+      3371
     ],
     [
-      22,
-      43084
+      48918,
+      43150
+    ],
+    [
+      52160,
+      43169
+    ],
+    [
+      51887,
+      43162
     ]
   ],
-  "unknown_19": 0,
-  "unknown_21": true,
-  "ambient": 20,
-  "contrast": 15,
-  "translate_y": 65361
+  "category": 206
 }

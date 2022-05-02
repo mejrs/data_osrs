@@ -1,11 +1,9 @@
 {
   "id": 24765,
   "name": "Window",
-  "models_2": {
-    "models": [
-      26059
-    ]
-  },
+  "models_2": [
+    26059
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 20,

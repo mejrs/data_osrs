@@ -1,11 +1,9 @@
 {
   "id": 18636,
   "name": "Old crane",
-  "models_2": {
-    "models": [
-      18759
-    ]
-  },
+  "models_2": [
+    18759
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "unknown_17": false,

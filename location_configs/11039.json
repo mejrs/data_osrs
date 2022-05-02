@@ -1,11 +1,9 @@
 {
   "id": 11039,
   "name": "Wall",
-  "models_2": {
-    "models": [
-      10907
-    ]
-  },
+  "models_2": [
+    10907
+  ],
   "dim_x": 5,
   "unknown_19": 1,
   "mirror": true,

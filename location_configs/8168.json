@@ -1,12 +1,10 @@
 {
   "id": 8168,
   "name": "Diseased Asgarnian Hops",
-  "models_2": {
-    "models": [
-      8204,
-      7766
-    ]
-  },
+  "models_2": [
+    8204,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Cure",

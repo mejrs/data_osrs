@@ -1,11 +1,9 @@
 {
   "id": 16619,
   "name": "Zero",
-  "models_2": {
-    "models": [
-      16787
-    ]
-  },
+  "models_2": [
+    16787
+  ],
   "unknown_19": 1,
   "unknown_24": 4356,
   "ambient": 30,

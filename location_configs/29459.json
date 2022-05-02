@@ -1,11 +1,9 @@
 {
   "id": 29459,
   "name": "Spiritual Fairy Tree",
-  "models_2": {
-    "models": [
-      32111
-    ]
-  },
+  "models_2": [
+    32111
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

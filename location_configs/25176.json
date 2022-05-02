@@ -1,11 +1,9 @@
 {
   "id": 25176,
   "name": "Fern",
-  "models_2": {
-    "models": [
-      23478
-    ]
-  },
+  "models_2": [
+    23478
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

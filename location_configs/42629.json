@@ -1,11 +1,9 @@
 {
   "id": 42629,
   "name": "Web sack",
-  "models_2": {
-    "models": [
-      42811
-    ]
-  },
+  "models_2": [
+    42811
+  ],
   "dim_x": 2,
   "ambient": 20,
   "contrast": 20,

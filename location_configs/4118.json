@@ -1,11 +1,9 @@
 {
   "id": 4118,
   "name": "Steel Chest",
-  "models_2": {
-    "models": [
-      6615
-    ]
-  },
+  "models_2": [
+    6615
+  ],
   "ambient": 20,
   "actions": [
     "Open",

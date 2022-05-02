@@ -1,11 +1,9 @@
 {
   "id": 20250,
   "name": "Petrified mushroom",
-  "models_2": {
-    "models": [
-      20632
-    ]
-  },
+  "models_2": [
+    20632
+  ],
   "unknown_21": true,
   "actions": [
     "Get-Spikes",

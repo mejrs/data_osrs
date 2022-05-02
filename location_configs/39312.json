@@ -1,11 +1,9 @@
 {
   "id": 39312,
   "name": "Castle Gates",
-  "models_2": {
-    "models": [
-      40217
-    ]
-  },
+  "models_2": [
+    40217
+  ],
   "dim_y": 5,
   "unknown_19": 1,
   "unknown_22": true,

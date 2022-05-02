@@ -1,12 +1,10 @@
 {
   "id": 17247,
   "name": "Oaknock's Machine",
-  "models_2": {
-    "models": [
-      17086,
-      17089
-    ]
-  },
+  "models_2": [
+    17086,
+    17089
+  ],
   "unknown_19": 1,
   "unknown_24": 4561,
   "unknown_27": false,

@@ -1,11 +1,9 @@
 {
   "id": 34839,
   "name": "Grubby Chest",
-  "models_2": {
-    "models": [
-      37312
-    ]
-  },
+  "models_2": [
+    37312
+  ],
   "ambient": 20,
   "colours": [
     [

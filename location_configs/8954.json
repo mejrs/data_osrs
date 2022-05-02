@@ -1,11 +1,9 @@
 {
   "id": 8954,
   "name": "Flag",
-  "models_2": {
-    "models": [
-      8696
-    ]
-  },
+  "models_2": [
+    8696
+  ],
   "unknown_24": 2359,
   "unknown_78": {
     "unknown_1": 3124,

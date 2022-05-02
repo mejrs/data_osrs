@@ -1,11 +1,9 @@
 {
   "id": 33016,
   "name": "Small chest",
-  "models_2": {
-    "models": [
-      35450
-    ]
-  },
+  "models_2": [
+    35450
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

@@ -1,11 +1,9 @@
 {
   "id": 34935,
   "name": "Dead tree",
-  "models_2": {
-    "models": [
-      1716
-    ]
-  },
+  "models_2": [
+    1716
+  ],
   "colours": [
     [
       7054,

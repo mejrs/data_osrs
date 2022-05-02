@@ -1,11 +1,9 @@
 {
   "id": 16519,
   "name": "Castle wall",
-  "models_2": {
-    "models": [
-      16918
-    ]
-  },
+  "models_2": [
+    16918
+  ],
   "unknown_22": true,
   "occludes_1": false,
   "unknown_27": false,

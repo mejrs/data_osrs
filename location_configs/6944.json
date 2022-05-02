@@ -1,11 +1,9 @@
 {
   "id": 6944,
   "name": "Empty Stall",
-  "models_2": {
-    "models": [
-      37252
-    ]
-  },
+  "models_2": [
+    37252
+  ],
   "dim_x": 2,
   "unknown_27": false,
   "ambient": 20,

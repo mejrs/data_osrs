@@ -1,11 +1,9 @@
 {
   "id": 36097,
   "name": "Inactive Symbol",
-  "models_2": {
-    "models": [
-      37372
-    ]
-  },
+  "models_2": [
+    37372
+  ],
   "dim_x": 4,
   "unknown_19": 1,
   "unknown_21": true,

@@ -1,11 +1,9 @@
 {
   "id": 33587,
   "name": "Plant",
-  "models_2": {
-    "models": [
-      1643
-    ]
-  },
+  "models_2": [
+    1643
+  ],
   "unknown_19": 1,
   "ambient": 40,
   "actions": [

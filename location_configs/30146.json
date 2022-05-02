@@ -1,11 +1,9 @@
 {
   "id": 30146,
   "name": "Shelves",
-  "models_2": {
-    "models": [
-      32341
-    ]
-  },
+  "models_2": [
+    32341
+  ],
   "unknown_19": 1,
   "actions": [
     "Take-tinderbox",

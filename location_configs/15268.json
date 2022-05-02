@@ -1,11 +1,9 @@
 {
   "id": 15268,
   "name": "Corner space",
-  "models_2": {
-    "models": [
-      12670
-    ]
-  },
+  "models_2": [
+    12670
+  ],
   "actions": [
     null,
     null,

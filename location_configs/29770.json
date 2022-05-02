@@ -1,11 +1,9 @@
 {
   "id": 29770,
   "name": "Small storage unit",
-  "models_2": {
-    "models": [
-      32381
-    ]
-  },
+  "models_2": [
+    32381
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "actions": [

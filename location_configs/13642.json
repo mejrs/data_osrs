@@ -1,11 +1,9 @@
 {
   "id": 13642,
   "name": "Lectern",
-  "models_2": {
-    "models": [
-      12511
-    ]
-  },
+  "models_2": [
+    12511
+  ],
   "actions": [
     "Study",
     null,

@@ -1,12 +1,10 @@
 {
   "id": 35467,
   "name": "Seal of the Forgotten",
-  "models_2": {
-    "models": [
-      38333,
-      38332
-    ]
-  },
+  "models_2": [
+    38333,
+    38332
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "ambient": 10,

@@ -1,11 +1,9 @@
 {
   "id": 32593,
   "name": "<col=ffff00>Kael Forshaw</col>",
-  "models_2": {
-    "models": [
-      35121
-    ]
-  },
+  "models_2": [
+    35121
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8050,

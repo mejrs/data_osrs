@@ -1,11 +1,9 @@
 {
   "id": 18037,
   "name": "Wall rubble",
-  "models_2": {
-    "models": [
-      17911
-    ]
-  },
+  "models_2": [
+    17911
+  ],
   "unknown_21": true,
   "actions": [
     "Climb-over",

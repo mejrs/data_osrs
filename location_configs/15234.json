@@ -1,9 +1,7 @@
 {
   "id": 15234,
   "name": "Scaffold",
-  "models_2": {
-    "models": [
-      15087
-    ]
-  }
+  "models_2": [
+    15087
+  ]
 }

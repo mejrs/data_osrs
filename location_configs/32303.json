@@ -1,11 +1,9 @@
 {
   "id": 32303,
   "name": "<col=ffff00>Fremennik drummer</col>",
-  "models_2": {
-    "models": [
-      34984
-    ]
-  },
+  "models_2": [
+    34984
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 7940,

@@ -1,11 +1,9 @@
 {
   "id": 13166,
   "name": "Dresser",
-  "models_2": {
-    "models": [
-      12470
-    ]
-  },
+  "models_2": [
+    12470
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "ambient": 25,

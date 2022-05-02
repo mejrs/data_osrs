@@ -1,11 +1,9 @@
 {
   "id": 28562,
   "name": "Lovakite furnace",
-  "models_2": {
-    "models": [
-      30874
-    ]
-  },
+  "models_2": [
+    30874
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "unknown_19": 1,

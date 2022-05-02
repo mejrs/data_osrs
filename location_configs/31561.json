@@ -1,11 +1,9 @@
 {
   "id": 31561,
   "name": "Pillar",
-  "models_2": {
-    "models": [
-      34135
-    ]
-  },
+  "models_2": [
+    34135
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,

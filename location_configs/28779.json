@@ -1,11 +1,9 @@
 {
   "id": 28779,
   "name": "Blade",
-  "models_2": {
-    "models": [
-      31492
-    ]
-  },
+  "models_2": [
+    31492
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_24": 1103,

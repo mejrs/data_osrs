@@ -1,12 +1,10 @@
 {
   "id": 18810,
   "name": "Cape rack space",
-  "models_2": {
-    "models": [
-      19003,
-      18998
-    ]
-  },
+  "models_2": [
+    19003,
+    18998
+  ],
   "actions": [
     null,
     null,

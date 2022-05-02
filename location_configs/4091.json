@@ -1,11 +1,9 @@
 {
   "id": 4091,
   "name": "Fire altar",
-  "models_2": {
-    "models": [
-      4150
-    ]
-  },
+  "models_2": [
+    4150
+  ],
   "actions": [
     "Light",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 30403,
   "name": "Mounted Champion's Cape",
-  "models_2": {
-    "models": [
-      33205
-    ]
-  },
+  "models_2": [
+    33205
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

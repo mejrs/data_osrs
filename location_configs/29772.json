@@ -1,11 +1,9 @@
 {
   "id": 29772,
   "name": "Gourd tree",
-  "models_2": {
-    "models": [
-      32487
-    ]
-  },
+  "models_2": [
+    32487
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

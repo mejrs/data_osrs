@@ -1,11 +1,9 @@
 {
   "id": 9019,
   "name": "Medium Jungle",
-  "models_2": {
-    "models": [
-      8899
-    ]
-  },
+  "models_2": [
+    8899
+  ],
   "is_transparent": true,
   "unknown_24": 2380,
   "actions": [

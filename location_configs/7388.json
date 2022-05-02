@@ -1,11 +1,9 @@
 {
   "id": 7388,
   "name": "Bench",
-  "models_2": {
-    "models": [
-      7719
-    ]
-  },
+  "models_2": [
+    7719
+  ],
   "is_transparent": true,
   "ambient": 25,
   "mirror": true

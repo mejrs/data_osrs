@@ -1,11 +1,9 @@
 {
   "id": 14998,
   "name": "Water Source",
-  "models_2": {
-    "models": [
-      16660
-    ]
-  },
+  "models_2": [
+    16660
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_19": 1,

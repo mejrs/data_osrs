@@ -1,11 +1,9 @@
 {
   "id": 18400,
   "name": "Ice cube",
-  "models_2": {
-    "models": [
-      17741
-    ]
-  },
+  "models_2": [
+    17741
+  ],
   "dim_x": 2,
   "ambient": 30,
   "contrast": 10,

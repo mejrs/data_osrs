@@ -1,11 +1,9 @@
 {
   "id": 41159,
   "name": "Banner stand",
-  "models_2": {
-    "models": [
-      41693
-    ]
-  },
+  "models_2": [
+    41693
+  ],
   "unknown_19": 1,
   "ambient": 30,
   "actions": [

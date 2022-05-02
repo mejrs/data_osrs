@@ -1,11 +1,9 @@
 {
   "id": 28788,
   "name": "Rockslide",
-  "models_2": {
-    "models": [
-      818
-    ]
-  },
+  "models_2": [
+    818
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

@@ -1,11 +1,9 @@
 {
   "id": 3263,
   "name": "Swamp",
-  "models_2": {
-    "models": [
-      2259
-    ]
-  },
+  "models_2": [
+    2259
+  ],
   "unknown_24": 480,
   "actions": [
     "Cross",

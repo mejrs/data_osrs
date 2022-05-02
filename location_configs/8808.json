@@ -1,11 +1,9 @@
 {
   "id": 8808,
   "name": "Apple Press",
-  "models_2": {
-    "models": [
-      8292
-    ]
-  },
+  "models_2": [
+    8292
+  ],
   "is_transparent": true,
   "colours": [
     [

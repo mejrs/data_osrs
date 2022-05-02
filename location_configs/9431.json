@@ -1,13 +1,11 @@
 {
   "id": 9431,
   "name": "Table",
-  "models_2": {
-    "models": [
-      1213,
-      9412,
-      9409
-    ]
-  },
+  "models_2": [
+    1213,
+    9412,
+    9409
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "ambient": 25,

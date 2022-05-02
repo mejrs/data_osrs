@@ -1,12 +1,10 @@
 {
   "id": 12684,
   "name": "Bridge",
-  "models_2": {
-    "models": [
-      13534,
-      13535
-    ]
-  },
+  "models_2": [
+    13534,
+    13535
+  ],
   "unknown_21": true,
   "ambient": 20,
   "contrast": 30,

@@ -1,11 +1,9 @@
 {
   "id": 31980,
   "name": "Mounted Max Cape",
-  "models_2": {
-    "models": [
-      32188
-    ]
-  },
+  "models_2": [
+    32188
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

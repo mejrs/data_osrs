@@ -1,11 +1,9 @@
 {
   "id": 30952,
   "name": "Drift net anchors",
-  "models_2": {
-    "models": [
-      33785
-    ]
-  },
+  "models_2": [
+    33785
+  ],
   "dim_x": 5,
   "dim_y": 2,
   "is_transparent": true,

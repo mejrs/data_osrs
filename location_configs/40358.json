@@ -1,11 +1,9 @@
 {
   "id": 40358,
   "name": "Lectern",
-  "models_2": {
-    "models": [
-      40905
-    ]
-  },
+  "models_2": [
+    40905
+  ],
   "unknown_24": 7302,
   "ambient": 20,
   "actions": [

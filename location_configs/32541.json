@@ -1,11 +1,9 @@
 {
   "id": 32541,
   "name": "Mounted Xeric's Champion",
-  "models_2": {
-    "models": [
-      35111
-    ]
-  },
+  "models_2": [
+    35111
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

@@ -1,11 +1,9 @@
 {
   "id": 27676,
   "name": "Tin bath",
-  "models_2": {
-    "models": [
-      30318
-    ]
-  },
+  "models_2": [
+    30318
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_27": false

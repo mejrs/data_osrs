@@ -1,11 +1,9 @@
 {
   "id": 13572,
   "name": "Dragon bitter",
-  "models_2": {
-    "models": [
-      12384
-    ]
-  },
+  "models_2": [
+    12384
+  ],
   "actions": [
     null,
     null,

@@ -1,11 +1,9 @@
 {
   "id": 30659,
   "name": "Skroom",
-  "models_2": {
-    "models": [
-      33692
-    ]
-  },
+  "models_2": [
+    33692
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "is_transparent": true,

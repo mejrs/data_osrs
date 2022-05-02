@@ -1,12 +1,10 @@
 {
   "id": 33736,
   "name": "Potato cactus",
-  "models_2": {
-    "models": [
-      36803,
-      7767
-    ]
-  },
+  "models_2": [
+    36803,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

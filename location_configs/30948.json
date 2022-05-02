@@ -1,11 +1,9 @@
 {
   "id": 30948,
   "name": "Anchor rope",
-  "models_2": {
-    "models": [
-      13732
-    ]
-  },
+  "models_2": [
+    13732
+  ],
   "unknown_22": true,
   "actions": [
     "Climb",

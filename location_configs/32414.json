@@ -1,12 +1,10 @@
 {
   "id": 32414,
   "name": "Bust",
-  "models_2": {
-    "models": [
-      34787,
-      34786
-    ]
-  },
+  "models_2": [
+    34787,
+    34786
+  ],
   "unknown_19": 1,
   "ambient": 15,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 38539,
   "name": "Unicorn Statue",
-  "models_2": {
-    "models": [
-      40113
-    ]
-  },
+  "models_2": [
+    40113
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "ambient": 30,

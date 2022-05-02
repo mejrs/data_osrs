@@ -1,12 +1,10 @@
 {
   "id": 8351,
   "name": "Spirit Tree",
-  "models_2": {
-    "models": [
-      8124,
-      7768
-    ]
-  },
+  "models_2": [
+    8124,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

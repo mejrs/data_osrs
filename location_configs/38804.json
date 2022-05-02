@@ -1,11 +1,9 @@
 {
   "id": 38804,
   "name": "Holy barrier",
-  "models_2": {
-    "models": [
-      40203
-    ]
-  },
+  "models_2": [
+    40203
+  ],
   "unknown_24": 8695,
   "ambient": 100,
   "contrast": 100,

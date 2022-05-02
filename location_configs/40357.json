@@ -1,11 +1,9 @@
 {
   "id": 40357,
   "name": "Lectern",
-  "models_2": {
-    "models": [
-      40904
-    ]
-  },
+  "models_2": [
+    40904
+  ],
   "ambient": 20,
   "actions": [
     "Study",

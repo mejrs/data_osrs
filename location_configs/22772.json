@@ -1,13 +1,11 @@
 {
   "id": 22772,
   "name": "Lamp stall",
-  "models_2": {
-    "models": [
-      23468,
-      23470,
-      23469
-    ]
-  },
+  "models_2": [
+    23468,
+    23470,
+    23469
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

@@ -1,11 +1,9 @@
 {
   "id": 13681,
   "name": "Steel cage",
-  "models_2": {
-    "models": [
-      14927
-    ]
-  },
+  "models_2": [
+    14927
+  ],
   "unknown_17": false,
   "actions": [
     null,

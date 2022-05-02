@@ -1,11 +1,9 @@
 {
   "id": 18644,
   "name": "Steam press",
-  "models_2": {
-    "models": [
-      18784
-    ]
-  },
+  "models_2": [
+    18784
+  ],
   "colours": [
     [
       7062,

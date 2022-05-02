@@ -1,0 +1,30 @@
+{
+  "id": 43767,
+  "name": "Portal",
+  "models_2": [
+    44082
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8750,
+  "unknown_27": false,
+  "ambient": 60,
+  "contrast": 100,
+  "colours": [
+    [
+      57292,
+      39768
+    ],
+    [
+      53068,
+      39872
+    ],
+    [
+      46912,
+      32576
+    ]
+  ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80
+}

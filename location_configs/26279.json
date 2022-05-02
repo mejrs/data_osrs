@@ -1,11 +1,9 @@
 {
   "id": 26279,
   "name": "Overload potion",
-  "models_2": {
-    "models": [
-      12388
-    ]
-  },
+  "models_2": [
+    12388
+  ],
   "actions": [
     "Check",
     "Take",

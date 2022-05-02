@@ -1,10 +1,8 @@
 {
   "id": 16873,
   "name": "Fish bits",
-  "models_2": {
-    "models": [
-      16518
-    ]
-  },
+  "models_2": [
+    16518
+  ],
   "category": 529
 }

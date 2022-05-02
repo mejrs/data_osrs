@@ -1,11 +1,9 @@
 {
   "id": 27762,
   "name": "Sunken rowboat",
-  "models_2": {
-    "models": [
-      30309
-    ]
-  },
+  "models_2": [
+    30309
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 30950,
   "name": "Anchor",
-  "models_2": {
-    "models": [
-      13734
-    ]
-  },
+  "models_2": [
+    13734
+  ],
   "unknown_22": true,
   "mirror": true,
   "mapscene": 41

@@ -1,11 +1,9 @@
 {
   "id": 34775,
   "name": "Portal",
-  "models_2": {
-    "models": [
-      2318
-    ]
-  },
+  "models_2": [
+    2318
+  ],
   "unknown_24": 504,
   "ambient": 80,
   "actions": [

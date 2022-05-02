@@ -1,11 +1,9 @@
 {
   "id": 35881,
   "name": "Well",
-  "models_2": {
-    "models": [
-      8321
-    ]
-  },
+  "models_2": [
+    8321
+  ],
   "dim_x": 2,
   "dim_y": 2
 }

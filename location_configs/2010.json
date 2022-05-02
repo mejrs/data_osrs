@@ -1,11 +1,9 @@
 {
   "id": 2010,
   "name": "Door",
-  "models_2": {
-    "models": [
-      1803
-    ]
-  },
+  "models_2": [
+    1803
+  ],
   "unknown_22": true,
   "actions": [
     "Open",

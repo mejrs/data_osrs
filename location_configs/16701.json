@@ -1,11 +1,9 @@
 {
   "id": 16701,
   "name": "Light",
-  "models_2": {
-    "models": [
-      16704
-    ]
-  },
+  "models_2": [
+    16704
+  ],
   "unknown_24": 4392,
   "ambient": 10,
   "contrast": 10

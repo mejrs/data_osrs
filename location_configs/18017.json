@@ -1,11 +1,9 @@
 {
   "id": 18017,
   "name": "Counter",
-  "models_2": {
-    "models": [
-      17729
-    ]
-  },
+  "models_2": [
+    17729
+  ],
   "is_transparent": true,
   "ambient": 15,
   "colours": [

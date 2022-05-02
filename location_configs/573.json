@@ -1,9 +1,7 @@
 {
   "id": 573,
   "name": "Gnome statue",
-  "models_2": {
-    "models": [
-      1304
-    ]
-  }
+  "models_2": [
+    1304
+  ]
 }

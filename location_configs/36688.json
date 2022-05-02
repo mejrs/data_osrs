@@ -1,11 +1,9 @@
 {
   "id": 36688,
   "name": "Mahogany",
-  "models_2": {
-    "models": [
-      37874
-    ]
-  },
+  "models_2": [
+    37874
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 15,

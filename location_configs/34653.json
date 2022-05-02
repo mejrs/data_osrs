@@ -1,11 +1,9 @@
 {
   "id": 34653,
   "name": "Alchemical Hydra display",
-  "models_2": {
-    "models": [
-      36935
-    ]
-  },
+  "models_2": [
+    36935
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 30,

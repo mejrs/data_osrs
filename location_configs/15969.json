@@ -1,12 +1,10 @@
 {
   "id": 15969,
   "name": "Bitternut Tree",
-  "models_2": {
-    "models": [
-      15789,
-      15788
-    ]
-  },
+  "models_2": [
+    15789,
+    15788
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 4244,

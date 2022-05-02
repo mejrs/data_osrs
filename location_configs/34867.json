@@ -1,11 +1,9 @@
 {
   "id": 34867,
   "name": "Egg sac",
-  "models_2": {
-    "models": [
-      37326
-    ]
-  },
+  "models_2": [
+    37326
+  ],
   "unknown_27": false,
   "ambient": 40,
   "contrast": 10,

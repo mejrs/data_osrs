@@ -1,13 +1,11 @@
 {
   "id": 20167,
   "name": "Penance Ranger statue",
-  "models_2": {
-    "models": [
-      20677,
-      20675,
-      20676
-    ]
-  },
+  "models_2": [
+    20677,
+    20675,
+    20676
+  ],
   "unknown_19": 1,
   "actions": [
     "Inspect",

@@ -1,11 +1,9 @@
 {
   "id": 37998,
   "name": "Valve",
-  "models_2": {
-    "models": [
-      40541
-    ]
-  },
+  "models_2": [
+    40541
+  ],
   "unknown_19": 1,
   "actions": [
     "Turn",

@@ -1,11 +1,9 @@
 {
   "id": 18211,
   "name": "Life buoy",
-  "models_2": {
-    "models": [
-      18234
-    ]
-  },
+  "models_2": [
+    18234
+  ],
   "ambient": 35,
   "colours": [
     [

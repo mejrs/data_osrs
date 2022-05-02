@@ -1,11 +1,9 @@
 {
   "id": 29231,
   "name": "Kraken Topiary",
-  "models_2": {
-    "models": [
-      32106
-    ]
-  },
+  "models_2": [
+    32106
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

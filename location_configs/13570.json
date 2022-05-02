@@ -1,11 +1,9 @@
 {
   "id": 13570,
   "name": "Asgarnian ale",
-  "models_2": {
-    "models": [
-      12386
-    ]
-  },
+  "models_2": [
+    12386
+  ],
   "actions": [
     null,
     null,

@@ -1,11 +1,9 @@
 {
   "id": 415,
   "name": "Coffin",
-  "models_2": {
-    "models": [
-      912
-    ]
-  },
+  "models_2": [
+    912
+  ],
   "actions": [
     "Open",
     null,

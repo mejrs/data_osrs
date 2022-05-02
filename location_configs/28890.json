@@ -1,11 +1,9 @@
 {
   "id": 28890,
   "name": "Rocks",
-  "models_2": {
-    "models": [
-      31597
-    ]
-  },
+  "models_2": [
+    31597
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,

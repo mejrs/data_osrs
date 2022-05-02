@@ -1,9 +1,7 @@
 {
   "id": 12783,
   "name": "Repaired Roof",
-  "models_2": {
-    "models": [
-      13987
-    ]
-  }
+  "models_2": [
+    13987
+  ]
 }

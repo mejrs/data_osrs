@@ -1,11 +1,9 @@
 {
   "id": 6236,
   "name": "Stop!",
-  "models_2": {
-    "models": [
-      6078
-    ]
-  },
+  "models_2": [
+    6078
+  ],
   "dim_x": 2,
   "ambient": 40
 }

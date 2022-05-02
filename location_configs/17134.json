@@ -1,9 +1,7 @@
 {
   "id": 17134,
   "name": "Gnome barrel",
-  "models_2": {
-    "models": [
-      17126
-    ]
-  }
+  "models_2": [
+    17126
+  ]
 }

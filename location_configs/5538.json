@@ -1,11 +1,9 @@
 {
   "id": 5538,
   "name": "Onion",
-  "models_2": {
-    "models": [
-      2750
-    ]
-  },
+  "models_2": [
+    2750
+  ],
   "unknown_17": false,
   "actions": [
     null,

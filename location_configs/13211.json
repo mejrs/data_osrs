@@ -1,12 +1,10 @@
 {
   "id": 13211,
   "name": "Incense burner",
-  "models_2": {
-    "models": [
-      13115,
-      13114
-    ]
-  },
+  "models_2": [
+    13115,
+    13114
+  ],
   "unknown_24": 3573,
   "ambient": 20,
   "actions": [

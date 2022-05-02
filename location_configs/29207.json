@@ -1,11 +1,9 @@
 {
   "id": 29207,
   "name": "Mounted Magic Cape (t)",
-  "models_2": {
-    "models": [
-      32195
-    ]
-  },
+  "models_2": [
+    32195
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

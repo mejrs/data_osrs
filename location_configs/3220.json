@@ -1,11 +1,9 @@
 {
   "id": 3220,
   "name": "Door",
-  "models_2": {
-    "models": [
-      750
-    ]
-  },
+  "models_2": [
+    750
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

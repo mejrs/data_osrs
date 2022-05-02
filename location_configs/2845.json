@@ -1,11 +1,9 @@
 {
   "id": 2845,
   "name": "Sewer valve",
-  "models_2": {
-    "models": [
-      1746
-    ]
-  },
+  "models_2": [
+    1746
+  ],
   "unknown_19": 1,
   "actions": [
     "Turn-left",

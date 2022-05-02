@@ -1,11 +1,9 @@
 {
   "id": 39958,
   "name": "Chair",
-  "models_2": {
-    "models": [
-      12449
-    ]
-  },
+  "models_2": [
+    12449
+  ],
   "actions": [
     null,
     "Remove",

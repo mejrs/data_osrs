@@ -1,12 +1,10 @@
 {
   "id": 7669,
   "name": "Poison Ivy bush",
-  "models_2": {
-    "models": [
-      7825,
-      7767
-    ]
-  },
+  "models_2": [
+    7825,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

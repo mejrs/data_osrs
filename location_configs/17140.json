@@ -1,9 +1,7 @@
 {
   "id": 17140,
   "name": "Oaknock statue",
-  "models_2": {
-    "models": [
-      17103
-    ]
-  }
+  "models_2": [
+    17103
+  ]
 }

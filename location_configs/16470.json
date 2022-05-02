@@ -1,11 +1,9 @@
 {
   "id": 16470,
   "name": "Whetstone",
-  "models_2": {
-    "models": [
-      29104
-    ]
-  },
+  "models_2": [
+    29104
+  ],
   "ambient": 20,
   "contrast": 20
 }

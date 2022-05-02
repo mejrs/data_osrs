@@ -1,11 +1,9 @@
 {
   "id": 32377,
   "name": "Debris",
-  "models_2": {
-    "models": [
-      34917
-    ]
-  },
+  "models_2": [
+    34917
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,

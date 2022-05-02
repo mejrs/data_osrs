@@ -1,9 +1,7 @@
 {
   "id": 1150,
   "name": "Fairy bank",
-  "models_2": {
-    "models": [
-      2006
-    ]
-  }
+  "models_2": [
+    2006
+  ]
 }

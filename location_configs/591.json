@@ -1,11 +1,9 @@
 {
   "id": 591,
   "name": "Bank table",
-  "models_2": {
-    "models": [
-      1229
-    ]
-  },
+  "models_2": [
+    1229
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "ambient": 25,

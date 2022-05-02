@@ -1,11 +1,9 @@
 {
   "id": 2784,
   "name": "Sword cabinet",
-  "models_2": {
-    "models": [
-      25179
-    ]
-  },
+  "models_2": [
+    25179
+  ],
   "dim_y": 2,
   "ambient": 10,
   "contrast": 10,

@@ -1,11 +1,9 @@
 {
   "id": 27045,
   "name": "Slimy residue",
-  "models_2": {
-    "models": [
-      5263
-    ]
-  },
+  "models_2": [
+    5263
+  ],
   "dim_x": 6,
   "dim_y": 6,
   "unknown_19": 1,

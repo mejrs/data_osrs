@@ -1,11 +1,9 @@
 {
   "id": 15926,
   "name": "Conveyor Belt",
-  "models_2": {
-    "models": [
-      15793
-    ]
-  },
+  "models_2": [
+    15793
+  ],
   "actions": [
     "Take-Rum",
     null,

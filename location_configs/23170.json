@@ -1,11 +1,9 @@
 {
   "id": 23170,
   "name": "Cave",
-  "models_2": {
-    "models": [
-      24062
-    ]
-  },
+  "models_2": [
+    24062
+  ],
   "unknown_22": true,
   "ambient": 10,
   "colours": [

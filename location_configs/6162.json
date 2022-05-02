@@ -1,12 +1,10 @@
 {
   "id": 6162,
   "name": "Gem Stall",
-  "models_2": {
-    "models": [
-      5879,
-      1524
-    ]
-  },
+  "models_2": [
+    5879,
+    1524
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

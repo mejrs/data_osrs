@@ -1,11 +1,9 @@
 {
   "id": 18260,
   "name": "Steeple",
-  "models_2": {
-    "models": [
-      18218
-    ]
-  },
+  "models_2": [
+    18218
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 40,

@@ -1,11 +1,9 @@
 {
   "id": 16843,
   "name": "Dice",
-  "models_2": {
-    "models": [
-      16791
-    ]
-  },
+  "models_2": [
+    16791
+  ],
   "ambient": 30,
   "actions": [
     "Roll",

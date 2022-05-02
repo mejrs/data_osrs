@@ -1,12 +1,10 @@
 {
   "id": 19984,
   "name": "Stone pedestal",
-  "models_2": {
-    "models": [
-      20062,
-      20061
-    ]
-  },
+  "models_2": [
+    20062,
+    20061
+  ],
   "actions": [
     "Take-from",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 25588,
   "name": "Stone arch",
-  "models_2": {
-    "models": [
-      27014
-    ]
-  },
+  "models_2": [
+    27014
+  ],
   "dim_x": 5,
   "ambient": 5,
   "contrast": 5,

@@ -1,11 +1,9 @@
 {
   "id": 20127,
   "name": "Bank counter",
-  "models_2": {
-    "models": [
-      8297
-    ]
-  },
+  "models_2": [
+    8297
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_19": 1,

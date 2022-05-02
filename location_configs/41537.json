@@ -1,11 +1,9 @@
 {
   "id": 41537,
   "name": "Vault Door",
-  "models_2": {
-    "models": [
-      42032
-    ]
-  },
+  "models_2": [
+    42032
+  ],
   "dim_x": 2,
   "actions": [
     "Open",

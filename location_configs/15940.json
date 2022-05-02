@@ -1,11 +1,9 @@
 {
   "id": 15940,
   "name": "Blue Flowers",
-  "models_2": {
-    "models": [
-      15806
-    ]
-  },
+  "models_2": [
+    15806
+  ],
   "colours": [
     [
       0,

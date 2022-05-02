@@ -1,11 +1,9 @@
 {
   "id": 15414,
   "name": "Tropical tree",
-  "models_2": {
-    "models": [
-      13576
-    ]
-  },
+  "models_2": [
+    13576
+  ],
   "ambient": 25,
   "actions": [
     "Climb",

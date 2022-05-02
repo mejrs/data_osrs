@@ -1,0 +1,39 @@
+{
+  "id": 43991,
+  "name": "Chemistry Table",
+  "models_2": [
+    25075,
+    25049,
+    25051
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6563,
+      5784
+    ],
+    [
+      6439,
+      5665
+    ],
+    [
+      6443,
+      5660
+    ],
+    [
+      6451,
+      5541
+    ]
+  ],
+  "category": 154
+}

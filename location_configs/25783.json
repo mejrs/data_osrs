@@ -1,11 +1,9 @@
 {
   "id": 25783,
   "name": "Rocking chair",
-  "models_2": {
-    "models": [
-      1188
-    ]
-  },
+  "models_2": [
+    1188
+  ],
   "is_transparent": true,
   "colours": [
     [

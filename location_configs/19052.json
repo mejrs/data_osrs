@@ -1,11 +1,9 @@
 {
   "id": 19052,
   "name": "Tunnel entrance",
-  "models_2": {
-    "models": [
-      3824
-    ]
-  },
+  "models_2": [
+    3824
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

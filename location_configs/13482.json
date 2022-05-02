@@ -1,11 +1,9 @@
 {
   "id": 13482,
   "name": "Cockatrice head",
-  "models_2": {
-    "models": [
-      12161
-    ]
-  },
+  "models_2": [
+    12161
+  ],
   "ambient": 25,
   "actions": [
     "Talk-to",

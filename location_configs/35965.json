@@ -1,11 +1,9 @@
 {
   "id": 35965,
   "name": "Teleport Platform",
-  "models_2": {
-    "models": [
-      37645
-    ]
-  },
+  "models_2": [
+    37645
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

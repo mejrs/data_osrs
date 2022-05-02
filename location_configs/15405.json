@@ -1,11 +1,9 @@
 {
   "id": 15405,
   "name": "Table space",
-  "models_2": {
-    "models": [
-      12875
-    ]
-  },
+  "models_2": [
+    12875
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

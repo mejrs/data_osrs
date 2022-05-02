@@ -1,12 +1,10 @@
 {
   "id": 33651,
   "name": "White lily",
-  "models_2": {
-    "models": [
-      36841,
-      7767
-    ]
-  },
+  "models_2": [
+    36841,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 10,

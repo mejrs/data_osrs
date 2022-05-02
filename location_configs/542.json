@@ -1,11 +1,9 @@
 {
   "id": 542,
   "name": "<col=ff9040>Brown spice (4)</col>",
-  "models_2": {
-    "models": [
-      13443
-    ]
-  },
+  "models_2": [
+    13443
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

@@ -1,11 +1,9 @@
 {
   "id": 42827,
   "name": "Armour crate",
-  "models_2": {
-    "models": [
-      42964
-    ]
-  },
+  "models_2": [
+    42964
+  ],
   "ambient": 10,
   "actions": [
     "Take",

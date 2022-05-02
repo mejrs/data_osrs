@@ -1,11 +1,9 @@
 {
   "id": 2127,
   "name": "Chandelier",
-  "models_2": {
-    "models": [
-      24846
-    ]
-  },
+  "models_2": [
+    24846
+  ],
   "unknown_19": 1,
   "ambient": 30,
   "contrast": 20,

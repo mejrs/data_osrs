@@ -1,11 +1,9 @@
 {
   "id": 30196,
   "name": "Chain",
-  "models_2": {
-    "models": [
-      9532
-    ]
-  },
+  "models_2": [
+    9532
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "colours": [

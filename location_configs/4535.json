@@ -1,11 +1,9 @@
 {
   "id": 4535,
   "name": "Maple tree",
-  "models_2": {
-    "models": [
-      12928
-    ]
-  },
+  "models_2": [
+    12928
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

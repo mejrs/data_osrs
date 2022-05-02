@@ -1,11 +1,9 @@
 {
   "id": 35891,
   "name": "Catapult",
-  "models_2": {
-    "models": [
-      4447
-    ]
-  },
+  "models_2": [
+    4447
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "is_transparent": true,

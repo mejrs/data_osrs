@@ -1,12 +1,10 @@
 {
   "id": 30408,
   "name": "Mahogany tree",
-  "models_2": {
-    "models": [
-      8035,
-      7768
-    ]
-  },
+  "models_2": [
+    8035,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

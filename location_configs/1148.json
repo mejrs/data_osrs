@@ -1,9 +1,7 @@
 {
   "id": 1148,
   "name": "Fairy house",
-  "models_2": {
-    "models": [
-      2003
-    ]
-  }
+  "models_2": [
+    2003
+  ]
 }

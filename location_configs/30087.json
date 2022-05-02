@@ -1,11 +1,9 @@
 {
   "id": 30087,
   "name": "Bank chest",
-  "models_2": {
-    "models": [
-      32710
-    ]
-  },
+  "models_2": [
+    32710
+  ],
   "actions": [
     "Use",
     null,

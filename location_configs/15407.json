@@ -1,11 +1,9 @@
 {
   "id": 15407,
   "name": "Portal space",
-  "models_2": {
-    "models": [
-      12729
-    ]
-  },
+  "models_2": [
+    12729
+  ],
   "dim_x": 2,
   "actions": [
     null,

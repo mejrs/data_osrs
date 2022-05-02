@@ -1,11 +1,9 @@
 {
   "id": 6784,
   "name": "Marble fireplace",
-  "models_2": {
-    "models": [
-      12613
-    ]
-  },
+  "models_2": [
+    12613
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "ambient": 20,

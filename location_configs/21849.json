@@ -1,11 +1,9 @@
 {
   "id": 21849,
   "name": "Barricade",
-  "models_2": {
-    "models": [
-      22634
-    ]
-  },
+  "models_2": [
+    22634
+  ],
   "dim_x": 3,
   "ambient": 20
 }

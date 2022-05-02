@@ -1,13 +1,11 @@
 {
   "id": 16653,
   "name": "Pirate Captain",
-  "models_2": {
-    "models": [
-      5278,
-      5279,
-      5253
-    ]
-  },
+  "models_2": [
+    5278,
+    5279,
+    5253
+  ],
   "actions": [
     "Talk-To",
     null,

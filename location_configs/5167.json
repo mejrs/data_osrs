@@ -1,11 +1,9 @@
 {
   "id": 5167,
   "name": "Memorial",
-  "models_2": {
-    "models": [
-      5169
-    ]
-  },
+  "models_2": [
+    5169
+  ],
   "dim_x": 2,
   "unknown_27": false,
   "actions": [

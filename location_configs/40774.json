@@ -1,12 +1,10 @@
 {
   "id": 40774,
   "name": "Decorated limestone fireplace",
-  "models_2": {
-    "models": [
-      12612,
-      41514
-    ]
-  },
+  "models_2": [
+    12612,
+    41514
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "ambient": 20,

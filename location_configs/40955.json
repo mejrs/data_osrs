@@ -1,12 +1,10 @@
 {
   "id": 40955,
   "name": "Unicorn",
-  "models_2": {
-    "models": [
-      25754,
-      25756
-    ]
-  },
+  "models_2": [
+    25754,
+    25756
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 6374,

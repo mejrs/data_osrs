@@ -1,11 +1,9 @@
 {
   "id": 13216,
   "name": "Organ",
-  "models_2": {
-    "models": [
-      12513
-    ]
-  },
+  "models_2": [
+    12513
+  ],
   "dim_x": 2,
   "actions": [
     "Play",

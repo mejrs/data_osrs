@@ -1,11 +1,9 @@
 {
   "id": 33499,
   "name": "Power Grid",
-  "models_2": {
-    "models": [
-      36236
-    ]
-  },
+  "models_2": [
+    36236
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

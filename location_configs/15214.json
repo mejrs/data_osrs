@@ -1,11 +1,9 @@
 {
   "id": 15214,
   "name": "Steam Vent",
-  "models_2": {
-    "models": [
-      15101
-    ]
-  },
+  "models_2": [
+    15101
+  ],
   "is_transparent": true,
   "unknown_24": 523,
   "unknown_78": {

@@ -1,11 +1,9 @@
 {
   "id": 22589,
   "name": "Pylon",
-  "models_2": {
-    "models": [
-      23268
-    ]
-  },
+  "models_2": [
+    23268
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,

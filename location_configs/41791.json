@@ -1,11 +1,9 @@
 {
   "id": 41791,
   "name": "Dresser",
-  "models_2": {
-    "models": [
-      12466
-    ]
-  },
+  "models_2": [
+    12466
+  ],
   "dim_x": 2,
   "ambient": 25,
   "colours": [

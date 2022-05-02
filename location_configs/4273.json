@@ -1,9 +1,7 @@
 {
   "id": 4273,
   "name": "Bar pumps",
-  "models_2": {
-    "models": [
-      1540
-    ]
-  }
+  "models_2": [
+    1540
+  ]
 }

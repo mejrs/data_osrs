@@ -1,11 +1,9 @@
 {
   "id": 9087,
   "name": "Stove",
-  "models_2": {
-    "models": [
-      9049
-    ]
-  },
+  "models_2": [
+    9049
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "actions": [

@@ -1,12 +1,10 @@
 {
   "id": 15057,
   "name": "Skeleton",
-  "models_2": {
-    "models": [
-      14996,
-      14995
-    ]
-  },
+  "models_2": [
+    14996,
+    14995
+  ],
   "ambient": 10,
   "colours": [
     [

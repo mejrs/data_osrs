@@ -1,11 +1,9 @@
 {
   "id": 41180,
   "name": "Ornate league statue",
-  "models_2": {
-    "models": [
-      41679
-    ]
-  },
+  "models_2": [
+    41679
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

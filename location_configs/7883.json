@@ -1,12 +1,10 @@
 {
   "id": 7883,
   "name": "Nasturtium",
-  "models_2": {
-    "models": [
-      7856,
-      7767
-    ]
-  },
+  "models_2": [
+    7856,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

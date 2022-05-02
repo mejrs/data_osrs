@@ -1,11 +1,9 @@
 {
   "id": 26074,
   "name": "Table",
-  "models_2": {
-    "models": [
-      27458
-    ]
-  },
+  "models_2": [
+    27458
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "unknown_27": false,

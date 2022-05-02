@@ -1,11 +1,9 @@
 {
   "id": 30284,
   "name": "Rocky support",
-  "models_2": {
-    "models": [
-      33044
-    ]
-  },
+  "models_2": [
+    33044
+  ],
   "unknown_19": 1,
   "mapscene": 12
 }

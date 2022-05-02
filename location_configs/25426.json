@@ -1,12 +1,10 @@
 {
   "id": 25426,
   "name": "Tendrils",
-  "models_2": {
-    "models": [
-      7443,
-      7441
-    ]
-  },
+  "models_2": [
+    7443,
+    7441
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_19": 1,

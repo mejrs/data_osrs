@@ -1,9 +1,7 @@
 {
   "id": 17390,
   "name": "Stepladder",
-  "models_2": {
-    "models": [
-      1168
-    ]
-  }
+  "models_2": [
+    1168
+  ]
 }

@@ -1,11 +1,9 @@
 {
   "id": 7277,
   "name": "Fox",
-  "models_2": {
-    "models": [
-      7697
-    ]
-  },
+  "models_2": [
+    7697
+  ],
   "ambient": 40,
   "actions": [
     "Pick-up",

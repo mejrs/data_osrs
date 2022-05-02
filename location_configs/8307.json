@@ -1,12 +1,10 @@
 {
   "id": 8307,
   "name": "Dead Yanillian Hops",
-  "models_2": {
-    "models": [
-      8200,
-      7766
-    ]
-  },
+  "models_2": [
+    8200,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Clear",

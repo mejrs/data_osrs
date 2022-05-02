@@ -1,11 +1,9 @@
 {
   "id": 33118,
   "name": "Deadman Supply Chest",
-  "models_2": {
-    "models": [
-      34264
-    ]
-  },
+  "models_2": [
+    34264
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "unknown_19": 1,

@@ -1,12 +1,10 @@
 {
   "id": 30179,
   "name": "Hole",
-  "models_2": {
-    "models": [
-      15049,
-      15052
-    ]
-  },
+  "models_2": [
+    15049,
+    15052
+  ],
   "is_transparent": true,
   "actions": [
     "Climb-down",

@@ -1,11 +1,9 @@
 {
   "id": 15382,
   "name": "Head trophy space",
-  "models_2": {
-    "models": [
-      12887
-    ]
-  },
+  "models_2": [
+    12887
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "actions": [

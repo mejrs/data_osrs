@@ -1,11 +1,9 @@
 {
   "id": 31898,
   "name": "Velvet chair",
-  "models_2": {
-    "models": [
-      30928
-    ]
-  },
+  "models_2": [
+    30928
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,

@@ -1,11 +1,9 @@
 {
   "id": 15725,
   "name": "Small chest",
-  "models_2": {
-    "models": [
-      15566
-    ]
-  },
+  "models_2": [
+    15566
+  ],
   "colours": [
     [
       6715,

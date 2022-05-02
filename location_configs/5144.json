@@ -1,11 +1,9 @@
 {
   "id": 5144,
   "name": "Daffodils",
-  "models_2": {
-    "models": [
-      13146
-    ]
-  },
+  "models_2": [
+    13146
+  ],
   "unknown_17": false,
   "actions": [
     null,

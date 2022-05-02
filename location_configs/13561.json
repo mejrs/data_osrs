@@ -1,12 +1,10 @@
 {
   "id": 13561,
   "name": "Pump and tub",
-  "models_2": {
-    "models": [
-      13221,
-      13215
-    ]
-  },
+  "models_2": [
+    13221,
+    13215
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "actions": [

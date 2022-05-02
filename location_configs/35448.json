@@ -1,11 +1,9 @@
 {
   "id": 35448,
   "name": "Books",
-  "models_2": {
-    "models": [
-      38534
-    ]
-  },
+  "models_2": [
+    38534
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

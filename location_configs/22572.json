@@ -1,11 +1,9 @@
 {
   "id": 22572,
   "name": "Cable",
-  "models_2": {
-    "models": [
-      23870
-    ]
-  },
+  "models_2": [
+    23870
+  ],
   "dim_x": 4,
   "actions": [
     "Swing",

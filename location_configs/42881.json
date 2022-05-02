@@ -1,12 +1,20 @@
 {
   "id": 42881,
-  "name": "Presents",
-  "models_2": {
-    "models": [
-      43079
-    ]
-  },
-  "unknown_21": true,
-  "ambient": 10,
-  "contrast": 15
+  "name": "Trophy pedestal",
+  "models_2": [
+    41707,
+    43419
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    "Remove-trophy",
+    null,
+    null
+  ],
+  "contrast": 10
 }

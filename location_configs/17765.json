@@ -1,11 +1,9 @@
 {
   "id": 17765,
   "name": "Grandfather clock",
-  "models_2": {
-    "models": [
-      12973
-    ]
-  },
+  "models_2": [
+    12973
+  ],
   "colours": [
     [
       4502,

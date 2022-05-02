@@ -1,11 +1,9 @@
 {
   "id": 42092,
   "name": "Stool",
-  "models_2": {
-    "models": [
-      13481
-    ]
-  },
+  "models_2": [
+    13481
+  ],
   "ambient": 15,
   "contrast": 15,
   "colours": [

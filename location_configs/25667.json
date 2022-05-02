@@ -1,11 +1,9 @@
 {
   "id": 25667,
   "name": "Sir Bedivere",
-  "models_2": {
-    "models": [
-      27191
-    ]
-  },
+  "models_2": [
+    27191
+  ],
   "unknown_17": false,
   "unknown_24": 6915,
   "ambient": 10,

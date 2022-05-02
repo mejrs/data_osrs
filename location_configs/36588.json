@@ -1,11 +1,9 @@
 {
   "id": 36588,
   "name": "Mill",
-  "models_2": {
-    "models": [
-      38739
-    ]
-  },
+  "models_2": [
+    38739
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 6494,

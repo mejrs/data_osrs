@@ -1,11 +1,9 @@
 {
   "id": 5151,
   "name": "Roses",
-  "models_2": {
-    "models": [
-      13142
-    ]
-  },
+  "models_2": [
+    13142
+  ],
   "unknown_17": false,
   "actions": [
     null,

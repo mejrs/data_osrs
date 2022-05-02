@@ -1,11 +1,9 @@
 {
   "id": 13384,
   "name": "Oak prize chest",
-  "models_2": {
-    "models": [
-      12147
-    ]
-  },
+  "models_2": [
+    12147
+  ],
   "actions": [
     null,
     null,

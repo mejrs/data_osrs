@@ -1,11 +1,9 @@
 {
   "id": 30853,
   "name": "Burnt tree",
-  "models_2": {
-    "models": [
-      33658
-    ]
-  },
+  "models_2": [
+    33658
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_27": false,

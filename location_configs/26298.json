@@ -1,11 +1,9 @@
 {
   "id": 26298,
   "name": "Teak house",
-  "models_2": {
-    "models": [
-      28947
-    ]
-  },
+  "models_2": [
+    28947
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

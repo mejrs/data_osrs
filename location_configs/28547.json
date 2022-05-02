@@ -1,11 +1,9 @@
 {
   "id": 28547,
   "name": "Bank booth",
-  "models_2": {
-    "models": [
-      30871
-    ]
-  },
+  "models_2": [
+    30871
+  ],
   "is_transparent": true,
   "actions": [
     null,

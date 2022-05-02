@@ -1,11 +1,9 @@
 {
   "id": 37507,
   "name": "Fancy Jewellery Box",
-  "models_2": {
-    "models": [
-      32149
-    ]
-  },
+  "models_2": [
+    32149
+  ],
   "unknown_19": 1,
   "actions": [
     null,

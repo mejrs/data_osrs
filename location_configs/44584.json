@@ -1,0 +1,15 @@
+{
+  "id": 44584,
+  "name": "Lion Guard",
+  "models_2": [
+    40098
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 10,
+  "scale_x": 420,
+  "scale_y": 420,
+  "scale_z": 250
+}

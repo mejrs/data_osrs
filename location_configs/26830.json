@@ -1,11 +1,9 @@
 {
   "id": 26830,
   "name": "Consecrated house",
-  "models_2": {
-    "models": [
-      28943
-    ]
-  },
+  "models_2": [
+    28943
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

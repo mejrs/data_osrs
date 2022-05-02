@@ -1,12 +1,10 @@
 {
   "id": 27406,
   "name": "Logavano seedling",
-  "models_2": {
-    "models": [
-      30116,
-      7768
-    ]
-  },
+  "models_2": [
+    30116,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "is_transparent": true,

@@ -1,11 +1,9 @@
 {
   "id": 31049,
   "name": "Gas hole",
-  "models_2": {
-    "models": [
-      33258
-    ]
-  },
+  "models_2": [
+    33258
+  ],
   "is_transparent": true,
   "unknown_24": 7742,
   "unknown_27": false,

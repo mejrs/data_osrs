@@ -1,11 +1,9 @@
 {
   "id": 4883,
   "name": "A rock",
-  "models_2": {
-    "models": [
-      3177
-    ]
-  },
+  "models_2": [
+    3177
+  ],
   "unknown_17": false,
   "unknown_21": true,
   "actions": [

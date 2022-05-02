@@ -1,11 +1,9 @@
 {
   "id": 40430,
   "name": "Ornate vampyre combat dummy",
-  "models_2": {
-    "models": [
-      4908
-    ]
-  },
+  "models_2": [
+    4908
+  ],
   "ambient": 25,
   "actions": [
     "Attach",

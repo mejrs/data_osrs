@@ -1,11 +1,9 @@
 {
   "id": 9355,
   "name": "Ornate undead combat dummy",
-  "models_2": {
-    "models": [
-      4898
-    ]
-  },
+  "models_2": [
+    4898
+  ],
   "ambient": 25,
   "actions": [
     "Attach",

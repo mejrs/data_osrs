@@ -1,12 +1,10 @@
 {
   "id": 7811,
   "name": "Supplies",
-  "models_2": {
-    "models": [
-      1453,
-      3847
-    ]
-  },
+  "models_2": [
+    1453,
+    3847
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

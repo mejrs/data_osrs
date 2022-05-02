@@ -1,12 +1,10 @@
 {
   "id": 40469,
   "name": "Potion of power table",
-  "models_2": {
-    "models": [
-      7906,
-      41249
-    ]
-  },
+  "models_2": [
+    7906,
+    41249
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "actions": [

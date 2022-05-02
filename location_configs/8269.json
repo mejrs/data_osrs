@@ -1,13 +1,11 @@
 {
   "id": 8269,
   "name": "Wildblood Hops",
-  "models_2": {
-    "models": [
-      8200,
-      8222,
-      7766
-    ]
-  },
+  "models_2": [
+    8200,
+    8222,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     null,

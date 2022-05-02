@@ -1,12 +1,10 @@
 {
   "id": 17671,
   "name": "Locker",
-  "models_2": {
-    "models": [
-      17853,
-      17854
-    ]
-  },
+  "models_2": [
+    17853,
+    17854
+  ],
   "unknown_27": false,
   "ambient": 10,
   "colours": [

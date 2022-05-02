@@ -1,11 +1,9 @@
 {
   "id": 10821,
   "name": "Hollow tree",
-  "models_2": {
-    "models": [
-      4146
-    ]
-  },
+  "models_2": [
+    4146
+  ],
   "ambient": 25,
   "actions": [
     "Chop down",

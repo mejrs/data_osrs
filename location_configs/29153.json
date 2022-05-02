@@ -1,11 +1,9 @@
 {
   "id": 29153,
   "name": "Marble adventure log",
-  "models_2": {
-    "models": [
-      32148
-    ]
-  },
+  "models_2": [
+    32148
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

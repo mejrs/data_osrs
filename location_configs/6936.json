@@ -1,12 +1,10 @@
 {
   "id": 6936,
   "name": "Bone arch",
-  "models_2": {
-    "models": [
-      6902,
-      6883
-    ]
-  },
+  "models_2": [
+    6902,
+    6883
+  ],
   "unknown_21": true,
   "unknown_22": true
 }

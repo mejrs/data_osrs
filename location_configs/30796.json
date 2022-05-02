@@ -1,11 +1,9 @@
 {
   "id": 30796,
   "name": "Bank Chest-wreck",
-  "models_2": {
-    "models": [
-      33794
-    ]
-  },
+  "models_2": [
+    33794
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 15,

@@ -1,11 +1,9 @@
 {
   "id": 42153,
   "name": "Sword case",
-  "models_2": {
-    "models": [
-      25197
-    ]
-  },
+  "models_2": [
+    25197
+  ],
   "dim_x": 2,
   "ambient": 10,
   "contrast": 5,

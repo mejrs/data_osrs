@@ -1,13 +1,11 @@
 {
   "id": 13531,
   "name": "Firepit with pot",
-  "models_2": {
-    "models": [
-      14101,
-      12624,
-      12628
-    ]
-  },
+  "models_2": [
+    14101,
+    12624,
+    12628
+  ],
   "dim_y": 2,
   "unknown_24": 3105,
   "ambient": 25,

@@ -1,11 +1,9 @@
 {
   "id": 23991,
   "name": "City gate",
-  "models_2": {
-    "models": [
-      11699
-    ]
-  },
+  "models_2": [
+    11699
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 10,

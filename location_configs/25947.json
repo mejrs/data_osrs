@@ -1,11 +1,9 @@
 {
   "id": 25947,
   "name": "The jury",
-  "models_2": {
-    "models": [
-      27521
-    ]
-  },
+  "models_2": [
+    27521
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "unknown_24": 6903

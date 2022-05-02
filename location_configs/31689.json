@@ -1,11 +1,9 @@
 {
   "id": 31689,
   "name": "Grotesque Guardians' display",
-  "models_2": {
-    "models": [
-      34259
-    ]
-  },
+  "models_2": [
+    34259
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 30,

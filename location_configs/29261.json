@@ -1,11 +1,9 @@
 {
   "id": 29261,
   "name": "Volcanic theme",
-  "models_2": {
-    "models": [
-      9295
-    ]
-  },
+  "models_2": [
+    9295
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

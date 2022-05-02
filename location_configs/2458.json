@@ -1,11 +1,9 @@
 {
   "id": 2458,
   "name": "Ornate candle",
-  "models_2": {
-    "models": [
-      17536
-    ]
-  },
+  "models_2": [
+    17536
+  ],
   "unknown_19": 1,
   "unknown_24": 4628,
   "ambient": 15,

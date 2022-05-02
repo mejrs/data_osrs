@@ -1,9 +1,7 @@
 {
   "id": 6704,
   "name": "Boulders",
-  "models_2": {
-    "models": [
-      15625
-    ]
-  }
+  "models_2": [
+    15625
+  ]
 }

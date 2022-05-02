@@ -1,11 +1,9 @@
 {
   "id": 10768,
   "name": "Bank",
-  "models_2": {
-    "models": [
-      10647
-    ]
-  },
+  "models_2": [
+    10647
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 30,

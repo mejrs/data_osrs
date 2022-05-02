@@ -1,11 +1,9 @@
 {
   "id": 42204,
   "name": "<col=ffff00>Cat</col>",
-  "models_2": {
-    "models": [
-      42559
-    ]
-  },
+  "models_2": [
+    42559
+  ],
   "unknown_24": 8231,
   "ambient": 15,
   "actions": [

@@ -1,9 +1,7 @@
 {
   "id": 10278,
   "name": "Catapult",
-  "models_2": {
-    "models": [
-      10017
-    ]
-  }
+  "models_2": [
+    10017
+  ]
 }

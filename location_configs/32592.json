@@ -1,11 +1,9 @@
 {
   "id": 32592,
   "name": "<col=ffff00>Old Man Ral</col>",
-  "models_2": {
-    "models": [
-      35124
-    ]
-  },
+  "models_2": [
+    35124
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8050,

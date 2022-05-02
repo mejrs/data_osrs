@@ -1,11 +1,9 @@
 {
   "id": 6158,
   "name": "Red fungi",
-  "models_2": {
-    "models": [
-      5916
-    ]
-  },
+  "models_2": [
+    5916
+  ],
   "unknown_17": false,
   "colours": [
     [

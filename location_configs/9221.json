@@ -1,13 +1,11 @@
 {
   "id": 9221,
   "name": "White Tree patch",
-  "models_2": {
-    "models": [
-      9221,
-      9216,
-      9213
-    ]
-  },
+  "models_2": [
+    9221,
+    9216,
+    9213
+  ],
   "ambient": 25,
   "actions": [
     "Pick-fruit",

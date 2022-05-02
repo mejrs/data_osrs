@@ -1,12 +1,10 @@
 {
   "id": 32294,
   "name": "Water containers",
-  "models_2": {
-    "models": [
-      34951,
-      34915
-    ]
-  },
+  "models_2": [
+    34951,
+    34915
+  ],
   "ambient": 25,
   "actions": [
     "Take",

@@ -1,11 +1,9 @@
 {
   "id": 13284,
   "name": "Wooden crate",
-  "models_2": {
-    "models": [
-      12148
-    ]
-  },
+  "models_2": [
+    12148
+  ],
   "actions": [
     "Search",
     null,

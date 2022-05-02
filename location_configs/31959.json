@@ -1,11 +1,9 @@
 {
   "id": 31959,
   "name": "Yellow Crystal",
-  "models_2": {
-    "models": [
-      32502
-    ]
-  },
+  "models_2": [
+    32502
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,

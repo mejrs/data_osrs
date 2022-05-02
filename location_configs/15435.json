@@ -1,11 +1,9 @@
 {
   "id": 15435,
   "name": "Lever space",
-  "models_2": {
-    "models": [
-      12716
-    ]
-  },
+  "models_2": [
+    12716
+  ],
   "actions": [
     null,
     null,

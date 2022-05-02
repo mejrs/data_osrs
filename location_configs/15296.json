@@ -1,11 +1,9 @@
 {
   "id": 15296,
   "name": "Storage space",
-  "models_2": {
-    "models": [
-      12894
-    ]
-  },
+  "models_2": [
+    12894
+  ],
   "dim_x": 2,
   "actions": [
     null,

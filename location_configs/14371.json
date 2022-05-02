@@ -1,11 +1,9 @@
 {
   "id": 14371,
   "name": "Boxes",
-  "models_2": {
-    "models": [
-      14454
-    ]
-  },
+  "models_2": [
+    14454
+  ],
   "is_transparent": true,
   "ambient": 50,
   "colours": [

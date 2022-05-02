@@ -1,11 +1,9 @@
 {
   "id": 2024,
   "name": "Cauldron",
-  "models_2": {
-    "models": [
-      2241
-    ]
-  },
+  "models_2": [
+    2241
+  ],
   "unknown_24": 479,
   "actions": [
     "Drink From",

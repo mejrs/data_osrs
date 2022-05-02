@@ -1,11 +1,9 @@
 {
   "id": 36579,
   "name": "Meilyr Banner",
-  "models_2": {
-    "models": [
-      37934
-    ]
-  },
+  "models_2": [
+    37934
+  ],
   "unknown_27": false,
   "ambient": 20,
   "contrast": 10

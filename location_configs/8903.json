@@ -1,11 +1,9 @@
 {
   "id": 8903,
   "name": "Track support",
-  "models_2": {
-    "models": [
-      8667
-    ]
-  },
+  "models_2": [
+    8667
+  ],
   "unknown_21": true,
   "unknown_73": true
 }

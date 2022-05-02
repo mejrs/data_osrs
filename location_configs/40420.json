@@ -1,11 +1,9 @@
 {
   "id": 40420,
   "name": "Big door",
-  "models_2": {
-    "models": [
-      27710
-    ]
-  },
+  "models_2": [
+    27710
+  ],
   "ambient": 25,
   "actions": [
     "Open (normal)",

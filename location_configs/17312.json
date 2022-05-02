@@ -1,11 +1,9 @@
 {
   "id": 17312,
   "name": "Bench",
-  "models_2": {
-    "models": [
-      17302
-    ]
-  },
+  "models_2": [
+    17302
+  ],
   "dim_x": 2,
   "ambient": 20,
   "colours": [

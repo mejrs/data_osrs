@@ -1,11 +1,9 @@
 {
   "id": 36567,
   "name": "Table saw",
-  "models_2": {
-    "models": [
-      37878
-    ]
-  },
+  "models_2": [
+    37878
+  ],
   "dim_x": 2,
   "ambient": 15,
   "contrast": 5

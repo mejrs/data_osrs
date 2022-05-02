@@ -1,11 +1,9 @@
 {
   "id": 23955,
   "name": "Magical Animator",
-  "models_2": {
-    "models": [
-      15351
-    ]
-  },
+  "models_2": [
+    15351
+  ],
   "is_transparent": true,
   "unknown_24": 4161,
   "unknown_27": false,

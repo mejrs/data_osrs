@@ -1,11 +1,9 @@
 {
   "id": 24964,
   "name": "Hopper controls",
-  "models_2": {
-    "models": [
-      1381
-    ]
-  },
+  "models_2": [
+    1381
+  ],
   "actions": [
     "Operate",
     null,

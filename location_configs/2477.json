@@ -1,11 +1,9 @@
 {
   "id": 2477,
   "name": "Barrel",
-  "models_2": {
-    "models": [
-      1885
-    ]
-  },
+  "models_2": [
+    1885
+  ],
   "actions": [
     "Climb-on",
     null,

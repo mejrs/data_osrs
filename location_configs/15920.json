@@ -1,9 +1,7 @@
 {
   "id": 15920,
   "name": "middle section",
-  "models_2": {
-    "models": [
-      15798
-    ]
-  }
+  "models_2": [
+    15798
+  ]
 }

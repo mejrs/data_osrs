@@ -1,11 +1,9 @@
 {
   "id": 38000,
   "name": "Energy Barrier",
-  "models_2": {
-    "models": [
-      34622
-    ]
-  },
+  "models_2": [
+    34622
+  ],
   "dim_y": 3,
   "unknown_19": 1,
   "unknown_24": 1433,

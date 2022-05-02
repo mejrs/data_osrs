@@ -1,11 +1,9 @@
 {
   "id": 27524,
   "name": "Onion basket",
-  "models_2": {
-    "models": [
-      30235
-    ]
-  },
+  "models_2": [
+    30235
+  ],
   "is_transparent": true,
   "unknown_27": false
 }

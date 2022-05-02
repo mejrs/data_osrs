@@ -1,11 +1,9 @@
 {
   "id": 11342,
   "name": "Repair Locker",
-  "models_2": {
-    "models": [
-      11129
-    ]
-  },
+  "models_2": [
+    11129
+  ],
   "colours": [
     [
       6707,

@@ -1,11 +1,9 @@
 {
   "id": 42389,
   "name": "Pine",
-  "models_2": {
-    "models": [
-      42503
-    ]
-  },
+  "models_2": [
+    42503
+  ],
   "unknown_21": true,
   "ambient": 20,
   "contrast": 10,

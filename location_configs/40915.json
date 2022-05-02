@@ -1,11 +1,9 @@
 {
   "id": 40915,
   "name": "Statue",
-  "models_2": {
-    "models": [
-      41652
-    ]
-  },
+  "models_2": [
+    41652
+  ],
   "actions": [
     null,
     null,

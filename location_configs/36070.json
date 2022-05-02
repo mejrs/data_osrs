@@ -1,11 +1,9 @@
 {
   "id": 36070,
   "name": "Grym Root",
-  "models_2": {
-    "models": [
-      37454
-    ]
-  },
+  "models_2": [
+    37454
+  ],
   "ambient": 80,
   "actions": [
     "Pick",

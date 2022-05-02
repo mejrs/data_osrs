@@ -1,9 +1,7 @@
 {
   "id": 14196,
   "name": "Chest",
-  "models_2": {
-    "models": [
-      24089
-    ]
-  }
+  "models_2": [
+    24089
+  ]
 }

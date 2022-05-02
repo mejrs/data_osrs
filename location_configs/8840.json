@@ -1,9 +1,7 @@
 {
   "id": 8840,
   "name": "Stocks",
-  "models_2": {
-    "models": [
-      1238
-    ]
-  }
+  "models_2": [
+    1238
+  ]
 }

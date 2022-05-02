@@ -1,11 +1,9 @@
 {
   "id": 32551,
   "name": "Vent",
-  "models_2": {
-    "models": [
-      35271
-    ]
-  },
+  "models_2": [
+    35271
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "actions": [

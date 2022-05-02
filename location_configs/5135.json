@@ -1,11 +1,9 @@
 {
   "id": 5135,
   "name": "Small fern",
-  "models_2": {
-    "models": [
-      12939
-    ]
-  },
+  "models_2": [
+    12939
+  ],
   "actions": [
     null,
     null,

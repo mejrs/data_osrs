@@ -1,12 +1,10 @@
 {
   "id": 8663,
   "name": "Watermelons",
-  "models_2": {
-    "models": [
-      8184,
-      7766
-    ]
-  },
+  "models_2": [
+    8184,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     null,

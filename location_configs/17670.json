@@ -1,11 +1,9 @@
 {
   "id": 17670,
   "name": "Blackboard",
-  "models_2": {
-    "models": [
-      17860
-    ]
-  },
+  "models_2": [
+    17860
+  ],
   "dim_x": 2,
   "unknown_27": false,
   "ambient": 10,

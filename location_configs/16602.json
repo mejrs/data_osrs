@@ -1,11 +1,9 @@
 {
   "id": 16602,
   "name": "Note",
-  "models_2": {
-    "models": [
-      16759
-    ]
-  },
+  "models_2": [
+    16759
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "unknown_24": 4357,

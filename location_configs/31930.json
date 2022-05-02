@@ -1,12 +1,10 @@
 {
   "id": 31930,
   "name": "World map display",
-  "models_2": {
-    "models": [
-      34558,
-      34549
-    ]
-  },
+  "models_2": [
+    34558,
+    34549
+  ],
   "dim_x": 4,
   "dim_y": 2,
   "unknown_22": true,

@@ -1,11 +1,9 @@
 {
   "id": 22809,
   "name": "Flowering fern",
-  "models_2": {
-    "models": [
-      23481
-    ]
-  },
+  "models_2": [
+    23481
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

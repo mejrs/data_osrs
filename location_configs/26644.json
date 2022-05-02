@@ -1,12 +1,10 @@
 {
   "id": 26644,
   "name": "Challenge portal",
-  "models_2": {
-    "models": [
-      10734,
-      11233
-    ]
-  },
+  "models_2": [
+    10734,
+    11233
+  ],
   "dim_x": 4,
   "unknown_21": true,
   "unknown_24": 3174,

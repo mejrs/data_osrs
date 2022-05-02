@@ -1,11 +1,9 @@
 {
   "id": 41646,
   "name": "Wooden bench",
-  "models_2": {
-    "models": [
-      12405
-    ]
-  },
+  "models_2": [
+    12405
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

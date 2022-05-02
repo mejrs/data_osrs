@@ -1,10 +1,8 @@
 {
   "id": 20955,
   "name": "Obelisk",
-  "models_2": {
-    "models": [
-      16389
-    ]
-  },
+  "models_2": [
+    16389
+  ],
   "ambient": 10
 }

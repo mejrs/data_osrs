@@ -1,12 +1,10 @@
 {
   "id": 13507,
   "name": "Rune display case",
-  "models_2": {
-    "models": [
-      12462,
-      12463
-    ]
-  },
+  "models_2": [
+    12462,
+    12463
+  ],
   "actions": [
     null,
     null,

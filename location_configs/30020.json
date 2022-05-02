@@ -1,11 +1,9 @@
 {
   "id": 30020,
   "name": "<col=ff9040>Nistirio's manifesto</col>",
-  "models_2": {
-    "models": [
-      2633
-    ]
-  },
+  "models_2": [
+    2633
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,

@@ -1,11 +1,9 @@
 {
   "id": 2553,
   "name": "Clothes",
-  "models_2": {
-    "models": [
-      9553
-    ]
-  },
+  "models_2": [
+    9553
+  ],
   "colours": [
     [
       5912,

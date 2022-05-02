@@ -1,11 +1,9 @@
 {
   "id": 40252,
   "name": "<col=ffff00>Dark Squirrel",
-  "models_2": {
-    "models": [
-      32206
-    ]
-  },
+  "models_2": [
+    32206
+  ],
   "unknown_24": 7309,
   "colours": [
     [

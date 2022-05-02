@@ -1,11 +1,9 @@
 {
   "id": 29946,
   "name": "Great Olmic Statue",
-  "models_2": {
-    "models": [
-      32555
-    ]
-  },
+  "models_2": [
+    32555
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 25

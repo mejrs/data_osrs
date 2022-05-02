@@ -1,9 +1,7 @@
 {
   "id": 11873,
   "name": "Multicannon parts",
-  "models_2": {
-    "models": [
-      11607
-    ]
-  }
+  "models_2": [
+    11607
+  ]
 }

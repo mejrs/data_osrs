@@ -1,12 +1,10 @@
 {
   "id": 26044,
   "name": "Desk",
-  "models_2": {
-    "models": [
-      27500,
-      27506
-    ]
-  },
+  "models_2": [
+    27500,
+    27506
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_27": false,

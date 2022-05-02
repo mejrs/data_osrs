@@ -1,11 +1,9 @@
 {
   "id": 2910,
   "name": "Desk",
-  "models_2": {
-    "models": [
-      1224
-    ]
-  },
+  "models_2": [
+    1224
+  ],
   "actions": [
     "Look",
     "Search",

@@ -1,12 +1,10 @@
 {
   "id": 42383,
   "name": "Pine",
-  "models_2": {
-    "models": [
-      42507,
-      42517
-    ]
-  },
+  "models_2": [
+    42507,
+    42517
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,

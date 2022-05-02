@@ -1,11 +1,9 @@
 {
   "id": 5569,
   "name": "Dry stone wall",
-  "models_2": {
-    "models": [
-      5488
-    ]
-  },
+  "models_2": [
+    5488
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "unknown_22": true

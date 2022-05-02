@@ -1,11 +1,9 @@
 {
   "id": 11332,
   "name": "Gate",
-  "models_2": {
-    "models": [
-      11161
-    ]
-  },
+  "models_2": [
+    11161
+  ],
   "dim_x": 2,
   "colours": [
     [

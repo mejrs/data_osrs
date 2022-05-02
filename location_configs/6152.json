@@ -1,10 +1,8 @@
 {
   "id": 6152,
   "name": "Bar",
-  "models_2": {
-    "models": [
-      5922
-    ]
-  },
+  "models_2": [
+    5922
+  ],
   "dim_y": 2
 }

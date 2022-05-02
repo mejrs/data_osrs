@@ -1,11 +1,9 @@
 {
   "id": 5403,
   "name": "Ship's wheel",
-  "models_2": {
-    "models": [
-      1890
-    ]
-  },
+  "models_2": [
+    1890
+  ],
   "colours": [
     [
       5673,

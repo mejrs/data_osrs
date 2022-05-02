@@ -1,11 +1,9 @@
 {
   "id": 18866,
   "name": "Deckchair",
-  "models_2": {
-    "models": [
-      19118
-    ]
-  },
+  "models_2": [
+    19118
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 10

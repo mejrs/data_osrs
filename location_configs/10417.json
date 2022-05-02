@@ -1,12 +1,10 @@
 {
   "id": 10417,
   "name": "Cave exit",
-  "models_2": {
-    "models": [
-      10156,
-      10157
-    ]
-  },
+  "models_2": [
+    10156,
+    10157
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_22": true,

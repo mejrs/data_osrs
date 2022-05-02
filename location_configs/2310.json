@@ -1,11 +1,9 @@
 {
   "id": 2310,
   "name": "Tree stump",
-  "models_2": {
-    "models": [
-      4147
-    ]
-  },
+  "models_2": [
+    4147
+  ],
   "ambient": 25,
   "colours": [
     [

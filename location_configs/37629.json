@@ -1,11 +1,9 @@
 {
   "id": 37629,
   "name": "Nightmare display",
-  "models_2": {
-    "models": [
-      39506
-    ]
-  },
+  "models_2": [
+    39506
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 30,

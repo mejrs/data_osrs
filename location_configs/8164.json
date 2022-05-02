@@ -1,13 +1,11 @@
 {
   "id": 8164,
   "name": "Asgarnian Hops",
-  "models_2": {
-    "models": [
-      8204,
-      8222,
-      7766
-    ]
-  },
+  "models_2": [
+    8204,
+    8222,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     null,

@@ -1,11 +1,9 @@
 {
   "id": 18815,
   "name": "Armour case space",
-  "models_2": {
-    "models": [
-      18993
-    ]
-  },
+  "models_2": [
+    18993
+  ],
   "actions": [
     null,
     null,

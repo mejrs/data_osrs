@@ -1,11 +1,9 @@
 {
   "id": 29336,
   "name": "Combat dummy",
-  "models_2": {
-    "models": [
-      32307
-    ]
-  },
+  "models_2": [
+    32307
+  ],
   "ambient": 25,
   "actions": [
     "Attach",

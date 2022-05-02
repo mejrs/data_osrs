@@ -1,11 +1,8 @@
 {
   "id": 6653,
-  "name": "Bridge",
-  "models_2": {
-    "models": [
-      6449
-    ]
-  },
-  "unknown_22": true,
-  "mapscene": 46
+  "models_2": [
+    6449
+  ],
+  "unknown_19": 0,
+  "unknown_22": true
 }

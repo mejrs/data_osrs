@@ -1,11 +1,9 @@
 {
   "id": 2655,
   "name": "Sinclair family crest",
-  "models_2": {
-    "models": [
-      2036
-    ]
-  },
+  "models_2": [
+    2036
+  ],
   "actions": [
     null,
     "Investigate",

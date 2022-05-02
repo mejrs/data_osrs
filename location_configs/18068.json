@@ -1,11 +1,9 @@
 {
   "id": 18068,
   "name": "Broken ladder",
-  "models_2": {
-    "models": [
-      17744
-    ]
-  },
+  "models_2": [
+    17744
+  ],
   "unknown_19": 1,
   "actions": [
     "Search",

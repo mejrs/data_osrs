@@ -1,12 +1,10 @@
 {
   "id": 1813,
   "name": "Bandage table",
-  "models_2": {
-    "models": [
-      7906,
-      41261
-    ]
-  },
+  "models_2": [
+    7906,
+    41261
+  ],
   "dim_x": 3,
   "is_transparent": true,
   "actions": [

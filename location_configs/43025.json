@@ -1,0 +1,21 @@
+{
+  "id": 43025,
+  "name": "Kourend Waystone",
+  "models_2": [
+    43391
+  ],
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "scale_x": 240,
+  "scale_y": 240,
+  "scale_z": 240,
+  "mapscene": 14
+}

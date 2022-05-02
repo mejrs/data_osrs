@@ -1,13 +1,11 @@
 {
   "id": 7530,
   "name": "Fermenting Vat",
-  "models_2": {
-    "models": [
-      7778,
-      7780,
-      7782
-    ]
-  },
+  "models_2": [
+    7778,
+    7780,
+    7782
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

@@ -1,11 +1,9 @@
 {
   "id": 5121,
   "name": "Yew tree",
-  "models_2": {
-    "models": [
-      12949
-    ]
-  },
+  "models_2": [
+    12949
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

@@ -1,12 +1,10 @@
 {
   "id": 10739,
   "name": "Statue",
-  "models_2": {
-    "models": [
-      10622,
-      10620
-    ]
-  },
+  "models_2": [
+    10622,
+    10620
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

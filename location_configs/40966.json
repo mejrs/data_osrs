@@ -1,11 +1,9 @@
 {
   "id": 40966,
   "name": "Buckets",
-  "models_2": {
-    "models": [
-      41839
-    ]
-  },
+  "models_2": [
+    41839
+  ],
   "ambient": 20,
   "actions": [
     "Take",

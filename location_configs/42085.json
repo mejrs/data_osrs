@@ -1,11 +1,9 @@
 {
   "id": 42085,
   "name": "Trebuchet",
-  "models_2": {
-    "models": [
-      31095
-    ]
-  },
+  "models_2": [
+    31095
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "colours": [

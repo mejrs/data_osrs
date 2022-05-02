@@ -1,10 +1,8 @@
 {
   "id": 35956,
   "name": "Grain sacks",
-  "models_2": {
-    "models": [
-      1482
-    ]
-  },
+  "models_2": [
+    1482
+  ],
   "unknown_19": 1
 }

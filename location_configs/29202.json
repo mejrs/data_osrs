@@ -1,11 +1,9 @@
 {
   "id": 29202,
   "name": "Mounted Hitpoints Cape",
-  "models_2": {
-    "models": [
-      32177
-    ]
-  },
+  "models_2": [
+    32177
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

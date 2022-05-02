@@ -1,11 +1,9 @@
 {
   "id": 13640,
   "name": "Teleportation focus",
-  "models_2": {
-    "models": [
-      13199
-    ]
-  },
+  "models_2": [
+    13199
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 3646,

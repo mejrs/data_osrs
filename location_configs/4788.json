@@ -1,11 +1,9 @@
 {
   "id": 4788,
   "name": "Bamboo Gate",
-  "models_2": {
-    "models": [
-      4728
-    ]
-  },
+  "models_2": [
+    4728
+  ],
   "dim_x": 2,
   "actions": [
     "Open",

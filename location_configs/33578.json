@@ -1,11 +1,9 @@
 {
   "id": 33578,
   "name": "Ancient Grave",
-  "models_2": {
-    "models": [
-      36358
-    ]
-  },
+  "models_2": [
+    36358
+  ],
   "unknown_19": 1,
   "actions": [
     "Inspect",

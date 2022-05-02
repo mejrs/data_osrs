@@ -1,11 +1,9 @@
 {
   "id": 29164,
   "name": "Mounted Emblem",
-  "models_2": {
-    "models": [
-      32169
-    ]
-  },
+  "models_2": [
+    32169
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

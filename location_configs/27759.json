@@ -1,12 +1,10 @@
 {
   "id": 27759,
   "name": "Rowboat",
-  "models_2": {
-    "models": [
-      30279,
-      30349
-    ]
-  },
+  "models_2": [
+    30279,
+    30349
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "unknown_19": 1,

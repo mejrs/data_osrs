@@ -1,11 +1,9 @@
 {
   "id": 32508,
   "name": "Unstable Altar",
-  "models_2": {
-    "models": [
-      16356
-    ]
-  },
+  "models_2": [
+    16356
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

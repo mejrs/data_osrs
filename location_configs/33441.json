@@ -1,11 +1,9 @@
 {
   "id": 33441,
   "name": "Scrying orb",
-  "models_2": {
-    "models": [
-      36085
-    ]
-  },
+  "models_2": [
+    36085
+  ],
   "is_transparent": true,
   "unknown_24": 1638,
   "unknown_27": false,

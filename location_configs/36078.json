@@ -1,11 +1,9 @@
 {
   "id": 36078,
   "name": "Water Pump",
-  "models_2": {
-    "models": [
-      37469
-    ]
-  },
+  "models_2": [
+    37469
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

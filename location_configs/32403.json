@@ -1,11 +1,9 @@
 {
   "id": 32403,
   "name": "Crypt Entrance",
-  "models_2": {
-    "models": [
-      34790
-    ]
-  },
+  "models_2": [
+    34790
+  ],
   "unknown_22": true,
   "ambient": 20,
   "actions": [

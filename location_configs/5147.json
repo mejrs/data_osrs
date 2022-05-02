@@ -1,11 +1,9 @@
 {
   "id": 5147,
   "name": "Marigolds",
-  "models_2": {
-    "models": [
-      13139
-    ]
-  },
+  "models_2": [
+    13139
+  ],
   "unknown_17": false,
   "actions": [
     null,

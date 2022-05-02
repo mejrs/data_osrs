@@ -1,11 +1,9 @@
 {
   "id": 32537,
   "name": "Mounted Xeric's Guard",
-  "models_2": {
-    "models": [
-      35109
-    ]
-  },
+  "models_2": [
+    35109
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

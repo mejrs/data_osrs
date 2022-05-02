@@ -1,11 +1,9 @@
 {
   "id": 30121,
   "name": "Note",
-  "models_2": {
-    "models": [
-      2600
-    ]
-  },
+  "models_2": [
+    2600
+  ],
   "actions": [
     "Take",
     null,

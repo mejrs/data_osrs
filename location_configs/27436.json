@@ -1,11 +1,9 @@
 {
   "id": 27436,
   "name": "Saltpetre",
-  "models_2": {
-    "models": [
-      30080
-    ]
-  },
+  "models_2": [
+    30080
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "is_transparent": true,

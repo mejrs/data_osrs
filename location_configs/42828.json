@@ -1,11 +1,9 @@
 {
   "id": 42828,
   "name": "Hardcore armour crate",
-  "models_2": {
-    "models": [
-      42965
-    ]
-  },
+  "models_2": [
+    42965
+  ],
   "ambient": 10,
   "actions": [
     "Take",

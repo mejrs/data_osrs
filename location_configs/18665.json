@@ -1,11 +1,9 @@
 {
   "id": 18665,
   "name": "Pin",
-  "models_2": {
-    "models": [
-      18858
-    ]
-  },
+  "models_2": [
+    18858
+  ],
   "unknown_19": 1,
   "ambient": 20
 }

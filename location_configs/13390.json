@@ -1,12 +1,10 @@
 {
   "id": 13390,
   "name": "Jacky Jester",
-  "models_2": {
-    "models": [
-      13120,
-      13119
-    ]
-  },
+  "models_2": [
+    13120,
+    13119
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

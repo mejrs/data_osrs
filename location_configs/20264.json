@@ -1,11 +1,9 @@
 {
   "id": 20264,
   "name": "Egg hopper",
-  "models_2": {
-    "models": [
-      20657
-    ]
-  },
+  "models_2": [
+    20657
+  ],
   "unknown_19": 1,
   "unknown_24": 5432,
   "actions": [

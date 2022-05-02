@@ -1,11 +1,9 @@
 {
   "id": 30967,
   "name": "Pile of Fishbowls",
-  "models_2": {
-    "models": [
-      33822
-    ]
-  },
+  "models_2": [
+    33822
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "unknown_21": true,

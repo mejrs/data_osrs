@@ -1,11 +1,9 @@
 {
   "id": 12655,
   "name": "Small furnace",
-  "models_2": {
-    "models": [
-      3912
-    ]
-  },
+  "models_2": [
+    3912
+  ],
   "actions": [
     null,
     "Smelt",

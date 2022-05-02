@@ -1,9 +1,7 @@
 {
   "id": 19885,
   "name": "Books",
-  "models_2": {
-    "models": [
-      19996
-    ]
-  }
+  "models_2": [
+    19996
+  ]
 }

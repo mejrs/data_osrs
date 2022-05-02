@@ -1,19 +1,17 @@
 {
   "id": 42854,
-  "name": "Scuffed snow",
-  "models_2": {
-    "models": [
-      43080
-    ]
-  },
-  "is_transparent": true,
-  "unknown_27": false,
-  "ambient": 20,
+  "name": "Chest",
+  "models_2": [
+    32268
+  ],
+  "unknown_19": 1,
+  "ambient": 25,
   "actions": [
-    "Place",
+    "Claim",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "unknown_69": 14
 }

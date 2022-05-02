@@ -1,11 +1,9 @@
 {
   "id": 18399,
   "name": "Bone barrel",
-  "models_2": {
-    "models": [
-      17730
-    ]
-  },
+  "models_2": [
+    17730
+  ],
   "ambient": 20,
   "colours": [
     [

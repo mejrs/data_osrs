@@ -1,11 +1,9 @@
 {
   "id": 30717,
   "name": "Giant vial",
-  "models_2": {
-    "models": [
-      33985
-    ]
-  },
+  "models_2": [
+    33985
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

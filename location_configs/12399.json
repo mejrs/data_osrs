@@ -1,11 +1,9 @@
 {
   "id": 12399,
   "name": "Sack",
-  "models_2": {
-    "models": [
-      7701
-    ]
-  },
+  "models_2": [
+    7701
+  ],
   "colours": [
     [
       6430,

@@ -1,11 +1,9 @@
 {
   "id": 18707,
   "name": "Connection pipe",
-  "models_2": {
-    "models": [
-      18715
-    ]
-  },
+  "models_2": [
+    18715
+  ],
   "unknown_19": 1,
   "colours": [
     [

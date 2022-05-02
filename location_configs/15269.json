@@ -1,11 +1,9 @@
 {
   "id": 15269,
   "name": "Icon space",
-  "models_2": {
-    "models": [
-      12710
-    ]
-  },
+  "models_2": [
+    12710
+  ],
   "dim_x": 2,
   "actions": [
     null,

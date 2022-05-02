@@ -1,11 +1,9 @@
 {
   "id": 31929,
   "name": "Deadman display",
-  "models_2": {
-    "models": [
-      34563
-    ]
-  },
+  "models_2": [
+    34563
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

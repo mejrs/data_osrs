@@ -1,11 +1,9 @@
 {
   "id": 5848,
   "name": "Tall tree",
-  "models_2": {
-    "models": [
-      5695
-    ]
-  },
+  "models_2": [
+    5695
+  ],
   "dim_x": 4,
   "unknown_27": false,
   "actions": [

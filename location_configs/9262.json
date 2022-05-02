@@ -1,11 +1,9 @@
 {
   "id": 9262,
   "name": "Roses",
-  "models_2": {
-    "models": [
-      9162
-    ]
-  },
+  "models_2": [
+    9162
+  ],
   "ambient": 25,
   "actions": [
     "Take-seed",

@@ -1,12 +1,10 @@
 {
   "id": 5255,
   "name": "Nettles",
-  "models_2": {
-    "models": [
-      5406,
-      5407
-    ]
-  },
+  "models_2": [
+    5406,
+    5407
+  ],
   "unknown_17": false,
   "actions": [
     "Pick",

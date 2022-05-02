@@ -1,11 +1,9 @@
 {
   "id": 11240,
   "name": "Barrel",
-  "models_2": {
-    "models": [
-      14194
-    ]
-  },
+  "models_2": [
+    14194
+  ],
   "actions": [
     "Take-powder",
     null,

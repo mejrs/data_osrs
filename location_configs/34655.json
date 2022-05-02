@@ -1,11 +1,9 @@
 {
   "id": 34655,
   "name": "Mysterious pipe",
-  "models_2": {
-    "models": [
-      15279
-    ]
-  },
+  "models_2": [
+    15279
+  ],
   "ambient": 10,
   "actions": [
     "Enter",

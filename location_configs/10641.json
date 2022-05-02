@@ -1,12 +1,10 @@
 {
   "id": 10641,
   "name": "Doric's Whetstone",
-  "models_2": {
-    "models": [
-      10388,
-      10389
-    ]
-  },
+  "models_2": [
+    10388,
+    10389
+  ],
   "dim_x": 2,
   "unknown_24": 2997,
   "ambient": 10,

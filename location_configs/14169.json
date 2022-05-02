@@ -1,11 +1,9 @@
 {
   "id": 14169,
   "name": "Fire",
-  "models_2": {
-    "models": [
-      3818
-    ]
-  },
+  "models_2": [
+    3818
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 75,

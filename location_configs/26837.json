@@ -1,11 +1,9 @@
 {
   "id": 26837,
   "name": "Igloo",
-  "models_2": {
-    "models": [
-      28929
-    ]
-  },
+  "models_2": [
+    28929
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

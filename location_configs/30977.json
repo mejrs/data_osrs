@@ -1,12 +1,10 @@
 {
   "id": 30977,
   "name": "Rinsing pool",
-  "models_2": {
-    "models": [
-      33677,
-      33674
-    ]
-  },
+  "models_2": [
+    33677,
+    33674
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

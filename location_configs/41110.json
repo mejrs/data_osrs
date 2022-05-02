@@ -1,11 +1,9 @@
 {
   "id": 41110,
   "name": "Ornate trophy pedestal",
-  "models_2": {
-    "models": [
-      41709
-    ]
-  },
+  "models_2": [
+    41709
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

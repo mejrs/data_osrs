@@ -1,11 +1,9 @@
 {
   "id": 15664,
   "name": "Shot",
-  "models_2": {
-    "models": [
-      15388
-    ]
-  },
+  "models_2": [
+    15388
+  ],
   "actions": [
     "Throw",
     null,

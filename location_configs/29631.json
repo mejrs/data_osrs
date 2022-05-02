@@ -1,11 +1,9 @@
 {
   "id": 29631,
-  "name": "Runecrafting altar",
-  "models_2": {
-    "models": [
-      32318
-    ]
-  },
+  "name": "Altar",
+  "models_2": [
+    32318
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

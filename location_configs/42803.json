@@ -1,11 +1,9 @@
 {
   "id": 42803,
   "name": "Skulls",
-  "models_2": {
-    "models": [
-      13474
-    ]
-  },
+  "models_2": [
+    13474
+  ],
   "ambient": 10,
   "contrast": 10,
   "colours": [

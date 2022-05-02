@@ -1,11 +1,9 @@
 {
   "id": 32484,
   "name": "Trap",
-  "models_2": {
-    "models": [
-      34842
-    ]
-  },
+  "models_2": [
+    34842
+  ],
   "dim_x": 2,
   "unknown_17": false,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 9072,
   "name": "rune casket",
-  "models_2": {
-    "models": [
-      8984
-    ]
-  },
+  "models_2": [
+    8984
+  ],
   "colours": [
     [
       11187,

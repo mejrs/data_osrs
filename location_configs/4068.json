@@ -1,11 +1,9 @@
 {
   "id": 4068,
   "name": "Broken Wall",
-  "models_2": {
-    "models": [
-      4135
-    ]
-  },
+  "models_2": [
+    4135
+  ],
   "actions": [
     "Repair",
     null,

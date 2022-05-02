@@ -1,11 +1,9 @@
 {
   "id": 18876,
   "name": "Sign post",
-  "models_2": {
-    "models": [
-      19287
-    ]
-  },
+  "models_2": [
+    19287
+  ],
   "unknown_27": false,
   "ambient": 20,
   "model": false

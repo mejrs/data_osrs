@@ -1,11 +1,9 @@
 {
   "id": 2672,
   "name": "An experimental anvil",
-  "models_2": {
-    "models": [
-      1251
-    ]
-  },
+  "models_2": [
+    1251
+  ],
   "actions": [
     "Use",
     null,

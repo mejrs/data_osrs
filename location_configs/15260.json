@@ -1,11 +1,9 @@
 {
   "id": 15260,
   "name": "Bed space",
-  "models_2": {
-    "models": [
-      12687
-    ]
-  },
+  "models_2": [
+    12687
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 32507,
   "name": "Magic Gate",
-  "models_2": {
-    "models": [
-      16355
-    ]
-  },
+  "models_2": [
+    16355
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 20039,
   "name": "Switch",
-  "models_2": {
-    "models": [
-      20335
-    ]
-  },
+  "models_2": [
+    20335
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

@@ -1,10 +1,8 @@
 {
   "id": 5066,
-  "models_2": {
-    "models": [
-      5014
-    ]
-  },
+  "models_2": [
+    5014
+  ],
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_22": true,

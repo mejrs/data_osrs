@@ -1,11 +1,9 @@
 {
   "id": 30729,
   "name": "Strange blocks",
-  "models_2": {
-    "models": [
-      33943
-    ]
-  },
+  "models_2": [
+    33943
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

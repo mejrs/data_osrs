@@ -1,11 +1,9 @@
 {
   "id": 29205,
   "name": "Mounted Hunting Cape (t)",
-  "models_2": {
-    "models": [
-      32173
-    ]
-  },
+  "models_2": [
+    32173
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

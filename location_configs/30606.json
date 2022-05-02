@@ -1,11 +1,9 @@
 {
   "id": 30606,
   "name": "Rubber cap mushroom",
-  "models_2": {
-    "models": [
-      33710
-    ]
-  },
+  "models_2": [
+    33710
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "is_transparent": true,

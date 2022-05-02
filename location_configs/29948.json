@@ -1,11 +1,9 @@
 {
   "id": 29948,
   "name": "Drained Crystal",
-  "models_2": {
-    "models": [
-      32549
-    ]
-  },
+  "models_2": [
+    32549
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

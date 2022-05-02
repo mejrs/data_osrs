@@ -1,9 +1,7 @@
 {
   "id": 15947,
   "name": "Sweetgrub Mound",
-  "models_2": {
-    "models": [
-      15782
-    ]
-  }
+  "models_2": [
+    15782
+  ]
 }

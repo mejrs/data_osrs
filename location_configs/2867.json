@@ -1,11 +1,9 @@
 {
   "id": 2867,
   "name": "Potted plant",
-  "models_2": {
-    "models": [
-      1590
-    ]
-  },
+  "models_2": [
+    1590
+  ],
   "unknown_19": 1,
   "actions": [
     "Look-under",

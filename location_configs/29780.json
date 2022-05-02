@@ -1,11 +1,9 @@
 {
   "id": 29780,
   "name": "Large storage unit",
-  "models_2": {
-    "models": [
-      32515
-    ]
-  },
+  "models_2": [
+    32515
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "actions": [

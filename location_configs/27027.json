@@ -1,11 +1,9 @@
 {
   "id": 27027,
   "name": "Appendage",
-  "models_2": {
-    "models": [
-      16036
-    ]
-  },
+  "models_2": [
+    16036
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "unknown_21": true,

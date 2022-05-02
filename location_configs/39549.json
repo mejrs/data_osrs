@@ -1,11 +1,9 @@
 {
   "id": 39549,
   "name": "Portal",
-  "models_2": {
-    "models": [
-      40636
-    ]
-  },
+  "models_2": [
+    40636
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,

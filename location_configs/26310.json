@@ -1,11 +1,9 @@
 {
   "id": 26310,
   "name": "Battering ram",
-  "models_2": {
-    "models": [
-      27902
-    ]
-  },
+  "models_2": [
+    27902
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "unknown_21": true

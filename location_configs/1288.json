@@ -1,11 +1,9 @@
 {
   "id": 1288,
   "name": "Dead tree",
-  "models_2": {
-    "models": [
-      1621
-    ]
-  },
+  "models_2": [
+    1621
+  ],
   "unknown_22": true,
   "category": 189,
   "mirror": true,

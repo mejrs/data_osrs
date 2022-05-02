@@ -1,11 +1,9 @@
 {
   "id": 25785,
   "name": "Rack",
-  "models_2": {
-    "models": [
-      25041
-    ]
-  },
+  "models_2": [
+    25041
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "ambient": 25,

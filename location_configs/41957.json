@@ -1,11 +1,9 @@
 {
   "id": 41957,
   "name": "Broken Cart",
-  "models_2": {
-    "models": [
-      42576
-    ]
-  },
+  "models_2": [
+    42576
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "ambient": 20,

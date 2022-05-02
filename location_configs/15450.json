@@ -1,11 +1,9 @@
 {
   "id": 15450,
   "name": "Heraldry space",
-  "models_2": {
-    "models": [
-      12728
-    ]
-  },
+  "models_2": [
+    12728
+  ],
   "dim_x": 2,
   "actions": [
     null,

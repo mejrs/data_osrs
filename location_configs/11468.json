@@ -1,11 +1,9 @@
 {
   "id": 11468,
   "name": "Lantern",
-  "models_2": {
-    "models": [
-      11822
-    ]
-  },
+  "models_2": [
+    11822
+  ],
   "is_transparent": true,
   "unknown_24": 1868
 }

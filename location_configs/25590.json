@@ -1,11 +1,9 @@
 {
   "id": 25590,
   "name": "Boil",
-  "models_2": {
-    "models": [
-      7431
-    ]
-  },
+  "models_2": [
+    7431
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "actions": [

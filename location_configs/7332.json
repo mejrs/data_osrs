@@ -1,12 +1,10 @@
 {
   "id": 7332,
   "name": "Bunsen burner",
-  "models_2": {
-    "models": [
-      7713,
-      7675
-    ]
-  },
+  "models_2": [
+    7713,
+    7675
+  ],
   "dim_y": 2,
   "ambient": 10,
   "colours": [

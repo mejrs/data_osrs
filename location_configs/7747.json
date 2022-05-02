@@ -1,12 +1,10 @@
 {
   "id": 7747,
   "name": "Cactus",
-  "models_2": {
-    "models": [
-      7827,
-      7767
-    ]
-  },
+  "models_2": [
+    7827,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

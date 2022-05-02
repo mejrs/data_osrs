@@ -1,11 +1,9 @@
 {
   "id": 26680,
   "name": "Rockfall",
-  "models_2": {
-    "models": [
-      780
-    ]
-  },
+  "models_2": [
+    780
+  ],
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 20,

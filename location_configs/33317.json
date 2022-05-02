@@ -1,11 +1,9 @@
 {
   "id": 33317,
   "name": "Old fire pit",
-  "models_2": {
-    "models": [
-      35939
-    ]
-  },
+  "models_2": [
+    35939
+  ],
   "unknown_19": 1,
   "unknown_24": 8170,
   "ambient": 35,

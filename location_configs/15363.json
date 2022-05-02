@@ -1,11 +1,9 @@
 {
   "id": 15363,
   "name": "Tree space",
-  "models_2": {
-    "models": [
-      12650
-    ]
-  },
+  "models_2": [
+    12650
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

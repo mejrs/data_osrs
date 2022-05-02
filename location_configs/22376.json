@@ -1,11 +1,9 @@
 {
   "id": 22376,
   "name": "Granary wall",
-  "models_2": {
-    "models": [
-      22828
-    ]
-  },
+  "models_2": [
+    22828
+  ],
   "unknown_22": true,
   "ambient": 35,
   "mirror": true

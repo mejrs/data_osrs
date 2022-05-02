@@ -1,11 +1,9 @@
 {
   "id": 33014,
   "name": "Strategy table",
-  "models_2": {
-    "models": [
-      35445
-    ]
-  },
+  "models_2": [
+    35445
+  ],
   "dim_x": 4,
   "dim_y": 2,
   "unknown_19": 1,

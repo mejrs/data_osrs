@@ -1,11 +1,9 @@
 {
   "id": 5815,
   "name": "Gnome landing light",
-  "models_2": {
-    "models": [
-      5647
-    ]
-  },
+  "models_2": [
+    5647
+  ],
   "unknown_19": 1,
   "unknown_24": 1747,
   "unknown_27": false,

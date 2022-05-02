@@ -1,11 +1,9 @@
 {
   "id": 21179,
   "name": "Firm snow patch",
-  "models_2": {
-    "models": [
-      21579
-    ]
-  },
+  "models_2": [
+    21579
+  ],
   "dim_x": 3,
   "dim_y": 4,
   "unknown_19": 1,

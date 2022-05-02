@@ -1,11 +1,9 @@
 {
   "id": 1099,
   "name": "Throne",
-  "models_2": {
-    "models": [
-      1234
-    ]
-  },
+  "models_2": [
+    1234
+  ],
   "is_transparent": true,
   "colours": [
     [

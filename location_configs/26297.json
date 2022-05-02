@@ -1,11 +1,9 @@
 {
   "id": 26297,
   "name": "Oak house",
-  "models_2": {
-    "models": [
-      28948
-    ]
-  },
+  "models_2": [
+    28948
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

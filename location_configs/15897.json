@@ -1,11 +1,9 @@
 {
   "id": 15897,
   "name": "Copper Ladder",
-  "models_2": {
-    "models": [
-      15755
-    ]
-  },
+  "models_2": [
+    15755
+  ],
   "mirror": true,
   "unknown_69": 7,
   "translate_x": 65516

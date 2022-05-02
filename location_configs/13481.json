@@ -1,11 +1,9 @@
 {
   "id": 13481,
   "name": "Crawling hand",
-  "models_2": {
-    "models": [
-      12162
-    ]
-  },
+  "models_2": [
+    12162
+  ],
   "ambient": 25,
   "actions": [
     "Talk-to",

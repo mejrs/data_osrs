@@ -1,12 +1,43 @@
 {
   "id": 42890,
-  "name": "Market stall",
-  "models_2": {
-    "models": [
-      43059,
-      43072
+  "name": "Trophy pedestal",
+  "models_2": [
+    41707,
+    41705
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    "Remove-trophy",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      48476,
+      29646
+    ],
+    [
+      48941,
+      3371
+    ],
+    [
+      48918,
+      43150
+    ],
+    [
+      52160,
+      43169
+    ],
+    [
+      51887,
+      43162
     ]
-  },
-  "ambient": 10,
-  "contrast": 15
+  ],
+  "category": 206
 }

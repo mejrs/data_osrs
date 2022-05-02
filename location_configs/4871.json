@@ -1,11 +1,9 @@
 {
   "id": 4871,
   "name": "Reinitialisation Panel",
-  "models_2": {
-    "models": [
-      4731
-    ]
-  },
+  "models_2": [
+    4731
+  ],
   "actions": [
     "Operate",
     null,

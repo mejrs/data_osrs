@@ -1,11 +1,9 @@
 {
   "id": 12520,
   "name": "Coral Reef",
-  "models_2": {
-    "models": [
-      13793
-    ]
-  },
+  "models_2": [
+    13793
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

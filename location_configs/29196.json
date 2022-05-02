@@ -1,11 +1,9 @@
 {
   "id": 29196,
   "name": "Mounted Fishing Cape",
-  "models_2": {
-    "models": [
-      32198
-    ]
-  },
+  "models_2": [
+    32198
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

@@ -1,11 +1,9 @@
 {
   "id": 40067,
   "name": "Broken Range",
-  "models_2": {
-    "models": [
-      40825
-    ]
-  },
+  "models_2": [
+    40825
+  ],
   "actions": [
     null,
     null,

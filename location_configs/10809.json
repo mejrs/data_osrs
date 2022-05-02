@@ -1,11 +1,9 @@
 {
   "id": 10809,
   "name": "Waste Paper Bin",
-  "models_2": {
-    "models": [
-      10719
-    ]
-  },
+  "models_2": [
+    10719
+  ],
   "ambient": 20,
   "colours": [
     [

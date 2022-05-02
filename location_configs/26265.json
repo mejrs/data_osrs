@@ -1,12 +1,10 @@
 {
   "id": 26265,
   "name": "<col=ff9040>Recurrent damage",
-  "models_2": {
-    "models": [
-      2317,
-      7766
-    ]
-  },
+  "models_2": [
+    2317,
+    7766
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 502,

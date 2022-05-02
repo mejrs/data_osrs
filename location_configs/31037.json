@@ -1,11 +1,9 @@
 {
   "id": 31037,
   "name": "Medium Boulder",
-  "models_2": {
-    "models": [
-      33536
-    ]
-  },
+  "models_2": [
+    33536
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "is_transparent": true,

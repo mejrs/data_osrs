@@ -1,11 +1,9 @@
 {
   "id": 5145,
   "name": "Bluebells",
-  "models_2": {
-    "models": [
-      13148
-    ]
-  },
+  "models_2": [
+    13148
+  ],
   "unknown_17": false,
   "actions": [
     null,

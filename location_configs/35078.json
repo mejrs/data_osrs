@@ -1,11 +1,9 @@
 {
   "id": 35078,
   "name": "Floating Book",
-  "models_2": {
-    "models": [
-      38517
-    ]
-  },
+  "models_2": [
+    38517
+  ],
   "ambient": 40,
   "actions": [
     "Climb",

@@ -1,11 +1,9 @@
 {
   "id": 18695,
   "name": "Extractor gun",
-  "models_2": {
-    "models": [
-      18775
-    ]
-  },
+  "models_2": [
+    18775
+  ],
   "unknown_24": 4897,
   "actions": [
     "Take-from",

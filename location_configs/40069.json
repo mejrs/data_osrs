@@ -1,11 +1,9 @@
 {
   "id": 40069,
   "name": "Table space",
-  "models_2": {
-    "models": [
-      40808
-    ]
-  },
+  "models_2": [
+    40808
+  ],
   "actions": [
     null,
     null,

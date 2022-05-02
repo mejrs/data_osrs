@@ -1,11 +1,9 @@
 {
   "id": 39936,
   "name": "Shelves",
-  "models_2": {
-    "models": [
-      40834
-    ]
-  },
+  "models_2": [
+    40834
+  ],
   "actions": [
     null,
     "Remove",

@@ -1,11 +1,9 @@
 {
   "id": 6189,
   "name": "Furnace",
-  "models_2": {
-    "models": [
-      1192
-    ]
-  },
+  "models_2": [
+    1192
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_22": true,

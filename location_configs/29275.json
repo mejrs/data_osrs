@@ -1,11 +1,9 @@
 {
   "id": 29275,
   "name": "Marble bench",
-  "models_2": {
-    "models": [
-      32089
-    ]
-  },
+  "models_2": [
+    32089
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

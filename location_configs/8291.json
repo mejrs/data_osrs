@@ -1,12 +1,10 @@
 {
   "id": 8291,
   "name": "Yanillian Hops",
-  "models_2": {
-    "models": [
-      8201,
-      7766
-    ]
-  },
+  "models_2": [
+    8201,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     null,

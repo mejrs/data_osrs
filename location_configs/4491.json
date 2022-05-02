@@ -1,11 +1,9 @@
 {
   "id": 4491,
   "name": "Mounted swordfish",
-  "models_2": {
-    "models": [
-      12157
-    ]
-  },
+  "models_2": [
+    12157
+  ],
   "ambient": 25,
   "contrast": 25
 }

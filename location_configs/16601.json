@@ -1,11 +1,9 @@
 {
   "id": 16601,
   "name": "Note",
-  "models_2": {
-    "models": [
-      16743
-    ]
-  },
+  "models_2": [
+    16743
+  ],
   "unknown_19": 1,
   "unknown_24": 4357,
   "unknown_27": false,

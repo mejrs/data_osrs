@@ -1,9 +1,7 @@
 {
   "id": 4863,
   "name": "Watchtower Legs",
-  "models_2": {
-    "models": [
-      4765
-    ]
-  }
+  "models_2": [
+    4765
+  ]
 }

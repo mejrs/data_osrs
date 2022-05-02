@@ -1,11 +1,9 @@
 {
   "id": 39903,
   "name": "Cabinet",
-  "models_2": {
-    "models": [
-      40814
-    ]
-  },
+  "models_2": [
+    40814
+  ],
   "ambient": 25,
   "actions": [
     null,

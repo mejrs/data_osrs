@@ -1,11 +1,9 @@
 {
   "id": 23230,
   "name": "Wreck",
-  "models_2": {
-    "models": [
-      24100
-    ]
-  },
+  "models_2": [
+    24100
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_22": true

@@ -1,11 +1,9 @@
 {
   "id": 18687,
   "name": "Fan blade",
-  "models_2": {
-    "models": [
-      18782
-    ]
-  },
+  "models_2": [
+    18782
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "unknown_78": {

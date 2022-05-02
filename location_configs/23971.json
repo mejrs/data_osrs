@@ -1,11 +1,9 @@
 {
   "id": 23971,
   "name": "Stone signpost",
-  "models_2": {
-    "models": [
-      11561
-    ]
-  },
+  "models_2": [
+    11561
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "unknown_21": true,

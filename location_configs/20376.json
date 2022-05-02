@@ -1,11 +1,9 @@
 {
   "id": 20376,
   "name": "Clothes",
-  "models_2": {
-    "models": [
-      1141
-    ]
-  },
+  "models_2": [
+    1141
+  ],
   "ambient": 30,
   "colours": [
     [

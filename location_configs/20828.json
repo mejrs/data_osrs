@@ -1,11 +1,9 @@
 {
   "id": 20828,
   "name": "Barrow",
-  "models_2": {
-    "models": [
-      14873
-    ]
-  },
+  "models_2": [
+    14873
+  ],
   "dim_x": 2,
   "ambient": 10,
   "contrast": 10,

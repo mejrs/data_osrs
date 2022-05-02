@@ -1,11 +1,9 @@
 {
   "id": 2229,
   "name": "Tribal Statue",
-  "models_2": {
-    "models": [
-      1469
-    ]
-  },
+  "models_2": [
+    1469
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

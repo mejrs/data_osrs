@@ -1,11 +1,9 @@
 {
   "id": 31924,
   "name": "Ornate Jewellery Box",
-  "models_2": {
-    "models": [
-      32158
-    ]
-  },
+  "models_2": [
+    32158
+  ],
   "dim_x": 2,
   "dim_y": 2
 }

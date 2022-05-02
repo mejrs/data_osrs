@@ -1,11 +1,9 @@
 {
   "id": 10136,
   "name": "Wooden Stair",
-  "models_2": {
-    "models": [
-      9882
-    ]
-  },
+  "models_2": [
+    9882
+  ],
   "dim_y": 3,
   "actions": [
     "Climb-up",

@@ -1,11 +1,9 @@
 {
   "id": 38039,
   "name": "Coffin",
-  "models_2": {
-    "models": [
-      11207
-    ]
-  },
+  "models_2": [
+    11207
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 30,

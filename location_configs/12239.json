@@ -1,11 +1,9 @@
 {
   "id": 12239,
   "name": "Vanilla plant",
-  "models_2": {
-    "models": [
-      13843
-    ]
-  },
+  "models_2": [
+    13843
+  ],
   "actions": [
     "Search",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 39895,
   "name": "Teak table",
-  "models_2": {
-    "models": [
-      12492
-    ]
-  },
+  "models_2": [
+    12492
+  ],
   "actions": [
     null,
     "Remove",

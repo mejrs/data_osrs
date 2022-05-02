@@ -1,13 +1,11 @@
 {
   "id": 24723,
   "name": "Drain Pipe",
-  "models_2": {
-    "models": [
-      26034,
-      26053,
-      26049
-    ]
-  },
+  "models_2": [
+    26034,
+    26053,
+    26049
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,

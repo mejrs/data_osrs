@@ -1,11 +1,9 @@
 {
   "id": 2302,
   "name": "Sign",
-  "models_2": {
-    "models": [
-      25212
-    ]
-  },
+  "models_2": [
+    25212
+  ],
   "unknown_24": 4128,
   "ambient": 35,
   "contrast": 10

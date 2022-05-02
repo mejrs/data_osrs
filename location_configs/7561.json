@@ -1,12 +1,10 @@
 {
   "id": 7561,
   "name": "Belladonna",
-  "models_2": {
-    "models": [
-      7901,
-      7767
-    ]
-  },
+  "models_2": [
+    7901,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

@@ -1,11 +1,9 @@
 {
   "id": 5809,
   "name": "Weathervane",
-  "models_2": {
-    "models": [
-      5655
-    ]
-  },
+  "models_2": [
+    5655
+  ],
   "actions": [
     "Look",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 39916,
   "name": "Wardrobe",
-  "models_2": {
-    "models": [
-      11125
-    ]
-  },
+  "models_2": [
+    11125
+  ],
   "ambient": 25,
   "actions": [
     null,

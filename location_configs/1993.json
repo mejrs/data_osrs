@@ -1,11 +1,9 @@
 {
   "id": 1993,
   "name": "Glarial's Tomb",
-  "models_2": {
-    "models": [
-      1364
-    ]
-  },
+  "models_2": [
+    1364
+  ],
   "dim_x": 2,
   "actions": [
     "Search",

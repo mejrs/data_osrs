@@ -1,11 +1,9 @@
 {
   "id": 40109,
   "name": "Table",
-  "models_2": {
-    "models": [
-      40802
-    ]
-  },
+  "models_2": [
+    40802
+  ],
   "ambient": 25,
   "actions": [
     null,

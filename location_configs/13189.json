@@ -1,12 +1,10 @@
 {
   "id": 13189,
   "name": "Altar",
-  "models_2": {
-    "models": [
-      12372,
-      12380
-    ]
-  },
+  "models_2": [
+    12372,
+    12380
+  ],
   "dim_x": 2,
   "actions": [
     "Pray",

@@ -1,11 +1,9 @@
 {
   "id": 37825,
   "name": "Stone pool",
-  "models_2": {
-    "models": [
-      39455
-    ]
-  },
+  "models_2": [
+    39455
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

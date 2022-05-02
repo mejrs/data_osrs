@@ -1,11 +1,9 @@
 {
   "id": 5818,
   "name": "Flashing landing light",
-  "models_2": {
-    "models": [
-      5645
-    ]
-  },
+  "models_2": [
+    5645
+  ],
   "unknown_24": 1747,
   "ambient": 50,
   "actions": [

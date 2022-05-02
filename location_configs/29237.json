@@ -1,11 +1,9 @@
 {
   "id": 29237,
   "name": "Pool of Restoration",
-  "models_2": {
-    "models": [
-      32096
-    ]
-  },
+  "models_2": [
+    32096
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

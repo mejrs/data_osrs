@@ -1,11 +1,9 @@
 {
   "id": 18170,
   "name": "Clay oven",
-  "models_2": {
-    "models": [
-      18320
-    ]
-  },
+  "models_2": [
+    18320
+  ],
   "ambient": 10,
   "colours": [
     [

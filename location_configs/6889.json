@@ -1,11 +1,9 @@
 {
   "id": 6889,
   "name": "Sithik Ints",
-  "models_2": {
-    "models": [
-      6810
-    ]
-  },
+  "models_2": [
+    6810
+  ],
   "actions": [
     "Talk-to",
     null,

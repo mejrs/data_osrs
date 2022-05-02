@@ -1,11 +1,9 @@
 {
   "id": 7253,
   "name": "Spin Blades",
-  "models_2": {
-    "models": [
-      7575
-    ]
-  },
+  "models_2": [
+    7575
+  ],
   "unknown_19": 1,
   "unknown_24": 2212,
   "unknown_27": false,

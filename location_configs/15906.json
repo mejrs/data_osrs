@@ -1,12 +1,10 @@
 {
   "id": 15906,
   "name": "Boiler",
-  "models_2": {
-    "models": [
-      15800,
-      15795
-    ]
-  },
+  "models_2": [
+    15800,
+    15795
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "mirror": true

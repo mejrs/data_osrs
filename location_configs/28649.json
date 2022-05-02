@@ -1,11 +1,9 @@
 {
   "id": 28649,
   "name": "Pipe",
-  "models_2": {
-    "models": [
-      31458
-    ]
-  },
+  "models_2": [
+    31458
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 5975,
   "name": "Dwarf MultiCannon",
-  "models_2": {
-    "models": [
-      2328
-    ]
-  },
+  "models_2": [
+    2328
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "is_transparent": true,

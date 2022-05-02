@@ -1,14 +1,12 @@
 {
   "id": 37482,
   "name": "League Firsts Board",
-  "models_2": {
-    "models": [
-      14651,
-      34439
-    ]
-  },
+  "models_2": [
+    43382
+  ],
+  "unknown_21": true,
   "unknown_27": false,
-  "ambient": 5,
+  "ambient": 40,
   "actions": [
     "Read",
     null,
@@ -16,7 +14,7 @@
     null,
     null
   ],
-  "contrast": 8,
+  "contrast": -100,
   "colours": [
     [
       7587,
@@ -35,5 +33,7 @@
       5157
     ]
   ],
-  "unknown_69": 14
+  "scale_x": 106,
+  "scale_y": 140,
+  "unknown_69": 11
 }

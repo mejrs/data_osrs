@@ -1,11 +1,9 @@
 {
   "id": 15570,
   "name": "Snake",
-  "models_2": {
-    "models": [
-      13618
-    ]
-  },
+  "models_2": [
+    13618
+  ],
   "unknown_19": 1,
   "unknown_24": 3532,
   "ambient": 10

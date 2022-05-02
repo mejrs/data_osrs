@@ -1,11 +1,9 @@
 {
   "id": 16594,
   "name": "Log pile",
-  "models_2": {
-    "models": [
-      16767
-    ]
-  },
+  "models_2": [
+    16767
+  ],
   "unknown_19": 1,
   "ambient": 40,
   "actions": [

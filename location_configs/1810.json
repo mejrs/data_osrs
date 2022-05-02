@@ -1,11 +1,9 @@
 {
   "id": 1810,
   "name": "Web",
-  "models_2": {
-    "models": [
-      776
-    ]
-  },
+  "models_2": [
+    776
+  ],
   "actions": [
     "Slash",
     null,

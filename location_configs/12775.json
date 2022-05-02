@@ -1,11 +1,9 @@
 {
   "id": 12775,
   "name": "<col=ffff00>Marius</col>",
-  "models_2": {
-    "models": [
-      14035
-    ]
-  },
+  "models_2": [
+    14035
+  ],
   "dim_y": 2,
   "actions": [
     "Talk-to",

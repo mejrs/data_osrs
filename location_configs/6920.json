@@ -1,11 +1,9 @@
 {
   "id": 6920,
   "name": "Door",
-  "models_2": {
-    "models": [
-      6931
-    ]
-  },
+  "models_2": [
+    6931
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

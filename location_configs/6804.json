@@ -1,11 +1,9 @@
 {
   "id": 6804,
   "name": "Painting stand",
-  "models_2": {
-    "models": [
-      12563
-    ]
-  },
+  "models_2": [
+    12563
+  ],
   "dim_x": 2,
   "actions": [
     "Use",

@@ -1,11 +1,9 @@
 {
   "id": 10171,
   "name": "Pressure Barrel",
-  "models_2": {
-    "models": [
-      9874
-    ]
-  },
+  "models_2": [
+    9874
+  ],
   "dim_y": 2,
   "actions": [
     null,

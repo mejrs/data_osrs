@@ -1,11 +1,9 @@
 {
   "id": 34663,
   "name": "Rubble",
-  "models_2": {
-    "models": [
-      5370
-    ]
-  },
+  "models_2": [
+    5370
+  ],
   "unknown_19": 1,
   "actions": [
     "Take-rock",

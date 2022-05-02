@@ -1,11 +1,9 @@
 {
   "id": 16895,
   "name": "Extra chain",
-  "models_2": {
-    "models": [
-      9532
-    ]
-  },
+  "models_2": [
+    9532
+  ],
   "colours": [
     [
       5285,

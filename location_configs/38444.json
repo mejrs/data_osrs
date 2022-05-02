@@ -1,11 +1,9 @@
 {
   "id": 38444,
   "name": "Crossbowman Statue",
-  "models_2": {
-    "models": [
-      40142
-    ]
-  },
+  "models_2": [
+    40142
+  ],
   "unknown_21": true,
   "unknown_24": 8681,
   "unknown_27": false,

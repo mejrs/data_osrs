@@ -1,14 +1,20 @@
 {
   "id": 42895,
-  "name": "Robin",
-  "models_2": {
-    "models": [
-      43089
-    ]
-  },
+  "name": "Trophy pedestal",
+  "models_2": [
+    41707,
+    43419
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
   "unknown_19": 1,
-  "unknown_24": 4133,
   "ambient": 20,
-  "contrast": 10,
-  "translate_y": 32
+  "actions": [
+    null,
+    "Inspect",
+    "Remove-trophy",
+    null,
+    null
+  ],
+  "contrast": 10
 }

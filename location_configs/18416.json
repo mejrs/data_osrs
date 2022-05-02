@@ -1,11 +1,9 @@
 {
   "id": 18416,
   "name": "Shortcut",
-  "models_2": {
-    "models": [
-      18378
-    ]
-  },
+  "models_2": [
+    18378
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "unknown_21": true,

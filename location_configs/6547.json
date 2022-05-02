@@ -1,11 +1,9 @@
 {
   "id": 6547,
   "name": "Pyramid entrance",
-  "models_2": {
-    "models": [
-      6252
-    ]
-  },
+  "models_2": [
+    6252
+  ],
   "unknown_19": 1,
   "actions": [
     "Open",

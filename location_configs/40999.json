@@ -1,11 +1,9 @@
 {
   "id": 40999,
   "name": "Mast",
-  "models_2": {
-    "models": [
-      22880
-    ]
-  },
+  "models_2": [
+    22880
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,

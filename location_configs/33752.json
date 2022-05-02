@@ -1,12 +1,10 @@
 {
   "id": 33752,
   "name": "Diseased Potato cactus",
-  "models_2": {
-    "models": [
-      36798,
-      7767
-    ]
-  },
+  "models_2": [
+    36798,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

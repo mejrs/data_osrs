@@ -1,13 +1,11 @@
 {
   "id": 3846,
   "name": "Compost Bin",
-  "models_2": {
-    "models": [
-      7838,
-      7845,
-      7842
-    ]
-  },
+  "models_2": [
+    7838,
+    7845,
+    7842
+  ],
   "ambient": 25,
   "actions": [
     null,

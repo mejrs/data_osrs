@@ -1,11 +1,9 @@
 {
   "id": 15439,
   "name": "Workbench space",
-  "models_2": {
-    "models": [
-      12658
-    ]
-  },
+  "models_2": [
+    12658
+  ],
   "dim_x": 2,
   "actions": [
     null,

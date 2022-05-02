@@ -1,11 +1,9 @@
 {
   "id": 40364,
   "name": "Workbench",
-  "models_2": {
-    "models": [
-      11564
-    ]
-  },
+  "models_2": [
+    11564
+  ],
   "dim_x": 2,
   "actions": [
     "Search",

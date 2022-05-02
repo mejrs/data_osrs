@@ -1,11 +1,9 @@
 {
   "id": 41696,
   "name": "<col=ffff00>Hannibal</col>",
-  "models_2": {
-    "models": [
-      42214
-    ]
-  },
+  "models_2": [
+    42214
+  ],
   "unknown_24": 8231,
   "ambient": 10,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 14434,
   "name": "Gas bubble",
-  "models_2": {
-    "models": [
-      2235
-    ]
-  },
+  "models_2": [
+    2235
+  ],
   "unknown_24": 523,
   "scale_y": 32,
   "unknown_73": true,

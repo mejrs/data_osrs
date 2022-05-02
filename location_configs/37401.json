@@ -1,11 +1,9 @@
 {
   "id": 37401,
   "name": "Small Geyser",
-  "models_2": {
-    "models": [
-      22049
-    ]
-  },
+  "models_2": [
+    22049
+  ],
   "unknown_19": 1,
   "unknown_24": 5772,
   "ambient": 30,

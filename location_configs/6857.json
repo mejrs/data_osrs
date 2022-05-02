@@ -1,11 +1,9 @@
 {
   "id": 6857,
   "name": "Barricade",
-  "models_2": {
-    "models": [
-      6790
-    ]
-  },
+  "models_2": [
+    6790
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "colours": [

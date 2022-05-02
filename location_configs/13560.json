@@ -1,12 +1,10 @@
 {
   "id": 13560,
   "name": "Pump and drain",
-  "models_2": {
-    "models": [
-      13219,
-      13218
-    ]
-  },
+  "models_2": [
+    13219,
+    13218
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "unknown_24": 3720,

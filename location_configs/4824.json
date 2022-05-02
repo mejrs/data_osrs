@@ -1,10 +1,8 @@
 {
   "id": 4824,
   "name": "Orchid",
-  "models_2": {
-    "models": [
-      1581
-    ]
-  },
+  "models_2": [
+    1581
+  ],
   "is_transparent": true
 }

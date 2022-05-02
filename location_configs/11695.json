@@ -1,11 +1,9 @@
 {
   "id": 11695,
   "name": "Dairy churn",
-  "models_2": {
-    "models": [
-      9837
-    ]
-  },
+  "models_2": [
+    9837
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

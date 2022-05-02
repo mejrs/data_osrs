@@ -1,9 +1,7 @@
 {
   "id": 18482,
   "name": "Big fish",
-  "models_2": {
-    "models": [
-      18502
-    ]
-  }
+  "models_2": [
+    18502
+  ]
 }

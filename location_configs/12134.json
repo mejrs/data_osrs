@@ -1,10 +1,8 @@
 {
   "id": 12134,
   "name": "Coffin",
-  "models_2": {
-    "models": [
-      12115
-    ]
-  },
+  "models_2": [
+    12115
+  ],
   "dim_y": 2
 }

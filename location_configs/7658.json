@@ -1,12 +1,10 @@
 {
   "id": 7658,
   "name": "Dead jangerberry bush",
-  "models_2": {
-    "models": [
-      7822,
-      7767
-    ]
-  },
+  "models_2": [
+    7822,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

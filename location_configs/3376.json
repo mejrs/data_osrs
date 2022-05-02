@@ -1,11 +1,9 @@
 {
   "id": 3376,
   "name": "Ogre bench",
-  "models_2": {
-    "models": [
-      723
-    ]
-  },
+  "models_2": [
+    723
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "colours": [

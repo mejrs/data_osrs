@@ -1,11 +1,9 @@
 {
   "id": 39571,
   "name": "<col=ffff00>Muncher</col>",
-  "models_2": {
-    "models": [
-      40635
-    ]
-  },
+  "models_2": [
+    40635
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 8749,

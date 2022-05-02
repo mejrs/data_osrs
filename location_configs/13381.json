@@ -1,12 +1,10 @@
 {
   "id": 13381,
   "name": "Glove Rack",
-  "models_2": {
-    "models": [
-      12178,
-      12179
-    ]
-  },
+  "models_2": [
+    12178,
+    12179
+  ],
   "dim_x": 2,
   "actions": [
     "Search",

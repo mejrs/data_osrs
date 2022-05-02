@@ -1,11 +1,9 @@
 {
   "id": 15345,
   "name": "Elemental balance space",
-  "models_2": {
-    "models": [
-      12697
-    ]
-  },
+  "models_2": [
+    12697
+  ],
   "actions": [
     null,
     null,

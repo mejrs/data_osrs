@@ -1,13 +1,11 @@
 {
   "id": 9206,
   "name": "Yellow orchids",
-  "models_2": {
-    "models": [
-      9159,
-      9160,
-      9155
-    ]
-  },
+  "models_2": [
+    9159,
+    9160,
+    9155
+  ],
   "ambient": 25,
   "colours": [
     [

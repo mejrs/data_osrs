@@ -1,12 +1,10 @@
 {
   "id": 26354,
   "name": "Frozen warrior",
-  "models_2": {
-    "models": [
-      27807,
-      27791
-    ]
-  },
+  "models_2": [
+    27807,
+    27791
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 15271,
   "name": "Lamp space",
-  "models_2": {
-    "models": [
-      12711
-    ]
-  },
+  "models_2": [
+    12711
+  ],
   "actions": [
     null,
     null,

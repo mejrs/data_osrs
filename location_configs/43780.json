@@ -1,0 +1,14 @@
+{
+  "id": 43780,
+  "name": "Mysterious Stone",
+  "models_2": [
+    43884,
+    43885
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15
+}

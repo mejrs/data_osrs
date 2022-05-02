@@ -1,11 +1,9 @@
 {
   "id": 26216,
   "name": "Gilded bench",
-  "models_2": {
-    "models": [
-      12404
-    ]
-  },
+  "models_2": [
+    12404
+  ],
   "unknown_19": 1,
   "category": 206,
   "unknown_69": 14

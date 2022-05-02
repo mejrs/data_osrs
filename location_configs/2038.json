@@ -1,11 +1,9 @@
 {
   "id": 2038,
   "name": "Dummy",
-  "models_2": {
-    "models": [
-      1286
-    ]
-  },
+  "models_2": [
+    1286
+  ],
   "actions": [
     "Hit",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 25404,
   "name": "Bookcase",
-  "models_2": {
-    "models": [
-      7392
-    ]
-  },
+  "models_2": [
+    7392
+  ],
   "colours": [
     [
       5400,

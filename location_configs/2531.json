@@ -1,11 +1,9 @@
 {
   "id": 2531,
   "name": "Mud patch",
-  "models_2": {
-    "models": [
-      11448
-    ]
-  },
+  "models_2": [
+    11448
+  ],
   "unknown_17": false,
   "unknown_19": 1
 }

@@ -1,11 +1,9 @@
 {
   "id": 17941,
   "name": "Wall",
-  "models_2": {
-    "models": [
-      17946
-    ]
-  },
+  "models_2": [
+    17946
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "colours": [

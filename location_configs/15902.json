@@ -1,11 +1,9 @@
 {
   "id": 15902,
   "name": "Posts",
-  "models_2": {
-    "models": [
-      4754
-    ]
-  },
+  "models_2": [
+    4754
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "unknown_22": true,

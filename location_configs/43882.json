@@ -1,0 +1,39 @@
+{
+  "id": 43882,
+  "name": "Rocks",
+  "models_2": [
+    10974,
+    11003
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Take-pickaxe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10518,
+      5413
+    ],
+    [
+      10398,
+      5421
+    ],
+    [
+      61,
+      5652
+    ],
+    [
+      7582,
+      6024
+    ],
+    [
+      7463,
+      6024
+    ]
+  ]
+}

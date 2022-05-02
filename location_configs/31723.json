@@ -1,11 +1,9 @@
 {
   "id": 31723,
   "name": "Wet driftwood",
-  "models_2": {
-    "models": [
-      34312
-    ]
-  },
+  "models_2": [
+    34312
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

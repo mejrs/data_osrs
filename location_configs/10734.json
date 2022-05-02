@@ -1,11 +1,9 @@
 {
   "id": 10734,
   "name": "Coin Collector",
-  "models_2": {
-    "models": [
-      10648
-    ]
-  },
+  "models_2": [
+    10648
+  ],
   "dim_y": 2,
   "unknown_22": true,
   "ambient": 30,

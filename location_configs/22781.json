@@ -1,11 +1,9 @@
 {
   "id": 22781,
   "name": "Toy range",
-  "models_2": {
-    "models": [
-      23446
-    ]
-  },
+  "models_2": [
+    23446
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

@@ -1,12 +1,10 @@
 {
   "id": 14883,
   "name": "Candles",
-  "models_2": {
-    "models": [
-      25763,
-      25764
-    ]
-  },
+  "models_2": [
+    25763,
+    25764
+  ],
   "unknown_24": 2564,
   "ambient": 25,
   "colours": [

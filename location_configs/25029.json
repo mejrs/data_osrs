@@ -1,11 +1,9 @@
 {
   "id": 25029,
   "name": "Magical wheat",
-  "models_2": {
-    "models": [
-      3951
-    ]
-  },
+  "models_2": [
+    3951
+  ],
   "unknown_27": false,
   "actions": [
     null,

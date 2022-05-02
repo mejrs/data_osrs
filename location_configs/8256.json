@@ -1,12 +1,10 @@
 {
   "id": 8256,
   "name": "Dead Jute",
-  "models_2": {
-    "models": [
-      7880,
-      7766
-    ]
-  },
+  "models_2": [
+    7880,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Clear",

@@ -1,11 +1,9 @@
 {
   "id": 23704,
   "name": "Goo covered vine",
-  "models_2": {
-    "models": [
-      15870
-    ]
-  },
+  "models_2": [
+    15870
+  ],
   "actions": [
     "Climb-down",
     null,

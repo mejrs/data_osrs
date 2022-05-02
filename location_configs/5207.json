@@ -1,11 +1,9 @@
 {
   "id": 5207,
   "name": "Staircase",
-  "models_2": {
-    "models": [
-      1944
-    ]
-  },
+  "models_2": [
+    1944
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_22": true,

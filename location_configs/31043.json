@@ -1,11 +1,9 @@
 {
   "id": 31043,
   "name": "Volcanic chamber",
-  "models_2": {
-    "models": [
-      33546
-    ]
-  },
+  "models_2": [
+    33546
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_22": true,

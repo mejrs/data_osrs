@@ -1,12 +1,10 @@
 {
   "id": 8635,
   "name": "Diseased sweetcorn plant",
-  "models_2": {
-    "models": [
-      8175,
-      7766
-    ]
-  },
+  "models_2": [
+    8175,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Cure",

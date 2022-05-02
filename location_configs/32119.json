@@ -1,12 +1,10 @@
 {
   "id": 32119,
   "name": "Brazier",
-  "models_2": {
-    "models": [
-      34766,
-      34765
-    ]
-  },
+  "models_2": [
+    34766,
+    34765
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

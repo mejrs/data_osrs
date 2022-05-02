@@ -1,10 +1,8 @@
 {
   "id": 31763,
   "name": "Equipment",
-  "models_2": {
-    "models": [
-      19995
-    ]
-  },
+  "models_2": [
+    19995
+  ],
   "ambient": 15
 }

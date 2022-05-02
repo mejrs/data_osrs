@@ -1,11 +1,9 @@
 {
   "id": 615,
   "name": "Small table",
-  "models_2": {
-    "models": [
-      902
-    ]
-  },
+  "models_2": [
+    902
+  ],
   "is_transparent": true,
   "category": 155
 }

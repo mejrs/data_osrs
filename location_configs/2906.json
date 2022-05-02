@@ -1,11 +1,9 @@
 {
   "id": 2906,
   "name": "Table",
-  "models_2": {
-    "models": [
-      1224
-    ]
-  },
+  "models_2": [
+    1224
+  ],
   "actions": [
     "Look-at",
     "Search",

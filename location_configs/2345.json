@@ -1,9 +1,7 @@
 {
   "id": 2345,
   "name": "Brick",
-  "models_2": {
-    "models": [
-      1418
-    ]
-  }
+  "models_2": [
+    1418
+  ]
 }

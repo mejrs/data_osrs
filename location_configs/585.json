@@ -1,9 +1,7 @@
 {
   "id": 585,
   "name": "Statue of Saradomin",
-  "models_2": {
-    "models": [
-      1441
-    ]
-  }
+  "models_2": [
+    1441
+  ]
 }

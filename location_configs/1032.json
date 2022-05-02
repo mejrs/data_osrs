@@ -1,11 +1,9 @@
 {
   "id": 1032,
   "name": "Danger sign",
-  "models_2": {
-    "models": [
-      1552
-    ]
-  },
+  "models_2": [
+    1552
+  ],
   "ambient": 17,
   "contrast": 17
 }

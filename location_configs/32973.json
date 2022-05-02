@@ -1,11 +1,9 @@
 {
   "id": 32973,
   "name": "Pool of blood",
-  "models_2": {
-    "models": [
-      35712
-    ]
-  },
+  "models_2": [
+    35712
+  ],
   "dim_x": 6,
   "dim_y": 6,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 30842,
   "name": "Trap Door",
-  "models_2": {
-    "models": [
-      33574
-    ]
-  },
+  "models_2": [
+    33574
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_27": false,

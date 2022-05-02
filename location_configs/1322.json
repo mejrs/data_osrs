@@ -1,10 +1,8 @@
 {
   "id": 1322,
   "name": "Hollow tree",
-  "models_2": {
-    "models": [
-      1583
-    ]
-  },
+  "models_2": [
+    1583
+  ],
   "mapscene": 2
 }

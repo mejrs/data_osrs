@@ -1,11 +1,9 @@
 {
   "id": 42943,
   "name": "Stalagmite",
-  "models_2": {
-    "models": [
-      21710
-    ]
-  },
+  "models_2": [
+    21710
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

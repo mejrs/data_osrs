@@ -1,0 +1,22 @@
+{
+  "id": 44010,
+  "name": "Entry",
+  "models_2": [
+    44241
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "model": false
+}

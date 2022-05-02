@@ -1,11 +1,9 @@
 {
   "id": 21924,
   "name": "Plant",
-  "models_2": {
-    "models": [
-      1669
-    ]
-  },
+  "models_2": [
+    1669
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

@@ -1,11 +1,9 @@
 {
   "id": 10080,
   "name": "Rocks",
-  "models_2": {
-    "models": [
-      1390
-    ]
-  },
+  "models_2": [
+    1390
+  ],
   "actions": [
     "Mine",
     "Prospect",

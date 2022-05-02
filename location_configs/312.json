@@ -1,11 +1,9 @@
 {
   "id": 312,
   "name": "Potato",
-  "models_2": {
-    "models": [
-      8216
-    ]
-  },
+  "models_2": [
+    8216
+  ],
   "unknown_17": false,
   "actions": [
     null,

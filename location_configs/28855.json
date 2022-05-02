@@ -1,11 +1,9 @@
 {
   "id": 28855,
   "name": "Cave",
-  "models_2": {
-    "models": [
-      31570
-    ]
-  },
+  "models_2": [
+    31570
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "is_transparent": true,

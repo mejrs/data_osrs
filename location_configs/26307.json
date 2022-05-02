@@ -1,11 +1,9 @@
 {
   "id": 26307,
   "name": "Broken catapult",
-  "models_2": {
-    "models": [
-      27927
-    ]
-  },
+  "models_2": [
+    27927
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "unknown_21": true

@@ -1,11 +1,9 @@
 {
   "id": 29321,
   "name": "Bank chest",
-  "models_2": {
-    "models": [
-      32268
-    ]
-  },
+  "models_2": [
+    32268
+  ],
   "ambient": 25,
   "actions": [
     "Bank",

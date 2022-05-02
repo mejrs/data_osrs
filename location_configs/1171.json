@@ -1,11 +1,9 @@
 {
   "id": 1171,
   "name": "Fungus",
-  "models_2": {
-    "models": [
-      1609
-    ]
-  },
+  "models_2": [
+    1609
+  ],
   "is_transparent": true,
   "colours": [
     [

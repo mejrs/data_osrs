@@ -1,11 +1,9 @@
 {
   "id": 1321,
   "name": "Mossy branch",
-  "models_2": {
-    "models": [
-      1344
-    ]
-  },
+  "models_2": [
+    1344
+  ],
   "dim_x": 3,
   "dim_y": 5,
   "mapscene": 1

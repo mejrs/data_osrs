@@ -1,11 +1,9 @@
 {
   "id": 41027,
   "name": "Trophy case space",
-  "models_2": {
-    "models": [
-      41703
-    ]
-  },
+  "models_2": [
+    41703
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

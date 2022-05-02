@@ -1,11 +1,9 @@
 {
   "id": 40078,
   "name": "Cupboard space",
-  "models_2": {
-    "models": [
-      40839
-    ]
-  },
+  "models_2": [
+    40839
+  ],
   "actions": [
     null,
     null,

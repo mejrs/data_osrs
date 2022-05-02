@@ -1,11 +1,9 @@
 {
   "id": 8734,
   "name": "Net trap",
-  "models_2": {
-    "models": [
-      19934
-    ]
-  },
+  "models_2": [
+    19934
+  ],
   "dim_y": 2,
   "unknown_17": false,
   "unknown_24": 5269,
@@ -19,7 +17,7 @@
   "colours": [
     [
       6682,
-      5388
+      6565
     ]
   ],
   "category": 191,

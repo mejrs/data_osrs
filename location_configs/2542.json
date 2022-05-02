@@ -1,11 +1,9 @@
 {
   "id": 2542,
   "name": "Pipe",
-  "models_2": {
-    "models": [
-      11447
-    ]
-  },
+  "models_2": [
+    11447
+  ],
   "dim_x": 2,
   "actions": [
     "Climb-up",

@@ -1,12 +1,10 @@
 {
   "id": 8995,
   "name": "Pinball Post",
-  "models_2": {
-    "models": [
-      14969,
-      14974
-    ]
-  },
+  "models_2": [
+    14969,
+    14974
+  ],
   "unknown_24": 4005,
   "ambient": 45,
   "actions": [

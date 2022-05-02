@@ -1,14 +1,12 @@
 {
   "id": 39441,
   "name": "Bar",
-  "models_2": {
-    "models": [
-      25143,
-      40462,
-      25154,
-      40458
-    ]
-  },
+  "models_2": [
+    25143,
+    40462,
+    25154,
+    40458
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,

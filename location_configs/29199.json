@@ -1,11 +1,9 @@
 {
   "id": 29199,
   "name": "Mounted Fletching Cape (t)",
-  "models_2": {
-    "models": [
-      32175
-    ]
-  },
+  "models_2": [
+    32175
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

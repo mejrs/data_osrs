@@ -1,11 +1,9 @@
 {
   "id": 3679,
   "name": "Standard",
-  "models_2": {
-    "models": [
-      1499
-    ]
-  },
+  "models_2": [
+    1499
+  ],
   "colours": [
     [
       43957,

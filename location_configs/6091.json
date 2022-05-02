@@ -1,11 +1,9 @@
 {
   "id": 6091,
   "name": "Bookcase",
-  "models_2": {
-    "models": [
-      7107
-    ]
-  },
+  "models_2": [
+    7107
+  ],
   "unknown_19": 1,
   "actions": [
     "Search",

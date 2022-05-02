@@ -1,11 +1,9 @@
 {
   "id": 31814,
   "name": "Paladin",
-  "models_2": {
-    "models": [
-      29676
-    ]
-  },
+  "models_2": [
+    29676
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_27": false,

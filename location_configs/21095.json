@@ -1,11 +1,9 @@
 {
   "id": 21095,
   "name": "Ice steps",
-  "models_2": {
-    "models": [
-      21604
-    ]
-  },
+  "models_2": [
+    21604
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 25,

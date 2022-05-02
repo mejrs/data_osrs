@@ -1,11 +1,9 @@
 {
   "id": 36390,
   "name": "Crystal Staircase",
-  "models_2": {
-    "models": [
-      37719
-    ]
-  },
+  "models_2": [
+    37719
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

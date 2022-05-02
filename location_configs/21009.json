@@ -1,12 +1,10 @@
 {
   "id": 21009,
   "name": "Lathe",
-  "models_2": {
-    "models": [
-      21816,
-      21815
-    ]
-  },
+  "models_2": [
+    21816,
+    21815
+  ],
   "dim_x": 2,
   "unknown_24": 5744,
   "ambient": 25,

@@ -1,12 +1,10 @@
 {
   "id": 29316,
   "name": "Crate",
-  "models_2": {
-    "models": [
-      32249,
-      32263
-    ]
-  },
+  "models_2": [
+    32249,
+    32263
+  ],
   "ambient": 25,
   "actions": [
     "Take-hammer",

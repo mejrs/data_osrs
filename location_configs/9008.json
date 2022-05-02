@@ -1,11 +1,9 @@
 {
   "id": 9008,
   "name": "Funeral Pyre",
-  "models_2": {
-    "models": [
-      4138
-    ]
-  },
+  "models_2": [
+    4138
+  ],
   "dim_y": 3,
   "actions": [
     "Light",

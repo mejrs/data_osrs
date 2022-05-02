@@ -1,11 +1,9 @@
 {
   "id": 30552,
   "name": "Space",
-  "models_2": {
-    "models": [
-      33629
-    ]
-  },
+  "models_2": [
+    33629
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

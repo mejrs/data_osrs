@@ -1,11 +1,9 @@
 {
   "id": 15487,
   "name": "Rope",
-  "models_2": {
-    "models": [
-      11180
-    ]
-  },
+  "models_2": [
+    11180
+  ],
   "dim_x": 4,
   "actions": [
     "Swing",

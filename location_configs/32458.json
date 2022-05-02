@@ -1,11 +1,9 @@
 {
   "id": 32458,
   "name": "History",
-  "models_2": {
-    "models": [
-      16788
-    ]
-  },
+  "models_2": [
+    16788
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

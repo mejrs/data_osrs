@@ -1,11 +1,9 @@
 {
   "id": 2493,
   "name": "Mirror",
-  "models_2": {
-    "models": [
-      12512
-    ]
-  },
+  "models_2": [
+    12512
+  ],
   "unknown_19": 1,
   "ambient": 25,
   "colours": [

@@ -1,11 +1,9 @@
 {
   "id": 22543,
   "name": "Connected stalagmites",
-  "models_2": {
-    "models": [
-      16092
-    ]
-  },
+  "models_2": [
+    16092
+  ],
   "ambient": 20,
   "colours": [
     [

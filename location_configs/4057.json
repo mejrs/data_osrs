@@ -1,9 +1,7 @@
 {
   "id": 4057,
   "name": "Huge Mushroom",
-  "models_2": {
-    "models": [
-      4094
-    ]
-  }
+  "models_2": [
+    4094
+  ]
 }

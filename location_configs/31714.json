@@ -1,11 +1,9 @@
 {
   "id": 31714,
   "name": "Old Memorial",
-  "models_2": {
-    "models": [
-      34257
-    ]
-  },
+  "models_2": [
+    34257
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 15,

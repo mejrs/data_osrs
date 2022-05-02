@@ -1,11 +1,9 @@
 {
   "id": 38424,
   "name": "Wizard Statue",
-  "models_2": {
-    "models": [
-      40141
-    ]
-  },
+  "models_2": [
+    40141
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,

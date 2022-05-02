@@ -1,11 +1,9 @@
 {
   "id": 33455,
   "name": "Heroic statue",
-  "models_2": {
-    "models": [
-      36062
-    ]
-  },
+  "models_2": [
+    36062
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_22": true,

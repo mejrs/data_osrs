@@ -1,10 +1,8 @@
 {
   "id": 15223,
   "name": "Platform",
-  "models_2": {
-    "models": [
-      15083
-    ]
-  },
+  "models_2": [
+    15083
+  ],
   "unknown_73": true
 }

@@ -1,11 +1,9 @@
 {
   "id": 41671,
   "name": "Fortified gate",
-  "models_2": {
-    "models": [
-      42244
-    ]
-  },
+  "models_2": [
+    42244
+  ],
   "dim_x": 2,
   "ambient": 10,
   "contrast": 10,

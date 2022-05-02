@@ -1,11 +1,9 @@
 {
   "id": 23271,
   "name": "Wilderness Ditch",
-  "models_2": {
-    "models": [
-      24201
-    ]
-  },
+  "models_2": [
+    24201
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "unknown_19": 1,

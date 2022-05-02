@@ -1,11 +1,9 @@
 {
   "id": 30338,
   "name": "Ancestral Glyph",
-  "models_2": {
-    "models": [
-      33037
-    ]
-  },
+  "models_2": [
+    33037
+  ],
   "dim_x": 6,
   "dim_y": 3,
   "unknown_19": 1,

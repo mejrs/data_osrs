@@ -1,9 +1,7 @@
 {
   "id": 3514,
   "name": "Rotting tree",
-  "models_2": {
-    "models": [
-      3597
-    ]
-  }
+  "models_2": [
+    3597
+  ]
 }

@@ -1,11 +1,9 @@
 {
   "id": 37389,
   "name": "House Advertisement",
-  "models_2": {
-    "models": [
-      38855
-    ]
-  },
+  "models_2": [
+    38855
+  ],
   "unknown_19": 1,
   "ambient": 20,
   "actions": [

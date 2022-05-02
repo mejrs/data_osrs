@@ -1,12 +1,10 @@
 {
   "id": 4588,
   "name": "Lighting mechanism",
-  "models_2": {
-    "models": [
-      4570,
-      4574
-    ]
-  },
+  "models_2": [
+    4570,
+    4574
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 40758,
   "name": "Teak",
-  "models_2": {
-    "models": [
-      37919
-    ]
-  },
+  "models_2": [
+    37919
+  ],
   "ambient": 2,
   "actions": [
     "Chop down",

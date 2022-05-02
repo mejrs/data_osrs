@@ -1,11 +1,9 @@
 {
   "id": 32143,
   "name": "Mural",
-  "models_2": {
-    "models": [
-      34718
-    ]
-  },
+  "models_2": [
+    34718
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "unknown_22": true,

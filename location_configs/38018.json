@@ -1,11 +1,9 @@
 {
   "id": 38018,
   "name": "Bookshelf",
-  "models_2": {
-    "models": [
-      17867
-    ]
-  },
+  "models_2": [
+    17867
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 10,

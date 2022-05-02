@@ -1,11 +1,9 @@
 {
   "id": 9030,
   "name": "Gem Rock",
-  "models_2": {
-    "models": [
-      8882
-    ]
-  },
+  "models_2": [
+    8882
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,

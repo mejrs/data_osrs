@@ -1,11 +1,9 @@
 {
   "id": 2066,
   "name": "Wall",
-  "models_2": {
-    "models": [
-      571
-    ]
-  },
+  "models_2": [
+    571
+  ],
   "textures": {
     "2": 23
   },

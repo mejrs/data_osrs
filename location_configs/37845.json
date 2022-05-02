@@ -1,11 +1,9 @@
 {
   "id": 37845,
   "name": "Big chest",
-  "models_2": {
-    "models": [
-      39500
-    ]
-  },
+  "models_2": [
+    39500
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,

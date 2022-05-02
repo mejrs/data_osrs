@@ -1,11 +1,9 @@
 {
   "id": 15985,
   "name": "Deposit Box",
-  "models_2": {
-    "models": [
-      15759
-    ]
-  },
+  "models_2": [
+    15759
+  ],
   "actions": [
     "Deposit",
     null,

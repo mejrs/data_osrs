@@ -1,11 +1,9 @@
 {
   "id": 20211,
   "name": "Obstacle net",
-  "models_2": {
-    "models": [
-      20636
-    ]
-  },
+  "models_2": [
+    20636
+  ],
   "dim_x": 2,
   "ambient": 20,
   "actions": [

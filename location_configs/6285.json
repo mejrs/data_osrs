@@ -1,11 +1,9 @@
 {
   "id": 6285,
   "name": "Pillar",
-  "models_2": {
-    "models": [
-      6187
-    ]
-  },
+  "models_2": [
+    6187
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "colours": [

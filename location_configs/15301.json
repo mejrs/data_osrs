@@ -1,11 +1,9 @@
 {
   "id": 15301,
   "name": "Fireplace space",
-  "models_2": {
-    "models": [
-      12700
-    ]
-  },
+  "models_2": [
+    12700
+  ],
   "dim_y": 2,
   "actions": [
     null,

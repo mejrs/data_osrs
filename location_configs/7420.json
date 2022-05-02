@@ -1,11 +1,9 @@
 {
   "id": 7420,
   "name": "Cabinet",
-  "models_2": {
-    "models": [
-      25065
-    ]
-  },
+  "models_2": [
+    25065
+  ],
   "ambient": 25,
   "colours": [
     [

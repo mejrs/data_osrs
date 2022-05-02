@@ -1,11 +1,9 @@
 {
   "id": 21665,
-  "models_2": {
-    "models": [
-      22185,
-      22174
-    ]
-  },
+  "models_2": [
+    22185,
+    22174
+  ],
   "unknown_19": 0,
   "unknown_22": true,
   "unknown_27": false,

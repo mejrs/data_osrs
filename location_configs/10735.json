@@ -1,11 +1,9 @@
 {
   "id": 10735,
   "name": "Food chute",
-  "models_2": {
-    "models": [
-      10646
-    ]
-  },
+  "models_2": [
+    10646
+  ],
   "dim_x": 2,
   "unknown_22": true,
   "ambient": 30,

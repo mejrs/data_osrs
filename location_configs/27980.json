@@ -1,11 +1,9 @@
 {
   "id": 27980,
   "name": "Soul Altar",
-  "models_2": {
-    "models": [
-      30839
-    ]
-  },
+  "models_2": [
+    30839
+  ],
   "dim_x": 4,
   "dim_y": 3,
   "unknown_19": 1,

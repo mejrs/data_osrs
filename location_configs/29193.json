@@ -1,11 +1,9 @@
 {
   "id": 29193,
   "name": "Mounted Farming Cape (t)",
-  "models_2": {
-    "models": [
-      32179
-    ]
-  },
+  "models_2": [
+    32179
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

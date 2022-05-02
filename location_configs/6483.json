@@ -1,11 +1,9 @@
 {
   "id": 6483,
   "name": "Obelisk",
-  "models_2": {
-    "models": [
-      6266
-    ]
-  },
+  "models_2": [
+    6266
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 1943,

@@ -1,11 +1,9 @@
 {
   "id": 15398,
   "name": "Stove space",
-  "models_2": {
-    "models": [
-      12732
-    ]
-  },
+  "models_2": [
+    12732
+  ],
   "dim_y": 2,
   "actions": [
     null,

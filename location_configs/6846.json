@@ -1,11 +1,9 @@
 {
   "id": 6846,
   "name": "Broken Lecturn",
-  "models_2": {
-    "models": [
-      6795
-    ]
-  },
+  "models_2": [
+    6795
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "actions": [

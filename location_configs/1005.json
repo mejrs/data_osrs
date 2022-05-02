@@ -1,11 +1,9 @@
 {
   "id": 1005,
   "name": "Broken Railing",
-  "models_2": {
-    "models": [
-      1023
-    ]
-  },
+  "models_2": [
+    1023
+  ],
   "is_transparent": true,
   "unknown_21": true,
   "mirror": true

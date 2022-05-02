@@ -1,11 +1,9 @@
 {
   "id": 38441,
   "name": "Knight Statue",
-  "models_2": {
-    "models": [
-      40168
-    ]
-  },
+  "models_2": [
+    40168
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_21": true,

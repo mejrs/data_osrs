@@ -1,11 +1,9 @@
 {
   "id": 28778,
   "name": "Dart trap",
-  "models_2": {
-    "models": [
-      3647
-    ]
-  },
+  "models_2": [
+    3647
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 1108,

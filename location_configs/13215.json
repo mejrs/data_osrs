@@ -1,11 +1,9 @@
 {
   "id": 13215,
   "name": "Bells",
-  "models_2": {
-    "models": [
-      13132
-    ]
-  },
+  "models_2": [
+    13132
+  ],
   "dim_x": 2,
   "unknown_24": 3577,
   "actions": [

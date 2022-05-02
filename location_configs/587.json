@@ -1,9 +1,7 @@
 {
   "id": 587,
   "name": "Statue of Zamorak",
-  "models_2": {
-    "models": [
-      1400
-    ]
-  }
+  "models_2": [
+    1400
+  ]
 }

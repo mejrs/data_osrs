@@ -1,12 +1,10 @@
 {
   "id": 14174,
   "name": "Driftwood",
-  "models_2": {
-    "models": [
-      24175,
-      18328
-    ]
-  },
+  "models_2": [
+    24175,
+    18328
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 3743

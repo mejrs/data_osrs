@@ -1,11 +1,9 @@
 {
   "id": 23284,
   "name": "Zanik",
-  "models_2": {
-    "models": [
-      24405
-    ]
-  },
+  "models_2": [
+    24405
+  ],
   "dim_y": 3,
   "unknown_24": 6211,
   "ambient": 20,

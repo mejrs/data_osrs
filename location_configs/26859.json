@@ -1,11 +1,9 @@
 {
   "id": 26859,
   "name": "Teak scratching post",
-  "models_2": {
-    "models": [
-      28951
-    ]
-  },
+  "models_2": [
+    28951
+  ],
   "unknown_19": 1,
   "ambient": 25,
   "actions": [

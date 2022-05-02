@@ -1,11 +1,9 @@
 {
   "id": 22099,
   "name": "Rubble",
-  "models_2": {
-    "models": [
-      23066
-    ]
-  },
+  "models_2": [
+    23066
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,

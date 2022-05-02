@@ -1,11 +1,9 @@
 {
   "id": 40192,
   "name": "Broken Bed",
-  "models_2": {
-    "models": [
-      12393
-    ]
-  },
+  "models_2": [
+    12393
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

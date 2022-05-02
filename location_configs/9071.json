@@ -1,12 +1,10 @@
 {
   "id": 9071,
   "name": "Crate",
-  "models_2": {
-    "models": [
-      9008,
-      9011
-    ]
-  },
+  "models_2": [
+    9008,
+    9011
+  ],
   "ambient": 35,
   "colours": [
     [

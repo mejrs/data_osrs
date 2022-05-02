@@ -1,12 +1,10 @@
 {
   "id": 28831,
   "name": "Large boulder",
-  "models_2": {
-    "models": [
-      6566,
-      6562
-    ]
-  },
+  "models_2": [
+    6566,
+    6562
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

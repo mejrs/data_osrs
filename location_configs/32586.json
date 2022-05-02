@@ -1,11 +1,9 @@
 {
   "id": 32586,
   "name": "<col=ffff00>Meiyerditch citizen</col>",
-  "models_2": {
-    "models": [
-      35171
-    ]
-  },
+  "models_2": [
+    35171
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8050,

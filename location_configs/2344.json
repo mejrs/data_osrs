@@ -1,10 +1,8 @@
 {
   "id": 2344,
   "name": "Brick",
-  "models_2": {
-    "models": [
-      1478
-    ]
-  },
+  "models_2": [
+    1478
+  ],
   "dim_x": 3
 }

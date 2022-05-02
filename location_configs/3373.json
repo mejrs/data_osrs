@@ -1,11 +1,9 @@
 {
   "id": 3373,
   "name": "Ogre spit-roast",
-  "models_2": {
-    "models": [
-      3453
-    ]
-  },
+  "models_2": [
+    3453
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "colours": [

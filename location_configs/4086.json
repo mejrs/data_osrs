@@ -1,11 +1,9 @@
 {
   "id": 4086,
   "name": "Temple wall",
-  "models_2": {
-    "models": [
-      4136
-    ]
-  },
+  "models_2": [
+    4136
+  ],
   "unknown_24": 1299,
   "actions": [
     "Repair",

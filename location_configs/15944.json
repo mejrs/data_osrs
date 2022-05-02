@@ -1,11 +1,9 @@
 {
   "id": 15944,
   "name": "Inconspicuous hole (easy)",
-  "models_2": {
-    "models": [
-      32058
-    ]
-  },
+  "models_2": [
+    32058
+  ],
   "unknown_19": 1,
   "actions": [
     "Build",

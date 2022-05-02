@@ -1,11 +1,9 @@
 {
   "id": 1117,
   "name": "Hedge",
-  "models_2": {
-    "models": [
-      1589
-    ]
-  },
+  "models_2": [
+    1589
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "mapscene": 9

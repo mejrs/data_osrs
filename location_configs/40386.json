@@ -1,17 +1,15 @@
 {
   "id": 40386,
-  "name": "Cavern",
-  "models_2": {
-    "models": [
-      42929
-    ]
-  },
+  "name": "Crevice",
+  "models_2": [
+    42929
+  ],
   "dim_x": 4,
   "dim_y": 2,
   "unknown_19": 1,
   "ambient": 0,
   "actions": [
-    "Jump Down",
+    "Jump-Down",
     null,
     null,
     null,

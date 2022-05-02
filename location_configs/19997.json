@@ -1,11 +1,9 @@
 {
   "id": 19997,
   "name": "Animal skull",
-  "models_2": {
-    "models": [
-      1733
-    ]
-  },
+  "models_2": [
+    1733
+  ],
   "colours": [
     [
       10357,

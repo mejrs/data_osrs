@@ -1,11 +1,9 @@
 {
   "id": 29879,
   "name": "Mystical barrier",
-  "models_2": {
-    "models": [
-      32750
-    ]
-  },
+  "models_2": [
+    32750
+  ],
   "dim_x": 4,
   "unknown_19": 1,
   "unknown_21": true,

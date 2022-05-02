@@ -1,11 +1,9 @@
 {
   "id": 15344,
   "name": "Stone space",
-  "models_2": {
-    "models": [
-      12885
-    ]
-  },
+  "models_2": [
+    12885
+  ],
   "actions": [
     null,
     null,

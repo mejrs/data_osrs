@@ -1,11 +1,9 @@
 {
   "id": 18512,
   "name": "Water wheel",
-  "models_2": {
-    "models": [
-      18866
-    ]
-  },
+  "models_2": [
+    18866
+  ],
   "dim_y": 3,
   "unknown_24": 1051,
   "colours": [

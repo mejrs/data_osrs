@@ -1,9 +1,7 @@
 {
   "id": 15233,
   "name": "Broken Scaffold",
-  "models_2": {
-    "models": [
-      15089
-    ]
-  }
+  "models_2": [
+    15089
+  ]
 }

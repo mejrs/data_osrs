@@ -1,12 +1,10 @@
 {
   "id": 8680,
   "name": "Dead watermelons",
-  "models_2": {
-    "models": [
-      8178,
-      7766
-    ]
-  },
+  "models_2": [
+    8178,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Clear",

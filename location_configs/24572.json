@@ -1,13 +1,11 @@
 {
   "id": 24572,
   "name": "Machine",
-  "models_2": {
-    "models": [
-      25463,
-      25464,
-      25465
-    ]
-  },
+  "models_2": [
+    25463,
+    25464,
+    25465
+  ],
   "dim_y": 4,
   "unknown_27": false,
   "ambient": 35,

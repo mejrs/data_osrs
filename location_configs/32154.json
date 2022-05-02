@@ -1,12 +1,10 @@
 {
   "id": 32154,
   "name": "<col=ffff00>Dragon</col>",
-  "models_2": {
-    "models": [
-      35015,
-      35016
-    ]
-  },
+  "models_2": [
+    35015,
+    35016
+  ],
   "dim_x": 8,
   "dim_y": 8,
   "unknown_19": 1,

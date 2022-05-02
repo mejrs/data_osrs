@@ -1,11 +1,9 @@
 {
   "id": 40028,
   "name": "Cooking shelves",
-  "models_2": {
-    "models": [
-      40832
-    ]
-  },
+  "models_2": [
+    40832
+  ],
   "ambient": 25,
   "actions": [
     null,

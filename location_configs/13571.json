@@ -1,11 +1,9 @@
 {
   "id": 13571,
   "name": "Greenman's ale",
-  "models_2": {
-    "models": [
-      12387
-    ]
-  },
+  "models_2": [
+    12387
+  ],
   "actions": [
     null,
     null,

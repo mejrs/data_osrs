@@ -1,11 +1,9 @@
 {
   "id": 26868,
   "name": "Pet list",
-  "models_2": {
-    "models": [
-      28954
-    ]
-  },
+  "models_2": [
+    28954
+  ],
   "actions": [
     "Read",
     null,

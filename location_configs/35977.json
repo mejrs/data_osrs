@@ -1,11 +1,9 @@
 {
   "id": 35977,
   "name": "Tool Storage",
-  "models_2": {
-    "models": [
-      37467
-    ]
-  },
+  "models_2": [
+    37467
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

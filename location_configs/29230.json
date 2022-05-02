@@ -1,11 +1,9 @@
 {
   "id": 29230,
   "name": "Topiary bush",
-  "models_2": {
-    "models": [
-      32088
-    ]
-  },
+  "models_2": [
+    32088
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

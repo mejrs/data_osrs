@@ -1,0 +1,20 @@
+{
+  "id": 43721,
+  "name": "Fallen guardian",
+  "models_2": [
+    44027
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1617
+}

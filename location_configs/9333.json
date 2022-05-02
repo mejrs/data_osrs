@@ -1,11 +1,9 @@
 {
   "id": 9333,
   "name": "Rocking unicorn",
-  "models_2": {
-    "models": [
-      27090
-    ]
-  },
+  "models_2": [
+    27090
+  ],
   "dim_y": 2,
   "unknown_24": 6854,
   "unknown_78": {

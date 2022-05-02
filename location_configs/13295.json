@@ -1,11 +1,9 @@
 {
   "id": 13295,
   "name": "Oak table",
-  "models_2": {
-    "models": [
-      12454
-    ]
-  },
+  "models_2": [
+    12454
+  ],
   "dim_x": 4,
   "dim_y": 2,
   "unknown_19": 1,

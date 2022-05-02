@@ -1,11 +1,9 @@
 {
   "id": 20876,
   "name": "Dungeon entrance",
-  "models_2": {
-    "models": [
-      4998
-    ]
-  },
+  "models_2": [
+    4998
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "unknown_19": 1,

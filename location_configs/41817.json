@@ -1,11 +1,9 @@
 {
   "id": 41817,
   "name": "Vines",
-  "models_2": {
-    "models": [
-      42426
-    ]
-  },
+  "models_2": [
+    42426
+  ],
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 10,

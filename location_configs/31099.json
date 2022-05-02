@@ -1,11 +1,9 @@
 {
   "id": 31099,
   "name": "Large Fossil Support",
-  "models_2": {
-    "models": [
-      33357
-    ]
-  },
+  "models_2": [
+    33357
+  ],
   "actions": [
     "Add to",
     null,

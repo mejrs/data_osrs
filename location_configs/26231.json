@@ -1,10 +1,8 @@
 {
   "id": 26231,
   "name": "Stool",
-  "models_2": {
-    "models": [
-      596
-    ]
-  },
+  "models_2": [
+    596
+  ],
   "category": 206
 }

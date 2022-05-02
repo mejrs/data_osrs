@@ -1,11 +1,9 @@
 {
   "id": 3608,
   "name": "Ticket Dispenser",
-  "models_2": {
-    "models": [
-      3642
-    ]
-  },
+  "models_2": [
+    3642
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "actions": [

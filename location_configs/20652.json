@@ -1,12 +1,10 @@
 {
   "id": 20652,
   "name": "Deadfall",
-  "models_2": {
-    "models": [
-      19910,
-      19922
-    ]
-  },
+  "models_2": [
+    19910,
+    19922
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_24": 5194,

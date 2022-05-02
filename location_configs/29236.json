@@ -1,11 +1,9 @@
 {
   "id": 29236,
   "name": "Skotizo Topiary",
-  "models_2": {
-    "models": [
-      32092
-    ]
-  },
+  "models_2": [
+    32092
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 32993,
   "name": "Monumental chest",
-  "models_2": {
-    "models": [
-      35448
-    ]
-  },
+  "models_2": [
+    35448
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

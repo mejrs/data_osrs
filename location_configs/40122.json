@@ -1,11 +1,9 @@
 {
   "id": 40122,
   "name": "Shelves",
-  "models_2": {
-    "models": [
-      40834
-    ]
-  },
+  "models_2": [
+    40834
+  ],
   "ambient": 25,
   "actions": [
     null,

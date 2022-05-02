@@ -1,12 +1,10 @@
 {
   "id": 29997,
   "name": "Herb patch",
-  "models_2": {
-    "models": [
-      7766,
-      32646
-    ]
-  },
+  "models_2": [
+    7766,
+    32646
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [

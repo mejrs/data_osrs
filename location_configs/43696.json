@@ -1,0 +1,17 @@
+{
+  "id": 43696,
+  "name": "Deposit Pool",
+  "models_2": [
+    44073
+  ],
+  "unknown_24": 2686,
+  "ambient": 25,
+  "actions": [
+    "Deposit-runes",
+    "Deposit-items",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

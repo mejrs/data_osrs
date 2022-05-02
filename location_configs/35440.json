@@ -1,11 +1,9 @@
 {
   "id": 35440,
   "name": "Book Cart",
-  "models_2": {
-    "models": [
-      38520
-    ]
-  },
+  "models_2": [
+    38520
+  ],
   "dim_x": 2,
   "ambient": 10,
   "contrast": 44

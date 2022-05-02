@@ -1,11 +1,9 @@
 {
   "id": 13636,
   "name": "Portal frame",
-  "models_2": {
-    "models": [
-      11241
-    ]
-  },
+  "models_2": [
+    11241
+  ],
   "dim_x": 2,
   "ambient": 40,
   "actions": [

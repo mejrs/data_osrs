@@ -1,11 +1,9 @@
 {
   "id": 26765,
   "name": "Chaos rift",
-  "models_2": {
-    "models": [
-      28259
-    ]
-  },
+  "models_2": [
+    28259
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

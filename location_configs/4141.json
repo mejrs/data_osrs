@@ -1,11 +1,9 @@
 {
   "id": 4141,
   "name": "Strange altar",
-  "models_2": {
-    "models": [
-      4288
-    ]
-  },
+  "models_2": [
+    4288
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "actions": [

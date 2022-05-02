@@ -1,11 +1,9 @@
 {
   "id": 30160,
   "name": "Return Orb",
-  "models_2": {
-    "models": [
-      39517
-    ]
-  },
+  "models_2": [
+    39517
+  ],
   "ambient": 15,
   "actions": [
     "Teleport",

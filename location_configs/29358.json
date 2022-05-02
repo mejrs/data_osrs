@@ -1,12 +1,10 @@
 {
   "id": 29358,
   "name": "Waterbirth Island Portal",
-  "models_2": {
-    "models": [
-      11231,
-      11237
-    ]
-  },
+  "models_2": [
+    11231,
+    11237
+  ],
   "dim_x": 2,
   "unknown_24": 3174,
   "ambient": 40,

@@ -1,11 +1,9 @@
 {
   "id": 22976,
   "name": "Lamp",
-  "models_2": {
-    "models": [
-      23459
-    ]
-  },
+  "models_2": [
+    23459
+  ],
   "unknown_19": 1,
   "unknown_24": 6029,
   "ambient": 100,

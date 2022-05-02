@@ -1,11 +1,9 @@
 {
   "id": 27118,
   "name": "Flowers",
-  "models_2": {
-    "models": [
-      1623
-    ]
-  },
+  "models_2": [
+    1623
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "colours": [

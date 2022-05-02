@@ -1,11 +1,9 @@
 {
   "id": 33213,
   "name": "<col=ffff00>Squirrel</col>",
-  "models_2": {
-    "models": [
-      11723
-    ]
-  },
+  "models_2": [
+    11723
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 3212,

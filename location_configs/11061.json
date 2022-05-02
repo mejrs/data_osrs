@@ -1,12 +1,10 @@
 {
   "id": 11061,
   "name": "Pedestal",
-  "models_2": {
-    "models": [
-      10897,
-      10895
-    ]
-  },
+  "models_2": [
+    10897,
+    10895
+  ],
   "actions": [
     "Take-sigil",
     null,

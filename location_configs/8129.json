@@ -1,12 +1,10 @@
 {
   "id": 8129,
   "name": "Dead papaya tree",
-  "models_2": {
-    "models": [
-      8082,
-      7767
-    ]
-  },
+  "models_2": [
+    8082,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 30,

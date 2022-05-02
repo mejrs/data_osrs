@@ -1,11 +1,9 @@
 {
   "id": 32985,
   "name": "Vyre well",
-  "models_2": {
-    "models": [
-      35726
-    ]
-  },
+  "models_2": [
+    35726
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

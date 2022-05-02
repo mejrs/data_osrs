@@ -1,14 +1,12 @@
 {
   "id": 40777,
   "name": "Decorated marble fireplace",
-  "models_2": {
-    "models": [
-      12613,
-      12611,
-      41514,
-      41513
-    ]
-  },
+  "models_2": [
+    12613,
+    12611,
+    41514,
+    41513
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_24": 3105,

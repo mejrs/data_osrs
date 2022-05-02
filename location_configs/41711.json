@@ -1,11 +1,9 @@
 {
   "id": 41711,
   "name": "Suit of armour",
-  "models_2": {
-    "models": [
-      25069
-    ]
-  },
+  "models_2": [
+    25069
+  ],
   "ambient": 35,
   "contrast": 15,
   "colours": [

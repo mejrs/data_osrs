@@ -1,11 +1,9 @@
 {
   "id": 15958,
   "name": "Tropical tree",
-  "models_2": {
-    "models": [
-      1687
-    ]
-  },
+  "models_2": [
+    1687
+  ],
   "ambient": 30,
   "colours": [
     [

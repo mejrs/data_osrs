@@ -1,11 +1,9 @@
 {
   "id": 29210,
   "name": "Mounted Prayer Cape",
-  "models_2": {
-    "models": [
-      32184
-    ]
-  },
+  "models_2": [
+    32184
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

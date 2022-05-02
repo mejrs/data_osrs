@@ -1,11 +1,9 @@
 {
   "id": 13395,
   "name": "Elemental balance",
-  "models_2": {
-    "models": [
-      12960
-    ]
-  },
+  "models_2": [
+    12960
+  ],
   "unknown_24": 3582,
   "actions": [
     "Activate",

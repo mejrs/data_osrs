@@ -1,12 +1,10 @@
 {
   "id": 22765,
   "name": "Market stall",
-  "models_2": {
-    "models": [
-      23463,
-      23466
-    ]
-  },
+  "models_2": [
+    23463,
+    23466
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

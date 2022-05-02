@@ -1,11 +1,9 @@
 {
   "id": 40309,
   "name": "Strange hole",
-  "models_2": {
-    "models": [
-      40880
-    ]
-  },
+  "models_2": [
+    40880
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

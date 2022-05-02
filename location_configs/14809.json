@@ -1,9 +1,7 @@
 {
   "id": 14809,
   "name": "Creeper",
-  "models_2": {
-    "models": [
-      14754
-    ]
-  }
+  "models_2": [
+    14754
+  ]
 }

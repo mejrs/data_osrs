@@ -1,0 +1,13 @@
+{
+  "id": 43128,
+  "name": "Archway",
+  "models_2": [
+    43782
+  ],
+  "dim_x": 7,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15
+}

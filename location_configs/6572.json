@@ -1,21 +1,12 @@
 {
   "id": 6572,
   "name": "Spice stall",
-  "models_2": {
-    "models": [
-      1421,
-      1484
-    ]
-  },
+  "models_2": [
+    1421,
+    1484
+  ],
   "dim_x": 2,
   "dim_y": 2,
-  "actions": [
-    "Search",
-    null,
-    null,
-    null,
-    null
-  ],
   "colours": [
     [
       6371,

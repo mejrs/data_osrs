@@ -1,12 +1,10 @@
 {
   "id": 8619,
   "name": "Sweetcorn plant",
-  "models_2": {
-    "models": [
-      8171,
-      7766
-    ]
-  },
+  "models_2": [
+    8171,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     null,

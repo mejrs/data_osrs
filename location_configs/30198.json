@@ -1,11 +1,9 @@
 {
   "id": 30198,
   "name": "Crevice",
-  "models_2": {
-    "models": [
-      32946
-    ]
-  },
+  "models_2": [
+    32946
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "actions": [

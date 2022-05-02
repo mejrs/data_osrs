@@ -1,11 +1,9 @@
 {
   "id": 19333,
   "name": "Rabbit snare",
-  "models_2": {
-    "models": [
-      23903
-    ]
-  },
+  "models_2": [
+    23903
+  ],
   "unknown_17": false,
   "actions": [
     "Dismantle",

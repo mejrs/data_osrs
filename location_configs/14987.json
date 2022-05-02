@@ -1,11 +1,9 @@
 {
   "id": 14987,
   "name": "Tightrope",
-  "models_2": {
-    "models": [
-      16238
-    ]
-  },
+  "models_2": [
+    16238
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

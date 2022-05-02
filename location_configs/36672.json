@@ -1,11 +1,9 @@
 {
   "id": 36672,
   "name": "Tree",
-  "models_2": {
-    "models": [
-      37886
-    ]
-  },
+  "models_2": [
+    37886
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 15,

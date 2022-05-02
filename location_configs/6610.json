@@ -1,11 +1,9 @@
 {
   "id": 6610,
   "name": "Mirror",
-  "models_2": {
-    "models": [
-      6417
-    ]
-  },
+  "models_2": [
+    6417
+  ],
   "unknown_21": true,
   "unknown_22": true
 }

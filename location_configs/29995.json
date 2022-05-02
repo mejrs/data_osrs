@@ -1,13 +1,11 @@
 {
   "id": 29995,
   "name": "Rope",
-  "models_2": {
-    "models": [
-      1487,
-      13908,
-      13909
-    ]
-  },
+  "models_2": [
+    1487,
+    13908,
+    13909
+  ],
   "dim_y": 3,
   "is_transparent": true,
   "unknown_19": 1,

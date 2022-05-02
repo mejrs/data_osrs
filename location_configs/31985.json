@@ -1,11 +1,9 @@
 {
   "id": 31985,
   "name": "Vorkath Topiary",
-  "models_2": {
-    "models": [
-      35099
-    ]
-  },
+  "models_2": [
+    35099
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

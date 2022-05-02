@@ -1,11 +1,9 @@
 {
   "id": 674,
   "name": "<col=ff9040>Small fishing net</col>",
-  "models_2": {
-    "models": [
-      2403
-    ]
-  },
+  "models_2": [
+    2403
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,

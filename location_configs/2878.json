@@ -1,11 +1,9 @@
 {
   "id": 2878,
   "name": "Sparkling pool",
-  "models_2": {
-    "models": [
-      691
-    ]
-  },
+  "models_2": [
+    691
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "actions": [

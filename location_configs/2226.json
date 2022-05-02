@@ -1,11 +1,9 @@
 {
   "id": 2226,
   "name": "Smashed table",
-  "models_2": {
-    "models": [
-      1207
-    ]
-  },
+  "models_2": [
+    1207
+  ],
   "actions": [
     "Look-at",
     "Craft",

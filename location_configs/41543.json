@@ -1,12 +1,10 @@
 {
   "id": 41543,
   "name": "Ornate lockbox",
-  "models_2": {
-    "models": [
-      42037,
-      42036
-    ]
-  },
+  "models_2": [
+    42037,
+    42036
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

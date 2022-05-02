@@ -1,12 +1,10 @@
 {
   "id": 13407,
   "name": "Sq'irk tree",
-  "models_2": {
-    "models": [
-      22206,
-      22204
-    ]
-  },
+  "models_2": [
+    22206,
+    22204
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

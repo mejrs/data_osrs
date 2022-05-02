@@ -1,9 +1,7 @@
 {
   "id": 8831,
   "name": "Mine cart",
-  "models_2": {
-    "models": [
-      1398
-    ]
-  }
+  "models_2": [
+    1398
+  ]
 }

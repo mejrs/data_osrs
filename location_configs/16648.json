@@ -1,12 +1,10 @@
 {
   "id": 16648,
   "name": "Ectofuntus",
-  "models_2": {
-    "models": [
-      14304,
-      14305
-    ]
-  },
+  "models_2": [
+    14304,
+    14305
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "unknown_24": 1657,

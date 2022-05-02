@@ -1,13 +1,11 @@
 {
   "id": 22811,
   "name": "Counter",
-  "models_2": {
-    "models": [
-      23325,
-      23336,
-      23326
-    ]
-  },
+  "models_2": [
+    23325,
+    23336,
+    23326
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "unknown_19": 1,

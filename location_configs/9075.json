@@ -1,9 +1,7 @@
 {
   "id": 9075,
   "name": "rune casket",
-  "models_2": {
-    "models": [
-      9003
-    ]
-  }
+  "models_2": [
+    9003
+  ]
 }

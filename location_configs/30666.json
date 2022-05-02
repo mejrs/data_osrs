@@ -1,11 +1,9 @@
 {
   "id": 30666,
   "name": "A dark crystal",
-  "models_2": {
-    "models": [
-      33725
-    ]
-  },
+  "models_2": [
+    33725
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "mapscene": 91

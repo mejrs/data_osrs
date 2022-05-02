@@ -1,11 +1,9 @@
 {
   "id": 13666,
   "name": "Throne",
-  "models_2": {
-    "models": [
-      12596
-    ]
-  },
+  "models_2": [
+    12596
+  ],
   "actions": [
     "Sit-on",
     null,

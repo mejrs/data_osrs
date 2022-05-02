@@ -1,11 +1,9 @@
 {
   "id": 348,
   "name": "Drawers",
-  "models_2": {
-    "models": [
-      1154
-    ]
-  },
+  "models_2": [
+    1154
+  ],
   "actions": [
     "Open",
     null,

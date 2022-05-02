@@ -1,11 +1,9 @@
 {
   "id": 42150,
   "name": "Cloth",
-  "models_2": {
-    "models": [
-      5561
-    ]
-  },
+  "models_2": [
+    5561
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,

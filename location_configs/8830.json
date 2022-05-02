@@ -1,11 +1,9 @@
 {
   "id": 8830,
   "name": "Rocks",
-  "models_2": {
-    "models": [
-      1388
-    ]
-  },
+  "models_2": [
+    1388
+  ],
   "colours": [
     [
       24,

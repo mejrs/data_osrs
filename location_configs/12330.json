@@ -1,13 +1,11 @@
 {
   "id": 12330,
   "name": "Dwarf",
-  "models_2": {
-    "models": [
-      13671,
-      13675,
-      13674
-    ]
-  },
+  "models_2": [
+    13671,
+    13675,
+    13674
+  ],
   "actions": [
     "Inspect",
     null,

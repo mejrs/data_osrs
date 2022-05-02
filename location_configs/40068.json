@@ -1,9 +1,7 @@
 {
   "id": 40068,
   "name": "Range",
-  "models_2": {
-    "models": [
-      40826
-    ]
-  }
+  "models_2": [
+    40826
+  ]
 }

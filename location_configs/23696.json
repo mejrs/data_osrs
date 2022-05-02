@@ -1,11 +1,9 @@
 {
   "id": 23696,
   "name": "Icosahedron Pile",
-  "models_2": {
-    "models": [
-      10602
-    ]
-  },
+  "models_2": [
+    10602
+  ],
   "unknown_19": 1,
   "ambient": 18,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 11354,
   "name": "Interdimensional rift",
-  "models_2": {
-    "models": [
-      11231
-    ]
-  },
+  "models_2": [
+    11231
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "unknown_24": 3174,

@@ -1,11 +1,9 @@
 {
   "id": 15270,
   "name": "Altar space",
-  "models_2": {
-    "models": [
-      12646
-    ]
-  },
+  "models_2": [
+    12646
+  ],
   "dim_x": 2,
   "actions": [
     null,

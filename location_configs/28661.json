@@ -1,12 +1,10 @@
 {
   "id": 28661,
   "name": "Fire remains",
-  "models_2": {
-    "models": [
-      2262,
-      15099
-    ]
-  },
+  "models_2": [
+    2262,
+    15099
+  ],
   "unknown_24": 475,
   "actions": [
     "Investigate",

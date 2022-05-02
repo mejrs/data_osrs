@@ -1,11 +1,9 @@
 {
   "id": 29220,
   "name": "Mounted Strength Cape",
-  "models_2": {
-    "models": [
-      32196
-    ]
-  },
+  "models_2": [
+    32196
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

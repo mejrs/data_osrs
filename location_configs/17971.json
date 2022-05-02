@@ -1,11 +1,9 @@
 {
   "id": 17971,
   "name": "Rock",
-  "models_2": {
-    "models": [
-      17338
-    ]
-  },
+  "models_2": [
+    17338
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "actions": [

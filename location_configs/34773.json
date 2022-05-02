@@ -1,11 +1,9 @@
 {
   "id": 34773,
   "name": "Rune Essence",
-  "models_2": {
-    "models": [
-      863
-    ]
-  },
+  "models_2": [
+    863
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "unknown_19": 1,

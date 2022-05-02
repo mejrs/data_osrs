@@ -1,11 +1,9 @@
 {
   "id": 41183,
   "name": "Ancient brazier",
-  "models_2": {
-    "models": [
-      41097
-    ]
-  },
+  "models_2": [
+    41097
+  ],
   "ambient": 25,
   "contrast": 10,
   "colours": [

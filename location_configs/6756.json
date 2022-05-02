@@ -1,11 +1,9 @@
 {
   "id": 6756,
   "name": "Chair",
-  "models_2": {
-    "models": [
-      12447
-    ]
-  },
+  "models_2": [
+    12447
+  ],
   "is_transparent": true,
   "actions": [
     "Sit-on",

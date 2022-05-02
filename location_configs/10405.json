@@ -1,13 +1,11 @@
 {
   "id": 10405,
   "name": "Water Channel",
-  "models_2": {
-    "models": [
-      10194,
-      10204,
-      10197
-    ]
-  },
+  "models_2": [
+    10194,
+    10204,
+    10197
+  ],
   "unknown_21": true,
   "ambient": 20,
   "actions": [

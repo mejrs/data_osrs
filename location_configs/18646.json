@@ -1,11 +1,9 @@
 {
   "id": 18646,
   "name": "Water valve",
-  "models_2": {
-    "models": [
-      1746
-    ]
-  },
+  "models_2": [
+    1746
+  ],
   "actions": [
     "Turn",
     null,

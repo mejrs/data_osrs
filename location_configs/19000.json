@@ -1,11 +1,9 @@
 {
   "id": 19000,
   "name": "Grain of Plenty",
-  "models_2": {
-    "models": [
-      5494
-    ]
-  },
+  "models_2": [
+    5494
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

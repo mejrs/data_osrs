@@ -1,11 +1,9 @@
 {
   "id": 28837,
   "name": "Control panel",
-  "models_2": {
-    "models": [
-      31486
-    ]
-  },
+  "models_2": [
+    31486
+  ],
   "unknown_19": 1,
   "colours": [
     [

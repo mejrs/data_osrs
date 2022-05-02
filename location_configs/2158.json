@@ -1,11 +1,9 @@
 {
   "id": 2158,
   "name": "Magic Portal",
-  "models_2": {
-    "models": [
-      1783
-    ]
-  },
+  "models_2": [
+    1783
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "actions": [

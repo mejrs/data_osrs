@@ -1,11 +1,9 @@
 {
   "id": 15846,
   "name": "Red flowers",
-  "models_2": {
-    "models": [
-      15806
-    ]
-  },
+  "models_2": [
+    15806
+  ],
   "actions": [
     "Pick",
     null,

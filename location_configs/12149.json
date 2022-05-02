@@ -1,12 +1,10 @@
 {
   "id": 12149,
   "name": "Canoe Station",
-  "models_2": {
-    "models": [
-      12001,
-      12004
-    ]
-  },
+  "models_2": [
+    12001,
+    12004
+  ],
   "dim_x": 5,
   "dim_y": 2,
   "actions": [

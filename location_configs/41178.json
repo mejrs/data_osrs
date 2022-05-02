@@ -1,11 +1,9 @@
 {
   "id": 41178,
   "name": "Mahogany outfit stand",
-  "models_2": {
-    "models": [
-      41683
-    ]
-  },
+  "models_2": [
+    41683
+  ],
   "unknown_19": 1,
   "ambient": 20,
   "actions": [

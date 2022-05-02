@@ -1,12 +1,10 @@
 {
   "id": 11339,
   "name": "Open chest",
-  "models_2": {
-    "models": [
-      5273,
-      11209
-    ]
-  },
+  "models_2": [
+    5273,
+    11209
+  ],
   "colours": [
     [
       14499,

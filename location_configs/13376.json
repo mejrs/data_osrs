@@ -1,12 +1,10 @@
 {
   "id": 13376,
   "name": "Dagannoth",
-  "models_2": {
-    "models": [
-      4587,
-      14117
-    ]
-  },
+  "models_2": [
+    4587,
+    14117
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_17": false,

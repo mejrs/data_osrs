@@ -1,11 +1,9 @@
 {
   "id": 35827,
   "name": "<col=ffff00>Woman</col>",
-  "models_2": {
-    "models": [
-      38135
-    ]
-  },
+  "models_2": [
+    38135
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8050,

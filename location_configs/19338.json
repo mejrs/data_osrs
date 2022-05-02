@@ -1,11 +1,9 @@
 {
   "id": 19338,
   "name": "Rabbitless hole",
-  "models_2": {
-    "models": [
-      19356
-    ]
-  },
+  "models_2": [
+    19356
+  ],
   "unknown_21": true,
   "colours": [
     [

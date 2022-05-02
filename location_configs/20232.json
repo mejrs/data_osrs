@@ -1,11 +1,9 @@
 {
   "id": 20232,
   "name": "Lava crater",
-  "models_2": {
-    "models": [
-      20655
-    ]
-  },
+  "models_2": [
+    20655
+  ],
   "unknown_21": true,
   "unknown_24": 5415,
   "unknown_27": false,

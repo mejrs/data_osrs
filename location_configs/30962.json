@@ -1,11 +1,9 @@
 {
   "id": 30962,
   "name": "Obstacle",
-  "models_2": {
-    "models": [
-      33780
-    ]
-  },
+  "models_2": [
+    33780
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

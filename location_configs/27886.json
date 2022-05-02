@@ -1,11 +1,9 @@
 {
   "id": 27886,
   "name": "Arcane crystal",
-  "models_2": {
-    "models": [
-      30693
-    ]
-  },
+  "models_2": [
+    30693
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

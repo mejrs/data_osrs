@@ -1,11 +1,9 @@
 {
   "id": 22453,
   "name": "Crate",
-  "models_2": {
-    "models": [
-      22925
-    ]
-  },
+  "models_2": [
+    22925
+  ],
   "ambient": 30,
   "actions": [
     "Add-bottom",

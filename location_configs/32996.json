@@ -1,11 +1,9 @@
 {
   "id": 32996,
   "name": "Teleport crystal",
-  "models_2": {
-    "models": [
-      35449
-    ]
-  },
+  "models_2": [
+    35449
+  ],
   "unknown_24": 8105,
   "unknown_27": false,
   "actions": [

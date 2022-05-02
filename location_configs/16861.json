@@ -1,11 +1,9 @@
 {
   "id": 16861,
   "name": "Hammock",
-  "models_2": {
-    "models": [
-      16841
-    ]
-  },
+  "models_2": [
+    16841
+  ],
   "dim_x": 2,
   "unknown_24": 4431,
   "category": 529

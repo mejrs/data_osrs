@@ -1,10 +1,8 @@
 {
   "id": 27757,
   "name": "Crate",
-  "models_2": {
-    "models": [
-      29988
-    ]
-  },
+  "models_2": [
+    29988
+  ],
   "unknown_27": false
 }

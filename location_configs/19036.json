@@ -1,11 +1,9 @@
 {
   "id": 19036,
   "name": "Underwall tunnel",
-  "models_2": {
-    "models": [
-      11692
-    ]
-  },
+  "models_2": [
+    11692
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "occludes_1": false,

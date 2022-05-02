@@ -1,11 +1,9 @@
 {
   "id": 28604,
   "name": "Platform support",
-  "models_2": {
-    "models": [
-      31416
-    ]
-  },
+  "models_2": [
+    31416
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 20

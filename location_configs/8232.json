@@ -1,12 +1,10 @@
 {
   "id": 8232,
   "name": "Dead Krandorian Hops",
-  "models_2": {
-    "models": [
-      8198,
-      7766
-    ]
-  },
+  "models_2": [
+    8198,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Clear",

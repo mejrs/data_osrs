@@ -1,11 +1,9 @@
 {
   "id": 25381,
   "name": "Passage",
-  "models_2": {
-    "models": [
-      7434
-    ]
-  },
+  "models_2": [
+    7434
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 22761,
   "name": "Lamp",
-  "models_2": {
-    "models": [
-      23456
-    ]
-  },
+  "models_2": [
+    23456
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

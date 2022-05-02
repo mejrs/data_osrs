@@ -1,11 +1,9 @@
 {
   "id": 34445,
   "name": "Water tap",
-  "models_2": {
-    "models": [
-      36450
-    ]
-  },
+  "models_2": [
+    36450
+  ],
   "ambient": 10,
   "contrast": 5,
   "category": 177

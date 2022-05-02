@@ -1,11 +1,9 @@
 {
   "id": 31676,
   "name": "Dusk",
-  "models_2": {
-    "models": [
-      34177
-    ]
-  },
+  "models_2": [
+    34177
+  ],
   "dim_x": 4,
   "dim_y": 4,
   "unknown_19": 1

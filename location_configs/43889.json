@@ -1,0 +1,19 @@
+{
+  "id": 43889,
+  "name": "Camping Equipment",
+  "models_2": [
+    19995
+  ],
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

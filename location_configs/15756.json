@@ -1,11 +1,9 @@
 {
   "id": 15756,
   "name": "Trapdoor",
-  "models_2": {
-    "models": [
-      13992
-    ]
-  },
+  "models_2": [
+    13992
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 30,

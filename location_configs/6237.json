@@ -1,9 +1,7 @@
 {
   "id": 6237,
   "name": "Plant",
-  "models_2": {
-    "models": [
-      6077
-    ]
-  }
+  "models_2": [
+    6077
+  ]
 }

@@ -1,11 +1,9 @@
 {
   "id": 7012,
   "name": "Plant",
-  "models_2": {
-    "models": [
-      7119
-    ]
-  },
+  "models_2": [
+    7119
+  ],
   "colours": [
     [
       12833,

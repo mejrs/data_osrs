@@ -1,11 +1,9 @@
 {
   "id": 5904,
   "name": "Dead tree",
-  "models_2": {
-    "models": [
-      1716
-    ]
-  },
+  "models_2": [
+    1716
+  ],
   "actions": [
     "Chop down",
     null,

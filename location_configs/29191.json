@@ -1,11 +1,9 @@
 {
   "id": 29191,
   "name": "Mounted Defence Cape (t)",
-  "models_2": {
-    "models": [
-      32189
-    ]
-  },
+  "models_2": [
+    32189
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

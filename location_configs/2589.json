@@ -1,11 +1,9 @@
 {
   "id": 2589,
   "name": "Hole",
-  "models_2": {
-    "models": [
-      9466
-    ]
-  },
+  "models_2": [
+    9466
+  ],
   "unknown_19": 1,
   "actions": [
     "Repair",

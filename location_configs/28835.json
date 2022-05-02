@@ -1,11 +1,9 @@
 {
   "id": 28835,
   "name": "Minecart",
-  "models_2": {
-    "models": [
-      1398
-    ]
-  },
+  "models_2": [
+    1398
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,

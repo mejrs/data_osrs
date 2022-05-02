@@ -1,12 +1,10 @@
 {
   "id": 10139,
   "name": "Palm tree",
-  "models_2": {
-    "models": [
-      8069,
-      8075
-    ]
-  },
+  "models_2": [
+    8069,
+    8075
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "colours": [

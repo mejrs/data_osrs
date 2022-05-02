@@ -1,11 +1,9 @@
 {
   "id": 27499,
   "name": "Mature juniper tree",
-  "models_2": {
-    "models": [
-      30092
-    ]
-  },
+  "models_2": [
+    30092
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_21": true,

@@ -1,11 +1,9 @@
 {
   "id": 41844,
   "name": "Hosidius statue",
-  "models_2": {
-    "models": [
-      37266
-    ]
-  },
+  "models_2": [
+    37266
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

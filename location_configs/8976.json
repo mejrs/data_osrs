@@ -1,11 +1,9 @@
 {
   "id": 8976,
   "name": "Depleted runestone",
-  "models_2": {
-    "models": [
-      31000
-    ]
-  },
+  "models_2": [
+    31000
+  ],
   "dim_x": 5,
   "dim_y": 5,
   "unknown_19": 1,

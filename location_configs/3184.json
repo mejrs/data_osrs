@@ -1,11 +1,9 @@
 {
   "id": 3184,
   "name": "Hospital shelves",
-  "models_2": {
-    "models": [
-      2134
-    ]
-  },
+  "models_2": [
+    2134
+  ],
   "unknown_19": 1,
   "ambient": 15,
   "contrast": 15,

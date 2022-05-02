@@ -1,11 +1,9 @@
 {
   "id": 5164,
   "name": "Signpost",
-  "models_2": {
-    "models": [
-      5174
-    ]
-  },
+  "models_2": [
+    5174
+  ],
   "unknown_24": 1631,
   "unknown_27": false,
   "actions": [

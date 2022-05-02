@@ -1,11 +1,9 @@
 {
   "id": 13494,
   "name": "Red Castlewars armour",
-  "models_2": {
-    "models": [
-      12383
-    ]
-  },
+  "models_2": [
+    12383
+  ],
   "actions": [
     null,
     null,

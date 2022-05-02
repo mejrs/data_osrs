@@ -1,12 +1,10 @@
 {
   "id": 31134,
   "name": "Plant Fossil Display",
-  "models_2": {
-    "models": [
-      33312,
-      33401
-    ]
-  },
+  "models_2": [
+    33312,
+    33401
+  ],
   "actions": [
     "Add to",
     null,

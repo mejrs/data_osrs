@@ -1,11 +1,9 @@
 {
   "id": 25037,
   "name": "Hull",
-  "models_2": {
-    "models": [
-      5306
-    ]
-  },
+  "models_2": [
+    5306
+  ],
   "unknown_19": 1,
   "colours": [
     [

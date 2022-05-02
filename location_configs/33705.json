@@ -1,12 +1,10 @@
 {
   "id": 33705,
   "name": "Diseased celastrus tree",
-  "models_2": {
-    "models": [
-      36814,
-      7768
-    ]
-  },
+  "models_2": [
+    36814,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 30,

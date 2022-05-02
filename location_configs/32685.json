@@ -1,11 +1,9 @@
 {
   "id": 32685,
   "name": "Easel",
-  "models_2": {
-    "models": [
-      9546
-    ]
-  },
+  "models_2": [
+    9546
+  ],
   "unknown_27": false,
   "ambient": 5,
   "colours": [

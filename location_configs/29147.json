@@ -1,11 +1,9 @@
 {
   "id": 29147,
   "name": "Ancient Altar",
-  "models_2": {
-    "models": [
-      32170
-    ]
-  },
+  "models_2": [
+    32170
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

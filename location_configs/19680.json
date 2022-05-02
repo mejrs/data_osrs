@@ -1,11 +1,9 @@
 {
   "id": 19680,
   "name": "Passageway",
-  "models_2": {
-    "models": [
-      21292
-    ]
-  },
+  "models_2": [
+    21292
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,

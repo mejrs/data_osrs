@@ -1,11 +1,9 @@
 {
   "id": 27429,
   "name": "Fruit cart",
-  "models_2": {
-    "models": [
-      30131
-    ]
-  },
+  "models_2": [
+    30131
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "is_transparent": true,

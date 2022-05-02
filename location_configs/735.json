@@ -1,11 +1,9 @@
 {
   "id": 735,
   "name": "Swamp bubbles",
-  "models_2": {
-    "models": [
-      2259
-    ]
-  },
+  "models_2": [
+    2259
+  ],
   "unknown_24": 480,
   "colours": [
     [

@@ -1,11 +1,9 @@
 {
   "id": 35817,
   "name": "<col=ffff00>Knight of Ardougne</col>",
-  "models_2": {
-    "models": [
-      37995
-    ]
-  },
+  "models_2": [
+    37995
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8050,

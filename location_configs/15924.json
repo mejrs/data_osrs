@@ -1,9 +1,7 @@
 {
   "id": 15924,
   "name": "Conveyor Belt",
-  "models_2": {
-    "models": [
-      15791
-    ]
-  }
+  "models_2": [
+    15791
+  ]
 }

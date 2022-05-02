@@ -1,11 +1,9 @@
 {
   "id": 30095,
   "name": "Timeline",
-  "models_2": {
-    "models": [
-      32704
-    ]
-  },
+  "models_2": [
+    32704
+  ],
   "dim_x": 6,
   "dim_y": 2,
   "unknown_19": 1,

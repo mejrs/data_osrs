@@ -1,11 +1,9 @@
 {
   "id": 62,
   "name": "Giant crystal",
-  "models_2": {
-    "models": [
-      1747
-    ]
-  },
+  "models_2": [
+    1747
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

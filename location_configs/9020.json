@@ -1,11 +1,9 @@
 {
   "id": 9020,
   "name": "Dense Jungle",
-  "models_2": {
-    "models": [
-      8895
-    ]
-  },
+  "models_2": [
+    8895
+  ],
   "is_transparent": true,
   "unknown_24": 2380,
   "actions": [

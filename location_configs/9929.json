@@ -1,11 +1,9 @@
 {
   "id": 9929,
   "name": "Pillar of Light",
-  "models_2": {
-    "models": [
-      9732
-    ]
-  },
+  "models_2": [
+    9732
+  ],
   "ambient": 25,
   "actions": [
     "Search",

@@ -1,11 +1,9 @@
 {
   "id": 9440,
   "name": "Fireplace",
-  "models_2": {
-    "models": [
-      9421
-    ]
-  },
+  "models_2": [
+    9421
+  ],
   "ambient": 25,
   "contrast": 25
 }

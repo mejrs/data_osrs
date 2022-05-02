@@ -1,11 +1,9 @@
 {
   "id": 13596,
   "name": "Firebox",
-  "models_2": {
-    "models": [
-      14903
-    ]
-  },
+  "models_2": [
+    14903
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 3976,

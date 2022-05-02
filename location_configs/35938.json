@@ -1,11 +1,9 @@
 {
   "id": 35938,
   "name": "Abandoned Equipment",
-  "models_2": {
-    "models": [
-      20051
-    ]
-  },
+  "models_2": [
+    20051
+  ],
   "actions": [
     "Search",
     null,

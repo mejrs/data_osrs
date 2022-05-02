@@ -1,11 +1,9 @@
 {
   "id": 38029,
   "name": "Cage",
-  "models_2": {
-    "models": [
-      39798
-    ]
-  },
+  "models_2": [
+    39798
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 30,

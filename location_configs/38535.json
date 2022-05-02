@@ -1,11 +1,9 @@
 {
   "id": 38535,
   "name": "Wolf Statue",
-  "models_2": {
-    "models": [
-      40041
-    ]
-  },
+  "models_2": [
+    40041
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

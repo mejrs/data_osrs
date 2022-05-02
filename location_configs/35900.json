@@ -1,11 +1,9 @@
 {
   "id": 35900,
   "name": "Fragment of Seren",
-  "models_2": {
-    "models": [
-      38604
-    ]
-  },
+  "models_2": [
+    38604
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

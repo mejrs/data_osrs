@@ -1,11 +1,9 @@
 {
   "id": 34300,
   "name": "Redwood tree",
-  "models_2": {
-    "models": [
-      36746
-    ]
-  },
+  "models_2": [
+    36746
+  ],
   "dim_x": 2,
   "dim_y": 3,
   "ambient": -20,

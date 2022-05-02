@@ -1,10 +1,8 @@
 {
   "id": 1934,
-  "models_2": {
-    "models": [
-      571
-    ]
-  },
+  "models_2": [
+    571
+  ],
   "unknown_19": 0,
   "unknown_22": true,
   "occludes_1": false,

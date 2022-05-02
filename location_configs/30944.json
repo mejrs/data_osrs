@@ -1,11 +1,9 @@
 {
   "id": 30944,
   "name": "Strange Machine",
-  "models_2": {
-    "models": [
-      33988
-    ]
-  },
+  "models_2": [
+    33988
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

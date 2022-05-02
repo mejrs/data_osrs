@@ -1,12 +1,10 @@
 {
   "id": 9169,
   "name": "Delphinium patch",
-  "models_2": {
-    "models": [
-      9201,
-      7766
-    ]
-  },
+  "models_2": [
+    9201,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     "Rake",

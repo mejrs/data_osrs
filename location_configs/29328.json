@@ -1,11 +1,9 @@
 {
   "id": 29328,
   "name": "Coffer",
-  "models_2": {
-    "models": [
-      6072
-    ]
-  },
+  "models_2": [
+    6072
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,

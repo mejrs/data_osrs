@@ -1,12 +1,10 @@
 {
   "id": 24727,
   "name": "Gramophone",
-  "models_2": {
-    "models": [
-      25984,
-      25983
-    ]
-  },
+  "models_2": [
+    25984,
+    25983
+  ],
   "unknown_19": 1,
   "unknown_24": 6522,
   "ambient": 30,

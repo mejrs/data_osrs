@@ -1,11 +1,9 @@
 {
   "id": 1614,
   "name": "Timber",
-  "models_2": {
-    "models": [
-      844
-    ]
-  },
+  "models_2": [
+    844
+  ],
   "textures": {
     "23": 16
   }

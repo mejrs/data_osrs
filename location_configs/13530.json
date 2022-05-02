@@ -1,13 +1,11 @@
 {
   "id": 13530,
   "name": "Firepit with hook",
-  "models_2": {
-    "models": [
-      14101,
-      12624,
-      12627
-    ]
-  },
+  "models_2": [
+    14101,
+    12624,
+    12627
+  ],
   "dim_y": 2,
   "unknown_24": 3105,
   "ambient": 25,

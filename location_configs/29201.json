@@ -1,11 +1,9 @@
 {
   "id": 29201,
   "name": "Mounted Herblore Cape (t)",
-  "models_2": {
-    "models": [
-      32200
-    ]
-  },
+  "models_2": [
+    32200
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

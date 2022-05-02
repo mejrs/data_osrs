@@ -1,9 +1,7 @@
 {
   "id": 43,
   "name": "Water",
-  "models_2": {
-    "models": [
-      1491
-    ]
-  }
+  "models_2": [
+    1491
+  ]
 }

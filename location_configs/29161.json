@@ -1,11 +1,9 @@
 {
   "id": 29161,
   "name": "Cerberus display",
-  "models_2": {
-    "models": [
-      32147
-    ]
-  },
+  "models_2": [
+    32147
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 26870,
   "name": "Oak feeder",
-  "models_2": {
-    "models": [
-      28957
-    ]
-  },
+  "models_2": [
+    28957
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

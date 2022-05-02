@@ -1,11 +1,9 @@
 {
   "id": 30854,
   "name": "Burnt tree",
-  "models_2": {
-    "models": [
-      33625
-    ]
-  },
+  "models_2": [
+    33625
+  ],
   "unknown_27": false,
   "actions": [
     "Chop down",

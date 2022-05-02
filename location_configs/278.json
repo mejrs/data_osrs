@@ -1,10 +1,8 @@
 {
   "id": 278,
   "name": "Hoisted sail",
-  "models_2": {
-    "models": [
-      1841
-    ]
-  },
+  "models_2": [
+    1841
+  ],
   "dim_x": 5
 }

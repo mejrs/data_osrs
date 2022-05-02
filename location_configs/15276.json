@@ -1,11 +1,9 @@
 {
   "id": 15276,
   "name": "Musical space",
-  "models_2": {
-    "models": [
-      12661
-    ]
-  },
+  "models_2": [
+    12661
+  ],
   "dim_x": 2,
   "actions": [
     null,

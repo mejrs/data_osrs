@@ -1,12 +1,10 @@
 {
   "id": 25267,
   "name": "funeral pyre",
-  "models_2": {
-    "models": [
-      26695,
-      26697
-    ]
-  },
+  "models_2": [
+    26695,
+    26697
+  ],
   "dim_y": 2,
   "unknown_24": 3105,
   "ambient": 50

@@ -1,11 +1,9 @@
 {
   "id": 10267,
   "name": "Shield Display",
-  "models_2": {
-    "models": [
-      10023
-    ]
-  },
+  "models_2": [
+    10023
+  ],
   "actions": [
     "Study",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 31790,
   "name": "Vine ladder",
-  "models_2": {
-    "models": [
-      34399
-    ]
-  },
+  "models_2": [
+    34399
+  ],
   "unknown_22": true,
   "unknown_27": false,
   "actions": [

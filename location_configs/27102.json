@@ -1,11 +1,9 @@
 {
   "id": 27102,
   "name": "Crates",
-  "models_2": {
-    "models": [
-      31456
-    ]
-  },
+  "models_2": [
+    31456
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

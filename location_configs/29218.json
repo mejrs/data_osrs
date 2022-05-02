@@ -1,11 +1,9 @@
 {
   "id": 29218,
   "name": "Mounted Smithing Cape",
-  "models_2": {
-    "models": [
-      32182
-    ]
-  },
+  "models_2": [
+    32182
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 20,

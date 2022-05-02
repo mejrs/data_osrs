@@ -1,11 +1,9 @@
 {
   "id": 13367,
   "name": "Guard dog",
-  "models_2": {
-    "models": [
-      26255
-    ]
-  },
+  "models_2": [
+    26255
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

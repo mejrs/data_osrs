@@ -1,11 +1,9 @@
 {
   "id": 17338,
   "name": "Lava",
-  "models_2": {
-    "models": [
-      17309
-    ]
-  },
+  "models_2": [
+    17309
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 35,

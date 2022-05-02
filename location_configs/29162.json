@@ -1,11 +1,9 @@
 {
   "id": 29162,
   "name": "Abyssal Sire display",
-  "models_2": {
-    "models": [
-      32167
-    ]
-  },
+  "models_2": [
+    32167
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "actions": [

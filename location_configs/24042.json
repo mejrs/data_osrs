@@ -1,11 +1,9 @@
 {
   "id": 24042,
   "name": "Flagpole",
-  "models_2": {
-    "models": [
-      2281
-    ]
-  },
+  "models_2": [
+    2281
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_24": 471,

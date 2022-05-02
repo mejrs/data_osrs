@@ -1,11 +1,9 @@
 {
   "id": 41017,
   "name": "Corporeal Beast Display",
-  "models_2": {
-    "models": [
-      41574
-    ]
-  },
+  "models_2": [
+    41574
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 30,

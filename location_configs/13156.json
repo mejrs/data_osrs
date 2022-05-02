@@ -1,11 +1,9 @@
 {
   "id": 13156,
   "name": "Oak drawers",
-  "models_2": {
-    "models": [
-      12958
-    ]
-  },
+  "models_2": [
+    12958
+  ],
   "ambient": 25,
   "actions": [
     "Change-clothes",

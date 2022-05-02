@@ -1,13 +1,11 @@
 {
   "id": 28669,
   "name": "Gnome table",
-  "models_2": {
-    "models": [
-      17144,
-      17146,
-      17147
-    ]
-  },
+  "models_2": [
+    17144,
+    17146,
+    17147
+  ],
   "actions": [
     "Investigate",
     null,

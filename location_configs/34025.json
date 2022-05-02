@@ -1,12 +1,10 @@
 {
   "id": 34025,
   "name": "Diseased dragonfruit plant",
-  "models_2": {
-    "models": [
-      36668,
-      7767
-    ]
-  },
+  "models_2": [
+    36668,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 10,

@@ -1,11 +1,9 @@
 {
   "id": 37984,
   "name": "Broken table",
-  "models_2": {
-    "models": [
-      39872
-    ]
-  },
+  "models_2": [
+    39872
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_19": 1,

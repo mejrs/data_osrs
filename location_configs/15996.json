@@ -1,12 +1,10 @@
 {
   "id": 15996,
   "name": "Portal",
-  "models_2": {
-    "models": [
-      11233,
-      15138
-    ]
-  },
+  "models_2": [
+    11233,
+    15138
+  ],
   "dim_x": 3,
   "unknown_24": 3174,
   "actions": [

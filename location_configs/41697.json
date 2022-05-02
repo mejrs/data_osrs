@@ -1,9 +1,7 @@
 {
   "id": 41697,
   "name": "Cooking Pots",
-  "models_2": {
-    "models": [
-      42216
-    ]
-  }
+  "models_2": [
+    42216
+  ]
 }

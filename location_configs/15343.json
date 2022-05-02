@@ -1,11 +1,9 @@
 {
   "id": 15343,
   "name": "Prize chest space",
-  "models_2": {
-    "models": [
-      12884
-    ]
-  },
+  "models_2": [
+    12884
+  ],
   "actions": [
     null,
     null,

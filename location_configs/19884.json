@@ -1,11 +1,9 @@
 {
   "id": 19884,
   "name": "Campfire",
-  "models_2": {
-    "models": [
-      20055
-    ]
-  },
+  "models_2": [
+    20055
+  ],
   "unknown_19": 1,
   "unknown_24": 475,
   "actions": [

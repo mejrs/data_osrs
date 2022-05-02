@@ -1,11 +1,9 @@
 {
   "id": 36229,
   "name": "Dark hole",
-  "models_2": {
-    "models": [
-      37826
-    ]
-  },
+  "models_2": [
+    37826
+  ],
   "ambient": 10,
   "actions": [
     "Enter",

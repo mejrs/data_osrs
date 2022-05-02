@@ -1,11 +1,9 @@
 {
   "id": 35969,
   "name": "Phren Roots",
-  "models_2": {
-    "models": [
-      37609
-    ]
-  },
+  "models_2": [
+    37609
+  ],
   "ambient": 30,
   "actions": [
     "Chop",

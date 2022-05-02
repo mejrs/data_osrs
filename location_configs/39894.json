@@ -1,11 +1,9 @@
 {
   "id": 39894,
   "name": "Oak table",
-  "models_2": {
-    "models": [
-      12491
-    ]
-  },
+  "models_2": [
+    12491
+  ],
   "actions": [
     null,
     "Remove",

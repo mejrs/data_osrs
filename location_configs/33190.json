@@ -1,11 +1,9 @@
 {
   "id": 33190,
   "name": "Ledge",
-  "models_2": {
-    "models": [
-      35924
-    ]
-  },
+  "models_2": [
+    35924
+  ],
   "dim_x": 3,
   "is_transparent": true,
   "unknown_21": true,

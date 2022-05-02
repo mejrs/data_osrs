@@ -1,11 +1,9 @@
 {
   "id": 4906,
-  "models_2": {
-    "models": [
-      4445,
-      4416
-    ]
-  },
+  "models_2": [
+    4445,
+    4416
+  ],
   "unknown_19": 0,
   "unknown_24": 1430,
   "colours": [

@@ -1,11 +1,9 @@
 {
   "id": 14536,
   "name": "Bones",
-  "models_2": {
-    "models": [
-      14328
-    ]
-  },
+  "models_2": [
+    14328
+  ],
   "dim_y": 3,
   "unknown_21": true,
   "colours": [

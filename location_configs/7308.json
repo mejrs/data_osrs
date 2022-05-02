@@ -1,11 +1,9 @@
 {
   "id": 7308,
   "name": "Statue",
-  "models_2": {
-    "models": [
-      7709
-    ]
-  },
+  "models_2": [
+    7709
+  ],
   "ambient": 30,
   "actions": [
     "Touch",

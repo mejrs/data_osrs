@@ -1,12 +1,10 @@
 {
   "id": 41157,
   "name": "Mahogany trophy case",
-  "models_2": {
-    "models": [
-      41700,
-      41697
-    ]
-  },
+  "models_2": [
+    41700,
+    41697
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

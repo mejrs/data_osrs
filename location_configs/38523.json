@@ -1,11 +1,9 @@
 {
   "id": 38523,
   "name": "Lion Statue",
-  "models_2": {
-    "models": [
-      40098
-    ]
-  },
+  "models_2": [
+    40098
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "ambient": 30,

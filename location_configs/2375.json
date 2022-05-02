@@ -1,11 +1,9 @@
 {
   "id": 2375,
   "name": "Specimen tray",
-  "models_2": {
-    "models": [
-      17316
-    ]
-  },
+  "models_2": [
+    17316
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 11638,
   "name": "Hurdle",
-  "models_2": {
-    "models": [
-      5127
-    ]
-  },
+  "models_2": [
+    5127
+  ],
   "dim_x": 3,
   "actions": [
     "Jump",

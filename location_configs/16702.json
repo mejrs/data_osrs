@@ -1,11 +1,9 @@
 {
   "id": 16702,
   "name": "Cooker",
-  "models_2": {
-    "models": [
-      16675
-    ]
-  },
+  "models_2": [
+    16675
+  ],
   "actions": [
     "Cook",
     null,

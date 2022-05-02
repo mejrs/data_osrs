@@ -1,11 +1,9 @@
 {
   "id": 254,
   "name": "Figurehead",
-  "models_2": {
-    "models": [
-      9473
-    ]
-  },
+  "models_2": [
+    9473
+  ],
   "dim_x": 2,
   "colours": [
     [

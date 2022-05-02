@@ -1,11 +1,9 @@
 {
   "id": 15403,
   "name": "Larder space",
-  "models_2": {
-    "models": [
-      12714
-    ]
-  },
+  "models_2": [
+    12714
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

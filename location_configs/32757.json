@@ -1,12 +1,10 @@
 {
   "id": 32757,
   "name": "<col=ffff00>Vyre Orator</col>",
-  "models_2": {
-    "models": [
-      17963,
-      17981
-    ]
-  },
+  "models_2": [
+    17963,
+    17981
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

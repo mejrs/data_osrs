@@ -1,11 +1,9 @@
 {
   "id": 29240,
   "name": "Fancy pool of Rejuvenation",
-  "models_2": {
-    "models": [
-      32108
-    ]
-  },
+  "models_2": [
+    32108
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

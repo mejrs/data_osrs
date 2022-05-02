@@ -1,11 +1,9 @@
 {
   "id": 18690,
   "name": "Extractor hat",
-  "models_2": {
-    "models": [
-      18777
-    ]
-  },
+  "models_2": [
+    18777
+  ],
   "unknown_24": 4883,
   "actions": [
     "Operate",

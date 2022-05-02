@@ -1,13 +1,11 @@
 {
   "id": 33319,
   "name": "Fire of Nourishment",
-  "models_2": {
-    "models": [
-      35937,
-      35935,
-      35938
-    ]
-  },
+  "models_2": [
+    35937,
+    35935,
+    35938
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

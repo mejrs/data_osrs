@@ -1,11 +1,9 @@
 {
   "id": 28526,
   "name": "Wheely table",
-  "models_2": {
-    "models": [
-      30916
-    ]
-  },
+  "models_2": [
+    30916
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 20,

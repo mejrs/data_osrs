@@ -1,12 +1,10 @@
 {
   "id": 30499,
   "name": "Dead seaweed",
-  "models_2": {
-    "models": [
-      33246,
-      7767
-    ]
-  },
+  "models_2": [
+    33246,
+    7767
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 25,

@@ -1,11 +1,9 @@
 {
   "id": 24534,
   "name": "Storage crate",
-  "models_2": {
-    "models": [
-      13975
-    ]
-  },
+  "models_2": [
+    13975
+  ],
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 25,

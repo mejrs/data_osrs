@@ -1,11 +1,9 @@
 {
   "id": 13878,
   "name": "Exit",
-  "models_2": {
-    "models": [
-      14238
-    ]
-  },
+  "models_2": [
+    14238
+  ],
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 20,

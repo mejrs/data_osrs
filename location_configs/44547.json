@@ -1,0 +1,11 @@
+{
+  "id": 44547,
+  "name": "test",
+  "models_2": [
+    44455
+  ],
+  "dim_x": 30,
+  "dim_y": 30,
+  "unknown_19": 1,
+  "ambient": 25
+}

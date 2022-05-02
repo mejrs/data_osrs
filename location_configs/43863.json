@@ -1,0 +1,20 @@
+{
+  "id": 43863,
+  "name": "Frozen churning machine",
+  "models_2": [
+    44149
+  ],
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      33,
+      32803
+    ]
+  ]
+}

@@ -1,11 +1,9 @@
 {
   "id": 7240,
   "name": "Ledge",
-  "models_2": {
-    "models": [
-      7562
-    ]
-  },
+  "models_2": [
+    7562
+  ],
   "unknown_21": true,
   "actions": [
     "Climb",

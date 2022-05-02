@@ -1,11 +1,9 @@
 {
   "id": 15371,
   "name": "Hedging",
-  "models_2": {
-    "models": [
-      12709
-    ]
-  },
+  "models_2": [
+    12709
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "actions": [

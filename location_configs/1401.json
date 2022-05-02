@@ -1,11 +1,9 @@
 {
   "id": 1401,
   "name": "Jungle plant",
-  "models_2": {
-    "models": [
-      1641
-    ]
-  },
+  "models_2": [
+    1641
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

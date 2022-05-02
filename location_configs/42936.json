@@ -1,11 +1,9 @@
 {
   "id": 42936,
   "name": "Scoreboard",
-  "models_2": {
-    "models": [
-      43207
-    ]
-  },
+  "models_2": [
+    43207
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "unknown_21": true,

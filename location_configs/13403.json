@@ -1,12 +1,10 @@
 {
   "id": 13403,
   "name": "Archery target",
-  "models_2": {
-    "models": [
-      12896,
-      12897
-    ]
-  },
+  "models_2": [
+    12896,
+    12897
+  ],
   "ambient": 20,
   "actions": [
     "Shoot-at",

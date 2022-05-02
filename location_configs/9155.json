@@ -1,11 +1,9 @@
 {
   "id": 9155,
   "name": "Globe of Gielinor",
-  "models_2": {
-    "models": [
-      7398
-    ]
-  },
+  "models_2": [
+    7398
+  ],
   "ambient": 20,
   "contrast": 20,
   "colours": [

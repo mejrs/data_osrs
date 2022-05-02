@@ -1,11 +1,9 @@
 {
   "id": 29789,
   "name": "Passage",
-  "models_2": {
-    "models": [
-      32434
-    ]
-  },
+  "models_2": [
+    32434
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_19": 1,

@@ -1,11 +1,9 @@
 {
   "id": 24362,
   "name": "Tanning line",
-  "models_2": {
-    "models": [
-      1296
-    ]
-  },
+  "models_2": [
+    1296
+  ],
   "dim_x": 3,
   "ambient": 25,
   "contrast": 25,

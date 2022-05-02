@@ -1,11 +1,9 @@
 {
   "id": 11317,
   "name": "Ship hull",
-  "models_2": {
-    "models": [
-      2216
-    ]
-  },
+  "models_2": [
+    2216
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "unknown_24": 464,

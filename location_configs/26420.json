@@ -1,11 +1,9 @@
 {
   "id": 26420,
   "name": "Broken pillar",
-  "models_2": {
-    "models": [
-      27813
-    ]
-  },
+  "models_2": [
+    27813
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,

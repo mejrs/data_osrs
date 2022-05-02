@@ -1,11 +1,9 @@
 {
   "id": 5581,
   "name": "Logs",
-  "models_2": {
-    "models": [
-      5495
-    ]
-  },
+  "models_2": [
+    5495
+  ],
   "actions": [
     "Take-axe",
     null,

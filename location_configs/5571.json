@@ -1,11 +1,9 @@
 {
   "id": 5571,
   "name": "Coop",
-  "models_2": {
-    "models": [
-      5503
-    ]
-  },
+  "models_2": [
+    5503
+  ],
   "dim_x": 2,
   "actions": [
     "Search",

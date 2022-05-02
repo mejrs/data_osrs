@@ -1,11 +1,9 @@
 {
   "id": 2363,
   "name": "Panning point",
-  "models_2": {
-    "models": [
-      1491
-    ]
-  },
+  "models_2": [
+    1491
+  ],
   "actions": [
     "Pan",
     null,

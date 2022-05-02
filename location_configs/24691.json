@@ -1,11 +1,9 @@
 {
   "id": 24691,
   "name": "Stacked Boxes",
-  "models_2": {
-    "models": [
-      5257
-    ]
-  },
+  "models_2": [
+    5257
+  ],
   "ambient": 15,
   "contrast": 5,
   "colours": [

@@ -1,11 +1,9 @@
 {
   "id": 35976,
   "name": "Linum Tirinum (Depleted)",
-  "models_2": {
-    "models": [
-      37601
-    ]
-  },
+  "models_2": [
+    37601
+  ],
   "ambient": 30,
   "contrast": 44,
   "category": 1361,

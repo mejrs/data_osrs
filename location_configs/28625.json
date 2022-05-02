@@ -1,11 +1,9 @@
 {
   "id": 28625,
   "name": "Gas cylinder",
-  "models_2": {
-    "models": [
-      31444
-    ]
-  },
+  "models_2": [
+    31444
+  ],
   "unknown_19": 1,
   "actions": [
     "Investigate",

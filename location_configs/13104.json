@@ -1,9 +1,7 @@
 {
   "id": 13104,
   "name": "Hazelmere statue",
-  "models_2": {
-    "models": [
-      17101
-    ]
-  }
+  "models_2": [
+    17101
+  ]
 }

@@ -1,11 +1,9 @@
 {
   "id": 21792,
   "name": "Range",
-  "models_2": {
-    "models": [
-      22294
-    ]
-  },
+  "models_2": [
+    22294
+  ],
   "dim_x": 2,
   "actions": [
     "Cook",

@@ -1,11 +1,9 @@
 {
   "id": 25727,
   "name": "Elizabeth's barrel",
-  "models_2": {
-    "models": [
-      8232
-    ]
-  },
+  "models_2": [
+    8232
+  ],
   "ambient": 20,
   "actions": [
     null,

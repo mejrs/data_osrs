@@ -1,11 +1,9 @@
 {
   "id": 37594,
   "name": "Table",
-  "models_2": {
-    "models": [
-      4599
-    ]
-  },
+  "models_2": [
+    4599
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "actions": [

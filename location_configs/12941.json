@@ -1,12 +1,10 @@
 {
   "id": 12941,
   "name": "Fountain",
-  "models_2": {
-    "models": [
-      22212,
-      22213
-    ]
-  },
+  "models_2": [
+    22212,
+    22213
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

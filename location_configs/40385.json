@@ -1,11 +1,9 @@
 {
   "id": 40385,
   "name": "Magical pumpkin",
-  "models_2": {
-    "models": [
-      28432
-    ]
-  },
+  "models_2": [
+    28432
+  ],
   "unknown_19": 1,
   "unknown_24": 8775,
   "ambient": 20,

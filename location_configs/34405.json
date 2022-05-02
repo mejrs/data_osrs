@@ -1,11 +1,9 @@
 {
   "id": 34405,
   "name": "Lizard dwelling",
-  "models_2": {
-    "models": [
-      36368
-    ]
-  },
+  "models_2": [
+    36368
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

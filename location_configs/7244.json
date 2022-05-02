@@ -1,9 +1,7 @@
 {
   "id": 7244,
   "name": "Wooden Obstruction",
-  "models_2": {
-    "models": [
-      7584
-    ]
-  }
+  "models_2": [
+    7584
+  ]
 }

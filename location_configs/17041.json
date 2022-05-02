@@ -1,12 +1,10 @@
 {
   "id": 17041,
   "name": "Strong Yew",
-  "models_2": {
-    "models": [
-      16914,
-      16903
-    ]
-  },
+  "models_2": [
+    16914,
+    16903
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 40,

@@ -1,0 +1,13 @@
+{
+  "id": 43629,
+  "name": "Whale-fall",
+  "models_2": [
+    43979
+  ],
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -35,
+  "contrast": 25
+}

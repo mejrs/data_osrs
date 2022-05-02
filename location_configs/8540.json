@@ -1,13 +1,11 @@
 {
   "id": 8540,
   "name": "Cabbages",
-  "models_2": {
-    "models": [
-      8191,
-      8222,
-      7766
-    ]
-  },
+  "models_2": [
+    8191,
+    8222,
+    7766
+  ],
   "ambient": 25,
   "actions": [
     null,

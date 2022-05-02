@@ -1,11 +1,9 @@
 {
   "id": 1340,
   "name": "Roots",
-  "models_2": {
-    "models": [
-      2153
-    ]
-  },
+  "models_2": [
+    2153
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "mapscene": 6

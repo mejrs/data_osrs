@@ -1,13 +1,11 @@
 {
   "id": 8113,
   "name": "Papaya tree",
-  "models_2": {
-    "models": [
-      8083,
-      7767,
-      8085
-    ]
-  },
+  "models_2": [
+    8083,
+    7767,
+    8085
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 30,

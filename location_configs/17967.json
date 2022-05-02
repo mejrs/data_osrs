@@ -1,13 +1,11 @@
 {
   "id": 17967,
   "name": "Mine cart",
-  "models_2": {
-    "models": [
-      17558,
-      17577,
-      17560
-    ]
-  },
+  "models_2": [
+    17558,
+    17577,
+    17560
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,

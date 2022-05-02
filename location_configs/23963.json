@@ -1,12 +1,10 @@
 {
   "id": 23963,
   "name": "Dummy",
-  "models_2": {
-    "models": [
-      15370,
-      15368
-    ]
-  },
+  "models_2": [
+    15370,
+    15368
+  ],
   "unknown_24": 4163,
   "actions": [
     "Hit",

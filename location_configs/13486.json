@@ -1,11 +1,9 @@
 {
   "id": 13486,
   "name": "KBD heads",
-  "models_2": {
-    "models": [
-      12164
-    ]
-  },
+  "models_2": [
+    12164
+  ],
   "ambient": 25,
   "actions": [
     "Talk-to",

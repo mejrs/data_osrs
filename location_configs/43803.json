@@ -1,0 +1,24 @@
+{
+  "id": 43803,
+  "models": [
+    [
+      22,
+      43960
+    ]
+  ],
+  "name": "Rubble",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      30005,
+      33432
+    ],
+    [
+      28866,
+      33441
+    ]
+  ],
+  "mapscene": 12
+}

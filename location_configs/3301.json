@@ -1,11 +1,9 @@
 {
   "id": 3301,
   "name": "Stone tablet",
-  "models_2": {
-    "models": [
-      759
-    ]
-  },
+  "models_2": [
+    759
+  ],
   "actions": [
     "Read",
     null,

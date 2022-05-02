@@ -1,11 +1,9 @@
 {
   "id": 18811,
   "name": "Magic wardrobe space",
-  "models_2": {
-    "models": [
-      19020
-    ]
-  },
+  "models_2": [
+    19020
+  ],
   "dim_y": 3,
   "actions": [
     null,

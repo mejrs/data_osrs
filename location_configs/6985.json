@@ -1,11 +1,9 @@
 {
   "id": 6985,
   "name": "Crusher",
-  "models_2": {
-    "models": [
-      7102
-    ]
-  },
+  "models_2": [
+    7102
+  ],
   "dim_x": 2,
   "unknown_24": 2135
 }

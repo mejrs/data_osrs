@@ -1,11 +1,9 @@
 {
   "id": 41181,
   "name": "Trailblazer globe",
-  "models_2": {
-    "models": [
-      41039
-    ]
-  },
+  "models_2": [
+    41039
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

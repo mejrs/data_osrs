@@ -1,11 +1,9 @@
 {
   "id": 38545,
   "name": "Justiciar Statue",
-  "models_2": {
-    "models": [
-      40134
-    ]
-  },
+  "models_2": [
+    40134
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 30,

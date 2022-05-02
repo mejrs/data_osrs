@@ -1,11 +1,9 @@
 {
   "id": 15574,
   "name": "Strange Banana Tree",
-  "models_2": {
-    "models": [
-      1689
-    ]
-  },
+  "models_2": [
+    1689
+  ],
   "unknown_19": 1,
   "actions": [
     "Pick Banana",

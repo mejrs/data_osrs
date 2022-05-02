@@ -1,11 +1,9 @@
 {
   "id": 20946,
   "name": "Grand Gold Chest",
-  "models_2": {
-    "models": [
-      16387
-    ]
-  },
+  "models_2": [
+    16387
+  ],
   "dim_x": 3,
   "ambient": 10,
   "actions": [

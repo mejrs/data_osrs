@@ -1,12 +1,10 @@
 {
   "id": 4902,
   "name": "Saradomin Standard",
-  "models_2": {
-    "models": [
-      4445,
-      4416
-    ]
-  },
+  "models_2": [
+    4445,
+    4416
+  ],
   "unknown_24": 1430,
   "actions": [
     "Capture",

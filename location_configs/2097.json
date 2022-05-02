@@ -1,11 +1,9 @@
 {
   "id": 2097,
   "name": "Anvil",
-  "models_2": {
-    "models": [
-      1251
-    ]
-  },
+  "models_2": [
+    1251
+  ],
   "actions": [
     "Smith",
     null,

@@ -1,11 +1,9 @@
 {
   "id": 19930,
   "name": "Leftovers",
-  "models_2": {
-    "models": [
-      971
-    ]
-  },
+  "models_2": [
+    971
+  ],
   "ambient": 10,
   "contrast": 10,
   "colours": [

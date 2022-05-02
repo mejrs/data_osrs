@@ -1,11 +1,9 @@
 {
   "id": 5139,
   "name": "Reeds",
-  "models_2": {
-    "models": [
-      12943
-    ]
-  },
+  "models_2": [
+    12943
+  ],
   "actions": [
     null,
     null,

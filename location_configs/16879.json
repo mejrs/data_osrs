@@ -1,11 +1,9 @@
 {
   "id": 16879,
   "name": "Cannonballs",
-  "models_2": {
-    "models": [
-      1550
-    ]
-  },
+  "models_2": [
+    1550
+  ],
   "colours": [
     [
       16,

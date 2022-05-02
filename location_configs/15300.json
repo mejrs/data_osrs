@@ -1,11 +1,9 @@
 {
   "id": 15300,
   "name": "Seating space",
-  "models_2": {
-    "models": [
-      12649
-    ]
-  },
+  "models_2": [
+    12649
+  ],
   "actions": [
     null,
     null,

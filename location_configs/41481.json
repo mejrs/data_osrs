@@ -1,11 +1,9 @@
 {
   "id": 41481,
   "name": "Sacred Forge",
-  "models_2": {
-    "models": [
-      42106
-    ]
-  },
+  "models_2": [
+    42106
+  ],
   "dim_x": 4,
   "dim_y": 3,
   "unknown_21": true,

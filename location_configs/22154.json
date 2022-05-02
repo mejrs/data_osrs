@@ -1,11 +1,9 @@
 {
   "id": 22154,
   "name": "Cooking range",
-  "models_2": {
-    "models": [
-      22943
-    ]
-  },
+  "models_2": [
+    22943
+  ],
   "dim_x": 2,
   "ambient": 15,
   "contrast": 15,

@@ -1,11 +1,9 @@
 {
   "id": 29670,
   "name": "Redwood",
-  "models_2": {
-    "models": [
-      32860
-    ]
-  },
+  "models_2": [
+    32860
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_22": true,
@@ -18,5 +16,8 @@
     null
   ],
   "contrast": 100,
-  "category": 953
+  "category": 953,
+  "params": {
+    "1545": 1
+  }
 }

@@ -1,11 +1,9 @@
 {
   "id": 13283,
   "name": "Wooden crate",
-  "models_2": {
-    "models": [
-      12152
-    ]
-  },
+  "models_2": [
+    12152
+  ],
   "actions": [
     "Open",
     null,

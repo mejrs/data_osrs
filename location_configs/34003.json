@@ -1,12 +1,10 @@
 {
   "id": 34003,
   "name": "Kronos plant",
-  "models_2": {
-    "models": [
-      36876,
-      7768
-    ]
-  },
+  "models_2": [
+    36876,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 33,
   "ambient": 10,

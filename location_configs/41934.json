@@ -1,11 +1,9 @@
 {
   "id": 41934,
   "name": "<col=ffff00>Protester</col>",
-  "models_2": {
-    "models": [
-      38131
-    ]
-  },
+  "models_2": [
+    38131
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8050,

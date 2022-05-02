@@ -1,11 +1,9 @@
 {
   "id": 6206,
   "name": "Dwarven Consortium Table",
-  "models_2": {
-    "models": [
-      5878
-    ]
-  },
+  "models_2": [
+    5878
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false

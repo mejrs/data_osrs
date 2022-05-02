@@ -1,11 +1,9 @@
 {
   "id": 39922,
   "name": "Broken Drawers",
-  "models_2": {
-    "models": [
-      12959
-    ]
-  },
+  "models_2": [
+    12959
+  ],
   "actions": [
     null,
     null,

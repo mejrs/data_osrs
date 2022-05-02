@@ -1,11 +1,9 @@
 {
   "id": 39914,
   "name": "Bookcase",
-  "models_2": {
-    "models": [
-      40799
-    ]
-  },
+  "models_2": [
+    40799
+  ],
   "actions": [
     null,
     "Remove",

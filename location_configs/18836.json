@@ -1,12 +1,10 @@
 {
   "id": 18836,
   "name": "Tree branch",
-  "models_2": {
-    "models": [
-      19129,
-      19134
-    ]
-  },
+  "models_2": [
+    19129,
+    19134
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

@@ -1,11 +1,9 @@
 {
   "id": 29233,
   "name": "Kalphite Queen Topiary",
-  "models_2": {
-    "models": [
-      32087
-    ]
-  },
+  "models_2": [
+    32087
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

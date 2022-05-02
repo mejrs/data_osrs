@@ -1,11 +1,9 @@
 {
   "id": 20947,
   "name": "Opened gold chest",
-  "models_2": {
-    "models": [
-      16388
-    ]
-  },
+  "models_2": [
+    16388
+  ],
   "dim_x": 3,
   "ambient": 10,
   "contrast": 10,

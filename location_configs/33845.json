@@ -1,13 +1,11 @@
 {
   "id": 33845,
   "name": "Big Compost Bin",
-  "models_2": {
-    "models": [
-      7838,
-      7845,
-      7842
-    ]
-  },
+  "models_2": [
+    7838,
+    7845,
+    7842
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

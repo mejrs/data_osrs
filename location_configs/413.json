@@ -1,11 +1,9 @@
 {
   "id": 413,
   "name": "Dolmen",
-  "models_2": {
-    "models": [
-      1470
-    ]
-  },
+  "models_2": [
+    1470
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true

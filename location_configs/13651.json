@@ -1,11 +1,9 @@
 {
   "id": 13651,
   "name": "Lunar globe",
-  "models_2": {
-    "models": [
-      12484
-    ]
-  },
+  "models_2": [
+    12484
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "actions": [

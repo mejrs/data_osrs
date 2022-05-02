@@ -1,11 +1,9 @@
 {
   "id": 26143,
   "name": "Spinning wheel",
-  "models_2": {
-    "models": [
-      27564
-    ]
-  },
+  "models_2": [
+    27564
+  ],
   "ambient": 25,
   "actions": [
     null,

@@ -1,11 +1,9 @@
 {
   "id": 17150,
   "name": "Storage shelves",
-  "models_2": {
-    "models": [
-      2133
-    ]
-  },
+  "models_2": [
+    2133
+  ],
   "unknown_19": 1,
   "ambient": 15,
   "contrast": 15,

@@ -1,12 +1,10 @@
 {
   "id": 29314,
   "name": "Burning brazier",
-  "models_2": {
-    "models": [
-      32270,
-      32269
-    ]
-  },
+  "models_2": [
+    32270,
+    32269
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_17": false,

@@ -1,11 +1,9 @@
 {
   "id": 14935,
   "name": "Basket",
-  "models_2": {
-    "models": [
-      892
-    ]
-  },
+  "models_2": [
+    892
+  ],
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [

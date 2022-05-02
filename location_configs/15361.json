@@ -1,11 +1,9 @@
 {
   "id": 15361,
   "name": "Centrepiece space",
-  "models_2": {
-    "models": [
-      12705
-    ]
-  },
+  "models_2": [
+    12705
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,

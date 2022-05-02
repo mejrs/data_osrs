@@ -1,11 +1,9 @@
 {
   "id": 33517,
   "name": "Refinery",
-  "models_2": {
-    "models": [
-      36222
-    ]
-  },
+  "models_2": [
+    36222
+  ],
   "dim_x": 3,
   "actions": [
     "Cleanse",

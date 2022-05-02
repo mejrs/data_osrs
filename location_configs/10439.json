@@ -1,12 +1,10 @@
 {
   "id": 10439,
   "name": "Elidinis Statuette",
-  "models_2": {
-    "models": [
-      10190,
-      10191
-    ]
-  },
+  "models_2": [
+    10190,
+    10191
+  ],
   "ambient": 15,
   "actions": [
     "Pray-at",

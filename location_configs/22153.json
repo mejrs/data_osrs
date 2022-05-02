@@ -1,11 +1,9 @@
 {
   "id": 22153,
   "name": "Wardrobe",
-  "models_2": {
-    "models": [
-      22947
-    ]
-  },
+  "models_2": [
+    22947
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,

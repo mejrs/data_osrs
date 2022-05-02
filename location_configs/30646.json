@@ -1,11 +1,9 @@
 {
   "id": 30646,
   "name": "Thick vine",
-  "models_2": {
-    "models": [
-      33734
-    ]
-  },
+  "models_2": [
+    33734
+  ],
   "dim_x": 2,
   "is_transparent": true,
   "unknown_19": 1,

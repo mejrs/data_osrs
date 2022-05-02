@@ -1,11 +1,9 @@
 {
   "id": 32441,
   "name": "Strange grid",
-  "models_2": {
-    "models": [
-      33950
-    ]
-  },
+  "models_2": [
+    33950
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 10,

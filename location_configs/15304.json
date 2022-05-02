@@ -1,11 +1,9 @@
 {
   "id": 15304,
   "name": "Bell pull space",
-  "models_2": {
-    "models": [
-      12648
-    ]
-  },
+  "models_2": [
+    12648
+  ],
   "actions": [
     null,
     null,

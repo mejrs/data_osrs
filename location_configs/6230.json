@@ -1,9 +1,7 @@
 {
   "id": 6230,
   "name": "Money Pot",
-  "models_2": {
-    "models": [
-      6072
-    ]
-  }
+  "models_2": [
+    6072
+  ]
 }

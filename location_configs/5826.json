@@ -1,11 +1,9 @@
 {
   "id": 5826,
   "name": "Swordshop Sign",
-  "models_2": {
-    "models": [
-      5653
-    ]
-  },
+  "models_2": [
+    5653
+  ],
   "unknown_24": 1430,
   "colours": [
     [

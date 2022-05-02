@@ -1,10 +1,8 @@
 {
   "id": 15466,
   "name": "Stone crusher",
-  "models_2": {
-    "models": [
-      13280
-    ]
-  },
+  "models_2": [
+    13280
+  ],
   "unknown_24": 3699
 }

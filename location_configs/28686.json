@@ -1,11 +1,9 @@
 {
   "id": 28686,
   "name": "Cavern entrance",
-  "models_2": {
-    "models": [
-      31476
-    ]
-  },
+  "models_2": [
+    31476
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "actions": [

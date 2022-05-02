@@ -1,11 +1,9 @@
 {
   "id": 29075,
   "name": "Drawers",
-  "models_2": {
-    "models": [
-      25880
-    ]
-  },
+  "models_2": [
+    25880
+  ],
   "colours": [
     [
       7706,

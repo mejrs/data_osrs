@@ -1,12 +1,10 @@
 {
   "id": 27416,
   "name": "Blighted Logavano plant",
-  "models_2": {
-    "models": [
-      30126,
-      7768
-    ]
-  },
+  "models_2": [
+    30126,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "is_transparent": true,

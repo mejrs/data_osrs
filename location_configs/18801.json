@@ -1,11 +1,9 @@
 {
   "id": 18801,
   "name": "Toy box",
-  "models_2": {
-    "models": [
-      19036
-    ]
-  },
+  "models_2": [
+    19036
+  ],
   "dim_x": 2,
   "ambient": 20,
   "actions": [

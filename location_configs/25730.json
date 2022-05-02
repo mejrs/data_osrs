@@ -1,11 +1,9 @@
 {
   "id": 25730,
   "name": "Range",
-  "models_2": {
-    "models": [
-      12616
-    ]
-  },
+  "models_2": [
+    12616
+  ],
   "dim_y": 2,
   "ambient": 20,
   "actions": [

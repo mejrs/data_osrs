@@ -1,11 +1,9 @@
 {
   "id": 30280,
   "name": "Shop Counter",
-  "models_2": {
-    "models": [
-      33119
-    ]
-  },
+  "models_2": [
+    33119
+  ],
   "dim_x": 2,
   "unknown_19": 1,
   "actions": [

@@ -1,11 +1,9 @@
 {
   "id": 3344,
   "name": "Brew Barrel",
-  "models_2": {
-    "models": [
-      1495
-    ]
-  },
+  "models_2": [
+    1495
+  ],
   "actions": [
     "Search",
     null,

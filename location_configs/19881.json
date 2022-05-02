@@ -1,11 +1,9 @@
 {
   "id": 19881,
   "name": "Campfire",
-  "models_2": {
-    "models": [
-      20040
-    ]
-  },
+  "models_2": [
+    20040
+  ],
   "unknown_19": 1,
   "unknown_24": 475,
   "colours": [

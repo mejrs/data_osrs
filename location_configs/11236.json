@@ -1,11 +1,9 @@
 {
   "id": 11236,
   "name": "Plunder Storage",
-  "models_2": {
-    "models": [
-      11205
-    ]
-  },
+  "models_2": [
+    11205
+  ],
   "actions": [
     "Count-plunder",
     "Store-plunder",

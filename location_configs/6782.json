@@ -1,11 +1,9 @@
 {
   "id": 6782,
   "name": "Limestone fireplace",
-  "models_2": {
-    "models": [
-      12612
-    ]
-  },
+  "models_2": [
+    12612
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "ambient": 20,

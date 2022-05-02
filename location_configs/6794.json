@@ -1,12 +1,10 @@
 {
   "id": 6794,
   "name": "Workbench",
-  "models_2": {
-    "models": [
-      12188,
-      10559
-    ]
-  },
+  "models_2": [
+    12188,
+    10559
+  ],
   "dim_x": 2,
   "actions": [
     "Work-at",

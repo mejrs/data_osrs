@@ -1,11 +1,9 @@
 {
   "id": 27888,
   "name": "Blood crystal",
-  "models_2": {
-    "models": [
-      30685
-    ]
-  },
+  "models_2": [
+    30685
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,

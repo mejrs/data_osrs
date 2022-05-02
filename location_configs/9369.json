@@ -1,11 +1,9 @@
 {
   "id": 9369,
   "name": "Private portal",
-  "models_2": {
-    "models": [
-      2318
-    ]
-  },
+  "models_2": [
+    2318
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 504,

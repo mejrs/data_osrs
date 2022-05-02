@@ -1,11 +1,9 @@
 {
   "id": 41724,
   "name": "Clan hall portal",
-  "models_2": {
-    "models": [
-      42246
-    ]
-  },
+  "models_2": [
+    42246
+  ],
   "dim_x": 3,
   "unknown_19": 1,
   "unknown_21": true,

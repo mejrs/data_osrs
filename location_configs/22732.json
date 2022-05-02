@@ -1,11 +1,9 @@
 {
   "id": 22732,
   "name": "Cogs",
-  "models_2": {
-    "models": [
-      23571
-    ]
-  },
+  "models_2": [
+    23571
+  ],
   "dim_y": 2,
   "is_transparent": true,
   "unknown_19": 1,

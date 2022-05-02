@@ -1,11 +1,9 @@
 {
   "id": 21731,
   "name": "Vines",
-  "models_2": {
-    "models": [
-      5007
-    ]
-  },
+  "models_2": [
+    5007
+  ],
   "unknown_21": true,
   "actions": [
     "Chop-down",

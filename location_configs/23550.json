@@ -1,9 +1,7 @@
 {
   "id": 23550,
   "name": "Spikes",
-  "models_2": {
-    "models": [
-      1745
-    ]
-  }
+  "models_2": [
+    1745
+  ]
 }

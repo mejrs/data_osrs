@@ -1,11 +1,9 @@
 {
   "id": 4169,
   "name": "Frozen table",
-  "models_2": {
-    "models": [
-      4302
-    ]
-  },
+  "models_2": [
+    4302
+  ],
   "unknown_19": 1,
   "colours": [
     [

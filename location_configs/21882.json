@@ -1,11 +1,9 @@
 {
   "id": 21882,
   "name": "Pipe",
-  "models_2": {
-    "models": [
-      22637
-    ]
-  },
+  "models_2": [
+    22637
+  ],
   "ambient": 25,
   "contrast": 25
 }

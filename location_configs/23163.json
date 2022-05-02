@@ -1,11 +1,9 @@
 {
   "id": 23163,
   "name": "Boulders",
-  "models_2": {
-    "models": [
-      15624
-    ]
-  },
+  "models_2": [
+    15624
+  ],
   "colours": [
     [
       30,

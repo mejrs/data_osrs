@@ -1,11 +1,9 @@
 {
   "id": 4656,
   "name": "Stool",
-  "models_2": {
-    "models": [
-      1161
-    ]
-  },
+  "models_2": [
+    1161
+  ],
   "is_transparent": true,
   "colours": [
     [

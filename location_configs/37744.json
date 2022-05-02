@@ -1,11 +1,9 @@
 {
   "id": 37744,
   "name": "Nightmare Blossom",
-  "models_2": {
-    "models": [
-      39200
-    ]
-  },
+  "models_2": [
+    39200
+  ],
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 8618,

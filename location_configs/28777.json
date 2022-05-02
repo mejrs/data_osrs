@@ -1,11 +1,9 @@
 {
   "id": 28777,
   "name": "Floor spikes",
-  "models_2": {
-    "models": [
-      3645
-    ]
-  },
+  "models_2": [
+    3645
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 1112,

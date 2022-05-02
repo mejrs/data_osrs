@@ -1,11 +1,9 @@
 {
   "id": 24607,
   "name": "Plaque",
-  "models_2": {
-    "models": [
-      25348
-    ]
-  },
+  "models_2": [
+    25348
+  ],
   "unknown_27": false,
   "ambient": 20,
   "actions": [

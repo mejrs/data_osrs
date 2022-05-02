@@ -1,11 +1,9 @@
 {
   "id": 30662,
   "name": "Grim lilly",
-  "models_2": {
-    "models": [
-      33686
-    ]
-  },
+  "models_2": [
+    33686
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 40,

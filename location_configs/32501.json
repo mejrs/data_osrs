@@ -1,11 +1,9 @@
 {
   "id": 32501,
   "name": "Glowing Orb",
-  "models_2": {
-    "models": [
-      16374
-    ]
-  },
+  "models_2": [
+    16374
+  ],
   "unknown_19": 1,
   "unknown_24": 7971,
   "ambient": 50,

@@ -1,11 +1,9 @@
 {
   "id": 38037,
   "name": "Broken equipment table",
-  "models_2": {
-    "models": [
-      39797
-    ]
-  },
+  "models_2": [
+    39797
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "colours": [

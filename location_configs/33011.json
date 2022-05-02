@@ -1,11 +1,9 @@
 {
   "id": 33011,
   "name": "War table",
-  "models_2": {
-    "models": [
-      35441
-    ]
-  },
+  "models_2": [
+    35441
+  ],
   "dim_x": 3,
   "dim_y": 5,
   "unknown_19": 1,

@@ -1,12 +1,10 @@
 {
   "id": 40848,
   "name": "Frozen ornate pool of Rejuvenation",
-  "models_2": {
-    "models": [
-      32101,
-      41515
-    ]
-  },
+  "models_2": [
+    32101,
+    41515
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

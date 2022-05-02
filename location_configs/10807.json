@@ -1,9 +1,7 @@
 {
   "id": 10807,
   "name": "Sandy's Coffee Mug",
-  "models_2": {
-    "models": [
-      10718
-    ]
-  }
+  "models_2": [
+    10718
+  ]
 }

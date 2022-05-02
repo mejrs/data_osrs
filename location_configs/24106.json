@@ -1,11 +1,9 @@
 {
   "id": 24106,
   "name": "Bar",
-  "models_2": {
-    "models": [
-      4304
-    ]
-  },
+  "models_2": [
+    4304
+  ],
   "is_transparent": true,
   "ambient": 10,
   "colours": [

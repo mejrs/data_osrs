@@ -1,11 +1,9 @@
 {
   "id": 1413,
   "name": "Pineapple Plant",
-  "models_2": {
-    "models": [
-      1582
-    ]
-  },
+  "models_2": [
+    1582
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,

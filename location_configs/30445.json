@@ -1,12 +1,10 @@
 {
   "id": 30445,
   "name": "Teak Tree",
-  "models_2": {
-    "models": [
-      33229,
-      7768
-    ]
-  },
+  "models_2": [
+    33229,
+    7768
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "ambient": 25,

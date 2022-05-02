@@ -1,11 +1,9 @@
 {
   "id": 15507,
   "name": "Wheat",
-  "models_2": {
-    "models": [
-      25300
-    ]
-  },
+  "models_2": [
+    25300
+  ],
   "unknown_17": false,
   "ambient": 20,
   "actions": [

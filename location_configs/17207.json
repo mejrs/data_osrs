@@ -1,9 +1,7 @@
 {
   "id": 17207,
   "name": "A Goblin standard",
-  "models_2": {
-    "models": [
-      17039
-    ]
-  }
+  "models_2": [
+    17039
+  ]
 }

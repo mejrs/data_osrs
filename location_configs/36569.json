@@ -1,11 +1,9 @@
 {
   "id": 36569,
   "name": "Silk stall",
-  "models_2": {
-    "models": [
-      37885
-    ]
-  },
+  "models_2": [
+    37885
+  ],
   "dim_x": 2,
   "dim_y": 2,
   "actions": [

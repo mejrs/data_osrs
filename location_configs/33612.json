@@ -1,11 +1,9 @@
 {
   "id": 33612,
   "name": "Unoccupied Cormorant perch",
-  "models_2": {
-    "models": [
-      19973
-    ]
-  },
+  "models_2": [
+    19973
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "actions": [

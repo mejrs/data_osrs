@@ -1,11 +1,9 @@
 {
   "id": 35967,
   "name": "Corrupt Deposit",
-  "models_2": {
-    "models": [
-      37604
-    ]
-  },
+  "models_2": [
+    37604
+  ],
   "is_transparent": true,
   "ambient": 30,
   "actions": [

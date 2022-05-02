@@ -1,14 +1,12 @@
 {
   "id": 12334,
   "name": "General Wartface",
-  "models_2": {
-    "models": [
-      24233,
-      24235,
-      24236,
-      24234
-    ]
-  },
+  "models_2": [
+    24233,
+    24235,
+    24236,
+    24234
+  ],
   "actions": [
     "Inspect",
     null,

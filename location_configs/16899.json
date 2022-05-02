@@ -1,12 +1,10 @@
 {
   "id": 16899,
   "name": "Wooden table",
-  "models_2": {
-    "models": [
-      4290,
-      4291
-    ]
-  },
+  "models_2": [
+    4290,
+    4291
+  ],
   "dim_y": 4,
   "is_transparent": true,
   "colours": [

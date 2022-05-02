@@ -1,11 +1,9 @@
 {
   "id": 2540,
   "name": "Stairs",
-  "models_2": {
-    "models": [
-      1287
-    ]
-  },
+  "models_2": [
+    1287
+  ],
   "actions": [
     "Walk-down",
     null,

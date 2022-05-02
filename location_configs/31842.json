@@ -1,11 +1,9 @@
 {
   "id": 31842,
   "name": "Decaying trunk",
-  "models_2": {
-    "models": [
-      34445
-    ]
-  },
+  "models_2": [
+    34445
+  ],
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_21": true,

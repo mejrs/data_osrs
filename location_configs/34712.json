@@ -1,11 +1,9 @@
 {
   "id": 34712,
   "name": "Twisted bush",
-  "models_2": {
-    "models": [
-      5524
-    ]
-  },
+  "models_2": [
+    5524
+  ],
   "is_transparent": true,
   "unknown_27": false,
   "actions": [

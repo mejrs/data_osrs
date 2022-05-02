@@ -1,11 +1,9 @@
 {
   "id": 30728,
   "name": "Strange stone",
-  "models_2": {
-    "models": [
-      33981
-    ]
-  },
+  "models_2": [
+    33981
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,

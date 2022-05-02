@@ -1,11 +1,9 @@
 {
   "id": 31843,
   "name": "<col=ffff00>Annette</col>",
-  "models_2": {
-    "models": [
-      33896
-    ]
-  },
+  "models_2": [
+    33896
+  ],
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 7647,

@@ -1,11 +1,9 @@
 {
   "id": 29101,
   "name": "Barrel",
-  "models_2": {
-    "models": [
-      10145
-    ]
-  },
+  "models_2": [
+    10145
+  ],
   "is_transparent": true,
   "ambient": 30,
   "category": 241,

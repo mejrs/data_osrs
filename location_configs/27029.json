@@ -1,11 +1,9 @@
 {
   "id": 27029,
   "name": "The Font of Consumption",
-  "models_2": {
-    "models": [
-      29513
-    ]
-  },
+  "models_2": [
+    29513
+  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,

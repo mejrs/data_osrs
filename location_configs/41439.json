@@ -1,11 +1,9 @@
 {
   "id": 41439,
   "name": "Ruins Entrance",
-  "models_2": {
-    "models": [
-      42026
-    ]
-  },
+  "models_2": [
+    42026
+  ],
   "dim_x": 3,
   "dim_y": 2,
   "unknown_19": 1,
