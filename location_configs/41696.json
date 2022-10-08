@@ -1,18 +1,21 @@
 {
   "id": 41696,
-  "name": "<col=ffff00>Hannibal</col>",
+  "name": "Chest",
   "models_2": [
-    42214
+    46278
   ],
-  "unknown_24": 8231,
-  "ambient": 10,
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
   "actions": [
-    "Pet",
+    "Open",
     null,
     null,
     null,
     null
   ],
-  "contrast": 15,
-  "mapscene": 82
+  "contrast": 30,
+  "category": 1658
 }

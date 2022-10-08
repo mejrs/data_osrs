@@ -5,12 +5,5 @@
     11207
   ],
   "dim_x": 2,
-  "dim_y": 2,
-  "actions": [
-    "Search",
-    "Close",
-    null,
-    null,
-    null
-  ]
+  "dim_y": 2
 }

@@ -1,0 +1,21 @@
+{
+  "id": 46145,
+  "models_2": [
+    45881
+  ],
+  "dim_x": 3,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 120,
+  "colours": [
+    [
+      6466,
+      8363
+    ]
+  ],
+  "mirror": true,
+  "model": false
+}

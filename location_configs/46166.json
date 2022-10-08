@@ -1,0 +1,16 @@
+{
+  "id": 46166,
+  "name": "Path of Het",
+  "models_2": [
+    45366
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 10,
+  "category": 1682,
+  "unknown_73": true
+}

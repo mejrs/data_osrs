@@ -1,0 +1,29 @@
+{
+  "id": 46181,
+  "name": "Urn",
+  "models_2": [
+    40073
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "contrast": 15,
+  "colours": [
+    [
+      5433,
+      5413
+    ],
+    [
+      5425,
+      5409
+    ],
+    [
+      5440,
+      5413
+    ],
+    [
+      39473,
+      40103
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 45371,
+  "models": [
+    [
+      22,
+      45796
+    ]
+  ],
+  "name": "Symbol",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 50,
+  "contrast": -44,
+  "colours": [
+    [
+      0,
+      685
+    ]
+  ]
+}

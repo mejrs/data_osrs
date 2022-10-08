@@ -1,0 +1,15 @@
+{
+  "id": 45753,
+  "name": "Open Sarcophagus",
+  "models_2": [
+    46131
+  ],
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30,
+  "category": 1677,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110
+}

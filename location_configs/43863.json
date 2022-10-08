@@ -1,20 +1,23 @@
 {
   "id": 43863,
-  "name": "Frozen churning machine",
+  "name": "Repaired polishing wheel",
   "models_2": [
-    44149
+    44824
   ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 9445,
+  "unknown_27": false,
+  "ambient": 0,
   "actions": [
-    "Operate",
+    "Inspect",
     null,
     null,
     null,
     null
   ],
-  "colours": [
-    [
-      33,
-      32803
-    ]
-  ]
+  "contrast": 30,
+  "unknown_69": 13
 }

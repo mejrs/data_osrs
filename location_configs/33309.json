@@ -1,6 +1,6 @@
 {
   "id": 33309,
-  "name": "Buckets",
+  "name": "Pile of Buckets",
   "models_2": [
     35919
   ],
@@ -9,7 +9,7 @@
   "unknown_27": false,
   "ambient": 15,
   "actions": [
-    "Take",
+    "Take-from",
     null,
     null,
     null,

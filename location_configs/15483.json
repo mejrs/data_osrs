@@ -1,20 +1,27 @@
 {
   "id": 15483,
-  "models": [
+  "name": "Entry",
+  "models_2": [
+    45359
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
     [
-      22,
-      13575
+      12,
+      4
+    ],
+    [
+      16,
+      8
+    ],
+    [
+      18,
+      16
     ]
   ],
-  "name": "Skull slope",
-  "unknown_21": true,
-  "unknown_27": false,
-  "actions": [
-    "Climb-up",
-    null,
-    null,
-    null,
-    null
-  ],
+  "category": 1657,
   "unknown_73": true
 }

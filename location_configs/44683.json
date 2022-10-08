@@ -1,0 +1,13 @@
+{
+  "id": 44683,
+  "name": "Moulds",
+  "models_2": [
+    44820
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 15,
+  "model": false
+}

@@ -1,17 +1,27 @@
 {
   "id": 43866,
-  "dim_x": 4,
+  "name": "Big chest",
+  "models_2": [
+    44907
+  ],
+  "dim_x": 2,
   "dim_y": 2,
-  "unknown_19": 1,
-  "morphs_1": {
-    "varbit": 13825,
-    "ids": [
-      43856,
-      43857,
-      43858,
-      43859,
-      43860,
-      43861
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Use",
+    "Inspect",
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      43096,
+      61
     ]
-  }
+  ],
+  "category": 237
 }

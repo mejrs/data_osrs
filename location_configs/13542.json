@@ -8,7 +8,7 @@
   "ambient": 25,
   "actions": [
     null,
-    null,
+    "Cook",
     null,
     null,
     "Remove"

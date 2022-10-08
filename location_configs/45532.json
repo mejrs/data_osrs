@@ -1,0 +1,15 @@
+{
+  "id": 45532,
+  "name": "<col=ffff00>Crocodile</col>",
+  "models_2": [
+    46372
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 5,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200
+}

@@ -15,5 +15,8 @@
     null
   ],
   "category": 194,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "params": {
+    "1545": 1
+  }
 }

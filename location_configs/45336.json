@@ -1,0 +1,14 @@
+{
+  "id": 45336,
+  "name": "Barrier",
+  "models_2": [
+    45362
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 9495,
+  "ambient": 60,
+  "contrast": 60,
+  "unknown_75": 0,
+  "unknown_89": false
+}

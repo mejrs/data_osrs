@@ -1,0 +1,28 @@
+{
+  "id": 44804,
+  "name": "Flag",
+  "models_2": [
+    3321
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 917,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      6932,
+      6689
+    ],
+    [
+      8662,
+      704
+    ],
+    [
+      7626,
+      693
+    ]
+  ],
+  "translate_y": 120
+}

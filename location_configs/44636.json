@@ -1,0 +1,16 @@
+{
+  "id": 44636,
+  "name": "Exit",
+  "models_2": [
+    44908
+  ],
+  "dim_x": 4,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

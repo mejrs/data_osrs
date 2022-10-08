@@ -1,0 +1,19 @@
+{
+  "id": 44629,
+  "name": "Mould jig (Cooled metal)",
+  "models_2": [
+    44825
+  ],
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "model": false
+}

@@ -9,7 +9,7 @@
   "ambient": 25,
   "actions": [
     "Take-kettle",
-    null,
+    "Cook",
     null,
     null,
     null

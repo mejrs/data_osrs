@@ -1,0 +1,13 @@
+{
+  "id": 44761,
+  "name": "Waterwheel",
+  "models_2": [
+    44905
+  ],
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_24": 9450,
+  "ambient": -10,
+  "contrast": 30,
+  "model": false
+}

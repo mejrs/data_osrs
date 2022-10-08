@@ -19,5 +19,8 @@
   "category": 591,
   "scale_x": 128,
   "scale_y": 128,
-  "scale_z": 128
+  "scale_z": 128,
+  "params": {
+    "1545": 1
+  }
 }

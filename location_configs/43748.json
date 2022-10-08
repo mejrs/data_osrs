@@ -13,13 +13,6 @@
   "unknown_24": 9366,
   "unknown_27": false,
   "ambient": 50,
-  "actions": [
-    "Inspect",
-    null,
-    null,
-    null,
-    null
-  ],
   "contrast": 50,
   "category": 1619,
   "params": {

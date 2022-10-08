@@ -1,20 +1,16 @@
 {
   "id": 10068,
-  "name": "Sacrificial boat",
-  "models_2": [
-    5280
-  ],
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": -10,
-  "actions": [
-    "Board",
-    "Quick-Board",
-    null,
-    null,
-    null
-  ],
-  "contrast": 5
+  "morphs_2": {
+    "varbit": 4391,
+    "ids": [
+      46241,
+      46241,
+      46241
+    ],
+    "default": 46242
+  }
 }

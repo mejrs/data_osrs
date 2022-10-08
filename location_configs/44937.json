@@ -1,0 +1,20 @@
+{
+  "id": 44937,
+  "name": "Loot!",
+  "models_2": [
+    45334,
+    45336
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 9507,
+  "ambient": 60,
+  "contrast": 30,
+  "colours": [
+    [
+      0,
+      125
+    ]
+  ]
+}

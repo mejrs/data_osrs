@@ -1,0 +1,18 @@
+{
+  "id": 45485,
+  "name": "Shielded statue",
+  "models_2": [
+    46183
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 70,
+  "category": 1670,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256
+}

@@ -1,0 +1,29 @@
+{
+  "id": 45138,
+  "name": "Teleport crystal",
+  "models_2": [
+    46430
+  ],
+  "unknown_24": 8105,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      62292,
+      97
+    ],
+    [
+      62397,
+      123
+    ]
+  ],
+  "category": 1660
+}

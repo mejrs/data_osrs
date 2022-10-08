@@ -1,0 +1,16 @@
+{
+  "id": 46157,
+  "name": "Path of Scabaras",
+  "models_2": [
+    45364
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10,
+  "category": 1679,
+  "unknown_73": true
+}

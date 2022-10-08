@@ -1,0 +1,39 @@
+{
+  "id": 44718,
+  "models": [
+    [
+      0,
+      44892
+    ],
+    [
+      9,
+      44877
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      16,
+      38040
+    ],
+    [
+      12,
+      38036
+    ],
+    [
+      8,
+      38040
+    ],
+    [
+      4,
+      38036
+    ]
+  ],
+  "mirror": true,
+  "model": false,
+  "scale_y": 64
+}

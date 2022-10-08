@@ -1,0 +1,19 @@
+{
+  "id": 45334,
+  "name": "Fire",
+  "models_2": [
+    45323
+  ],
+  "unknown_19": 1,
+  "unknown_24": 9808,
+  "ambient": 60,
+  "contrast": 60,
+  "colours": [
+    [
+      6082,
+      478
+    ]
+  ],
+  "translate_y": 65386,
+  "translate_z": 65522
+}

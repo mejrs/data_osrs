@@ -1,0 +1,13 @@
+{
+  "id": 45518,
+  "name": "Debris",
+  "models_2": [
+    46124
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "ambient": -10,
+  "contrast": 10,
+  "model": false
+}

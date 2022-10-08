@@ -2,25 +2,19 @@
   "id": 1747,
   "models": [
     [
-      0,
-      966
-    ],
-    [
-      1,
-      967
-    ],
-    [
-      9,
-      968
+      22,
+      13575
     ]
   ],
-  "is_transparent": true,
-  "unknown_19": 0,
-  "colours": [
-    [
-      6040,
-      6689
-    ]
+  "name": "Skull slope",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
   ],
-  "mirror": true
+  "unknown_73": true
 }

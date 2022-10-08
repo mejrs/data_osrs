@@ -1,0 +1,23 @@
+{
+  "id": 45204,
+  "name": "Gilded stand",
+  "models_2": [
+    40106
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      10299,
+      8012
+    ],
+    [
+      10281,
+      7618
+    ]
+  ]
+}

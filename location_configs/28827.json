@@ -17,5 +17,8 @@
   ],
   "category": 949,
   "unknown_69": 13,
-  "mapscene": 71
+  "mapscene": 71,
+  "params": {
+    "1545": 1
+  }
 }

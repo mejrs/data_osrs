@@ -1,0 +1,19 @@
+{
+  "id": 45542,
+  "name": "Debris",
+  "models_2": [
+    46235
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 40,
+  "colours": [
+    [
+      40099,
+      43038
+    ]
+  ],
+  "model": false
+}

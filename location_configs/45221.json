@@ -1,0 +1,16 @@
+{
+  "id": 45221,
+  "name": "Fog",
+  "models_2": [
+    45343
+  ],
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 50,
+  "contrast": 100,
+  "textures": {
+    "98": 111
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": 46074,
+  "name": "Invocation Board",
+  "models_2": [
+    46194
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 10
+}

@@ -16,5 +16,8 @@
     null,
     null
   ],
-  "category": 193
+  "category": 193,
+  "params": {
+    "1545": 1
+  }
 }

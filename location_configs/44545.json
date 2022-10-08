@@ -1,14 +1,24 @@
 {
   "id": 44545,
-  "models_2": [
-    44533
-  ],
-  "dim_x": 7,
-  "dim_y": 7,
-  "unknown_19": 0,
-  "unknown_21": true,
-  "unknown_22": true,
-  "ambient": 10,
-  "contrast": 0,
-  "model": false
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 9504,
+  "unknown_27": false,
+  "category": 1658,
+  "scale_x": 84,
+  "scale_y": 84,
+  "scale_z": 84,
+  "unknown_69": 11,
+  "morphs_2": {
+    "varbit": 14357,
+    "ids": [
+      41696,
+      41696,
+      44786,
+      41696,
+      44791
+    ],
+    "default": 41696
+  }
 }

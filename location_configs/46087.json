@@ -1,0 +1,23 @@
+{
+  "id": 46087,
+  "name": "Exit",
+  "models_2": [
+    46041
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "unknown_73": true
+}

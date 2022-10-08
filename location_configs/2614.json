@@ -1,16 +1,18 @@
 {
   "id": 2614,
-  "name": "Coffin",
+  "name": "Dynamite(p)",
   "models_2": [
-    11206
+    30180
   ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "actions": [
-    "Open",
-    null,
-    null,
-    null,
-    null
+  "unknown_17": false,
+  "colours": [
+    [
+      9661,
+      17191
+    ],
+    [
+      9670,
+      17205
+    ]
   ]
 }

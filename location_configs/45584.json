@@ -1,0 +1,24 @@
+{
+  "id": 45584,
+  "models_2": [
+    15524
+  ],
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 4217,
+  "colours": [
+    [
+      28764,
+      685
+    ],
+    [
+      27856,
+      685
+    ]
+  ],
+  "scale_x": 250,
+  "scale_y": 250,
+  "scale_z": 250,
+  "translate_y": 100
+}

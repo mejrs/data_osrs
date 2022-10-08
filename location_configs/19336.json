@@ -16,5 +16,8 @@
     null
   ],
   "category": 592,
-  "mirror": true
+  "mirror": true,
+  "params": {
+    "1545": 1
+  }
 }

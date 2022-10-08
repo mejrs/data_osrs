@@ -1,0 +1,22 @@
+{
+  "id": 45535,
+  "name": "Bushes",
+  "models_2": [
+    46328
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 20,
+  "colours": [
+    [
+      652,
+      21652
+    ],
+    [
+      2960,
+      3604
+    ]
+  ],
+  "mirror": true
+}

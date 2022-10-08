@@ -1,0 +1,15 @@
+{
+  "id": 45183,
+  "name": "Mural",
+  "models_2": [
+    46269
+  ],
+  "dim_x": 7,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 25,
+  "scale_y": 178,
+  "scale_z": 178
+}

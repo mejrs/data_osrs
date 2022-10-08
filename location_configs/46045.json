@@ -1,0 +1,11 @@
+{
+  "id": 46045,
+  "name": "Khopesh and Shield",
+  "models_2": [
+    46193
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 30
+}

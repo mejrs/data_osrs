@@ -22,5 +22,8 @@
   ],
   "category": 191,
   "unknown_75": 0,
-  "mapscene": 68
+  "mapscene": 68,
+  "params": {
+    "1545": 1
+  }
 }

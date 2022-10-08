@@ -1,0 +1,27 @@
+{
+  "id": 45491,
+  "models": [
+    [
+      22,
+      30856
+    ]
+  ],
+  "name": "Broken seal",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      33,
+      8542
+    ],
+    [
+      5281,
+      10452
+    ],
+    [
+      24,
+      37945
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 46226,
+  "name": "Mounted Max Cape",
+  "models_2": [
+    46520
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Commune",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "category": 206
+}

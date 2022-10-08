@@ -1,14 +1,11 @@
 {
   "id": 43854,
-  "name": "Dirty ground",
-  "models_2": [
-    28472
+  "models": [
+    [
+      22,
+      1105
+    ]
   ],
-  "actions": [
-    "Place",
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_73": true,
+  "maparea_id": 858
 }

@@ -1,0 +1,13 @@
+{
+  "id": 45416,
+  "name": "Spear",
+  "models_2": [
+    46212
+  ],
+  "dim_x": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 9562,
+  "ambient": 20,
+  "contrast": 10
+}
