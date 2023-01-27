@@ -1,0 +1,14 @@
+{
+  "id": 46692,
+  "name": "Strange Barrier",
+  "models_2": [
+    47122
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 9203,
+  "ambient": 40,
+  "contrast": 30,
+  "model": false
+}

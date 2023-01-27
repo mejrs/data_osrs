@@ -1,0 +1,22 @@
+{
+  "id": 46324,
+  "name": "Tent",
+  "models_2": [
+    23975
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "scale_x": 110,
+  "scale_z": 110
+}

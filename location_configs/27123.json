@@ -1,51 +1,18 @@
 {
   "id": 27123,
-  "models": [
-    [
-      10,
-      11940
-    ],
-    [
-      22,
-      16232
-    ]
-  ],
   "name": "Dead mushroom ring",
+  "models_2": [
+    6318
+  ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 20,
+  "ambient": 60,
   "actions": [
     "Use",
     null,
     null,
     null,
     null
-  ],
-  "colours": [
-    [
-      24524,
-      32807
-    ],
-    [
-      24388,
-      32803
-    ],
-    [
-      37817,
-      32798
-    ],
-    [
-      38835,
-      24734
-    ],
-    [
-      957,
-      24734
-    ],
-    [
-      941,
-      24734
-    ]
   ]
 }

@@ -1,7 +1,9 @@
 {
   "id": 29495,
   "unknown_19": 1,
+  "unknown_24": 9845,
   "unknown_27": false,
+  "ambient": 60,
   "category": 522,
   "morphs_1": {
     "varbit": 5374,

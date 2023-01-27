@@ -1,0 +1,24 @@
+{
+  "id": 46605,
+  "name": "Damaged Table",
+  "models_2": [
+    47003
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 0,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "colours": [
+    [
+      6439,
+      32867
+    ]
+  ]
+}

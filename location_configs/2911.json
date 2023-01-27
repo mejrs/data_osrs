@@ -6,8 +6,8 @@
   ],
   "dim_y": 2,
   "actions": [
-    "Look",
     "Search",
+    null,
     null,
     null,
     null

@@ -1,0 +1,32 @@
+{
+  "id": 46529,
+  "name": "Snow",
+  "models_2": [
+    20485
+  ],
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      127,
+      38011
+    ],
+    [
+      119,
+      38003
+    ],
+    [
+      111,
+      37991
+    ],
+    [
+      103,
+      37982
+    ]
+  ],
+  "model": false,
+  "scale_y": 64,
+  "unknown_75": 0
+}

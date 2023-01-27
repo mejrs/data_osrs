@@ -7,8 +7,9 @@
     20493,
     20494
   ],
-  "unknown_17": false,
+  "is_transparent": true,
   "unknown_24": 5058,
+  "unknown_27": false,
   "ambient": 30,
   "actions": [
     "Dig-up",

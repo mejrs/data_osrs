@@ -4,6 +4,7 @@
   "models_2": [
     8902
   ],
+  "ambient": 20,
   "actions": [
     "Chop down",
     null,
@@ -11,6 +12,7 @@
     null,
     null
   ],
+  "contrast": 20,
   "colours": [
     [
       3470,

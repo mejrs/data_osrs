@@ -1,0 +1,12 @@
+{
+  "id": 46579,
+  "name": "Boulder",
+  "models_2": [
+    1406
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "mapscene": 12
+}

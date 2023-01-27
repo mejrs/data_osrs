@@ -1,15 +1,12 @@
 {
   "id": 2856,
-  "name": "Chest",
-  "models_2": [
-    1249
-  ],
-  "actions": [
-    "Open",
-    null,
-    null,
-    null,
-    null
-  ],
-  "unknown_69": 14
+  "unknown_19": 0,
+  "morphs_2": {
+    "varbit": 14725,
+    "ids": [
+      46567,
+      46568
+    ],
+    "default": 46567
+  }
 }

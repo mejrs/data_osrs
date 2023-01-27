@@ -6,8 +6,8 @@
   ],
   "unknown_17": false,
   "actions": [
-    "Look",
-    "Search",
+    "Take",
+    null,
     null,
     null,
     null

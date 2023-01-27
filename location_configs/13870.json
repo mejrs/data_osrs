@@ -12,8 +12,8 @@
   "unknown_21": true,
   "ambient": 7,
   "actions": [
-    "Look-at",
     "Continue-trek",
+    "Look-at",
     null,
     null,
     null

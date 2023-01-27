@@ -1,49 +1,15 @@
 {
   "id": 43108,
-  "models": [
-    [
-      22,
-      43521
-    ]
+  "name": "Desecrated Tomb",
+  "models_2": [
+    47361
   ],
-  "name": "Fairy ring",
+  "dim_x": 5,
+  "dim_y": 3,
   "unknown_19": 1,
   "unknown_21": true,
+  "unknown_24": 10028,
   "unknown_27": false,
-  "ambient": 20,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination",
-    null,
-    null
-  ],
-  "colours": [
-    [
-      24524,
-      32790
-    ],
-    [
-      24388,
-      32786
-    ],
-    [
-      37817,
-      32910
-    ],
-    [
-      38835,
-      32906
-    ],
-    [
-      957,
-      32906
-    ],
-    [
-      941,
-      32906
-    ]
-  ],
-  "category": 522,
-  "unknown_73": true
+  "ambient": 25,
+  "contrast": 15
 }

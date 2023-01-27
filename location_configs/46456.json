@@ -1,0 +1,43 @@
+{
+  "id": 46456,
+  "name": "Large Magical Snow",
+  "models_2": [
+    20484
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      127,
+      38011
+    ],
+    [
+      119,
+      38003
+    ],
+    [
+      111,
+      37991
+    ],
+    [
+      103,
+      37982
+    ]
+  ],
+  "category": 1747,
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256
+}

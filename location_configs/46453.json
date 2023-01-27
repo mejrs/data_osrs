@@ -1,0 +1,28 @@
+{
+  "id": 46453,
+  "name": "Golden snowball",
+  "models_2": [
+    2846
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7952,
+      8644
+    ]
+  ],
+  "category": 1746,
+  "model": false,
+  "scale_x": 18,
+  "scale_y": 18,
+  "scale_z": 18
+}

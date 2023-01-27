@@ -1,0 +1,22 @@
+{
+  "id": 46995,
+  "name": "Crevice",
+  "models_2": [
+    47377
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Jump-Down",
+    "Peek",
+    "Check-Fee",
+    null,
+    null
+  ],
+  "contrast": 95,
+  "model": false,
+  "mapscene": 7
+}

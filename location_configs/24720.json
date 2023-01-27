@@ -6,8 +6,16 @@
       2214
     ],
     [
+      1,
+      46749
+    ],
+    [
       2,
       4873
+    ],
+    [
+      3,
+      46750
     ],
     [
       4,
@@ -22,5 +30,7 @@
       16238
     ]
   ],
-  "unknown_17": false
+  "is_transparent": true,
+  "unknown_27": false,
+  "model": false
 }

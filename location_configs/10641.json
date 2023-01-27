@@ -8,6 +8,13 @@
   "dim_x": 2,
   "unknown_24": 2997,
   "ambient": 10,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
   "colours": [
     [
       5545,

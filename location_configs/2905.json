@@ -5,8 +5,8 @@
     2143
   ],
   "actions": [
-    "Look",
     "Search",
+    null,
     null,
     null,
     null

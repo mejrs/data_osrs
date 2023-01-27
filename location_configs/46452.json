@@ -1,0 +1,16 @@
+{
+  "id": 46452,
+  "name": "Gingerbread",
+  "models_2": [
+    46904
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Pickup",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1745
+}

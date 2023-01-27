@@ -6,6 +6,8 @@
   ],
   "dim_x": 2,
   "dim_y": 2,
+  "ambient": 15,
+  "contrast": 15,
   "scale_x": 150,
   "scale_y": 150,
   "mapscene": 5

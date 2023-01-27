@@ -6,7 +6,7 @@
   ],
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 15,
+  "ambient": 25,
   "actions": [
     "Cook",
     null,
@@ -14,6 +14,7 @@
     null,
     null
   ],
+  "contrast": 10,
   "unknown_69": 7,
   "unknown_78": {
     "unknown_1": 2065,

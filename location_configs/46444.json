@@ -1,0 +1,18 @@
+{
+  "id": 46444,
+  "name": "Pile of coal",
+  "models_2": [
+    46899
+  ],
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 1743
+}

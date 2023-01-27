@@ -1,0 +1,12 @@
+{
+  "id": 46320,
+  "name": "Paladin",
+  "models_2": [
+    46783
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25
+}

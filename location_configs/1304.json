@@ -6,11 +6,14 @@
   ],
   "dim_x": 2,
   "dim_y": 2,
+  "ambient": 15,
+  "contrast": 15,
   "colours": [
     [
       6693,
       6699
     ]
   ],
+  "model": false,
   "mapscene": 5
 }

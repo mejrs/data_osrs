@@ -10,7 +10,7 @@
   "unknown_19": 1,
   "actions": [
     "Walk-through",
-    "Look",
+    null,
     null,
     null,
     null

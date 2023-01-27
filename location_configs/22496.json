@@ -11,8 +11,8 @@
   "unknown_19": 1,
   "unknown_21": true,
   "actions": [
-    "Look-at",
     "Return-to-Paterdomus",
+    "Look-at",
     null,
     null,
     null

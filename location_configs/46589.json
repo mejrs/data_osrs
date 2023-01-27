@@ -1,0 +1,16 @@
+{
+  "id": 46589,
+  "name": "Cooking shelves",
+  "models_2": [
+    1271
+  ],
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

@@ -2,29 +2,11 @@
   "id": 31815,
   "name": "Paladin",
   "models_2": [
-    29678
+    46786
   ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_27": false,
   "ambient": 25,
-  "contrast": 25,
-  "colours": [
-    [
-      4626,
-      24
-    ],
-    [
-      6798,
-      6798
-    ],
-    [
-      55198,
-      35026
-    ],
-    [
-      43072,
-      4550
-    ]
-  ]
+  "contrast": 25
 }

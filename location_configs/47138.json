@@ -1,0 +1,20 @@
+{
+  "id": 47138,
+  "models_2": [
+    818
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      6689,
+      12
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

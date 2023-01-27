@@ -1,0 +1,25 @@
+{
+  "id": 47069,
+  "name": "Web sack",
+  "models_2": [
+    42812
+  ],
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      10442,
+      30007
+    ],
+    [
+      10429,
+      29997
+    ],
+    [
+      10413,
+      29861
+    ]
+  ],
+  "model": false
+}

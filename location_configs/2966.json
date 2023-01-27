@@ -7,8 +7,8 @@
   "dim_x": 3,
   "dim_y": 3,
   "actions": [
-    "Look",
     "Search",
+    null,
     null,
     null,
     null

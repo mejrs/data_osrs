@@ -1,0 +1,11 @@
+{
+  "id": 46418,
+  "name": "Strange Vine",
+  "models_2": [
+    46829
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 40
+}

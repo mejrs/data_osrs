@@ -1,0 +1,13 @@
+{
+  "id": 46638,
+  "name": "Crevice",
+  "models_2": [
+    47045
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 0,
+  "contrast": 35,
+  "model": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 46697,
+  "name": "Spike",
+  "models_2": [
+    47161
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 9952,
+  "ambient": 50,
+  "model": false,
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 128,
+  "unknown_89": false
+}

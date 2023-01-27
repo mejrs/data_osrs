@@ -1,0 +1,16 @@
+{
+  "id": 46676,
+  "name": "Smashed Chair",
+  "models_2": [
+    1242
+  ],
+  "is_transparent": true,
+  "ambient": 0,
+  "contrast": 35,
+  "colours": [
+    [
+      4886,
+      6439
+    ]
+  ]
+}

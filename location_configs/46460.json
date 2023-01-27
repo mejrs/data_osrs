@@ -1,0 +1,13 @@
+{
+  "id": 46460,
+  "name": "Candycane Fence",
+  "models_2": [
+    46878
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "model": false
+}

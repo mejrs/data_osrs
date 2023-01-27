@@ -1,0 +1,19 @@
+{
+  "id": 46665,
+  "name": "Blockage",
+  "models_2": [
+    47051
+  ],
+  "dim_x": 4,
+  "unknown_22": true,
+  "ambient": 0,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "model": false
+}

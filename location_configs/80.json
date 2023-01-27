@@ -6,8 +6,9 @@
       609
     ]
   ],
-  "name": "Prison Door",
+  "name": "Prison Gate",
   "is_transparent": true,
+  "unknown_19": 1,
   "actions": [
     "Open",
     null,

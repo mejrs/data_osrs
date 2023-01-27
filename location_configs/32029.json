@@ -13,5 +13,6 @@
   "is_transparent": true,
   "unknown_21": true,
   "unknown_22": true,
-  "ambient": 35
+  "ambient": 35,
+  "model": false
 }

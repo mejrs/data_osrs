@@ -1,0 +1,10 @@
+{
+  "id": 46307,
+  "name": "Spooky Stocks",
+  "models_2": [
+    46695
+  ],
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 20
+}

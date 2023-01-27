@@ -5,8 +5,8 @@
     1224
   ],
   "actions": [
-    "Look-at",
     "Search",
+    null,
     null,
     null,
     null

@@ -1,0 +1,18 @@
+{
+  "id": 46445,
+  "name": "Large Pile of Coal",
+  "models_2": [
+    46880
+  ],
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 1743
+}

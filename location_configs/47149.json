@@ -1,0 +1,17 @@
+{
+  "id": 47149,
+  "name": "Exit",
+  "models_2": [
+    1487,
+    13909
+  ],
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46492,
+  "models_2": [
+    1161
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 15,
+  "colours": [
+    [
+      3986,
+      7706
+    ],
+    [
+      933,
+      926
+    ],
+    [
+      8128,
+      7607
+    ]
+  ],
+  "scale_x": 120,
+  "scale_y": 135,
+  "scale_z": 120
+}
