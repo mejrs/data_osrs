@@ -1,0 +1,21 @@
+{
+  "id": 47342,
+  "name": "Arena",
+  "models_2": [
+    47954
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": -20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 55,
+  "unknown_75": 0
+}

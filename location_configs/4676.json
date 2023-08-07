@@ -1,13 +1,13 @@
 {
   "id": 4676,
-  "name": "Rocks",
+  "name": "Coal rocks",
   "models_2": [
     1390
   ],
   "is_transparent": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

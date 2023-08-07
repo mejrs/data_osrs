@@ -1,0 +1,35 @@
+{
+  "id": 49440,
+  "name": "Water Axon Terminal",
+  "models_2": [
+    49399,
+    48351
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 7304,
+  "ambient": 30,
+  "contrast": 15,
+  "colours": [
+    [
+      59813,
+      40788
+    ],
+    [
+      59806,
+      40629
+    ],
+    [
+      59811,
+      40792
+    ],
+    [
+      59821,
+      40536
+    ]
+  ],
+  "category": 1838,
+  "model": false
+}

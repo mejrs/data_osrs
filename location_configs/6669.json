@@ -1,13 +1,13 @@
 {
   "id": 6669,
-  "name": "Rocks",
+  "name": "Magical rocks",
   "models_2": [
     3184
   ],
   "is_transparent": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

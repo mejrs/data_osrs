@@ -1,0 +1,11 @@
+{
+  "id": 48933,
+  "name": "Vault Door",
+  "models_2": [
+    47073
+  ],
+  "dim_x": 3,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 20
+}

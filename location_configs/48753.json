@@ -1,0 +1,26 @@
+{
+  "id": 48753,
+  "name": "Barricade",
+  "models_2": [
+    20768
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      5656,
+      5268
+    ],
+    [
+      6705,
+      5417
+    ],
+    [
+      6589,
+      5425
+    ]
+  ],
+  "scale_x": 140,
+  "scale_z": 140
+}

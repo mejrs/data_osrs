@@ -1,0 +1,26 @@
+{
+  "id": 48497,
+  "models": [
+    [
+      22,
+      1631
+    ]
+  ],
+  "name": "Tendril",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 40,
+  "contrast": 20,
+  "colours": [
+    [
+      929,
+      654
+    ],
+    [
+      931,
+      652
+    ]
+  ],
+  "category": 1826
+}

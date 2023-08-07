@@ -1,0 +1,30 @@
+{
+  "id": 48779,
+  "name": "Altar",
+  "models_2": [
+    48292
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      9019,
+      677
+    ],
+    [
+      49054,
+      142
+    ]
+  ]
+}

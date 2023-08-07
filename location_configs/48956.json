@@ -1,0 +1,14 @@
+{
+  "id": 48956,
+  "models": [
+    [
+      4,
+      49018
+    ]
+  ],
+  "name": "Flag",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 35
+}

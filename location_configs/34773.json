@@ -11,7 +11,7 @@
   "unknown_22": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

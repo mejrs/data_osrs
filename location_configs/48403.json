@@ -1,0 +1,27 @@
+{
+  "id": 48403,
+  "name": "Strangled Tree",
+  "models_2": [
+    49131,
+    49152
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      5161,
+      41
+    ],
+    [
+      5157,
+      37
+    ]
+  ],
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192,
+  "mapscene": 108
+}

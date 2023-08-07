@@ -1,0 +1,22 @@
+{
+  "id": 49099,
+  "models": [
+    [
+      0,
+      48734
+    ]
+  ],
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 0,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "model": false
+}

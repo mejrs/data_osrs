@@ -1,6 +1,6 @@
 {
   "id": 11372,
-  "name": "Rocks",
+  "name": "Mithril rocks",
   "models_2": [
     1390
   ],
@@ -8,7 +8,7 @@
   "unknown_21": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

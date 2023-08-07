@@ -9,6 +9,8 @@
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
+  "ambient": 10,
+  "contrast": 20,
   "colours": [
     [
       6689,
@@ -16,5 +18,5 @@
     ]
   ],
   "model": false,
-  "mapscene": 12
+  "mapscene": 119
 }

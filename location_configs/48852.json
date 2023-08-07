@@ -1,0 +1,23 @@
+{
+  "id": 48852,
+  "models_2": [
+    48903
+  ],
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      7863,
+      6709
+    ],
+    [
+      6703,
+      6697
+    ]
+  ]
+}

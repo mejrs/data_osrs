@@ -1,0 +1,12 @@
+{
+  "id": 48163,
+  "name": "Table",
+  "models_2": [
+    48551
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 10
+}

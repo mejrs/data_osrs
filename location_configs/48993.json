@@ -1,0 +1,23 @@
+{
+  "id": 48993,
+  "models": [
+    [
+      0,
+      48728
+    ],
+    [
+      1,
+      48729
+    ],
+    [
+      2,
+      48730
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 0,
+  "contrast": 35,
+  "model": false
+}

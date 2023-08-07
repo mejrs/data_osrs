@@ -1,0 +1,11 @@
+{
+  "id": 49088,
+  "name": "Cabinet",
+  "models_2": [
+    48562
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 15
+}

@@ -1,6 +1,6 @@
 {
   "id": 11378,
-  "name": "Rocks",
+  "name": "Blurite rocks",
   "models_2": [
     1390
   ],
@@ -9,7 +9,7 @@
   "ambient": 20,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

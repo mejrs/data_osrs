@@ -1,0 +1,49 @@
+{
+  "id": 49424,
+  "name": "Gunpowder",
+  "models_2": [
+    8232,
+    24821
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Burn`",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5388,
+      790
+    ],
+    [
+      5541,
+      7587
+    ],
+    [
+      5665,
+      7582
+    ],
+    [
+      5660,
+      7706
+    ],
+    [
+      5784,
+      7830
+    ],
+    [
+      5904,
+      7954
+    ]
+  ],
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200
+}

@@ -1,0 +1,20 @@
+{
+  "id": 47536,
+  "name": "Fermentation Vat",
+  "models_2": [
+    49081
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Fill",
+    null,
+    "Check",
+    "Empty",
+    null
+  ],
+  "contrast": 20
+}

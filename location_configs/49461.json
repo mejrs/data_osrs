@@ -1,0 +1,16 @@
+{
+  "id": 49461,
+  "name": "Table",
+  "models_2": [
+    42365,
+    42364
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "category": 154
+}

@@ -1,0 +1,14 @@
+{
+  "id": 48189,
+  "name": "Lamp",
+  "models_2": [
+    49342
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 8697,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10
+}

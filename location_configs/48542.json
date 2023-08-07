@@ -1,0 +1,35 @@
+{
+  "id": 48542,
+  "name": "Strangled Fern",
+  "models_2": [
+    1642
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      43204
+    ],
+    [
+      49,
+      43195
+    ],
+    [
+      41,
+      3350
+    ],
+    [
+      37,
+      3346
+    ],
+    [
+      33,
+      3470
+    ]
+  ],
+  "model": false
+}

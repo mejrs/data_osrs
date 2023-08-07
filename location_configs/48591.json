@@ -1,0 +1,14 @@
+{
+  "id": 48591,
+  "name": "Strangled Tent",
+  "models_2": [
+    48571
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 30,
+  "model": false
+}

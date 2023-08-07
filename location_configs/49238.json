@@ -1,0 +1,13 @@
+{
+  "id": 49238,
+  "name": "Broken Pillar",
+  "models_2": [
+    48474
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 35,
+  "contrast": 30
+}

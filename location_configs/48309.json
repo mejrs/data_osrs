@@ -1,0 +1,29 @@
+{
+  "id": 48309,
+  "name": "Portal",
+  "models_2": [
+    44057
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 9400,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      0,
+      33102
+    ]
+  ],
+  "model": false,
+  "scale_x": 120,
+  "scale_z": 120
+}

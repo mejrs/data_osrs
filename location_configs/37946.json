@@ -4,10 +4,9 @@
   "models_2": [
     1390
   ],
-  "is_transparent": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

@@ -1,0 +1,42 @@
+{
+  "id": 47603,
+  "name": "Rocks",
+  "models_2": [
+    11797
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Leave",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      30,
+      158
+    ],
+    [
+      35,
+      161
+    ],
+    [
+      39,
+      57
+    ],
+    [
+      43,
+      51
+    ]
+  ],
+  "category": 1814,
+  "model": false,
+  "scale_x": 64,
+  "scale_y": 80,
+  "scale_z": 64
+}

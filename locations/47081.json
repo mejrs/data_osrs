@@ -4,30 +4,30 @@
     "i": 51,
     "j": 59,
     "x": 53,
-    "y": 18,
+    "y": 23,
     "id": 47081,
     "type": 22,
-    "rotation": 0
+    "rotation": 1
   },
   {
     "plane": 0,
     "i": 51,
     "j": 59,
-    "x": 58,
+    "x": 56,
     "y": 17,
     "id": 47081,
     "type": 22,
-    "rotation": 1
+    "rotation": 2
   },
   {
     "plane": 0,
     "i": 51,
     "j": 59,
     "x": 59,
-    "y": 21,
+    "y": 17,
     "id": 47081,
     "type": 22,
-    "rotation": 1
+    "rotation": 2
   },
   {
     "plane": 0,

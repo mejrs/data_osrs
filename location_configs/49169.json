@@ -1,0 +1,21 @@
+{
+  "id": 49169,
+  "name": "Skeleton",
+  "models_2": [
+    1078
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6241,
+      10434
+    ]
+  ]
+}

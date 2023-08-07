@@ -1,0 +1,18 @@
+{
+  "id": 47561,
+  "name": "Pickaxe",
+  "models_2": [
+    48521
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 0,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35
+}

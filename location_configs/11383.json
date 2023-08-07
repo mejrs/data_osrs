@@ -1,13 +1,13 @@
 {
   "id": 11383,
-  "name": "Pile of Rock",
+  "name": "Limestone rock",
   "models_2": [
     3183
   ],
   "unknown_21": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

@@ -1,0 +1,11 @@
+{
+  "id": 47998,
+  "name": "Monument",
+  "models_2": [
+    49112,
+    49111
+  ],
+  "dim_x": 4,
+  "ambient": -10,
+  "contrast": 30
+}

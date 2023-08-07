@@ -1,0 +1,44 @@
+{
+  "id": 49126,
+  "models": [
+    [
+      0,
+      48742
+    ]
+  ],
+  "name": "Ruby Gate",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "colours": [
+    [
+      42929,
+      955
+    ],
+    [
+      42919,
+      943
+    ],
+    [
+      42584,
+      478
+    ],
+    [
+      42576,
+      466
+    ],
+    [
+      42941,
+      964
+    ]
+  ],
+  "model": false,
+  "unknown_75": 0
+}

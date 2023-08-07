@@ -1,0 +1,22 @@
+{
+  "id": 47996,
+  "name": "Light",
+  "models_2": [
+    47228
+  ],
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_17": false,
+  "ambient": 30,
+  "contrast": 80,
+  "colours": [
+    [
+      36981,
+      40158
+    ]
+  ],
+  "model": false,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

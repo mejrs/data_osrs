@@ -1,0 +1,15 @@
+{
+  "id": 49444,
+  "name": "Triggered Axon Terminal",
+  "models_2": [
+    49400
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 7304,
+  "ambient": 65,
+  "contrast": 40,
+  "model": false
+}

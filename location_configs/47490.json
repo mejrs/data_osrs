@@ -1,0 +1,22 @@
+{
+  "id": 47490,
+  "name": "Struggling sapling",
+  "models_2": [
+    48249,
+    7766
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Add-mulch",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1785
+}

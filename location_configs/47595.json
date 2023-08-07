@@ -1,0 +1,21 @@
+{
+  "id": 47595,
+  "models": [
+    [
+      10,
+      48877
+    ],
+    [
+      0,
+      48889
+    ]
+  ],
+  "name": "Handholds",
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 20,
+  "model": false,
+  "scale_y": 75
+}

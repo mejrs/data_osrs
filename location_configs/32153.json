@@ -16,5 +16,6 @@
     null
   ],
   "contrast": 60,
-  "model": false
+  "model": false,
+  "unknown_89": false
 }

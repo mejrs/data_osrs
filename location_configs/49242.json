@@ -1,0 +1,27 @@
+{
+  "id": 49242,
+  "name": "Abyssal Portal",
+  "models_2": [
+    49397
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 7301,
+  "ambient": 35,
+  "contrast": 30,
+  "colours": [
+    [
+      42458,
+      42458
+    ],
+    [
+      42700,
+      42700
+    ],
+    [
+      42454,
+      42454
+    ]
+  ],
+  "model": false
+}

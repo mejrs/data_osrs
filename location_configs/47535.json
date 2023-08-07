@@ -1,0 +1,32 @@
+{
+  "id": 47535,
+  "name": "Resper mushrooms",
+  "models_2": [
+    48499
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 35,
+  "colours": [
+    [
+      10378,
+      33678
+    ],
+    [
+      1742,
+      34601
+    ],
+    [
+      2619,
+      34601
+    ],
+    [
+      2739,
+      34601
+    ]
+  ],
+  "category": 1811,
+  "model": false
+}

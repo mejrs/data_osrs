@@ -11,7 +11,7 @@
   "ambient": 20,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "Hidden",
     null,
     null

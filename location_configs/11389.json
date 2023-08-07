@@ -6,13 +6,13 @@
       33164
     ]
   ],
-  "name": "Crystals",
+  "name": "Amethyst crystals",
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

@@ -1,0 +1,44 @@
+{
+  "id": 49422,
+  "name": "Chest",
+  "models_2": [
+    24626
+  ],
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10283,
+      8361
+    ],
+    [
+      10295,
+      8369
+    ],
+    [
+      5272,
+      7461
+    ],
+    [
+      5268,
+      7452
+    ],
+    [
+      54290,
+      7446
+    ],
+    [
+      16,
+      8481
+    ]
+  ],
+  "category": 1836
+}

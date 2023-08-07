@@ -1,0 +1,20 @@
+{
+  "id": 48213,
+  "name": "Shadow Blocker",
+  "models_2": [
+    48541
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 10387,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 45
+}

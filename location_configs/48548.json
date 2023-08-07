@@ -1,0 +1,32 @@
+{
+  "id": 48548,
+  "name": "Strangled Plant",
+  "models_2": [
+    1643
+  ],
+  "is_transparent": true,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      3235
+    ],
+    [
+      49,
+      3235
+    ],
+    [
+      41,
+      3350
+    ],
+    [
+      37,
+      3346
+    ],
+    [
+      33,
+      3470
+    ]
+  ]
+}

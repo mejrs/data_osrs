@@ -1,0 +1,33 @@
+{
+  "id": 49409,
+  "name": "Fleshy Strand",
+  "models_2": [
+    42518
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Exit",
+    "Quick-exit",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      929,
+      908
+    ],
+    [
+      931,
+      916
+    ],
+    [
+      945,
+      914
+    ]
+  ],
+  "category": 1833,
+  "scale_y": 96,
+  "translate_y": 65436
+}

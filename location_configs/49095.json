@@ -1,0 +1,15 @@
+{
+  "id": 49095,
+  "name": "Bucket",
+  "models_2": [
+    2397
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

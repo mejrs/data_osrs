@@ -1,0 +1,30 @@
+{
+  "id": 49400,
+  "models": [
+    [
+      22,
+      48720
+    ]
+  ],
+  "name": "Radiant Vein",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 20,
+  "colours": [
+    [
+      63894,
+      7355
+    ],
+    [
+      404,
+      7349
+    ],
+    [
+      280,
+      7475
+    ]
+  ]
+}

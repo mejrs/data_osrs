@@ -7,6 +7,8 @@
     ]
   ],
   "unknown_21": true,
+  "ambient": 10,
+  "contrast": 25,
   "colours": [
     [
       6689,

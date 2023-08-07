@@ -1,0 +1,42 @@
+{
+  "id": 48638,
+  "models": [
+    [
+      0,
+      5378
+    ]
+  ],
+  "name": "Surface",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Build-barricade",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8617,
+      5388
+    ],
+    [
+      7481,
+      3230
+    ],
+    [
+      8501,
+      3226
+    ],
+    [
+      8497,
+      5272
+    ],
+    [
+      8493,
+      5268
+    ]
+  ]
+}

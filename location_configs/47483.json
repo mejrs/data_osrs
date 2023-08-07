@@ -1,0 +1,16 @@
+{
+  "id": 47483,
+  "name": "Anima-infused Tree roots",
+  "models_2": [
+    48257
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 1784
+}

@@ -1,6 +1,6 @@
 {
   "id": 23284,
-  "name": "Zanik",
+  "name": "<col=ffff00>Zanik</col>",
   "models_2": [
     24405
   ],
@@ -15,5 +15,6 @@
     null
   ],
   "contrast": 20,
-  "unknown_69": 13
+  "unknown_69": 13,
+  "mapscene": 82
 }

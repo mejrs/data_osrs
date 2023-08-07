@@ -1,0 +1,30 @@
+{
+  "id": 48737,
+  "name": "Argian bush",
+  "models_2": [
+    7826,
+    7814
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "colours": [
+    [
+      14872,
+      21545
+    ],
+    [
+      8722,
+      10396
+    ],
+    [
+      6364,
+      10698
+    ]
+  ],
+  "scale_x": 66,
+  "scale_y": 66,
+  "scale_z": 66,
+  "mapscene": 9
+}

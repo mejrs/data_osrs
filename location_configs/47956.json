@@ -1,0 +1,11 @@
+{
+  "id": 47956,
+  "name": "Bath",
+  "models_2": [
+    1284
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": -30,
+  "contrast": 20
+}

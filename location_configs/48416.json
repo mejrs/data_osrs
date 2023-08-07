@@ -1,0 +1,11 @@
+{
+  "id": 48416,
+  "name": "Dead Lynx",
+  "models_2": [
+    49001
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 30
+}

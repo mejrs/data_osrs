@@ -1,12 +1,12 @@
 {
   "id": 11385,
-  "name": "Pile of Rock",
+  "name": "Pile of rock",
   "models_2": [
     3195
   ],
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     null,
     null,
     null

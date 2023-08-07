@@ -1,0 +1,22 @@
+{
+  "id": 48797,
+  "name": "Steps",
+  "models_2": [
+    47599
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 608,
+  "scale_y": 64,
+  "scale_z": 608
+}

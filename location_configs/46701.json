@@ -1,6 +1,6 @@
 {
   "id": 46701,
-  "name": "Crystals",
+  "name": "Ancient essence crystals",
   "models_2": [
     47054
   ],
@@ -9,7 +9,7 @@
   "ambient": 0,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

@@ -1,6 +1,6 @@
 {
   "id": 15410,
-  "name": "Rock",
+  "name": "Rune essence",
   "models_2": [
     16512
   ],
@@ -11,7 +11,7 @@
   "unknown_22": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

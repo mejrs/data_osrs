@@ -9,7 +9,7 @@
   "unknown_27": false,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

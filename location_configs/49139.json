@@ -1,0 +1,22 @@
+{
+  "id": 49139,
+  "models": [
+    [
+      0,
+      47020
+    ]
+  ],
+  "name": "Gate",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "model": false,
+  "unknown_75": 0
+}

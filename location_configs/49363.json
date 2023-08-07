@@ -1,0 +1,13 @@
+{
+  "id": 49363,
+  "name": "Nerves",
+  "models_2": [
+    49180
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 35,
+  "contrast": 20
+}

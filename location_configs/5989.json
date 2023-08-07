@@ -6,12 +6,12 @@
       5859
     ]
   ],
-  "name": "Mineral vein",
+  "name": "Gold vein",
   "unknown_19": 1,
   "unknown_21": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "Hidden",
     null,
     null

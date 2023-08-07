@@ -1,0 +1,11 @@
+{
+  "id": 48417,
+  "name": "Skeleton",
+  "models_2": [
+    48998
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 30
+}

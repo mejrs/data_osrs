@@ -1,0 +1,23 @@
+{
+  "id": 47565,
+  "models": [
+    [
+      0,
+      47020
+    ]
+  ],
+  "name": "Gate",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "category": 1814,
+  "model": false,
+  "unknown_75": 0
+}

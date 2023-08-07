@@ -2,7 +2,9 @@
   "id": 10817,
   "name": "Armour stand",
   "models_2": [
-    12561
+    47426
   ],
-  "unknown_19": 1
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 235
 }

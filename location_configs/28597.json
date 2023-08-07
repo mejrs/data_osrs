@@ -1,13 +1,13 @@
 {
   "id": 28597,
-  "name": "Rocks",
+  "name": "Lovakite rocks",
   "models_2": [
     1391
   ],
   "is_transparent": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

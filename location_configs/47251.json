@@ -1,0 +1,16 @@
+{
+  "id": 47251,
+  "name": "Deadman: Reborn Display",
+  "models_2": [
+    47599
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 384,
+  "scale_y": 384,
+  "scale_z": 384
+}

@@ -1,0 +1,16 @@
+{
+  "id": 48191,
+  "name": "Skeleton",
+  "models_2": [
+    48994
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": -20,
+  "contrast": 30,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 84,
+  "translate_x": 65526
+}

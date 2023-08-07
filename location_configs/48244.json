@@ -1,0 +1,30 @@
+{
+  "id": 48244,
+  "name": "Remnant",
+  "models_2": [
+    44057
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 9400,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      0,
+      54387
+    ]
+  ],
+  "category": 1822,
+  "model": false,
+  "scale_x": 120,
+  "scale_z": 120
+}

@@ -1,0 +1,25 @@
+{
+  "id": 48327,
+  "name": "Sunken Steeple",
+  "models_2": [
+    48396
+  ],
+  "dim_x": 9,
+  "dim_y": 9,
+  "ambient": 10,
+  "contrast": 20,
+  "colours": [
+    [
+      24,
+      22
+    ],
+    [
+      28,
+      26
+    ]
+  ],
+  "model": false,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

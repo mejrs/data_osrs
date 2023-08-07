@@ -1,0 +1,31 @@
+{
+  "id": 47883,
+  "name": "Barricade",
+  "models_2": [
+    48371
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_22": true,
+  "ambient": -25,
+  "contrast": 45,
+  "colours": [
+    [
+      3230,
+      43038
+    ],
+    [
+      3350,
+      43034
+    ],
+    [
+      3346,
+      43026
+    ],
+    [
+      3470,
+      43156
+    ]
+  ],
+  "mirror": true
+}

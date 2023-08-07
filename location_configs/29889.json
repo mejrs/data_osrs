@@ -25,5 +25,8 @@
     ]
   ],
   "category": 1001,
-  "unknown_69": 14
+  "unknown_69": 14,
+  "params": {
+    "1545": 1
+  }
 }

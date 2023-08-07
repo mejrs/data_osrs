@@ -7,7 +7,7 @@
   "unknown_21": true,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

@@ -1,0 +1,38 @@
+{
+  "id": 49414,
+  "name": "Neural Teleporter",
+  "models_2": [
+    49397
+  ],
+  "dim_x": 3,
+  "unknown_24": 7301,
+  "ambient": 35,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      42458,
+      42458
+    ],
+    [
+      42700,
+      42700
+    ],
+    [
+      42454,
+      42454
+    ]
+  ],
+  "category": 1835,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  }
+}

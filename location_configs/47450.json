@@ -1,0 +1,28 @@
+{
+  "id": 47450,
+  "name": "Crane",
+  "models_2": [
+    9534
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      5545,
+      7461
+    ],
+    [
+      5665,
+      7452
+    ],
+    [
+      5784,
+      7446
+    ]
+  ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80
+}

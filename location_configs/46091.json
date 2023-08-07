@@ -1,24 +1,15 @@
 {
   "id": 46091,
-  "models": [
-    [
-      0,
-      5371
-    ],
-    [
-      1,
-      5372
-    ],
-    [
-      2,
-      34674
-    ],
-    [
-      9,
-      5373
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "morphs_1": {
+    "varbit": 15175,
+    "ids": [
+      null,
+      47563,
+      47564
     ]
-  ],
-  "unknown_19": 0,
-  "unknown_21": true,
-  "unknown_22": true
+  }
 }

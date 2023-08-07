@@ -1,0 +1,27 @@
+{
+  "id": 48908,
+  "name": "Stones",
+  "models_2": [
+    44170
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 0,
+  "contrast": 15,
+  "colours": [
+    [
+      20,
+      6455
+    ],
+    [
+      16,
+      6443
+    ]
+  ],
+  "scale_x": 190,
+  "scale_y": 190,
+  "scale_z": 190
+}

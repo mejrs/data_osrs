@@ -1,0 +1,16 @@
+{
+  "id": 47269,
+  "name": "Emir's Arena Display",
+  "models_2": [
+    47599
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 384,
+  "scale_y": 256,
+  "scale_z": 384
+}

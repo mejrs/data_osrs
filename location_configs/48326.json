@@ -1,0 +1,24 @@
+{
+  "id": 48326,
+  "name": "Ominous bubbles",
+  "models_2": [
+    2297
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 493,
+  "ambient": 50,
+  "contrast": 25,
+  "colours": [
+    [
+      5058,
+      43294
+    ]
+  ],
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256
+}

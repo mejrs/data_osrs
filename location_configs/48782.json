@@ -1,0 +1,33 @@
+{
+  "id": 48782,
+  "models": [
+    [
+      0,
+      27100
+    ]
+  ],
+  "name": "Barrier",
+  "unknown_19": 1,
+  "unknown_24": 1433,
+  "ambient": 60,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      61,
+      926
+    ]
+  ],
+  "unknown_75": 0,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "unknown_89": false
+}

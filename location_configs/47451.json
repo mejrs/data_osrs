@@ -1,0 +1,11 @@
+{
+  "id": 47451,
+  "name": "Portcullis",
+  "models_2": [
+    32376
+  ],
+  "dim_x": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false
+}

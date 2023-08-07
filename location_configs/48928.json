@@ -1,0 +1,22 @@
+{
+  "id": 48928,
+  "name": "Golem",
+  "models_2": [
+    49080
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

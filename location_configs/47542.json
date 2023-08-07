@@ -1,0 +1,27 @@
+{
+  "id": 47542,
+  "name": "Fermentation Vat",
+  "models_2": [
+    49083
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Collect-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      984,
+      47671
+    ]
+  ],
+  "category": 1812
+}

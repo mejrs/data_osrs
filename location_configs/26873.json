@@ -9,7 +9,7 @@
   "ambient": 10,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     null,
     null,
     null

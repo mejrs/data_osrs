@@ -6,13 +6,13 @@
       21258
     ]
   ],
-  "name": "Ore vein",
+  "name": "Adamant ore vein",
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 20,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "Hidden",
     null,
     null

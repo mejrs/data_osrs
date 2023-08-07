@@ -1,0 +1,33 @@
+{
+  "id": 49212,
+  "name": "Rowboat",
+  "models_2": [
+    30279,
+    30349
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6439,
+      10407
+    ],
+    [
+      6447,
+      10403
+    ],
+    [
+      5904,
+      10392
+    ]
+  ],
+  "model": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 48434,
+  "name": "Pillar",
+  "models_2": [
+    48452,
+    48454
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      3123,
+      175
+    ]
+  ],
+  "unknown_73": true,
+  "mapscene": 111
+}

@@ -1,0 +1,23 @@
+{
+  "id": 47505,
+  "name": "Smoke Cloud",
+  "models_2": [
+    46951
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 1261,
+  "ambient": 30,
+  "contrast": 30,
+  "colours": [
+    [
+      20288,
+      62119
+    ]
+  ],
+  "scale_x": 70,
+  "scale_y": 70,
+  "scale_z": 70,
+  "translate_y": 65476,
+  "unknown_89": false
+}

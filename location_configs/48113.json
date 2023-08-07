@@ -1,0 +1,11 @@
+{
+  "id": 48113,
+  "name": "Barricade",
+  "models_2": [
+    48368
+  ],
+  "dim_y": 3,
+  "unknown_22": true,
+  "ambient": -25,
+  "contrast": 45
+}

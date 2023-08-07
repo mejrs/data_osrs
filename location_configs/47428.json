@@ -1,0 +1,14 @@
+{
+  "id": 47428,
+  "name": "Bounty Hunter portal",
+  "models_2": [
+    48083
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 9228,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 30,
+  "translate_y": 65440
+}

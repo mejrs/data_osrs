@@ -1,0 +1,34 @@
+{
+  "id": 48738,
+  "name": "Korbal herbs",
+  "models_2": [
+    7874,
+    7766
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      274
+    ],
+    [
+      19988,
+      278
+    ],
+    [
+      19992,
+      280
+    ]
+  ],
+  "mapscene": 9
+}

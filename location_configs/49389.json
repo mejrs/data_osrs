@@ -1,0 +1,21 @@
+{
+  "id": 49389,
+  "name": "Air Bubble",
+  "models_2": [
+    3176
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "colours": [
+    [
+      1500,
+      30817
+    ]
+  ],
+  "scale_x": 350,
+  "scale_y": 350,
+  "scale_z": 350,
+  "mapscene": 81
+}

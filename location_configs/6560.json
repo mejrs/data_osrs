@@ -2,9 +2,11 @@
   "id": 6560,
   "unknown_19": 1,
   "morphs_1": {
-    "varbit": 393,
+    "varbit": 15152,
     "ids": [
       null,
+      6561,
+      6561,
       6561
     ]
   }

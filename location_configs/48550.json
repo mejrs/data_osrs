@@ -1,0 +1,27 @@
+{
+  "id": 48550,
+  "name": "Stangled Plant",
+  "models_2": [
+    1645
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      3127
+    ],
+    [
+      49,
+      3123
+    ],
+    [
+      41,
+      3346
+    ]
+  ],
+  "model": false
+}

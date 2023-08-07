@@ -6,13 +6,13 @@
       42110
     ]
   ],
-  "name": "Rocks",
+  "name": "Barronite rocks",
   "is_transparent": true,
   "unknown_21": true,
   "ambient": 20,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

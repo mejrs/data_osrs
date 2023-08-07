@@ -1,0 +1,15 @@
+{
+  "id": 49388,
+  "name": "Vent",
+  "models_2": [
+    49007
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 20,
+  "model": false
+}

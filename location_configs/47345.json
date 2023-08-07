@@ -1,0 +1,35 @@
+{
+  "id": 47345,
+  "name": "Bank chest",
+  "models_2": [
+    35451
+  ],
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      2339,
+      540
+    ],
+    [
+      3489,
+      540
+    ],
+    [
+      2332,
+      532
+    ],
+    [
+      3346,
+      528
+    ]
+  ],
+  "category": 237
+}

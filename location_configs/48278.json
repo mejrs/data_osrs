@@ -1,0 +1,33 @@
+{
+  "id": 48278,
+  "models": [
+    [
+      0,
+      48796
+    ]
+  ],
+  "name": "Doors",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      2458,
+      43034
+    ],
+    [
+      2452,
+      43026
+    ]
+  ],
+  "mirror": true
+}

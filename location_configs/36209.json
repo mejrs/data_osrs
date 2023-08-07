@@ -1,6 +1,6 @@
 {
   "id": 36209,
-  "name": "Rocks",
+  "name": "Runite rocks",
   "models_2": [
     37841
   ],
@@ -9,7 +9,7 @@
   "ambient": 20,
   "actions": [
     "Mine",
-    "Prospect",
+    null,
     "hidden",
     null,
     null

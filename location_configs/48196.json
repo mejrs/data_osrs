@@ -1,0 +1,49 @@
+{
+  "id": 48196,
+  "models": [
+    [
+      0,
+      49339
+    ]
+  ],
+  "name": "Rock",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Attach-rope",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      10514,
+      11142
+    ],
+    [
+      10638,
+      49308
+    ],
+    [
+      10762,
+      49300
+    ],
+    [
+      11142,
+      49420
+    ],
+    [
+      11140,
+      50056
+    ],
+    [
+      11138,
+      50052
+    ]
+  ],
+  "mapscene": 12
+}

@@ -9,8 +9,8 @@
   "ambient": 25,
   "actions": [
     "Preen",
-    null,
-    null,
+    "Haircut",
+    "Shave",
     null,
     "Remove"
   ],
