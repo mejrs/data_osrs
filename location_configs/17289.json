@@ -4,5 +4,7 @@
   "models_2": [
     17281
   ],
+  "ambient": 10,
+  "contrast": 20,
   "mirror": true
 }

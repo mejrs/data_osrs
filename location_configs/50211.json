@@ -1,0 +1,17 @@
+{
+  "id": 50211,
+  "name": "Imposing doors",
+  "models_2": [
+    50258
+  ],
+  "dim_x": 3,
+  "ambient": 0,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40
+}

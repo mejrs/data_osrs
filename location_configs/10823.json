@@ -3,6 +3,7 @@
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,
+  "ambient": 25,
   "actions": [
     "Chop down",
     null,
@@ -10,13 +11,14 @@
     null,
     null
   ],
+  "contrast": 30,
   "category": 288,
   "morphs_1": {
     "varbit": 4153,
     "ids": [
-      10822,
+      null,
       9714
     ]
   },
-  "mapscene": 3
+  "mapscene": 129
 }

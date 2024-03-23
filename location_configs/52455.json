@@ -1,0 +1,9 @@
+{
+  "id": 52455,
+  "name": "Chair",
+  "models_2": [
+    52303
+  ],
+  "ambient": 10,
+  "contrast": 30
+}

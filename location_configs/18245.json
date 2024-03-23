@@ -4,5 +4,8 @@
   "models_2": [
     18233
   ],
-  "ambient": 20
+  "ambient": 20,
+  "params": {
+    "1862": 1
+  }
 }

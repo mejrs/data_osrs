@@ -1,0 +1,20 @@
+{
+  "id": 51746,
+  "name": "Roots",
+  "models_2": [
+    51773
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Take-log",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

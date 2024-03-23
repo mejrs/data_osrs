@@ -1,0 +1,16 @@
+{
+  "id": 51888,
+  "name": "Statue of Atlazora",
+  "models_2": [
+    52322
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 25,
+  "scale_x": 280,
+  "scale_y": 280,
+  "scale_z": 280
+}

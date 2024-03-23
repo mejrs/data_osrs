@@ -1,0 +1,15 @@
+{
+  "id": 52717,
+  "name": "Statue of Queen Zyanyi",
+  "models_2": [
+    52316
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 5,
+  "contrast": 30,
+  "model": false,
+  "scale_x": 240,
+  "scale_y": 240,
+  "scale_z": 240
+}

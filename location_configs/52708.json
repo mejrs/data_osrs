@@ -1,0 +1,18 @@
+{
+  "id": 52708,
+  "name": "Old One Statue",
+  "models_2": [
+    52350
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

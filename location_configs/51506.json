@@ -1,0 +1,16 @@
+{
+  "id": 51506,
+  "name": "Mine cart",
+  "models_2": [
+    4086
+  ],
+  "unknown_24": 1261,
+  "ambient": 10,
+  "contrast": 20,
+  "colours": [
+    [
+      10543,
+      38238
+    ]
+  ]
+}

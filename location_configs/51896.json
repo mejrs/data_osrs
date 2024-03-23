@@ -1,0 +1,14 @@
+{
+  "id": 51896,
+  "name": "Statue of Taur",
+  "models_2": [
+    52328
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 25,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140
+}

@@ -1,0 +1,19 @@
+{
+  "id": 50936,
+  "name": "Tropical tree",
+  "models_2": [
+    1687
+  ],
+  "ambient": 10,
+  "contrast": 20,
+  "colours": [
+    [
+      6585,
+      3742
+    ],
+    [
+      6707,
+      3734
+    ]
+  ]
+}

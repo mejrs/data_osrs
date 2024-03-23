@@ -1,0 +1,14 @@
+{
+  "id": 51840,
+  "name": "Stolen cabbage",
+  "models_2": [
+    52456
+  ],
+  "unknown_17": false,
+  "ambient": 17,
+  "contrast": 15,
+  "model": false,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110
+}

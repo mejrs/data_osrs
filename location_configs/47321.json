@@ -8,5 +8,20 @@
   "unknown_17": false,
   "ambient": 20,
   "contrast": 20,
-  "translate_y": 65456
+  "colours": [
+    [
+      6969,
+      20019
+    ],
+    [
+      565,
+      20248
+    ],
+    [
+      557,
+      20242
+    ]
+  ],
+  "translate_y": 65526,
+  "translate_z": 65526
 }

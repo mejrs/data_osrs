@@ -2,13 +2,15 @@
   "id": 1990,
   "name": "Crate",
   "models_2": [
-    2142
+    3815
   ],
+  "ambient": 15,
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "contrast": 15
 }

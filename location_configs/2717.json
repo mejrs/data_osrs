@@ -6,7 +6,8 @@
       25084
     ]
   ],
-  "unknown_19": 0,
+  "name": "Chart",
+  "unknown_19": 1,
   "ambient": 50,
   "contrast": 20
 }

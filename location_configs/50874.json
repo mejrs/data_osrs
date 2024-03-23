@@ -1,0 +1,35 @@
+{
+  "id": 50874,
+  "name": "Rocks",
+  "models_2": [
+    3722
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "colours": [
+    [
+      5276,
+      10275
+    ],
+    [
+      10396,
+      10279
+    ],
+    [
+      5281,
+      10283
+    ],
+    [
+      7335,
+      10287
+    ]
+  ],
+  "model": false,
+  "scale_x": 288,
+  "scale_y": 288,
+  "scale_z": 288
+}

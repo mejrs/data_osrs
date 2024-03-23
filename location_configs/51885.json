@@ -1,0 +1,11 @@
+{
+  "id": 51885,
+  "name": "Statue of Atlazora",
+  "models_2": [
+    52322
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 25
+}

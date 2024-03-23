@@ -1,0 +1,11 @@
+{
+  "id": 50314,
+  "name": "Sarcophagus",
+  "models_2": [
+    50233
+  ],
+  "dim_x": 3,
+  "dim_y": 5,
+  "ambient": 0,
+  "contrast": 40
+}

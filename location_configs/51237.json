@@ -1,0 +1,16 @@
+{
+  "id": 51237,
+  "models_2": [
+    51722
+  ],
+  "dim_x": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": -10,
+  "contrast": 60,
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 241
+}

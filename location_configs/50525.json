@@ -1,0 +1,22 @@
+{
+  "id": 50525,
+  "models": [
+    [
+      0,
+      50207
+    ]
+  ],
+  "name": "Pipe",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

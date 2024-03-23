@@ -1,0 +1,14 @@
+{
+  "id": 50336,
+  "name": "Het statue",
+  "models_2": [
+    50266
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 10764,
+  "ambient": 0,
+  "contrast": 40,
+  "unknown_89": false
+}

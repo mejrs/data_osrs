@@ -1,0 +1,15 @@
+{
+  "id": 50875,
+  "name": "Landing Site",
+  "models_2": [
+    52305
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 25,
+  "model": false
+}

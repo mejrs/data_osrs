@@ -1,0 +1,20 @@
+{
+  "id": 49592,
+  "name": "Spirit Tree",
+  "models_2": [
+    49769
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

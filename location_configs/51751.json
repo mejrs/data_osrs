@@ -1,0 +1,12 @@
+{
+  "id": 51751,
+  "name": "Empty Food Pot",
+  "models_2": [
+    52380
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30
+}

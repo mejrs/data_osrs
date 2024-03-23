@@ -1,0 +1,16 @@
+{
+  "id": 52702,
+  "name": "Royal Accord of Twill",
+  "models_2": [
+    52362
+  ],
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

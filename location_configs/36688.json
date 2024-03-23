@@ -1,6 +1,6 @@
 {
   "id": 36688,
-  "name": "Mahogany",
+  "name": "Mahogany tree",
   "models_2": [
     37874
   ],
@@ -16,5 +16,5 @@
   ],
   "contrast": 5,
   "category": 164,
-  "mapscene": 3
+  "mapscene": 132
 }

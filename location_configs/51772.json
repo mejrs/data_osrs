@@ -1,0 +1,29 @@
+{
+  "id": 51772,
+  "name": "Oak tree",
+  "models_2": [
+    1571
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      3470,
+      5665
+    ]
+  ],
+  "category": 279,
+  "scale_x": 160,
+  "scale_y": 190,
+  "scale_z": 160,
+  "mapscene": 128
+}

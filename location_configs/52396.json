@@ -1,0 +1,20 @@
+{
+  "id": 52396,
+  "name": "Bank table",
+  "models_2": [
+    51393,
+    51389
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 684
+}

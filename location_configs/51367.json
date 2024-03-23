@@ -1,0 +1,20 @@
+{
+  "id": 51367,
+  "is_transparent": true,
+  "unknown_24": 10793,
+  "unknown_27": false,
+  "actions": [
+    "Fish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 9875,
+    "ids": [
+      51368,
+      51369
+    ]
+  }
+}

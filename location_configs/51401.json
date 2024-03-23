@@ -1,0 +1,14 @@
+{
+  "id": 51401,
+  "name": "Carving",
+  "models_2": [
+    52299
+  ],
+  "dim_x": 6,
+  "ambient": -65,
+  "contrast": 40,
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192,
+  "translate_y": 65408
+}

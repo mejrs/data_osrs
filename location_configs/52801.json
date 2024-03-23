@@ -1,0 +1,27 @@
+{
+  "id": 52801,
+  "name": "Shrine",
+  "models_2": [
+    51386,
+    51375,
+    51378,
+    51397
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Sacrifice",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      9152,
+      555
+    ]
+  ]
+}

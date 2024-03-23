@@ -5,10 +5,11 @@
     17080
   ],
   "actions": [
-    "Look-at",
+    "Inspect",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "unknown_69": 11
 }

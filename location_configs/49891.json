@@ -1,0 +1,22 @@
+{
+  "id": 49891,
+  "models": [
+    [
+      0,
+      49723
+    ]
+  ],
+  "name": "Metal gate",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_75": 0
+}

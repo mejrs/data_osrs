@@ -1,0 +1,16 @@
+{
+  "id": 51271,
+  "name": "Blood",
+  "models_2": [
+    52868
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 6024,
+  "ambient": -10,
+  "contrast": 50,
+  "scale_x": 330,
+  "scale_y": 270,
+  "scale_z": 330
+}

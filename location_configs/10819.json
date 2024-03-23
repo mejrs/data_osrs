@@ -6,7 +6,7 @@
   ],
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 25,
+  "ambient": 10,
   "actions": [
     "Chop down",
     null,
@@ -14,6 +14,7 @@
     null,
     null
   ],
+  "contrast": 30,
   "category": 286,
   "mapscene": 3
 }

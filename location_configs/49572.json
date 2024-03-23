@@ -1,0 +1,31 @@
+{
+  "id": 49572,
+  "name": "Cavity",
+  "models_2": [
+    49514,
+    49516
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Take-pickaxe",
+    "Deposit-pickaxe",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      40458,
+      40210
+    ],
+    [
+      61,
+      43297
+    ]
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 50421,
+  "name": "Torch",
+  "models_2": [
+    50219
+  ],
+  "unknown_24": 10770,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 40
+}

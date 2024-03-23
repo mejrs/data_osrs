@@ -3,7 +3,7 @@
   "dim_x": 2,
   "actions": [
     "Open",
-    null,
+    "Toggle XP",
     null,
     null,
     null

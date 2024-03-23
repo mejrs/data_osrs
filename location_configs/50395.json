@@ -1,0 +1,13 @@
+{
+  "id": 50395,
+  "name": "Dung",
+  "models_2": [
+    50249
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 0,
+  "contrast": 40
+}

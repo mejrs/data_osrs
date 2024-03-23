@@ -1,0 +1,16 @@
+{
+  "id": 50710,
+  "name": "Basic Jewellery Box",
+  "models_2": [
+    32156
+  ],
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Teleport Menu",
+    "Fortis Colosseum",
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206
+}

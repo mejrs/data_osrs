@@ -1,0 +1,22 @@
+{
+  "id": 51379,
+  "name": "Monolith",
+  "models_2": [
+    52330
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_24": 11053,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    "Visual-effects",
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "scale_x": 222,
+  "scale_y": 222,
+  "scale_z": 222
+}

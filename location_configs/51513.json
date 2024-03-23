@@ -1,0 +1,22 @@
+{
+  "id": 51513,
+  "models_2": [
+    6003
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      5165,
+      5541
+    ],
+    [
+      5281,
+      5532
+    ]
+  ],
+  "translate_y": 16
+}

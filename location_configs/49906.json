@@ -1,0 +1,16 @@
+{
+  "id": 49906,
+  "name": "Oaknock's exchanger",
+  "models_2": [
+    17090
+  ],
+  "unknown_19": 1,
+  "unknown_24": 4562,
+  "unknown_27": false,
+  "ambient": 10,
+  "translate_y": 65506,
+  "unknown_78": {
+    "unknown_1": 2325,
+    "unknown_2": 5
+  }
+}

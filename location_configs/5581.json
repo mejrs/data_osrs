@@ -4,6 +4,8 @@
   "models_2": [
     5495
   ],
+  "is_transparent": true,
+  "ambient": 10,
   "actions": [
     "Take-axe",
     null,
@@ -11,6 +13,7 @@
     null,
     null
   ],
+  "contrast": 20,
   "colours": [
     [
       61,

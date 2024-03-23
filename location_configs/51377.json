@@ -1,0 +1,22 @@
+{
+  "id": 51377,
+  "name": "Entrance",
+  "models_2": [
+    47599
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 384,
+  "scale_y": 512,
+  "scale_z": 384
+}

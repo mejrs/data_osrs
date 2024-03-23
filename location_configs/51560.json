@@ -1,0 +1,29 @@
+{
+  "id": 51560,
+  "name": "Herbalist stall",
+  "models_2": [
+    5879,
+    51392
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "contrast": 20,
+  "colours": [
+    [
+      10266,
+      5541
+    ],
+    [
+      10262,
+      5532
+    ],
+    [
+      10258,
+      5524
+    ]
+  ],
+  "model": false,
+  "scale_x": 88,
+  "scale_y": 88,
+  "scale_z": 88
+}

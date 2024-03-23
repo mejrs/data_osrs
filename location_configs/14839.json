@@ -1,18 +1,11 @@
 {
   "id": 14839,
-  "unknown_19": 1,
-  "unknown_21": true,
-  "unknown_24": 9845,
-  "unknown_27": false,
-  "category": 522,
-  "morphs_1": {
-    "varbit": 4885,
-    "ids": [
-      27123,
-      27124
-    ]
-  },
-  "params": {
-    "1612": 1
-  }
+  "models_2": [
+    50132
+  ],
+  "dim_y": 2,
+  "unknown_19": 0,
+  "ambient": -10,
+  "contrast": 30,
+  "model": false
 }

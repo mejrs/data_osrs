@@ -1,16 +1,19 @@
 {
   "id": 14204,
-  "name": "Stone block",
+  "name": "Sewage water",
   "models_2": [
-    31149
+    47599
   ],
-  "dim_x": 5,
-  "dim_y": 5,
-  "unknown_19": 1,
-  "unknown_27": false,
-  "ambient": 20,
-  "contrast": 10,
-  "scale_x": 180,
-  "scale_y": 180,
-  "scale_z": 180
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Cross",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 190,
+  "scale_z": 190
 }

@@ -1,0 +1,20 @@
+{
+  "id": 52405,
+  "name": "Shrine of Ralos",
+  "models_2": [
+    52293
+  ],
+  "dim_x": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Bask",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 897
+}

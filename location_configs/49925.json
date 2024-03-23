@@ -1,0 +1,23 @@
+{
+  "id": 49925,
+  "name": "Passage",
+  "models_2": [
+    48892
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "scale_y": 166
+}

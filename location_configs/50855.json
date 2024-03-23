@@ -1,0 +1,21 @@
+{
+  "id": 50855,
+  "name": "Building Supplies",
+  "models_2": [
+    52395,
+    52394
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1926
+}

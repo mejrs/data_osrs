@@ -1,0 +1,13 @@
+{
+  "id": 49563,
+  "name": "Boss Spawn",
+  "models_2": [
+    49488
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 10423,
+  "unknown_89": false
+}

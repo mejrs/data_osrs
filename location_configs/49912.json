@@ -1,0 +1,18 @@
+{
+  "id": 49912,
+  "name": "Amalgamation",
+  "models_2": [
+    49793
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 30
+}

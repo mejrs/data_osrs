@@ -1,16 +1,18 @@
 {
   "id": 28836,
-  "is_transparent": true,
-  "unknown_19": 1,
+  "models_2": [
+    42082
+  ],
+  "unknown_19": 0,
   "unknown_21": true,
-  "unknown_27": false,
-  "morphs_1": {
-    "varbit": 5085,
-    "ids": [
-      null,
-      28835,
-      28835,
-      28835
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      49420,
+      0
     ]
-  }
+  ],
+  "scale_y": 61
 }

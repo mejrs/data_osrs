@@ -5,6 +5,7 @@
     25060
   ],
   "dim_x": 2,
+  "is_transparent": true,
   "ambient": 25,
   "contrast": 5,
   "colours": [

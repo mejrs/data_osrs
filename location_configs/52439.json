@@ -1,0 +1,9 @@
+{
+  "id": 52439,
+  "name": "Suit of Armour",
+  "models_2": [
+    52360
+  ],
+  "ambient": 30,
+  "contrast": 25
+}

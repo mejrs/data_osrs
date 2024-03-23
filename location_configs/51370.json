@@ -1,0 +1,18 @@
+{
+  "id": 51370,
+  "name": "Stream",
+  "models_2": [
+    47599
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Align-net",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 120,
+  "scale_y": 16,
+  "scale_z": 120
+}

@@ -1,0 +1,19 @@
+{
+  "id": 51365,
+  "name": "Grubby sapling",
+  "models_2": [
+    52453,
+    7766
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Collect-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

@@ -1,19 +1,13 @@
 {
   "id": 27124,
-  "name": "Fairy ring",
   "models_2": [
-    47197
+    50131
   ],
-  "unknown_19": 1,
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
   "unknown_21": true,
-  "unknown_24": 9845,
-  "unknown_27": false,
-  "ambient": 60,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination",
-    null,
-    null
-  ]
+  "ambient": 0,
+  "contrast": 30,
+  "model": false
 }

@@ -1,0 +1,25 @@
+{
+  "id": 52716,
+  "name": "Statue of King Maximus",
+  "models_2": [
+    52325
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "model": false,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180
+}

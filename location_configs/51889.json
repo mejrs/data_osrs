@@ -1,0 +1,11 @@
+{
+  "id": 51889,
+  "name": "Statue of Marhuitz",
+  "models_2": [
+    52327
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 25
+}

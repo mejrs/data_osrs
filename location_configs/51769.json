@@ -1,0 +1,33 @@
+{
+  "id": 51769,
+  "name": "Acacia tree",
+  "models_2": [
+    52429
+  ],
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_21": true,
+  "ambient": 50,
+  "contrast": 30,
+  "colours": [
+    [
+      5404,
+      5537
+    ],
+    [
+      5400,
+      5537
+    ],
+    [
+      5524,
+      5532
+    ]
+  ],
+  "textures": {
+    "90": 123
+  },
+  "model": false,
+  "scale_x": 212,
+  "scale_y": 160,
+  "scale_z": 212
+}

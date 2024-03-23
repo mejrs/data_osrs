@@ -1,0 +1,39 @@
+{
+  "id": 52461,
+  "name": "Table",
+  "models_2": [
+    51376,
+    51387
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      5561,
+      5427
+    ],
+    [
+      5557,
+      5421
+    ],
+    [
+      5669,
+      5404
+    ],
+    [
+      5656,
+      5400
+    ],
+    [
+      5524,
+      5524
+    ]
+  ],
+  "category": 155,
+  "scale_x": 64,
+  "scale_z": 64
+}

@@ -1,0 +1,14 @@
+{
+  "id": 50333,
+  "name": "Amascut statue",
+  "models_2": [
+    50268
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 10763,
+  "ambient": 0,
+  "contrast": 40,
+  "unknown_89": false
+}

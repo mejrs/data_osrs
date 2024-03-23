@@ -1,0 +1,39 @@
+{
+  "id": 51053,
+  "name": "Moonfire",
+  "models_2": [
+    51230
+  ],
+  "unknown_19": 1,
+  "unknown_24": 11080,
+  "unknown_27": false,
+  "ambient": 100,
+  "contrast": 100,
+  "colours": [
+    [
+      8128,
+      43358
+    ],
+    [
+      7104,
+      43358
+    ],
+    [
+      5056,
+      41422
+    ],
+    [
+      4019,
+      39364
+    ],
+    [
+      2987,
+      39475
+    ]
+  ],
+  "model": false,
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 128,
+  "unknown_89": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 51359,
+  "name": "Rock",
+  "models_2": [
+    46260
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": -10,
+  "actions": [
+    "Trap",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "scale_y": 360,
+  "translate_y": 40
+}

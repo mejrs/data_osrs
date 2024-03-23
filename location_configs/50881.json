@@ -1,0 +1,12 @@
+{
+  "id": 50881,
+  "name": "Equipment",
+  "models_2": [
+    52372
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 10
+}

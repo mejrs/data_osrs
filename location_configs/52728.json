@@ -1,0 +1,16 @@
+{
+  "id": 52728,
+  "name": "Statue of Emperor Imafore",
+  "models_2": [
+    52320
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 40,
+  "model": false,
+  "scale_x": 120,
+  "scale_y": 120,
+  "scale_z": 120
+}

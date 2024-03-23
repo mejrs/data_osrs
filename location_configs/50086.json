@@ -1,0 +1,41 @@
+{
+  "id": 50086,
+  "name": "Rocks",
+  "models_2": [
+    3722
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5276,
+      10275
+    ],
+    [
+      10396,
+      10279
+    ],
+    [
+      5281,
+      10283
+    ],
+    [
+      7335,
+      10287
+    ]
+  ],
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256
+}

@@ -1,0 +1,14 @@
+{
+  "id": 50158,
+  "name": "Balcony",
+  "models_2": [
+    50611
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "category": 1898
+}

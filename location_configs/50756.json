@@ -1,0 +1,32 @@
+{
+  "id": 50756,
+  "models_2": [
+    50962
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 10872,
+  "unknown_27": false,
+  "contrast": 50,
+  "colours": [
+    [
+      4550,
+      4550
+    ],
+    [
+      4550,
+      4550
+    ],
+    [
+      43072,
+      4550
+    ],
+    [
+      43303,
+      4626
+    ]
+  ],
+  "model": false,
+  "unknown_89": false,
+  "mapscene": 82
+}

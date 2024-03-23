@@ -1,0 +1,18 @@
+{
+  "id": 50536,
+  "models": [
+    [
+      0,
+      50613
+    ]
+  ],
+  "unknown_19": 0,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

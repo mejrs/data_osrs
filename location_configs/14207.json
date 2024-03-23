@@ -1,23 +1,11 @@
 {
   "id": 14207,
-  "dim_x": 5,
-  "dim_y": 5,
-  "unknown_19": 1,
-  "unknown_27": false,
-  "ambient": 20,
-  "contrast": 10,
-  "scale_x": 180,
-  "scale_y": 180,
-  "scale_z": 180,
-  "morphs_1": {
-    "varbit": 4982,
-    "ids": [
-      14204,
-      14204,
-      14194,
-      14194,
-      14194,
-      14194
-    ]
-  }
+  "models_2": [
+    50133
+  ],
+  "dim_y": 2,
+  "unknown_19": 0,
+  "ambient": 10,
+  "contrast": 30,
+  "model": false
 }

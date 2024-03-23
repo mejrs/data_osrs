@@ -4,5 +4,7 @@
   "models_2": [
     1841
   ],
-  "dim_x": 5
+  "dim_x": 5,
+  "ambient": 10,
+  "contrast": 20
 }

@@ -1,0 +1,17 @@
+{
+  "id": 51838,
+  "name": "Onion",
+  "models_2": [
+    8211
+  ],
+  "unknown_17": false,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "category": 234,
+  "mapscene": 33
+}

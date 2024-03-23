@@ -1,0 +1,20 @@
+{
+  "id": 50043,
+  "name": "Candycane",
+  "models_2": [
+    46874
+  ],
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      557,
+      39607
+    ],
+    [
+      222,
+      39132
+    ]
+  ],
+  "model": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 50348,
+  "models": [
+    [
+      22,
+      50273
+    ]
+  ],
+  "name": "Skeleton",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 0,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "category": 1904,
+  "unknown_73": true
+}

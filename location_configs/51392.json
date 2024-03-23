@@ -1,0 +1,11 @@
+{
+  "id": 51392,
+  "name": "Ancient gate",
+  "models_2": [
+    51272
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 30
+}

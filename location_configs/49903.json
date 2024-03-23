@@ -1,0 +1,16 @@
+{
+  "id": 49903,
+  "name": "Warped tree roots",
+  "models_2": [
+    49592
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "category": 1875,
+  "model": false,
+  "translate_y": 65401
+}

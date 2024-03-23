@@ -1,0 +1,14 @@
+{
+  "id": 50334,
+  "name": "Apmeken statue",
+  "models_2": [
+    50262
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 10765,
+  "ambient": 0,
+  "contrast": 40,
+  "unknown_89": false
+}

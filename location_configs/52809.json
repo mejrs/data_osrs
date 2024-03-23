@@ -1,0 +1,17 @@
+{
+  "id": 52809,
+  "name": "Pipes",
+  "models_2": [
+    18821
+  ],
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 30,
+  "colours": [
+    [
+      6682,
+      7566
+    ]
+  ],
+  "scale_y": 205
+}

@@ -1,0 +1,14 @@
+{
+  "id": 50566,
+  "name": "Pipe",
+  "models_2": [
+    50425
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "translate_y": 240
+}

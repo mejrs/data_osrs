@@ -1,0 +1,11 @@
+{
+  "id": 51876,
+  "name": "Statue of Quoatlos",
+  "models_2": [
+    52317
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 25
+}

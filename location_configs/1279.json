@@ -6,6 +6,7 @@
   ],
   "dim_x": 2,
   "dim_y": 2,
+  "ambient": 30,
   "actions": [
     "Chop down",
     null,
@@ -13,6 +14,7 @@
     null,
     null
   ],
+  "contrast": 30,
   "category": 189,
   "scale_x": 100,
   "scale_y": 100,

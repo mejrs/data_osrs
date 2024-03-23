@@ -1,16 +1,18 @@
 {
   "id": 14205,
-  "name": "Stone block",
+  "name": "Food Pile",
   "models_2": [
-    31148
+    50138
   ],
-  "dim_x": 5,
-  "dim_y": 5,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 20,
-  "contrast": 10,
-  "scale_x": 180,
-  "scale_y": 180,
-  "scale_z": 180
+  "ambient": -10,
+  "actions": [
+    "Eat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
 }

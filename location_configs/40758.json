@@ -4,7 +4,7 @@
   "models_2": [
     37919
   ],
-  "ambient": 2,
+  "ambient": 15,
   "actions": [
     "Chop down",
     null,
@@ -12,7 +12,7 @@
     null,
     null
   ],
-  "contrast": 5,
+  "contrast": 20,
   "category": 165,
-  "mapscene": 1
+  "mapscene": 131
 }

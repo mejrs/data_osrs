@@ -1,0 +1,13 @@
+{
+  "id": 52448,
+  "name": "Cypress Tree",
+  "models_2": [
+    52421
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "contrast": 15,
+  "scale_y": 96,
+  "mapscene": 139
+}

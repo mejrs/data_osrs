@@ -1,0 +1,12 @@
+{
+  "id": 49933,
+  "name": "Beehive",
+  "models_2": [
+    49895
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 15
+}

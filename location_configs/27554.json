@@ -1,15 +1,8 @@
 {
   "id": 27554,
-  "name": "Cooling chest",
+  "name": "Chest",
   "models_2": [
     5273
-  ],
-  "actions": [
-    "Deposit",
-    null,
-    null,
-    null,
-    null
   ],
   "colours": [
     [

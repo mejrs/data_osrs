@@ -1,0 +1,16 @@
+{
+  "id": 52696,
+  "name": "Cloak of Ranul",
+  "models_2": [
+    52352
+  ],
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

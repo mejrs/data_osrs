@@ -1,0 +1,16 @@
+{
+  "id": 51890,
+  "name": "Statue of Marhuitz",
+  "models_2": [
+    52327
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 25,
+  "scale_x": 190,
+  "scale_y": 190,
+  "scale_z": 190
+}

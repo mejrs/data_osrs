@@ -1,0 +1,19 @@
+{
+  "id": 49916,
+  "name": "Amalgamation",
+  "models_2": [
+    49789
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": -10,
+  "contrast": 30,
+  "colours": [
+    [
+      80,
+      59
+    ]
+  ]
+}

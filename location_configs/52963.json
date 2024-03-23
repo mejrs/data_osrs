@@ -1,0 +1,14 @@
+{
+  "id": 52963,
+  "models_2": [
+    51614
+  ],
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 45,
+  "mirror": true
+}

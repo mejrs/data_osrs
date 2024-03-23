@@ -1,0 +1,14 @@
+{
+  "id": 51892,
+  "name": "Statue of Dizana",
+  "models_2": [
+    52318
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 25,
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160
+}

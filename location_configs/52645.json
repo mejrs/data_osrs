@@ -1,0 +1,32 @@
+{
+  "id": 52645,
+  "name": "Dummy",
+  "models_2": [
+    25177
+  ],
+  "unknown_24": 6481,
+  "ambient": 25,
+  "actions": [
+    "Attack",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7706,
+      5400
+    ],
+    [
+      7587,
+      5404
+    ],
+    [
+      5437,
+      5417
+    ]
+  ],
+  "category": 1937
+}

@@ -5,6 +5,8 @@
   ],
   "is_transparent": true,
   "unknown_19": 0,
+  "ambient": 15,
+  "contrast": 15,
   "colours": [
     [
       7335,

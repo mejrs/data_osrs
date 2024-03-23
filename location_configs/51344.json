@@ -1,0 +1,35 @@
+{
+  "id": 51344,
+  "name": "Brazier",
+  "models_2": [
+    52870
+  ],
+  "is_transparent": true,
+  "unknown_24": 6646,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      7114,
+      38366
+    ],
+    [
+      7128,
+      38366
+    ],
+    [
+      6049,
+      38309
+    ],
+    [
+      5786,
+      36135
+    ]
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 2065,
+    "unknown_2": 3
+  }
+}

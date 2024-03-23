@@ -4,6 +4,7 @@
   "models_2": [
     37903
   ],
-  "ambient": 2,
-  "contrast": 5
+  "ambient": 15,
+  "contrast": 20,
+  "mapscene": 131
 }

@@ -1,0 +1,22 @@
+{
+  "id": 52563,
+  "models_2": [
+    51321
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 30,
+  "colours": [
+    [
+      7227,
+      7836
+    ],
+    [
+      7236,
+      7733
+    ]
+  ],
+  "mapscene": 176
+}

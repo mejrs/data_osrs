@@ -1,0 +1,20 @@
+{
+  "id": 50592,
+  "name": "Rubble",
+  "models_2": [
+    50403
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 40,
+  "category": 1905
+}

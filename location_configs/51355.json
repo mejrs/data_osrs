@@ -1,0 +1,36 @@
+{
+  "id": 51355,
+  "models": [
+    [
+      22,
+      48405
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      3350,
+      5660
+    ],
+    [
+      2328,
+      5656
+    ],
+    [
+      274,
+      5524
+    ],
+    [
+      5400,
+      6565
+    ]
+  ],
+  "mirror": true,
+  "model": false,
+  "unknown_73": true,
+  "mapscene": 46
+}

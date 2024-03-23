@@ -1,0 +1,25 @@
+{
+  "id": 53016,
+  "name": "Libation bowl",
+  "models_2": [
+    52289
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Sacrifice",
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      9152,
+      555
+    ]
+  ]
+}
