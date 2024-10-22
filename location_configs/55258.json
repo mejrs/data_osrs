@@ -1,0 +1,18 @@
+{
+  "id": 55258,
+  "models_2": [
+    54500
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "model": false,
+  "scale_x": 112,
+  "scale_y": 98,
+  "scale_z": 112
+}

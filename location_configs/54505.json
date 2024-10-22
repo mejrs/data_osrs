@@ -1,0 +1,14 @@
+{
+  "id": 54505,
+  "name": "Trap",
+  "models_2": [
+    55305
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 1112,
+  "ambient": 30,
+  "contrast": 50,
+  "model": false,
+  "unknown_73": true
+}

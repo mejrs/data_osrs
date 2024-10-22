@@ -1,0 +1,11 @@
+{
+  "id": 55057,
+  "name": "Chair",
+  "models_2": [
+    48545
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 20,
+  "contrast": 20
+}

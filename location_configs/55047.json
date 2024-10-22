@@ -1,0 +1,19 @@
+{
+  "id": 55047,
+  "name": "Cellar entrance",
+  "models_2": [
+    54929
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

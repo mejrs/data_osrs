@@ -1,0 +1,45 @@
+{
+  "id": 55612,
+  "models": [
+    [
+      22,
+      55386
+    ]
+  ],
+  "name": "Dark green pumpkins",
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5555,
+      28562
+    ],
+    [
+      5433,
+      28564
+    ],
+    [
+      6466,
+      28554
+    ],
+    [
+      6470,
+      28558
+    ],
+    [
+      6472,
+      28554
+    ]
+  ],
+  "category": 2130,
+  "unknown_73": true,
+  "mapscene": 147
+}

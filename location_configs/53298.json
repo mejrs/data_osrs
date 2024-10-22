@@ -1,0 +1,12 @@
+{
+  "id": 53298,
+  "name": "Statue of Turael",
+  "models_2": [
+    53675,
+    53679
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15
+}

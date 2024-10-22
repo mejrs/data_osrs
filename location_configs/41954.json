@@ -5,14 +5,17 @@
     24082
   ],
   "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
   "colours": [
     [
-      8483,
-      6932
+      6707,
+      5532
     ],
     [
-      7333,
-      6684
+      7952,
+      5537
     ]
   ]
 }

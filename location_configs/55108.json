@@ -1,0 +1,25 @@
+{
+  "id": 55108,
+  "name": "Fern",
+  "models_2": [
+    23478
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "colours": [
+    [
+      5210,
+      8105
+    ],
+    [
+      7380,
+      8097
+    ],
+    [
+      8390,
+      8088
+    ]
+  ]
+}

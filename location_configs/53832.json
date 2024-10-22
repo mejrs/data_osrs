@@ -1,0 +1,51 @@
+{
+  "id": 53832,
+  "name": "Hole",
+  "models_2": [
+    53850
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      16652,
+      0
+    ],
+    [
+      17682,
+      21642
+    ],
+    [
+      16532,
+      21642
+    ],
+    [
+      17562,
+      21646
+    ],
+    [
+      17566,
+      21652
+    ],
+    [
+      17459,
+      21646
+    ],
+    [
+      10258,
+      10365
+    ]
+  ],
+  "category": 2027
+}

@@ -1,0 +1,17 @@
+{
+  "id": 55488,
+  "name": "Scarecrow",
+  "models_2": [
+    55407,
+    55402
+  ],
+  "ambient": 15,
+  "actions": [
+    "Dig-up",
+    "Change",
+    "Rotate-clockwise",
+    "Rotate-anticlockwise",
+    null
+  ],
+  "contrast": 25
+}

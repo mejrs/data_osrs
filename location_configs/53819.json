@@ -1,0 +1,19 @@
+{
+  "id": 53819,
+  "name": "Brazier",
+  "models_2": [
+    53943
+  ],
+  "unknown_19": 1,
+  "unknown_24": 11259,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2023
+}

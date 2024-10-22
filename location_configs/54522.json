@@ -1,0 +1,21 @@
+{
+  "id": 54522,
+  "name": "Lift Platform",
+  "models_2": [
+    54813
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

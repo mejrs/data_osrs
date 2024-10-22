@@ -1,0 +1,15 @@
+{
+  "id": 55261,
+  "name": "Shabby tent",
+  "models_2": [
+    26482
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 20,
+  "scale_x": 100,
+  "scale_z": 100
+}

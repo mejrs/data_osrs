@@ -11,7 +11,8 @@
     ]
   ],
   "unknown_19": 0,
-  "ambient": 25,
+  "ambient": 15,
+  "contrast": 15,
   "colours": [
     [
       6945,

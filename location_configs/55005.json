@@ -1,0 +1,18 @@
+{
+  "id": 55005,
+  "name": "Grapevine",
+  "models_2": [
+    54485
+  ],
+  "ambient": 30,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2082,
+  "mapscene": 190
+}

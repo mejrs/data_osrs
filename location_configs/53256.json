@@ -1,0 +1,20 @@
+{
+  "id": 53256,
+  "models": [
+    [
+      0,
+      53137
+    ]
+  ],
+  "name": "Dry stone wall",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Jump-Across",
+    null,
+    null,
+    null,
+    null
+  ]
+}

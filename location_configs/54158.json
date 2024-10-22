@@ -1,0 +1,24 @@
+{
+  "id": 54158,
+  "name": "Web tunnel",
+  "models_2": [
+    54307
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -30,
+  "contrast": 75,
+  "colours": [
+    [
+      14511,
+      410
+    ],
+    [
+      18597,
+      156
+    ]
+  ],
+  "model": false
+}

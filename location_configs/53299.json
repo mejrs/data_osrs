@@ -1,0 +1,12 @@
+{
+  "id": 53299,
+  "name": "Statue of Duradel",
+  "models_2": [
+    53675,
+    53681
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15
+}

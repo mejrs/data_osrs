@@ -1,0 +1,19 @@
+{
+  "id": 54710,
+  "name": "Wine storage",
+  "models_2": [
+    54888
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

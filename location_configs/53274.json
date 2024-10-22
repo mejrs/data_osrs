@@ -1,0 +1,21 @@
+{
+  "id": 53274,
+  "models": [
+    [
+      22,
+      53488
+    ]
+  ],
+  "name": "Pit trap",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    null,
+    null,
+    "Bait",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_73": true
+}

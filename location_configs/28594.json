@@ -4,6 +4,7 @@
   "models_2": [
     21969
   ],
+  "ambient": 10,
   "actions": [
     "Use",
     null,
@@ -11,6 +12,7 @@
     null,
     null
   ],
+  "contrast": 20,
   "colours": [
     [
       7725,

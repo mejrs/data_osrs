@@ -1,0 +1,29 @@
+{
+  "id": 54708,
+  "name": "Jug",
+  "models_2": [
+    50373
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      2479
+    ],
+    [
+      417,
+      62992
+    ]
+  ]
+}

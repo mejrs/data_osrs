@@ -9,6 +9,13 @@
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 20,
+  "actions": [
+    "Claim",
+    null,
+    null,
+    null,
+    null
+  ],
   "contrast": 30,
   "model": false
 }

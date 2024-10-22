@@ -1,0 +1,17 @@
+{
+  "id": 54062,
+  "name": "Debug Man",
+  "models_2": [
+    54135
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8050,
+  "unknown_27": false,
+  "colours": [
+    [
+      55232,
+      55232
+    ]
+  ]
+}

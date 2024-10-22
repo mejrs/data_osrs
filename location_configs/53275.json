@@ -1,0 +1,14 @@
+{
+  "id": 53275,
+  "models": [
+    [
+      22,
+      53546
+    ]
+  ],
+  "name": "Baited pit trap",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 25,
+  "unknown_73": true
+}

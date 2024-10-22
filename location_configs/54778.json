@@ -1,0 +1,38 @@
+{
+  "id": 54778,
+  "name": "Well",
+  "models_2": [
+    47120
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      9525,
+      6457
+    ],
+    [
+      9521,
+      6455
+    ],
+    [
+      9519,
+      6453
+    ],
+    [
+      9511,
+      6451
+    ],
+    [
+      9630,
+      5543
+    ]
+  ],
+  "category": 245,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

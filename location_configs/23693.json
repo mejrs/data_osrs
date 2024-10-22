@@ -1,15 +1,15 @@
 {
   "id": 23693,
-  "name": "Cupboard",
-  "models_2": [
-    10600
+  "models": [
+    [
+      0,
+      53144
+    ]
   ],
-  "actions": [
-    "Search",
-    null,
-    null,
-    null,
-    null
-  ],
-  "unknown_69": 14
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 30,
+  "mirror": true,
+  "translate_y": 180
 }

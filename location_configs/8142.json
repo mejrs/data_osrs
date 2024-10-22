@@ -1,18 +1,11 @@
 {
   "id": 8142,
-  "name": "Herbs",
+  "name": "Closed bank booth",
   "models_2": [
-    7874,
-    7766
+    29244
   ],
-  "dim_x": 2,
-  "dim_y": 2,
+  "is_transparent": true,
   "ambient": 25,
-  "actions": [
-    null,
-    "Inspect",
-    null,
-    "Guide",
-    null
-  ]
+  "contrast": 25,
+  "mirror": true
 }

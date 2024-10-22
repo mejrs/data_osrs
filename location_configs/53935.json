@@ -1,0 +1,20 @@
+{
+  "id": 53935,
+  "name": "Pile of weights",
+  "models_2": [
+    53601
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_73": true
+}

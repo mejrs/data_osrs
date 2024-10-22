@@ -1,0 +1,16 @@
+{
+  "id": 53290,
+  "name": "Herb patch",
+  "models_2": [
+    53301
+  ],
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

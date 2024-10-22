@@ -1,0 +1,13 @@
+{
+  "id": 55425,
+  "name": "Grape storage",
+  "models_2": [
+    54885,
+    55345
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 11647,
+  "ambient": 30,
+  "contrast": 15
+}

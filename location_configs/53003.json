@@ -13,8 +13,8 @@
   "unknown_27": false,
   "ambient": -30,
   "actions": [
-    "Escape",
     "Quick-escape",
+    "Escape",
     null,
     null,
     null

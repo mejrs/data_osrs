@@ -1,0 +1,10 @@
+{
+  "id": 55474,
+  "name": "Jack-O-Lantern",
+  "models_2": [
+    55392
+  ],
+  "ambient": 20,
+  "contrast": 20,
+  "mirror": true
+}

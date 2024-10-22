@@ -5,6 +5,8 @@
     8689
   ],
   "is_transparent": true,
+  "ambient": 40,
+  "contrast": 20,
   "colours": [
     [
       16536,

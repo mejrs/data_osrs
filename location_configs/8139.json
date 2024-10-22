@@ -1,18 +1,18 @@
 {
   "id": 8139,
-  "name": "Herbs",
+  "name": "Bank booth",
   "models_2": [
-    7871,
-    7766
+    29243
   ],
-  "dim_x": 2,
-  "dim_y": 2,
+  "is_transparent": true,
   "ambient": 25,
   "actions": [
     null,
-    "Inspect",
+    "Bank",
+    "Collect",
     null,
-    "Guide",
     null
-  ]
+  ],
+  "contrast": 25,
+  "category": 684
 }

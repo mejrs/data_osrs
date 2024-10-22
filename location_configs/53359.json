@@ -1,0 +1,46 @@
+{
+  "id": 53359,
+  "name": "Desk",
+  "models_2": [
+    53737,
+    53725
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      7952
+    ],
+    [
+      6439,
+      8076
+    ],
+    [
+      6563,
+      8076
+    ],
+    [
+      6558,
+      7952
+    ],
+    [
+      6682,
+      8076
+    ],
+    [
+      6806,
+      8076
+    ]
+  ],
+  "category": 154
+}

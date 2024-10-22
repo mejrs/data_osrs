@@ -5,5 +5,8 @@
     14207
   ],
   "is_transparent": true,
-  "unknown_24": 492
+  "unknown_24": 492,
+  "ambient": 10,
+  "contrast": 15,
+  "model": false
 }

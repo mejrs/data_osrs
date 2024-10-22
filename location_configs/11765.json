@@ -8,7 +8,8 @@
   ],
   "name": "Door",
   "unknown_19": 1,
-  "ambient": 20,
+  "ambient": 15,
+  "contrast": 15,
   "colours": [
     [
       5532,

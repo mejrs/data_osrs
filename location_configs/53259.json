@@ -1,0 +1,22 @@
+{
+  "id": 53259,
+  "models": [
+    [
+      0,
+      53135
+    ]
+  ],
+  "name": "Crevice",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Squeeze-Through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mapscene": 7
+}

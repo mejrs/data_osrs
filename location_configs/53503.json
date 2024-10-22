@@ -1,0 +1,51 @@
+{
+  "id": 53503,
+  "name": "Table",
+  "models_2": [
+    53719,
+    53710
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      7952
+    ],
+    [
+      6439,
+      8076
+    ],
+    [
+      6563,
+      8076
+    ],
+    [
+      6558,
+      7952
+    ],
+    [
+      6682,
+      8076
+    ],
+    [
+      6806,
+      8076
+    ],
+    [
+      7580,
+      7566
+    ]
+  ],
+  "category": 154
+}

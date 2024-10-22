@@ -7,6 +7,7 @@
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
+  "ambient": 5,
   "actions": [
     "Excavate",
     null,
@@ -14,5 +15,6 @@
     null,
     null
   ],
+  "contrast": 30,
   "category": 913
 }

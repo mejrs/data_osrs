@@ -1,0 +1,13 @@
+{
+  "id": 55299,
+  "name": "Obelisk",
+  "models_2": [
+    54933
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 60
+}

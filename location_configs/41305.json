@@ -11,7 +11,7 @@
   "actions": [
     "Climb",
     "Quick-climb",
-    null,
+    "Solo-start",
     null,
     null
   ],

@@ -4,6 +4,7 @@
   "models_2": [
     21248
   ],
+  "unknown_21": true,
   "unknown_22": true,
   "ambient": 20,
   "actions": [
@@ -14,5 +15,5 @@
     null
   ],
   "contrast": 20,
-  "scale_y": 153
+  "scale_y": 154
 }

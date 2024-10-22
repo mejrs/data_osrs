@@ -1,0 +1,24 @@
+{
+  "id": 53067,
+  "name": "Easter egg rock",
+  "models_2": [
+    1390
+  ],
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      24,
+      4626
+    ]
+  ],
+  "mapscene": 12
+}

@@ -7,11 +7,14 @@
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,
+  "ambient": 10,
   "actions": [
     "Pick",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "contrast": 15,
+  "model": false
 }

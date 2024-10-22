@@ -1,0 +1,45 @@
+{
+  "id": 55608,
+  "models": [
+    [
+      22,
+      55386
+    ]
+  ],
+  "name": "White pumpkins",
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5555,
+      9436
+    ],
+    [
+      5433,
+      9443
+    ],
+    [
+      6466,
+      9436
+    ],
+    [
+      6470,
+      9447
+    ],
+    [
+      6472,
+      9451
+    ]
+  ],
+  "category": 2130,
+  "unknown_73": true,
+  "mapscene": 154
+}

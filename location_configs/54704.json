@@ -1,0 +1,17 @@
+{
+  "id": 54704,
+  "name": "Antique wine",
+  "models_2": [
+    54887
+  ],
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

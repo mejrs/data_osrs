@@ -7,10 +7,13 @@
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,
+  "ambient": 10,
+  "contrast": 15,
   "colours": [
     [
       22439,
       17065
     ]
-  ]
+  ],
+  "model": false
 }

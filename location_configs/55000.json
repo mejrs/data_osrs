@@ -1,0 +1,9 @@
+{
+  "id": 55000,
+  "name": "Grape barrel",
+  "models_2": [
+    54886
+  ],
+  "ambient": 30,
+  "contrast": 15
+}

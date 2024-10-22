@@ -1,6 +1,6 @@
 {
   "id": 21272,
-  "name": "Funeral Pyre",
+  "name": "Arctic Pine Pyre",
   "models_2": [
     4138
   ],
@@ -21,5 +21,6 @@
       7582,
       6705
     ]
-  ]
+  ],
+  "category": 2052
 }

@@ -1,0 +1,45 @@
+{
+  "id": 55609,
+  "models": [
+    [
+      22,
+      55386
+    ]
+  ],
+  "name": "Yellow pumpkins",
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5555,
+      10167
+    ],
+    [
+      5433,
+      10171
+    ],
+    [
+      6466,
+      10039
+    ],
+    [
+      6470,
+      10173
+    ],
+    [
+      6472,
+      10178
+    ]
+  ],
+  "category": 2130,
+  "unknown_73": true,
+  "mapscene": 155
+}

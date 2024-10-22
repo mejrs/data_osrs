@@ -7,6 +7,8 @@
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,
+  "ambient": 10,
+  "contrast": 15,
   "colours": [
     [
       61,
@@ -28,5 +30,6 @@
       33,
       3470
     ]
-  ]
+  ],
+  "model": false
 }

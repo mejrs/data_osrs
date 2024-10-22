@@ -1,0 +1,20 @@
+{
+  "id": 54683,
+  "models": [
+    [
+      4,
+      6540
+    ]
+  ],
+  "name": "Icy water",
+  "unknown_19": 1,
+  "unknown_24": 2054,
+  "ambient": 80,
+  "scale_y": 212,
+  "scale_z": 128,
+  "translate_x": 34,
+  "unknown_78": {
+    "unknown_1": 2151,
+    "unknown_2": 3
+  }
+}

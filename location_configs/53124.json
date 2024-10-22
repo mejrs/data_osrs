@@ -1,0 +1,13 @@
+{
+  "id": 53124,
+  "name": "Altar",
+  "models_2": [
+    53066
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 45,
+  "contrast": 30,
+  "category": 897
+}

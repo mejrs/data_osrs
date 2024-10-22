@@ -1,0 +1,40 @@
+{
+  "id": 53288,
+  "models": [
+    [
+      22,
+      53447
+    ]
+  ],
+  "name": "Ledge",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      30,
+      39021
+    ],
+    [
+      35,
+      39021
+    ],
+    [
+      39,
+      39021
+    ],
+    [
+      43,
+      39021
+    ]
+  ]
+}

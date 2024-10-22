@@ -1,6 +1,6 @@
 {
   "id": 9009,
-  "name": "Funeral Pyre",
+  "name": "Mahogany Pyre",
   "models_2": [
     4138
   ],
@@ -21,5 +21,6 @@
       7582,
       6585
     ]
-  ]
+  ],
+  "category": 2052
 }

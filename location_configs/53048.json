@@ -1,0 +1,17 @@
+{
+  "id": 53048,
+  "name": "Unlit brazier",
+  "models_2": [
+    53072
+  ],
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

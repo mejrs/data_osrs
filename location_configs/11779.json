@@ -7,7 +7,8 @@
     ]
   ],
   "unknown_19": 0,
-  "ambient": 20,
+  "ambient": 15,
+  "contrast": 15,
   "colours": [
     [
       5532,

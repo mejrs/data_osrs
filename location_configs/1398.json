@@ -6,10 +6,13 @@
   ],
   "dim_x": 2,
   "is_transparent": true,
+  "ambient": 10,
+  "contrast": 15,
   "colours": [
     [
       17304,
       22447
     ]
-  ]
+  ],
+  "model": false
 }

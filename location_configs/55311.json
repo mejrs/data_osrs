@@ -1,0 +1,22 @@
+{
+  "id": 55311,
+  "name": "Wreck",
+  "models_2": [
+    18323
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 20,
+  "colours": [
+    [
+      7333,
+      6684
+    ],
+    [
+      7452,
+      6932
+    ]
+  ],
+  "model": false
+}

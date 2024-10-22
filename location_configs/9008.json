@@ -1,6 +1,6 @@
 {
   "id": 9008,
-  "name": "Funeral Pyre",
+  "name": "Teak Pyre",
   "models_2": [
     4138
   ],
@@ -21,5 +21,6 @@
       7582,
       5665
     ]
-  ]
+  ],
+  "category": 2052
 }

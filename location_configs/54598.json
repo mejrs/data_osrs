@@ -1,0 +1,38 @@
+{
+  "id": 54598,
+  "models": [
+    [
+      0,
+      54623
+    ],
+    [
+      1,
+      54641
+    ],
+    [
+      9,
+      54618
+    ],
+    [
+      22,
+      54611
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 50,
+  "colours": [
+    [
+      38226,
+      32893
+    ],
+    [
+      34140,
+      32893
+    ]
+  ],
+  "translate_y": 65534
+}

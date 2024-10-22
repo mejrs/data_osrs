@@ -5,6 +5,7 @@
     1391
   ],
   "is_transparent": true,
+  "ambient": 10,
   "actions": [
     "Mine",
     null,
@@ -12,6 +13,7 @@
     null,
     null
   ],
+  "contrast": 20,
   "colours": [
     [
       24,

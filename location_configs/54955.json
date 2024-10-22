@@ -1,0 +1,14 @@
+{
+  "id": 54955,
+  "name": "Wine storage",
+  "models_2": [
+    54882
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 0,
+  "contrast": 25,
+  "scale_z": 156,
+  "translate_z": 65520
+}

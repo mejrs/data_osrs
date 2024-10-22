@@ -1,0 +1,14 @@
+{
+  "id": 54502,
+  "name": "Carving",
+  "models_2": [
+    54857
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_24": 9562,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 60,
+  "category": 1668
+}

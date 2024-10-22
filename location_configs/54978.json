@@ -1,0 +1,11 @@
+{
+  "id": 54978,
+  "name": "Potted palm",
+  "models_2": [
+    54493
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 30,
+  "contrast": 15
+}

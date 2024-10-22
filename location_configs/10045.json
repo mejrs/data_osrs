@@ -12,7 +12,7 @@
   ],
   "name": "Door",
   "unknown_19": 1,
-  "ambient": 25,
+  "ambient": 15,
   "actions": [
     "Open",
     null,
@@ -20,6 +20,7 @@
     null,
     null
   ],
+  "contrast": 15,
   "colours": [
     [
       6945,

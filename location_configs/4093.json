@@ -7,7 +7,7 @@
   "dim_y": 3,
   "unknown_24": 1303,
   "actions": [
-    null,
+    "Build",
     null,
     null,
     "Hidden",

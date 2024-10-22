@@ -1,0 +1,45 @@
+{
+  "id": 55613,
+  "models": [
+    [
+      22,
+      55386
+    ]
+  ],
+  "name": "Powder grey pumpkins",
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5555,
+      27848
+    ],
+    [
+      5433,
+      27852
+    ],
+    [
+      6466,
+      27860
+    ],
+    [
+      6470,
+      27852
+    ],
+    [
+      6472,
+      27860
+    ]
+  ],
+  "category": 2130,
+  "unknown_73": true,
+  "mapscene": 149
+}

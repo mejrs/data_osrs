@@ -1,0 +1,12 @@
+{
+  "id": 54719,
+  "name": "Costume rack",
+  "models_2": [
+    54890
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 30
+}

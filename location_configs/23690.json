@@ -1,9 +1,13 @@
 {
   "id": 23690,
-  "name": "Cupboard",
+  "name": "Food pot",
   "models_2": [
-    10599
+    52386
   ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
   "actions": [
     "Search",
     null,
@@ -11,5 +15,8 @@
     null,
     null
   ],
-  "unknown_69": 14
+  "contrast": 30,
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192
 }

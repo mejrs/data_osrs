@@ -1,0 +1,10 @@
+{
+  "id": 54447,
+  "name": "Altar",
+  "models_2": [
+    54532
+  ],
+  "dim_x": 4,
+  "ambient": 10,
+  "contrast": 20
+}

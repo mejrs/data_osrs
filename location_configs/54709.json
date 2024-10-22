@@ -1,0 +1,33 @@
+{
+  "id": 54709,
+  "name": "Broken pottery",
+  "models_2": [
+    50368
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      70,
+      2479
+    ],
+    [
+      61,
+      2475
+    ],
+    [
+      51,
+      2469
+    ]
+  ]
+}

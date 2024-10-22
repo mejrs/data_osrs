@@ -1,0 +1,12 @@
+{
+  "id": 54150,
+  "name": "Scroll",
+  "models_2": [
+    54308
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 40,
+  "contrast": 30
+}

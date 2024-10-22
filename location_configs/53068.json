@@ -1,0 +1,15 @@
+{
+  "id": 53068,
+  "name": "Easter mine cart",
+  "models_2": [
+    1398
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Deposit-eggs",
+    "Check",
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 54994,
+  "name": "Wine storage",
+  "models_2": [
+    54880
+  ],
+  "dim_x": 3,
+  "ambient": 30,
+  "contrast": 15
+}

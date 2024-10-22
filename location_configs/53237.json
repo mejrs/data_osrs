@@ -1,0 +1,17 @@
+{
+  "id": 53237,
+  "name": "Stepping stone",
+  "models_2": [
+    7766
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_z": 256
+}

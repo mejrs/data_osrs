@@ -10,7 +10,7 @@
   "unknown_21": true,
   "unknown_24": 9366,
   "unknown_27": false,
-  "ambient": 100,
+  "ambient": 50,
   "actions": [
     "Pass",
     "Peek",
@@ -19,6 +19,12 @@
     null
   ],
   "contrast": 100,
+  "colours": [
+    [
+      8132,
+      8152
+    ]
+  ],
   "category": 1625,
   "model": false,
   "scale_x": 160,

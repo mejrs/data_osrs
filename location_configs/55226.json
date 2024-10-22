@@ -1,0 +1,14 @@
+{
+  "id": 55226,
+  "name": "Melee brazier",
+  "models_2": [
+    54966,
+    54967
+  ],
+  "unknown_19": 1,
+  "unknown_24": 475,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "category": 2083
+}

@@ -7,6 +7,7 @@
   "dim_x": 2,
   "unknown_17": false,
   "ambient": 10,
-  "contrast": 30,
+  "contrast": 15,
+  "model": false,
   "mapscene": 5
 }

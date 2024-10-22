@@ -1,0 +1,33 @@
+{
+  "id": 55234,
+  "name": "Slope",
+  "models_2": [
+    21584
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 40,
+  "actions": [
+    "Slide",
+    "Quick-slide",
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "colours": [
+    [
+      37991,
+      115
+    ],
+    [
+      38119,
+      76
+    ],
+    [
+      34014,
+      76
+    ]
+  ],
+  "model": false
+}

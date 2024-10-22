@@ -1,18 +1,37 @@
 {
   "id": 8143,
-  "name": "Herbs",
   "models_2": [
-    7875,
-    7766
+    29061
   ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "ambient": 25,
-  "actions": [
-    "Pick",
-    "Inspect",
-    null,
-    "Guide",
-    null
+  "dim_y": 5,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 30,
+  "colours": [
+    [
+      7343,
+      10671
+    ],
+    [
+      7339,
+      10667
+    ],
+    [
+      7335,
+      10663
+    ],
+    [
+      7331,
+      10661
+    ],
+    [
+      7326,
+      10657
+    ],
+    [
+      7322,
+      10652
+    ]
   ]
 }

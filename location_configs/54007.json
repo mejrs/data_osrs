@@ -1,0 +1,11 @@
+{
+  "id": 54007,
+  "name": "Books",
+  "models_2": [
+    53639
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15
+}

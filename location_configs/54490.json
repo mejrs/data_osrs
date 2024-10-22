@@ -1,0 +1,24 @@
+{
+  "id": 54490,
+  "name": "Urn",
+  "models_2": [
+    54829,
+    54830
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "category": 2075,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140
+}

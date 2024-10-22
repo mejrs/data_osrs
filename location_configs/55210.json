@@ -1,0 +1,14 @@
+{
+  "id": 55210,
+  "name": "Magic brazier",
+  "models_2": [
+    54966,
+    54964
+  ],
+  "unknown_19": 1,
+  "unknown_24": 475,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "category": 2083
+}

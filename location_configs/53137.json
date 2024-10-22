@@ -1,0 +1,26 @@
+{
+  "id": 53137,
+  "name": "Bush",
+  "models_2": [
+    36589
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 15,
+  "colours": [
+    [
+      12942,
+      24988
+    ],
+    [
+      13964,
+      24980
+    ],
+    [
+      14858,
+      27152
+    ]
+  ],
+  "mapscene": 5
+}

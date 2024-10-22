@@ -1,0 +1,24 @@
+{
+  "id": 53724,
+  "models": [
+    [
+      22,
+      53742
+    ]
+  ],
+  "name": "Vine flower",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11250,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_89": false
+}

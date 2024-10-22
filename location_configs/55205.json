@@ -1,0 +1,25 @@
+{
+  "id": 55205,
+  "name": "Rockslide (private)",
+  "models_2": [
+    818
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Leave-group",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      6689,
+      47
+    ]
+  ]
+}

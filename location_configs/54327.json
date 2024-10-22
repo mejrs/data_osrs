@@ -1,0 +1,25 @@
+{
+  "id": 54327,
+  "name": "Drip",
+  "models_2": [
+    15524
+  ],
+  "unknown_17": false,
+  "unknown_24": 4217,
+  "ambient": -30,
+  "contrast": 40,
+  "colours": [
+    [
+      27856,
+      40237
+    ],
+    [
+      28764,
+      40237
+    ]
+  ],
+  "model": false,
+  "scale_x": 250,
+  "scale_y": 250,
+  "scale_z": 250
+}

@@ -1,0 +1,24 @@
+{
+  "id": 55221,
+  "models": [
+    [
+      4,
+      54914
+    ]
+  ],
+  "name": "Ranged engraving",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 60,
+  "contrast": 60,
+  "colours": [
+    [
+      315,
+      19769
+    ],
+    [
+      968,
+      20424
+    ]
+  ]
+}

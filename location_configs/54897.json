@@ -1,0 +1,50 @@
+{
+  "id": 54897,
+  "name": "Alembic",
+  "models_2": [
+    54875
+  ],
+  "unknown_21": true,
+  "unknown_24": 11638,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Crystalise-potion",
+    null,
+    "Check",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      48563,
+      19228
+    ],
+    [
+      48547,
+      19226
+    ],
+    [
+      48666,
+      19224
+    ],
+    [
+      61229,
+      7081
+    ],
+    [
+      61223,
+      7077
+    ],
+    [
+      61214,
+      7073
+    ],
+    [
+      48198,
+      7073
+    ]
+  ],
+  "model": false
+}

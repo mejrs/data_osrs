@@ -1,0 +1,18 @@
+{
+  "id": 55640,
+  "name": "Storage bin",
+  "models_2": [
+    7838,
+    7845,
+    55412
+  ],
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Withdraw",
+    null,
+    null,
+    null,
+    null
+  ]
+}

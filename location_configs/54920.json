@@ -1,0 +1,47 @@
+{
+  "id": 54920,
+  "name": "Mixing vessel (Mystic mana amalgam)",
+  "models_2": [
+    54866
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11628,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      48563,
+      31390
+    ],
+    [
+      48547,
+      31382
+    ],
+    [
+      48666,
+      33296
+    ],
+    [
+      61229,
+      35755
+    ],
+    [
+      61223,
+      35749
+    ],
+    [
+      61214,
+      35742
+    ]
+  ],
+  "model": false
+}

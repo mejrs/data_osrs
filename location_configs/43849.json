@@ -10,7 +10,7 @@
   "unknown_21": true,
   "unknown_24": 9366,
   "unknown_27": false,
-  "ambient": 100,
+  "ambient": 50,
   "actions": [
     "Pass",
     "Peek",

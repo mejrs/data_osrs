@@ -1,0 +1,51 @@
+{
+  "id": 54927,
+  "name": "Mixing vessel (Megalite liquid)",
+  "models_2": [
+    54865
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11628,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      48563,
+      677
+    ],
+    [
+      48547,
+      317
+    ],
+    [
+      48666,
+      206
+    ],
+    [
+      61229,
+      46406
+    ],
+    [
+      61223,
+      46414
+    ],
+    [
+      61214,
+      46426
+    ],
+    [
+      48198,
+      46261
+    ]
+  ],
+  "model": false
+}

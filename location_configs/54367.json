@@ -1,0 +1,24 @@
+{
+  "id": 54367,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Gate",
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      163
+    ],
+    [
+      37,
+      152
+    ]
+  ],
+  "unknown_75": 0
+}

@@ -1,0 +1,12 @@
+{
+  "id": 53297,
+  "name": "Statue of Hazelmere",
+  "models_2": [
+    53675,
+    53677
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15
+}

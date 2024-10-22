@@ -1,0 +1,11 @@
+{
+  "id": 55430,
+  "name": "Jack-O-Lantern",
+  "models_2": [
+    46670
+  ],
+  "unknown_17": false,
+  "ambient": 10,
+  "contrast": 20,
+  "translate_z": 32
+}

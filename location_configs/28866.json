@@ -1,6 +1,6 @@
 {
   "id": 28866,
-  "name": "Funeral Pyre",
+  "name": "Redwood Pyre",
   "models_2": [
     4138
   ],
@@ -11,5 +11,6 @@
     null,
     "Hidden",
     null
-  ]
+  ],
+  "category": 2052
 }

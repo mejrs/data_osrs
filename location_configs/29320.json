@@ -8,8 +8,8 @@
   "ambient": 25,
   "actions": [
     "Take-concoction",
-    "Take-5-concoction",
-    "Take-10-concoction",
+    "Take-5 concoctions",
+    "Take-10 concoctions",
     null,
     null
   ],

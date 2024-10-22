@@ -1,0 +1,13 @@
+{
+  "id": 54278,
+  "name": "Ancient tablet",
+  "models_2": [
+    54854
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false
+}

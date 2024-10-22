@@ -1,0 +1,11 @@
+{
+  "id": 53143,
+  "name": "Fungus",
+  "models_2": [
+    33656
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 30
+}

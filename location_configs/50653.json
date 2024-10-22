@@ -8,7 +8,8 @@
   ],
   "name": "Door",
   "unknown_19": 1,
-  "ambient": 25,
+  "ambient": 15,
+  "contrast": 15,
   "category": 168,
   "scale_y": 158,
   "unknown_75": 0

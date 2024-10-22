@@ -6,5 +6,8 @@
   ],
   "dim_x": 2,
   "dim_y": 2,
-  "is_transparent": true
+  "is_transparent": true,
+  "ambient": 10,
+  "contrast": 15,
+  "model": false
 }

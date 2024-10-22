@@ -1,0 +1,51 @@
+{
+  "id": 54926,
+  "name": "Mixing vessel (Anti-leech lotion)",
+  "models_2": [
+    54865
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11628,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      48563,
+      677
+    ],
+    [
+      48547,
+      317
+    ],
+    [
+      48666,
+      206
+    ],
+    [
+      61229,
+      16931
+    ],
+    [
+      61223,
+      16701
+    ],
+    [
+      61214,
+      16582
+    ],
+    [
+      48198,
+      16679
+    ]
+  ],
+  "model": false
+}

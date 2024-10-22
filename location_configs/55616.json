@@ -1,0 +1,23 @@
+{
+  "id": 55616,
+  "models": [
+    [
+      22,
+      55389
+    ]
+  ],
+  "name": "Yellow pumpkin seedling",
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Clear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 2130,
+  "unknown_73": true,
+  "mapscene": 109
+}

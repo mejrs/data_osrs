@@ -1,0 +1,25 @@
+{
+  "id": 54517,
+  "name": "Barrel",
+  "models_2": [
+    33909
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 80,
+  "actions": [
+    "Take-pickaxe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      61,
+      5652
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 54918,
+  "name": "Mixing vessel (Empty)",
+  "models_2": [
+    54866
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11627,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false
+}

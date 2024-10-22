@@ -1,0 +1,27 @@
+{
+  "id": 54712,
+  "name": "Broken stool",
+  "models_2": [
+    24082
+  ],
+  "is_transparent": true,
+  "ambient": 30,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      8483,
+      5537
+    ],
+    [
+      7333,
+      5532
+    ]
+  ]
+}

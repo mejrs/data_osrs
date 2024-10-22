@@ -1,0 +1,13 @@
+{
+  "id": 55021,
+  "name": "Clothes rack",
+  "models_2": [
+    54890
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 30
+}
