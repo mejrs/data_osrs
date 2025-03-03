@@ -1,0 +1,22 @@
+{
+  "id": 55937,
+  "name": "Candy canes",
+  "models_2": [
+    46874
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      557,
+      39607
+    ],
+    [
+      222,
+      39132
+    ]
+  ],
+  "model": false
+}

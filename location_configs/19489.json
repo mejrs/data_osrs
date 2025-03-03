@@ -1,13 +1,16 @@
 {
   "id": 19489,
-  "models": [
-    [
-      22,
-      19345
+  "unknown_73": true,
+  "morphs_1": {
+    "varbit": 3038,
+    "ids": [
+      null,
+      null,
+      null,
+      19633,
+      19488,
+      19491,
+      19636
     ]
-  ],
-  "unknown_21": true,
-  "unknown_24": 5260,
-  "ambient": 20,
-  "unknown_73": true
+  }
 }

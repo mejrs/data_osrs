@@ -6,7 +6,7 @@
   ],
   "unknown_19": 1,
   "unknown_24": 10744,
-  "ambient": 32,
+  "ambient": 90,
   "actions": [
     "Pass",
     null,
@@ -14,5 +14,5 @@
     null,
     null
   ],
-  "contrast": 116
+  "contrast": -56
 }

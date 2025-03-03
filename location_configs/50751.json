@@ -16,12 +16,6 @@
     null
   ],
   "contrast": 10,
-  "colours": [
-    [
-      43096,
-      61
-    ]
-  ],
   "scale_y": 480,
   "scale_z": 256
 }

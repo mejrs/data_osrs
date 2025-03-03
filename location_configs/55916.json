@@ -1,0 +1,41 @@
+{
+  "id": 55916,
+  "models": [
+    [
+      10,
+      43047
+    ],
+    [
+      22,
+      43056
+    ]
+  ],
+  "name": "Snowy Bush",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      6257,
+      37999
+    ],
+    [
+      6261,
+      38003
+    ],
+    [
+      6241,
+      37987
+    ],
+    [
+      127,
+      38003
+    ]
+  ],
+  "textures": {
+    "8": 127,
+    "60": 128
+  },
+  "mapscene": 9
+}

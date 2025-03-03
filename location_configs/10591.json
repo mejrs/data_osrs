@@ -8,8 +8,8 @@
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
-  "ambient": 15,
-  "contrast": 15,
+  "ambient": 20,
+  "contrast": 30,
   "colours": [
     [
       7335,
@@ -28,6 +28,7 @@
       38119
     ]
   ],
+  "model": false,
   "scale_x": 256,
   "scale_y": 256,
   "scale_z": 256

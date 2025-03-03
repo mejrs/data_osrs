@@ -8,14 +8,5 @@
   ],
   "name": "Door",
   "unknown_19": 1,
-  "colours": [
-    [
-      7089,
-      61
-    ]
-  ],
-  "textures": {
-    "3": 16
-  },
   "mirror": true
 }

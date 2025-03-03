@@ -17,5 +17,9 @@
     null
   ],
   "contrast": 10,
-  "category": 206
+  "category": 206,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
 }

@@ -1,22 +1,13 @@
 {
   "id": 50297,
-  "models": [
-    [
-      22,
-      50292
-    ]
-  ],
-  "name": "Yellow tile",
   "unknown_19": 1,
-  "ambient": 0,
-  "actions": [
-    "Walk-to",
-    null,
-    null,
-    null,
-    null
-  ],
-  "contrast": 40,
   "category": 1901,
-  "unknown_73": true
+  "unknown_73": true,
+  "morphs_2": {
+    "varbit": 11483,
+    "ids": [
+      55800
+    ],
+    "default": 55804
+  }
 }

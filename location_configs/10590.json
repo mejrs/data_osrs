@@ -6,8 +6,8 @@
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
-  "ambient": 15,
-  "contrast": 15,
+  "ambient": 20,
+  "contrast": 30,
   "colours": [
     [
       7335,
@@ -25,5 +25,6 @@
       5276,
       38119
     ]
-  ]
+  ],
+  "model": false
 }

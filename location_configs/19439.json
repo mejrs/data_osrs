@@ -1,39 +1,20 @@
 {
   "id": 19439,
-  "name": "Burrow",
-  "models_2": [
-    733
-  ],
-  "actions": [
-    "Inspect",
-    null,
-    null,
-    null,
-    null
-  ],
-  "colours": [
+  "models": [
     [
-      8656,
-      7595
-    ],
-    [
-      8644,
-      6569
-    ],
-    [
-      8631,
-      6439
-    ],
-    [
-      8747,
-      6558
-    ],
-    [
-      8862,
-      7954
+      22,
+      19342
     ]
   ],
-  "scale_x": 64,
-  "scale_y": 34,
-  "scale_z": 64
+  "unknown_21": true,
+  "unknown_24": 5260,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      8088,
+      5276
+    ]
+  ],
+  "unknown_73": true
 }

@@ -1,26 +1,19 @@
 {
   "id": 33391,
-  "name": "Portal Nexus",
+  "name": "Spiritual Fairy Tree",
   "models_2": [
-    36052
+    55583,
+    55873
   ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "unknown_24": 367,
+  "unknown_27": false,
   "actions": [
-    "Grand Exchange",
-    "Teleport Menu",
-    "Configuration",
-    null,
+    "Tree",
+    "Ring-Zanaris",
+    "Ring-configure",
+    "Ring-last-destination (CLS)",
     "Remove"
-  ],
-  "category": 206,
-  "scale_x": 96,
-  "scale_y": 96,
-  "scale_z": 96,
-  "unknown_78": {
-    "unknown_1": 3139,
-    "unknown_2": 3
-  }
+  ]
 }

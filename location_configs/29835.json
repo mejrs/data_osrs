@@ -8,11 +8,5 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
-  "occludes_1": false,
-  "colours": [
-    [
-      29194,
-      127
-    ]
-  ]
+  "occludes_1": false
 }

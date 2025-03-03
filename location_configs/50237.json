@@ -9,5 +9,19 @@
   "unknown_19": 0,
   "unknown_21": true,
   "ambient": 0,
-  "contrast": 40
+  "contrast": 40,
+  "colours": [
+    [
+      10266,
+      7467
+    ],
+    [
+      10275,
+      7471
+    ],
+    [
+      10270,
+      7471
+    ]
+  ]
 }

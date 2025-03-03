@@ -1,0 +1,13 @@
+{
+  "id": 55985,
+  "name": "Frozen Throne",
+  "models_2": [
+    55964
+  ],
+  "ambient": 40,
+  "contrast": 20,
+  "model": false,
+  "scale_x": 24,
+  "scale_y": 24,
+  "scale_z": 24
+}

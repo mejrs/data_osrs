@@ -1,0 +1,38 @@
+{
+  "id": 55871,
+  "name": "Runestone basalt",
+  "models_2": [
+    43393
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 9228,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": -100,
+  "colours": [
+    [
+      29656,
+      34762
+    ],
+    [
+      40103,
+      43175
+    ],
+    [
+      40094,
+      43166
+    ],
+    [
+      40210,
+      43294
+    ],
+    [
+      40458,
+      43288
+    ]
+  ],
+  "model": false,
+  "mapscene": 95
+}

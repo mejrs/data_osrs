@@ -2,15 +2,15 @@
   "id": 19453,
   "unknown_73": true,
   "morphs_1": {
-    "varbit": 2999,
+    "varbit": 3099,
     "ids": [
       null,
       null,
       null,
-      53226,
-      53227,
-      53228,
-      53229
+      null,
+      19439,
+      19439,
+      19439
     ]
   }
 }

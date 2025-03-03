@@ -3,15 +3,15 @@
   "unknown_24": 5260,
   "unknown_73": true,
   "morphs_1": {
-    "varbit": 3018,
+    "varbit": 3022,
     "ids": [
       null,
       null,
       null,
+      19633,
       19488,
-      19489,
-      19490,
-      19491
+      19491,
+      19636
     ]
   }
 }

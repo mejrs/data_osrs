@@ -1,18 +1,22 @@
 {
   "id": 28678,
-  "name": "Rowboat",
-  "models_2": [
-    18304,
-    14158
-  ],
-  "unknown_24": 3743,
-  "ambient": 20,
-  "contrast": 20,
-  "colours": [
+  "models": [
     [
-      27844,
-      38117
+      4,
+      27567
     ]
   ],
-  "model": false
+  "unknown_19": 0,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      43193,
+      8
+    ],
+    [
+      43177,
+      0
+    ]
+  ]
 }

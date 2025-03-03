@@ -16,5 +16,11 @@
     null,
     "Remove"
   ],
+  "colours": [
+    [
+      16,
+      12
+    ]
+  ],
   "category": 206
 }

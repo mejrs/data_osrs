@@ -6,7 +6,6 @@
   ],
   "dim_x": 3,
   "dim_y": 2,
-  "unknown_21": true,
   "actions": [
     "Enter",
     null,

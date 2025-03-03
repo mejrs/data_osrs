@@ -7,8 +7,8 @@
   "dim_x": 2,
   "unknown_19": 1,
   "actions": [
-    "Steal-From",
     null,
+    "Steal-From",
     null,
     null,
     null

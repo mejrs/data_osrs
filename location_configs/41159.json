@@ -14,5 +14,9 @@
     "Remove"
   ],
   "contrast": 20,
-  "category": 206
+  "category": 206,
+  "params": {
+    "429": 1,
+    "430": 1
+  }
 }

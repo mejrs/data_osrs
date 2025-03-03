@@ -1,0 +1,18 @@
+{
+  "id": 56133,
+  "name": "Mounted sea bass",
+  "models_2": [
+    56063
+  ],
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Trophies",
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

@@ -1,22 +1,13 @@
 {
   "id": 50296,
-  "models": [
-    [
-      22,
-      50290
-    ]
-  ],
-  "name": "Green tile",
   "unknown_19": 1,
-  "ambient": 0,
-  "actions": [
-    "Walk-to",
-    null,
-    null,
-    null,
-    null
-  ],
-  "contrast": 40,
   "category": 1901,
-  "unknown_73": true
+  "unknown_73": true,
+  "morphs_2": {
+    "varbit": 11483,
+    "ids": [
+      55799
+    ],
+    "default": 55803
+  }
 }

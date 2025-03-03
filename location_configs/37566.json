@@ -1,26 +1,36 @@
 {
   "id": 37566,
-  "name": "Portal Nexus",
-  "models_2": [
-    36053
+  "models": [
+    [
+      0,
+      56012
+    ]
   ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
-  "unknown_24": 367,
-  "actions": [
-    "Cemetery",
-    "Teleport Menu",
-    "Configuration",
-    "Upgrade",
-    "Remove"
-  ],
-  "category": 206,
-  "scale_x": 96,
-  "scale_y": 96,
-  "scale_z": 96,
-  "unknown_78": {
-    "unknown_1": 3139,
-    "unknown_2": 3
-  }
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      21530,
+      32883
+    ],
+    [
+      21534,
+      37099
+    ],
+    [
+      21539,
+      38119
+    ],
+    [
+      21543,
+      39137
+    ],
+    [
+      21547,
+      39137
+    ]
+  ]
 }

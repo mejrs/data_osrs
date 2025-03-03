@@ -8,11 +8,5 @@
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 10,
-  "colours": [
-    [
-      43096,
-      61
-    ]
-  ]
+  "contrast": 10
 }

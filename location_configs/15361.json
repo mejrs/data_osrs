@@ -18,5 +18,9 @@
   "category": 207,
   "scale_x": 85,
   "scale_y": 85,
-  "scale_z": 85
+  "scale_z": 85,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
 }

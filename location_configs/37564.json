@@ -1,26 +1,26 @@
 {
   "id": 37564,
-  "name": "Portal Nexus",
-  "models_2": [
-    36053
+  "models": [
+    [
+      22,
+      56008
+    ]
   ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
-  "unknown_24": 367,
-  "actions": [
-    "West Ardougne",
-    "Teleport Menu",
-    "Configuration",
-    "Upgrade",
-    "Remove"
-  ],
-  "category": 206,
-  "scale_x": 96,
-  "scale_y": 96,
-  "scale_z": 96,
-  "unknown_78": {
-    "unknown_1": 3139,
-    "unknown_2": 3
-  }
+  "unknown_19": 0,
+  "unknown_21": true,
+  "contrast": 30,
+  "colours": [
+    [
+      4892,
+      12
+    ],
+    [
+      4899,
+      12
+    ],
+    [
+      5921,
+      12
+    ]
+  ]
 }

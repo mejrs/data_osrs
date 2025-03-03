@@ -16,5 +16,9 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
 }

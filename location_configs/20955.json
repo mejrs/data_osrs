@@ -4,5 +4,6 @@
   "models_2": [
     16389
   ],
-  "ambient": 10
+  "ambient": 30,
+  "contrast": 20
 }

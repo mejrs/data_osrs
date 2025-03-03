@@ -1,0 +1,23 @@
+{
+  "id": 55945,
+  "name": "Candy cane Fence",
+  "models_2": [
+    46878
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      557,
+      39607
+    ],
+    [
+      222,
+      39132
+    ]
+  ],
+  "model": false
+}

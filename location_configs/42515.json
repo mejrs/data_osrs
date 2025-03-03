@@ -8,5 +8,9 @@
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
-  "ambient": 10
+  "ambient": 10,
+  "params": {
+    "429": 3,
+    "430": 1
+  }
 }

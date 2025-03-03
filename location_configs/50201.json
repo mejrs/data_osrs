@@ -2,12 +2,19 @@
   "id": 50201,
   "name": "Entry",
   "models_2": [
-    44594
+    55489
   ],
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 30,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
   "contrast": 20,
   "colours": [
     [

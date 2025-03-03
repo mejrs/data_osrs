@@ -1,0 +1,16 @@
+{
+  "id": 55807,
+  "name": "Loot!",
+  "models_2": [
+    45334,
+    55665,
+    45337
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 9523,
+  "ambient": 60,
+  "contrast": 30,
+  "unknown_89": false
+}

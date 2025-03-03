@@ -1,20 +1,19 @@
 {
   "id": 44937,
-  "name": "Loot!",
-  "models_2": [
-    45334,
-    45336
-  ],
-  "dim_x": 3,
-  "is_transparent": true,
-  "unknown_21": true,
-  "unknown_24": 9507,
-  "ambient": 60,
-  "contrast": 30,
-  "colours": [
+  "models": [
     [
-      0,
-      125
+      4,
+      55871
     ]
-  ]
+  ],
+  "name": "Wall decoration",
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
 }

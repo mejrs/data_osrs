@@ -1,16 +1,19 @@
 {
   "id": 19456,
-  "unknown_73": true,
-  "morphs_1": {
-    "varbit": 3000,
-    "ids": [
-      null,
-      null,
-      null,
-      53226,
-      53227,
-      53228,
-      53229
+  "models": [
+    [
+      0,
+      20034
     ]
-  }
+  ],
+  "name": "Opening",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
 }

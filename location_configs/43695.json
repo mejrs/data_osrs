@@ -16,7 +16,7 @@
   "actions": [
     "Search",
     "Check",
-    null,
+    "Big-search",
     null,
     null
   ],

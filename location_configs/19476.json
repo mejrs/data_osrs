@@ -1,17 +1,25 @@
 {
   "id": 19476,
-  "unknown_24": 5260,
-  "unknown_73": true,
-  "morphs_1": {
-    "varbit": 3008,
-    "ids": [
-      null,
-      null,
-      null,
-      53231,
-      53230,
-      53233,
-      53232
+  "name": "Stone pedestal",
+  "models_2": [
+    20062,
+    20061
+  ],
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      127,
+      43113
+    ],
+    [
+      32999,
+      43121
     ]
-  }
+  ]
 }

@@ -1,14 +1,19 @@
 {
   "id": 44936,
-  "name": "Loot!",
+  "name": "Spirit Tree",
   "models_2": [
-    45334,
-    45336
+    55583
   ],
-  "dim_x": 3,
-  "is_transparent": true,
-  "unknown_21": true,
-  "unknown_24": 9507,
-  "ambient": 60,
-  "contrast": 30
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
 }

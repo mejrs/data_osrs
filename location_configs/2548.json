@@ -14,14 +14,5 @@
     null,
     null
   ],
-  "colours": [
-    [
-      7089,
-      61
-    ]
-  ],
-  "textures": {
-    "3": 16
-  },
   "mirror": true
 }

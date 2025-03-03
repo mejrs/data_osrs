@@ -5,5 +5,19 @@
     30521
   ],
   "is_transparent": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "colours": [
+    [
+      10332,
+      10304
+    ],
+    [
+      7265,
+      10304
+    ],
+    [
+      7384,
+      10295
+    ]
+  ]
 }

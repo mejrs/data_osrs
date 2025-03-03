@@ -7,8 +7,8 @@
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
+    "Search",
     null,
-    "Check",
     null,
     null,
     null

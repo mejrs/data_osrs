@@ -1,0 +1,48 @@
+{
+  "id": 55914,
+  "name": "Tree",
+  "models_2": [
+    1570,
+    55836
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6257,
+      37999
+    ],
+    [
+      6261,
+      38003
+    ],
+    [
+      6241,
+      37987
+    ],
+    [
+      127,
+      38003
+    ],
+    [
+      3470,
+      5665
+    ]
+  ],
+  "textures": {
+    "8": 127,
+    "60": 128
+  },
+  "category": 189,
+  "unknown_81": 80,
+  "mapscene": 0
+}

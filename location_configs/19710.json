@@ -1,17 +1,39 @@
 {
   "id": 19710,
-  "unknown_24": 5260,
-  "unknown_73": true,
-  "morphs_1": {
-    "varbit": 2990,
-    "ids": [
-      null,
-      null,
-      null,
-      53231,
-      53230,
-      53233,
-      53232
+  "name": "Burrow",
+  "models_2": [
+    733
+  ],
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8656,
+      7595
+    ],
+    [
+      8644,
+      6569
+    ],
+    [
+      8631,
+      6439
+    ],
+    [
+      8747,
+      6558
+    ],
+    [
+      8862,
+      7954
     ]
-  }
+  ],
+  "scale_x": 64,
+  "scale_y": 34,
+  "scale_z": 64
 }

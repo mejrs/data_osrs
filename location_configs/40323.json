@@ -1,16 +1,10 @@
 {
   "id": 40323,
-  "name": "Scrawled note",
   "models_2": [
     2709
   ],
+  "unknown_17": false,
+  "unknown_19": 0,
   "ambient": 30,
-  "actions": [
-    "Read",
-    null,
-    null,
-    null,
-    null
-  ],
   "contrast": 20
 }

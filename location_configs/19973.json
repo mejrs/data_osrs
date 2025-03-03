@@ -1,24 +1,17 @@
 {
   "id": 19973,
-  "name": "Rocks",
-  "models_2": [
-    818
-  ],
-  "is_transparent": true,
-  "actions": [
-    "Inspect",
-    null,
-    null,
-    null,
-    null
-  ],
-  "colours": [
-    [
-      6689,
-      5157
+  "unknown_24": 5260,
+  "unknown_73": true,
+  "morphs_1": {
+    "varbit": 3011,
+    "ids": [
+      null,
+      null,
+      null,
+      53231,
+      53230,
+      53233,
+      19639
     ]
-  ],
-  "scale_x": 64,
-  "scale_y": 64,
-  "scale_z": 64
+  }
 }

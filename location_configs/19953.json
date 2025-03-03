@@ -1,20 +1,17 @@
 {
   "id": 19953,
-  "models": [
-    [
-      22,
-      19345
-    ]
-  ],
-  "unknown_21": true,
   "unknown_24": 5260,
-  "ambient": 10,
-  "contrast": 10,
-  "colours": [
-    [
-      8088,
-      5276
+  "unknown_73": true,
+  "morphs_1": {
+    "varbit": 2998,
+    "ids": [
+      null,
+      null,
+      null,
+      53231,
+      53230,
+      53233,
+      19639
     ]
-  ],
-  "unknown_73": true
+  }
 }

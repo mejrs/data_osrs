@@ -1,19 +1,13 @@
 {
   "id": 50204,
-  "models": [
-    [
-      4,
-      44632
-    ]
-  ],
-  "name": "Lever",
   "unknown_19": 1,
-  "actions": [
-    "Pull",
-    null,
-    null,
-    null,
-    null
-  ],
-  "contrast": 15
+  "category": 2135,
+  "morphs_2": {
+    "varbit": 11482,
+    "ids": [
+      50205,
+      50205
+    ],
+    "default": 50206
+  }
 }

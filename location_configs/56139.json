@@ -1,0 +1,18 @@
+{
+  "id": 56139,
+  "name": "Mounted harpoonfish",
+  "models_2": [
+    56057
+  ],
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Trophies",
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}
