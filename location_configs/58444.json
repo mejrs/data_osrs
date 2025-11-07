@@ -1,0 +1,24 @@
+{
+  "id": 58444,
+  "name": "Mooring point",
+  "models_2": [
+    58362
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 13562,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_73": true
+}

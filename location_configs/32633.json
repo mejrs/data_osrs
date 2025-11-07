@@ -1,0 +1,12 @@
+{
+  "id": 32633,
+  "name": "Zamorak's statue",
+  "models_2": [
+    35277
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 30
+}

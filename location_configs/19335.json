@@ -1,0 +1,22 @@
+{
+  "id": 19335,
+  "name": "Rabbit snare",
+  "models_2": [
+    23902,
+    23903
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 5239,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 592,
+  "params": {
+    "1545": 1
+  }
+}

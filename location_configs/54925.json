@@ -1,0 +1,51 @@
+{
+  "id": 54925,
+  "name": "Mixing vessel (Liplack liquor)",
+  "models_2": [
+    54865
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11628,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      48563,
+      62133
+    ],
+    [
+      48547,
+      61885
+    ],
+    [
+      48666,
+      61774
+    ],
+    [
+      61229,
+      62251
+    ],
+    [
+      61223,
+      61879
+    ],
+    [
+      61214,
+      61766
+    ],
+    [
+      48198,
+      64066
+    ]
+  ],
+  "model": false
+}

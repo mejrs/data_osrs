@@ -1,0 +1,22 @@
+{
+  "id": 56362,
+  "name": "Infernal shale deposit",
+  "models_2": [
+    37817
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 30,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

@@ -1,0 +1,22 @@
+{
+  "id": 53637,
+  "models": [
+    [
+      0,
+      53837
+    ]
+  ],
+  "name": "Hole",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Crawl-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

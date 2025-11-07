@@ -1,0 +1,22 @@
+{
+  "id": 34436,
+  "models": [
+    [
+      9,
+      36455
+    ]
+  ],
+  "name": "Cave",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Exit",
+    "Quick-exit",
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

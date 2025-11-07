@@ -1,0 +1,31 @@
+{
+  "id": 7421,
+  "name": "Oven",
+  "models_2": [
+    12629,
+    12620
+  ],
+  "dim_y": 2,
+  "unknown_24": 3105,
+  "ambient": 25,
+  "actions": [
+    "Cook",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6707,
+      10287
+    ],
+    [
+      7838,
+      10275
+    ]
+  ],
+  "category": 687,
+  "unknown_69": 29
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12451,
+  "name": "Chest",
+  "models_2": [
+    13472
+  ],
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30
+}

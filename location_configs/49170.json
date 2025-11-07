@@ -1,0 +1,16 @@
+{
+  "id": 49170,
+  "name": "Ancient Icon",
+  "models_2": [
+    47105
+  ],
+  "ambient": 0,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35
+}

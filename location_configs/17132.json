@@ -1,0 +1,15 @@
+{
+  "id": 17132,
+  "name": "Kitchen cabinet",
+  "models_2": [
+    17141,
+    17138
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

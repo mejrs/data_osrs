@@ -1,0 +1,18 @@
+{
+  "id": 29226,
+  "name": "Quest List",
+  "models_2": [
+    32164
+  ],
+  "ambient": 20,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 5,
+  "category": 206,
+  "unknown_69": 29
+}

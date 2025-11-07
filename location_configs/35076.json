@@ -1,0 +1,17 @@
+{
+  "id": 35076,
+  "name": "Crystal Dispenser",
+  "models_2": [
+    38348
+  ],
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

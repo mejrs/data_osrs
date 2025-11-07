@@ -1,0 +1,22 @@
+{
+  "id": 22519,
+  "name": "Sarah (very sick!)",
+  "models_2": [
+    23207,
+    23196
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 5976,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 646
+}

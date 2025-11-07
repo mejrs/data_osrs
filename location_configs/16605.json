@@ -1,0 +1,14 @@
+{
+  "id": 16605,
+  "name": "Dream Tree stump",
+  "models_2": [
+    16760
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 60,
+  "contrast": 40,
+  "model": false
+}

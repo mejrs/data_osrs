@@ -1,0 +1,30 @@
+{
+  "id": 52009,
+  "name": "Wardrobe",
+  "models_2": [
+    51371
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "hidden"
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      76,
+      7768
+    ],
+    [
+      41,
+      7752
+    ]
+  ],
+  "category": 1936,
+  "unknown_69": 27
+}

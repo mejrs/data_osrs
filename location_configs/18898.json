@@ -1,0 +1,28 @@
+{
+  "id": 18898,
+  "models": [
+    [
+      22,
+      19279
+    ]
+  ],
+  "name": "Footprints",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Look at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8786,
+      8512
+    ]
+  ],
+  "category": 563
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2175,
+  "models": [
+    [
+      4,
+      2255
+    ]
+  ],
+  "unknown_24": 481,
+  "colours": [
+    [
+      28,
+      21534
+    ],
+    [
+      33,
+      21534
+    ],
+    [
+      4886,
+      10512
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 140,
+  "scale_z": 128,
+  "translate_x": 0,
+  "translate_y": 20,
+  "translate_z": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 18411,
+  "models": [
+    [
+      0,
+      18479
+    ]
+  ],
+  "name": "Broken fence",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5404,
+      12818
+    ]
+  ]
+}

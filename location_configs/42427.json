@@ -1,0 +1,13 @@
+{
+  "id": 42427,
+  "name": "Yew tree",
+  "models_2": [
+    8157
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 15,
+  "contrast": 20,
+  "unknown_81": 80,
+  "mapscene": 129
+}

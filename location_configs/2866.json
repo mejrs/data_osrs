@@ -1,0 +1,32 @@
+{
+  "id": 2866,
+  "models": [
+    [
+      0,
+      1509
+    ],
+    [
+      9,
+      1511
+    ]
+  ],
+  "name": "Gate",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      4762
+    ]
+  ],
+  "textures": {
+    "2": 45
+  },
+  "mirror": true
+}

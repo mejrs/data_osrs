@@ -1,0 +1,19 @@
+{
+  "id": 34021,
+  "name": "Dragonfruit tree",
+  "models_2": [
+    36671,
+    7767,
+    36648
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Check-health",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

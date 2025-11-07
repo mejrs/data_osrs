@@ -1,0 +1,25 @@
+{
+  "id": 40150,
+  "name": "Drawers",
+  "models_2": [
+    25880
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7706,
+      6689
+    ],
+    [
+      7587,
+      6449
+    ]
+  ]
+}

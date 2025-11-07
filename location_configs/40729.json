@@ -1,0 +1,21 @@
+{
+  "id": 40729,
+  "name": "Stool",
+  "models_2": [
+    10089
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      6707,
+      5276
+    ],
+    [
+      7952,
+      5272
+    ]
+  ]
+}

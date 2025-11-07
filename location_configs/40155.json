@@ -1,0 +1,25 @@
+{
+  "id": 40155,
+  "name": "Drawers",
+  "models_2": [
+    40797
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7706,
+      6689
+    ],
+    [
+      7587,
+      6449
+    ]
+  ]
+}

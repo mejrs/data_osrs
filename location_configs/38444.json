@@ -1,0 +1,24 @@
+{
+  "id": 38444,
+  "name": "Crossbowman Statue",
+  "models_2": [
+    40142
+  ],
+  "unknown_21": true,
+  "unknown_24": 8681,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      43096,
+      10299
+    ],
+    [
+      898,
+      33360
+    ]
+  ],
+  "category": 1441,
+  "mapscene": 100
+}

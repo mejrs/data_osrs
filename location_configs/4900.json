@@ -1,0 +1,16 @@
+{
+  "id": 4900,
+  "name": "Saradomin Standard",
+  "models_2": [
+    4445
+  ],
+  "unknown_24": 1430,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 28
+}

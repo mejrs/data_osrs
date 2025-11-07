@@ -1,0 +1,19 @@
+{
+  "id": 2221,
+  "models": [
+    [
+      22,
+      1799
+    ]
+  ],
+  "name": "Strange looking stone",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Look-at",
+    "Investigate",
+    null,
+    null,
+    null
+  ]
+}

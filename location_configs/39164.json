@@ -1,0 +1,19 @@
+{
+  "id": 39164,
+  "name": "<col=ffff00>Caged Prisoner</col>",
+  "models_2": [
+    39749,
+    40360
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_24": 8699,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      528,
+      11806
+    ]
+  ]
+}

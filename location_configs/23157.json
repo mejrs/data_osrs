@@ -1,0 +1,15 @@
+{
+  "id": 23157,
+  "name": "Cave",
+  "models_2": [
+    24092
+  ],
+  "unknown_22": true,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ]
+}

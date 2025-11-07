@@ -1,0 +1,18 @@
+{
+  "id": 33516,
+  "name": "Refinery",
+  "models_2": [
+    36222
+  ],
+  "dim_x": 3,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 104,
+  "scale_y": 104,
+  "scale_z": 104
+}

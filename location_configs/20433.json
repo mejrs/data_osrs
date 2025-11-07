@@ -1,0 +1,17 @@
+{
+  "id": 20433,
+  "name": "Cart tunnel",
+  "models_2": [
+    21248
+  ],
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      6689,
+      7851
+    ]
+  ],
+  "scale_y": 153
+}

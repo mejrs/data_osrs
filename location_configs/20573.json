@@ -1,0 +1,13 @@
+{
+  "id": 20573,
+  "name": "Hanging log",
+  "models_2": [
+    21374
+  ],
+  "dim_x": 3,
+  "dim_y": 7,
+  "unknown_17": false,
+  "ambient": 15,
+  "contrast": 15,
+  "scale_y": 135
+}

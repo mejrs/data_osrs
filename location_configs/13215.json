@@ -1,0 +1,18 @@
+{
+  "id": 13215,
+  "name": "Bells",
+  "models_2": [
+    13132
+  ],
+  "dim_x": 2,
+  "unknown_24": 3577,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

@@ -1,0 +1,22 @@
+{
+  "id": 37437,
+  "models": [
+    [
+      0,
+      40865
+    ]
+  ],
+  "name": "Door hotspot",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 485,
+  "mirror": true,
+  "translate_y": 1
+}

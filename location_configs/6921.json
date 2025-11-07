@@ -1,0 +1,30 @@
+{
+  "id": 6921,
+  "models": [
+    [
+      4,
+      6891
+    ]
+  ],
+  "name": "Symbol",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21522,
+      10258
+    ],
+    [
+      26896,
+      10258
+    ]
+  ],
+  "mapscene": 36
+}

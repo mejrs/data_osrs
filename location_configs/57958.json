@@ -1,0 +1,17 @@
+{
+  "id": 57958,
+  "name": "Bank chest",
+  "models_2": [
+    58800
+  ],
+  "ambient": 10,
+  "actions": [
+    "Bank",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 237
+}

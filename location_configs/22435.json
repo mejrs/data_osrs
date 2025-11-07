@@ -1,0 +1,20 @@
+{
+  "id": 22435,
+  "models": [
+    [
+      0,
+      22838
+    ]
+  ],
+  "name": "Large door",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_75": 0
+}

@@ -1,0 +1,45 @@
+{
+  "id": 55611,
+  "models": [
+    [
+      22,
+      55386
+    ]
+  ],
+  "name": "Red pumpkins",
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5555,
+      1719
+    ],
+    [
+      5433,
+      1591
+    ],
+    [
+      6466,
+      3891
+    ],
+    [
+      6470,
+      2869
+    ],
+    [
+      6472,
+      1845
+    ]
+  ],
+  "category": 2130,
+  "unknown_73": true,
+  "mapscene": 159
+}

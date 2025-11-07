@@ -1,0 +1,16 @@
+{
+  "id": 43714,
+  "name": "Abyssal Rift",
+  "models_2": [
+    44082
+  ],
+  "dim_x": 7,
+  "unknown_17": false,
+  "unknown_24": 9360,
+  "ambient": 60,
+  "contrast": 100,
+  "scale_x": 360,
+  "scale_y": 360,
+  "scale_z": 360,
+  "translate_y": 200
+}

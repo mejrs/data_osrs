@@ -1,0 +1,22 @@
+{
+  "id": 13847,
+  "name": "Swamp tree",
+  "models_2": [
+    14149,
+    14155,
+    14156,
+    14157
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Cut-vine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

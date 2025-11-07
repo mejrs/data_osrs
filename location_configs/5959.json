@@ -1,0 +1,18 @@
+{
+  "id": 5959,
+  "models": [
+    [
+      4,
+      2108
+    ]
+  ],
+  "name": "Lever",
+  "unknown_19": 1,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 41815,
+  "models": [
+    [
+      0,
+      42423
+    ]
+  ],
+  "name": "Vines",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

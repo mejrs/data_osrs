@@ -1,0 +1,24 @@
+{
+  "id": 2644,
+  "models": [
+    [
+      4,
+      12547
+    ]
+  ],
+  "name": "Shelves",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      6707,
+      7587
+    ],
+    [
+      7952,
+      8078
+    ]
+  ],
+  "translate_y": 5
+}

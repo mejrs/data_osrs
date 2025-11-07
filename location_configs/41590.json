@@ -1,0 +1,14 @@
+{
+  "id": 41590,
+  "name": "Golem rubble",
+  "models_2": [
+    42122
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

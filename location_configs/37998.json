@@ -1,0 +1,15 @@
+{
+  "id": 37998,
+  "name": "Valve",
+  "models_2": [
+    40541
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ]
+}

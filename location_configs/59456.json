@@ -1,0 +1,49 @@
+{
+  "id": 59456,
+  "name": "Runic shield generator",
+  "models_2": [
+    44073
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Activate",
+    "Charge",
+    "Check",
+    "Uncharge",
+    "Settings"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      42915,
+      7075
+    ],
+    [
+      41899,
+      7085
+    ],
+    [
+      42830,
+      7085
+    ],
+    [
+      41773,
+      6957
+    ],
+    [
+      41913,
+      7104
+    ],
+    [
+      43460,
+      6596
+    ],
+    [
+      43344,
+      7504
+    ]
+  ],
+  "category": 2321
+}

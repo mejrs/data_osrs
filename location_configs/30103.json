@@ -1,0 +1,27 @@
+{
+  "id": 30103,
+  "name": "Royal Wedding Invitation",
+  "models_2": [
+    30777
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      60312,
+      38689
+    ],
+    [
+      63376,
+      38808
+    ]
+  ]
+}

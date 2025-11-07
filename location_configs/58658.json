@@ -1,0 +1,23 @@
+{
+  "id": 58658,
+  "name": "Rowboat space",
+  "models_2": [
+    58766
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Build",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 57550,
+  "name": "Red hibiscus",
+  "models_2": [
+    56582
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15
+}

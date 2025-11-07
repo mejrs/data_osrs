@@ -1,0 +1,21 @@
+{
+  "id": 26276,
+  "name": "<col=ff9040>Potion",
+  "models_2": [
+    16732,
+    7766
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Drink",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "translate_y": 65466
+}

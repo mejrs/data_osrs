@@ -1,0 +1,18 @@
+{
+  "id": 47046,
+  "models_2": [
+    47240
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "contrast": 50,
+  "colours": [
+    [
+      30160,
+      30007
+    ]
+  ]
+}

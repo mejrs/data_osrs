@@ -1,0 +1,24 @@
+{
+  "id": 20229,
+  "models": [
+    [
+      4,
+      15340
+    ]
+  ],
+  "name": "Information scroll",
+  "ambient": 40,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7587,
+      5413
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 18694,
+  "name": "Extractor gun",
+  "models_2": [
+    18775
+  ],
+  "unknown_24": 4897,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      50087,
+      115
+    ]
+  ]
+}

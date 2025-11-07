@@ -1,0 +1,20 @@
+{
+  "id": 48428,
+  "name": "Broken pillar",
+  "models_2": [
+    48455,
+    48448
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      3123,
+      3148
+    ]
+  ],
+  "unknown_73": true,
+  "mapscene": 111
+}

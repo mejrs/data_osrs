@@ -1,0 +1,15 @@
+{
+  "id": 55229,
+  "models": [
+    [
+      4,
+      54914
+    ]
+  ],
+  "name": "Melee engraving",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 60,
+  "contrast": 60,
+  "category": 2083
+}

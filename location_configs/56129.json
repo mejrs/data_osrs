@@ -1,0 +1,19 @@
+{
+  "id": 56129,
+  "name": "Alchemical Hydra",
+  "models_2": [
+    56060
+  ],
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    "Trophies",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "scale_y": 112,
+  "unknown_69": 27
+}

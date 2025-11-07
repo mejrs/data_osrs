@@ -1,0 +1,20 @@
+{
+  "id": 2834,
+  "models": [
+    [
+      22,
+      20329
+    ]
+  ],
+  "name": "Battlement",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ]
+}

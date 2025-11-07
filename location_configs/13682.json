@@ -1,0 +1,19 @@
+{
+  "id": 13682,
+  "name": "Magic circle",
+  "models_2": [
+    13126
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 3615,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

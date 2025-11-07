@@ -1,0 +1,12 @@
+{
+  "id": 50266,
+  "name": "Dais",
+  "models_2": [
+    50244
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 40
+}

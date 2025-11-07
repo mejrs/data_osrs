@@ -1,0 +1,18 @@
+{
+  "id": 33513,
+  "name": "Cupboard",
+  "models_2": [
+    36265
+  ],
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "scale_y": 112,
+  "unknown_69": 27
+}

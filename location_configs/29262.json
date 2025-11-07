@@ -1,0 +1,24 @@
+{
+  "id": 29262,
+  "models": [
+    [
+      0,
+      32125
+    ],
+    [
+      2,
+      32122
+    ]
+  ],
+  "name": "Redwood fence",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

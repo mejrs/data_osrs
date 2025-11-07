@@ -1,0 +1,11 @@
+{
+  "id": 22738,
+  "name": "Lamppost",
+  "models_2": [
+    23255
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25
+}

@@ -1,0 +1,18 @@
+{
+  "id": 55642,
+  "name": "Pumpkin carving table",
+  "models_2": [
+    8246,
+    55390
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Carve-pumpkin",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 1
+}

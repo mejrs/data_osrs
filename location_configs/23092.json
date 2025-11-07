@@ -1,0 +1,30 @@
+{
+  "id": 23092,
+  "name": "Bookcase",
+  "models_2": [
+    15208
+  ],
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      7830
+    ],
+    [
+      7952,
+      7582
+    ],
+    [
+      5002,
+      46024
+    ]
+  ],
+  "translate_z": 36
+}

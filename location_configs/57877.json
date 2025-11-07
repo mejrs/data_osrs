@@ -1,0 +1,9 @@
+{
+  "id": 57877,
+  "name": "Water storage",
+  "models_2": [
+    58859
+  ],
+  "ambient": 10,
+  "contrast": 25
+}

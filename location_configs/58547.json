@@ -1,0 +1,13 @@
+{
+  "id": 58547,
+  "name": "Mangrove",
+  "models_2": [
+    58682
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 20,
+  "unknown_81": 80,
+  "mapscene": 0
+}

@@ -1,0 +1,37 @@
+{
+  "id": 26731,
+  "name": "Exit portal",
+  "models_2": [
+    10734,
+    11233
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 3174,
+  "ambient": 15,
+  "actions": [
+    "Forfeit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      16,
+      5272
+    ],
+    [
+      947,
+      5268
+    ]
+  ],
+  "category": 754,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "unknown_69": 30,
+  "translate_z": 30,
+  "mapscene": 64
+}

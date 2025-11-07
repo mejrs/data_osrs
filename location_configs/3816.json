@@ -1,0 +1,19 @@
+{
+  "id": 3816,
+  "name": "Kitchen Drawers",
+  "models_2": [
+    3812
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

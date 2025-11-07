@@ -1,0 +1,17 @@
+{
+  "id": 32487,
+  "name": "Plinth",
+  "models_2": [
+    34841
+  ],
+  "unknown_19": 1,
+  "unknown_24": 7921,
+  "ambient": 20,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

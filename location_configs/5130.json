@@ -1,0 +1,17 @@
+{
+  "id": 5130,
+  "name": "Tall Plant",
+  "models_2": [
+    12934
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

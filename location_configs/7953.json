@@ -1,0 +1,27 @@
+{
+  "id": 7953,
+  "name": "Diseased apple tree",
+  "models_2": [
+    7920,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      7068,
+      12820
+    ]
+  ],
+  "textures": {
+    "8": 41
+  }
+}

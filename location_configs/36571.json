@@ -1,0 +1,16 @@
+{
+  "id": 36571,
+  "name": "Gem stall",
+  "models_2": [
+    37907
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ]
+}

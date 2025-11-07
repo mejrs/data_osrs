@@ -1,0 +1,15 @@
+{
+  "id": 50002,
+  "models_2": [
+    50140
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "ambient": 0,
+  "contrast": 30,
+  "model": false,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180
+}

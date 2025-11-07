@@ -1,0 +1,18 @@
+{
+  "id": 2143,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Prison door",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

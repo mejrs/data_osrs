@@ -1,0 +1,19 @@
+{
+  "id": 13094,
+  "models": [
+    [
+      0,
+      12367
+    ]
+  ],
+  "name": "Large door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 1,
+  "unknown_75": 0
+}

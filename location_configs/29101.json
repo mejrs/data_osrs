@@ -1,0 +1,13 @@
+{
+  "id": 29101,
+  "name": "Barrel",
+  "models_2": [
+    10145
+  ],
+  "is_transparent": true,
+  "ambient": 30,
+  "category": 241,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90
+}

@@ -1,0 +1,46 @@
+{
+  "id": 33211,
+  "name": "<col=ffff00>Mountain goat</col>",
+  "models_2": [
+    20273,
+    20280,
+    20275
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 5339,
+  "unknown_27": false,
+  "colours": [
+    [
+      8390,
+      5532
+    ],
+    [
+      8384,
+      6550
+    ],
+    [
+      8371,
+      8720
+    ],
+    [
+      5268,
+      7498
+    ],
+    [
+      5388,
+      8518
+    ],
+    [
+      5392,
+      8514
+    ]
+  ],
+  "scale_x": 138,
+  "scale_y": 138,
+  "scale_z": 138,
+  "mapscene": 82,
+  "params": {
+    "2312": 9
+  }
+}

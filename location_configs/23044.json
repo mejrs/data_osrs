@@ -1,0 +1,29 @@
+{
+  "id": 23044,
+  "name": "Metal",
+  "models_2": [
+    23882
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "colours": [
+    [
+      33,
+      6051
+    ],
+    [
+      28,
+      7079
+    ],
+    [
+      24,
+      5910
+    ],
+    [
+      20,
+      5908
+    ]
+  ]
+}

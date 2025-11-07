@@ -1,0 +1,13 @@
+{
+  "id": 34731,
+  "name": "Sweets",
+  "models_2": [
+    37134
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 100
+}

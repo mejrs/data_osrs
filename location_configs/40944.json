@@ -1,0 +1,12 @@
+{
+  "id": 40944,
+  "name": "Heroic statue",
+  "models_2": [
+    2943
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 5
+}

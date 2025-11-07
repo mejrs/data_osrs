@@ -1,0 +1,15 @@
+{
+  "id": 28940,
+  "name": "Inconspicuous crate (hard)",
+  "models_2": [
+    31450
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ]
+}

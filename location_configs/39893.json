@@ -1,0 +1,14 @@
+{
+  "id": 39893,
+  "name": "Wooden table",
+  "models_2": [
+    12493
+  ],
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ]
+}

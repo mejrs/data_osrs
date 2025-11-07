@@ -1,0 +1,14 @@
+{
+  "id": 2672,
+  "name": "An experimental anvil",
+  "models_2": [
+    1251
+  ],
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ]
+}

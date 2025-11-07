@@ -1,0 +1,18 @@
+{
+  "id": 50522,
+  "name": "Fire trap",
+  "models_2": [
+    50376
+  ],
+  "dim_x": 6,
+  "unknown_24": 10748,
+  "ambient": 90,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": -56
+}

@@ -1,0 +1,17 @@
+{
+  "id": 21870,
+  "name": "Cage",
+  "models_2": [
+    22635
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    "Fix",
+    null,
+    null,
+    null,
+    null
+  ]
+}

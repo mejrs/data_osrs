@@ -1,0 +1,17 @@
+{
+  "id": 47247,
+  "models_2": [
+    47527
+  ],
+  "dim_x": 4,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "translate_y": 65533
+}

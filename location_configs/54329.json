@@ -1,0 +1,18 @@
+{
+  "id": 54329,
+  "models_2": [
+    54525
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": -30,
+  "contrast": 50,
+  "colours": [
+    [
+      40229,
+      40355
+    ]
+  ],
+  "model": false,
+  "translate_y": 65535
+}

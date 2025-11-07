@@ -1,0 +1,30 @@
+{
+  "id": 14697,
+  "name": "Tree Stump",
+  "models_2": [
+    8012
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "colours": [
+    [
+      8478,
+      7442
+    ],
+    [
+      8602,
+      7566
+    ],
+    [
+      8598,
+      7690
+    ],
+    [
+      8846,
+      8070
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

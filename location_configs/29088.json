@@ -1,0 +1,18 @@
+{
+  "id": 29088,
+  "name": "Shrine",
+  "models_2": [
+    13846
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 3343,
+  "unknown_27": false,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ]
+}

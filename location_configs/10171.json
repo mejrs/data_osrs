@@ -1,0 +1,20 @@
+{
+  "id": 10171,
+  "name": "Pressure Barrel",
+  "models_2": [
+    9874
+  ],
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Count",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30,
+  "unknown_78": {
+    "unknown_1": 3073,
+    "unknown_2": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 29210,
+  "name": "Mounted Prayer Cape",
+  "models_2": [
+    32184
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      127
+    ],
+    [
+      54183,
+      123
+    ],
+    [
+      54503,
+      111
+    ],
+    [
+      960,
+      127
+    ],
+    [
+      22464,
+      123
+    ],
+    [
+      43968,
+      119
+    ]
+  ],
+  "category": 206
+}

@@ -1,0 +1,13 @@
+{
+  "id": 49762,
+  "name": "Gas jet",
+  "models_2": [
+    43845
+  ],
+  "unknown_21": true,
+  "unknown_24": 10431,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "unknown_89": false
+}

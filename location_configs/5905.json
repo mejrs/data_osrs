@@ -1,0 +1,15 @@
+{
+  "id": 5905,
+  "name": "Tree stump",
+  "models_2": [
+    1685
+  ],
+  "actions": [
+    "Step-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 6
+}

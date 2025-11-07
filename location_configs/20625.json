@@ -1,0 +1,16 @@
+{
+  "id": 20625,
+  "models": [
+    [
+      22,
+      21373
+    ]
+  ],
+  "name": "Floor",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "scale_y": 135,
+  "unknown_73": true
+}

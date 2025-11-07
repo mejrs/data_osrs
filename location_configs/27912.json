@@ -1,0 +1,19 @@
+{
+  "id": 27912,
+  "models": [
+    [
+      10,
+      30677
+    ],
+    [
+      22,
+      30663
+    ]
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "mapscene": 12
+}

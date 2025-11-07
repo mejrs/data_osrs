@@ -1,0 +1,25 @@
+{
+  "id": 6311,
+  "name": "Black mushrooms",
+  "models_2": [
+    6160
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6261,
+      10442
+    ],
+    [
+      5351,
+      10553
+    ]
+  ]
+}

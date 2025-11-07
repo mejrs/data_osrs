@@ -1,0 +1,20 @@
+{
+  "id": 10323,
+  "models": [
+    [
+      4,
+      10071
+    ]
+  ],
+  "name": "Trellis",
+  "unknown_19": 1,
+  "ambient": 5,
+  "actions": [
+    "Climb-up",
+    "Look-up",
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

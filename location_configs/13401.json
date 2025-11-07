@@ -1,0 +1,16 @@
+{
+  "id": 13401,
+  "name": "Dartboard",
+  "models_2": [
+    12955,
+    12956
+  ],
+  "actions": [
+    "Throw-at",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

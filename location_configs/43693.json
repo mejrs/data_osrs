@@ -1,0 +1,15 @@
+{
+  "id": 43693,
+  "name": "Portal",
+  "models_2": [
+    43920
+  ],
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 25,
+  "scale_y": 112,
+  "unknown_69": 27
+}

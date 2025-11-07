@@ -1,0 +1,20 @@
+{
+  "id": 59330,
+  "name": "<col=ffff00>Jellyfish</col>",
+  "models_2": [
+    57614
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "params": {
+    "2312": 9
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 59352,
+  "name": "Wreck of the Fearless Fremennik",
+  "models_2": [
+    58894
+  ],
+  "dim_x": 5,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_24": 13624,
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      8483,
+      4510
+    ],
+    [
+      8481,
+      4506
+    ],
+    [
+      8478,
+      4502
+    ],
+    [
+      8489,
+      3491
+    ],
+    [
+      8472,
+      4626
+    ],
+    [
+      8596,
+      5524
+    ]
+  ],
+  "category": 2317,
+  "model": false
+}

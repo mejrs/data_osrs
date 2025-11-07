@@ -1,0 +1,20 @@
+{
+  "id": 9670,
+  "models_2": [
+    819
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 15,
+  "colours": [
+    [
+      6689,
+      6040
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "mapscene": 24
+}

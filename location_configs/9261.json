@@ -1,0 +1,21 @@
+{
+  "id": 9261,
+  "name": "Roses",
+  "models_2": [
+    9162
+  ],
+  "ambient": 25,
+  "actions": [
+    "Take-seed",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      63296,
+      61012
+    ]
+  ]
+}

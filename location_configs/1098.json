@@ -1,0 +1,24 @@
+{
+  "id": 1098,
+  "name": "Throne",
+  "models_2": [
+    1234
+  ],
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      926,
+      70
+    ],
+    [
+      9098,
+      43105
+    ],
+    [
+      8128,
+      43105
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 14229,
+  "models": [
+    [
+      9,
+      14453
+    ]
+  ],
+  "name": "Barricade",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    null,
+    "hidden",
+    "Repair",
+    null,
+    null
+  ],
+  "category": 182,
+  "model": false
+}

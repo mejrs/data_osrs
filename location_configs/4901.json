@@ -1,0 +1,16 @@
+{
+  "id": 4901,
+  "name": "Zamorak Standard",
+  "models_2": [
+    4446
+  ],
+  "unknown_24": 1430,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 29
+}

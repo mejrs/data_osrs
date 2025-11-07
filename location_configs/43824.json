@@ -1,0 +1,25 @@
+{
+  "id": 43824,
+  "models": [
+    [
+      4,
+      7457
+    ]
+  ],
+  "name": "Blood rift",
+  "ambient": 50,
+  "actions": [
+    "Exit-through",
+    "Exit-through (Kourend)",
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "colours": [
+    [
+      38848,
+      65474
+    ]
+  ]
+}

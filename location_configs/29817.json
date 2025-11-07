@@ -1,0 +1,19 @@
+{
+  "id": 29817,
+  "models": [
+    [
+      10,
+      32409
+    ],
+    [
+      22,
+      32413
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_27": false
+}

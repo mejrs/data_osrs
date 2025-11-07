@@ -1,0 +1,17 @@
+{
+  "id": 17243,
+  "name": "Cogs",
+  "models_2": [
+    17082
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 4563,
+  "unknown_27": false,
+  "ambient": 10,
+  "translate_y": 65526,
+  "unknown_78": {
+    "unknown_1": 2326,
+    "unknown_2": 5
+  }
+}

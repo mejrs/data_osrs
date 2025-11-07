@@ -1,0 +1,25 @@
+{
+  "id": 58948,
+  "name": "Portal of Cadarn",
+  "models_2": [
+    37828
+  ],
+  "ambient": 60,
+  "contrast": 44,
+  "colours": [
+    [
+      33488,
+      21958
+    ],
+    [
+      33455,
+      21958
+    ],
+    [
+      33344,
+      21958
+    ]
+  ],
+  "scale_z": 365,
+  "translate_y": 65534
+}

@@ -1,0 +1,14 @@
+{
+  "id": 49588,
+  "name": "<col=ffff00>Cute Creature</col>",
+  "models_2": [
+    16958,
+    16959
+  ],
+  "unknown_19": 1,
+  "unknown_24": 4477,
+  "unknown_89": false,
+  "params": {
+    "2312": 9
+  }
+}

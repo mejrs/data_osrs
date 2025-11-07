@@ -1,0 +1,20 @@
+{
+  "id": 60058,
+  "name": "Sacks",
+  "models_2": [
+    16526
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      4506,
+      6932
+    ],
+    [
+      5656,
+      6932
+    ]
+  ]
+}

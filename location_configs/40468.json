@@ -1,0 +1,24 @@
+{
+  "id": 40468,
+  "name": "Potion of power table",
+  "models_2": [
+    7906,
+    41249
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Take-from",
+    "Take-1",
+    "Take-5",
+    "Take-10",
+    null
+  ],
+  "colours": [
+    [
+      61,
+      29625
+    ]
+  ],
+  "category": 1486
+}

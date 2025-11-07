@@ -1,0 +1,22 @@
+{
+  "id": 43745,
+  "name": "Weak Barrier",
+  "models_2": [
+    44010,
+    44015
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 9366,
+  "unknown_27": false,
+  "ambient": 50,
+  "contrast": 50,
+  "category": 1619,
+  "translate_y": 65535,
+  "params": {
+    "1586": 1
+  }
+}

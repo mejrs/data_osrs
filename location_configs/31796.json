@@ -1,0 +1,12 @@
+{
+  "id": 31796,
+  "name": "Root",
+  "models_2": [
+    34396
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20
+}

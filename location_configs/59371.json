@@ -1,0 +1,28 @@
+{
+  "id": 59371,
+  "name": "Port roberts jail visitors book",
+  "models_2": [
+    2509
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      5018,
+      262
+    ],
+    [
+      11177,
+      7872
+    ]
+  ],
+  "category": 2317,
+  "translate_z": 65516
+}

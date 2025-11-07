@@ -1,0 +1,38 @@
+{
+  "id": 34838,
+  "name": "Grubby Chest",
+  "models_2": [
+    37325
+  ],
+  "ambient": 20,
+  "actions": [
+    "Open",
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      545
+    ],
+    [
+      20,
+      412
+    ],
+    [
+      16,
+      280
+    ],
+    [
+      5268,
+      12
+    ],
+    [
+      5392,
+      8
+    ]
+  ],
+  "unknown_69": 29
+}

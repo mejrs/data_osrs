@@ -1,0 +1,23 @@
+{
+  "id": 14979,
+  "models": [
+    [
+      0,
+      3334
+    ]
+  ],
+  "name": "Gate",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      37,
+      61
+    ]
+  ]
+}

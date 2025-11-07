@@ -1,0 +1,15 @@
+{
+  "id": 25879,
+  "models": [
+    [
+      0,
+      27392
+    ]
+  ],
+  "name": "Vent",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15
+}

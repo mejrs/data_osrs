@@ -1,0 +1,17 @@
+{
+  "id": 2522,
+  "name": "Spooky stairs",
+  "models_2": [
+    1952
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "actions": [
+    "Walk-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30
+}

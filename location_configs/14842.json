@@ -1,0 +1,27 @@
+{
+  "id": 14842,
+  "models": [
+    [
+      0,
+      5957
+    ],
+    [
+      1,
+      5958
+    ],
+    [
+      2,
+      5959
+    ],
+    [
+      9,
+      5960
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "scale_y": 32
+}

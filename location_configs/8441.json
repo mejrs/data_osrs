@@ -1,0 +1,18 @@
+{
+  "id": 8441,
+  "name": "Maple tree",
+  "models_2": [
+    8023,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

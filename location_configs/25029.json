@@ -1,0 +1,22 @@
+{
+  "id": 25029,
+  "name": "Magical wheat",
+  "models_2": [
+    3951
+  ],
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Push-through"
+  ],
+  "colours": [
+    [
+      38119,
+      55207
+    ]
+  ],
+  "category": 703
+}

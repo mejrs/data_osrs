@@ -1,0 +1,14 @@
+{
+  "id": 55997,
+  "name": "Ice",
+  "models_2": [
+    55939
+  ],
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_24": 11964,
+  "unknown_27": false,
+  "model": false,
+  "translate_y": 65535,
+  "unknown_89": false
+}

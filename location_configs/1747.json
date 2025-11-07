@@ -1,0 +1,20 @@
+{
+  "id": 1747,
+  "models": [
+    [
+      22,
+      13575
+    ]
+  ],
+  "name": "Skull slope",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

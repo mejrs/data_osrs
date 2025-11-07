@@ -1,0 +1,20 @@
+{
+  "id": 26672,
+  "name": "Water wheel",
+  "models_2": [
+    18866
+  ],
+  "dim_y": 3,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      5429,
+      6682
+    ],
+    [
+      61,
+      7566
+    ]
+  ]
+}

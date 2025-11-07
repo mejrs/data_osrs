@@ -1,0 +1,24 @@
+{
+  "id": 51998,
+  "models": [
+    [
+      0,
+      51803
+    ]
+  ],
+  "name": "Locked Door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_75": 0
+}

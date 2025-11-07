@@ -1,0 +1,22 @@
+{
+  "id": 59543,
+  "name": "Sails",
+  "models_2": [
+    58255
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 13376,
+  "ambient": 15,
+  "actions": [
+    "Trim",
+    "Set",
+    null,
+    null,
+    "Un-set"
+  ],
+  "contrast": 15,
+  "category": 2322,
+  "unknown_89": false,
+  "unknown_90": true
+}

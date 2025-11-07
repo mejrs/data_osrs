@@ -1,0 +1,25 @@
+{
+  "id": 28597,
+  "name": "Lovakite rocks",
+  "models_2": [
+    1391
+  ],
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      24,
+      914
+    ]
+  ],
+  "category": 918,
+  "mapscene": 12
+}

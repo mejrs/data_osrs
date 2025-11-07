@@ -1,0 +1,24 @@
+{
+  "id": 42341,
+  "models": [
+    [
+      22,
+      34615
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 3743,
+  "ambient": 10,
+  "colours": [
+    [
+      5409,
+      32798
+    ],
+    [
+      5400,
+      32790
+    ]
+  ],
+  "model": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 34587,
+  "name": "Broken machinery",
+  "models_2": [
+    36583
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_22": true,
+  "unknown_24": 7735,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

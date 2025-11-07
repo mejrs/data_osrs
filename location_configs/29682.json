@@ -1,0 +1,21 @@
+{
+  "id": 29682,
+  "name": "Carved redwood",
+  "models_2": [
+    32879
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": -20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "category": 1045
+}

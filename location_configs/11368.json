@@ -1,0 +1,26 @@
+{
+  "id": 11368,
+  "name": "Silver rocks",
+  "models_2": [
+    1390
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      24,
+      74
+    ]
+  ],
+  "category": 285,
+  "mapscene": 154
+}

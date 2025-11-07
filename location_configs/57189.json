@@ -1,0 +1,13 @@
+{
+  "id": 57189,
+  "name": "Lumber transport",
+  "models_2": [
+    57009
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15,
+  "translate_y": 65535
+}

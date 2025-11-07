@@ -1,0 +1,21 @@
+{
+  "id": 46700,
+  "models": [
+    [
+      4,
+      47041
+    ]
+  ],
+  "name": "Scoreboard",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

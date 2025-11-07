@@ -1,0 +1,16 @@
+{
+  "id": 13509,
+  "name": "Rune display case",
+  "models_2": [
+    12462,
+    12465
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

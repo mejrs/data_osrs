@@ -1,0 +1,19 @@
+{
+  "id": 15484,
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 689,
+  "morphs_1": {
+    "varbit": 3648,
+    "ids": [
+      24550,
+      24549
+    ]
+  }
+}

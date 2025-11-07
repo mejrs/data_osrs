@@ -1,0 +1,40 @@
+{
+  "id": 31834,
+  "name": "Yew birdhouse",
+  "models_2": [
+    33646,
+    33629
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Seeds",
+    "Dismantle",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      6682
+    ],
+    [
+      5413,
+      4882
+    ],
+    [
+      6689,
+      7054
+    ],
+    [
+      6682,
+      8076
+    ],
+    [
+      5652,
+      5002
+    ]
+  ]
+}

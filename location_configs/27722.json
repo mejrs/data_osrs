@@ -1,0 +1,19 @@
+{
+  "id": 27722,
+  "name": "Destroyed furniture",
+  "models_2": [
+    30300
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      6707,
+      6439
+    ],
+    [
+      7585,
+      6430
+    ]
+  ]
+}

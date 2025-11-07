@@ -1,0 +1,21 @@
+{
+  "id": 50208,
+  "name": "Odd markings",
+  "models_2": [
+    50587
+  ],
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 0,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "category": 1900,
+  "mirror": true
+}

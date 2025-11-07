@@ -1,0 +1,17 @@
+{
+  "id": 5128,
+  "name": "Fern",
+  "models_2": [
+    12932
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,45 @@
+{
+  "id": 50079,
+  "name": "Table",
+  "models_2": [
+    50170
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Collect-reward",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      39229,
+      5219
+    ],
+    [
+      39349,
+      5202
+    ],
+    [
+      43026,
+      8
+    ],
+    [
+      43146,
+      0
+    ],
+    [
+      55215,
+      8128
+    ],
+    [
+      931,
+      8
+    ]
+  ],
+  "category": 1893
+}

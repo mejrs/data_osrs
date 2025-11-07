@@ -1,0 +1,12 @@
+{
+  "id": 31939,
+  "name": "Grand Exchange display",
+  "models_2": [
+    34566
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "mirror": true
+}

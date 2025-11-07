@@ -1,0 +1,15 @@
+{
+  "id": 10036,
+  "name": "Rock",
+  "models_2": [
+    9707
+  ],
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7
+}

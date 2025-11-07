@@ -1,0 +1,38 @@
+{
+  "id": 51761,
+  "name": "Cave",
+  "models_2": [
+    52431
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      8375,
+      8656
+    ],
+    [
+      8369,
+      8644
+    ],
+    [
+      8363,
+      8499
+    ]
+  ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "unknown_69": 27,
+  "translate_y": 65535
+}

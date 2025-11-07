@@ -1,0 +1,23 @@
+{
+  "id": 49787,
+  "models_2": [
+    49529
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 5415,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      5058,
+      32786
+    ]
+  ],
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256
+}

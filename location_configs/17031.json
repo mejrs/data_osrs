@@ -1,0 +1,20 @@
+{
+  "id": 17031,
+  "name": "Crossbow stall",
+  "models_2": [
+    5879,
+    16890
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 88,
+  "scale_y": 88,
+  "scale_z": 88
+}

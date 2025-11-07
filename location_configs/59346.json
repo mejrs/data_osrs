@@ -1,0 +1,17 @@
+{
+  "id": 59346,
+  "name": "Polite notice",
+  "models_2": [
+    57642
+  ],
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 2317
+}

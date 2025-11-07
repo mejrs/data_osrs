@@ -1,0 +1,43 @@
+{
+  "id": 20230,
+  "models": [
+    [
+      22,
+      20682
+    ]
+  ],
+  "name": "Runner trap(1)",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Fix",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7706,
+      5537
+    ],
+    [
+      7830,
+      5532
+    ],
+    [
+      7954,
+      5656
+    ],
+    [
+      8076,
+      5652
+    ],
+    [
+      7050,
+      5904
+    ]
+  ],
+  "unknown_73": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": 1125,
+  "name": "Bush",
+  "models_2": [
+    1566
+  ],
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 25,
+  "mapscene": 9
+}

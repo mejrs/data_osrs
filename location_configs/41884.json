@@ -1,0 +1,17 @@
+{
+  "id": 41884,
+  "name": "Hanging hand",
+  "models_2": [
+    35560,
+    35564
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8087,
+  "unknown_27": false,
+  "ambient": -100,
+  "contrast": -100,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 80
+}

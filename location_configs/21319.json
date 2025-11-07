@@ -1,0 +1,34 @@
+{
+  "id": 21319,
+  "models": [
+    [
+      0,
+      22104
+    ],
+    [
+      3,
+      22105
+    ],
+    [
+      22,
+      22103
+    ]
+  ],
+  "name": "Rope bridge",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Walk-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_73": true,
+  "breakroutefinding": true,
+  "mapscene": 22
+}

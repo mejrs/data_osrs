@@ -1,0 +1,17 @@
+{
+  "id": 52698,
+  "name": "Kualti Daggers",
+  "models_2": [
+    52363,
+    52349
+  ],
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

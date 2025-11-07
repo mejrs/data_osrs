@@ -1,0 +1,30 @@
+{
+  "id": 8256,
+  "name": "Dead Jute",
+  "models_2": [
+    7880,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      21813,
+      10258
+    ],
+    [
+      21821,
+      10266
+    ],
+    [
+      15822,
+      10407
+    ]
+  ]
+}

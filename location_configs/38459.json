@@ -1,0 +1,22 @@
+{
+  "id": 38459,
+  "models": [
+    [
+      22,
+      39878
+    ]
+  ],
+  "name": "Platform",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

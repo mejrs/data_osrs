@@ -1,0 +1,16 @@
+{
+  "id": 14889,
+  "name": "Spinning wheel",
+  "models_2": [
+    2248
+  ],
+  "actions": [
+    null,
+    "Spin",
+    null,
+    null,
+    null
+  ],
+  "category": 971,
+  "unknown_69": 27
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18770,
+  "name": "Marble cape rack",
+  "models_2": [
+    19007
+  ],
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206
+}

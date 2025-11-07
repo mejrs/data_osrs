@@ -1,0 +1,15 @@
+{
+  "id": 52639,
+  "name": "Staircase",
+  "models_2": [
+    51302
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 25,
+  "scale_y": 192,
+  "unknown_69": 27,
+  "mapscene": 7
+}

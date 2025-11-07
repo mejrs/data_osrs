@@ -1,0 +1,23 @@
+{
+  "id": 59307,
+  "name": "Wreck of a Barracuda ship",
+  "models_2": [
+    57634
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false
+}

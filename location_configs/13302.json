@@ -1,0 +1,17 @@
+{
+  "id": 13302,
+  "name": "Carved oak bench",
+  "models_2": [
+    12402
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 30
+}

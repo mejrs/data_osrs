@@ -1,0 +1,39 @@
+{
+  "id": 29063,
+  "name": "Reward chest",
+  "models_2": [
+    5273
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Claim",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14499,
+      7461
+    ],
+    [
+      12698,
+      5446
+    ],
+    [
+      16536,
+      6563
+    ],
+    [
+      12818,
+      4279
+    ]
+  ],
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "unknown_69": 30
+}

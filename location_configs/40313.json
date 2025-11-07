@@ -1,0 +1,17 @@
+{
+  "id": 40313,
+  "name": "Broken dead tree",
+  "models_2": [
+    40886
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 6
+}

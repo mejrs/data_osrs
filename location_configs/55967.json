@@ -1,0 +1,22 @@
+{
+  "id": 55967,
+  "name": "Broken candy canes",
+  "models_2": [
+    55841
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      557,
+      557
+    ],
+    [
+      222,
+      94
+    ]
+  ],
+  "model": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 21001,
+  "name": "Interrogation chair",
+  "models_2": [
+    21735
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 5740,
+  "ambient": 25,
+  "contrast": 25
+}

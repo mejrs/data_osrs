@@ -1,0 +1,19 @@
+{
+  "id": 13782,
+  "models": [
+    [
+      4,
+      13066
+    ]
+  ],
+  "name": "Mahogany wall decoration",
+  "ambient": 30,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,12 @@
+{
+  "id": 57785,
+  "name": "Fish stall",
+  "models_2": [
+    58854,
+    4292
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 15
+}

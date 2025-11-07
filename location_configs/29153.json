@@ -1,0 +1,19 @@
+{
+  "id": 29153,
+  "name": "Marble adventure log",
+  "models_2": [
+    32148
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27,
+  "translate_y": 65535
+}

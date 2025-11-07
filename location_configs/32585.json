@@ -1,0 +1,18 @@
+{
+  "id": 32585,
+  "name": "<col=ffff00>Meiyerditch citizen</col>",
+  "models_2": [
+    35174
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8050,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 100,
+  "scale_z": 100,
+  "mapscene": 82,
+  "params": {
+    "2312": 9
+  }
+}

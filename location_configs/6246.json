@@ -1,0 +1,15 @@
+{
+  "id": 6246,
+  "name": "Table",
+  "models_2": [
+    6046
+  ],
+  "unknown_24": 1875,
+  "actions": [
+    "Take-beer",
+    null,
+    null,
+    null,
+    null
+  ]
+}

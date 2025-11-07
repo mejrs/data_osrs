@@ -1,0 +1,21 @@
+{
+  "id": 57065,
+  "name": "Oak totem",
+  "models_2": [
+    56991,
+    57002,
+    56995
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Decorate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

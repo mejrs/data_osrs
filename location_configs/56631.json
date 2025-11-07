@@ -1,0 +1,15 @@
+{
+  "id": 56631,
+  "name": "Royal throne",
+  "models_2": [
+    51370
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "scale_x": 104,
+  "scale_y": 104,
+  "scale_z": 104
+}

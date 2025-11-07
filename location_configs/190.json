@@ -1,0 +1,18 @@
+{
+  "id": 190,
+  "name": "Gate",
+  "models_2": [
+    1321
+  ],
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

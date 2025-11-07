@@ -1,0 +1,23 @@
+{
+  "id": 5152,
+  "models": [
+    [
+      0,
+      13150
+    ],
+    [
+      2,
+      13151
+    ]
+  ],
+  "name": "Boundary stones",
+  "is_transparent": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

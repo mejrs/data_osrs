@@ -1,0 +1,22 @@
+{
+  "id": 2411,
+  "models": [
+    [
+      0,
+      9476
+    ],
+    [
+      9,
+      9477
+    ]
+  ],
+  "name": "Sturdy door",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

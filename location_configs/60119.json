@@ -1,0 +1,35 @@
+{
+  "id": 60119,
+  "name": "Large stone ledges",
+  "models_2": [
+    58355
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "colours": [
+    [
+      0,
+      43034
+    ]
+  ],
+  "category": 2341,
+  "model": false,
+  "mapscene": 7,
+  "params": {
+    "2291": -1,
+    "2294": 1,
+    "2295": 0,
+    "2396": 0
+  }
+}

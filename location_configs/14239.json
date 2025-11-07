@@ -1,0 +1,23 @@
+{
+  "id": 14239,
+  "models": [
+    [
+      0,
+      14465
+    ]
+  ],
+  "name": "Gate",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Open",
+    "hidden",
+    "Repair",
+    null,
+    null
+  ],
+  "category": 182,
+  "mirror": true,
+  "model": false
+}

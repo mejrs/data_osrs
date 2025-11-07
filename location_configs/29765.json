@@ -1,0 +1,18 @@
+{
+  "id": 29765,
+  "name": "Herb patch",
+  "models_2": [
+    7766
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "category": 997
+}

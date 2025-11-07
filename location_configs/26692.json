@@ -1,0 +1,28 @@
+{
+  "id": 26692,
+  "models": [
+    [
+      22,
+      1131
+    ]
+  ],
+  "name": "Mystic symbol",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      3008,
+      3016
+    ]
+  ],
+  "category": 753,
+  "unknown_73": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": 50345,
+  "name": "Tumeken statue",
+  "models_2": [
+    50265,
+    55493
+  ],
+  "unknown_19": 1,
+  "unknown_24": 11788,
+  "ambient": 0,
+  "contrast": 40
+}

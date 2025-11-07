@@ -1,0 +1,24 @@
+{
+  "id": 4431,
+  "models": [
+    [
+      0,
+      4427
+    ],
+    [
+      22,
+      4426
+    ]
+  ],
+  "name": "Broken door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ]
+}

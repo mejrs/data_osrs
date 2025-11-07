@@ -1,0 +1,19 @@
+{
+  "id": 2650,
+  "name": "Table",
+  "models_2": [
+    27483,
+    27492,
+    27480
+  ],
+  "dim_x": 4,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

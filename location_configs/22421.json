@@ -1,0 +1,17 @@
+{
+  "id": 22421,
+  "name": "Flour bin",
+  "models_2": [
+    22836
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Empty",
+    null,
+    null,
+    null,
+    null
+  ]
+}

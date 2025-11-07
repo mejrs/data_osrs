@@ -1,0 +1,16 @@
+{
+  "id": 43148,
+  "name": "Plant",
+  "models_2": [
+    43776
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "translate_y": 50
+}

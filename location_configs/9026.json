@@ -1,0 +1,25 @@
+{
+  "id": 9026,
+  "models": [
+    [
+      0,
+      8886
+    ],
+    [
+      9,
+      8887
+    ]
+  ],
+  "name": "Partial fence",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Repair",
+    null,
+    "Hidden",
+    "Hidden",
+    null
+  ],
+  "category": 162
+}

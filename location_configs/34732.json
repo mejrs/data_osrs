@@ -1,0 +1,13 @@
+{
+  "id": 34732,
+  "name": "Amulet of Glory",
+  "models_2": [
+    37099
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 5
+}

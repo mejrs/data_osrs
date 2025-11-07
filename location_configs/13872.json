@@ -1,0 +1,17 @@
+{
+  "id": 13872,
+  "name": "Backpack",
+  "models_2": [
+    14145
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

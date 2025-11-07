@@ -1,0 +1,28 @@
+{
+  "id": 59558,
+  "name": "Helm",
+  "models_2": [
+    58197
+  ],
+  "unknown_17": false,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Stop-navigating",
+    null,
+    null,
+    "Escape",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      54214,
+      5665
+    ],
+    [
+      54183,
+      5662
+    ]
+  ]
+}

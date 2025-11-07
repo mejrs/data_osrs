@@ -1,0 +1,12 @@
+{
+  "id": 10014,
+  "name": "Crystal",
+  "models_2": [
+    9722
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 2744,
+  "ambient": 40,
+  "contrast": 30
+}

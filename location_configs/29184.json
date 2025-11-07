@@ -1,0 +1,45 @@
+{
+  "id": 29184,
+  "name": "Mounted Construction Cape",
+  "models_2": [
+    32193
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      6344
+    ],
+    [
+      54183,
+      6327
+    ],
+    [
+      54503,
+      6323
+    ],
+    [
+      960,
+      6344
+    ],
+    [
+      22464,
+      6336
+    ],
+    [
+      43968,
+      6327
+    ]
+  ],
+  "category": 206
+}

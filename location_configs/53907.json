@@ -1,0 +1,18 @@
+{
+  "id": 53907,
+  "name": "Old battered door",
+  "models_2": [
+    53670
+  ],
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0
+}

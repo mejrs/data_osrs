@@ -1,0 +1,16 @@
+{
+  "id": 13175,
+  "name": "Icon of Saradomin",
+  "models_2": [
+    12489
+  ],
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

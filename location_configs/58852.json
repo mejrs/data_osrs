@@ -1,0 +1,32 @@
+{
+  "id": 58852,
+  "name": "Hemp",
+  "models_2": [
+    8222,
+    59767,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21813,
+      6565
+    ],
+    [
+      21821,
+      6689
+    ],
+    [
+      15822,
+      15810
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 46231,
+  "name": "<col=ffff00>Cam the Camel</col>",
+  "models_2": [
+    46371
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Bank",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": -95,
+  "colours": [
+    [
+      7725,
+      6689
+    ],
+    [
+      6817,
+      6569
+    ]
+  ],
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160
+}

@@ -1,0 +1,21 @@
+{
+  "id": 39157,
+  "name": "<col=ffff00>Blood Tithe</col>",
+  "models_2": [
+    40357,
+    29153
+  ],
+  "unknown_21": true,
+  "unknown_24": 8698,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "hidden",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1447
+}

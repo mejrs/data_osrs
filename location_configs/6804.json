@@ -1,0 +1,17 @@
+{
+  "id": 6804,
+  "name": "Painting stand",
+  "models_2": [
+    12563
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

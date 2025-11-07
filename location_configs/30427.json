@@ -1,0 +1,27 @@
+{
+  "id": 30427,
+  "name": "Diseased Mahogany",
+  "models_2": [
+    33235,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      9761
+    ]
+  ],
+  "textures": {
+    "8": 41
+  }
+}

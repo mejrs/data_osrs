@@ -1,0 +1,21 @@
+{
+  "id": 30606,
+  "name": "Rubber cap mushroom",
+  "models_2": [
+    33710
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 7691,
+  "unknown_27": false,
+  "actions": [
+    "Jump on",
+    null,
+    null,
+    null,
+    null
+  ]
+}

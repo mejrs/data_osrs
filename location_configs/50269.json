@@ -1,0 +1,14 @@
+{
+  "id": 50269,
+  "models": [
+    [
+      0,
+      50339
+    ]
+  ],
+  "name": "Mural",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 0,
+  "contrast": 40
+}

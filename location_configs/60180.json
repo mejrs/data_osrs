@@ -1,0 +1,14 @@
+{
+  "id": 60180,
+  "name": "Table",
+  "models_2": [
+    58874
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 15,
+  "contrast": 40,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140
+}

@@ -1,0 +1,32 @@
+{
+  "id": 13370,
+  "name": "Huge Spider",
+  "models_2": [
+    2884,
+    13415
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 145,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      8128,
+      2964
+    ],
+    [
+      10258,
+      6028
+    ]
+  ],
+  "category": 206,
+  "scale_x": 215,
+  "scale_z": 215
+}

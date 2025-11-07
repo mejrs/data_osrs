@@ -1,0 +1,39 @@
+{
+  "id": 58645,
+  "name": "Water pump",
+  "models_2": [
+    41870
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      10392,
+      28
+    ],
+    [
+      10405,
+      41
+    ],
+    [
+      10401,
+      28
+    ],
+    [
+      10415,
+      41
+    ],
+    [
+      9889,
+      35
+    ],
+    [
+      9651,
+      45
+    ]
+  ]
+}

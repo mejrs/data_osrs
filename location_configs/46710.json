@@ -1,0 +1,18 @@
+{
+  "id": 46710,
+  "name": "Chest",
+  "models_2": [
+    47125
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 30
+}

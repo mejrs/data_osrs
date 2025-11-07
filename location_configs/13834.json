@@ -1,0 +1,31 @@
+{
+  "id": 13834,
+  "models": [
+    [
+      22,
+      14154
+    ]
+  ],
+  "name": "Broken bridge",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      12698
+    ],
+    [
+      6684,
+      12818
+    ]
+  ],
+  "unknown_73": true
+}

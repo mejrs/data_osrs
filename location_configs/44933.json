@@ -1,0 +1,17 @@
+{
+  "id": 44933,
+  "name": "Telescope",
+  "models_2": [
+    13135
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Observe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30
+}

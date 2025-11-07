@@ -1,0 +1,21 @@
+{
+  "id": 25591,
+  "dim_x": 2,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29,
+  "morphs_1": {
+    "varbit": 3838,
+    "ids": [
+      25438,
+      25439
+    ]
+  }
+}

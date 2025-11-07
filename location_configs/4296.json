@@ -1,0 +1,18 @@
+{
+  "id": 4296,
+  "name": "Abandoned Cart",
+  "models_2": [
+    1500
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "colours": [
+    [
+      6049,
+      5400
+    ]
+  ],
+  "textures": {
+    "3": 22
+  }
+}

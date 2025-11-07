@@ -1,0 +1,19 @@
+{
+  "id": 41880,
+  "name": "Table",
+  "models_2": [
+    42356
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 154
+}

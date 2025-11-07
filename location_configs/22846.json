@@ -1,0 +1,13 @@
+{
+  "id": 22846,
+  "name": "Table",
+  "models_2": [
+    23402,
+    23399
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "category": 157
+}

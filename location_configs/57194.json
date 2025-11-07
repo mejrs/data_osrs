@@ -1,0 +1,10 @@
+{
+  "id": 57194,
+  "name": "Sawhorse",
+  "models_2": [
+    57064
+  ],
+  "dim_y": 4,
+  "ambient": 10,
+  "contrast": 30
+}

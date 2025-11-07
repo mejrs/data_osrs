@@ -1,0 +1,22 @@
+{
+  "id": 58431,
+  "name": "Broken crate",
+  "models_2": [
+    58802
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

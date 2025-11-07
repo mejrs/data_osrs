@@ -1,0 +1,14 @@
+{
+  "id": 10768,
+  "name": "Bank",
+  "models_2": [
+    10647
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 30,
+  "scale_x": 128,
+  "scale_y": 192,
+  "scale_z": 128
+}

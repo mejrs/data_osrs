@@ -1,0 +1,44 @@
+{
+  "id": 26674,
+  "name": "Hopper",
+  "models_2": [
+    25317
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      7585,
+      7566
+    ],
+    [
+      8489,
+      7446
+    ],
+    [
+      7954,
+      7446
+    ],
+    [
+      7463,
+      7442
+    ],
+    [
+      10289,
+      10281
+    ],
+    [
+      10281,
+      10277
+    ]
+  ]
+}

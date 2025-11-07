@@ -1,0 +1,21 @@
+{
+  "id": 24795,
+  "name": "Nails",
+  "models_2": [
+    26020
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mapscene": 7
+}

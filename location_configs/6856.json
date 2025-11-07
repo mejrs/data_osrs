@@ -1,0 +1,16 @@
+{
+  "id": 6856,
+  "name": "Barricade",
+  "models_2": [
+    6788
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "colours": [
+    [
+      9556,
+      8514
+    ]
+  ],
+  "mapscene": 51
+}

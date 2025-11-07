@@ -1,0 +1,46 @@
+{
+  "id": 53022,
+  "name": "Rough-looking bush",
+  "models_2": [
+    1643
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      3499
+    ],
+    [
+      49,
+      3619
+    ],
+    [
+      24,
+      3610
+    ],
+    [
+      41,
+      3350
+    ],
+    [
+      37,
+      3346
+    ],
+    [
+      33,
+      3470
+    ]
+  ]
+}

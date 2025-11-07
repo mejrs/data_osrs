@@ -1,0 +1,14 @@
+{
+  "id": 30539,
+  "name": "Mushroom",
+  "models_2": [
+    33846
+  ],
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

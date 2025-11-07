@@ -1,0 +1,11 @@
+{
+  "id": 38800,
+  "name": "Saradomin Brazier",
+  "models_2": [
+    39796
+  ],
+  "dim_x": 2,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 10
+}

@@ -1,0 +1,55 @@
+{
+  "id": 56523,
+  "name": "Painting",
+  "models_2": [
+    57015
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      3594,
+      40210
+    ],
+    [
+      2328,
+      40090
+    ],
+    [
+      3365,
+      38049
+    ],
+    [
+      3259,
+      39091
+    ],
+    [
+      3505,
+      40107
+    ],
+    [
+      3253,
+      39083
+    ],
+    [
+      3243,
+      40099
+    ],
+    [
+      2334,
+      40094
+    ]
+  ],
+  "unknown_69": 23
+}

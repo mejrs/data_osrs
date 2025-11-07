@@ -1,0 +1,13 @@
+{
+  "id": 23063,
+  "name": "Camp fire",
+  "models_2": [
+    23960
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 475,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20
+}

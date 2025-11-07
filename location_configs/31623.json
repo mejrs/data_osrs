@@ -1,0 +1,45 @@
+{
+  "id": 31623,
+  "name": "Anvil",
+  "models_2": [
+    23436
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7079,
+      33
+    ],
+    [
+      6051,
+      24
+    ],
+    [
+      6049,
+      20
+    ],
+    [
+      5916,
+      16
+    ],
+    [
+      5910,
+      8
+    ],
+    [
+      5908,
+      4
+    ]
+  ],
+  "category": 772
+}

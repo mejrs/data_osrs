@@ -1,0 +1,36 @@
+{
+  "id": 543,
+  "name": "<col=ff9040>Yellow spice (4)</col>",
+  "models_2": [
+    13443
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      34933,
+      8138
+    ],
+    [
+      35955,
+      8138
+    ],
+    [
+      36977,
+      8138
+    ],
+    [
+      37999,
+      8138
+    ]
+  ],
+  "translate_x": 65531,
+  "translate_z": 10,
+  "mapscene": 81,
+  "params": {
+    "2312": 11
+  }
+}

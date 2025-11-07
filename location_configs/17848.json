@@ -1,0 +1,12 @@
+{
+  "id": 17848,
+  "name": "Rift",
+  "models_2": [
+    13253
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 35,
+  "mirror": true,
+  "unknown_73": true
+}

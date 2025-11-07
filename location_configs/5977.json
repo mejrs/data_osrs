@@ -1,0 +1,53 @@
+{
+  "id": 5977,
+  "models": [
+    [
+      0,
+      6014
+    ],
+    [
+      1,
+      6015
+    ],
+    [
+      2,
+      6016
+    ]
+  ],
+  "name": "Wall of flame",
+  "unknown_19": 1,
+  "unknown_24": 476,
+  "ambient": 100,
+  "actions": [
+    "Jump-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      7104,
+      42964
+    ],
+    [
+      8128,
+      43980
+    ],
+    [
+      5056,
+      44973
+    ],
+    [
+      4019,
+      43965
+    ],
+    [
+      2987,
+      43934
+    ]
+  ],
+  "scale_y": 512,
+  "mapscene": 22
+}

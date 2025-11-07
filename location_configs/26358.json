@@ -1,0 +1,14 @@
+{
+  "id": 26358,
+  "name": "Frozen demon",
+  "models_2": [
+    27795
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20
+}

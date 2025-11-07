@@ -1,0 +1,16 @@
+{
+  "id": 10954,
+  "name": "Flat ground",
+  "models_2": [
+    10900
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      5590,
+      8656
+    ]
+  ],
+  "model": false
+}

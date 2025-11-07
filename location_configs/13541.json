@@ -1,0 +1,23 @@
+{
+  "id": 13541,
+  "name": "Steel range",
+  "models_2": [
+    12616,
+    12618
+  ],
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "unknown_78": {
+    "unknown_1": 2210,
+    "unknown_2": 3
+  }
+}

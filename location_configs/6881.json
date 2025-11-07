@@ -1,0 +1,22 @@
+{
+  "id": 6881,
+  "name": "Crushed barricade",
+  "models_2": [
+    6789
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      9556,
+      8514
+    ]
+  ]
+}

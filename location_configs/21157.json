@@ -1,0 +1,19 @@
+{
+  "id": 21157,
+  "models": [
+    [
+      22,
+      21566
+    ]
+  ],
+  "name": "A crack",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ]
+}

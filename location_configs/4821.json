@@ -1,0 +1,16 @@
+{
+  "id": 4821,
+  "name": "Jungle tree stump",
+  "models_2": [
+    4837
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      4626,
+      6693
+    ]
+  ],
+  "mapscene": 5
+}

@@ -1,0 +1,21 @@
+{
+  "id": 12468,
+  "models": [
+    [
+      0,
+      13739
+    ]
+  ],
+  "name": "Pen Door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

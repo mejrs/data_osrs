@@ -1,0 +1,16 @@
+{
+  "id": 16848,
+  "name": "Dice",
+  "models_2": [
+    16796
+  ],
+  "ambient": 30,
+  "actions": [
+    "Roll",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

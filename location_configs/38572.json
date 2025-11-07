@@ -1,0 +1,36 @@
+{
+  "id": 38572,
+  "name": "Rubble",
+  "models_2": [
+    40074,
+    40065
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      32813,
+      32922
+    ],
+    [
+      32821,
+      32931
+    ],
+    [
+      32827,
+      32941
+    ],
+    [
+      32838,
+      32949
+    ]
+  ],
+  "scale_x": 222,
+  "scale_y": 222,
+  "scale_z": 222
+}

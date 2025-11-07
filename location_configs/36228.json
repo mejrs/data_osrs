@@ -1,0 +1,14 @@
+{
+  "id": 36228,
+  "name": "Roof edge",
+  "models_2": [
+    37827
+  ],
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ]
+}

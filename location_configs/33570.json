@@ -1,0 +1,43 @@
+{
+  "id": 33570,
+  "models": [
+    [
+      0,
+      30746
+    ]
+  ],
+  "name": "Door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      29615,
+      47021
+    ],
+    [
+      29495,
+      47799
+    ],
+    [
+      29376,
+      48704
+    ],
+    [
+      29512,
+      46792
+    ],
+    [
+      29648,
+      46040
+    ]
+  ],
+  "mirror": true
+}

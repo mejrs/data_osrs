@@ -1,0 +1,19 @@
+{
+  "id": 27378,
+  "name": "Buffet table",
+  "models_2": [
+    30962,
+    30963
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Serve",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 1
+}

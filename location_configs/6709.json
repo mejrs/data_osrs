@@ -1,0 +1,18 @@
+{
+  "id": 6709,
+  "name": "Rock",
+  "models_2": [
+    5515
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 1727,
+  "colours": [
+    [
+      61,
+      30
+    ]
+  ],
+  "model": false,
+  "translate_y": 65535
+}

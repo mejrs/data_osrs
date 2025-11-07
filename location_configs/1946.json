@@ -1,0 +1,18 @@
+{
+  "id": 1946,
+  "models": [
+    [
+      0,
+      666
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "textures": {
+    "2": 23
+  },
+  "mirror": true
+}

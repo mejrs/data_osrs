@@ -1,0 +1,17 @@
+{
+  "id": 46248,
+  "name": "Chest",
+  "models_2": [
+    27586
+  ],
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    "Check-permissions",
+    null
+  ],
+  "contrast": 15
+}

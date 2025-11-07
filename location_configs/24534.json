@@ -1,0 +1,43 @@
+{
+  "id": 24534,
+  "name": "Storage crate",
+  "models_2": [
+    13975
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Add finds",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      13596,
+      6439
+    ],
+    [
+      13592,
+      6435
+    ],
+    [
+      13716,
+      6430
+    ],
+    [
+      13840,
+      6554
+    ],
+    [
+      13964,
+      6550
+    ],
+    [
+      14216,
+      6674
+    ]
+  ]
+}

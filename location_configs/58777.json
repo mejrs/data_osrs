@@ -1,0 +1,19 @@
+{
+  "id": 58777,
+  "name": "Rosewood tree",
+  "models_2": [
+    58667,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 20
+}

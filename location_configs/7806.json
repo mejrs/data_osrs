@@ -1,0 +1,18 @@
+{
+  "id": 7806,
+  "name": "Dead Calquat",
+  "models_2": [
+    7962,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

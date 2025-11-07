@@ -1,0 +1,13 @@
+{
+  "id": 49601,
+  "models": [
+    [
+      0,
+      49709
+    ]
+  ],
+  "name": "Heavy door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25
+}

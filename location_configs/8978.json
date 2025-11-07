@@ -1,0 +1,22 @@
+{
+  "id": 8978,
+  "models_2": [
+    30997
+  ],
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": -5,
+  "colours": [
+    [
+      45,
+      28
+    ],
+    [
+      49,
+      33
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 10828,
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 288,
+  "morphs_1": {
+    "varbit": 4153,
+    "ids": [
+      10822,
+      27092
+    ]
+  },
+  "unknown_81": 80,
+  "mapscene": 129
+}

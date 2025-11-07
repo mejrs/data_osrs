@@ -1,0 +1,28 @@
+{
+  "id": 3113,
+  "name": "Entrance",
+  "models_2": [
+    3324
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 917,
+  "ambient": 60,
+  "actions": [
+    "Forfeit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      6932,
+      6689
+    ]
+  ],
+  "category": 181,
+  "mirror": true
+}

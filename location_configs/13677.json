@@ -1,0 +1,19 @@
+{
+  "id": 13677,
+  "models": [
+    [
+      22,
+      12602
+    ]
+  ],
+  "name": "Mahogany trapdoor",
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    "Remove-room",
+    "Remove"
+  ],
+  "category": 206
+}

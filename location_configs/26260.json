@@ -1,0 +1,19 @@
+{
+  "id": 26260,
+  "name": "Spirit tree",
+  "models_2": [
+    2851
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_21": true,
+  "unknown_24": 332,
+  "actions": [
+    "Travel",
+    "Talk-to",
+    null,
+    null,
+    null
+  ],
+  "mapscene": 0
+}

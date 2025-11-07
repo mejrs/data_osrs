@@ -1,0 +1,15 @@
+{
+  "id": 40319,
+  "name": "Dead sourhog",
+  "models_2": [
+    40898
+  ],
+  "actions": [
+    "Cut-foot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60
+}

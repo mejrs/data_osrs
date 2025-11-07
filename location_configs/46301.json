@@ -1,0 +1,15 @@
+{
+  "id": 46301,
+  "name": "Spooky Scarecrow",
+  "models_2": [
+    46682
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 30,
+  "contrast": 40,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "translate_y": 64
+}

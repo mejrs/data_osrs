@@ -1,0 +1,45 @@
+{
+  "id": 29194,
+  "name": "Mounted Firemaking Cape",
+  "models_2": [
+    32172
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      5056
+    ],
+    [
+      54183,
+      4027
+    ],
+    [
+      54503,
+      4023
+    ],
+    [
+      960,
+      5056
+    ],
+    [
+      22464,
+      4027
+    ],
+    [
+      43968,
+      4023
+    ]
+  ],
+  "category": 206
+}

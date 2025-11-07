@@ -1,0 +1,13 @@
+{
+  "id": 23067,
+  "name": "Bed",
+  "models_2": [
+    23983
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "translate_y": 65535
+}

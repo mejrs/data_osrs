@@ -1,0 +1,11 @@
+{
+  "id": 41443,
+  "name": "Rock pile",
+  "models_2": [
+    42021
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 30,
+  "contrast": 10
+}

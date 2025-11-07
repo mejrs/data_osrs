@@ -1,0 +1,13 @@
+{
+  "id": 25202,
+  "name": "Dragon corpse",
+  "models_2": [
+    26532,
+    26533,
+    26534,
+    26535
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false
+}

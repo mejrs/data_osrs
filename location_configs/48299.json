@@ -1,0 +1,20 @@
+{
+  "id": 48299,
+  "name": "Rope",
+  "models_2": [
+    49079
+  ],
+  "unknown_19": 1,
+  "ambient": -10,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 45,
+  "model": false,
+  "unknown_69": 30,
+  "mapscene": 69
+}

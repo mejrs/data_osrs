@@ -1,0 +1,22 @@
+{
+  "id": 55795,
+  "models": [
+    [
+      0,
+      50338
+    ]
+  ],
+  "name": "Mural",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 0,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "category": 2138
+}

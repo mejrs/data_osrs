@@ -1,0 +1,23 @@
+{
+  "id": 45576,
+  "models_2": [
+    46394,
+    45075
+  ],
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 30,
+  "colours": [
+    [
+      10677,
+      8627
+    ],
+    [
+      10308,
+      10562
+    ]
+  ],
+  "category": 1673,
+  "translate_y": 65535
+}

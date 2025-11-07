@@ -1,0 +1,30 @@
+{
+  "id": 48652,
+  "name": "Stone table",
+  "models_2": [
+    46817
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 5,
+  "contrast": 20,
+  "colours": [
+    [
+      16532,
+      154
+    ],
+    [
+      16652,
+      148
+    ],
+    [
+      16540,
+      163
+    ]
+  ],
+  "category": 157,
+  "unknown_73": true
+}

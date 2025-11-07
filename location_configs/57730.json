@@ -1,0 +1,15 @@
+{
+  "id": 57730,
+  "models": [
+    [
+      4,
+      40659
+    ]
+  ],
+  "name": "Spooky wall lamp",
+  "unknown_19": 1,
+  "unknown_24": 8751,
+  "ambient": 10,
+  "contrast": 10,
+  "translate_y": 140
+}

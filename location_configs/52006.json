@@ -1,0 +1,30 @@
+{
+  "id": 52006,
+  "name": "Chest",
+  "models_2": [
+    52412
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "hidden"
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      97,
+      7752
+    ],
+    [
+      99,
+      7768
+    ]
+  ],
+  "category": 1936,
+  "unknown_69": 27
+}

@@ -1,0 +1,14 @@
+{
+  "id": 55996,
+  "name": "Lava",
+  "models_2": [
+    55954
+  ],
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_24": 11994,
+  "unknown_27": false,
+  "model": false,
+  "translate_y": 65535,
+  "unknown_89": false
+}

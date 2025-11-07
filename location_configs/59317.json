@@ -1,0 +1,26 @@
+{
+  "id": 59317,
+  "name": "Crab apple tree",
+  "models_2": [
+    7921,
+    7767,
+    7928
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      17331,
+      3891
+    ]
+  ],
+  "category": 2317
+}

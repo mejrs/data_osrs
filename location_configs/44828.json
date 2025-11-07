@@ -1,0 +1,17 @@
+{
+  "id": 44828,
+  "name": "Standard",
+  "models_2": [
+    45107
+  ],
+  "unknown_24": 1730,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      62992,
+      64957
+    ]
+  ]
+}

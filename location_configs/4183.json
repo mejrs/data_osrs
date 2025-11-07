@@ -1,0 +1,17 @@
+{
+  "id": 4183,
+  "name": "Boxes",
+  "models_2": [
+    2138
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "16": 22
+  }
+}

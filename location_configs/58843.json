@@ -1,0 +1,35 @@
+{
+  "id": 58843,
+  "name": "Diseased Flax",
+  "models_2": [
+    59762,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      22414,
+      10776
+    ],
+    [
+      22420,
+      10654
+    ],
+    [
+      22049,
+      10533
+    ],
+    [
+      33354,
+      32968
+    ]
+  ]
+}

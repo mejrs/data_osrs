@@ -1,0 +1,26 @@
+{
+  "id": 31036,
+  "name": "Large Boulder",
+  "models_2": [
+    33532
+  ],
+  "dim_x": 6,
+  "dim_y": 6,
+  "is_transparent": true,
+  "unknown_22": true,
+  "unknown_24": 7712,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "Hidden",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1162,
+  "params": {
+    "430": 6
+  }
+}

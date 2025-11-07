@@ -1,0 +1,40 @@
+{
+  "id": 59331,
+  "name": "Poison spill",
+  "models_2": [
+    57726
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_24": 13539,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      27053,
+      16827
+    ],
+    [
+      27041,
+      16809
+    ],
+    [
+      27028,
+      16788
+    ],
+    [
+      27047,
+      21947
+    ]
+  ],
+  "category": 2317,
+  "model": false,
+  "scale_x": 512,
+  "scale_y": 512,
+  "scale_z": 512
+}

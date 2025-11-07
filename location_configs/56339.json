@@ -1,0 +1,21 @@
+{
+  "id": 56339,
+  "name": "Glyph",
+  "models_2": [
+    56269
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 12170,
+  "ambient": 30,
+  "contrast": 100,
+  "category": 2168,
+  "model": false,
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160,
+  "unknown_89": false
+}

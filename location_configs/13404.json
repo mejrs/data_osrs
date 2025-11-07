@@ -1,0 +1,17 @@
+{
+  "id": 13404,
+  "name": "Hangman game",
+  "models_2": [
+    12975
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

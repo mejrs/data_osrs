@@ -1,0 +1,29 @@
+{
+  "id": 42140,
+  "name": "Chair",
+  "models_2": [
+    30928
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      933,
+      673
+    ],
+    [
+      675,
+      673
+    ],
+    [
+      931,
+      675
+    ],
+    [
+      937,
+      668
+    ]
+  ]
+}

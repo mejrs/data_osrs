@@ -1,0 +1,30 @@
+{
+  "id": 45457,
+  "name": "Mirror (dirty)",
+  "models_2": [
+    45764,
+    45759
+  ],
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Clean",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      28793,
+      5417
+    ],
+    [
+      28907,
+      5417
+    ]
+  ],
+  "category": 1669,
+  "mirror": true
+}

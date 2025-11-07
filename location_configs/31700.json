@@ -1,0 +1,19 @@
+{
+  "id": 31700,
+  "models_2": [
+    818
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "colours": [
+    [
+      6689,
+      8656
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

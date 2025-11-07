@@ -1,0 +1,18 @@
+{
+  "id": 57733,
+  "name": "Icon of the Flames of Lloigh-enn",
+  "models_2": [
+    57446
+  ],
+  "dim_x": 2,
+  "ambient": 15,
+  "actions": [
+    null,
+    null,
+    null,
+    "Read",
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206
+}

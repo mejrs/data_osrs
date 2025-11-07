@@ -1,0 +1,23 @@
+{
+  "id": 6801,
+  "name": "Whetstone",
+  "models_2": [
+    10388
+  ],
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      10287,
+      10295
+    ]
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

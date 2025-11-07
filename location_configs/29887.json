@@ -1,0 +1,14 @@
+{
+  "id": 29887,
+  "name": "Crystalline structure",
+  "models_2": [
+    32516,
+    32517
+  ],
+  "dim_x": 5,
+  "dim_y": 8,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 7351,
+  "translate_y": 65535
+}

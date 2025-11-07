@@ -1,0 +1,29 @@
+{
+  "id": 49179,
+  "name": "Abyssal Tether",
+  "models_2": [
+    49010
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Destroy",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      10576,
+      39382
+    ],
+    [
+      39382,
+      39366
+    ]
+  ]
+}

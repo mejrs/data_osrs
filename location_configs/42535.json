@@ -1,0 +1,26 @@
+{
+  "id": 42535,
+  "models": [
+    [
+      0,
+      39330
+    ],
+    [
+      1,
+      39404
+    ],
+    [
+      9,
+      39350
+    ]
+  ],
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -5,
+  "contrast": 50,
+  "model": false,
+  "translate_y": 65535,
+  "mapscene": 22
+}

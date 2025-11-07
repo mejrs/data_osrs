@@ -1,0 +1,19 @@
+{
+  "id": 13367,
+  "name": "Guard dog",
+  "models_2": [
+    26255
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 6561,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

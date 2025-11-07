@@ -1,0 +1,19 @@
+{
+  "id": 12927,
+  "models_2": [
+    821
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      6689,
+      20
+    ]
+  ],
+  "model": false,
+  "mapscene": 12
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2880,
+  "models": [
+    [
+      0,
+      2161
+    ]
+  ],
+  "name": "Mystic portal",
+  "unknown_19": 1,
+  "ambient": 100,
+  "actions": [
+    "Walk-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100
+}

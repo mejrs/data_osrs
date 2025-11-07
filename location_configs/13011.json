@@ -1,0 +1,28 @@
+{
+  "id": 13011,
+  "models": [
+    [
+      0,
+      12194
+    ],
+    [
+      2,
+      12195
+    ]
+  ],
+  "occludes_1": false,
+  "unknown_28": 8,
+  "ambient": 20,
+  "contrast": 50,
+  "colours": [
+    [
+      5006,
+      5665
+    ],
+    [
+      6032,
+      5665
+    ]
+  ],
+  "translate_y": 1
+}

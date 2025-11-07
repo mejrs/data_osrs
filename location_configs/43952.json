@@ -1,0 +1,15 @@
+{
+  "id": 43952,
+  "name": "Entry",
+  "models_2": [
+    44578
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 20,
+  "unknown_69": 27
+}

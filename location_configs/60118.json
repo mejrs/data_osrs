@@ -1,0 +1,24 @@
+{
+  "id": 60118,
+  "name": "Cave exit",
+  "models_2": [
+    58357
+  ],
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "model": false,
+  "unknown_69": 23
+}

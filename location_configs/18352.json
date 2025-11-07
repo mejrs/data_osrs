@@ -1,0 +1,32 @@
+{
+  "id": 18352,
+  "name": "Chest",
+  "models_2": [
+    15567
+  ],
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10586,
+      10425
+    ],
+    [
+      10471,
+      10405
+    ],
+    [
+      6715,
+      8501
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100
+}

@@ -1,0 +1,18 @@
+{
+  "id": 40442,
+  "name": "Bandage table",
+  "models_2": [
+    7906,
+    41261
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1480
+}

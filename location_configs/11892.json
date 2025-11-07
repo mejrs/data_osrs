@@ -1,0 +1,21 @@
+{
+  "id": 11892,
+  "name": "Table",
+  "models_2": [
+    11459
+  ],
+  "is_transparent": true,
+  "colours": [
+    [
+      9661,
+      5272
+    ],
+    [
+      8745,
+      5268
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

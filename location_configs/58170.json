@@ -1,0 +1,22 @@
+{
+  "id": 58170,
+  "name": "Door",
+  "models_2": [
+    48376
+  ],
+  "dim_x": 5,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "scale_y": 73,
+  "unknown_69": 27
+}

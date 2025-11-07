@@ -1,0 +1,19 @@
+{
+  "id": 15081,
+  "name": "Herbs",
+  "models_2": [
+    7800,
+    7875,
+    7766
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Rake",
+    null,
+    null,
+    null,
+    null
+  ]
+}

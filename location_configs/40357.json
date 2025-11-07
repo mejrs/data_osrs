@@ -1,0 +1,20 @@
+{
+  "id": 40357,
+  "name": "Lectern",
+  "models_2": [
+    40904
+  ],
+  "ambient": 20,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 30,
+  "params": {
+    "1862": 1
+  }
+}

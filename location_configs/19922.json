@@ -1,0 +1,15 @@
+{
+  "id": 19922,
+  "name": "Giant feathers",
+  "models_2": [
+    19417
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ]
+}

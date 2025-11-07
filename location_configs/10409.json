@@ -1,0 +1,12 @@
+{
+  "id": 10409,
+  "name": "Water Channel",
+  "models_2": [
+    10195,
+    10202,
+    10194
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 20
+}

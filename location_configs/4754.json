@@ -1,0 +1,27 @@
+{
+  "id": 4754,
+  "name": "Banana tree",
+  "models_2": [
+    1630
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6583,
+      6703
+    ],
+    [
+      15799,
+      15265
+    ]
+  ],
+  "mapscene": 5
+}

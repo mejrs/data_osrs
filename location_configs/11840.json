@@ -1,0 +1,25 @@
+{
+  "id": 11840,
+  "models": [
+    [
+      0,
+      9258
+    ],
+    [
+      9,
+      9259
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 35,
+  "contrast": 15,
+  "colours": [
+    [
+      3008,
+      4044
+    ]
+  ],
+  "mirror": true,
+  "model": false
+}

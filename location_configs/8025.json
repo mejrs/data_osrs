@@ -1,0 +1,24 @@
+{
+  "id": 8025,
+  "name": "Curry tree",
+  "models_2": [
+    7968,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      10023,
+      7975
+    ]
+  ]
+}

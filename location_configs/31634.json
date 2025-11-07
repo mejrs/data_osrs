@@ -1,0 +1,19 @@
+{
+  "id": 31634,
+  "name": "<col=ff9040>Tinderbox</col>",
+  "models_2": [
+    2348
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1787,
+  "mapscene": 81
+}

@@ -1,0 +1,22 @@
+{
+  "id": 32298,
+  "name": "Leak",
+  "models_2": [
+    34621
+  ],
+  "unknown_17": false,
+  "unknown_24": 7938,
+  "ambient": 80,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 80,
+  "model": false,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

@@ -1,0 +1,25 @@
+{
+  "id": 24564,
+  "models": [
+    [
+      0,
+      18595
+    ],
+    [
+      2,
+      35759
+    ]
+  ],
+  "name": "Gate",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "mapscene": 22
+}

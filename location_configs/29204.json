@@ -1,0 +1,45 @@
+{
+  "id": 29204,
+  "name": "Mounted Hunting Cape",
+  "models_2": [
+    32173
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      8487
+    ],
+    [
+      54183,
+      8367
+    ],
+    [
+      54503,
+      8367
+    ],
+    [
+      960,
+      8487
+    ],
+    [
+      22464,
+      8478
+    ],
+    [
+      43968,
+      8598
+    ]
+  ],
+  "category": 206
+}

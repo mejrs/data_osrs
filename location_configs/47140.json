@@ -1,0 +1,21 @@
+{
+  "id": 47140,
+  "name": "Cave Entrance",
+  "models_2": [
+    47337
+  ],
+  "dim_x": 4,
+  "dim_y": 5,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -20,
+  "actions": [
+    "Enter",
+    "Peek",
+    "Check-Fee",
+    null,
+    null
+  ],
+  "contrast": 50,
+  "mapscene": 7
+}

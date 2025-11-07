@@ -1,0 +1,15 @@
+{
+  "id": 6865,
+  "name": "An ogre standard",
+  "models_2": [
+    6800
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      9556,
+      8514
+    ]
+  ]
+}

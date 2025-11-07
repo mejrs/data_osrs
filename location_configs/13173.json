@@ -1,0 +1,16 @@
+{
+  "id": 13173,
+  "name": "Symbol of Zamorak",
+  "models_2": [
+    12580
+  ],
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,18 @@
+{
+  "id": 35077,
+  "name": "Pack",
+  "models_2": [
+    38314
+  ],
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 144,
+  "scale_y": 144,
+  "scale_z": 144
+}

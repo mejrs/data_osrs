@@ -1,0 +1,24 @@
+{
+  "id": 12094,
+  "models": [
+    [
+      10,
+      11940
+    ],
+    [
+      22,
+      16232
+    ]
+  ],
+  "name": "Fairy ring",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ]
+}

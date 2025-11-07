@@ -1,0 +1,23 @@
+{
+  "id": 3423,
+  "models_2": [
+    3464
+  ],
+  "dim_y": 2,
+  "unknown_19": 0,
+  "colours": [
+    [
+      5429,
+      6682
+    ],
+    [
+      61,
+      7566
+    ]
+  ],
+  "mirror": true,
+  "unknown_78": {
+    "unknown_1": 3157,
+    "unknown_2": 5
+  }
+}

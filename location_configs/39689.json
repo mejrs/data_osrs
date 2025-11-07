@@ -1,0 +1,48 @@
+{
+  "id": 39689,
+  "name": "Twisted Crate",
+  "models_2": [
+    21488,
+    18328
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 3743,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      6443,
+      7322
+    ],
+    [
+      6439,
+      7442
+    ],
+    [
+      6563,
+      7690
+    ],
+    [
+      6558,
+      8070
+    ],
+    [
+      6682,
+      6020
+    ],
+    [
+      6806,
+      898
+    ]
+  ],
+  "model": false,
+  "translate_y": 65535
+}

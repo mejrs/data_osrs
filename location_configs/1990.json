@@ -1,0 +1,16 @@
+{
+  "id": 1990,
+  "name": "Crate",
+  "models_2": [
+    3815
+  ],
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

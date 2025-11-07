@@ -1,0 +1,11 @@
+{
+  "id": 56971,
+  "name": "Banner",
+  "models_2": [
+    57023
+  ],
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 20,
+  "translate_y": 65280
+}

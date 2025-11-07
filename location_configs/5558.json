@@ -1,0 +1,19 @@
+{
+  "id": 5558,
+  "name": "Aggie's Cauldron",
+  "models_2": [
+    2241
+  ],
+  "unknown_24": 479,
+  "ambient": 30,
+  "colours": [
+    [
+      22435,
+      35747
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 2143,
+    "unknown_2": 10
+  }
+}

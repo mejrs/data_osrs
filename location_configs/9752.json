@@ -1,0 +1,17 @@
+{
+  "id": 9752,
+  "name": "Crystal",
+  "models_2": [
+    9721
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      43528,
+      54377
+    ]
+  ]
+}

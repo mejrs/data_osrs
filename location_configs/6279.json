@@ -1,0 +1,16 @@
+{
+  "id": 6279,
+  "name": "Smokey well",
+  "models_2": [
+    6144
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Climb-down",
+    "Smoke",
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65535
+}

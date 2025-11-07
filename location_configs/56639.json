@@ -1,0 +1,14 @@
+{
+  "id": 56639,
+  "name": "Door",
+  "models_2": [
+    57093
+  ],
+  "dim_x": 2,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 20,
+  "scale_y": 130
+}

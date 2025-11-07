@@ -1,0 +1,41 @@
+{
+  "id": 31958,
+  "name": "Magenta Crystal",
+  "models_2": [
+    32502
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      15296,
+      55217
+    ],
+    [
+      15273,
+      55229
+    ],
+    [
+      15029,
+      55225
+    ],
+    [
+      16163,
+      55221
+    ]
+  ],
+  "category": 1215,
+  "scale_x": 64,
+  "scale_y": 72,
+  "scale_z": 64
+}

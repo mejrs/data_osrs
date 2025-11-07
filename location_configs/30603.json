@@ -1,0 +1,13 @@
+{
+  "id": 30603,
+  "name": "Sulliuscep sprout",
+  "models_2": [
+    33702
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "translate_y": 65535
+}

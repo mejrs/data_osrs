@@ -1,0 +1,36 @@
+{
+  "id": 56539,
+  "models": [
+    [
+      0,
+      51803
+    ]
+  ],
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      3230,
+      5404
+    ],
+    [
+      3226,
+      5400
+    ],
+    [
+      148,
+      5392
+    ]
+  ],
+  "category": 2185,
+  "unknown_75": 0
+}

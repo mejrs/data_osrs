@@ -1,0 +1,17 @@
+{
+  "id": 57269,
+  "models": [
+    [
+      10,
+      36938
+    ],
+    [
+      4,
+      36940
+    ]
+  ],
+  "name": "Sign",
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53466,
+  "models": [
+    [
+      10,
+      5514
+    ],
+    [
+      1,
+      5515
+    ]
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_24": 1727,
+  "ambient": 15,
+  "contrast": 25,
+  "colours": [
+    [
+      61,
+      10270
+    ]
+  ],
+  "model": false,
+  "translate_y": 65535
+}

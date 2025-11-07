@@ -1,0 +1,15 @@
+{
+  "id": 2011,
+  "name": "Ledge",
+  "models_2": [
+    1730
+  ],
+  "unknown_22": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

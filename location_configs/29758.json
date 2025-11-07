@@ -1,0 +1,33 @@
+{
+  "id": 29758,
+  "name": "Black crystal",
+  "models_2": [
+    32502
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": -10,
+  "colours": [
+    [
+      15296,
+      4
+    ],
+    [
+      15273,
+      24
+    ],
+    [
+      15029,
+      16
+    ],
+    [
+      16163,
+      8
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 72,
+  "scale_z": 64
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28794,
+  "models": [
+    [
+      0,
+      14889
+    ]
+  ],
+  "name": "Bronze Door",
+  "unknown_21": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      3489,
+      5281
+    ]
+  ],
+  "unknown_75": 0
+}

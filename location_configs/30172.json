@@ -1,0 +1,19 @@
+{
+  "id": 30172,
+  "name": "Portal",
+  "models_2": [
+    11233,
+    12636
+  ],
+  "unknown_19": 1,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    "Home",
+    "Build mode",
+    "Friend's house",
+    null
+  ],
+  "mapscene": 64
+}

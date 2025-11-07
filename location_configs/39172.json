@@ -1,0 +1,17 @@
+{
+  "id": 39172,
+  "name": "Wall",
+  "models_2": [
+    40311
+  ],
+  "unknown_22": true,
+  "ambient": -10,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

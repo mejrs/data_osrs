@@ -1,0 +1,24 @@
+{
+  "id": 41236,
+  "name": "Shrine",
+  "models_2": [
+    41972
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 3105,
+  "ambient": 10,
+  "actions": [
+    "Cook-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 27,
+  "unknown_78": {
+    "unknown_1": 2065,
+    "unknown_2": 3
+  }
+}

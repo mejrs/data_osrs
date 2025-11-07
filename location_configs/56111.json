@@ -1,0 +1,18 @@
+{
+  "id": 56111,
+  "name": "Mahogany display",
+  "models_2": [
+    56053
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Trophies",
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "unknown_69": 27
+}

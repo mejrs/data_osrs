@@ -1,0 +1,13 @@
+{
+  "id": 40250,
+  "name": "<col=ffff00>Smoke Devil",
+  "models_2": [
+    36012
+  ],
+  "unknown_24": 1829,
+  "ambient": 25,
+  "contrast": 25,
+  "scale_x": 35,
+  "scale_y": 35,
+  "scale_z": 35
+}

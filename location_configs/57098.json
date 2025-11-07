@@ -1,0 +1,19 @@
+{
+  "id": 57098,
+  "name": "Offerings",
+  "models_2": [
+    56596,
+    56595
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Claim",
+    null,
+    "Inspect",
+    null,
+    null
+  ],
+  "contrast": 15
+}

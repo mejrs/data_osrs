@@ -1,0 +1,19 @@
+{
+  "id": 8882,
+  "models": [
+    [
+      0,
+      5854
+    ]
+  ],
+  "name": "Cave entrance",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      10270,
+      10266
+    ]
+  ]
+}

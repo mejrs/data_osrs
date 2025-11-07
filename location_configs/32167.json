@@ -1,0 +1,21 @@
+{
+  "id": 32167,
+  "models": [
+    [
+      0,
+      34682
+    ]
+  ],
+  "name": "Blockage",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ]
+}

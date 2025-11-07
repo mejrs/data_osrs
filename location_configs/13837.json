@@ -1,0 +1,33 @@
+{
+  "id": 13837,
+  "models": [
+    [
+      22,
+      14153
+    ]
+  ],
+  "name": "Fixed bridge",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      12698
+    ],
+    [
+      6684,
+      12818
+    ]
+  ],
+  "category": 650,
+  "unknown_73": true,
+  "mapscene": 46
+}

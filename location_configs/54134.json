@@ -1,0 +1,15 @@
+{
+  "id": 54134,
+  "models": [
+    [
+      17,
+      29247
+    ]
+  ],
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "textures": {
+    "6": 16
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7897,
+  "name": "Dead nasturtium",
+  "models_2": [
+    7859,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      19361,
+      6036
+    ],
+    [
+      960,
+      5545
+    ],
+    [
+      9152,
+      38792
+    ]
+  ]
+}

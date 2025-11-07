@@ -1,0 +1,25 @@
+{
+  "id": 30150,
+  "name": "Dead tree",
+  "models_2": [
+    1716
+  ],
+  "actions": [
+    "Observe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7054,
+      5388
+    ],
+    [
+      6028,
+      5388
+    ]
+  ],
+  "mapscene": 27
+}

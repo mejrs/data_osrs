@@ -1,0 +1,14 @@
+{
+  "id": 21092,
+  "name": "Crazy penguin",
+  "models_2": [
+    21625,
+    21623,
+    21624,
+    21622
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 5728,
+  "unknown_27": false
+}

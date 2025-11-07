@@ -1,0 +1,28 @@
+{
+  "id": 27376,
+  "name": "Utensil cupboard",
+  "models_2": [
+    13486
+  ],
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6930,
+      6563
+    ],
+    [
+      7836,
+      6443
+    ]
+  ],
+  "unknown_69": 27
+}

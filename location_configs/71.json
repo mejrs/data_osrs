@@ -1,0 +1,18 @@
+{
+  "id": 71,
+  "models": [
+    [
+      0,
+      639
+    ]
+  ],
+  "name": "Large door",
+  "actions": [
+    "Open",
+    "Knock-at",
+    null,
+    null,
+    null
+  ],
+  "translate_y": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": 48208,
+  "name": "Tentacle",
+  "models_2": [
+    49237,
+    49243,
+    49246,
+    49244
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 10265,
+  "unknown_27": false,
+  "actions": [
+    "Destroy",
+    null,
+    null,
+    null,
+    null
+  ]
+}

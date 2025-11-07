@@ -1,0 +1,17 @@
+{
+  "id": 15050,
+  "name": "Altar",
+  "models_2": [
+    14994,
+    14993
+  ],
+  "dim_x": 2,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

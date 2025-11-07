@@ -1,0 +1,19 @@
+{
+  "id": 5850,
+  "models": [
+    [
+      22,
+      5686
+    ]
+  ],
+  "name": "Flat stone",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump-across",
+    null,
+    null,
+    null,
+    null
+  ]
+}

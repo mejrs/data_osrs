@@ -1,0 +1,36 @@
+{
+  "id": 54692,
+  "name": "Wolf Den",
+  "models_2": [
+    52431
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      8375,
+      39
+    ],
+    [
+      8369,
+      33
+    ],
+    [
+      8363,
+      22
+    ]
+  ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80
+}

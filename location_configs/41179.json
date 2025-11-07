@@ -1,0 +1,24 @@
+{
+  "id": 41179,
+  "name": "League statue",
+  "models_2": [
+    41678
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
+}

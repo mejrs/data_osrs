@@ -1,0 +1,29 @@
+{
+  "id": 51561,
+  "name": "Pickaxe stall",
+  "models_2": [
+    5879,
+    53128
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "contrast": 20,
+  "colours": [
+    [
+      10266,
+      5541
+    ],
+    [
+      10262,
+      5532
+    ],
+    [
+      10258,
+      5524
+    ]
+  ],
+  "model": false,
+  "scale_x": 88,
+  "scale_y": 88,
+  "scale_z": 88
+}

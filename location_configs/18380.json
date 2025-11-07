@@ -1,0 +1,12 @@
+{
+  "id": 18380,
+  "name": "Broken wall",
+  "models_2": [
+    18474
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 35,
+  "translate_y": 1
+}

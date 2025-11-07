@@ -1,0 +1,13 @@
+{
+  "id": 9161,
+  "name": "Candles",
+  "models_2": [
+    9229,
+    9230
+  ],
+  "unknown_24": 2564,
+  "mirror": true,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200
+}

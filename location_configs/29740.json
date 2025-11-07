@@ -1,0 +1,25 @@
+{
+  "id": 29740,
+  "name": "Boulder",
+  "models_2": [
+    24149
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Push",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10392,
+      29194
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

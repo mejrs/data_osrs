@@ -1,0 +1,14 @@
+{
+  "id": 2929,
+  "name": "Buried skeleton",
+  "models_2": [
+    1045
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

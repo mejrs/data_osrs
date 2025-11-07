@@ -1,0 +1,17 @@
+{
+  "id": 1810,
+  "name": "Web",
+  "models_2": [
+    776
+  ],
+  "actions": [
+    "Slash",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "12": 26
+  }
+}

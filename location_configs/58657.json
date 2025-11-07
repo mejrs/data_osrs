@@ -1,0 +1,17 @@
+{
+  "id": 58657,
+  "name": "Anvil",
+  "models_2": [
+    1251
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ]
+}

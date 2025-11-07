@@ -1,0 +1,28 @@
+{
+  "id": 7678,
+  "name": "Diseased Poison Ivy bush",
+  "models_2": [
+    7820,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      8737
+    ],
+    [
+      8722,
+      10776
+    ]
+  ]
+}

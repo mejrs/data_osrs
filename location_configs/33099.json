@@ -1,0 +1,49 @@
+{
+  "id": 33099,
+  "name": "Grand Exchange Portal",
+  "models_2": [
+    11231,
+    11235
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Grand Exchange",
+    "Varrock",
+    "Toggle",
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      50072,
+      6067
+    ],
+    [
+      49948,
+      5943
+    ],
+    [
+      49953,
+      5819
+    ],
+    [
+      49829,
+      5696
+    ],
+    [
+      49705,
+      5700
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "params": {
+    "429": 2,
+    "430": 1
+  }
+}

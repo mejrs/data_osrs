@@ -1,0 +1,18 @@
+{
+  "id": 44625,
+  "name": "Mould jig (Empty)",
+  "models_2": [
+    44823
+  ],
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Setup",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

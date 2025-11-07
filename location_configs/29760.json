@@ -1,0 +1,32 @@
+{
+  "id": 29760,
+  "name": "Magenta crystal",
+  "models_2": [
+    32502
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "colours": [
+    [
+      15296,
+      55217
+    ],
+    [
+      15273,
+      55229
+    ],
+    [
+      15029,
+      55225
+    ],
+    [
+      16163,
+      55221
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 72,
+  "scale_z": 64
+}

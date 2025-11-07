@@ -1,0 +1,19 @@
+{
+  "id": 2186,
+  "models": [
+    [
+      0,
+      14355
+    ]
+  ],
+  "name": "Loose Railing",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

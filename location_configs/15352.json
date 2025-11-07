@@ -1,0 +1,24 @@
+{
+  "id": 15352,
+  "models": [
+    [
+      0,
+      12656
+    ],
+    [
+      2,
+      12657
+    ]
+  ],
+  "name": "Prison space",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

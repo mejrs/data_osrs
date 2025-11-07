@@ -1,0 +1,15 @@
+{
+  "id": 5058,
+  "name": "Wooden doors",
+  "models_2": [
+    4966
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Walk-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

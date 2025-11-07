@@ -1,0 +1,23 @@
+{
+  "id": 33583,
+  "name": "Tree stump",
+  "models_2": [
+    1629
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6674,
+      5388
+    ]
+  ],
+  "category": 1297,
+  "mapscene": 6
+}

@@ -1,0 +1,15 @@
+{
+  "id": 54536,
+  "name": "Ledge",
+  "models_2": [
+    54482
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ]
+}

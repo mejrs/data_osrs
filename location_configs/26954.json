@@ -1,0 +1,13 @@
+{
+  "id": 26954,
+  "name": "Vent",
+  "models_2": [
+    29430
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false
+}

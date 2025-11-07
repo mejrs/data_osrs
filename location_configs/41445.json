@@ -1,0 +1,11 @@
+{
+  "id": 41445,
+  "name": "Rock debris",
+  "models_2": [
+    42027
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 30,
+  "contrast": 10
+}

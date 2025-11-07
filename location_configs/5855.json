@@ -1,0 +1,16 @@
+{
+  "id": 5855,
+  "name": "Shining pool",
+  "models_2": [
+    3884
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    "Listen-to",
+    null,
+    null
+  ]
+}

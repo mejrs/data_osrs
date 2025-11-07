@@ -1,0 +1,29 @@
+{
+  "id": 49394,
+  "name": "Abyssal Stem",
+  "models_2": [
+    49013
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      7260,
+      40386
+    ],
+    [
+      7244,
+      40386
+    ]
+  ]
+}

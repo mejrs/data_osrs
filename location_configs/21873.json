@@ -1,0 +1,21 @@
+{
+  "id": 21873,
+  "name": "Pressure machine",
+  "models_2": [
+    22673,
+    22674,
+    22675,
+    22676
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Fix",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

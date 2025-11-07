@@ -1,0 +1,31 @@
+{
+  "id": 51644,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Rope",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "scale_x": 212,
+  "scale_z": 212,
+  "unknown_69": 23
+}

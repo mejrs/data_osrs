@@ -1,0 +1,17 @@
+{
+  "id": 16656,
+  "name": "Bin",
+  "models_2": [
+    11021
+  ],
+  "dim_x": 2,
+  "unknown_22": true,
+  "actions": [
+    "Empty",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29
+}

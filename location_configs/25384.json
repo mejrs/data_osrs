@@ -1,0 +1,19 @@
+{
+  "id": 25384,
+  "models": [
+    [
+      0,
+      5090
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

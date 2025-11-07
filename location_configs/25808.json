@@ -1,0 +1,39 @@
+{
+  "id": 25808,
+  "name": "Bank booth",
+  "models_2": [
+    5270
+  ],
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      12579,
+      6315
+    ],
+    [
+      12698,
+      6435
+    ],
+    [
+      12818,
+      6554
+    ],
+    [
+      21776,
+      6674
+    ],
+    [
+      27152,
+      7056
+    ]
+  ],
+  "category": 684
+}

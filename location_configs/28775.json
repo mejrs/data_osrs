@@ -1,0 +1,15 @@
+{
+  "id": 28775,
+  "name": "Rope",
+  "models_2": [
+    31341
+  ],
+  "dim_y": 3,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ]
+}

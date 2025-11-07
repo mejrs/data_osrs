@@ -1,0 +1,19 @@
+{
+  "id": 56235,
+  "name": "Curiously positioned crate of carrots",
+  "models_2": [
+    52911,
+    2918
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

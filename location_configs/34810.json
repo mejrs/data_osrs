@@ -1,0 +1,19 @@
+{
+  "id": 34810,
+  "is_transparent": true,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    "Deposit-box",
+    null
+  ],
+  "category": 684,
+  "morphs_1": {
+    "varbit": 4153,
+    "ids": [
+      10583,
+      10584
+    ]
+  }
+}

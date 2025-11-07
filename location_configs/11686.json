@@ -1,0 +1,16 @@
+{
+  "id": 11686,
+  "name": "Mature Moonlight Mead",
+  "models_2": [
+    7775
+  ],
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ]
+}

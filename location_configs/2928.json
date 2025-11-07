@@ -1,0 +1,20 @@
+{
+  "id": 2928,
+  "name": "Carved rock",
+  "models_2": [
+    693
+  ],
+  "actions": [
+    "Look",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5916,
+      7952
+    ]
+  ]
+}

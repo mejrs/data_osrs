@@ -1,0 +1,12 @@
+{
+  "id": 50036,
+  "name": "Snow shark",
+  "models_2": [
+    50066
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "ambient": 60,
+  "contrast": 60
+}

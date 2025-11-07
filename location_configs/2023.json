@@ -1,0 +1,19 @@
+{
+  "id": 2023,
+  "name": "Achey Tree",
+  "models_2": [
+    3448
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Chop",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 189,
+  "unknown_81": 80,
+  "mapscene": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": 6276,
+  "models": [
+    [
+      4,
+      2085
+    ]
+  ],
+  "name": "Landscape",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "14": 13
+  }
+}

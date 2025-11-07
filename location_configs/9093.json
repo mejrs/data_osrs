@@ -1,0 +1,16 @@
+{
+  "id": 9093,
+  "name": "Bar dispenser",
+  "models_2": [
+    9073
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19000,
+  "name": "Grain of Plenty",
+  "models_2": [
+    5494
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256
+}

@@ -1,0 +1,18 @@
+{
+  "id": 29119,
+  "name": "Tip jar space",
+  "models_2": [
+    32084
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "unknown_75": 0
+}

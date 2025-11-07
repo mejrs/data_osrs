@@ -1,0 +1,24 @@
+{
+  "id": 34898,
+  "models": [
+    [
+      10,
+      2131
+    ],
+    [
+      0,
+      25625
+    ]
+  ],
+  "name": "Web",
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Slash",
+    "Peek",
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0
+}

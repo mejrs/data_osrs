@@ -1,0 +1,30 @@
+{
+  "id": 33408,
+  "name": "Portal Nexus",
+  "models_2": [
+    36050
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 367,
+  "actions": [
+    "Teleport",
+    "Teleport Menu",
+    "Configuration",
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "params": {
+    "429": 2,
+    "430": 2
+  }
+}

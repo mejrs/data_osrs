@@ -1,0 +1,24 @@
+{
+  "id": 7887,
+  "name": "Nasturtium",
+  "models_2": [
+    7860,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      19361,
+      20005
+    ]
+  ]
+}

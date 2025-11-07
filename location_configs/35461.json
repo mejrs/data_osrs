@@ -1,0 +1,18 @@
+{
+  "id": 35461,
+  "name": "Seal of Ithell",
+  "models_2": [
+    38417
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 44
+}

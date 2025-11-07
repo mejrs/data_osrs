@@ -1,0 +1,16 @@
+{
+  "id": 40102,
+  "name": "Table",
+  "models_2": [
+    9547,
+    40790
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ]
+}

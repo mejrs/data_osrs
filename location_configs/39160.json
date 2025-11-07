@@ -1,0 +1,20 @@
+{
+  "id": 39160,
+  "name": "Corpse cart",
+  "models_2": [
+    40351
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

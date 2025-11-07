@@ -1,0 +1,16 @@
+{
+  "id": 789,
+  "name": "City Gate",
+  "models_2": [
+    3996
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

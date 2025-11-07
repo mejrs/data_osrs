@@ -1,0 +1,24 @@
+{
+  "id": 32751,
+  "name": "Door",
+  "models_2": [
+    35717
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    "Quick-enter",
+    null,
+    null,
+    null
+  ],
+  "category": 1233,
+  "params": {
+    "429": 3,
+    "430": 1
+  }
+}

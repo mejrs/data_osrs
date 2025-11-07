@@ -1,0 +1,20 @@
+{
+  "id": 15491,
+  "models": [
+    [
+      22,
+      13605
+    ]
+  ],
+  "name": "Hole",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

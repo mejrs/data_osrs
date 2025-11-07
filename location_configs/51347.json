@@ -1,0 +1,21 @@
+{
+  "id": 51347,
+  "name": "Lunar Chest",
+  "models_2": [
+    52413
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Claim",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "model": false
+}

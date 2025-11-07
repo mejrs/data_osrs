@@ -1,0 +1,20 @@
+{
+  "id": 35973,
+  "name": "Corrupt Grym Root",
+  "models_2": [
+    37611
+  ],
+  "ambient": 90,
+  "actions": [
+    "Pick",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 44,
+  "category": 1338,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

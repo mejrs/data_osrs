@@ -1,0 +1,11 @@
+{
+  "id": 23970,
+  "name": "Stone signpost",
+  "models_2": [
+    11560
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 15
+}

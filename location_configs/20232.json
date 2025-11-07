@@ -1,0 +1,21 @@
+{
+  "id": 20232,
+  "name": "Lava crater",
+  "models_2": [
+    20655
+  ],
+  "unknown_21": true,
+  "unknown_24": 5415,
+  "unknown_27": false,
+  "actions": [
+    "Dunk",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 3077,
+    "unknown_2": 3
+  }
+}

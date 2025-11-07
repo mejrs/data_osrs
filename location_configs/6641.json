@@ -1,0 +1,15 @@
+{
+  "id": 6641,
+  "name": "Canopic Jar",
+  "models_2": [
+    6443
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ]
+}

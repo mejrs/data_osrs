@@ -1,0 +1,14 @@
+{
+  "id": 16028,
+  "name": "Bars",
+  "models_2": [
+    21364
+  ],
+  "unknown_19": 1,
+  "unknown_24": 5599,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "model": false,
+  "scale_y": 135
+}

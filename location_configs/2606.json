@@ -1,0 +1,21 @@
+{
+  "id": 2606,
+  "models": [
+    [
+      0,
+      26468
+    ]
+  ],
+  "name": "Wall",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2": 23
+  }
+}

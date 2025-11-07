@@ -1,0 +1,13 @@
+{
+  "id": 47926,
+  "name": "Water pump",
+  "models_2": [
+    37468
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 8415,
+  "ambient": 10,
+  "contrast": 30,
+  "category": 177
+}

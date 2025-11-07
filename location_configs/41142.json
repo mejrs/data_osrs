@@ -1,0 +1,23 @@
+{
+  "id": 41142,
+  "models": [
+    [
+      22,
+      41042
+    ]
+  ],
+  "name": "Trailblazer rug",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 10,
+  "category": 206,
+  "translate_y": 65534
+}

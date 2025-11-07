@@ -1,0 +1,20 @@
+{
+  "id": 10079,
+  "name": "Copper rocks",
+  "models_2": [
+    1390
+  ],
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      4510
+    ]
+  ]
+}

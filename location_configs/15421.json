@@ -1,0 +1,21 @@
+{
+  "id": 15421,
+  "name": "Globe space",
+  "models_2": [
+    12706
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "params": {
+    "429": 3,
+    "430": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4031,
+  "name": "Shantay pass",
+  "models_2": [
+    4051
+  ],
+  "dim_x": 4,
+  "actions": [
+    "Go-through",
+    "Look-at",
+    null,
+    null,
+    null
+  ],
+  "mapscene": 14
+}

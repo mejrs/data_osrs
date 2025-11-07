@@ -1,0 +1,28 @@
+{
+  "id": 47127,
+  "models": [
+    [
+      10,
+      43331
+    ],
+    [
+      22,
+      43332
+    ]
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 9227,
+  "ambient": -25,
+  "contrast": 90,
+  "colours": [
+    [
+      29656,
+      45
+    ]
+  ],
+  "model": false
+}

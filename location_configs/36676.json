@@ -1,0 +1,12 @@
+{
+  "id": 36676,
+  "name": "Tree",
+  "models_2": [
+    37884
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 15,
+  "contrast": 5,
+  "mapscene": 10
+}

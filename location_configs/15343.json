@@ -1,0 +1,15 @@
+{
+  "id": 15343,
+  "name": "Prize chest space",
+  "models_2": [
+    12884
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

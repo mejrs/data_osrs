@@ -1,0 +1,35 @@
+{
+  "id": 49167,
+  "name": "Bed",
+  "models_2": [
+    1239
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8526,
+      8371
+    ],
+    [
+      4882,
+      21541
+    ],
+    [
+      8286,
+      21549
+    ],
+    [
+      115,
+      21557
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 40264,
+  "name": "<col=ffff00>Overgrown cat",
+  "models_2": [
+    3010,
+    3006
+  ],
+  "unknown_24": 317,
+  "colours": [
+    [
+      61,
+      12
+    ],
+    [
+      16,
+      12
+    ],
+    [
+      127,
+      33
+    ]
+  ],
+  "scale_x": 85,
+  "scale_y": 60,
+  "scale_z": 85
+}

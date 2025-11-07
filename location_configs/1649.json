@@ -1,0 +1,19 @@
+{
+  "id": 1649,
+  "models_2": [
+    640
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      61,
+      7952
+    ]
+  ],
+  "textures": {
+    "2": 23
+  }
+}

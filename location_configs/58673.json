@@ -1,0 +1,18 @@
+{
+  "id": 58673,
+  "name": "Mounted purplefin",
+  "models_2": [
+    59505
+  ],
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Trophies",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6946,
+  "name": "Utensil Stall",
+  "models_2": [
+    37252,
+    37247
+  ],
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

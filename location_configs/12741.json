@@ -1,0 +1,45 @@
+{
+  "id": 12741,
+  "name": "Fallen Wall",
+  "models_2": [
+    14063
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8617,
+      16904
+    ],
+    [
+      7481,
+      16536
+    ],
+    [
+      8501,
+      16532
+    ],
+    [
+      8497,
+      16656
+    ],
+    [
+      8493,
+      16652
+    ]
+  ],
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "unknown_73": true
+}

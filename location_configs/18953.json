@@ -1,0 +1,18 @@
+{
+  "id": 18953,
+  "name": "Rocks",
+  "models_2": [
+    1391
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "colours": [
+    [
+      24,
+      6812
+    ]
+  ],
+  "category": 881,
+  "mapscene": 12
+}

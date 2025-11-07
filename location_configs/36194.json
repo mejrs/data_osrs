@@ -1,0 +1,12 @@
+{
+  "id": 36194,
+  "name": "Rock Formation (Depleted)",
+  "models_2": [
+    37815
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 44
+}

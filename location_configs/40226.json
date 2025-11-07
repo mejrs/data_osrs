@@ -1,0 +1,27 @@
+{
+  "id": 40226,
+  "name": "Broken table",
+  "models_2": [
+    18315
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Demolish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      7587
+    ],
+    [
+      7952,
+      7830
+    ]
+  ]
+}

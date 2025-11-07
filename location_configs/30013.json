@@ -1,0 +1,13 @@
+{
+  "id": 30013,
+  "name": "Meat tree",
+  "models_2": [
+    32754
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "translate_y": 65533
+}

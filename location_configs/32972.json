@@ -1,0 +1,13 @@
+{
+  "id": 32972,
+  "name": "The Maiden of Sugadinti",
+  "models_2": [
+    35385
+  ],
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_24": 8090,
+  "ambient": 30,
+  "model": false
+}

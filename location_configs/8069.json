@@ -1,0 +1,27 @@
+{
+  "id": 8069,
+  "name": "Diseased orange tree",
+  "models_2": [
+    8049,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      8602,
+      12820
+    ]
+  ],
+  "textures": {
+    "8": 41
+  }
+}

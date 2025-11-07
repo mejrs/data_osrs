@@ -1,0 +1,44 @@
+{
+  "id": 49130,
+  "models": [
+    [
+      0,
+      48742
+    ]
+  ],
+  "name": "Dragonstone Gate",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "colours": [
+    [
+      42929,
+      51133
+    ],
+    [
+      42919,
+      51123
+    ],
+    [
+      42584,
+      50654
+    ],
+    [
+      42576,
+      50646
+    ],
+    [
+      42941,
+      51146
+    ]
+  ],
+  "model": false,
+  "unknown_75": 0
+}

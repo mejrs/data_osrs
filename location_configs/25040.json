@@ -1,0 +1,17 @@
+{
+  "id": 25040,
+  "name": "Wardrobe",
+  "models_2": [
+    1951,
+    5531
+  ],
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29
+}

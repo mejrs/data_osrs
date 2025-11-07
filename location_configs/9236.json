@@ -1,0 +1,15 @@
+{
+  "id": 9236,
+  "name": "Vine patch",
+  "models_2": [
+    9209
+  ],
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    null,
+    null
+  ]
+}

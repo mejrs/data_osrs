@@ -1,0 +1,16 @@
+{
+  "id": 6623,
+  "name": "Rock",
+  "models_2": [
+    6432
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

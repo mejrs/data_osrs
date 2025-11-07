@@ -1,0 +1,24 @@
+{
+  "id": 19470,
+  "name": "Rocks",
+  "models_2": [
+    818
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      5157
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

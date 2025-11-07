@@ -1,0 +1,39 @@
+{
+  "id": 56712,
+  "name": "Rope",
+  "models_2": [
+    56541
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      43026,
+      2702
+    ],
+    [
+      43047,
+      2334
+    ],
+    [
+      43038,
+      2458
+    ],
+    [
+      43030,
+      2454
+    ]
+  ],
+  "category": 2202,
+  "unknown_69": 23
+}

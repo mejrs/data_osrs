@@ -1,0 +1,24 @@
+{
+  "id": 2943,
+  "name": "Polluted water",
+  "models_2": [
+    1435
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Look",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1": 32
+  },
+  "translate_y": 65534,
+  "unknown_78": {
+    "unknown_1": 2171,
+    "unknown_2": 3
+  }
+}

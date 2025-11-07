@@ -1,0 +1,32 @@
+{
+  "id": 8009,
+  "name": "Diseased banana tree",
+  "models_2": [
+    7932,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      9123,
+      10140
+    ],
+    [
+      7068,
+      9108
+    ],
+    [
+      22100,
+      21555
+    ]
+  ]
+}

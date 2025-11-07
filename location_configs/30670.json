@@ -1,0 +1,21 @@
+{
+  "id": 30670,
+  "name": "Bellshroom",
+  "models_2": [
+    33706
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 56
+}

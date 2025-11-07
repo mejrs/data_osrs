@@ -1,0 +1,39 @@
+{
+  "id": 56298,
+  "name": "Old bookcase",
+  "models_2": [
+    12410
+  ],
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      6466,
+      4502
+    ],
+    [
+      5545,
+      4502
+    ],
+    [
+      7958,
+      33676
+    ],
+    [
+      6565,
+      7599
+    ],
+    [
+      4626,
+      4641
+    ]
+  ],
+  "category": 205
+}

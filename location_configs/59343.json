@@ -1,0 +1,31 @@
+{
+  "id": 59343,
+  "name": "Sand pit",
+  "models_2": [
+    10722
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5010,
+      10130
+    ],
+    [
+      4762,
+      6618
+    ],
+    [
+      5006,
+      9100
+    ]
+  ],
+  "category": 2317
+}

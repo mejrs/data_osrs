@@ -1,0 +1,32 @@
+{
+  "id": 34433,
+  "name": "Mystical barrier (orange)",
+  "models_2": [
+    32750
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 60,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      15291,
+      7097
+    ],
+    [
+      14272,
+      6978
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "translate_y": 65535
+}

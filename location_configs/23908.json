@@ -1,0 +1,14 @@
+{
+  "id": 23908,
+  "models": [
+    [
+      0,
+      24701
+    ]
+  ],
+  "ambient": 25,
+  "mirror": true,
+  "model": false,
+  "translate_y": 1,
+  "mapscene": 22
+}

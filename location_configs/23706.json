@@ -1,0 +1,16 @@
+{
+  "id": 23706,
+  "name": "Dripping vine",
+  "models_2": [
+    15890
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7
+}

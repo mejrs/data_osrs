@@ -1,0 +1,17 @@
+{
+  "id": 13900,
+  "name": "Black hole",
+  "models_2": [
+    14237
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 50,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

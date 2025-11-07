@@ -1,0 +1,20 @@
+{
+  "id": 26268,
+  "name": "<col=ff9040>Empty vial",
+  "models_2": [
+    16726,
+    7766
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65531,
+  "translate_y": 65466
+}

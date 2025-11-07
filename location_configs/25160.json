@@ -1,0 +1,29 @@
+{
+  "id": 25160,
+  "name": "Rock",
+  "models_2": [
+    8690
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 40,
+  "contrast": 20,
+  "colours": [
+    [
+      16536,
+      10258
+    ],
+    [
+      16545,
+      43026
+    ],
+    [
+      18601,
+      43034
+    ]
+  ],
+  "model": false,
+  "translate_y": 65535,
+  "mapscene": 12
+}

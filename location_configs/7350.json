@@ -1,0 +1,34 @@
+{
+  "id": 7350,
+  "name": "Closed chest",
+  "models_2": [
+    5272
+  ],
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14499,
+      5421
+    ],
+    [
+      12698,
+      6451
+    ],
+    [
+      16536,
+      5417
+    ],
+    [
+      12818,
+      6445
+    ]
+  ],
+  "unknown_69": 30
+}

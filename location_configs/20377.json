@@ -1,0 +1,18 @@
+{
+  "id": 20377,
+  "name": "Altar",
+  "models_2": [
+    20772
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 897
+}

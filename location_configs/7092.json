@@ -1,0 +1,15 @@
+{
+  "id": 7092,
+  "name": "Telescope",
+  "models_2": [
+    7401
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Observe",
+    null,
+    null,
+    null,
+    null
+  ]
+}

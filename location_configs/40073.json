@@ -1,0 +1,14 @@
+{
+  "id": 40073,
+  "name": "Cabinet space",
+  "models_2": [
+    40811
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    "Build",
+    null
+  ]
+}

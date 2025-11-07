@@ -1,0 +1,16 @@
+{
+  "id": 20241,
+  "name": "Attacker item machine",
+  "models_2": [
+    20692
+  ],
+  "ambient": 45,
+  "actions": [
+    null,
+    "Take-Arrows",
+    "Take-Runes",
+    null,
+    null
+  ],
+  "unknown_69": 30
+}

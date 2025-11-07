@@ -1,0 +1,22 @@
+{
+  "id": 59723,
+  "name": "Shipwrights' Workbench",
+  "models_2": [
+    57702
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Craft",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2334,
+  "unknown_69": 30
+}

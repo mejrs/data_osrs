@@ -1,0 +1,17 @@
+{
+  "id": 26299,
+  "name": "Mahogany house",
+  "models_2": [
+    28946
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "View",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,11 @@
+{
+  "id": 21022,
+  "name": "Bed",
+  "models_2": [
+    21642
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25
+}

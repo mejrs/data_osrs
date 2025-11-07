@@ -1,0 +1,18 @@
+{
+  "id": 8531,
+  "name": "Dead Yew",
+  "models_2": [
+    8158,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

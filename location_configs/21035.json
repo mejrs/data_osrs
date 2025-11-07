@@ -1,0 +1,21 @@
+{
+  "id": 21035,
+  "models": [
+    [
+      0,
+      21754
+    ]
+  ],
+  "name": "Chasm",
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false
+}

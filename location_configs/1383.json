@@ -1,0 +1,25 @@
+{
+  "id": 1383,
+  "name": "Dead tree",
+  "models_2": [
+    1719
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      7690,
+      3470
+    ]
+  ],
+  "category": 189,
+  "unknown_81": 80,
+  "mapscene": 6
+}

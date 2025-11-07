@@ -1,0 +1,30 @@
+{
+  "id": 4800,
+  "models": [
+    [
+      0,
+      4723
+    ]
+  ],
+  "name": "Jail Door",
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Pick-lock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      6585,
+      6703
+    ],
+    [
+      5673,
+      5673
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 15895,
+  "name": "Bamboo Ladder",
+  "models_2": [
+    4727
+  ],
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      6689
+    ],
+    [
+      5673,
+      5912
+    ]
+  ],
+  "mirror": true,
+  "unknown_69": 23,
+  "translate_x": 30,
+  "mapscene": 7
+}

@@ -1,0 +1,20 @@
+{
+  "id": 27281,
+  "actions": [
+    "Open",
+    "Toggle XP",
+    null,
+    null,
+    null
+  ],
+  "category": 884,
+  "unknown_69": 27,
+  "morphs_1": {
+    "varbit": 13677,
+    "ids": [
+      5348,
+      27282,
+      43495
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8879,
+  "name": "Box",
+  "models_2": [
+    8660
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

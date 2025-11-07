@@ -1,0 +1,21 @@
+{
+  "id": 2236,
+  "models": [
+    [
+      22,
+      1494
+    ]
+  ],
+  "name": "Climbing rocks",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 44604,
+  "name": "Preform storage",
+  "models_2": [
+    44827
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

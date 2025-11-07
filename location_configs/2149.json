@@ -1,0 +1,38 @@
+{
+  "id": 2149,
+  "models": [
+    [
+      0,
+      1810
+    ]
+  ],
+  "name": "Trellis",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      18200,
+      16270
+    ],
+    [
+      15132,
+      16270
+    ],
+    [
+      15265,
+      15774
+    ],
+    [
+      15145,
+      15915
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2907,
+  "name": "Bed",
+  "models_2": [
+    1239
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1389,
+  "name": "Roots",
+  "models_2": [
+    2153
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 15,
+  "contrast": 20,
+  "colours": [
+    [
+      6028,
+      61985
+    ]
+  ],
+  "unknown_81": 80,
+  "mapscene": 6
+}

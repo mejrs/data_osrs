@@ -1,0 +1,35 @@
+{
+  "id": 19762,
+  "models": [
+    [
+      22,
+      56327
+    ]
+  ],
+  "name": "Cave",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      32883
+    ],
+    [
+      41,
+      38119
+    ],
+    [
+      20,
+      43670
+    ]
+  ]
+}

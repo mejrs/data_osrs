@@ -1,0 +1,16 @@
+{
+  "id": 9105,
+  "name": "Cogs",
+  "models_2": [
+    9069
+  ],
+  "unknown_19": 1,
+  "unknown_24": 2451,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ]
+}

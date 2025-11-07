@@ -1,0 +1,49 @@
+{
+  "id": 37592,
+  "name": "Ape Atoll Dungeon Portal",
+  "models_2": [
+    11231,
+    11240
+  ],
+  "dim_x": 2,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      50072,
+      11160
+    ],
+    [
+      49948,
+      11164
+    ],
+    [
+      49953,
+      11173
+    ],
+    [
+      49829,
+      11179
+    ],
+    [
+      49705,
+      11189
+    ]
+  ],
+  "category": 206,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "params": {
+    "429": 2,
+    "430": 1
+  }
+}

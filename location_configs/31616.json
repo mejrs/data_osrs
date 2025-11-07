@@ -1,0 +1,24 @@
+{
+  "id": 31616,
+  "name": "Magical Barrier",
+  "models_2": [
+    9723
+  ],
+  "unknown_24": 2746,
+  "ambient": 100,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      127,
+      41913
+    ]
+  ],
+  "model": false
+}

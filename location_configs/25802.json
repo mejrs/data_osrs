@@ -1,0 +1,25 @@
+{
+  "id": 25802,
+  "models": [
+    [
+      0,
+      25086
+    ]
+  ],
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      8844,
+      6554
+    ],
+    [
+      6682,
+      6315
+    ]
+  ],
+  "mirror": true,
+  "translate_y": 1,
+  "unknown_75": 0
+}

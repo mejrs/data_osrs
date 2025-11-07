@@ -1,0 +1,14 @@
+{
+  "id": 45752,
+  "name": "Sarcophagus",
+  "models_2": [
+    46130
+  ],
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30,
+  "category": 1677,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110
+}

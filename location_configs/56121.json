@@ -1,0 +1,28 @@
+{
+  "id": 56121,
+  "name": "Basilisk head",
+  "models_2": [
+    56052
+  ],
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    "Trophies",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6443,
+      7114
+    ],
+    [
+      6682,
+      4502
+    ]
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

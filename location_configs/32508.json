@@ -1,0 +1,26 @@
+{
+  "id": 32508,
+  "name": "Unstable Altar",
+  "models_2": [
+    16356
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "unknown_78": {
+    "unknown_1": 3427,
+    "unknown_2": 5
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 49921,
+  "name": "Coffer",
+  "models_2": [
+    11870
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      1562,
+      3670
+    ],
+    [
+      536,
+      3660
+    ],
+    [
+      662,
+      2500
+    ],
+    [
+      532,
+      3625
+    ],
+    [
+      62224,
+      3604
+    ]
+  ]
+}

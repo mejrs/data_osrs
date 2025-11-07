@@ -1,0 +1,17 @@
+{
+  "id": 43804,
+  "name": "Guardian remains",
+  "models_2": [
+    44066
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 9386,
+  "unknown_27": false,
+  "ambient": 40,
+  "contrast": 30,
+  "model": false
+}

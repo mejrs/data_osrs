@@ -1,0 +1,18 @@
+{
+  "id": 39698,
+  "models": [
+    [
+      10,
+      40720
+    ],
+    [
+      22,
+      40717
+    ]
+  ],
+  "name": "Flowers",
+  "unknown_17": false,
+  "ambient": 20,
+  "contrast": 10,
+  "mapscene": 102
+}

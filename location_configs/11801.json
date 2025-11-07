@@ -1,0 +1,19 @@
+{
+  "id": 11801,
+  "name": "Ladder",
+  "models_2": [
+    25027
+  ],
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 664,
+  "unknown_69": 30,
+  "mapscene": 7
+}

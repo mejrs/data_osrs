@@ -1,0 +1,38 @@
+{
+  "id": 12332,
+  "name": "General Bentnoze",
+  "models_2": [
+    24229,
+    24231,
+    24232,
+    24230
+  ],
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6331,
+      916
+    ],
+    [
+      6323,
+      912
+    ],
+    [
+      35133,
+      916
+    ],
+    [
+      35253,
+      912
+    ]
+  ],
+  "scale_x": 148,
+  "scale_y": 148,
+  "scale_z": 148
+}

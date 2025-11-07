@@ -1,0 +1,21 @@
+{
+  "id": 31675,
+  "name": "Magical Chest",
+  "models_2": [
+    5273
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      11173
+    ]
+  ],
+  "unknown_69": 30
+}

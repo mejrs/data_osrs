@@ -1,0 +1,23 @@
+{
+  "id": 13322,
+  "models": [
+    [
+      0,
+      12433
+    ],
+    [
+      2,
+      12434
+    ]
+  ],
+  "name": "Cage",
+  "is_transparent": true,
+  "actions": [
+    null,
+    null,
+    null,
+    "Build-in",
+    "Remove"
+  ],
+  "category": 206
+}

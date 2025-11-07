@@ -1,0 +1,21 @@
+{
+  "id": 5808,
+  "models": [
+    [
+      4,
+      5650
+    ]
+  ],
+  "name": "Sculpture",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Look",
+    null,
+    null,
+    null,
+    "Search"
+  ],
+  "contrast": 80
+}

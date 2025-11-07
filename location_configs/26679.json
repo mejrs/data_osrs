@@ -1,0 +1,26 @@
+{
+  "id": 26679,
+  "name": "Rockfall",
+  "models_2": [
+    779
+  ],
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7952
+    ]
+  ],
+  "category": 751,
+  "scale_y": 160,
+  "unknown_75": 0
+}

@@ -1,0 +1,49 @@
+{
+  "id": 25441,
+  "name": "Goblin stove",
+  "models_2": [
+    26908,
+    26903
+  ],
+  "dim_y": 2,
+  "unknown_24": 3105,
+  "ambient": 5,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      6592,
+      3230
+    ],
+    [
+      6583,
+      3226
+    ],
+    [
+      6707,
+      3350
+    ],
+    [
+      7843,
+      3346
+    ],
+    [
+      7838,
+      3470
+    ],
+    [
+      7962,
+      520
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 2199,
+    "unknown_2": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 5009,
+  "name": "Tunnel",
+  "models_2": [
+    4936
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 60,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 70,
+  "colours": [
+    [
+      6036,
+      7335
+    ],
+    [
+      5008,
+      7326
+    ],
+    [
+      1932,
+      7446
+    ],
+    [
+      904,
+      7566
+    ],
+    [
+      900,
+      8070
+    ]
+  ],
+  "scale_x": 384,
+  "scale_y": 384,
+  "scale_z": 384
+}

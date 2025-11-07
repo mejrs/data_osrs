@@ -1,0 +1,21 @@
+{
+  "id": 41734,
+  "name": "Wooden bench",
+  "models_2": [
+    12405
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      4502,
+      7704
+    ],
+    [
+      4510,
+      7585
+    ]
+  ],
+  "unknown_69": 30
+}

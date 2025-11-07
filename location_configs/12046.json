@@ -1,0 +1,19 @@
+{
+  "id": 12046,
+  "models": [
+    [
+      0,
+      11962
+    ]
+  ],
+  "name": "Magic door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 46260,
+  "name": "Jack-O-Lanterns",
+  "models_2": [
+    46656
+  ],
+  "dim_x": 2,
+  "ambient": 10,
+  "contrast": 20
+}

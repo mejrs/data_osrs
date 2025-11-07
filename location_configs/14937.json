@@ -1,0 +1,23 @@
+{
+  "id": 14937,
+  "name": "Banner",
+  "models_2": [
+    16238
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Grab",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 256,
+  "scale_z": 256,
+  "translate_y": 65486,
+  "unknown_73": true
+}

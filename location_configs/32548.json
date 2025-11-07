@@ -1,0 +1,19 @@
+{
+  "id": 32548,
+  "models": [
+    [
+      0,
+      35234
+    ]
+  ],
+  "name": "Window",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Look-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

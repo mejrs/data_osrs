@@ -1,0 +1,18 @@
+{
+  "id": 19388,
+  "name": "Cactus",
+  "models_2": [
+    1600
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 4
+}

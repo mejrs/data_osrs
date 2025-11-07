@@ -1,0 +1,23 @@
+{
+  "id": 16630,
+  "models_2": [
+    16744
+  ],
+  "unknown_19": 0,
+  "ambient": 30,
+  "contrast": 30,
+  "colours": [
+    [
+      10334,
+      8534
+    ],
+    [
+      55207,
+      18343
+    ]
+  ],
+  "model": false,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140
+}

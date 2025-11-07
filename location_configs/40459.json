@@ -1,0 +1,27 @@
+{
+  "id": 40459,
+  "models": [
+    [
+      0,
+      27100
+    ]
+  ],
+  "name": "Neutral Barrier",
+  "unknown_19": 1,
+  "unknown_24": 1433,
+  "ambient": 100,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "category": 1482,
+  "unknown_75": 0,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  }
+}

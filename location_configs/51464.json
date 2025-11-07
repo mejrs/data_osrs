@@ -1,0 +1,16 @@
+{
+  "id": 51464,
+  "name": "Tree",
+  "models_2": [
+    52429
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "ambient": 30,
+  "contrast": 30,
+  "textures": {
+    "90": 8
+  },
+  "model": false
+}

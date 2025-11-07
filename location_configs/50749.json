@@ -1,0 +1,30 @@
+{
+  "id": 50749,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Colosseum entrance",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "scale_y": 768,
+  "scale_z": 264
+}

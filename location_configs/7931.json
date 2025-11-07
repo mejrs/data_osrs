@@ -1,0 +1,32 @@
+{
+  "id": 7931,
+  "name": "Dead woad plant",
+  "models_2": [
+    7867,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      10718,
+      9104
+    ],
+    [
+      22428,
+      22408
+    ],
+    [
+      22433,
+      22404
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 19993,
+  "dim_x": 2,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29,
+  "morphs_1": {
+    "varbit": 3109,
+    "ids": [
+      19985,
+      19986,
+      19987,
+      19988
+    ]
+  }
+}

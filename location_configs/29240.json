@@ -1,0 +1,26 @@
+{
+  "id": 29240,
+  "name": "Fancy pool of Rejuvenation",
+  "models_2": [
+    32108
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 7304,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Drink",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_78": {
+    "unknown_1": 2149,
+    "unknown_2": 3
+  }
+}

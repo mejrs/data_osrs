@@ -1,0 +1,19 @@
+{
+  "id": 26655,
+  "name": "Tunnel",
+  "models_2": [
+    28467
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 170,
+  "unknown_69": 23,
+  "mapscene": 7
+}

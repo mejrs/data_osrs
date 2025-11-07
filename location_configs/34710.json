@@ -1,0 +1,16 @@
+{
+  "id": 34710,
+  "models_2": [
+    8040
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 0,
+  "ambient": 25,
+  "textures": {
+    "8": 41
+  },
+  "scale_x": 96,
+  "scale_y": 112,
+  "scale_z": 96
+}

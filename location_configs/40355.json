@@ -1,0 +1,51 @@
+{
+  "id": 40355,
+  "models": [
+    [
+      0,
+      14783
+    ],
+    [
+      1,
+      14784
+    ],
+    [
+      2,
+      14785
+    ],
+    [
+      9,
+      14786
+    ]
+  ],
+  "name": "Crumbling wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21526,
+      8478
+    ],
+    [
+      21522,
+      8602
+    ],
+    [
+      21646,
+      8598
+    ],
+    [
+      21642,
+      8846
+    ]
+  ]
+}

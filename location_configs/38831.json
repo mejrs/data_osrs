@@ -1,0 +1,11 @@
+{
+  "id": 38831,
+  "name": "Coffin",
+  "models_2": [
+    40103
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 30,
+  "contrast": 10
+}

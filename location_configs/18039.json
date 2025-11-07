@@ -1,0 +1,15 @@
+{
+  "id": 18039,
+  "name": "Fireplace",
+  "models_2": [
+    17638
+  ],
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 160
+}

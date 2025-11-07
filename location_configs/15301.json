@@ -1,0 +1,19 @@
+{
+  "id": 15301,
+  "name": "Fireplace space",
+  "models_2": [
+    12700
+  ],
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "params": {
+    "430": 2
+  }
+}

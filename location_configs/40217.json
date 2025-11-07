@@ -1,0 +1,17 @@
+{
+  "id": 40217,
+  "name": "Stool hotspot",
+  "models_2": [
+    40854
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 57015,
+  "name": "Greenman statue",
+  "models_2": [
+    56347
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 30,
+  "category": 206
+}

@@ -1,0 +1,20 @@
+{
+  "id": 29263,
+  "models": [
+    [
+      0,
+      32123
+    ]
+  ],
+  "name": "Redwood fence post",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

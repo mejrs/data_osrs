@@ -1,0 +1,21 @@
+{
+  "id": 38811,
+  "models": [
+    [
+      22,
+      40195
+    ]
+  ],
+  "name": "Bridge",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Walk-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

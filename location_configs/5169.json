@@ -1,0 +1,17 @@
+{
+  "id": 5169,
+  "name": "Grave",
+  "models_2": [
+    1366
+  ],
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    "Dig",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27,
+  "mapscene": 34
+}

@@ -1,0 +1,14 @@
+{
+  "id": 10035,
+  "name": "Low wall",
+  "models_2": [
+    9738
+  ],
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ]
+}

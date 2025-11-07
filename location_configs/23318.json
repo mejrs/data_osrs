@@ -1,0 +1,13 @@
+{
+  "id": 23318,
+  "name": "Council members",
+  "models_2": [
+    24255,
+    24256,
+    24257
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 6167,
+  "ambient": 15
+}

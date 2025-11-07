@@ -1,0 +1,19 @@
+{
+  "id": 26092,
+  "models": [
+    [
+      0,
+      27440
+    ],
+    [
+      9,
+      27455
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_27": false,
+  "unknown_28": 16,
+  "ambient": 30,
+  "contrast": 25,
+  "translate_y": 1
+}

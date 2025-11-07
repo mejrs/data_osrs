@@ -1,0 +1,11 @@
+{
+  "id": 2306,
+  "name": "Market stall",
+  "models_2": [
+    24908,
+    24907
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15
+}

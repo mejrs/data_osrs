@@ -1,0 +1,13 @@
+{
+  "id": 14815,
+  "name": "Rock",
+  "models_2": [
+    14671
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 3943,
+  "ambient": 35,
+  "contrast": 15,
+  "model": false
+}

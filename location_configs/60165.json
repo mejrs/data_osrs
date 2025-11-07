@@ -1,0 +1,25 @@
+{
+  "id": 60165,
+  "name": "Mine cart",
+  "models_2": [
+    17558,
+    17577,
+    17557
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "colours": [
+    [
+      32668,
+      8493
+    ],
+    [
+      32670,
+      8493
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 160
+}

@@ -1,0 +1,44 @@
+{
+  "id": 34151,
+  "name": "Diseased Redwood tree",
+  "models_2": [
+    36697
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": -20,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      2609,
+      10140
+    ],
+    [
+      2599,
+      10140
+    ],
+    [
+      2595,
+      10140
+    ],
+    [
+      10514,
+      21555
+    ],
+    [
+      10520,
+      21555
+    ],
+    [
+      10508,
+      21555
+    ]
+  ]
+}

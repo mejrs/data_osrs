@@ -1,0 +1,24 @@
+{
+  "id": 56112,
+  "name": "Gilded display",
+  "models_2": [
+    56053
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Trophies",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      4510,
+      7114
+    ]
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

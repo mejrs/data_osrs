@@ -1,0 +1,23 @@
+{
+  "id": 34583,
+  "name": "Stone chest",
+  "models_2": [
+    33969
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_73": true
+}

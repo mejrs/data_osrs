@@ -1,0 +1,11 @@
+{
+  "id": 31933,
+  "name": "Hardcore Ironman",
+  "models_2": [
+    34552
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20
+}

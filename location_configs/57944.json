@@ -1,0 +1,12 @@
+{
+  "id": 57944,
+  "name": "Silver stall",
+  "models_2": [
+    58842,
+    58851
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 10
+}

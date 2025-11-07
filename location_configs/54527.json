@@ -1,0 +1,20 @@
+{
+  "id": 54527,
+  "name": "Chain",
+  "models_2": [
+    54856
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 30,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "unknown_69": 29,
+  "mapscene": 7
+}

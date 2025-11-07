@@ -1,0 +1,20 @@
+{
+  "id": 36683,
+  "name": "Yew tree",
+  "models_2": [
+    37895
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 5,
+  "category": 288,
+  "mapscene": 129
+}

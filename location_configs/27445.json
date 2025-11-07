@@ -1,0 +1,20 @@
+{
+  "id": 27445,
+  "models": [
+    [
+      0,
+      37239
+    ]
+  ],
+  "name": "Farm door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

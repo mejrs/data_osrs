@@ -1,0 +1,22 @@
+{
+  "id": 4713,
+  "models": [
+    [
+      22,
+      4750
+    ]
+  ],
+  "name": "Trapdoor",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 23,
+  "unknown_75": 0
+}

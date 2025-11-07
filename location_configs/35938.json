@@ -1,0 +1,28 @@
+{
+  "id": 35938,
+  "name": "Abandoned Equipment",
+  "models_2": [
+    20051
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      49,
+      8722
+    ],
+    [
+      8633,
+      8483
+    ],
+    [
+      8747,
+      7333
+    ]
+  ]
+}

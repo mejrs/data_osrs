@@ -1,0 +1,23 @@
+{
+  "id": 54867,
+  "models": [
+    [
+      4,
+      54868
+    ]
+  ],
+  "name": "Aga lever",
+  "unknown_24": 11620,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2079,
+  "unknown_69": 29
+}

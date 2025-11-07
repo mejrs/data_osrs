@@ -1,0 +1,20 @@
+{
+  "id": 13146,
+  "models": [
+    [
+      0,
+      13128
+    ]
+  ],
+  "name": "Magic barrier",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Walk-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 206
+}

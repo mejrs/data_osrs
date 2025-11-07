@@ -1,0 +1,12 @@
+{
+  "id": 29882,
+  "name": "Large hole",
+  "models_2": [
+    32522
+  ],
+  "dim_x": 5,
+  "dim_y": 8,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "translate_y": 65535
+}

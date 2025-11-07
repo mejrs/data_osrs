@@ -1,0 +1,13 @@
+{
+  "id": 30658,
+  "name": "Skroom",
+  "models_2": [
+    33696
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "ambient": -20,
+  "contrast": 112,
+  "mapscene": 87
+}

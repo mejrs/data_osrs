@@ -1,0 +1,14 @@
+{
+  "id": 32164,
+  "models": [
+    [
+      0,
+      34684
+    ]
+  ],
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30
+}

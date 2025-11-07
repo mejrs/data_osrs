@@ -1,0 +1,15 @@
+{
+  "id": 15929,
+  "name": "Steam Pump",
+  "models_2": [
+    15832
+  ],
+  "unknown_24": 4242,
+  "actions": [
+    "hidden",
+    null,
+    "hidden",
+    null,
+    null
+  ]
+}

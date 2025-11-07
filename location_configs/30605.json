@@ -1,0 +1,11 @@
+{
+  "id": 30605,
+  "name": "Mushy Bed",
+  "models_2": [
+    33709,
+    33708
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "translate_y": 65535
+}

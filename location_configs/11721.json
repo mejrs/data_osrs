@@ -1,0 +1,23 @@
+{
+  "id": 11721,
+  "models": [
+    [
+      0,
+      1509
+    ],
+    [
+      9,
+      1511
+    ]
+  ],
+  "name": "Gate",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    "Pick-lock",
+    null,
+    null,
+    null
+  ],
+  "translate_y": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": 5333,
+  "name": "Plant",
+  "models_2": [
+    1645
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 40,
+  "colours": [
+    [
+      61,
+      14742
+    ],
+    [
+      49,
+      14866
+    ],
+    [
+      41,
+      11144
+    ]
+  ],
+  "unknown_75": 0
+}

@@ -1,0 +1,17 @@
+{
+  "id": 3444,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Gate",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10725,
+  "name": "Bones",
+  "models_2": [
+    10592
+  ],
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Grab",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

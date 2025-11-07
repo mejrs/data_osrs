@@ -1,0 +1,12 @@
+{
+  "id": 17896,
+  "name": "Lab table",
+  "models_2": [
+    17875
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "category": 543
+}

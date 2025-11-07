@@ -1,0 +1,16 @@
+{
+  "id": 299,
+  "name": "Hay bales",
+  "models_2": [
+    1454
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

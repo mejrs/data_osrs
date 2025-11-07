@@ -1,0 +1,29 @@
+{
+  "id": 24037,
+  "name": "Statue",
+  "models_2": [
+    7708
+  ],
+  "ambient": 30,
+  "colours": [
+    [
+      70,
+      8406
+    ],
+    [
+      61,
+      7378
+    ],
+    [
+      49,
+      8398
+    ],
+    [
+      45,
+      8394
+    ]
+  ],
+  "translate_x": 0,
+  "translate_y": 0,
+  "translate_z": 24
+}

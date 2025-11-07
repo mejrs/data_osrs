@@ -1,0 +1,15 @@
+{
+  "id": 13398,
+  "name": "Stick",
+  "models_2": [
+    13196
+  ],
+  "actions": [
+    "Hoop",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

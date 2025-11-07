@@ -1,0 +1,34 @@
+{
+  "id": 15693,
+  "name": "Crates",
+  "models_2": [
+    7704
+  ],
+  "ambient": 5,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      6684
+    ],
+    [
+      6439,
+      6682
+    ],
+    [
+      6563,
+      6684
+    ],
+    [
+      6558,
+      6806
+    ]
+  ],
+  "category": 209
+}

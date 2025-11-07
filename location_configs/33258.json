@@ -1,0 +1,20 @@
+{
+  "id": 33258,
+  "models": [
+    [
+      0,
+      3802
+    ]
+  ],
+  "name": "Cell door",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1279
+}

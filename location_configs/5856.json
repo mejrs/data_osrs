@@ -1,0 +1,14 @@
+{
+  "id": 5856,
+  "name": "Thorny bushes",
+  "models_2": [
+    5704
+  ],
+  "actions": [
+    null,
+    null,
+    "Pick-from",
+    null,
+    null
+  ]
+}

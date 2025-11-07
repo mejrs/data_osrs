@@ -1,0 +1,30 @@
+{
+  "id": 48325,
+  "models": [
+    [
+      10,
+      5512
+    ],
+    [
+      22,
+      5513
+    ]
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 0,
+  "unknown_24": 10408,
+  "ambient": 50,
+  "contrast": 30,
+  "colours": [
+    [
+      43117,
+      43294
+    ]
+  ],
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "translate_y": 65535
+}

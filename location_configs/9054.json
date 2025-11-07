@@ -1,0 +1,30 @@
+{
+  "id": 9054,
+  "name": "Dead goutweed",
+  "models_2": [
+    7874,
+    10772
+  ],
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      5392
+    ],
+    [
+      19988,
+      5268
+    ],
+    [
+      19992,
+      49308
+    ]
+  ]
+}

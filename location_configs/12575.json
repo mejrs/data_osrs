@@ -1,0 +1,16 @@
+{
+  "id": 12575,
+  "name": "Stalagmite",
+  "models_2": [
+    694
+  ],
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      5916,
+      7952
+    ]
+  ],
+  "unknown_81": 80
+}

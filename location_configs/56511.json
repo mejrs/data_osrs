@@ -1,0 +1,35 @@
+{
+  "id": 56511,
+  "name": "Staircase",
+  "models_2": [
+    51302
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 30,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      7349,
+      3239
+    ],
+    [
+      7341,
+      3226
+    ],
+    [
+      7333,
+      3226
+    ]
+  ],
+  "scale_y": 192,
+  "unknown_69": 27,
+  "mapscene": 7
+}

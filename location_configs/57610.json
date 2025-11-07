@@ -1,0 +1,14 @@
+{
+  "id": 57610,
+  "name": "Gemstone rock",
+  "models_2": [
+    56651
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "model": false,
+  "mapscene": 12
+}

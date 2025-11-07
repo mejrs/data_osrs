@@ -1,0 +1,26 @@
+{
+  "id": 38410,
+  "name": "Wizard Statue",
+  "models_2": [
+    40145
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 8655,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      43096,
+      10299
+    ],
+    [
+      898,
+      4023
+    ]
+  ],
+  "category": 1438,
+  "mapscene": 15
+}

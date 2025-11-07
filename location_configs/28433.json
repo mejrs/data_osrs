@@ -1,0 +1,19 @@
+{
+  "id": 28433,
+  "name": "Bank booth",
+  "models_2": [
+    30469
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "category": 684,
+  "unknown_69": 30
+}

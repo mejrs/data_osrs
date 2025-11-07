@@ -1,0 +1,22 @@
+{
+  "id": 45131,
+  "name": "Entry",
+  "models_2": [
+    45376
+  ],
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Enter",
+    "Quick-Enter",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 1660,
+  "unknown_73": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 10375,
+  "name": "Tools",
+  "models_2": [
+    7914
+  ],
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      5181
+    ],
+    [
+      57,
+      5177
+    ],
+    [
+      70,
+      5190
+    ]
+  ]
+}

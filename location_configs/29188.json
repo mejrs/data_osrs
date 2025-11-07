@@ -1,0 +1,45 @@
+{
+  "id": 29188,
+  "name": "Mounted Crafting Cape",
+  "models_2": [
+    32186
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      4397
+    ],
+    [
+      54183,
+      4636
+    ],
+    [
+      54503,
+      4884
+    ],
+    [
+      960,
+      4397
+    ],
+    [
+      22464,
+      4517
+    ],
+    [
+      43968,
+      4636
+    ]
+  ],
+  "category": 206
+}

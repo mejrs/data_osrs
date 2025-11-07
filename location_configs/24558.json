@@ -1,0 +1,16 @@
+{
+  "id": 24558,
+  "name": "Dig Site specimen rocks",
+  "models_2": [
+    25337
+  ],
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 53618,
+  "name": "Recessed block",
+  "models_2": [
+    53813
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2013,
+  "unknown_69": 27
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4143,
+  "name": "Danger sign",
+  "models_2": [
+    3720
+  ],
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

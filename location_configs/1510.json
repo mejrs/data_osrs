@@ -1,0 +1,14 @@
+{
+  "id": 1510,
+  "models": [
+    [
+      0,
+      605
+    ]
+  ],
+  "name": "Door",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_75": 0
+}

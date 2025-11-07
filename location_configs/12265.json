@@ -1,0 +1,16 @@
+{
+  "id": 12265,
+  "name": "Cellar stairs",
+  "models_2": [
+    13444
+  ],
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29,
+  "mapscene": 7
+}

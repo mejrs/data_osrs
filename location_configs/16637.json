@@ -1,0 +1,38 @@
+{
+  "id": 16637,
+  "models": [
+    [
+      22,
+      16763
+    ]
+  ],
+  "name": "Platform",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 4358,
+  "actions": [
+    "Step-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      54501,
+      13784
+    ],
+    [
+      50654,
+      54387
+    ],
+    [
+      48606,
+      54387
+    ],
+    [
+      41438,
+      35937
+    ]
+  ]
+}

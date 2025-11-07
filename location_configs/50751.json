@@ -1,0 +1,28 @@
+{
+  "id": 50751,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Entrance",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "scale_y": 480,
+  "scale_z": 256
+}

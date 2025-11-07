@@ -1,0 +1,19 @@
+{
+  "id": 60517,
+  "name": "Reinforced chest",
+  "models_2": [
+    41393
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Picklock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 2350,
+  "unknown_69": 30
+}

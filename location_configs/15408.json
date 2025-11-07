@@ -1,0 +1,19 @@
+{
+  "id": 15408,
+  "name": "Portal space",
+  "models_2": [
+    12729
+  ],
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "params": {
+    "429": 2
+  }
+}

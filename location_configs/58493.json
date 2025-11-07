@@ -1,0 +1,23 @@
+{
+  "id": 58493,
+  "name": "Display",
+  "models_2": [
+    58826,
+    58828,
+    58829
+  ],
+  "dim_x": 2,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "scale_x": 120,
+  "scale_y": 120,
+  "scale_z": 120,
+  "unknown_69": 27
+}

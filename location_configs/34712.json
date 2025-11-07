@@ -1,0 +1,19 @@
+{
+  "id": 34712,
+  "name": "Twisted bush",
+  "models_2": [
+    5524
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Search"
+  ],
+  "scale_x": 64,
+  "scale_z": 64,
+  "mapscene": 6
+}

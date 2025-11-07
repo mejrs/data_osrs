@@ -1,0 +1,25 @@
+{
+  "id": 60435,
+  "name": "<col=ffff00>Bank Crab</col>",
+  "models_2": [
+    59383
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 12537,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Bank",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 237,
+  "params": {
+    "2312": 9
+  }
+}

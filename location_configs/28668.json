@@ -1,0 +1,19 @@
+{
+  "id": 28668,
+  "name": "Candles",
+  "models_2": [
+    11874,
+    9230
+  ],
+  "unknown_24": 2564,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200
+}

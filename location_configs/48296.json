@@ -1,0 +1,23 @@
+{
+  "id": 48296,
+  "name": "Drain",
+  "models_2": [
+    49074
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 40,
+  "colours": [
+    [
+      7335,
+      43160
+    ]
+  ],
+  "category": 1825,
+  "model": false,
+  "scale_x": 212,
+  "scale_z": 212
+}

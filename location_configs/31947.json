@@ -1,0 +1,21 @@
+{
+  "id": 31947,
+  "name": "Ray of Light",
+  "models_2": [
+    13552
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 3445,
+  "colours": [
+    [
+      7277,
+      960
+    ]
+  ],
+  "scale_x": 168,
+  "scale_y": 168,
+  "scale_z": 168
+}

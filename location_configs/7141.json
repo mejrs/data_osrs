@@ -1,0 +1,37 @@
+{
+  "id": 7141,
+  "name": "Signpost",
+  "models_2": [
+    18518
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8732,
+      7587
+    ],
+    [
+      6036,
+      7582
+    ],
+    [
+      4882,
+      7706
+    ],
+    [
+      10324,
+      7475
+    ]
+  ],
+  "category": 556,
+  "model": false
+}

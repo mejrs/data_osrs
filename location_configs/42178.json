@@ -1,0 +1,13 @@
+{
+  "id": 42178,
+  "name": "Shayzien statue",
+  "models_2": [
+    37263
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10
+}

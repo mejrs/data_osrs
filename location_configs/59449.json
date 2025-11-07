@@ -1,0 +1,46 @@
+{
+  "id": 59449,
+  "name": "Mithril cannon",
+  "models_2": [
+    58153
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 13321,
+  "unknown_27": false,
+  "actions": [
+    "Operate",
+    "Check-ammunition",
+    "Reset-ammunition",
+    "hidden",
+    "Modify"
+  ],
+  "colours": [
+    [
+      54212,
+      4510
+    ],
+    [
+      54232,
+      4515
+    ],
+    [
+      54185,
+      4502
+    ],
+    [
+      21435,
+      43294
+    ],
+    [
+      21464,
+      43301
+    ],
+    [
+      21400,
+      43286
+    ]
+  ],
+  "category": 2319,
+  "unknown_69": 30
+}

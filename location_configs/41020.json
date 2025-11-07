@@ -1,0 +1,21 @@
+{
+  "id": 41020,
+  "name": "Crashed Star",
+  "models_2": [
+    41606
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    "Prospect",
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1495
+}

@@ -1,0 +1,19 @@
+{
+  "id": 36693,
+  "name": "Tight Gap",
+  "models_2": [
+    37842
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

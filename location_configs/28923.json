@@ -1,0 +1,18 @@
+{
+  "id": 28923,
+  "models": [
+    [
+      10,
+      31600
+    ],
+    [
+      13,
+      31657
+    ]
+  ],
+  "name": "Awakened Altar",
+  "unknown_24": 1473,
+  "category": 955,
+  "scale_x": 100,
+  "scale_z": 100
+}

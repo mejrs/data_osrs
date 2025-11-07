@@ -1,0 +1,10 @@
+{
+  "id": 41447,
+  "name": "Ruins Exit",
+  "models_2": [
+    42028
+  ],
+  "dim_x": 4,
+  "ambient": 20,
+  "contrast": 10
+}

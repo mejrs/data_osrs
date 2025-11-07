@@ -1,0 +1,22 @@
+{
+  "id": 58573,
+  "models": [
+    [
+      22,
+      1105
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_79": {
+    "unknown_1": 400,
+    "unknown_2": 400,
+    "unknown_3": 25,
+    "values": [
+      3083,
+      3084,
+      3085,
+      3086
+    ]
+  },
+  "sound_visibility": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8342,
+  "name": "Spirit Tree Patch",
+  "models_2": [
+    7796,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    null,
+    "Inspect",
+    "Guide",
+    null
+  ]
+}

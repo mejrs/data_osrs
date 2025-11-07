@@ -1,0 +1,11 @@
+{
+  "id": 13939,
+  "name": "Hope bridge",
+  "models_2": [
+    14261
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 50,
+  "mirror": true
+}

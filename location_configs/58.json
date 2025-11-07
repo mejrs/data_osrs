@@ -1,0 +1,31 @@
+{
+  "id": 58,
+  "models": [
+    [
+      22,
+      1697
+    ]
+  ],
+  "name": "Vine",
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      929,
+      1688
+    ],
+    [
+      931,
+      1812
+    ]
+  ],
+  "category": 216
+}

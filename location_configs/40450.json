@@ -1,0 +1,43 @@
+{
+  "id": 40450,
+  "name": "Soul Obelisk",
+  "models_2": [
+    41356
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 8851,
+  "ambient": 25,
+  "actions": [
+    "Sacrifice-fragments",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      127,
+      45281
+    ],
+    [
+      111,
+      45902
+    ],
+    [
+      99,
+      45890
+    ],
+    [
+      92,
+      46011
+    ],
+    [
+      97,
+      46013
+    ]
+  ],
+  "category": 1479
+}

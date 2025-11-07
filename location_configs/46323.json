@@ -1,0 +1,16 @@
+{
+  "id": 46323,
+  "name": "Spooky cauldron",
+  "models_2": [
+    46789
+  ],
+  "ambient": 20,
+  "actions": [
+    "Rummage",
+    "Stats",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

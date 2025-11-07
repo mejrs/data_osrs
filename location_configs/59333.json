@@ -1,0 +1,25 @@
+{
+  "id": 59333,
+  "name": "Wreck of the Last Song",
+  "models_2": [
+    58191
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2317,
+  "model": false,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

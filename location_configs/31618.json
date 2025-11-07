@@ -1,0 +1,44 @@
+{
+  "id": 31618,
+  "name": "Portal of Champions",
+  "models_2": [
+    11231,
+    34416
+  ],
+  "dim_x": 3,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      50072,
+      40871
+    ],
+    [
+      49948,
+      40875
+    ],
+    [
+      49953,
+      40751
+    ],
+    [
+      49829,
+      40755
+    ],
+    [
+      49705,
+      40631
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  }
+}

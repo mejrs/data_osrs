@@ -1,0 +1,15 @@
+{
+  "id": 19001,
+  "name": "Rope",
+  "models_2": [
+    15871
+  ],
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7
+}

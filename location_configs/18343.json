@@ -1,0 +1,12 @@
+{
+  "id": 18343,
+  "name": "Wall corner",
+  "models_2": [
+    18364
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10
+}

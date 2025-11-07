@@ -1,0 +1,30 @@
+{
+  "id": 15755,
+  "name": "Hidden trapdoor",
+  "models_2": [
+    15508
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    "Pick-lock",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4892,
+      6930
+    ],
+    [
+      4899,
+      6930
+    ],
+    [
+      5921,
+      6930
+    ]
+  ]
+}

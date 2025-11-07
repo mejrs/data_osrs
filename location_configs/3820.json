@@ -1,0 +1,19 @@
+{
+  "id": 3820,
+  "name": "Food Trough",
+  "models_2": [
+    14206
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      3998,
+      5532
+    ],
+    [
+      61,
+      5173
+    ]
+  ]
+}

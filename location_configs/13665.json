@@ -1,0 +1,16 @@
+{
+  "id": 13665,
+  "name": "Throne",
+  "models_2": [
+    12595
+  ],
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

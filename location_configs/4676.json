@@ -1,0 +1,22 @@
+{
+  "id": 4676,
+  "name": "Coal rocks",
+  "models_2": [
+    1390
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      10508
+    ]
+  ],
+  "mapscene": 12
+}

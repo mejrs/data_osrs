@@ -1,0 +1,21 @@
+{
+  "id": 37448,
+  "models": [
+    [
+      0,
+      40872
+    ]
+  ],
+  "name": "Decorative window",
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "translate_y": 1
+}

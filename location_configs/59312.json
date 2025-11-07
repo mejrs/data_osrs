@@ -1,0 +1,18 @@
+{
+  "id": 59312,
+  "name": "Treasure chest",
+  "models_2": [
+    57597
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2317,
+  "model": false
+}

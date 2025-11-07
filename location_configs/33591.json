@@ -1,0 +1,39 @@
+{
+  "id": 33591,
+  "name": "Plant",
+  "models_2": [
+    1642
+  ],
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      16916
+    ],
+    [
+      49,
+      13840
+    ],
+    [
+      41,
+      3350
+    ],
+    [
+      37,
+      3346
+    ],
+    [
+      33,
+      3470
+    ]
+  ],
+  "mapscene": 5
+}

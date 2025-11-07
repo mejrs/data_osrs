@@ -1,0 +1,16 @@
+{
+  "id": 9764,
+  "name": "Guard",
+  "models_2": [
+    9672
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

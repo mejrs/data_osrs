@@ -1,0 +1,20 @@
+{
+  "id": 59370,
+  "name": "Spiny kraken corpse",
+  "models_2": [
+    57617
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19333,
+  "name": "Rabbit snare",
+  "models_2": [
+    23903
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Dismantle",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "category": 592
+}

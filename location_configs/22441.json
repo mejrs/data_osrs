@@ -1,0 +1,20 @@
+{
+  "id": 22441,
+  "name": "Rock wall",
+  "models_2": [
+    23103
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 35,
+  "colours": [
+    [
+      30,
+      10378
+    ],
+    [
+      39,
+      10258
+    ]
+  ]
+}

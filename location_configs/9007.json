@@ -1,0 +1,27 @@
+{
+  "id": 9007,
+  "name": "Mahogany Pyre",
+  "models_2": [
+    4138
+  ],
+  "dim_y": 3,
+  "unknown_24": 1304,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7050,
+      5665
+    ],
+    [
+      7582,
+      6585
+    ]
+  ],
+  "category": 2051
+}

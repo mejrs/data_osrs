@@ -1,0 +1,16 @@
+{
+  "id": 28931,
+  "name": "Broken cart",
+  "models_2": [
+    1500
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    null,
+    "Climb over",
+    null,
+    null,
+    null
+  ]
+}

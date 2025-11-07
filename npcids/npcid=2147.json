@@ -1,0 +1,1 @@
+[{"name": "Veos", "id": 2147, "p": 0, "x": 1825, "y": 3691, "morphs_names": ["", "Veos", "Veos", ""], "walkingAnimation": 1205, "rotate180Animation": 1206, "rotate90RightAnimation": 1207, "rotate90LeftAnimation": 1208, "standingAnimation": 813, "hasRenderPriority": true, "category": 922, "combatLevel": 1, "varbitId": 12146, "varpId": -1, "morphs": [-1, 10727, 10726, -1]}]

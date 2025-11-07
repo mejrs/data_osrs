@@ -1,0 +1,22 @@
+{
+  "id": 44926,
+  "name": "Staging area steps",
+  "models_2": [
+    7766
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Use",
+    "Quick-use",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 384,
+  "scale_y": 384,
+  "scale_z": 384,
+  "unknown_69": 23,
+  "mapscene": 7
+}

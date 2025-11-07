@@ -1,0 +1,15 @@
+{
+  "id": 18045,
+  "name": "Vampyre statue",
+  "models_2": [
+    17643
+  ],
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

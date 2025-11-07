@@ -1,0 +1,12 @@
+{
+  "id": 14035,
+  "name": "Fishing Contest Banner",
+  "models_2": [
+    14370
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 3843,
+  "ambient": 50,
+  "contrast": 50
+}

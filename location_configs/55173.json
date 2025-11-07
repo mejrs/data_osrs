@@ -1,0 +1,14 @@
+{
+  "id": 55173,
+  "name": "Landing Spot",
+  "models_2": [
+    54840
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30
+}

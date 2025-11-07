@@ -1,0 +1,20 @@
+{
+  "id": 60303,
+  "name": "Notice board",
+  "models_2": [
+    58749
+  ],
+  "dim_x": 3,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 2344,
+  "unknown_69": 27
+}

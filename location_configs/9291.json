@@ -1,0 +1,25 @@
+{
+  "id": 9291,
+  "name": "Picnic bench",
+  "models_2": [
+    1453
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 15,
+  "colours": [
+    [
+      5908,
+      27028
+    ],
+    [
+      5784,
+      26904
+    ],
+    [
+      5660,
+      26908
+    ]
+  ]
+}

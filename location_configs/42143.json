@@ -1,0 +1,14 @@
+{
+  "id": 42143,
+  "models": [
+    [
+      4,
+      42494
+    ]
+  ],
+  "name": "Fabric rack",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30
+}

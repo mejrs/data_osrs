@@ -1,0 +1,45 @@
+{
+  "id": 29182,
+  "name": "Mounted Attack Cape",
+  "models_2": [
+    32197
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      796
+    ],
+    [
+      54183,
+      920
+    ],
+    [
+      54503,
+      912
+    ],
+    [
+      960,
+      796
+    ],
+    [
+      22464,
+      920
+    ],
+    [
+      43968,
+      908
+    ]
+  ],
+  "category": 206
+}

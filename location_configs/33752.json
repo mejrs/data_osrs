@@ -1,0 +1,28 @@
+{
+  "id": 33752,
+  "name": "Diseased Potato cactus",
+  "models_2": [
+    36798,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      15252,
+      9763
+    ],
+    [
+      17296,
+      9882
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 58465,
+  "name": "Plant",
+  "models_2": [
+    1645
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      8747
+    ],
+    [
+      49,
+      11939
+    ],
+    [
+      41,
+      3346
+    ]
+  ],
+  "category": 2301,
+  "mapscene": 117
+}

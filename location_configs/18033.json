@@ -1,0 +1,19 @@
+{
+  "id": 18033,
+  "models": [
+    [
+      22,
+      17921
+    ]
+  ],
+  "name": "Floor",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

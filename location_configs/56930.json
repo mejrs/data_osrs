@@ -1,0 +1,17 @@
+{
+  "id": 56930,
+  "name": "Eggs",
+  "models_2": [
+    56637
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

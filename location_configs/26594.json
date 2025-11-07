@@ -1,0 +1,15 @@
+{
+  "id": 26594,
+  "models": [
+    [
+      0,
+      8999
+    ]
+  ],
+  "name": "Dyed fabric",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 35,
+  "model": false,
+  "translate_z": 40
+}

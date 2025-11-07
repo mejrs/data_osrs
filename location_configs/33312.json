@@ -1,0 +1,20 @@
+{
+  "id": 33312,
+  "name": "Little boulder",
+  "models_2": [
+    7766
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "mapscene": 11
+}

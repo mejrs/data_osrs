@@ -1,0 +1,43 @@
+{
+  "id": 40996,
+  "name": "Damaged mast",
+  "models_2": [
+    41833
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5665,
+      10396
+    ],
+    [
+      5541,
+      10401
+    ],
+    [
+      5660,
+      10392
+    ],
+    [
+      5784,
+      10388
+    ],
+    [
+      5904,
+      10508
+    ]
+  ],
+  "category": 1505
+}

@@ -1,0 +1,49 @@
+{
+  "id": 37607,
+  "name": "Draynor Manor Portal",
+  "models_2": [
+    11231,
+    11237
+  ],
+  "dim_x": 2,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      50072,
+      17341
+    ],
+    [
+      49948,
+      17216
+    ],
+    [
+      49953,
+      17218
+    ],
+    [
+      49829,
+      17356
+    ],
+    [
+      49705,
+      17366
+    ]
+  ],
+  "category": 206,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "params": {
+    "429": 2,
+    "430": 1
+  }
+}

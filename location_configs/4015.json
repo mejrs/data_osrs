@@ -1,0 +1,19 @@
+{
+  "id": 4015,
+  "models_2": [
+    3200
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      10287,
+      7646
+    ]
+  ],
+  "textures": {
+    "46": 35
+  }
+}

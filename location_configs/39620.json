@@ -1,0 +1,15 @@
+{
+  "id": 39620,
+  "name": "Rusted anvil",
+  "models_2": [
+    40693
+  ],
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 772
+}

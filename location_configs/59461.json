@@ -1,0 +1,21 @@
+{
+  "id": 59461,
+  "name": "Small brazier",
+  "models_2": [
+    11323,
+    11320
+  ],
+  "is_transparent": true,
+  "unknown_24": 3105,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Extinguish",
+    "Load",
+    "Check",
+    "Unload",
+    "Settings"
+  ],
+  "contrast": 20,
+  "category": 2320
+}

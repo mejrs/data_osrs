@@ -1,0 +1,19 @@
+{
+  "id": 44936,
+  "name": "Spirit Tree",
+  "models_2": [
+    55583
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

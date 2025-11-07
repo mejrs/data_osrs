@@ -1,0 +1,43 @@
+{
+  "id": 26806,
+  "name": "Poll booth",
+  "models_2": [
+    28906,
+    28904
+  ],
+  "unknown_19": 1,
+  "unknown_24": 7156,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      41934,
+      29592
+    ],
+    [
+      41907,
+      30610
+    ],
+    [
+      127,
+      6614
+    ],
+    [
+      90,
+      6480
+    ]
+  ],
+  "category": 761,
+  "scale_x": 78,
+  "scale_y": 78,
+  "scale_z": 78,
+  "unknown_69": 29
+}

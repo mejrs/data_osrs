@@ -1,0 +1,27 @@
+{
+  "id": 59349,
+  "name": "Magical wards",
+  "models_2": [
+    59521
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 4324,
+  "ambient": 35,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      10349,
+      51418
+    ]
+  ],
+  "category": 2317,
+  "model": false
+}

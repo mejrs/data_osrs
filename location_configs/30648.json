@@ -1,0 +1,23 @@
+{
+  "id": 30648,
+  "name": "Thick vines",
+  "models_2": [
+    33718
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1154,
+  "mapscene": 6
+}

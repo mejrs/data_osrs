@@ -1,0 +1,28 @@
+{
+  "id": 24099,
+  "models": [
+    [
+      4,
+      9557
+    ]
+  ],
+  "name": "Notice board",
+  "ambient": 30,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6470,
+      5665
+    ],
+    [
+      9152,
+      6684
+    ]
+  ]
+}

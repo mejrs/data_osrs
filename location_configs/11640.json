@@ -1,0 +1,16 @@
+{
+  "id": 11640,
+  "name": "Hurdle",
+  "models_2": [
+    5128
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

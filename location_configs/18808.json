@@ -1,0 +1,18 @@
+{
+  "id": 18808,
+  "name": "Treasure chest",
+  "models_2": [
+    19041
+  ],
+  "dim_x": 2,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

@@ -1,0 +1,31 @@
+{
+  "id": 4818,
+  "name": "Jungle tree",
+  "models_2": [
+    1701
+  ],
+  "ambient": 40,
+  "actions": [
+    "Chop-down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      16916
+    ],
+    [
+      49,
+      13840
+    ],
+    [
+      41,
+      4626
+    ]
+  ],
+  "category": 189,
+  "mapscene": 5
+}

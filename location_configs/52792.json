@@ -1,0 +1,21 @@
+{
+  "id": 52792,
+  "name": "Wardrobe",
+  "models_2": [
+    51371
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 20,
+  "colours": [
+    [
+      76,
+      7768
+    ],
+    [
+      41,
+      7752
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2157,
+  "name": "Dark Wizards' Tower Portal",
+  "models_2": [
+    1783
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  }
+}

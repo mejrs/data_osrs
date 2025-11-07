@@ -1,0 +1,30 @@
+{
+  "id": 30137,
+  "name": "Fireplace",
+  "models_2": [
+    32335
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      9152,
+      4649
+    ],
+    [
+      8119,
+      4645
+    ],
+    [
+      9141,
+      4769
+    ]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 41327,
+  "name": "Sleeping bag",
+  "models_2": [
+    41819
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 15
+}

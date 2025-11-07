@@ -1,0 +1,15 @@
+{
+  "id": 47244,
+  "name": "Below Ice Mountain Display",
+  "models_2": [
+    47525
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "model": false
+}

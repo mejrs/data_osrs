@@ -1,0 +1,34 @@
+{
+  "id": 19125,
+  "models": [
+    [
+      22,
+      1124
+    ]
+  ],
+  "name": "Dirt",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -30,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4892,
+      6697
+    ],
+    [
+      5921,
+      6573
+    ],
+    [
+      4899,
+      6573
+    ]
+  ]
+}

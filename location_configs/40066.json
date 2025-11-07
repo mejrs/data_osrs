@@ -1,0 +1,24 @@
+{
+  "id": 40066,
+  "name": "Chair",
+  "models_2": [
+    12444
+  ],
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      926,
+      16796
+    ],
+    [
+      914,
+      16788
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 54707,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Entryway",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 124,
+  "scale_y": 124,
+  "scale_z": 124
+}

@@ -1,0 +1,19 @@
+{
+  "id": 58417,
+  "name": "Palm",
+  "models_2": [
+    58685
+  ],
+  "ambient": 10,
+  "actions": [
+    "Shake",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2300,
+  "unknown_81": 80,
+  "mapscene": 5
+}

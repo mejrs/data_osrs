@@ -1,0 +1,32 @@
+{
+  "id": 11238,
+  "name": "Powder Barrel",
+  "models_2": [
+    11169
+  ],
+  "actions": [
+    "Take-powder",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      5904
+    ],
+    [
+      5665,
+      6806
+    ],
+    [
+      5660,
+      6930
+    ],
+    [
+      5784,
+      6806
+    ]
+  ]
+}

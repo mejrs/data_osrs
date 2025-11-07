@@ -1,0 +1,24 @@
+{
+  "id": 15281,
+  "models": [
+    [
+      0,
+      12675
+    ],
+    [
+      3,
+      12676
+    ]
+  ],
+  "name": "Combat ring space",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

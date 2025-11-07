@@ -1,0 +1,19 @@
+{
+  "id": 6945,
+  "name": "Baker's Stall",
+  "models_2": [
+    37252,
+    37260
+  ],
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

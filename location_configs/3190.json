@@ -1,0 +1,35 @@
+{
+  "id": 3190,
+  "name": "Drawers",
+  "models_2": [
+    1155
+  ],
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5786,
+      99
+    ],
+    [
+      7954,
+      86
+    ],
+    [
+      2452,
+      70
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "unknown_69": 29
+}

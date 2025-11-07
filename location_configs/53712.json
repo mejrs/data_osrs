@@ -1,0 +1,14 @@
+{
+  "id": 53712,
+  "name": "Dolmen",
+  "models_2": [
+    53965
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 11243,
+  "unknown_27": false,
+  "contrast": 25,
+  "unknown_89": false
+}

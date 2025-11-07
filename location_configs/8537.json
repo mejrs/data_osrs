@@ -1,0 +1,16 @@
+{
+  "id": 8537,
+  "name": "Cabbages",
+  "models_2": [
+    8193,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

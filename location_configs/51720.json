@@ -1,0 +1,13 @@
+{
+  "id": 51720,
+  "name": "Beer taps",
+  "models_2": [
+    51384
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 30
+}

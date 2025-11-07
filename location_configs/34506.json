@@ -1,0 +1,15 @@
+{
+  "id": 34506,
+  "name": "Shelves",
+  "models_2": [
+    7908,
+    7912
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

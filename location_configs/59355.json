@@ -1,0 +1,18 @@
+{
+  "id": 59355,
+  "name": "Periscope",
+  "models_2": [
+    57618
+  ],
+  "ambient": 10,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false
+}

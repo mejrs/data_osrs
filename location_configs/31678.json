@@ -1,0 +1,24 @@
+{
+  "id": 31678,
+  "name": "Energy Sphere",
+  "models_2": [
+    34253
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Absorb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      17069,
+      46036
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

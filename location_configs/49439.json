@@ -1,0 +1,18 @@
+{
+  "id": 49439,
+  "name": "Fleshy growth",
+  "models_2": [
+    49266
+  ],
+  "is_transparent": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

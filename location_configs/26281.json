@@ -1,0 +1,17 @@
+{
+  "id": 26281,
+  "name": "<col=ff9040>Anti-dragon shield",
+  "models_2": [
+    26447
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Pick-up",
+    "Equip",
+    null,
+    null,
+    null
+  ]
+}

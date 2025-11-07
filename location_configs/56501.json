@@ -1,0 +1,16 @@
+{
+  "id": 56501,
+  "models": [
+    [
+      0,
+      52079
+    ]
+  ],
+  "name": "Window",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 25
+}

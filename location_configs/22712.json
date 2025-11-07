@@ -1,0 +1,12 @@
+{
+  "id": 22712,
+  "name": "Bust",
+  "models_2": [
+    23337,
+    23339
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20
+}

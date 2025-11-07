@@ -1,0 +1,23 @@
+{
+  "id": 56829,
+  "models_2": [
+    2298
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 494,
+  "ambient": 70,
+  "contrast": 100,
+  "colours": [
+    [
+      5056,
+      3998
+    ]
+  ],
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 350,
+  "scale_z": 256
+}

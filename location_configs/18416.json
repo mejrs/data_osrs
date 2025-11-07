@@ -1,0 +1,40 @@
+{
+  "id": 18416,
+  "name": "Shortcut",
+  "models_2": [
+    18378
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Climb-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21547,
+      6449
+    ],
+    [
+      21543,
+      6445
+    ],
+    [
+      21539,
+      6569
+    ],
+    [
+      21534,
+      6565
+    ],
+    [
+      21530,
+      6689
+    ]
+  ]
+}

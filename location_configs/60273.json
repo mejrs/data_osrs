@@ -1,0 +1,37 @@
+{
+  "id": 60273,
+  "name": "Basic cargo hold",
+  "models_2": [
+    58160
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    "Quick-deposit",
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21435,
+      5652
+    ],
+    [
+      21464,
+      5656
+    ],
+    [
+      54203,
+      6573
+    ],
+    [
+      54183,
+      6565
+    ]
+  ],
+  "category": 2343
+}

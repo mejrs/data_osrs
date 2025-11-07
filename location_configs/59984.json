@@ -1,0 +1,35 @@
+{
+  "id": 59984,
+  "name": "Cauldron",
+  "models_2": [
+    17163,
+    14491
+  ],
+  "is_transparent": true,
+  "unknown_24": 3939,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      24
+    ],
+    [
+      33,
+      16
+    ],
+    [
+      45,
+      28
+    ],
+    [
+      49,
+      33
+    ]
+  ]
+}

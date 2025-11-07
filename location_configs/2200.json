@@ -1,0 +1,22 @@
+{
+  "id": 2200,
+  "models": [
+    [
+      0,
+      1509
+    ],
+    [
+      9,
+      1511
+    ]
+  ],
+  "name": "Kitchen gate",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

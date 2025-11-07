@@ -1,0 +1,25 @@
+{
+  "id": 13493,
+  "name": "Rune armour",
+  "models_2": [
+    12382
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      21662,
+      36133
+    ],
+    [
+      21776,
+      37270
+    ]
+  ],
+  "category": 206
+}

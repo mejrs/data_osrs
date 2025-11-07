@@ -1,0 +1,15 @@
+{
+  "id": 8925,
+  "name": "Train cart",
+  "models_2": [
+    1398
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Ride",
+    null,
+    null,
+    null,
+    null
+  ]
+}

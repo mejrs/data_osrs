@@ -1,0 +1,29 @@
+{
+  "id": 4448,
+  "models": [
+    [
+      0,
+      782
+    ],
+    [
+      1,
+      783
+    ],
+    [
+      9,
+      784
+    ]
+  ],
+  "name": "Cave wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "actions": [
+    "Collapse",
+    null,
+    "hidden",
+    null,
+    null
+  ]
+}

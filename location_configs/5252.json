@@ -1,0 +1,16 @@
+{
+  "id": 5252,
+  "name": "Fire remains",
+  "models_2": [
+    5200
+  ],
+  "unknown_24": 475,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65535
+}

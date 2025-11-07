@@ -1,0 +1,19 @@
+{
+  "id": 6512,
+  "models": [
+    [
+      0,
+      6261
+    ]
+  ],
+  "name": "Sarcophagus",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

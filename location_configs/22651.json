@@ -1,0 +1,19 @@
+{
+  "id": 22651,
+  "models": [
+    [
+      22,
+      15050
+    ]
+  ],
+  "name": "Stairs",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ]
+}

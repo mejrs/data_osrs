@@ -1,0 +1,11 @@
+{
+  "id": 50136,
+  "name": "Church pew",
+  "models_2": [
+    50666
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 5
+}

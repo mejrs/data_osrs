@@ -1,0 +1,15 @@
+{
+  "id": 2640,
+  "name": "Altar",
+  "models_2": [
+    1152
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ]
+}

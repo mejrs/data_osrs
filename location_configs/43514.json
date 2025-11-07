@@ -1,0 +1,17 @@
+{
+  "id": 43514,
+  "name": "Pillar",
+  "models_2": [
+    873,
+    44084
+  ],
+  "ambient": 10,
+  "contrast": 25,
+  "textures": {
+    "11": 95,
+    "28": 88
+  },
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

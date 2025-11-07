@@ -1,0 +1,17 @@
+{
+  "id": 4771,
+  "name": "Awowogei",
+  "models_2": [
+    4773
+  ],
+  "dim_x": 2,
+  "unknown_24": 1398,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ]
+}

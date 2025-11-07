@@ -1,0 +1,15 @@
+{
+  "id": 10321,
+  "name": "Manhole",
+  "models_2": [
+    25023
+  ],
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

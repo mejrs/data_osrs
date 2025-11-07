@@ -1,0 +1,17 @@
+{
+  "id": 398,
+  "name": "Coffin",
+  "models_2": [
+    1365
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

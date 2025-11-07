@@ -1,0 +1,14 @@
+{
+  "id": 56970,
+  "name": "Statue",
+  "models_2": [
+    52315
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 30,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

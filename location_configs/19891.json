@@ -1,0 +1,19 @@
+{
+  "id": 19891,
+  "models": [
+    [
+      0,
+      20034
+    ]
+  ],
+  "name": "Cave entrance",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ]
+}

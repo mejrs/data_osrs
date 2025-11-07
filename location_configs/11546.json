@@ -1,0 +1,10 @@
+{
+  "id": 11546,
+  "name": "Strange machine",
+  "models_2": [
+    11243,
+    11250
+  ],
+  "ambient": 12,
+  "contrast": 10
+}

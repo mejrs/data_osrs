@@ -1,0 +1,29 @@
+{
+  "id": 58774,
+  "name": "Rosewood sapling",
+  "models_2": [
+    58641,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5400,
+      148
+    ]
+  ],
+  "textures": {
+    "194": 202,
+    "195": 203
+  }
+}

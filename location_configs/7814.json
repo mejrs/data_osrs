@@ -1,0 +1,19 @@
+{
+  "id": 7814,
+  "name": "Altar",
+  "models_2": [
+    40703
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Pray-at",
+    "Standard spellbook",
+    "Ancient spellbook",
+    "Lunar spellbook",
+    "Arceuus spellbook"
+  ],
+  "contrast": 10
+}

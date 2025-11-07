@@ -1,0 +1,13 @@
+{
+  "id": 57100,
+  "name": "Spirit offerings",
+  "models_2": [
+    56603
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15,
+  "category": 2214
+}

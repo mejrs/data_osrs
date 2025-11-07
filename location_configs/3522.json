@@ -1,0 +1,23 @@
+{
+  "id": 3522,
+  "models": [
+    [
+      22,
+      1089
+    ]
+  ],
+  "name": "Bridge",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "mapscene": 46
+}

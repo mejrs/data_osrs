@@ -1,0 +1,18 @@
+{
+  "id": 8356,
+  "name": "Spirit Tree",
+  "models_2": [
+    8110,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Check-health",
+    null,
+    "Inspect",
+    "Guide",
+    null
+  ]
+}

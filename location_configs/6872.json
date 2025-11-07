@@ -1,0 +1,24 @@
+{
+  "id": 6872,
+  "models": [
+    [
+      0,
+      6791
+    ]
+  ],
+  "name": "Ogre stone door",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      6558
+    ]
+  ]
+}

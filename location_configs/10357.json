@@ -1,0 +1,18 @@
+{
+  "id": 10357,
+  "name": "Bank booth",
+  "models_2": [
+    1270
+  ],
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    "Deposit-box",
+    null
+  ],
+  "contrast": 25,
+  "category": 684
+}

@@ -1,0 +1,17 @@
+{
+  "id": 13567,
+  "name": "Larder",
+  "models_2": [
+    12503
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

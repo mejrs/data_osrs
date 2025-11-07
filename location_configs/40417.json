@@ -1,0 +1,14 @@
+{
+  "id": 40417,
+  "name": "Kings' ladder",
+  "models_2": [
+    4567
+  ],
+  "actions": [
+    "Standard",
+    "Slayer",
+    null,
+    "Peek",
+    null
+  ]
+}

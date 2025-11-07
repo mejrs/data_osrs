@@ -1,0 +1,22 @@
+{
+  "id": 29734,
+  "name": "Hole",
+  "models_2": [
+    32385
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 991,
+  "mapscene": 7
+}

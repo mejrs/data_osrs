@@ -1,0 +1,14 @@
+{
+  "id": 41875,
+  "name": "Lizardman eggs",
+  "models_2": [
+    36363
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 20,
+  "category": 1563,
+  "mapscene": 26
+}

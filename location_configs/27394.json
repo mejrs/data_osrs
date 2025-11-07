@@ -1,0 +1,21 @@
+{
+  "id": 27394,
+  "name": "Blighted Golovanova plant",
+  "models_2": [
+    30126,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Clear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 901
+}

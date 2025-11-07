@@ -1,0 +1,22 @@
+{
+  "id": 20876,
+  "name": "Dungeon entrance",
+  "models_2": [
+    4998
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 95,
+  "scale_y": 110,
+  "scale_z": 95,
+  "unknown_69": 27
+}

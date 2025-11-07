@@ -1,0 +1,14 @@
+{
+  "id": 34952,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 960,
+  "morphs_1": {
+    "varbit": 5292,
+    "ids": [
+      34950,
+      34951
+    ]
+  }
+}

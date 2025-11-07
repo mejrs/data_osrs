@@ -1,0 +1,35 @@
+{
+  "id": 35827,
+  "name": "<col=ffff00>Woman</col>",
+  "models_2": [
+    38135
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8050,
+  "unknown_27": false,
+  "ambient": -10,
+  "colours": [
+    [
+      25238,
+      5652
+    ],
+    [
+      8741,
+      5793
+    ],
+    [
+      43072,
+      4550
+    ],
+    [
+      6798,
+      5921
+    ]
+  ],
+  "model": false,
+  "mapscene": 82,
+  "params": {
+    "2312": 9
+  }
+}

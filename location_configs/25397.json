@@ -1,0 +1,28 @@
+{
+  "id": 25397,
+  "name": "Signpost",
+  "models_2": [
+    1402
+  ],
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7952,
+      7442
+    ],
+    [
+      6808,
+      8724
+    ],
+    [
+      7715,
+      6447
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 53511,
+  "models": [
+    [
+      22,
+      20317
+    ]
+  ],
+  "name": "Bridge",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7442,
+      7704
+    ],
+    [
+      7566,
+      8076
+    ]
+  ],
+  "category": 2011,
+  "unknown_73": true
+}

@@ -1,0 +1,13 @@
+{
+  "id": 23500,
+  "name": "Tunnel",
+  "models_2": [
+    24355
+  ],
+  "dim_x": 9,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "mirror": true
+}

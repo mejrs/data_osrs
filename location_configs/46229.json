@@ -1,0 +1,38 @@
+{
+  "id": 46229,
+  "name": "Strange Chest",
+  "models_2": [
+    37325
+  ],
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      8136
+    ],
+    [
+      20,
+      7104
+    ],
+    [
+      16,
+      7095
+    ],
+    [
+      5268,
+      5268
+    ],
+    [
+      5392,
+      5392
+    ]
+  ],
+  "unknown_69": 30
+}

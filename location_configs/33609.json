@@ -1,0 +1,15 @@
+{
+  "id": 33609,
+  "name": "Machinery",
+  "models_2": [
+    36583
+  ],
+  "unknown_22": true,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

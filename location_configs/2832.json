@@ -1,0 +1,16 @@
+{
+  "id": 2832,
+  "name": "Battlement",
+  "models_2": [
+    3345
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ]
+}

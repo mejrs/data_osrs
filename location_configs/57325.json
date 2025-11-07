@@ -1,0 +1,12 @@
+{
+  "id": 57325,
+  "name": "Mill",
+  "models_2": [
+    57128
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_24": 6493,
+  "ambient": 20,
+  "contrast": 10
+}

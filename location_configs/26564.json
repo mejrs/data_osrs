@@ -1,0 +1,19 @@
+{
+  "id": 26564,
+  "name": "Cave",
+  "models_2": [
+    29328
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Crawl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 870
+}

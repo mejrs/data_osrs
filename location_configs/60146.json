@@ -1,0 +1,28 @@
+{
+  "id": 60146,
+  "models": [
+    [
+      0,
+      58348
+    ]
+  ],
+  "name": "Crevice",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "category": 2342,
+  "params": {
+    "2291": 84,
+    "2294": 7,
+    "2295": 1
+  }
+}

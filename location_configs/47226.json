@@ -1,0 +1,18 @@
+{
+  "id": 47226,
+  "name": "Ferox Enclave Display",
+  "models_2": [
+    47583,
+    47526,
+    47543
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "scale_x": 128,
+  "scale_z": 128
+}

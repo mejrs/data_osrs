@@ -1,0 +1,26 @@
+{
+  "id": 6669,
+  "name": "Magical rocks",
+  "models_2": [
+    3184
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10299,
+      10258
+    ],
+    [
+      24,
+      38086
+    ]
+  ],
+  "mapscene": 12
+}

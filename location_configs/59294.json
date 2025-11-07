@@ -1,0 +1,23 @@
+{
+  "id": 59294,
+  "name": "Dragon activity marker",
+  "models_2": [
+    58792
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 13563,
+  "ambient": 10,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2317,
+  "model": false
+}

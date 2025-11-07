@@ -1,0 +1,20 @@
+{
+  "id": 47486,
+  "name": "Thriving sapling",
+  "models_2": [
+    48247,
+    7766
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "hidden",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1785
+}

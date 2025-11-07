@@ -1,0 +1,17 @@
+{
+  "id": 34851,
+  "name": "Stone Relief",
+  "models_2": [
+    37319
+  ],
+  "dim_x": 3,
+  "ambient": 40,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

@@ -1,0 +1,16 @@
+{
+  "id": 23123,
+  "name": "Rope swing",
+  "models_2": [
+    2279
+  ],
+  "dim_y": 6,
+  "unknown_17": false,
+  "actions": [
+    "Swing-on",
+    null,
+    null,
+    null,
+    null
+  ]
+}

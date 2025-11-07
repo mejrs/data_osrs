@@ -1,0 +1,16 @@
+{
+  "id": 22795,
+  "models": [
+    [
+      22,
+      23497
+    ]
+  ],
+  "name": "Shape puzzle",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90
+}

@@ -1,0 +1,21 @@
+{
+  "id": 29157,
+  "name": "Boss lair display",
+  "models_2": [
+    32152
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Configure",
+    "Jars",
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "unknown_69": 27
+}

@@ -1,0 +1,24 @@
+{
+  "id": 54736,
+  "name": "Fancy chest",
+  "models_2": [
+    52412
+  ],
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      97,
+      7752
+    ],
+    [
+      99,
+      7768
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7641,
+  "name": "Jangerberry bush",
+  "models_2": [
+    7826,
+    7767,
+    7816
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick-from",
+    "Inspect",
+    null,
+    "Guide",
+    "Clear"
+  ],
+  "colours": [
+    [
+      14872,
+      15002
+    ],
+    [
+      8722,
+      9878
+    ],
+    [
+      6364,
+      14243
+    ]
+  ]
+}

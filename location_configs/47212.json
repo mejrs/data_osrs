@@ -1,0 +1,22 @@
+{
+  "id": 47212,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Twisted League Display",
+  "dim_x": 5,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "scale_x": 640,
+  "scale_y": 256,
+  "scale_z": 384
+}

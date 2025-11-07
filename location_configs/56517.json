@@ -1,0 +1,12 @@
+{
+  "id": 56517,
+  "name": "Bucket",
+  "models_2": [
+    17604
+  ],
+  "ambient": 30,
+  "contrast": 30,
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128
+}

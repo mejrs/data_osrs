@@ -1,0 +1,22 @@
+{
+  "id": 26461,
+  "models": [
+    [
+      0,
+      33151
+    ]
+  ],
+  "name": "Big door",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

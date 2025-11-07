@@ -1,0 +1,38 @@
+{
+  "id": 25014,
+  "models": [
+    [
+      22,
+      14598
+    ]
+  ],
+  "name": "Portal",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Exit",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      30,
+      7050
+    ],
+    [
+      35,
+      8076
+    ],
+    [
+      39,
+      7952
+    ],
+    [
+      43,
+      7700
+    ]
+  ]
+}

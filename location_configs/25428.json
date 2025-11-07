@@ -1,0 +1,17 @@
+{
+  "id": 25428,
+  "name": "Gap",
+  "models_2": [
+    7429
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

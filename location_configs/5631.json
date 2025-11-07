@@ -1,0 +1,23 @@
+{
+  "id": 5631,
+  "models": [
+    [
+      0,
+      13154
+    ],
+    [
+      2,
+      13155
+    ]
+  ],
+  "name": "Picket fence",
+  "is_transparent": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,17 @@
+{
+  "id": 35859,
+  "name": "Rocks",
+  "models_2": [
+    3923
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 11
+}

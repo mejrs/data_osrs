@@ -1,0 +1,31 @@
+{
+  "id": 5002,
+  "models": [
+    [
+      22,
+      2188
+    ]
+  ],
+  "name": "Rope bridge",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5673,
+      13592
+    ],
+    [
+      6585,
+      12583
+    ]
+  ],
+  "unknown_73": true
+}

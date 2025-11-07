@@ -1,0 +1,18 @@
+{
+  "id": 30496,
+  "name": "Diseased seaweed",
+  "models_2": [
+    33249,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

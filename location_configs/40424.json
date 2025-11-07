@@ -1,0 +1,16 @@
+{
+  "id": 40424,
+  "name": "Table",
+  "models_2": [
+    1157
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "colours": [
+    [
+      4886,
+      6689
+    ]
+  ]
+}

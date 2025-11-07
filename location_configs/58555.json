@@ -1,0 +1,25 @@
+{
+  "id": 58555,
+  "name": "Jatoba tree",
+  "models_2": [
+    58659
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "textures": {
+    "8": 190,
+    "60": 191
+  },
+  "category": 2302,
+  "unknown_81": 80,
+  "mapscene": 256
+}

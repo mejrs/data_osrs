@@ -1,0 +1,19 @@
+{
+  "id": 7127,
+  "name": "Clan Cup Trophy",
+  "models_2": [
+    28914
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 77
+}

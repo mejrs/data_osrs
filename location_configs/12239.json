@@ -1,0 +1,15 @@
+{
+  "id": 12239,
+  "name": "Vanilla plant",
+  "models_2": [
+    13843
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 9
+}

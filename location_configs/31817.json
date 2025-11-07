@@ -1,0 +1,12 @@
+{
+  "id": 31817,
+  "name": "White Knight",
+  "models_2": [
+    46782
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25
+}

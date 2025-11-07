@@ -1,0 +1,15 @@
+{
+  "id": 12089,
+  "name": "Fairy fountain",
+  "models_2": [
+    11934
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 40,
+  "unknown_78": {
+    "unknown_1": 2150,
+    "unknown_2": 3
+  }
+}

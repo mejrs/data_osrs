@@ -1,0 +1,18 @@
+{
+  "id": 2281,
+  "name": "Drill",
+  "models_2": [
+    21814
+  ],
+  "dim_x": 2,
+  "unknown_24": 5743,
+  "ambient": 20,
+  "contrast": 20,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "unknown_78": {
+    "unknown_1": 3672,
+    "unknown_2": 5
+  }
+}

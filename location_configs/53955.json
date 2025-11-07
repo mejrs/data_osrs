@@ -1,0 +1,21 @@
+{
+  "id": 53955,
+  "name": "Coal pile",
+  "models_2": [
+    53575,
+    53561
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

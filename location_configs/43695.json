@@ -1,0 +1,40 @@
+{
+  "id": 43695,
+  "name": "<col=ffff00>Rewards Guardian</col>",
+  "models_2": [
+    43880,
+    43881
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 9397,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Search",
+    "Check",
+    "Big-search",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      0,
+      29334
+    ]
+  ],
+  "textures": {
+    "28": 88
+  },
+  "model": false,
+  "scale_x": 320,
+  "scale_y": 320,
+  "scale_z": 320,
+  "unknown_69": 27,
+  "translate_y": 58,
+  "mapscene": 82
+}

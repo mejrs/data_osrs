@@ -1,0 +1,15 @@
+{
+  "id": 42569,
+  "models_2": [
+    42798
+  ],
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_19": 0,
+  "ambient": 10,
+  "contrast": 50,
+  "model": false,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90
+}

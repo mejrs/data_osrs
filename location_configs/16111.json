@@ -1,0 +1,15 @@
+{
+  "id": 16111,
+  "name": "Ship's ladder",
+  "models_2": [
+    5190
+  ],
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

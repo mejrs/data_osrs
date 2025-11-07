@@ -1,0 +1,14 @@
+{
+  "id": 39954,
+  "name": "Broken Chair",
+  "models_2": [
+    23959
+  ],
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ]
+}

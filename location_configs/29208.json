@@ -1,0 +1,45 @@
+{
+  "id": 29208,
+  "name": "Mounted Mining Cape",
+  "models_2": [
+    32185
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      10401
+    ],
+    [
+      54183,
+      10512
+    ],
+    [
+      54503,
+      10508
+    ],
+    [
+      960,
+      10401
+    ],
+    [
+      22464,
+      10392
+    ],
+    [
+      43968,
+      10512
+    ]
+  ],
+  "category": 206
+}

@@ -1,0 +1,17 @@
+{
+  "id": 16468,
+  "name": "Tight-gap",
+  "models_2": [
+    7766
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Manoeuvre-past",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

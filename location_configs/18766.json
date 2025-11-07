@@ -1,0 +1,17 @@
+{
+  "id": 18766,
+  "name": "Oak cape rack",
+  "models_2": [
+    19008,
+    19000
+  ],
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206
+}

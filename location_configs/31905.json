@@ -1,0 +1,13 @@
+{
+  "id": 31905,
+  "name": "Kourend map display case",
+  "models_2": [
+    34558,
+    34573,
+    34568
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20
+}

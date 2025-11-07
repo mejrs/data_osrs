@@ -1,0 +1,23 @@
+{
+  "id": 13904,
+  "name": "Exit",
+  "models_2": [
+    14238
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      33668,
+      289
+    ]
+  ]
+}

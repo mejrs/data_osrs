@@ -1,0 +1,32 @@
+{
+  "id": 29761,
+  "name": "Yellow crystal",
+  "models_2": [
+    32502
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "colours": [
+    [
+      15296,
+      11185
+    ],
+    [
+      15273,
+      11197
+    ],
+    [
+      15029,
+      11193
+    ],
+    [
+      16163,
+      11189
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 72,
+  "scale_z": 64
+}

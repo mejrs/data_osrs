@@ -1,0 +1,21 @@
+{
+  "id": 18451,
+  "name": "Wreck",
+  "models_2": [
+    18323
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "colours": [
+    [
+      7333,
+      7582
+    ],
+    [
+      7452,
+      7954
+    ]
+  ],
+  "model": false
+}

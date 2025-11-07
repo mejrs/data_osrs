@@ -1,0 +1,30 @@
+{
+  "id": 1913,
+  "models": [
+    [
+      0,
+      669
+    ],
+    [
+      1,
+      670
+    ],
+    [
+      2,
+      671
+    ],
+    [
+      3,
+      672
+    ],
+    [
+      9,
+      673
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "translate_y": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": 30343,
+  "name": "Falling rock",
+  "models_2": [
+    33039
+  ],
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true
+}

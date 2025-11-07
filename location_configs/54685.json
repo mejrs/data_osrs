@@ -1,0 +1,35 @@
+{
+  "id": 54685,
+  "models": [
+    [
+      22,
+      24930
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 15,
+  "colours": [
+    [
+      7830,
+      5404
+    ],
+    [
+      7463,
+      3350
+    ],
+    [
+      8078,
+      5400
+    ],
+    [
+      8076,
+      5400
+    ]
+  ],
+  "translate_y": 65535,
+  "unknown_73": true,
+  "maparea_id": 957
+}

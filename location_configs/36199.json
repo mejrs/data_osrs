@@ -1,0 +1,20 @@
+{
+  "id": 36199,
+  "name": "Demonic Symbol",
+  "models_2": [
+    38588
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 8442,
+  "ambient": 30,
+  "contrast": 44,
+  "category": 1369,
+  "scale_x": 108,
+  "scale_z": 108,
+  "unknown_78": {
+    "unknown_1": 4174,
+    "unknown_2": 5
+  }
+}

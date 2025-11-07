@@ -1,0 +1,16 @@
+{
+  "id": 40148,
+  "name": "Broken Range",
+  "models_2": [
+    40825
+  ],
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ]
+}

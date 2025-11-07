@@ -1,0 +1,16 @@
+{
+  "id": 11682,
+  "name": "Mature Wizards Mind Bomb",
+  "models_2": [
+    7775
+  ],
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ]
+}

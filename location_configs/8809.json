@@ -1,0 +1,32 @@
+{
+  "id": 8809,
+  "name": "Rotten Apple Pile",
+  "models_2": [
+    8287
+  ],
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      17331,
+      3742
+    ],
+    [
+      22422,
+      9647
+    ],
+    [
+      3742,
+      3742
+    ],
+    [
+      18347,
+      3742
+    ]
+  ]
+}

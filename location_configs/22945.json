@@ -1,0 +1,18 @@
+{
+  "id": 22945,
+  "name": "Bone door",
+  "models_2": [
+    23740,
+    23741
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

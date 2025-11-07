@@ -1,0 +1,12 @@
+{
+  "id": 14998,
+  "name": "Water Source",
+  "models_2": [
+    16660
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 8,
+  "contrast": 10
+}

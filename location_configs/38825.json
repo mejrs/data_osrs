@@ -1,0 +1,24 @@
+{
+  "id": 38825,
+  "models": [
+    [
+      22,
+      40183
+    ]
+  ],
+  "name": "Tile",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      8012,
+      15405
+    ],
+    [
+      7618,
+      15405
+    ]
+  ]
+}

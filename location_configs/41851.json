@@ -1,0 +1,35 @@
+{
+  "id": 41851,
+  "name": "Crates",
+  "models_2": [
+    7700
+  ],
+  "unknown_19": 1,
+  "ambient": 5,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      6684
+    ],
+    [
+      6439,
+      6682
+    ],
+    [
+      6563,
+      6684
+    ],
+    [
+      6558,
+      6806
+    ]
+  ],
+  "unknown_69": 29
+}

@@ -1,0 +1,19 @@
+{
+  "id": 11857,
+  "models": [
+    [
+      0,
+      11613
+    ],
+    [
+      9,
+      11614
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 10,
+  "mirror": true,
+  "model": false,
+  "mapscene": 22
+}

@@ -1,0 +1,18 @@
+{
+  "id": 29770,
+  "name": "Small storage unit",
+  "models_2": [
+    32381
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Shared",
+    "Private",
+    null,
+    null,
+    "Upgrade"
+  ],
+  "category": 972,
+  "unknown_69": 23
+}

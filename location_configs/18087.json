@@ -1,0 +1,19 @@
+{
+  "id": 18087,
+  "name": "Shelf",
+  "models_2": [
+    17746
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128,
+  "unknown_73": true
+}

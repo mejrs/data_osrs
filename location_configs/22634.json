@@ -1,0 +1,26 @@
+{
+  "id": 22634,
+  "name": "Console",
+  "models_2": [
+    23552
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "colours": [
+    [
+      5786,
+      10266
+    ],
+    [
+      5006,
+      10760
+    ],
+    [
+      5910,
+      16
+    ]
+  ]
+}

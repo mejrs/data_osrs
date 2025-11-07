@@ -1,0 +1,1 @@
+[{"name": "Head Guard", "id": 11101, "p": 0, "x": 1790, "y": 3707, "walkingAnimation": 819, "rotate180Animation": 820, "rotate90RightAnimation": 821, "rotate90LeftAnimation": 822, "standingAnimation": 808, "category": 470, "actions": ["None", "Attack", "Pickpocket", "None", "None"], "combatLevel": 84, "models": [29787, 29811, 29804, 29789, 29797, 29812, 42325, 42323]}]

@@ -1,0 +1,12 @@
+{
+  "id": 48414,
+  "name": "Dead Boar",
+  "models_2": [
+    48999
+  ],
+  "ambient": 10,
+  "contrast": 30,
+  "scale_x": 120,
+  "scale_y": 120,
+  "scale_z": 120
+}

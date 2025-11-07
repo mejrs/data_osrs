@@ -1,0 +1,15 @@
+{
+  "id": 25981,
+  "models": [
+    [
+      0,
+      27252
+    ]
+  ],
+  "name": "Locked gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15
+}

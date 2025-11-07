@@ -1,0 +1,18 @@
+{
+  "id": 29322,
+  "name": "Doors of Dinh",
+  "models_2": [
+    32260
+  ],
+  "dim_x": 4,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Enter",
+    "Peek",
+    null,
+    null,
+    null
+  ]
+}

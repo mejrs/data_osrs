@@ -1,0 +1,14 @@
+{
+  "id": 35968,
+  "name": "Corrupt Deposit (Depleted)",
+  "models_2": [
+    37612
+  ],
+  "is_transparent": true,
+  "ambient": 30,
+  "contrast": 44,
+  "category": 1354,
+  "scale_x": 120,
+  "scale_y": 120,
+  "scale_z": 120
+}

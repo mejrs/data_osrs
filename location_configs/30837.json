@@ -1,0 +1,13 @@
+{
+  "id": 30837,
+  "name": "Fallen Tree",
+  "models_2": [
+    33644
+  ],
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "mapscene": 27
+}

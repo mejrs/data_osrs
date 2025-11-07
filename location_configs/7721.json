@@ -1,0 +1,18 @@
+{
+  "id": 7721,
+  "name": "Whiteberry bush",
+  "models_2": [
+    7826,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

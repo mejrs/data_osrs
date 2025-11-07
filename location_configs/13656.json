@@ -1,0 +1,16 @@
+{
+  "id": 13656,
+  "name": "Telescope",
+  "models_2": [
+    13135
+  ],
+  "actions": [
+    "Observe",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 30
+}

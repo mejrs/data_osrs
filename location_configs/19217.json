@@ -1,0 +1,24 @@
+{
+  "id": 19217,
+  "name": "Deadfall",
+  "models_2": [
+    19910,
+    19922
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 5193,
+  "actions": [
+    "Dismantle",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "category": 393,
+  "unknown_69": 29,
+  "mapscene": 71,
+  "params": {
+    "1545": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 24840,
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 6506,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 3717,
+    "ids": [
+      null,
+      24839
+    ]
+  }
+}

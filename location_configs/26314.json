@@ -1,0 +1,11 @@
+{
+  "id": 26314,
+  "name": "Wheel",
+  "models_2": [
+    27905
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 25
+}

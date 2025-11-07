@@ -1,0 +1,21 @@
+{
+  "id": 10328,
+  "models": [
+    [
+      9,
+      10070
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "colours": [
+    [
+      24,
+      9098
+    ]
+  ],
+  "textures": {
+    "2": 23
+  },
+  "translate_y": 1
+}

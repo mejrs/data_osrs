@@ -1,0 +1,27 @@
+{
+  "id": 39687,
+  "name": "Bench",
+  "models_2": [
+    1453
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      5660,
+      7461
+    ],
+    [
+      5784,
+      7580
+    ],
+    [
+      5908,
+      7704
+    ]
+  ],
+  "category": 157
+}

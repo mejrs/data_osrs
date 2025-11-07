@@ -1,0 +1,22 @@
+{
+  "id": 42938,
+  "name": "Ancient Barrier",
+  "models_2": [
+    43208
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 9203,
+  "ambient": 60,
+  "actions": [
+    "Pass (normal)",
+    "Pass (private)",
+    "Peek",
+    null,
+    null
+  ],
+  "contrast": 60,
+  "model": false,
+  "translate_y": 65535
+}

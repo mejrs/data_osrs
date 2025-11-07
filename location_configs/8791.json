@@ -1,0 +1,24 @@
+{
+  "id": 8791,
+  "models": [
+    [
+      0,
+      9476
+    ],
+    [
+      9,
+      9477
+    ]
+  ],
+  "name": "Door",
+  "unknown_19": 1,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 168,
+  "unknown_75": 0
+}

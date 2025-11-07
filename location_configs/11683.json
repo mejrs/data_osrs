@@ -1,0 +1,16 @@
+{
+  "id": 11683,
+  "name": "Dragon Bitter",
+  "models_2": [
+    7775
+  ],
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 18784,
+  "name": "Magic wardrobe",
+  "models_2": [
+    19024
+  ],
+  "dim_y": 3,
+  "ambient": 35,
+  "actions": [
+    "Open",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 29,
+  "translate_z": 65531
+}

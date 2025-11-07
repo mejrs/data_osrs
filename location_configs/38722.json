@@ -1,0 +1,22 @@
+{
+  "id": 38722,
+  "name": "Coffin",
+  "models_2": [
+    40103,
+    40122
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

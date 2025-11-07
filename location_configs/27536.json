@@ -1,0 +1,13 @@
+{
+  "id": 27536,
+  "name": "Fountain",
+  "models_2": [
+    30219
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 244
+}

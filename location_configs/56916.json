@@ -1,0 +1,12 @@
+{
+  "id": 56916,
+  "name": "Pedestal",
+  "models_2": [
+    57027
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 5,
+  "contrast": 25
+}

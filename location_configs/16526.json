@@ -1,0 +1,34 @@
+{
+  "id": 16526,
+  "models": [
+    [
+      0,
+      9239
+    ]
+  ],
+  "name": "Weathered wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Jump-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      12698
+    ],
+    [
+      6684,
+      12818
+    ],
+    [
+      6930,
+      12698
+    ]
+  ]
+}

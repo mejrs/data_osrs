@@ -1,0 +1,37 @@
+{
+  "id": 23630,
+  "name": "Redberry bush",
+  "models_2": [
+    7826
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pick-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      22166
+    ],
+    [
+      8722,
+      5400
+    ],
+    [
+      6364,
+      821
+    ]
+  ],
+  "category": 1276,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "mapscene": 9
+}

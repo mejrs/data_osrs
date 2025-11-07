@@ -1,0 +1,22 @@
+{
+  "id": 2015,
+  "name": "Chalice",
+  "models_2": [
+    1814
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Take treasure",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43069,
+      28
+    ]
+  ]
+}

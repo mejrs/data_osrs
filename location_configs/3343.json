@@ -1,0 +1,25 @@
+{
+  "id": 3343,
+  "name": "Rock pile",
+  "models_2": [
+    819
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7952
+    ]
+  ],
+  "scale_x": 50,
+  "scale_y": 50,
+  "scale_z": 50,
+  "mapscene": 12
+}

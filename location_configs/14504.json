@@ -1,0 +1,10 @@
+{
+  "id": 14504,
+  "name": "Wilderness Sign",
+  "models_2": [
+    14651,
+    14652
+  ],
+  "ambient": 17,
+  "contrast": 17
+}

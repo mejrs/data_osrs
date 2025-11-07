@@ -1,0 +1,20 @@
+{
+  "id": 26768,
+  "name": "Jutting wall",
+  "models_2": [
+    28314
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 64,
+  "unknown_73": true
+}

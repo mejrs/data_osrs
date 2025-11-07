@@ -1,0 +1,19 @@
+{
+  "id": 4939,
+  "models_2": [
+    21235
+  ],
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      6689,
+      7851
+    ]
+  ],
+  "mirror": true,
+  "scale_y": 153
+}

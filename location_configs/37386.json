@@ -1,0 +1,36 @@
+{
+  "id": 37386,
+  "name": "House Advertisement",
+  "models_2": [
+    38855
+  ],
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "View",
+    "Add-House",
+    "Visit-Last",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      37194,
+      330
+    ],
+    [
+      37177,
+      313
+    ],
+    [
+      36257,
+      417
+    ],
+    [
+      36118,
+      278
+    ]
+  ],
+  "category": 1398
+}

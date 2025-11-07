@@ -1,0 +1,26 @@
+{
+  "id": 23855,
+  "models_2": [
+    25120
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "colours": [
+    [
+      5532,
+      7587
+    ],
+    [
+      4506,
+      7582
+    ],
+    [
+      4750,
+      7830
+    ]
+  ],
+  "mirror": true,
+  "mapscene": 73
+}

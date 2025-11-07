@@ -1,0 +1,21 @@
+{
+  "id": 35967,
+  "name": "Corrupt Deposit",
+  "models_2": [
+    37604
+  ],
+  "is_transparent": true,
+  "ambient": 30,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 44,
+  "category": 1353,
+  "scale_x": 120,
+  "scale_y": 120,
+  "scale_z": 120
+}

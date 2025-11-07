@@ -1,0 +1,17 @@
+{
+  "id": 41811,
+  "name": "Display Case",
+  "models_2": [
+    42563
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

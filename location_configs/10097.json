@@ -1,0 +1,15 @@
+{
+  "id": 10097,
+  "name": "Blindweed Patch",
+  "models_2": [
+    7801,
+    7766
+  ],
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ]
+}

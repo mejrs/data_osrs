@@ -1,0 +1,19 @@
+{
+  "id": 29169,
+  "name": "Mounted Fire Cape",
+  "models_2": [
+    32181
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "category": 206
+}

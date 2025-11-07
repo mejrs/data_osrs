@@ -1,0 +1,18 @@
+{
+  "id": 23676,
+  "name": "Graveyard Teleport",
+  "models_2": [
+    10619,
+    10618
+  ],
+  "unknown_19": 1,
+  "unknown_24": 3030,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0
+}

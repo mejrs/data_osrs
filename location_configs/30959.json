@@ -1,0 +1,20 @@
+{
+  "id": 30959,
+  "name": "Tunnel",
+  "models_2": [
+    33780
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

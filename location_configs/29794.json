@@ -1,0 +1,14 @@
+{
+  "id": 29794,
+  "name": "Large Crystal",
+  "models_2": [
+    32502
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_27": false
+}

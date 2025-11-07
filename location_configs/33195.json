@@ -1,0 +1,23 @@
+{
+  "id": 33195,
+  "name": "Wrecked boat",
+  "models_2": [
+    18212,
+    35842,
+    35843
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

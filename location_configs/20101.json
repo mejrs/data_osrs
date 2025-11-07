@@ -1,0 +1,16 @@
+{
+  "id": 20101,
+  "name": "Compost Bin",
+  "models_2": [
+    7838,
+    7844
+  ],
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    "Dump"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 39067,
+  "name": "Table",
+  "models_2": [
+    39499
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      43096,
+      61
+    ]
+  ]
+}

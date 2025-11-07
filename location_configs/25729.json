@@ -1,0 +1,31 @@
+{
+  "id": 25729,
+  "name": "Sink",
+  "models_2": [
+    13220,
+    13215
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      37,
+      5413
+    ],
+    [
+      28,
+      5532
+    ],
+    [
+      53,
+      103
+    ],
+    [
+      45,
+      5652
+    ]
+  ],
+  "category": 175
+}

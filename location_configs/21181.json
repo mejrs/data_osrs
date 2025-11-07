@@ -1,0 +1,20 @@
+{
+  "id": 21181,
+  "name": "Snowy bird hide",
+  "models_2": [
+    21574
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 23
+}

@@ -1,0 +1,50 @@
+{
+  "id": 55099,
+  "name": "Campfire",
+  "models_2": [
+    26585,
+    26583
+  ],
+  "is_transparent": true,
+  "unknown_24": 6853,
+  "unknown_27": false,
+  "ambient": 75,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 75,
+  "colours": [
+    [
+      8146,
+      16175
+    ],
+    [
+      7104,
+      16179
+    ],
+    [
+      5056,
+      16055
+    ],
+    [
+      784,
+      15137
+    ],
+    [
+      910,
+      15145
+    ],
+    [
+      908,
+      16175
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 2065,
+    "unknown_2": 3
+  }
+}

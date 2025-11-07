@@ -1,0 +1,13 @@
+{
+  "id": 38488,
+  "name": "Urn",
+  "models_2": [
+    40055,
+    40076
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 10
+}

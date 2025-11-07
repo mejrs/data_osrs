@@ -1,0 +1,17 @@
+{
+  "id": 15385,
+  "name": "Armour space",
+  "models_2": [
+    12873
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

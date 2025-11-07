@@ -1,0 +1,20 @@
+{
+  "id": 9380,
+  "name": "Box trap",
+  "models_2": [
+    19904
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Dismantle",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 194,
+  "unknown_75": 0
+}

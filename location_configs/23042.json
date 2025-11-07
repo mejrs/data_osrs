@@ -1,0 +1,38 @@
+{
+  "id": 23042,
+  "models": [
+    [
+      4,
+      23883
+    ]
+  ],
+  "name": "Tools",
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7582,
+      7079
+    ],
+    [
+      7706,
+      6051
+    ],
+    [
+      7830,
+      5916
+    ],
+    [
+      7954,
+      5908
+    ]
+  ],
+  "category": 661
+}

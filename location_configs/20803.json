@@ -1,0 +1,17 @@
+{
+  "id": 20803,
+  "name": "Tree",
+  "models_2": [
+    1570
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      3470,
+      5665
+    ]
+  ],
+  "category": 189,
+  "mapscene": 0
+}

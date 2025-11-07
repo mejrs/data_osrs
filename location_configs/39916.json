@@ -1,0 +1,25 @@
+{
+  "id": 39916,
+  "name": "Wardrobe",
+  "models_2": [
+    11125
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4502,
+      7954
+    ],
+    [
+      4510,
+      7582
+    ]
+  ]
+}

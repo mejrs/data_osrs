@@ -1,0 +1,12 @@
+{
+  "id": 27769,
+  "name": "Broken lobster trap",
+  "models_2": [
+    18236
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10
+}

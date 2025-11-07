@@ -1,0 +1,32 @@
+{
+  "id": 29753,
+  "name": "Dark crystal",
+  "models_2": [
+    32502
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": -10,
+  "colours": [
+    [
+      15296,
+      16
+    ],
+    [
+      15273,
+      41
+    ],
+    [
+      15029,
+      33
+    ],
+    [
+      16163,
+      24
+    ]
+  ]
+}

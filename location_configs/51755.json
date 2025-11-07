@@ -1,0 +1,13 @@
+{
+  "id": 51755,
+  "name": "Empty basket",
+  "models_2": [
+    52375
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30
+}

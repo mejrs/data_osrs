@@ -1,0 +1,21 @@
+{
+  "id": 49662,
+  "name": "Yewnock's machine",
+  "models_2": [
+    49541
+  ],
+  "unknown_19": 1,
+  "unknown_24": 4561,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 27,
+  "translate_y": 65506
+}

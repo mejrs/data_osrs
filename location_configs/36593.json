@@ -1,0 +1,11 @@
+{
+  "id": 36593,
+  "name": "Cenotaph",
+  "models_2": [
+    37830
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "contrast": 10
+}

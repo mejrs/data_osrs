@@ -1,0 +1,29 @@
+{
+  "id": 29276,
+  "name": "Obsidian bench",
+  "models_2": [
+    32091
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      127,
+      0
+    ],
+    [
+      107,
+      972
+    ]
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

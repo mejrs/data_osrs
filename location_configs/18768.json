@@ -1,0 +1,17 @@
+{
+  "id": 18768,
+  "name": "Mahogany cape rack",
+  "models_2": [
+    19005,
+    19001
+  ],
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206
+}

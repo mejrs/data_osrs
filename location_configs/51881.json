@@ -1,0 +1,11 @@
+{
+  "id": 51881,
+  "name": "Statue of Xerna",
+  "models_2": [
+    52321
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 25
+}

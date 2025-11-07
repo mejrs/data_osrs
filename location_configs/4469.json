@@ -1,0 +1,28 @@
+{
+  "id": 4469,
+  "models": [
+    [
+      0,
+      4874
+    ]
+  ],
+  "name": "Energy Barrier",
+  "unknown_19": 1,
+  "unknown_24": 1433,
+  "ambient": 100,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      61,
+      39867
+    ]
+  ],
+  "unknown_75": 0
+}

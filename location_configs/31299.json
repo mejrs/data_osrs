@@ -1,0 +1,30 @@
+{
+  "id": 31299,
+  "name": "Viewer",
+  "models_2": [
+    15783
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5547,
+      4502
+    ],
+    [
+      6585,
+      5409
+    ]
+  ],
+  "unknown_69": 27,
+  "mapscene": 76
+}

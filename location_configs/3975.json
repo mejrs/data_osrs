@@ -1,0 +1,20 @@
+{
+  "id": 3975,
+  "name": "Coal Tar",
+  "models_2": [
+    3951
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true
+}

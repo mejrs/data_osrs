@@ -1,0 +1,31 @@
+{
+  "id": 21502,
+  "models": [
+    [
+      0,
+      22085
+    ],
+    [
+      1,
+      22086
+    ],
+    [
+      9,
+      22087
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    null,
+    "hidden",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 630,
+  "translate_y": 1
+}

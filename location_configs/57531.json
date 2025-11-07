@@ -1,0 +1,14 @@
+{
+  "id": 57531,
+  "name": "Tree root",
+  "models_2": [
+    56613
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 15,
+  "model": false
+}

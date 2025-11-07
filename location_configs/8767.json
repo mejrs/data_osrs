@@ -1,0 +1,17 @@
+{
+  "id": 8767,
+  "models": [
+    [
+      0,
+      8331
+    ],
+    [
+      4,
+      8332
+    ]
+  ],
+  "name": "Elven lamp",
+  "unknown_19": 1,
+  "unknown_24": 1212,
+  "ambient": 30
+}

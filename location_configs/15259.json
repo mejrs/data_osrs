@@ -1,0 +1,19 @@
+{
+  "id": 15259,
+  "models": [
+    [
+      4,
+      12889
+    ]
+  ],
+  "name": "Decoration space",
+  "ambient": 100,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

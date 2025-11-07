@@ -1,0 +1,19 @@
+{
+  "id": 36079,
+  "name": "Barrier",
+  "models_2": [
+    37470
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 8414,
+  "ambient": 30,
+  "actions": [
+    "Pass",
+    "Quick-pass",
+    null,
+    null,
+    null
+  ],
+  "contrast": 44
+}

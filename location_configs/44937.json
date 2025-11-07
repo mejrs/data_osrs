@@ -1,0 +1,19 @@
+{
+  "id": 44937,
+  "models": [
+    [
+      4,
+      55871
+    ]
+  ],
+  "name": "Wall decoration",
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

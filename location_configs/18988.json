@@ -1,0 +1,29 @@
+{
+  "id": 18988,
+  "name": "Ladder",
+  "models_2": [
+    5187
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5912,
+      7582
+    ],
+    [
+      5788,
+      7830
+    ],
+    [
+      5673,
+      7463
+    ]
+  ]
+}

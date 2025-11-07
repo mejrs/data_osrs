@@ -1,0 +1,15 @@
+{
+  "id": 15304,
+  "name": "Bell pull space",
+  "models_2": [
+    12648
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

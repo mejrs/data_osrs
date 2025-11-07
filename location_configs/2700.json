@@ -1,0 +1,32 @@
+{
+  "id": 2700,
+  "models": [
+    [
+      0,
+      884
+    ],
+    [
+      9,
+      885
+    ]
+  ],
+  "name": "Tent door",
+  "unknown_19": 1,
+  "actions": [
+    "Walk-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      1948,
+      53
+    ],
+    [
+      1955,
+      5181
+    ]
+  ]
+}

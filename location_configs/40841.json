@@ -1,0 +1,18 @@
+{
+  "id": 40841,
+  "name": "Spiritual Fairy Tree",
+  "models_2": [
+    41500
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Tree",
+    "Ring-Zanaris",
+    "Ring-configure",
+    "Ring-last-destination (BJS)",
+    "Remove-decorations"
+  ]
+}

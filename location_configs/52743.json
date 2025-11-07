@@ -1,0 +1,23 @@
+{
+  "id": 52743,
+  "models": [
+    [
+      0,
+      51978
+    ],
+    [
+      1,
+      51979
+    ],
+    [
+      2,
+      51953
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 30,
+  "translate_y": 1
+}

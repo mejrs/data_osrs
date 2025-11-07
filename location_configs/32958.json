@@ -1,0 +1,13 @@
+{
+  "id": 32958,
+  "name": "Operating table",
+  "models_2": [
+    35554
+  ],
+  "dim_x": 4,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 10
+}

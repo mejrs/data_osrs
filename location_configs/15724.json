@@ -1,0 +1,28 @@
+{
+  "id": 15724,
+  "name": "Small chest",
+  "models_2": [
+    15567
+  ],
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6715,
+      5656
+    ],
+    [
+      10586,
+      7331
+    ],
+    [
+      10471,
+      10279
+    ]
+  ]
+}

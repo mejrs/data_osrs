@@ -1,0 +1,21 @@
+{
+  "id": 6665,
+  "models": [
+    [
+      4,
+      6540
+    ]
+  ],
+  "name": "Blue tears",
+  "unknown_19": 1,
+  "unknown_24": 2054,
+  "ambient": 80,
+  "mirror": true,
+  "unknown_78": {
+    "unknown_1": 2151,
+    "unknown_2": 3
+  },
+  "params": {
+    "1545": 1
+  }
+}

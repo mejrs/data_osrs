@@ -1,0 +1,17 @@
+{
+  "id": 57021,
+  "unknown_19": 0,
+  "category": 2213,
+  "model": false,
+  "morphs_1": {
+    "varbit": 17617,
+    "ids": [
+      null,
+      57108,
+      57109,
+      57110,
+      57111
+    ]
+  },
+  "mapscene": 22
+}

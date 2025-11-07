@@ -1,0 +1,13 @@
+{
+  "id": 40387,
+  "name": "Blocked opening",
+  "models_2": [
+    34134
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15
+}

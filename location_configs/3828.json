@@ -1,0 +1,19 @@
+{
+  "id": 3828,
+  "name": "Tunnel entrance",
+  "models_2": [
+    3825
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ]
+}

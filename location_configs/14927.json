@@ -1,0 +1,48 @@
+{
+  "id": 14927,
+  "models": [
+    [
+      0,
+      2214
+    ],
+    [
+      1,
+      46749
+    ],
+    [
+      2,
+      4873
+    ],
+    [
+      3,
+      46750
+    ],
+    [
+      4,
+      16239
+    ],
+    [
+      9,
+      2215
+    ],
+    [
+      22,
+      16238
+    ]
+  ],
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 300,
+  "scale_z": 16,
+  "translate_z": 32,
+  "unknown_73": true
+}

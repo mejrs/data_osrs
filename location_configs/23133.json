@@ -1,0 +1,15 @@
+{
+  "id": 23133,
+  "name": "Obstacle net",
+  "models_2": [
+    1439
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ]
+}

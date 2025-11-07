@@ -1,0 +1,26 @@
+{
+  "id": 8881,
+  "models": [
+    [
+      0,
+      5854
+    ]
+  ],
+  "name": "Cave entrance",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10270,
+      10266
+    ]
+  ]
+}

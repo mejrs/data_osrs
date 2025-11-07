@@ -1,0 +1,17 @@
+{
+  "id": 59702,
+  "name": "Crystal extractor",
+  "models_2": [
+    58192
+  ],
+  "is_transparent": true,
+  "unknown_24": 13175,
+  "unknown_27": false,
+  "actions": [
+    "Harvest",
+    "Deactivate",
+    null,
+    null,
+    null
+  ]
+}

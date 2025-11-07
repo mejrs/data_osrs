@@ -1,0 +1,18 @@
+{
+  "id": 14106,
+  "name": "Rocks",
+  "models_2": [
+    7766
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Jump-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30,
+  "mapscene": 24
+}

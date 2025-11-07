@@ -1,0 +1,37 @@
+{
+  "id": 42248,
+  "name": "Cave",
+  "models_2": [
+    11992
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      16278,
+      7580
+    ],
+    [
+      13072,
+      6550
+    ],
+    [
+      6798,
+      6798
+    ],
+    [
+      904,
+      904
+    ]
+  ],
+  "unknown_69": 27,
+  "mapscene": 7
+}

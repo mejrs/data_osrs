@@ -1,0 +1,12 @@
+{
+  "id": 29944,
+  "name": "Great Olmic Statue",
+  "models_2": [
+    32542
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25
+}

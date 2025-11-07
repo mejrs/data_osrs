@@ -1,0 +1,13 @@
+{
+  "id": 57941,
+  "name": "Fruit stall",
+  "models_2": [
+    58842,
+    58844
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

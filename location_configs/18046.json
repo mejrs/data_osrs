@@ -1,0 +1,16 @@
+{
+  "id": 18046,
+  "name": "Statue with key",
+  "models_2": [
+    17616,
+    17642
+  ],
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

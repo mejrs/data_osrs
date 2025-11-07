@@ -1,0 +1,33 @@
+{
+  "id": 42100,
+  "models": [
+    [
+      22,
+      42419
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 20,
+  "colours": [
+    [
+      49,
+      6435
+    ],
+    [
+      39,
+      6430
+    ],
+    [
+      30,
+      6554
+    ],
+    [
+      20,
+      7050
+    ]
+  ],
+  "unknown_73": true
+}

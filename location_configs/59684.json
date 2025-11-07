@@ -1,0 +1,18 @@
+{
+  "id": 59684,
+  "name": "Wind catcher",
+  "models_2": [
+    58342
+  ],
+  "is_transparent": true,
+  "unknown_24": 13422,
+  "unknown_27": false,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    "Modify"
+  ],
+  "category": 2328
+}

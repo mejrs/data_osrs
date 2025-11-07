@@ -1,0 +1,23 @@
+{
+  "id": 29741,
+  "name": "Mark of Power",
+  "models_2": [
+    1131
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 5,
+  "colours": [
+    [
+      3008,
+      55215
+    ]
+  ],
+  "scale_x": 196,
+  "scale_z": 196
+}

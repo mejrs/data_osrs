@@ -1,0 +1,23 @@
+{
+  "id": 20150,
+  "name": "Healer spring",
+  "models_2": [
+    20647
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Drink-from",
+    null,
+    "Take-from",
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 2151,
+    "unknown_2": 3
+  }
+}

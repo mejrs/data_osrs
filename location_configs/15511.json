@@ -1,0 +1,23 @@
+{
+  "id": 15511,
+  "models": [
+    [
+      0,
+      25029
+    ]
+  ],
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "mapscene": 22
+}

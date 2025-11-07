@@ -1,0 +1,23 @@
+{
+  "id": 2602,
+  "models": [
+    [
+      0,
+      9476
+    ],
+    [
+      9,
+      9477
+    ]
+  ],
+  "name": "Exit door",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 1
+}

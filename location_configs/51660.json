@@ -1,0 +1,49 @@
+{
+  "id": 51660,
+  "name": "Cave Entrance",
+  "models_2": [
+    51274
+  ],
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 0,
+  "contrast": 30,
+  "colours": [
+    [
+      2473,
+      6703
+    ],
+    [
+      2469,
+      6695
+    ],
+    [
+      2593,
+      6689
+    ],
+    [
+      2588,
+      6684
+    ],
+    [
+      2836,
+      6674
+    ],
+    [
+      2700,
+      6798
+    ],
+    [
+      2952,
+      7050
+    ]
+  ],
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 170,
+  "scale_z": 120
+}

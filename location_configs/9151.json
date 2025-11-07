@@ -1,0 +1,21 @@
+{
+  "id": 9151,
+  "name": "Hole in the wall",
+  "models_2": [
+    9105
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "colours": [
+    [
+      24,
+      9098
+    ]
+  ],
+  "textures": {
+    "2": 23
+  },
+  "unknown_75": 0
+}

@@ -1,0 +1,19 @@
+{
+  "id": 59285,
+  "name": "Wreck of the Grandyozenaym",
+  "models_2": [
+    57624
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2317,
+  "model": false
+}

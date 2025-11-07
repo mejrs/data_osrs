@@ -1,0 +1,15 @@
+{
+  "id": 17511,
+  "name": "Waste pipes",
+  "models_2": [
+    17783
+  ],
+  "unknown_24": 4747,
+  "ambient": 20,
+  "colours": [
+    [
+      11160,
+      27955
+    ]
+  ]
+}

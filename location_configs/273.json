@@ -1,0 +1,17 @@
+{
+  "id": 273,
+  "name": "Ship's ladder",
+  "models_2": [
+    58312
+  ],
+  "ambient": 10,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 27
+}

@@ -1,0 +1,11 @@
+{
+  "id": 55713,
+  "name": "Scarecrow",
+  "models_2": [
+    55407,
+    55401,
+    55400
+  ],
+  "ambient": 15,
+  "contrast": 25
+}

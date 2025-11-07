@@ -1,0 +1,27 @@
+{
+  "id": 16059,
+  "name": "Bush",
+  "models_2": [
+    7826,
+    7815,
+    13581
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6364,
+      4550
+    ]
+  ]
+}

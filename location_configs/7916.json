@@ -1,0 +1,19 @@
+{
+  "id": 7916,
+  "name": "Scarecrow",
+  "models_2": [
+    7798,
+    7812,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    "Remove"
+  ]
+}

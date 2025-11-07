@@ -1,0 +1,23 @@
+{
+  "id": 34713,
+  "name": "Dungeon entrance",
+  "models_2": [
+    4998,
+    4999
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Pay",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 95,
+  "scale_y": 110,
+  "scale_z": 95,
+  "unknown_69": 27
+}

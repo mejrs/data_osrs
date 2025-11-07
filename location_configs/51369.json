@@ -1,0 +1,17 @@
+{
+  "id": 51369,
+  "name": "Fishing spot",
+  "models_2": [
+    41238
+  ],
+  "is_transparent": true,
+  "unknown_24": 10793,
+  "unknown_27": false,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ]
+}

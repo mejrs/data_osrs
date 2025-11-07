@@ -1,0 +1,26 @@
+{
+  "id": 52121,
+  "models_2": [
+    51603
+  ],
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      64,
+      3131
+    ],
+    [
+      80,
+      7341
+    ]
+  ],
+  "scale_x": 360,
+  "scale_y": 127,
+  "scale_z": 104
+}

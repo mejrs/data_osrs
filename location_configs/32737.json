@@ -1,0 +1,14 @@
+{
+  "id": 32737,
+  "name": "Verzik's throne",
+  "models_2": [
+    35338
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_24": 8053,
+  "unknown_27": false,
+  "model": false,
+  "translate_z": 65472
+}

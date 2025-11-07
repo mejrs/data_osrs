@@ -1,0 +1,19 @@
+{
+  "id": 13678,
+  "models": [
+    [
+      22,
+      12605
+    ]
+  ],
+  "name": "Oak trapdoor",
+  "unknown_27": false,
+  "actions": [
+    "Go-down",
+    "Close",
+    null,
+    "Remove-room",
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13891,
+  "name": "Dark hole",
+  "models_2": [
+    14236
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Look-inside",
+    null,
+    null,
+    null,
+    null
+  ]
+}

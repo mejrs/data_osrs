@@ -1,0 +1,22 @@
+{
+  "id": 24839,
+  "name": "Grimgnash",
+  "models_2": [
+    26077,
+    26076,
+    26079
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 6506,
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

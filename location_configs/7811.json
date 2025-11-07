@@ -1,0 +1,38 @@
+{
+  "id": 7811,
+  "name": "Supplies",
+  "models_2": [
+    1453,
+    3847
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Gear",
+    "Stats",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5660,
+      7461
+    ],
+    [
+      5784,
+      7580
+    ],
+    [
+      5908,
+      7704
+    ]
+  ],
+  "category": 1478,
+  "unknown_75": 1
+}

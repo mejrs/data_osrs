@@ -1,0 +1,19 @@
+{
+  "id": 10054,
+  "name": "Grave",
+  "models_2": [
+    13376
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "hidden",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1473,
+  "unknown_69": 27
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31822,
+  "name": "Ice chunks",
+  "models_2": [
+    6328
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "mapscene": 92
+}

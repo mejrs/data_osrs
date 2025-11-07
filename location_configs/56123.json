@@ -1,0 +1,24 @@
+{
+  "id": 56123,
+  "name": "Kurask head",
+  "models_2": [
+    56055
+  ],
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    "Trophies",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      4510,
+      7114
+    ]
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

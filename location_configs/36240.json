@@ -1,0 +1,17 @@
+{
+  "id": 36240,
+  "name": "Portal",
+  "models_2": [
+    37828
+  ],
+  "unknown_17": false,
+  "ambient": 30,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 44
+}

@@ -1,0 +1,34 @@
+{
+  "id": 56291,
+  "name": "Fungi",
+  "models_2": [
+    33651
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      10704,
+      8747
+    ],
+    [
+      10700,
+      8743
+    ],
+    [
+      10568,
+      8619
+    ],
+    [
+      10562,
+      8615
+    ],
+    [
+      10411,
+      7333
+    ]
+  ],
+  "mapscene": 86
+}

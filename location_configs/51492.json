@@ -1,0 +1,42 @@
+{
+  "id": 51492,
+  "models": [
+    [
+      10,
+      51781
+    ],
+    [
+      0,
+      51788
+    ]
+  ],
+  "name": "Rocks",
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 50,
+  "colours": [
+    [
+      5400,
+      8
+    ],
+    [
+      5392,
+      8
+    ],
+    [
+      5388,
+      8
+    ]
+  ],
+  "category": 1933,
+  "unknown_69": 23,
+  "mapscene": 12
+}

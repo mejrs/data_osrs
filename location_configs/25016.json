@@ -1,0 +1,45 @@
+{
+  "id": 25016,
+  "models": [
+    [
+      22,
+      26345
+    ]
+  ],
+  "name": "Magical wheat",
+  "unknown_17": false,
+  "ambient": 50,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Push-through"
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      12707,
+      8745
+    ],
+    [
+      12702,
+      8615
+    ],
+    [
+      12587,
+      8623
+    ],
+    [
+      10675,
+      9653
+    ],
+    [
+      10683,
+      9661
+    ]
+  ],
+  "category": 703,
+  "unknown_73": true,
+  "mapscene": 31
+}

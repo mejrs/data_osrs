@@ -1,0 +1,11 @@
+{
+  "id": 44135,
+  "name": "Bullrush",
+  "models_2": [
+    44699
+  ],
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 20,
+  "model": false
+}

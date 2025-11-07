@@ -1,0 +1,28 @@
+{
+  "id": 19847,
+  "models": [
+    [
+      22,
+      1784
+    ]
+  ],
+  "name": "Rocky handholds",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      6689,
+      43131
+    ]
+  ],
+  "unknown_73": true
+}

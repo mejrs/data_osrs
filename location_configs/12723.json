@@ -1,0 +1,26 @@
+{
+  "id": 12723,
+  "models": [
+    [
+      0,
+      14889
+    ]
+  ],
+  "name": "Colony gate",
+  "unknown_21": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      3489,
+      5281
+    ]
+  ],
+  "category": 228,
+  "unknown_75": 0
+}

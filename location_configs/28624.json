@@ -1,0 +1,18 @@
+{
+  "id": 28624,
+  "name": "Compromised floorboards",
+  "models_2": [
+    31443
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 937
+}

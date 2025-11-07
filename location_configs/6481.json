@@ -1,0 +1,17 @@
+{
+  "id": 6481,
+  "name": "Tunnel",
+  "models_2": [
+    6240
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 42
+}

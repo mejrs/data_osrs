@@ -1,0 +1,16 @@
+{
+  "id": 3308,
+  "name": "Smashed cage",
+  "models_2": [
+    710
+  ],
+  "dim_x": 4,
+  "dim_y": 3,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

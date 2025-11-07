@@ -1,0 +1,13 @@
+{
+  "id": 1313,
+  "name": "Plant",
+  "models_2": [
+    1593
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 20,
+  "unknown_81": 80,
+  "mapscene": 5
+}

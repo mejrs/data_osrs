@@ -1,0 +1,20 @@
+{
+  "id": 33014,
+  "name": "Strategy table",
+  "models_2": [
+    35445
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1247
+}

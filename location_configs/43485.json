@@ -1,0 +1,15 @@
+{
+  "id": 43485,
+  "name": "Loot Chest",
+  "models_2": [
+    40615
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Loot",
+    null,
+    null,
+    null,
+    null
+  ]
+}

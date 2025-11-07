@@ -1,0 +1,16 @@
+{
+  "id": 33687,
+  "name": "Dead Snape grass",
+  "models_2": [
+    36908,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

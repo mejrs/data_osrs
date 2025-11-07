@@ -1,0 +1,39 @@
+{
+  "id": 10735,
+  "name": "Food chute",
+  "models_2": [
+    10646
+  ],
+  "dim_x": 2,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      10287,
+      10382
+    ],
+    [
+      10295,
+      10262
+    ],
+    [
+      10308,
+      10270
+    ],
+    [
+      14412,
+      10283
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 192,
+  "scale_z": 128
+}

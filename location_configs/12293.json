@@ -1,0 +1,22 @@
+{
+  "id": 12293,
+  "name": "Grandfather clock",
+  "models_2": [
+    12973
+  ],
+  "unknown_24": 3511,
+  "colours": [
+    [
+      4502,
+      5409
+    ],
+    [
+      4510,
+      7465
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3120,
+    "unknown_2": 3
+  }
+}

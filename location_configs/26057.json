@@ -1,0 +1,31 @@
+{
+  "id": 26057,
+  "models": [
+    [
+      0,
+      27289
+    ],
+    [
+      2,
+      27279
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "unknown_28": 16,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      38119,
+      7378
+    ],
+    [
+      41067,
+      5421
+    ]
+  ],
+  "scale_y": 105,
+  "translate_y": 1
+}

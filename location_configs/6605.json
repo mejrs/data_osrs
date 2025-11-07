@@ -1,0 +1,17 @@
+{
+  "id": 6605,
+  "name": "Water",
+  "models_2": [
+    3951
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

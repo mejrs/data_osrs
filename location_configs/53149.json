@@ -1,0 +1,12 @@
+{
+  "id": 53149,
+  "name": "Toadstool",
+  "models_2": [
+    42533
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 30
+}

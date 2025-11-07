@@ -1,0 +1,19 @@
+{
+  "id": 46443,
+  "name": "Christmas portal",
+  "models_2": [
+    46930
+  ],
+  "dim_x": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

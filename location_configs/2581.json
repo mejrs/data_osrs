@@ -1,0 +1,15 @@
+{
+  "id": 2581,
+  "name": "Rock",
+  "models_2": [
+    1388
+  ],
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "mapscene": 12
+}

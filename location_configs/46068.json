@@ -1,0 +1,20 @@
+{
+  "id": 46068,
+  "name": "Grouping Obelisk",
+  "models_2": [
+    46201
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "model": false
+}

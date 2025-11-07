@@ -1,0 +1,43 @@
+{
+  "id": 47141,
+  "name": "Cave Entrance",
+  "models_2": [
+    47229
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Enter",
+    "Peek",
+    "Check-Fee",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6036,
+      24
+    ],
+    [
+      5008,
+      20
+    ],
+    [
+      1932,
+      16
+    ],
+    [
+      904,
+      12
+    ],
+    [
+      900,
+      138
+    ]
+  ],
+  "model": false,
+  "unknown_69": 27
+}

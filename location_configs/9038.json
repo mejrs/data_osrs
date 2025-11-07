@@ -1,0 +1,36 @@
+{
+  "id": 9038,
+  "models": [
+    [
+      10,
+      2192
+    ],
+    [
+      0,
+      2202
+    ],
+    [
+      2,
+      2203
+    ],
+    [
+      3,
+      2204
+    ],
+    [
+      9,
+      2205
+    ]
+  ],
+  "name": "Hardwood Grove Doors",
+  "occludes_1": false,
+  "ambient": 10,
+  "actions": [
+    "Open",
+    "Quick-Pay(100)",
+    null,
+    null,
+    null
+  ],
+  "contrast": 100
+}

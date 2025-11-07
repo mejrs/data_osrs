@@ -1,0 +1,19 @@
+{
+  "id": 54149,
+  "name": "Scoreboard",
+  "models_2": [
+    54308
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

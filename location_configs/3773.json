@@ -1,0 +1,22 @@
+{
+  "id": 3773,
+  "models": [
+    [
+      0,
+      3799
+    ]
+  ],
+  "name": "Exit",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mirror": true
+}

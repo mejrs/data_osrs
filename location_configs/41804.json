@@ -1,0 +1,18 @@
+{
+  "id": 41804,
+  "name": "Skeleton",
+  "models_2": [
+    1079
+  ],
+  "unknown_17": false,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 1561
+}

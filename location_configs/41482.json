@@ -1,0 +1,12 @@
+{
+  "id": 41482,
+  "name": "Big Door",
+  "models_2": [
+    42023
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "contrast": 10
+}

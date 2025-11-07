@@ -1,0 +1,12 @@
+{
+  "id": 57105,
+  "name": "Eagle totem",
+  "models_2": [
+    56999
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

@@ -1,0 +1,18 @@
+{
+  "id": 49611,
+  "name": "Singing bowl",
+  "models_2": [
+    49778
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Sing-crystal",
+    null,
+    null,
+    null,
+    null
+  ]
+}

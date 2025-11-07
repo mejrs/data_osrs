@@ -1,0 +1,15 @@
+{
+  "id": 4378,
+  "name": "Standard Stand",
+  "models_2": [
+    4416
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Capture",
+    null,
+    null,
+    null,
+    null
+  ]
+}

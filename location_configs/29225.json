@@ -1,0 +1,45 @@
+{
+  "id": 29225,
+  "name": "Mounted Woodcutting Cape (t)",
+  "models_2": [
+    32201
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      25114
+    ],
+    [
+      54183,
+      24088
+    ],
+    [
+      54503,
+      25486
+    ],
+    [
+      960,
+      6579
+    ],
+    [
+      22464,
+      6699
+    ],
+    [
+      43968,
+      6819
+    ]
+  ],
+  "category": 206
+}

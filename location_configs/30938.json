@@ -1,0 +1,16 @@
+{
+  "id": 30938,
+  "name": "Ladder",
+  "models_2": [
+    33911
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb Up",
+    null,
+    null,
+    null,
+    null
+  ]
+}

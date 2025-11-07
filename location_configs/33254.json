@@ -1,0 +1,27 @@
+{
+  "id": 33254,
+  "name": "Urt salt rocks",
+  "models_2": [
+    35864
+  ],
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      20166,
+      21704
+    ],
+    [
+      7322,
+      32805
+    ]
+  ]
+}

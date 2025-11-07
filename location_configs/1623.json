@@ -1,0 +1,28 @@
+{
+  "id": 1623,
+  "models": [
+    [
+      0,
+      651
+    ],
+    [
+      1,
+      652
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      24,
+      9098
+    ]
+  ],
+  "textures": {
+    "2": 23
+  }
+}

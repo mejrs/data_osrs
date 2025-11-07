@@ -1,0 +1,18 @@
+{
+  "id": 51035,
+  "name": "Water",
+  "models_2": [
+    52867
+  ],
+  "unknown_19": 1,
+  "unknown_24": 6024,
+  "ambient": -20,
+  "contrast": 50,
+  "scale_x": 192,
+  "scale_z": 192,
+  "unknown_78": {
+    "unknown_1": 2150,
+    "unknown_2": 5
+  },
+  "mapscene": 75
+}

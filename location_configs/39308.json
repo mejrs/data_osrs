@@ -1,0 +1,11 @@
+{
+  "id": 39308,
+  "name": "Root",
+  "models_2": [
+    40530
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 10
+}

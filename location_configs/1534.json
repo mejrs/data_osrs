@@ -1,0 +1,25 @@
+{
+  "id": 1534,
+  "models": [
+    [
+      0,
+      879
+    ],
+    [
+      9,
+      880
+    ]
+  ],
+  "name": "Curtain",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 1,
+  "unknown_75": 0
+}

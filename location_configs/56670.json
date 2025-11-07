@@ -1,0 +1,15 @@
+{
+  "id": 56670,
+  "name": "Strange Tile",
+  "models_2": [
+    57150
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 8688,
+  "ambient": 20,
+  "contrast": 80,
+  "category": 2198,
+  "translate_y": 65529
+}

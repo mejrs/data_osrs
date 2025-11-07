@@ -1,0 +1,21 @@
+{
+  "id": 18081,
+  "models": [
+    [
+      22,
+      17755
+    ]
+  ],
+  "name": "Floor",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Walk-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65496,
+  "unknown_73": true
+}

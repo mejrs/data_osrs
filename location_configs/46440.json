@@ -1,0 +1,21 @@
+{
+  "id": 46440,
+  "models": [
+    [
+      0,
+      41498
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "translate_y": 1
+}

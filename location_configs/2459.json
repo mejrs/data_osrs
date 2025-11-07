@@ -1,0 +1,13 @@
+{
+  "id": 2459,
+  "name": "Crystal ball",
+  "models_2": [
+    17535
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 4627,
+  "ambient": 10,
+  "contrast": 10
+}

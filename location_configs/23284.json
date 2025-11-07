@@ -1,0 +1,23 @@
+{
+  "id": 23284,
+  "name": "<col=ffff00>Zanik</col>",
+  "models_2": [
+    24405
+  ],
+  "dim_y": 3,
+  "unknown_24": 6211,
+  "ambient": 20,
+  "actions": [
+    "Untie",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 29,
+  "mapscene": 82,
+  "params": {
+    "2312": 9
+  }
+}

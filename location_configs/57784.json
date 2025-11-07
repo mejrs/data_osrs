@@ -1,0 +1,12 @@
+{
+  "id": 57784,
+  "name": "Fur stall",
+  "models_2": [
+    58854,
+    1456
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 15
+}

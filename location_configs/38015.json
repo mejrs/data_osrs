@@ -1,0 +1,23 @@
+{
+  "id": 38015,
+  "name": "Blood Orb",
+  "models_2": [
+    7412
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 8652,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      17069,
+      931
+    ]
+  ],
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "translate_y": 65416
+}

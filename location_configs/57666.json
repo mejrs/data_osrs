@@ -1,0 +1,43 @@
+{
+  "id": 57666,
+  "name": "Rocks",
+  "models_2": [
+    11799
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Jump-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      30,
+      10266
+    ],
+    [
+      35,
+      10270
+    ],
+    [
+      39,
+      10275
+    ],
+    [
+      43,
+      10279
+    ],
+    [
+      47,
+      10283
+    ],
+    [
+      51,
+      10287
+    ]
+  ]
+}

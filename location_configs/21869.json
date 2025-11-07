@@ -1,0 +1,10 @@
+{
+  "id": 21869,
+  "name": "Cage",
+  "models_2": [
+    22636
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 10
+}

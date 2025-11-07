@@ -1,0 +1,17 @@
+{
+  "id": 39700,
+  "models": [
+    [
+      10,
+      40719
+    ],
+    [
+      22,
+      40718
+    ]
+  ],
+  "name": "Flowers",
+  "unknown_17": false,
+  "ambient": 20,
+  "contrast": 10
+}

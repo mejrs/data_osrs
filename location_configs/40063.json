@@ -1,0 +1,14 @@
+{
+  "id": 40063,
+  "name": "Chair",
+  "models_2": [
+    12450
+  ],
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ]
+}

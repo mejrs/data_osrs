@@ -1,0 +1,17 @@
+{
+  "id": 34872,
+  "name": "Broken sun altar",
+  "models_2": [
+    37300
+  ],
+  "dim_x": 4,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ]
+}

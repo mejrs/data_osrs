@@ -1,0 +1,18 @@
+{
+  "id": 27774,
+  "name": "Drawers",
+  "models_2": [
+    30287
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Pick-lock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 906,
+  "unknown_69": 29
+}

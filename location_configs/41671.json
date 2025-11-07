@@ -1,0 +1,11 @@
+{
+  "id": 41671,
+  "name": "Fortified gate",
+  "models_2": [
+    42244
+  ],
+  "dim_x": 2,
+  "ambient": 10,
+  "contrast": 10,
+  "scale_y": 90
+}

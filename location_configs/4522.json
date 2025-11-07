@@ -1,0 +1,15 @@
+{
+  "id": 4522,
+  "name": "Bookcase space",
+  "models_2": [
+    12652
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

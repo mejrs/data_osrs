@@ -1,0 +1,30 @@
+{
+  "id": 8584,
+  "name": "Onion",
+  "models_2": [
+    8211,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    "Harvest",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13508,
+      8644
+    ],
+    [
+      9552,
+      7613
+    ],
+    [
+      12616,
+      4535
+    ]
+  ]
+}

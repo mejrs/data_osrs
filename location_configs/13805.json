@@ -1,0 +1,19 @@
+{
+  "id": 13805,
+  "models": [
+    [
+      4,
+      13089
+    ]
+  ],
+  "name": "Oak wall decoration",
+  "ambient": 30,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

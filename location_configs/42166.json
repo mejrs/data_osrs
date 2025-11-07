@@ -1,0 +1,12 @@
+{
+  "id": 42166,
+  "name": "Ceremonial Pillow Stack",
+  "models_2": [
+    42361
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

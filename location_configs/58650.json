@@ -1,0 +1,16 @@
+{
+  "id": 58650,
+  "name": "Loom space",
+  "models_2": [
+    58761
+  ],
+  "ambient": 10,
+  "actions": [
+    "Build",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

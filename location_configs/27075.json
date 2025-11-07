@@ -1,0 +1,19 @@
+{
+  "id": 27075,
+  "models": [
+    [
+      0,
+      29733
+    ]
+  ],
+  "name": "Stained-glass window",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "translate_y": 1
+}

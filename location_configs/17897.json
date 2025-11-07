@@ -1,0 +1,12 @@
+{
+  "id": 17897,
+  "name": "Lab tube",
+  "models_2": [
+    17877
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "translate_y": 65535
+}

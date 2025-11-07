@@ -1,0 +1,24 @@
+{
+  "id": 30066,
+  "models": [
+    [
+      22,
+      32758
+    ]
+  ],
+  "name": "Energy well",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

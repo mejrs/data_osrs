@@ -1,0 +1,28 @@
+{
+  "id": 3559,
+  "models": [
+    [
+      22,
+      3631
+    ]
+  ],
+  "name": "Balancing ledge",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Walk-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6573,
+      6449
+    ]
+  ],
+  "category": 171,
+  "unknown_73": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 40246,
+  "name": "<col=ffff00>General Graardor Jr.",
+  "models_2": [
+    27660,
+    27665
+  ],
+  "unknown_24": 8765,
+  "ambient": 30,
+  "contrast": 30,
+  "scale_x": 30,
+  "scale_y": 30,
+  "scale_z": 30
+}

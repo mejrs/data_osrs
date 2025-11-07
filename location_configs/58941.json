@@ -1,0 +1,18 @@
+{
+  "id": 58941,
+  "name": "Crystal of Amlodd",
+  "models_2": [
+    58172
+  ],
+  "colours": [
+    [
+      32993,
+      39607
+    ]
+  ],
+  "model": false,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "translate_y": 140
+}

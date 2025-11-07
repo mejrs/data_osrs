@@ -1,0 +1,14 @@
+{
+  "id": 28826,
+  "name": "Large boulder",
+  "models_2": [
+    6565,
+    6563
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 7256,
+  "category": 949,
+  "unknown_69": 29,
+  "mapscene": 71
+}

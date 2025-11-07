@@ -1,0 +1,16 @@
+{
+  "id": 13570,
+  "name": "Asgarnian ale",
+  "models_2": [
+    12386
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6845,
+  "name": "Ogre Coffin",
+  "models_2": [
+    6787
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      6930
+    ],
+    [
+      7475,
+      6558
+    ]
+  ]
+}

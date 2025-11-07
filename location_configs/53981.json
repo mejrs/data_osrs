@@ -1,0 +1,11 @@
+{
+  "id": 53981,
+  "name": "Display dial",
+  "models_2": [
+    53886
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15
+}

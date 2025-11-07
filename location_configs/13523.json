@@ -1,0 +1,20 @@
+{
+  "id": 13523,
+  "models": [
+    [
+      4,
+      12153
+    ]
+  ],
+  "name": "Amulet of Glory",
+  "ambient": 25,
+  "actions": [
+    "Edgeville",
+    "Karamja",
+    "Draynor Village",
+    "Al Kharid",
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

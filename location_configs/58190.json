@@ -1,0 +1,14 @@
+{
+  "id": 58190,
+  "name": "Plinth",
+  "models_2": [
+    34841
+  ],
+  "unknown_19": 1,
+  "unknown_24": 7921,
+  "ambient": 20,
+  "category": 1820,
+  "scale_x": 94,
+  "scale_y": 94,
+  "scale_z": 94
+}

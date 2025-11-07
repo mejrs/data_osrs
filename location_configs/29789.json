@@ -1,0 +1,28 @@
+{
+  "id": 29789,
+  "name": "Passage",
+  "models_2": [
+    32434
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      29574,
+      29194
+    ]
+  ],
+  "category": 1000
+}

@@ -1,0 +1,12 @@
+{
+  "id": 58203,
+  "name": "Lighting mechanism",
+  "models_2": [
+    4570,
+    4574
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 20
+}

@@ -1,0 +1,19 @@
+{
+  "id": 42520,
+  "models": [
+    [
+      0,
+      18595
+    ],
+    [
+      2,
+      35759
+    ]
+  ],
+  "name": "Arena",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "category": 1246,
+  "unknown_75": 0
+}

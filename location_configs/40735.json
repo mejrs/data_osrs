@@ -1,0 +1,27 @@
+{
+  "id": 40735,
+  "name": "Spinning Wheel",
+  "models_2": [
+    2248
+  ],
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Spin",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6051,
+      6315
+    ],
+    [
+      6049,
+      6315
+    ]
+  ],
+  "category": 971,
+  "unknown_69": 27
+}

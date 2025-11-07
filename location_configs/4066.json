@@ -1,0 +1,24 @@
+{
+  "id": 4066,
+  "name": "Signpost",
+  "models_2": [
+    1402
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6744,
+      7838
+    ],
+    [
+      29117,
+      916
+    ]
+  ]
+}

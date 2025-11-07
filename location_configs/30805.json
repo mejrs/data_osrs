@@ -1,0 +1,11 @@
+{
+  "id": 30805,
+  "name": "Ancient bush",
+  "models_2": [
+    33633
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 32295,
+  "name": "Swamp paste",
+  "models_2": [
+    34951,
+    34962
+  ],
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ]
+}

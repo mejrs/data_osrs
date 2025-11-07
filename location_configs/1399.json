@@ -1,0 +1,13 @@
+{
+  "id": 1399,
+  "name": "Jungle plant",
+  "models_2": [
+    1677
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "contrast": 15,
+  "model": false
+}

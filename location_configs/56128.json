@@ -1,0 +1,18 @@
+{
+  "id": 56128,
+  "name": "Vorkath head",
+  "models_2": [
+    35097
+  ],
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    "Trophies",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "unknown_69": 27
+}

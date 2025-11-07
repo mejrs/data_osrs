@@ -1,0 +1,19 @@
+{
+  "id": 15990,
+  "models": [
+    [
+      4,
+      15745
+    ]
+  ],
+  "name": "Blue Water Sign",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      935,
+      43943
+    ]
+  ]
+}

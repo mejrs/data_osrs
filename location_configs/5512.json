@@ -1,0 +1,33 @@
+{
+  "id": 5512,
+  "models_2": [
+    3722
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      5276,
+      6930
+    ],
+    [
+      10396,
+      6806
+    ],
+    [
+      5281,
+      6682
+    ],
+    [
+      7335,
+      6558
+    ]
+  ],
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "mapscene": 24
+}

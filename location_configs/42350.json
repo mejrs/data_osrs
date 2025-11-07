@@ -1,0 +1,18 @@
+{
+  "id": 42350,
+  "name": "Vine",
+  "models_2": [
+    37320
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29,
+  "mapscene": 7
+}

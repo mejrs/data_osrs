@@ -1,0 +1,19 @@
+{
+  "id": 37349,
+  "name": "Lectern",
+  "models_2": [
+    8259
+  ],
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 30,
+  "params": {
+    "1862": 1
+  }
+}

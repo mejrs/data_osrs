@@ -1,0 +1,18 @@
+{
+  "id": 26206,
+  "name": "Seed vault",
+  "models_2": [
+    29130
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

@@ -1,0 +1,17 @@
+{
+  "id": 48579,
+  "name": "Rock",
+  "models_2": [
+    805
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 5,
+  "contrast": 20,
+  "colours": [
+    [
+      6689,
+      47
+    ]
+  ]
+}

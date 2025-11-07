@@ -1,0 +1,19 @@
+{
+  "id": 24802,
+  "name": "Grate",
+  "models_2": [
+    26008
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

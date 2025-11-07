@@ -1,0 +1,21 @@
+{
+  "id": 59768,
+  "name": "Fathom pearl",
+  "models_2": [
+    58195
+  ],
+  "is_transparent": true,
+  "unknown_24": 13437,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Quick-locate",
+    "Locate-shoal",
+    "Deactivate",
+    null,
+    "Modify"
+  ],
+  "contrast": 15,
+  "category": 2338,
+  "unknown_69": 30
+}

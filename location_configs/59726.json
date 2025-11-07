@@ -1,0 +1,12 @@
+{
+  "id": 59726,
+  "name": "Large workbench",
+  "models_2": [
+    58882
+  ],
+  "dim_x": 3,
+  "dim_y": 8,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

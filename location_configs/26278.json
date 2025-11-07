@@ -1,0 +1,15 @@
+{
+  "id": 26278,
+  "name": "Super magic potion",
+  "models_2": [
+    12388
+  ],
+  "actions": [
+    "Check",
+    "Take",
+    "Store",
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

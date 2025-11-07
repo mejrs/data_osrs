@@ -1,0 +1,21 @@
+{
+  "id": 20848,
+  "models": [
+    [
+      0,
+      7371
+    ]
+  ],
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1470,
+  "mirror": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 300,
+  "name": "Haystack",
+  "models_2": [
+    1455
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 43468,
+  "name": "Loot Chest",
+  "models_2": [
+    40630
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Loot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_z": 65520
+}

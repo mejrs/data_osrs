@@ -1,0 +1,22 @@
+{
+  "id": 14994,
+  "name": "Pile of fish",
+  "models_2": [
+    16238
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Jump-in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 382,
+  "scale_z": 382,
+  "unknown_69": 29,
+  "unknown_73": true
+}

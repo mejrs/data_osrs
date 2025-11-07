@@ -1,0 +1,15 @@
+{
+  "id": 2222,
+  "name": "Loose rocks",
+  "models_2": [
+    1411
+  ],
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

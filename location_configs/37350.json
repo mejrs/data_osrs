@@ -1,0 +1,12 @@
+{
+  "id": 37350,
+  "name": "Hull",
+  "models_2": [
+    58299
+  ],
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 15
+}

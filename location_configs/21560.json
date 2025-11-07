@@ -1,0 +1,45 @@
+{
+  "id": 21560,
+  "name": "Exit cavern",
+  "models_2": [
+    12037
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Exit-cave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7580,
+      7331
+    ],
+    [
+      7704,
+      7326
+    ],
+    [
+      7700,
+      8472
+    ],
+    [
+      7952,
+      8481
+    ],
+    [
+      8076,
+      7326
+    ],
+    [
+      9098,
+      7331
+    ]
+  ],
+  "unknown_73": true
+}

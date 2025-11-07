@@ -1,0 +1,14 @@
+{
+  "id": 33189,
+  "name": "Cliff",
+  "models_2": [
+    16238
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "model": false
+}

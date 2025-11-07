@@ -1,0 +1,20 @@
+{
+  "id": 13512,
+  "models": [
+    [
+      4,
+      12524
+    ]
+  ],
+  "name": "Painting",
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

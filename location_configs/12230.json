@@ -1,0 +1,17 @@
+{
+  "id": 12230,
+  "name": "Rope",
+  "models_2": [
+    12039
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ]
+}

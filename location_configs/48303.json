@@ -1,0 +1,38 @@
+{
+  "id": 48303,
+  "name": "Ladder",
+  "models_2": [
+    49051
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": -10,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 45,
+  "colours": [
+    [
+      3350,
+      43034
+    ],
+    [
+      3346,
+      43026
+    ],
+    [
+      3470,
+      43156
+    ],
+    [
+      3594,
+      43150
+    ]
+  ],
+  "unknown_69": 30,
+  "mapscene": 69
+}

@@ -1,0 +1,18 @@
+{
+  "id": 27990,
+  "name": "Boulder",
+  "models_2": [
+    7766
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27,
+  "unknown_73": true
+}

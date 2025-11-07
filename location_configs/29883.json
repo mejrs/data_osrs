@@ -1,0 +1,14 @@
+{
+  "id": 29883,
+  "name": "Large rock",
+  "models_2": [
+    32526,
+    32525
+  ],
+  "dim_x": 5,
+  "dim_y": 8,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 7353,
+  "translate_y": 65535
+}

@@ -1,0 +1,44 @@
+{
+  "id": 42939,
+  "name": "Ancient Barrier",
+  "models_2": [
+    43208
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 9203,
+  "ambient": 60,
+  "actions": [
+    "Pass",
+    null,
+    "Peek",
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      55180,
+      906
+    ],
+    [
+      55068,
+      796
+    ],
+    [
+      54839,
+      563
+    ],
+    [
+      54606,
+      334
+    ],
+    [
+      54503,
+      231
+    ]
+  ],
+  "model": false,
+  "translate_y": 65535
+}

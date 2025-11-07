@@ -1,0 +1,23 @@
+{
+  "id": 33348,
+  "models": [
+    [
+      0,
+      36020
+    ]
+  ],
+  "name": "Big window",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

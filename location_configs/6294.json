@@ -1,0 +1,25 @@
+{
+  "id": 6294,
+  "name": "Display case",
+  "models_2": [
+    6196
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8860,
+      6080
+    ],
+    [
+      70,
+      43117
+    ]
+  ]
+}

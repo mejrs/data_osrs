@@ -1,0 +1,16 @@
+{
+  "id": 59988,
+  "name": "Sailors' Marker",
+  "models_2": [
+    58855
+  ],
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

@@ -1,0 +1,20 @@
+{
+  "id": 58649,
+  "name": "Spinning wheel",
+  "models_2": [
+    33924
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Spin",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 27
+}

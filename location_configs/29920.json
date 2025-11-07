@@ -1,0 +1,14 @@
+{
+  "id": 29920,
+  "name": "Beacon",
+  "models_2": [
+    5947
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 1869,
+  "scale_x": 200,
+  "scale_y": 128,
+  "scale_z": 200
+}

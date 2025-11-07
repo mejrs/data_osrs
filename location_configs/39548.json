@@ -1,0 +1,20 @@
+{
+  "id": 39548,
+  "name": "Death's Domain",
+  "models_2": [
+    40637
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 8750,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1457
+}

@@ -1,0 +1,23 @@
+{
+  "id": 29247,
+  "name": "Zen theme",
+  "models_2": [
+    32132
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "scale_x": 120,
+  "scale_y": 120,
+  "scale_z": 120
+}

@@ -1,0 +1,25 @@
+{
+  "id": 56314,
+  "models_2": [
+    52470
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 40,
+  "colours": [
+    [
+      5388,
+      4
+    ],
+    [
+      5656,
+      2962
+    ],
+    [
+      5931,
+      2977
+    ]
+  ],
+  "model": false
+}

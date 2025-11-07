@@ -1,0 +1,22 @@
+{
+  "id": 3309,
+  "name": "Rockslide",
+  "models_2": [
+    781
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7964
+    ]
+  ],
+  "mapscene": 12
+}

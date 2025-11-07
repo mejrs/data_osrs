@@ -1,0 +1,15 @@
+{
+  "id": 28946,
+  "name": "Inconspicuous rocks (elite)",
+  "models_2": [
+    32059
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ]
+}

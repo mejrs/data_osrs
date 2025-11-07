@@ -1,0 +1,39 @@
+{
+  "id": 32325,
+  "name": "Ship",
+  "models_2": [
+    5306
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      12579,
+      5553
+    ],
+    [
+      12574,
+      5553
+    ],
+    [
+      12698,
+      5553
+    ],
+    [
+      12694,
+      5553
+    ],
+    [
+      12818,
+      5673
+    ]
+  ]
+}

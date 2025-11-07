@@ -1,0 +1,16 @@
+{
+  "id": 49206,
+  "name": "Closed Passage",
+  "models_2": [
+    48879
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 20,
+  "model": false,
+  "scale_y": 166
+}

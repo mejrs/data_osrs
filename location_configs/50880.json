@@ -1,0 +1,19 @@
+{
+  "id": 50880,
+  "name": "Pile of equipment",
+  "models_2": [
+    52371
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Set-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

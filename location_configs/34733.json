@@ -1,0 +1,20 @@
+{
+  "id": 34733,
+  "name": "<col=ffff00>Strange casket</col>",
+  "models_2": [
+    37096
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "unknown_69": 27,
+  "mapscene": 82
+}

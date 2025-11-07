@@ -1,0 +1,11 @@
+{
+  "id": 25383,
+  "name": "Blockage",
+  "models_2": [
+    7430
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1355,
+  "name": "Tree stump",
+  "models_2": [
+    1652
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 15,
+  "contrast": 20,
+  "colours": [
+    [
+      3470,
+      5665
+    ]
+  ],
+  "unknown_81": 80
+}

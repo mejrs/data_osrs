@@ -1,0 +1,31 @@
+{
+  "id": 29764,
+  "name": "Stump",
+  "models_2": [
+    1685
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6028,
+      7591
+    ],
+    [
+      7054,
+      7591
+    ]
+  ],
+  "category": 996,
+  "scale_x": 96,
+  "scale_y": 140,
+  "scale_z": 96
+}

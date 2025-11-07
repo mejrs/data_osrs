@@ -1,0 +1,15 @@
+{
+  "id": 34677,
+  "name": "Verzik Vitur display",
+  "models_2": [
+    36978
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_27": false,
+  "ambient": 20,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "translate_y": 65532
+}

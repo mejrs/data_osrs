@@ -1,0 +1,17 @@
+{
+  "id": 5131,
+  "name": "Short Plant",
+  "models_2": [
+    12935
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

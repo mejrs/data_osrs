@@ -1,0 +1,16 @@
+{
+  "id": 8159,
+  "name": "Asgarnian Hops",
+  "models_2": [
+    8205,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    "Harvest",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

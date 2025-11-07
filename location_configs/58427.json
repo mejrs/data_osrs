@@ -1,0 +1,20 @@
+{
+  "id": 58427,
+  "name": "Broken crafting stall",
+  "models_2": [
+    58840,
+    58847
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

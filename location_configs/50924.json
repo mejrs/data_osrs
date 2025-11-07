@@ -1,0 +1,27 @@
+{
+  "id": 50924,
+  "models": [
+    [
+      0,
+      44164
+    ],
+    [
+      1,
+      44166
+    ],
+    [
+      9,
+      44163
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": -20,
+  "contrast": 10,
+  "model": false,
+  "scale_y": 32,
+  "translate_y": 65534
+}

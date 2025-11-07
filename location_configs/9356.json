@@ -1,0 +1,16 @@
+{
+  "id": 9356,
+  "name": "Ornate wilderness combat dummy",
+  "models_2": [
+    4906
+  ],
+  "ambient": 25,
+  "actions": [
+    "Attach",
+    null,
+    null,
+    "Swap",
+    "Remove"
+  ],
+  "category": 206
+}

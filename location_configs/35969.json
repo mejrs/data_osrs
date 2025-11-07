@@ -1,0 +1,20 @@
+{
+  "id": 35969,
+  "name": "Corrupt Phren Roots",
+  "models_2": [
+    37609
+  ],
+  "ambient": 30,
+  "actions": [
+    "Chop",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 44,
+  "category": 1355,
+  "scale_x": 104,
+  "scale_y": 104,
+  "scale_z": 104
+}

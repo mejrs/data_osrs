@@ -1,0 +1,9 @@
+{
+  "id": 50127,
+  "name": "Statue of a king",
+  "models_2": [
+    50681
+  ],
+  "dim_y": 2,
+  "is_transparent": true
+}

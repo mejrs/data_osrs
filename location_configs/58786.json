@@ -1,0 +1,19 @@
+{
+  "id": 58786,
+  "name": "Rosewood tree stump",
+  "models_2": [
+    58678,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 20
+}

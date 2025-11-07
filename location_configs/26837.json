@@ -1,0 +1,17 @@
+{
+  "id": 26837,
+  "name": "Igloo",
+  "models_2": [
+    28929
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

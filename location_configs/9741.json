@@ -1,0 +1,36 @@
+{
+  "id": 9741,
+  "models": [
+    [
+      0,
+      1003
+    ],
+    [
+      1,
+      1004
+    ],
+    [
+      2,
+      1005
+    ],
+    [
+      3,
+      1006
+    ],
+    [
+      9,
+      1007
+    ]
+  ],
+  "name": "Wall",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ]
+}

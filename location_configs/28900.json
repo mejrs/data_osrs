@@ -1,0 +1,25 @@
+{
+  "id": 28900,
+  "models": [
+    [
+      10,
+      31600
+    ],
+    [
+      13,
+      31657
+    ]
+  ],
+  "name": "Altar",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 1471,
+  "actions": [
+    "Teleport",
+    null,
+    null,
+    null,
+    null
+  ]
+}

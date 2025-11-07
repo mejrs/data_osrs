@@ -1,0 +1,19 @@
+{
+  "id": 10091,
+  "name": "Aquarium",
+  "models_2": [
+    1491
+  ],
+  "unknown_24": 447,
+  "actions": [
+    "Fish-in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 3074,
+    "unknown_2": 3
+  }
+}

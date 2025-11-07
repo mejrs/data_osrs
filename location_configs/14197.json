@@ -1,0 +1,14 @@
+{
+  "id": 14197,
+  "name": "Chest",
+  "models_2": [
+    24083
+  ],
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

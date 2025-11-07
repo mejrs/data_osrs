@@ -1,0 +1,19 @@
+{
+  "id": 48200,
+  "name": "Puddle",
+  "models_2": [
+    49398
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 30,
+  "model": false,
+  "scale_x": 250,
+  "scale_z": 250,
+  "translate_y": 65534
+}

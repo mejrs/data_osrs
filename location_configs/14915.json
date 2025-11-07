@@ -1,0 +1,33 @@
+{
+  "id": 14915,
+  "models": [
+    [
+      10,
+      1465
+    ],
+    [
+      22,
+      20043
+    ]
+  ],
+  "name": "Sand",
+  "unknown_17": false,
+  "unknown_21": true,
+  "actions": [
+    "Look",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6798,
+      8640
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "unknown_75": 1
+}

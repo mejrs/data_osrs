@@ -1,0 +1,19 @@
+{
+  "id": 8487,
+  "name": "Willow tree",
+  "models_2": [
+    8137,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Check-health",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "mapscene": 3
+}

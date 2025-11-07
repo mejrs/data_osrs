@@ -1,0 +1,26 @@
+{
+  "id": 31697,
+  "name": "Rocks",
+  "models_2": [
+    818
+  ],
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7851
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

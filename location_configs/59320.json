@@ -1,0 +1,43 @@
+{
+  "id": 59320,
+  "name": "Dragon scales",
+  "models_2": [
+    58880
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      7748,
+      805
+    ],
+    [
+      7741,
+      924
+    ],
+    [
+      7609,
+      920
+    ],
+    [
+      7727,
+      918
+    ],
+    [
+      7735,
+      798
+    ],
+    [
+      5404,
+      3974
+    ]
+  ],
+  "category": 2317
+}

@@ -1,0 +1,23 @@
+{
+  "id": 33219,
+  "models": [
+    [
+      0,
+      35910
+    ]
+  ],
+  "name": "Fence",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 7,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 7,
+  "model": false
+}

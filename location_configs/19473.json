@@ -1,0 +1,14 @@
+{
+  "id": 19473,
+  "name": "Stone pedestal",
+  "models_2": [
+    20062
+  ],
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

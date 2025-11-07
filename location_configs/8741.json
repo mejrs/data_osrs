@@ -1,0 +1,21 @@
+{
+  "id": 8741,
+  "models": [
+    [
+      0,
+      8364
+    ]
+  ],
+  "name": "Ardougne Wall Door",
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mirror": true
+}

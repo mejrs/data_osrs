@@ -1,0 +1,19 @@
+{
+  "id": 30520,
+  "name": "Mushroom",
+  "models_2": [
+    33840
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -20,
+  "actions": [
+    "Inspect",
+    "Check count",
+    "Toggle warning",
+    null,
+    null
+  ],
+  "contrast": 112
+}

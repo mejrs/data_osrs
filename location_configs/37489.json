@@ -1,0 +1,28 @@
+{
+  "id": 37489,
+  "name": "Dragon trophy display",
+  "models_2": [
+    38996
+  ],
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      41,
+      5652
+    ],
+    [
+      33,
+      5904
+    ],
+    [
+      24,
+      6798
+    ],
+    [
+      20,
+      7050
+    ]
+  ]
+}

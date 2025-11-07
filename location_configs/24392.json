@@ -1,0 +1,21 @@
+{
+  "id": 24392,
+  "models": [
+    [
+      4,
+      25352
+    ]
+  ],
+  "name": "Map",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Look-at",
+    "Take",
+    null,
+    null,
+    null
+  ],
+  "category": 688
+}

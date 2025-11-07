@@ -1,0 +1,16 @@
+{
+  "id": 56380,
+  "name": "Chest",
+  "models_2": [
+    53207
+  ],
+  "ambient": 30,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13661,
+  "name": "Crystal of power",
+  "models_2": [
+    12953
+  ],
+  "unknown_24": 3581,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,27 @@
+{
+  "id": 9006,
+  "name": "Teak Pyre",
+  "models_2": [
+    4138
+  ],
+  "dim_y": 3,
+  "unknown_24": 1304,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7050,
+      6585
+    ],
+    [
+      7582,
+      5665
+    ]
+  ],
+  "category": 2051
+}

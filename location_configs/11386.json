@@ -1,0 +1,23 @@
+{
+  "id": 11386,
+  "name": "Sandstone rocks",
+  "models_2": [
+    1390
+  ],
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      24,
+      6949
+    ]
+  ]
+}

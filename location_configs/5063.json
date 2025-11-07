@@ -1,0 +1,11 @@
+{
+  "id": 5063,
+  "name": "Wooden doors",
+  "models_2": [
+    627
+  ],
+  "dim_x": 2,
+  "mirror": true,
+  "translate_y": 65436,
+  "translate_z": 15
+}

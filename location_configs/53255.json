@@ -1,0 +1,19 @@
+{
+  "id": 53255,
+  "models": [
+    [
+      4,
+      53141
+    ]
+  ],
+  "name": "Climbing rocks",
+  "ambient": -5,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

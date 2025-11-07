@@ -1,0 +1,21 @@
+{
+  "id": 31734,
+  "name": "Stairs",
+  "models_2": [
+    7766
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 639,
+  "unknown_69": 30,
+  "unknown_73": true,
+  "mapscene": 7
+}

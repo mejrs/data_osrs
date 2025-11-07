@@ -1,0 +1,18 @@
+{
+  "id": 27430,
+  "name": "Seed table",
+  "models_2": [
+    30132
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 52107,
+  "models": [
+    [
+      3,
+      51816
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 25,
+  "scale_y": 192,
+  "translate_y": 1
+}

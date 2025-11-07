@@ -1,0 +1,24 @@
+{
+  "id": 2240,
+  "models": [
+    [
+      10,
+      611
+    ],
+    [
+      1,
+      607
+    ]
+  ],
+  "name": "Carved doors",
+  "dim_x": 2,
+  "actions": [
+    "Open",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65436,
+  "translate_z": 75
+}

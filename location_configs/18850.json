@@ -1,0 +1,12 @@
+{
+  "id": 18850,
+  "name": "New farming patch",
+  "models_2": [
+    19141
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "category": 562
+}

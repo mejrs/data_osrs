@@ -1,0 +1,16 @@
+{
+  "id": 13155,
+  "name": "Shoe box",
+  "models_2": [
+    11129
+  ],
+  "actions": [
+    "Change-clothes",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

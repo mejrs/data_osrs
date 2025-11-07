@@ -1,0 +1,16 @@
+{
+  "id": 11017,
+  "name": "Brazier",
+  "models_2": [
+    10991,
+    10878
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

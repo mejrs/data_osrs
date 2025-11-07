@@ -1,0 +1,17 @@
+{
+  "id": 42820,
+  "name": "Portal",
+  "models_2": [
+    42962
+  ],
+  "unknown_24": 9016,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

@@ -1,0 +1,21 @@
+{
+  "id": 25442,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 3105,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 3837,
+    "ids": [
+      25440,
+      25441
+    ]
+  }
+}

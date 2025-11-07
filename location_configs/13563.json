@@ -1,0 +1,19 @@
+{
+  "id": 13563,
+  "name": "Sink",
+  "models_2": [
+    13220,
+    13215
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 29
+}

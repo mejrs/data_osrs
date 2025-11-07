@@ -1,0 +1,28 @@
+{
+  "id": 48305,
+  "models": [
+    [
+      10,
+      11160
+    ],
+    [
+      1,
+      48315
+    ]
+  ],
+  "name": "Ancient Pillar",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256
+}

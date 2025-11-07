@@ -1,0 +1,15 @@
+{
+  "id": 13329,
+  "name": "Ladder",
+  "models_2": [
+    12496
+  ],
+  "actions": [
+    "Climb",
+    null,
+    null,
+    "Remove-room",
+    "Remove"
+  ],
+  "category": 206
+}

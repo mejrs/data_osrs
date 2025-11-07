@@ -1,0 +1,23 @@
+{
+  "id": 52576,
+  "name": "<col=ffff00>Dairy Buffalo</col>",
+  "models_2": [
+    52519
+  ],
+  "dim_y": 2,
+  "unknown_24": 5855,
+  "ambient": 20,
+  "actions": [
+    "Milk",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 2218,
+  "unknown_69": 29,
+  "params": {
+    "2312": 9
+  }
+}

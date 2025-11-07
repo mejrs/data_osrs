@@ -1,0 +1,17 @@
+{
+  "id": 56231,
+  "name": "Staircase",
+  "models_2": [
+    1287
+  ],
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    "Bottom-floor",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29,
+  "mapscene": 7
+}

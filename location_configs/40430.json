@@ -1,0 +1,16 @@
+{
+  "id": 40430,
+  "name": "Ornate vampyre combat dummy",
+  "models_2": [
+    4908
+  ],
+  "ambient": 25,
+  "actions": [
+    "Attach",
+    null,
+    null,
+    "Swap",
+    "Remove"
+  ],
+  "category": 206
+}

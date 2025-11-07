@@ -1,0 +1,27 @@
+{
+  "id": 3526,
+  "name": "Grotto",
+  "models_2": [
+    3578
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7580,
+      12837
+    ],
+    [
+      7471,
+      15023
+    ]
+  ]
+}

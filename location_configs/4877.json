@@ -1,0 +1,14 @@
+{
+  "id": 4877,
+  "name": "Magic Stall",
+  "models_2": [
+    4761
+  ],
+  "actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ]
+}

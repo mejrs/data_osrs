@@ -1,0 +1,28 @@
+{
+  "id": 39922,
+  "name": "Broken Drawers",
+  "models_2": [
+    12959
+  ],
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      7830
+    ],
+    [
+      6682,
+      7954
+    ],
+    [
+      5908,
+      7830
+    ]
+  ]
+}

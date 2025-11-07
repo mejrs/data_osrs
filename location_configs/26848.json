@@ -1,0 +1,20 @@
+{
+  "id": 26848,
+  "models": [
+    [
+      22,
+      28940
+    ]
+  ],
+  "name": "Sand",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

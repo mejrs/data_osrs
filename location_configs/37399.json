@@ -1,0 +1,12 @@
+{
+  "id": 37399,
+  "name": "Boxes",
+  "models_2": [
+    2139
+  ],
+  "unknown_19": 1,
+  "ambient": 25,
+  "textures": {
+    "16": 22
+  }
+}

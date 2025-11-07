@@ -1,0 +1,16 @@
+{
+  "id": 10137,
+  "name": "Wooden Stair",
+  "models_2": [
+    9883
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7
+}

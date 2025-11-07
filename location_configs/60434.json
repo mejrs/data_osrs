@@ -1,0 +1,18 @@
+{
+  "id": 60434,
+  "name": "Bank boat",
+  "models_2": [
+    57668
+  ],
+  "dim_x": 2,
+  "dim_y": 6,
+  "is_transparent": true,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "category": 684
+}

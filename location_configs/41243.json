@@ -1,0 +1,15 @@
+{
+  "id": 41243,
+  "name": "Electrified harpoonfish cannon",
+  "models_2": [
+    41921
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_24": 8884,
+  "ambient": 20,
+  "contrast": 20,
+  "category": 1510,
+  "translate_y": 65519,
+  "unknown_89": false
+}

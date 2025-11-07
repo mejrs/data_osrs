@@ -1,0 +1,19 @@
+{
+  "id": 49583,
+  "name": "Deposit pot",
+  "models_2": [
+    49518
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": -10,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "category": 276
+}

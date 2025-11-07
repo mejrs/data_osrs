@@ -1,0 +1,11 @@
+{
+  "id": 21879,
+  "name": "Furnace",
+  "models_2": [
+    22649,
+    22650
+  ],
+  "dim_x": 2,
+  "ambient": 10,
+  "contrast": 10
+}

@@ -1,0 +1,22 @@
+{
+  "id": 15251,
+  "name": "Stalagmite",
+  "models_2": [
+    693
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5916,
+      61
+    ]
+  ]
+}

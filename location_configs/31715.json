@@ -1,0 +1,20 @@
+{
+  "id": 31715,
+  "name": "Lancalliums",
+  "models_2": [
+    24919,
+    24918
+  ],
+  "is_transparent": true,
+  "ambient": 15,
+  "colours": [
+    [
+      2729,
+      960
+    ],
+    [
+      17694,
+      18343
+    ]
+  ]
+}

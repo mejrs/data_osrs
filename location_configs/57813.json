@@ -1,0 +1,13 @@
+{
+  "id": 57813,
+  "name": "Tropical tree",
+  "models_2": [
+    58688
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "mapscene": 262
+}

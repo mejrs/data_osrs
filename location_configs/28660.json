@@ -1,0 +1,15 @@
+{
+  "id": 28660,
+  "name": "Tree",
+  "models_2": [
+    2013
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ]
+}

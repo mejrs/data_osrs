@@ -1,0 +1,17 @@
+{
+  "id": 31572,
+  "name": "Log storage",
+  "models_2": [
+    5238,
+    2967
+  ],
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Store",
+    "Preferences",
+    "Check",
+    null,
+    null
+  ]
+}

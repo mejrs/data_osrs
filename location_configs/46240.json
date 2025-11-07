@@ -1,0 +1,19 @@
+{
+  "id": 46240,
+  "models": [
+    [
+      4,
+      49830
+    ]
+  ],
+  "name": "Noticeboard",
+  "unknown_19": 1,
+  "ambient": 50,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

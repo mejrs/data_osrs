@@ -1,0 +1,16 @@
+{
+  "id": 9157,
+  "name": "Suit of armour",
+  "models_2": [
+    7400
+  ],
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      10467,
+      9028
+    ]
+  ]
+}

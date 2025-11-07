@@ -1,0 +1,14 @@
+{
+  "id": 32069,
+  "name": "Stone crate",
+  "models_2": [
+    35003
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "unknown_73": true
+}

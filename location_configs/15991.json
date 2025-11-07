@@ -1,0 +1,19 @@
+{
+  "id": 15991,
+  "models": [
+    [
+      4,
+      15784
+    ]
+  ],
+  "name": "Water Sign",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      935,
+      38860
+    ]
+  ]
+}

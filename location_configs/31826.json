@@ -1,0 +1,19 @@
+{
+  "id": 31826,
+  "models": [
+    [
+      4,
+      34421
+    ]
+  ],
+  "name": "Dream List",
+  "ambient": 15,
+  "actions": [
+    "Read",
+    "Reset-time",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

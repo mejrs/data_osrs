@@ -1,0 +1,19 @@
+{
+  "id": 8115,
+  "name": "Papaya tree",
+  "models_2": [
+    8083,
+    7767,
+    8087
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 30,
+  "actions": [
+    "Pick-fruit",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

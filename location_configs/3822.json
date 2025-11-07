@@ -1,0 +1,15 @@
+{
+  "id": 3822,
+  "name": "Goutweed Crate",
+  "models_2": [
+    3819
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

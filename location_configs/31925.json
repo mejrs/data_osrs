@@ -1,0 +1,11 @@
+{
+  "id": 31925,
+  "name": "Mounted Max Cape",
+  "models_2": [
+    32188
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "contrast": 5
+}

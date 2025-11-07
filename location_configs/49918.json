@@ -1,0 +1,20 @@
+{
+  "id": 49918,
+  "name": "Ventriculus opening",
+  "models_2": [
+    49792
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "ambient": 5,
+  "actions": [
+    "Deposit",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "scale_y": 166,
+  "unknown_69": 23
+}

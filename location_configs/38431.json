@@ -1,0 +1,26 @@
+{
+  "id": 38431,
+  "name": "Knight Statue",
+  "models_2": [
+    40140
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_24": 8665,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      43096,
+      10299
+    ],
+    [
+      898,
+      119
+    ]
+  ],
+  "category": 1439,
+  "mapscene": 99
+}

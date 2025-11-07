@@ -1,0 +1,15 @@
+{
+  "id": 40966,
+  "name": "Buckets",
+  "models_2": [
+    41839
+  ],
+  "ambient": 20,
+  "actions": [
+    "Take",
+    "Take-5",
+    "Take-10",
+    "Take-X",
+    null
+  ]
+}

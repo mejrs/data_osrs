@@ -1,0 +1,19 @@
+{
+  "id": 47495,
+  "name": "Droppings",
+  "models_2": [
+    48231
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 1786
+}

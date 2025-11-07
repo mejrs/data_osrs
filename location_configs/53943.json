@@ -1,0 +1,22 @@
+{
+  "id": 53943,
+  "name": "Treasure pile",
+  "models_2": [
+    53691,
+    53693,
+    53692
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 11166,
+  "ambient": 25,
+  "actions": [
+    "Take-from",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 29
+}

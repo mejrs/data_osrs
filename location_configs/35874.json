@@ -1,0 +1,23 @@
+{
+  "id": 35874,
+  "name": "Bench",
+  "models_2": [
+    5492
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      6569
+    ]
+  ],
+  "category": 1347
+}

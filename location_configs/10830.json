@@ -1,0 +1,31 @@
+{
+  "id": 10830,
+  "name": "Hollow tree",
+  "models_2": [
+    4144
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      7056,
+      13592
+    ],
+    [
+      6674,
+      10512
+    ]
+  ],
+  "category": 284,
+  "unknown_81": 80,
+  "mapscene": 0
+}

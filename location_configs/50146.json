@@ -1,0 +1,18 @@
+{
+  "id": 50146,
+  "name": "Red mist",
+  "models_2": [
+    50683
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 10727,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_89": false
+}

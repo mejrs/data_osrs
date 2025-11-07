@@ -1,0 +1,22 @@
+{
+  "id": 41172,
+  "name": "Mahogany outfit stand",
+  "models_2": [
+    41687
+  ],
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206,
+  "params": {
+    "429": 1,
+    "430": 1
+  }
+}

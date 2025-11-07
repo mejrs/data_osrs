@@ -1,0 +1,16 @@
+{
+  "id": 40071,
+  "name": "Table space",
+  "models_2": [
+    12875
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    "Build",
+    null
+  ]
+}

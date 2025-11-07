@@ -1,0 +1,19 @@
+{
+  "id": 54498,
+  "name": "Markings",
+  "models_2": [
+    54852
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 50,
+  "colours": [
+    [
+      7469,
+      8363
+    ]
+  ],
+  "category": 2076,
+  "unknown_69": 27
+}

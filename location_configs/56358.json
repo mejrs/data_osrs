@@ -1,0 +1,12 @@
+{
+  "id": 56358,
+  "name": "Shadow pool",
+  "models_2": [
+    49398
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 30,
+  "model": false
+}

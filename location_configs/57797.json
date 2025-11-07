@@ -1,0 +1,14 @@
+{
+  "id": 57797,
+  "name": "Plant",
+  "models_2": [
+    58539
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25
+}

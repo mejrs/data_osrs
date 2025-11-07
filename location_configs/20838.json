@@ -1,0 +1,21 @@
+{
+  "id": 20838,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Locked door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_75": 0
+}

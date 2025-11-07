@@ -1,0 +1,15 @@
+{
+  "id": 28944,
+  "name": "Inconspicuous hole (elite)",
+  "models_2": [
+    32058
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ]
+}

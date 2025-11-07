@@ -1,0 +1,14 @@
+{
+  "id": 34931,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "translate_y": 1,
+  "unknown_75": 0
+}

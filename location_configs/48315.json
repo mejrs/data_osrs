@@ -1,0 +1,25 @@
+{
+  "id": 48315,
+  "models_2": [
+    48387
+  ],
+  "dim_x": 9,
+  "dim_y": 9,
+  "unknown_19": 0,
+  "ambient": 15,
+  "contrast": 30,
+  "colours": [
+    [
+      24,
+      22
+    ],
+    [
+      28,
+      26
+    ]
+  ],
+  "model": false,
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 128
+}

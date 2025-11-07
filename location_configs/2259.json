@@ -1,0 +1,22 @@
+{
+  "id": 2259,
+  "models": [
+    [
+      0,
+      1509
+    ],
+    [
+      9,
+      1511
+    ]
+  ],
+  "name": "Metal gate",
+  "is_transparent": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

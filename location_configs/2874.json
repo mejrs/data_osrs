@@ -1,0 +1,19 @@
+{
+  "id": 2874,
+  "name": "Statue of Zamorak",
+  "models_2": [
+    1400
+  ],
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27,
+  "translate_z": 64,
+  "unknown_75": 0
+}

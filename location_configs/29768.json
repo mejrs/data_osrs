@@ -1,0 +1,45 @@
+{
+  "id": 29768,
+  "name": "Spirit tendrils",
+  "models_2": [
+    7458,
+    7766
+  ],
+  "unknown_19": 1,
+  "unknown_24": 2173,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      1688,
+      49083
+    ],
+    [
+      2836,
+      49081
+    ],
+    [
+      662,
+      45619
+    ],
+    [
+      1810,
+      45743
+    ],
+    [
+      784,
+      45737
+    ],
+    [
+      910,
+      51088
+    ]
+  ]
+}

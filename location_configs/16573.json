@@ -1,0 +1,20 @@
+{
+  "id": 16573,
+  "name": "Timber defence",
+  "models_2": [
+    1419
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      6817,
+      7700
+    ],
+    [
+      6457,
+      7580
+    ]
+  ]
+}

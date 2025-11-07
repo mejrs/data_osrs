@@ -1,0 +1,35 @@
+{
+  "id": 20049,
+  "models": [
+    [
+      0,
+      20320
+    ]
+  ],
+  "name": "Gate",
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      46381,
+      7446
+    ],
+    [
+      5400,
+      7442
+    ],
+    [
+      3346,
+      7566
+    ]
+  ],
+  "category": 168,
+  "mirror": true,
+  "scale_y": 160,
+  "unknown_75": 0
+}

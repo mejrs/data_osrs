@@ -1,0 +1,25 @@
+{
+  "id": 6517,
+  "models": [
+    [
+      0,
+      6260
+    ]
+  ],
+  "name": "Sarcophagus",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7616,
+      54317
+    ]
+  ]
+}

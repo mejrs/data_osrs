@@ -1,0 +1,25 @@
+{
+  "id": 58970,
+  "name": "Portal of Meilyr",
+  "models_2": [
+    37828
+  ],
+  "ambient": 60,
+  "contrast": 44,
+  "colours": [
+    [
+      33488,
+      33246
+    ],
+    [
+      33455,
+      33246
+    ],
+    [
+      33344,
+      33246
+    ]
+  ],
+  "scale_z": 365,
+  "translate_y": 65534
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20341,
+  "name": "Gate",
+  "models_2": [
+    20768
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

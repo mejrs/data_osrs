@@ -1,0 +1,11 @@
+{
+  "id": 16304,
+  "name": "Stretcher",
+  "models_2": [
+    16187
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20
+}

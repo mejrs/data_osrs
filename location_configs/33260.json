@@ -1,0 +1,13 @@
+{
+  "id": 33260,
+  "models": [
+    [
+      0,
+      3802
+    ]
+  ],
+  "name": "Mine door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false
+}

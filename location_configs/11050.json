@@ -1,0 +1,16 @@
+{
+  "id": 11050,
+  "name": "Secret entrance",
+  "models_2": [
+    10888
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0
+}

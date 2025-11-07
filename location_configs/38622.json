@@ -1,0 +1,24 @@
+{
+  "id": 38622,
+  "models": [
+    [
+      22,
+      39934
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      32821,
+      10275
+    ],
+    [
+      32827,
+      10285
+    ]
+  ],
+  "maparea_id": 5
+}

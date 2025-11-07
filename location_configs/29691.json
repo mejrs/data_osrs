@@ -1,0 +1,30 @@
+{
+  "id": 29691,
+  "models": [
+    [
+      10,
+      32867
+    ],
+    [
+      0,
+      32862
+    ],
+    [
+      1,
+      32885
+    ],
+    [
+      3,
+      32880
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": -5,
+  "contrast": 100,
+  "mirror": true,
+  "unknown_73": true
+}

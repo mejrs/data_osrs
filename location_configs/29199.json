@@ -1,0 +1,45 @@
+{
+  "id": 29199,
+  "name": "Mounted Fletching Cape (t)",
+  "models_2": [
+    32175
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Search",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      6067
+    ],
+    [
+      54183,
+      9152
+    ],
+    [
+      54503,
+      6067
+    ],
+    [
+      960,
+      33304
+    ],
+    [
+      22464,
+      33676
+    ],
+    [
+      43968,
+      33672
+    ]
+  ],
+  "category": 206
+}

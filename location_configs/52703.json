@@ -1,0 +1,17 @@
+{
+  "id": 52703,
+  "name": "Icon of Ralos",
+  "models_2": [
+    52368
+  ],
+  "dim_x": 3,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

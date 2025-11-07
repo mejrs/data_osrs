@@ -1,0 +1,11 @@
+{
+  "id": 48109,
+  "name": "Gate",
+  "models_2": [
+    48367
+  ],
+  "dim_x": 7,
+  "unknown_22": true,
+  "ambient": -15,
+  "contrast": 45
+}

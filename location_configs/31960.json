@@ -1,0 +1,42 @@
+{
+  "id": 31960,
+  "name": "White Crystal",
+  "models_2": [
+    32502
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      15296,
+      107
+    ],
+    [
+      15273,
+      127
+    ],
+    [
+      15029,
+      123
+    ],
+    [
+      16163,
+      115
+    ]
+  ],
+  "category": 1215,
+  "scale_x": 64,
+  "scale_y": 72,
+  "scale_z": 64
+}

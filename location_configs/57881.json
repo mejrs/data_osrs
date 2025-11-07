@@ -1,0 +1,11 @@
+{
+  "id": 57881,
+  "name": "Planks",
+  "models_2": [
+    58857
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 25
+}

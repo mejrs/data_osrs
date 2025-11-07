@@ -1,0 +1,16 @@
+{
+  "id": 52401,
+  "models_2": [
+    51317
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 30,
+  "scale_x": 204,
+  "scale_y": 204,
+  "scale_z": 204,
+  "mapscene": 176
+}

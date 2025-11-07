@@ -1,0 +1,17 @@
+{
+  "id": 59306,
+  "name": "Barracuda grade rope",
+  "models_2": [
+    57623
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317
+}

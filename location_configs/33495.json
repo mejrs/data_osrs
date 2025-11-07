@@ -1,0 +1,21 @@
+{
+  "id": 33495,
+  "name": "Steam Generator",
+  "models_2": [
+    36337
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 4836,
+  "ambient": 5,
+  "contrast": 10,
+  "scale_x": 108,
+  "scale_y": 108,
+  "scale_z": 108,
+  "translate_z": 8,
+  "unknown_78": {
+    "unknown_1": 3355,
+    "unknown_2": 5
+  }
+}

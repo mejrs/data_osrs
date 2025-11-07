@@ -1,0 +1,28 @@
+{
+  "id": 16837,
+  "models": [
+    [
+      22,
+      16762
+    ]
+  ],
+  "name": "Transport platform",
+  "unknown_27": false,
+  "actions": [
+    "Step-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      54501,
+      41438
+    ],
+    [
+      50654,
+      51030
+    ]
+  ]
+}

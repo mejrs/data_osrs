@@ -1,0 +1,21 @@
+{
+  "id": 56328,
+  "name": "Fire",
+  "models_2": [
+    26584
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_24": 6646,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 70,
+  "scale_x": 460,
+  "scale_y": 512,
+  "scale_z": 460,
+  "unknown_78": {
+    "unknown_1": 2066,
+    "unknown_2": 7
+  }
+}

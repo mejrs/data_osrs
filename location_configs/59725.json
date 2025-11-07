@@ -1,0 +1,12 @@
+{
+  "id": 59725,
+  "name": "Boat",
+  "models_2": [
+    58881
+  ],
+  "dim_x": 3,
+  "dim_y": 7,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

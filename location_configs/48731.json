@@ -1,0 +1,31 @@
+{
+  "id": 48731,
+  "name": "Stairs",
+  "models_2": [
+    4453
+  ],
+  "dim_x": 2,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_22": true,
+  "ambient": 5,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21646,
+      142
+    ],
+    [
+      21526,
+      148
+    ]
+  ],
+  "unknown_69": 27,
+  "mapscene": 69
+}

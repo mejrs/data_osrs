@@ -1,0 +1,11 @@
+{
+  "id": 27552,
+  "name": "Barrel of fish",
+  "models_2": [
+    8232,
+    9530
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15
+}

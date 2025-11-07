@@ -1,0 +1,17 @@
+{
+  "id": 13301,
+  "name": "Oak bench",
+  "models_2": [
+    12406
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 30
+}

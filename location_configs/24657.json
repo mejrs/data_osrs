@@ -1,0 +1,17 @@
+{
+  "id": 24657,
+  "name": "Display case",
+  "models_2": [
+    25613
+  ],
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 690
+}

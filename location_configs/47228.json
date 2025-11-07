@@ -1,0 +1,22 @@
+{
+  "id": 47228,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Soul Wars Display",
+  "dim_x": 6,
+  "dim_y": 6,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "scale_x": 748,
+  "scale_y": 360,
+  "scale_z": 748
+}

@@ -1,0 +1,20 @@
+{
+  "id": 36193,
+  "name": "Rock Formation",
+  "models_2": [
+    37817
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 44,
+  "category": 1368
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7286,
+  "name": "Precarious bridge",
+  "models_2": [
+    6318
+  ],
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ]
+}

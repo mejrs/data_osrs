@@ -1,0 +1,23 @@
+{
+  "id": 35185,
+  "name": "Pillar of Light",
+  "models_2": [
+    38352,
+    38347
+  ],
+  "ambient": 40,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      36133,
+      55232
+    ]
+  ]
+}

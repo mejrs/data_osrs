@@ -1,0 +1,17 @@
+{
+  "id": 41233,
+  "name": "Totem pole",
+  "models_2": [
+    41822
+  ],
+  "ambient": 15,
+  "actions": [
+    "Tether",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 1506
+}

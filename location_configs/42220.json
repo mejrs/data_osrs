@@ -1,0 +1,30 @@
+{
+  "id": 42220,
+  "name": "Beam",
+  "models_2": [
+    42584
+  ],
+  "dim_y": 9,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 6069,
+  "ambient": 15,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      1825,
+      8128
+    ],
+    [
+      1814,
+      7089
+    ]
+  ]
+}

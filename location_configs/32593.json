@@ -1,0 +1,30 @@
+{
+  "id": 32593,
+  "name": "<col=ffff00>Kael Forshaw</col>",
+  "models_2": [
+    35121
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8050,
+  "unknown_27": false,
+  "colours": [
+    [
+      4550,
+      2258
+    ],
+    [
+      8741,
+      15397
+    ],
+    [
+      6798,
+      7700
+    ]
+  ],
+  "model": false,
+  "mapscene": 82,
+  "params": {
+    "2312": 9
+  }
+}

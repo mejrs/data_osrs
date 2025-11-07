@@ -1,0 +1,26 @@
+{
+  "id": 41398,
+  "models": [
+    [
+      0,
+      24625
+    ]
+  ],
+  "name": "Broken rail",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15,
+  "colours": [
+    [
+      5921,
+      5553
+    ],
+    [
+      5673,
+      5553
+    ]
+  ]
+}

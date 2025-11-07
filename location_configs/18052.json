@@ -1,0 +1,15 @@
+{
+  "id": 18052,
+  "name": "Broken rune case",
+  "models_2": [
+    17883
+  ],
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

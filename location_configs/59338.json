@@ -1,0 +1,20 @@
+{
+  "id": 59338,
+  "name": "Box of outfits",
+  "models_2": [
+    57601
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false
+}

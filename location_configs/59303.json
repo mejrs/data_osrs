@@ -1,0 +1,47 @@
+{
+  "id": 59303,
+  "name": "Bananaless boat",
+  "models_2": [
+    58883,
+    57632
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 13600,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      3619,
+      43555
+    ],
+    [
+      8737,
+      6689
+    ],
+    [
+      8739,
+      6563
+    ],
+    [
+      8734,
+      6684
+    ],
+    [
+      8728,
+      6682
+    ]
+  ],
+  "category": 2317,
+  "model": false,
+  "unknown_89": false
+}

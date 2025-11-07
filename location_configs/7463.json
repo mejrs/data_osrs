@@ -1,0 +1,13 @@
+{
+  "id": 7463,
+  "name": "Wheat",
+  "models_2": [
+    25302
+  ],
+  "unknown_17": false,
+  "unknown_24": 6470,
+  "ambient": 20,
+  "category": 240,
+  "model": false,
+  "mapscene": 97
+}

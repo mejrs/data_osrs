@@ -1,0 +1,35 @@
+{
+  "id": 33319,
+  "name": "Fire of Nourishment",
+  "models_2": [
+    35937,
+    35935,
+    35938
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8170,
+  "unknown_27": false,
+  "ambient": 35,
+  "contrast": 70,
+  "colours": [
+    [
+      6080,
+      16949
+    ],
+    [
+      960,
+      20261
+    ],
+    [
+      11212,
+      15931
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 2063,
+    "unknown_2": 10
+  }
+}

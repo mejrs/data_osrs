@@ -1,0 +1,12 @@
+{
+  "id": 22812,
+  "name": "Bone rack",
+  "models_2": [
+    23327,
+    23328
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20
+}

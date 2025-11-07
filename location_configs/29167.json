@@ -1,0 +1,33 @@
+{
+  "id": 29167,
+  "name": "Mounted Achievement Diary Cape",
+  "models_2": [
+    32178
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      21619
+    ],
+    [
+      54183,
+      21619
+    ],
+    [
+      54503,
+      22451
+    ]
+  ],
+  "category": 206
+}

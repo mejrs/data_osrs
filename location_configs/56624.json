@@ -1,0 +1,15 @@
+{
+  "id": 56624,
+  "name": "Keystone",
+  "models_2": [
+    52330
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 11053,
+  "ambient": 20,
+  "contrast": 50,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

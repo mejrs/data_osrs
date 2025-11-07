@@ -1,0 +1,19 @@
+{
+  "id": 49936,
+  "name": "Pheasant Nest",
+  "models_2": [
+    49903
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Retrieve-egg",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 1884
+}

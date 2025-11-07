@@ -1,0 +1,19 @@
+{
+  "id": 7755,
+  "name": "Cactus",
+  "models_2": [
+    7834,
+    7835,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick-spine",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

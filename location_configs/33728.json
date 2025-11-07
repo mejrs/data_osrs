@@ -1,0 +1,17 @@
+{
+  "id": 33728,
+  "name": "Hespori",
+  "models_2": [
+    36170
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

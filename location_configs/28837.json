@@ -1,0 +1,17 @@
+{
+  "id": 28837,
+  "name": "Control panel",
+  "models_2": [
+    31486
+  ],
+  "unknown_19": 1,
+  "colours": [
+    [
+      7079,
+      35734
+    ]
+  ],
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

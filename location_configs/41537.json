@@ -1,0 +1,16 @@
+{
+  "id": 41537,
+  "name": "Vault Door",
+  "models_2": [
+    42032
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 133
+}

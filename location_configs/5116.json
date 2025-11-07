@@ -1,0 +1,25 @@
+{
+  "id": 5116,
+  "name": "Statue",
+  "models_2": [
+    4456,
+    4457
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 1532,
+  "colours": [
+    [
+      61,
+      21522
+    ],
+    [
+      53,
+      21522
+    ]
+  ],
+  "scale_x": 108,
+  "scale_y": 128,
+  "scale_z": 108,
+  "mapscene": 11
+}

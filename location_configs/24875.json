@@ -1,0 +1,18 @@
+{
+  "id": 24875,
+  "name": "Coins",
+  "models_2": [
+    26003
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

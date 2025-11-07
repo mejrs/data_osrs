@@ -1,0 +1,19 @@
+{
+  "id": 40366,
+  "name": "Rocks",
+  "models_2": [
+    10974
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      10518,
+      26
+    ],
+    [
+      10398,
+      30
+    ]
+  ]
+}

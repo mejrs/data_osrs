@@ -1,0 +1,27 @@
+{
+  "id": 28757,
+  "models": [
+    [
+      22,
+      31406
+    ]
+  ],
+  "name": "Rocky ledge",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Walk-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6573,
+      6449
+    ]
+  ],
+  "unknown_73": true
+}

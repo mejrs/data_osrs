@@ -1,0 +1,34 @@
+{
+  "id": 60120,
+  "name": "Uneven stone ledges",
+  "models_2": [
+    58356
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "colours": [
+    [
+      0,
+      43034
+    ]
+  ],
+  "category": 2341,
+  "model": false,
+  "params": {
+    "2291": 83,
+    "2294": 1,
+    "2295": 0,
+    "2396": 2
+  }
+}

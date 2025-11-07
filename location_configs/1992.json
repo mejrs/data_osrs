@@ -1,0 +1,16 @@
+{
+  "id": 1992,
+  "name": "Glarial's Tombstone",
+  "models_2": [
+    1370
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

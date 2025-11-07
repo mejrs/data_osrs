@@ -1,0 +1,24 @@
+{
+  "id": 34359,
+  "models": [
+    [
+      10,
+      36574
+    ],
+    [
+      22,
+      36577
+    ]
+  ],
+  "name": "Elevator",
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

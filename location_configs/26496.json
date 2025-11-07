@@ -1,0 +1,14 @@
+{
+  "id": 26496,
+  "name": "Waterfall",
+  "models_2": [
+    27784
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_22": true,
+  "unknown_24": 7024,
+  "ambient": 26,
+  "contrast": 20,
+  "model": false
+}

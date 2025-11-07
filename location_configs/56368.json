@@ -1,0 +1,16 @@
+{
+  "id": 56368,
+  "name": "Anvil",
+  "models_2": [
+    56277
+  ],
+  "ambient": 10,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

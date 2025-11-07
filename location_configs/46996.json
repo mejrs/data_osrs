@@ -1,0 +1,41 @@
+{
+  "id": 46996,
+  "name": "Memorial",
+  "models_2": [
+    5169
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 9985,
+  "actions": [
+    "Enter",
+    "Peek",
+    "Check-Fee",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4,
+      37
+    ],
+    [
+      21522,
+      45
+    ],
+    [
+      21526,
+      45
+    ],
+    [
+      21530,
+      37
+    ],
+    [
+      21646,
+      37
+    ]
+  ],
+  "unknown_69": 23
+}

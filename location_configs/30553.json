@@ -1,0 +1,19 @@
+{
+  "id": 30553,
+  "name": "Birdhouse (empty)",
+  "models_2": [
+    33663,
+    33629
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Seeds",
+    null,
+    null,
+    null
+  ]
+}

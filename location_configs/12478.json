@@ -1,0 +1,15 @@
+{
+  "id": 12478,
+  "name": "Kelp",
+  "models_2": [
+    9062
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ]
+}

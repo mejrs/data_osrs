@@ -1,0 +1,31 @@
+{
+  "id": 5153,
+  "models": [
+    [
+      0,
+      13152
+    ],
+    [
+      1,
+      15139
+    ],
+    [
+      2,
+      13153
+    ],
+    [
+      9,
+      15140
+    ]
+  ],
+  "name": "Wooden fence",
+  "is_transparent": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

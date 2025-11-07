@@ -1,0 +1,24 @@
+{
+  "id": 27436,
+  "name": "Saltpetre",
+  "models_2": [
+    30080
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Dig",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 904,
+  "scale_x": 140,
+  "scale_y": 96,
+  "scale_z": 140,
+  "unknown_75": 1
+}

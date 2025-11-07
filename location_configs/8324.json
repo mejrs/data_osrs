@@ -1,0 +1,18 @@
+{
+  "id": 8324,
+  "name": "Bittercap Mushrooms",
+  "models_2": [
+    7899,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

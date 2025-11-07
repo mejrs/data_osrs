@@ -1,0 +1,13 @@
+{
+  "id": 17242,
+  "name": "Broken cogs",
+  "models_2": [
+    17081
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 4563,
+  "unknown_27": false,
+  "ambient": 10,
+  "translate_y": 65526
+}

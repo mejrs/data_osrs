@@ -1,0 +1,12 @@
+{
+  "id": 5045,
+  "name": "Tree",
+  "models_2": [
+    4969
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256
+}

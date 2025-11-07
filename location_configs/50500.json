@@ -1,0 +1,11 @@
+{
+  "id": 50500,
+  "name": "Weapon table",
+  "models_2": [
+    50452
+  ],
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15
+}

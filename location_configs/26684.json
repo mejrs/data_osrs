@@ -1,0 +1,28 @@
+{
+  "id": 26684,
+  "models": [
+    [
+      0,
+      3455
+    ],
+    [
+      1,
+      3456
+    ],
+    [
+      2,
+      3457
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      61,
+      7566
+    ]
+  ],
+  "model": false,
+  "translate_y": 21
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35882,
+  "name": "Broken Well",
+  "models_2": [
+    38321
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100
+}

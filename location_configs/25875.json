@@ -1,0 +1,16 @@
+{
+  "id": 25875,
+  "models": [
+    [
+      0,
+      27406
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "mirror": true
+}

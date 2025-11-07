@@ -1,0 +1,16 @@
+{
+  "id": 11310,
+  "name": "Climbing net",
+  "models_2": [
+    11154
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

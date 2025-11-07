@@ -1,0 +1,15 @@
+{
+  "id": 39902,
+  "name": "Cabinet",
+  "models_2": [
+    40815
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7992,
+  "name": "Pineapple plant stump",
+  "models_2": [
+    8091,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

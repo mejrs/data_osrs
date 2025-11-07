@@ -1,0 +1,17 @@
+{
+  "id": 18649,
+  "name": "Corkscrew lever",
+  "models_2": [
+    18741
+  ],
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30
+}

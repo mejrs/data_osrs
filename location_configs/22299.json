@@ -1,0 +1,25 @@
+{
+  "id": 22299,
+  "name": "Locker",
+  "models_2": [
+    11162
+  ],
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      10388
+    ],
+    [
+      7952,
+      10392
+    ]
+  ],
+  "unknown_69": 27
+}

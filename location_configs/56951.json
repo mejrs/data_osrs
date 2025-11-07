@@ -1,0 +1,14 @@
+{
+  "id": 56951,
+  "name": "Food pot",
+  "models_2": [
+    52379
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30
+}

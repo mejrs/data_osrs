@@ -1,0 +1,24 @@
+{
+  "id": 1533,
+  "models": [
+    [
+      0,
+      884
+    ],
+    [
+      9,
+      885
+    ]
+  ],
+  "name": "Curtain",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 1,
+  "unknown_75": 0
+}

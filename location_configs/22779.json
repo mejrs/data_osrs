@@ -1,0 +1,21 @@
+{
+  "id": 22779,
+  "models": [
+    [
+      0,
+      23499
+    ]
+  ],
+  "name": "Gate",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 167,
+  "unknown_75": 0
+}

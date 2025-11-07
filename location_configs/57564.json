@@ -1,0 +1,23 @@
+{
+  "id": 57564,
+  "name": "Fern",
+  "models_2": [
+    1677
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 30,
+  "contrast": 25,
+  "colours": [
+    [
+      22439,
+      20366
+    ]
+  ],
+  "model": false,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "translate_y": 65500,
+  "mapscene": 110
+}

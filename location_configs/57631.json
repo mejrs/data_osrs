@@ -1,0 +1,56 @@
+{
+  "id": 57631,
+  "name": "Cave",
+  "models_2": [
+    51274
+  ],
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Crawl-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      2473,
+      10401
+    ],
+    [
+      2469,
+      10398
+    ],
+    [
+      2593,
+      10396
+    ],
+    [
+      2588,
+      10392
+    ],
+    [
+      2836,
+      10388
+    ],
+    [
+      2700,
+      10382
+    ],
+    [
+      2952,
+      10378
+    ]
+  ],
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 170,
+  "scale_z": 120
+}

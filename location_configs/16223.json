@@ -1,0 +1,30 @@
+{
+  "id": 16223,
+  "models": [
+    [
+      4,
+      16123
+    ]
+  ],
+  "name": "Potion shelf",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5947,
+      19379
+    ],
+    [
+      55083,
+      949
+    ]
+  ]
+}

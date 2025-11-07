@@ -1,0 +1,16 @@
+{
+  "id": 54270,
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 40,
+  "contrast": 30,
+  "unknown_69": 23,
+  "morphs_2": {
+    "varp": 4260,
+    "ids": [
+      54150
+    ],
+    "default": 54149
+  }
+}

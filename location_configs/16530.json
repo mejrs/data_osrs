@@ -1,0 +1,19 @@
+{
+  "id": 16530,
+  "name": "Underwall tunnel",
+  "models_2": [
+    255
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_28": 32,
+  "actions": [
+    "Climb-into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 23
+}

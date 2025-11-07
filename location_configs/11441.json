@@ -1,0 +1,45 @@
+{
+  "id": 11441,
+  "name": "Rocks",
+  "models_2": [
+    831
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "occludes_1": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5425,
+      6798
+    ],
+    [
+      61,
+      5908
+    ],
+    [
+      45,
+      5772
+    ],
+    [
+      57,
+      8086
+    ],
+    [
+      28,
+      5388
+    ],
+    [
+      16156,
+      6798
+    ]
+  ]
+}

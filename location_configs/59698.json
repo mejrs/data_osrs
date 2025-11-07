@@ -1,0 +1,25 @@
+{
+  "id": 59698,
+  "name": "Keg of horizon's lure",
+  "models_2": [
+    58229
+  ],
+  "is_transparent": true,
+  "ambient": 5,
+  "actions": [
+    "Check",
+    "Empty",
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      54203,
+      7735
+    ]
+  ],
+  "category": 2331,
+  "unknown_69": 27
+}

@@ -1,0 +1,16 @@
+{
+  "id": 26120,
+  "name": "Sinclair family compost heap",
+  "models_2": [
+    27537
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Investigate",
+    null,
+    null,
+    null
+  ]
+}

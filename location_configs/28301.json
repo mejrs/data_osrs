@@ -1,0 +1,42 @@
+{
+  "id": 28301,
+  "name": "Bookshelf",
+  "models_2": [
+    30774,
+    30807,
+    30784
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      29615,
+      47021
+    ],
+    [
+      29495,
+      47799
+    ],
+    [
+      29376,
+      48704
+    ],
+    [
+      29512,
+      46792
+    ],
+    [
+      29648,
+      46040
+    ]
+  ],
+  "category": 907
+}

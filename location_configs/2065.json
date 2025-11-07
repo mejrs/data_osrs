@@ -1,0 +1,11 @@
+{
+  "id": 2065,
+  "name": "Rope Ladder",
+  "models_2": [
+    569
+  ],
+  "textures": {
+    "2": 23
+  },
+  "mapscene": 21
+}

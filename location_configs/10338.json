@@ -1,0 +1,23 @@
+{
+  "id": 10338,
+  "models": [
+    [
+      0,
+      10066
+    ]
+  ],
+  "name": "Rat wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 7,
+  "actions": [
+    "Spectate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 7,
+  "category": 225
+}

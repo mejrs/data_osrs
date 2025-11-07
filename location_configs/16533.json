@@ -1,0 +1,24 @@
+{
+  "id": 16533,
+  "models": [
+    [
+      22,
+      25640
+    ]
+  ],
+  "name": "Stepping stone",
+  "unknown_19": 1,
+  "unknown_24": 3743,
+  "unknown_27": false,
+  "actions": [
+    "Jump-onto",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 10,
+  "translate_y": 0,
+  "translate_z": 10,
+  "unknown_73": true
+}

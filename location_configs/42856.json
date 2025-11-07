@@ -1,0 +1,15 @@
+{
+  "id": 42856,
+  "name": "Ancient Plaque",
+  "models_2": [
+    43206
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "unknown_69": 27
+}

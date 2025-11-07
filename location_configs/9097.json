@@ -1,0 +1,16 @@
+{
+  "id": 9097,
+  "name": "Pedals",
+  "models_2": [
+    9039
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Pedal",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0
+}

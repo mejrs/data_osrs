@@ -1,0 +1,32 @@
+{
+  "id": 33344,
+  "models": [
+    [
+      0,
+      36019
+    ]
+  ],
+  "name": "Broken wall",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      5285
+    ],
+    [
+      57,
+      5409
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 43820,
+  "name": "Guardian of Law",
+  "models_2": [
+    43995,
+    43987
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 9362,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 25,
+  "colours": [
+    [
+      962,
+      43968
+    ]
+  ],
+  "model": false
+}

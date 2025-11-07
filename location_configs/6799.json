@@ -1,0 +1,20 @@
+{
+  "id": 6799,
+  "name": "Clockmaker's bench",
+  "models_2": [
+    12185,
+    12182,
+    12183,
+    12189
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Craft",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

@@ -1,0 +1,11 @@
+{
+  "id": 18223,
+  "name": "Pillar",
+  "models_2": [
+    18240
+  ],
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 5,
+  "translate_y": 1
+}

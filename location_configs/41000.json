@@ -1,0 +1,27 @@
+{
+  "id": 41000,
+  "models": [
+    [
+      10,
+      41823
+    ],
+    [
+      1,
+      41843
+    ]
+  ],
+  "name": "Water pump",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 1508,
+  "translate_y": 65535
+}

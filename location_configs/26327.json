@@ -1,0 +1,11 @@
+{
+  "id": 26327,
+  "name": "Spikes",
+  "models_2": [
+    27921
+  ],
+  "unknown_21": true,
+  "ambient": 25,
+  "scale_x": 100,
+  "scale_z": 100
+}

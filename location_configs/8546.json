@@ -1,0 +1,34 @@
+{
+  "id": 8546,
+  "name": "Diseased cabbages",
+  "models_2": [
+    8194,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      15913,
+      10787
+    ],
+    [
+      16161,
+      10906
+    ],
+    [
+      16280,
+      11154
+    ],
+    [
+      17300,
+      11150
+    ]
+  ]
+}

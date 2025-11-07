@@ -1,0 +1,16 @@
+{
+  "id": 30604,
+  "name": "Mud pit",
+  "models_2": [
+    33708
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65535
+}

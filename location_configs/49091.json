@@ -1,0 +1,27 @@
+{
+  "id": 49091,
+  "name": "Heavy Door",
+  "models_2": [
+    47025
+  ],
+  "dim_x": 3,
+  "ambient": 0,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "colours": [
+    [
+      563,
+      47814
+    ],
+    [
+      2836,
+      3486
+    ]
+  ]
+}

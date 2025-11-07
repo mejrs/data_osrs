@@ -1,0 +1,26 @@
+{
+  "id": 31037,
+  "name": "Medium Boulder",
+  "models_2": [
+    33536
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_22": true,
+  "unknown_24": 7712,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "Hidden",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1162,
+  "params": {
+    "430": 4
+  }
+}

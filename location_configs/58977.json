@@ -1,0 +1,25 @@
+{
+  "id": 58977,
+  "name": "Portal of Trahaearn",
+  "models_2": [
+    37828
+  ],
+  "ambient": 60,
+  "contrast": 44,
+  "colours": [
+    [
+      33488,
+      52655
+    ],
+    [
+      33455,
+      52655
+    ],
+    [
+      33344,
+      52655
+    ]
+  ],
+  "scale_z": 365,
+  "translate_y": 65534
+}

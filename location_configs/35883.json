@@ -1,0 +1,19 @@
+{
+  "id": 35883,
+  "name": "Statue Space",
+  "models_2": [
+    38320
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100
+}

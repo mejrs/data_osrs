@@ -1,0 +1,22 @@
+{
+  "id": 34858,
+  "models": [
+    [
+      10,
+      2131
+    ],
+    [
+      0,
+      25625
+    ]
+  ],
+  "name": "Thick Web",
+  "unknown_19": 1,
+  "actions": [
+    "Enter-crypt",
+    "Quick-enter",
+    null,
+    null,
+    null
+  ]
+}

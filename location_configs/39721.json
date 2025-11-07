@@ -1,0 +1,17 @@
+{
+  "id": 39721,
+  "name": "Cave",
+  "models_2": [
+    6208,
+    40765
+  ],
+  "dim_x": 6,
+  "dim_y": 3,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 10,
+  "scale_x": 176,
+  "scale_y": 192,
+  "scale_z": 176,
+  "translate_y": 65535
+}

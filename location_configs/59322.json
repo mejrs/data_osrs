@@ -1,0 +1,21 @@
+{
+  "id": 59322,
+  "name": "Wreck of the Floaty Boaty",
+  "models_2": [
+    57635
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false
+}

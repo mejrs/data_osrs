@@ -1,0 +1,21 @@
+{
+  "id": 43975,
+  "name": "Plaque",
+  "models_2": [
+    44649
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": -10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "model": false,
+  "unknown_69": 27
+}

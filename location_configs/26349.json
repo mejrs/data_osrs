@@ -1,0 +1,13 @@
+{
+  "id": 26349,
+  "name": "Frozen warrior",
+  "models_2": [
+    27802,
+    27799
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20
+}

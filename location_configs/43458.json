@@ -1,0 +1,14 @@
+{
+  "id": 43458,
+  "models": [
+    [
+      0,
+      43624
+    ]
+  ],
+  "name": "Prison door",
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 30,
+  "category": 168
+}

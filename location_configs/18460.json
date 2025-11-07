@@ -1,0 +1,11 @@
+{
+  "id": 18460,
+  "name": "Broken boat",
+  "models_2": [
+    18214
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 20,
+  "contrast": 20
+}

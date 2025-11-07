@@ -1,0 +1,46 @@
+{
+  "id": 5052,
+  "models": [
+    [
+      0,
+      634
+    ],
+    [
+      1,
+      635
+    ],
+    [
+      2,
+      574
+    ],
+    [
+      3,
+      575
+    ],
+    [
+      9,
+      576
+    ]
+  ],
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      24,
+      9098
+    ]
+  ],
+  "textures": {
+    "2": 23
+  }
+}

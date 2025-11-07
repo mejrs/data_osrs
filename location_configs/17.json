@@ -1,0 +1,22 @@
+{
+  "id": 17,
+  "models": [
+    [
+      0,
+      15396
+    ]
+  ],
+  "name": "Railing",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

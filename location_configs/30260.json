@@ -1,0 +1,11 @@
+{
+  "id": 30260,
+  "name": "Gibbet",
+  "models_2": [
+    32949
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "model": false
+}

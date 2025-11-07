@@ -1,0 +1,13 @@
+{
+  "id": 27428,
+  "name": "Logavano plant",
+  "models_2": [
+    30124
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "mapscene": 6
+}

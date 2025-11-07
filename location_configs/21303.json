@@ -1,0 +1,23 @@
+{
+  "id": 21303,
+  "name": "Clay forge",
+  "models_2": [
+    21970
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Smelt",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 215,
+  "unknown_78": {
+    "unknown_1": 2209,
+    "unknown_2": 5
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 41126,
+  "models": [
+    [
+      22,
+      12528
+    ]
+  ],
+  "name": "Opulent rug",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

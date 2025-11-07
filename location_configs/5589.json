@@ -1,0 +1,13 @@
+{
+  "id": 5589,
+  "name": "Water wheel",
+  "models_2": [
+    5516
+  ],
+  "dim_x": 3,
+  "unknown_24": 1729,
+  "unknown_78": {
+    "unknown_1": 2422,
+    "unknown_2": 20
+  }
+}

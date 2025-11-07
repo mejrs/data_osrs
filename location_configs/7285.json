@@ -1,0 +1,18 @@
+{
+  "id": 7285,
+  "name": "Empty Sack",
+  "models_2": [
+    7701
+  ],
+  "ambient": 20,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 99,
+  "scale_y": 99,
+  "scale_z": 99
+}

@@ -1,0 +1,38 @@
+{
+  "id": 25429,
+  "name": "Stairs",
+  "models_2": [
+    26909
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 40,
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "colours": [
+    [
+      6461,
+      5268
+    ],
+    [
+      6457,
+      5392
+    ],
+    [
+      6449,
+      5388
+    ],
+    [
+      6445,
+      5640
+    ]
+  ],
+  "unknown_69": 27
+}

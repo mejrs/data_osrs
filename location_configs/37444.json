@@ -1,0 +1,22 @@
+{
+  "id": 37444,
+  "name": "Log pile",
+  "models_2": [
+    1468
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      4766,
+      5660
+    ],
+    [
+      6961,
+      6697
+    ]
+  ],
+  "scale_x": 88,
+  "scale_y": 88,
+  "scale_z": 88
+}

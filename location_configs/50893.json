@@ -1,0 +1,31 @@
+{
+  "id": 50893,
+  "name": "Bed",
+  "models_2": [
+    17602
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      16425,
+      5318
+    ],
+    [
+      10285,
+      5318
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128
+}

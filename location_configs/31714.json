@@ -1,0 +1,18 @@
+{
+  "id": 31714,
+  "name": "Old Memorial",
+  "models_2": [
+    34257
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

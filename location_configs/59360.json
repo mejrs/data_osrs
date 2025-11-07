@@ -1,0 +1,17 @@
+{
+  "id": 59360,
+  "name": "Seagull Nest",
+  "models_2": [
+    57615
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317
+}

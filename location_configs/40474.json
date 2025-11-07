@@ -1,0 +1,48 @@
+{
+  "id": 40474,
+  "name": "Soul Wars Portal",
+  "models_2": [
+    41435
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 3174,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      17073,
+      9905
+    ],
+    [
+      17069,
+      9901
+    ],
+    [
+      17063,
+      10935
+    ],
+    [
+      17059,
+      11061
+    ],
+    [
+      17057,
+      11076
+    ]
+  ],
+  "category": 1487,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  }
+}

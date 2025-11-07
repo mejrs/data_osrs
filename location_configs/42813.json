@@ -1,0 +1,20 @@
+{
+  "id": 42813,
+  "models": [
+    [
+      4,
+      42906
+    ]
+  ],
+  "name": "Banner",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      3164,
+      39108
+    ]
+  ],
+  "translate_y": 2
+}

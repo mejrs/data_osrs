@@ -1,0 +1,17 @@
+{
+  "id": 17119,
+  "models": [
+    [
+      22,
+      16953
+    ]
+  ],
+  "name": "Pool of Slime",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 90,
+  "contrast": 25,
+  "category": 533,
+  "model": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 30649,
+  "name": "Stump",
+  "models_2": [
+    33724
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1154
+}

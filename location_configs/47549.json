@@ -1,0 +1,28 @@
+{
+  "id": 47549,
+  "name": "<col=ffff00>Extremity</col>",
+  "models_2": [
+    48764
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 10185,
+  "ambient": 0,
+  "contrast": 35,
+  "colours": [
+    [
+      563,
+      47814
+    ],
+    [
+      2836,
+      3486
+    ]
+  ],
+  "category": 1813,
+  "params": {
+    "2312": 9
+  }
+}

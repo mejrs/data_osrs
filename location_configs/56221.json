@@ -1,0 +1,16 @@
+{
+  "id": 56221,
+  "name": "Crate",
+  "models_2": [
+    2143
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 20,
+  "translate_z": 65516
+}

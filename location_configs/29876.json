@@ -1,0 +1,20 @@
+{
+  "id": 29876,
+  "name": "Ice storm",
+  "models_2": [
+    27835,
+    32533
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 7000,
+  "unknown_27": false,
+  "ambient": 80,
+  "contrast": 30,
+  "model": false,
+  "scale_x": 160,
+  "scale_z": 160
+}

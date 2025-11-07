@@ -1,0 +1,43 @@
+{
+  "id": 20931,
+  "models": [
+    [
+      0,
+      16412
+    ]
+  ],
+  "name": "Tomb Door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Leave Tomb",
+    "Quick-leave",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7481,
+      7353
+    ],
+    [
+      8501,
+      7349
+    ],
+    [
+      8497,
+      7475
+    ],
+    [
+      8493,
+      7473
+    ],
+    [
+      8617,
+      7461
+    ]
+  ],
+  "unknown_73": true
+}

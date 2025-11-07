@@ -1,0 +1,20 @@
+{
+  "id": 15846,
+  "name": "Red flowers",
+  "models_2": [
+    15806
+  ],
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      0,
+      960
+    ]
+  ]
+}

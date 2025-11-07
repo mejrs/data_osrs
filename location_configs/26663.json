@@ -1,0 +1,33 @@
+{
+  "id": 26663,
+  "models": [
+    [
+      0,
+      28466
+    ]
+  ],
+  "name": "Ore vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      922,
+      70
+    ],
+    [
+      914,
+      53
+    ]
+  ],
+  "category": 751,
+  "scale_y": 170
+}

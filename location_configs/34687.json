@@ -1,0 +1,14 @@
+{
+  "id": 34687,
+  "name": "Bryophyta display",
+  "models_2": [
+    36977
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15
+}

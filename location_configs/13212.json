@@ -1,0 +1,17 @@
+{
+  "id": 13212,
+  "name": "Incense burner",
+  "models_2": [
+    13116
+  ],
+  "ambient": 20,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206
+}

@@ -1,0 +1,17 @@
+{
+  "id": 13692,
+  "name": "Decoration",
+  "models_2": [
+    12585,
+    12586
+  ],
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

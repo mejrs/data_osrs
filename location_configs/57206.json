@@ -1,0 +1,34 @@
+{
+  "id": 57206,
+  "name": "Pillows",
+  "models_2": [
+    51366
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15,
+  "colours": [
+    [
+      9133,
+      7095
+    ],
+    [
+      9143,
+      8119
+    ],
+    [
+      6558,
+      33182
+    ],
+    [
+      6563,
+      33187
+    ],
+    [
+      6565,
+      33189
+    ]
+  ]
+}

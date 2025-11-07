@@ -1,0 +1,21 @@
+{
+  "id": 29777,
+  "name": "Chambers of Xeric",
+  "models_2": [
+    32384
+  ],
+  "dim_x": 4,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30,
+  "mapscene": 7
+}

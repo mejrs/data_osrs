@@ -1,0 +1,10 @@
+{
+  "id": 53584,
+  "name": "Storage crate",
+  "models_2": [
+    53433
+  ],
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15
+}

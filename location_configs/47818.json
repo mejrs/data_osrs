@@ -1,0 +1,35 @@
+{
+  "id": 47818,
+  "name": "Stairs",
+  "models_2": [
+    48435
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": -10,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      50339,
+      29982
+    ],
+    [
+      50330,
+      30100
+    ],
+    [
+      50450,
+      30348
+    ]
+  ],
+  "category": 1869,
+  "unknown_69": 30,
+  "mapscene": 69
+}

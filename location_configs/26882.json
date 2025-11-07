@@ -1,0 +1,32 @@
+{
+  "id": 26882,
+  "models": [
+    [
+      22,
+      1638
+    ]
+  ],
+  "name": "Vine",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      929,
+      19218
+    ],
+    [
+      931,
+      17170
+    ]
+  ],
+  "unknown_73": true
+}

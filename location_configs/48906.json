@@ -1,0 +1,11 @@
+{
+  "id": 48906,
+  "name": "Statue",
+  "models_2": [
+    49028
+  ],
+  "dim_x": 5,
+  "dim_y": 4,
+  "ambient": 5,
+  "contrast": 15
+}

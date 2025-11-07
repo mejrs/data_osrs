@@ -1,0 +1,22 @@
+{
+  "id": 51835,
+  "name": "Cabbage",
+  "models_2": [
+    8196
+  ],
+  "unknown_17": false,
+  "ambient": 17,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 1935,
+  "scale_x": 124,
+  "scale_y": 124,
+  "scale_z": 124,
+  "mapscene": 9
+}

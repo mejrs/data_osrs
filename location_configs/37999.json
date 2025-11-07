@@ -1,0 +1,18 @@
+{
+  "id": 37999,
+  "name": "Shelves",
+  "models_2": [
+    40542
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

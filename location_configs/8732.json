@@ -1,0 +1,23 @@
+{
+  "id": 8732,
+  "name": "Young tree",
+  "models_2": [
+    19931
+  ],
+  "actions": [
+    "Set-trap",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6682,
+      6565
+    ]
+  ],
+  "unknown_69": 30,
+  "unknown_75": 0,
+  "mapscene": 68
+}

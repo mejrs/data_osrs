@@ -1,0 +1,18 @@
+{
+  "id": 12802,
+  "name": "Coffin",
+  "models_2": [
+    13960
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 27533,
+  "name": "Crates",
+  "models_2": [
+    30229
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

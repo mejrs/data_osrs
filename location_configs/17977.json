@@ -1,0 +1,19 @@
+{
+  "id": 17977,
+  "name": "Broken stairs",
+  "models_2": [
+    17690
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128,
+  "unknown_69": 27
+}

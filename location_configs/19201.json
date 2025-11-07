@@ -1,0 +1,22 @@
+{
+  "id": 19201,
+  "name": "Stairs",
+  "models_2": [
+    21323
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "scale_y": 135,
+  "unknown_69": 30
+}

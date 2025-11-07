@@ -1,0 +1,41 @@
+{
+  "id": 38358,
+  "models_2": [
+    39932,
+    40091
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      32821,
+      32931
+    ],
+    [
+      32827,
+      32941
+    ],
+    [
+      173,
+      6080
+    ],
+    [
+      165,
+      5809
+    ],
+    [
+      142,
+      15779
+    ],
+    [
+      138,
+      15779
+    ]
+  ],
+  "model": false,
+  "mapscene": 74
+}

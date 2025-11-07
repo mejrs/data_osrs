@@ -1,0 +1,45 @@
+{
+  "id": 29179,
+  "name": "Mounted Quest Cape",
+  "models_2": [
+    32187
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      36292
+    ],
+    [
+      54183,
+      36300
+    ],
+    [
+      54503,
+      36300
+    ],
+    [
+      960,
+      43113
+    ],
+    [
+      22464,
+      43096
+    ],
+    [
+      43968,
+      43096
+    ]
+  ],
+  "category": 206
+}

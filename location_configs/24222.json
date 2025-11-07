@@ -1,0 +1,17 @@
+{
+  "id": 24222,
+  "name": "Crumbling wall",
+  "models_2": [
+    11643
+  ],
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

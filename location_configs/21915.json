@@ -1,0 +1,16 @@
+{
+  "id": 21915,
+  "name": "Crate",
+  "models_2": [
+    22641
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

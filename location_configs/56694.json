@@ -1,0 +1,27 @@
+{
+  "id": 56694,
+  "name": "Tree roots",
+  "models_2": [
+    56606
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2200,
+  "scale_x": 72,
+  "scale_y": 72,
+  "scale_z": 72
+}

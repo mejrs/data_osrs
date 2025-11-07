@@ -1,0 +1,14 @@
+{
+  "id": 4091,
+  "name": "Fire altar",
+  "models_2": [
+    4150
+  ],
+  "actions": [
+    "Light",
+    null,
+    "hidden",
+    null,
+    null
+  ]
+}

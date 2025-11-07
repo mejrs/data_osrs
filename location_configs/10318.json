@@ -1,0 +1,33 @@
+{
+  "id": 10318,
+  "models": [
+    [
+      0,
+      3531
+    ],
+    [
+      2,
+      3532
+    ],
+    [
+      3,
+      3533
+    ],
+    [
+      9,
+      3534
+    ]
+  ],
+  "name": "Gates",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

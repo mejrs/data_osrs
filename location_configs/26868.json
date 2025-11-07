@@ -1,0 +1,16 @@
+{
+  "id": 26868,
+  "name": "Pet list",
+  "models_2": [
+    28954
+  ],
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 29
+}

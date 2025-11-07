@@ -1,0 +1,15 @@
+{
+  "id": 41845,
+  "name": "Lovakengj statue",
+  "models_2": [
+    37265
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 10,
+  "category": 1562,
+  "unknown_69": 27
+}

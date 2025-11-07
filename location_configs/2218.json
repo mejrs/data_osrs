@@ -1,0 +1,46 @@
+{
+  "id": 2218,
+  "name": "Fissure",
+  "models_2": [
+    830
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "occludes_1": false,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5425,
+      6798
+    ],
+    [
+      61,
+      5908
+    ],
+    [
+      45,
+      5772
+    ],
+    [
+      57,
+      8086
+    ],
+    [
+      28,
+      5388
+    ],
+    [
+      16156,
+      6798
+    ]
+  ],
+  "scale_x": 192,
+  "scale_z": 192
+}

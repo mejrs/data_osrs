@@ -1,0 +1,26 @@
+{
+  "id": 3219,
+  "models": [
+    [
+      0,
+      832
+    ]
+  ],
+  "name": "Tunnel",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7952
+    ]
+  ],
+  "mirror": true
+}

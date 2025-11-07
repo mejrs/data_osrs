@@ -1,0 +1,24 @@
+{
+  "id": 56126,
+  "name": "KBD heads",
+  "models_2": [
+    56054
+  ],
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    "Trophies",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      61,
+      8
+    ]
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

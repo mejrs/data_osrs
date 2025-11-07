@@ -1,0 +1,14 @@
+{
+  "id": 56002,
+  "name": "Icicles",
+  "models_2": [
+    55942
+  ],
+  "is_transparent": true,
+  "unknown_24": 12010,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 60,
+  "translate_y": 65534,
+  "unknown_89": false
+}

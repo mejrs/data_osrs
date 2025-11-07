@@ -1,0 +1,22 @@
+{
+  "id": 25379,
+  "models": [
+    [
+      4,
+      7454
+    ]
+  ],
+  "name": "Mind rift",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 2178,
+  "ambient": 50,
+  "actions": [
+    "Exit-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50
+}

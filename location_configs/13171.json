@@ -1,0 +1,23 @@
+{
+  "id": 13171,
+  "name": "Clock",
+  "models_2": [
+    12972
+  ],
+  "unknown_19": 1,
+  "unknown_24": 3511,
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "unknown_78": {
+    "unknown_1": 3120,
+    "unknown_2": 3
+  }
+}

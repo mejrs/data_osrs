@@ -1,0 +1,18 @@
+{
+  "id": 49382,
+  "models": [
+    [
+      22,
+      48788
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 35,
+  "mirror": true,
+  "scale_y": 32,
+  "translate_y": 65535,
+  "unknown_73": true
+}

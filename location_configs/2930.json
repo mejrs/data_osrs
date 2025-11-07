@@ -1,0 +1,17 @@
+{
+  "id": 2930,
+  "name": "Ancient Gate",
+  "models_2": [
+    1823
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

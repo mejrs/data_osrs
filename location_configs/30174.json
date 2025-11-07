@@ -1,0 +1,45 @@
+{
+  "id": 30174,
+  "models": [
+    [
+      0,
+      17063
+    ]
+  ],
+  "name": "Tunnel",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      5675,
+      6034
+    ],
+    [
+      5551,
+      7054
+    ],
+    [
+      6327,
+      7050
+    ],
+    [
+      5194,
+      8070
+    ],
+    [
+      127,
+      11138
+    ]
+  ],
+  "category": 858
+}

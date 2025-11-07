@@ -1,0 +1,18 @@
+{
+  "id": 8052,
+  "name": "Orange tree",
+  "models_2": [
+    8046,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

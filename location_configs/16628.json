@@ -1,0 +1,19 @@
+{
+  "id": 16628,
+  "name": "Nine",
+  "models_2": [
+    16781
+  ],
+  "unknown_19": 1,
+  "unknown_24": 4356,
+  "ambient": 30,
+  "actions": [
+    "Press",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "model": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 48718,
+  "name": "Desk",
+  "models_2": [
+    1291
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5656,
+      4502
+    ]
+  ]
+}

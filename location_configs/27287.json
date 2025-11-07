@@ -1,0 +1,23 @@
+{
+  "id": 27287,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    "Toggle XP",
+    null,
+    null,
+    null
+  ],
+  "category": 884,
+  "unknown_69": 27,
+  "morphs_1": {
+    "varbit": 13677,
+    "ids": [
+      21454,
+      27288,
+      43498
+    ]
+  }
+}

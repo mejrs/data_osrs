@@ -1,0 +1,19 @@
+{
+  "id": 7875,
+  "name": "Marigold",
+  "models_2": [
+    7854,
+    7767,
+    7783
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

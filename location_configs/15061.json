@@ -1,0 +1,19 @@
+{
+  "id": 15061,
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 2129,
+    "ids": [
+      15052,
+      15053
+    ]
+  }
+}

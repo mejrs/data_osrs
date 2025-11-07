@@ -1,0 +1,17 @@
+{
+  "id": 6275,
+  "name": "Study desk",
+  "models_2": [
+    1291
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 154
+}

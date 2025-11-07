@@ -1,0 +1,16 @@
+{
+  "id": 31707,
+  "name": "Manhole",
+  "models_2": [
+    25035
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    "Close",
+    null,
+    null,
+    null
+  ]
+}

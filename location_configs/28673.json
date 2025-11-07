@@ -1,0 +1,21 @@
+{
+  "id": 28673,
+  "name": "Jungle Grass",
+  "models_2": [
+    31481
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 100,
+  "scale_y": 270,
+  "scale_z": 100,
+  "unknown_73": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7171,
+  "models": [
+    [
+      4,
+      18308
+    ]
+  ],
+  "name": "Shelf",
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 205
+}

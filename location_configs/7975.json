@@ -1,0 +1,19 @@
+{
+  "id": 7975,
+  "name": "Pineapple plant",
+  "models_2": [
+    8100,
+    7767,
+    8097
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick-pineapple",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

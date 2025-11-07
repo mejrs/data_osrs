@@ -1,0 +1,19 @@
+{
+  "id": 13312,
+  "models": [
+    [
+      4,
+      12471
+    ]
+  ],
+  "name": "Blood",
+  "ambient": 100,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

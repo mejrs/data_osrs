@@ -1,0 +1,9 @@
+{
+  "id": 6033,
+  "name": "Boiler",
+  "models_2": [
+    6001
+  ],
+  "dim_y": 2,
+  "mirror": true
+}

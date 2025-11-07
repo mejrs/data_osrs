@@ -1,0 +1,13 @@
+{
+  "id": 28522,
+  "name": "Glass table",
+  "models_2": [
+    30923
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 154
+}

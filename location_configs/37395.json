@@ -1,0 +1,22 @@
+{
+  "id": 37395,
+  "name": "Rockslide",
+  "models_2": [
+    818
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      8472
+    ]
+  ]
+}

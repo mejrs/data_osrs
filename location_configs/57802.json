@@ -1,0 +1,30 @@
+{
+  "id": 57802,
+  "name": "Plant",
+  "models_2": [
+    58536
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      14631,
+      9630
+    ],
+    [
+      14622,
+      10646
+    ],
+    [
+      9907,
+      5952
+    ]
+  ],
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

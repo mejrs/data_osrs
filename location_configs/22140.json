@@ -1,0 +1,23 @@
+{
+  "id": 22140,
+  "name": "Drawers",
+  "models_2": [
+    22937
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      6466,
+      6573
+    ],
+    [
+      5545,
+      6817
+    ]
+  ],
+  "mirror": true,
+  "translate_x": 65520
+}

@@ -1,0 +1,13 @@
+{
+  "id": 60206,
+  "name": "Table of coral",
+  "models_2": [
+    58878
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 25,
+  "category": 154
+}

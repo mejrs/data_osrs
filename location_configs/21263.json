@@ -1,0 +1,18 @@
+{
+  "id": 21263,
+  "name": "Urn",
+  "models_2": [
+    16421,
+    16416
+  ],
+  "unknown_19": 1,
+  "unknown_24": 4335,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    "Check for Snakes",
+    null,
+    null,
+    null
+  ]
+}

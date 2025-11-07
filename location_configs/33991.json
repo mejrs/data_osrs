@@ -1,0 +1,18 @@
+{
+  "id": 33991,
+  "name": "Attas plant",
+  "models_2": [
+    36880,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

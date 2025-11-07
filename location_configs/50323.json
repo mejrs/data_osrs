@@ -1,0 +1,12 @@
+{
+  "id": 50323,
+  "name": "Shelves",
+  "models_2": [
+    50227
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 40,
+  "category": 1902
+}

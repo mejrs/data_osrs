@@ -1,0 +1,19 @@
+{
+  "id": 26634,
+  "models": [
+    [
+      4,
+      2040
+    ]
+  ],
+  "name": "Treasure Trail Statistics",
+  "unknown_19": 1,
+  "ambient": 50,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33188,
+  "name": "Rope",
+  "models_2": [
+    35929
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 27
+}

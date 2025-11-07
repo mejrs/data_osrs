@@ -1,0 +1,33 @@
+{
+  "id": 58729,
+  "name": "Diseased Camphor",
+  "models_2": [
+    58636,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      3350,
+      8472
+    ],
+    [
+      5400,
+      10520
+    ]
+  ],
+  "textures": {
+    "8": 196,
+    "60": 197
+  }
+}

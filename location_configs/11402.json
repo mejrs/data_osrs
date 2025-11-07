@@ -1,0 +1,15 @@
+{
+  "id": 11402,
+  "models": [
+    [
+      0,
+      16242
+    ]
+  ],
+  "name": "Sign",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 20
+}

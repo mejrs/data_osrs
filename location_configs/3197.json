@@ -1,0 +1,16 @@
+{
+  "id": 3197,
+  "name": "Trawler net",
+  "models_2": [
+    1901
+  ],
+  "dim_x": 2,
+  "dim_y": 6,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

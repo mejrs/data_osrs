@@ -1,0 +1,12 @@
+{
+  "id": 10436,
+  "name": "Fountain",
+  "models_2": [
+    10163,
+    10164
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 20,
+  "model": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 35966,
+  "name": "Singing Bowl",
+  "models_2": [
+    37460
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8413,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Sing-crystal",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 44,
+  "category": 1352
+}

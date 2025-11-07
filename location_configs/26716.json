@@ -1,0 +1,20 @@
+{
+  "id": 26716,
+  "models_2": [
+    5515
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_24": 1727,
+  "colours": [
+    [
+      61,
+      9112
+    ]
+  ],
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "translate_y": 65535
+}

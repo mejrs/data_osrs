@@ -1,0 +1,18 @@
+{
+  "id": 9011,
+  "name": "Light Jungle",
+  "models_2": [
+    8896
+  ],
+  "is_transparent": true,
+  "unknown_24": 2380,
+  "actions": [
+    null,
+    null,
+    "Hidden",
+    "Hack",
+    null
+  ],
+  "category": 159,
+  "mapscene": 5
+}

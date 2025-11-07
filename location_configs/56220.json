@@ -1,0 +1,16 @@
+{
+  "id": 56220,
+  "name": "Boxes",
+  "models_2": [
+    2138
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 242,
+  "translate_z": 20
+}

@@ -1,0 +1,24 @@
+{
+  "id": 41681,
+  "models": [
+    [
+      4,
+      42257
+    ]
+  ],
+  "name": "Clan banner",
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      39469,
+      6852
+    ],
+    [
+      38686,
+      6845
+    ]
+  ],
+  "translate_y": 65466
+}

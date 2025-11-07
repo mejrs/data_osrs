@@ -1,0 +1,28 @@
+{
+  "id": 16060,
+  "name": "Exit",
+  "models_2": [
+    1487,
+    13908,
+    13909
+  ],
+  "dim_y": 3,
+  "ambient": 50,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8078,
+      7585
+    ],
+    [
+      8082,
+      7585
+    ]
+  ]
+}

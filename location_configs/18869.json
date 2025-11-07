@@ -1,0 +1,35 @@
+{
+  "id": 18869,
+  "models": [
+    [
+      0,
+      19296
+    ]
+  ],
+  "name": "Cell wall window",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Bend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      10334,
+      8390
+    ],
+    [
+      10326,
+      8381
+    ],
+    [
+      10318,
+      7349
+    ]
+  ]
+}

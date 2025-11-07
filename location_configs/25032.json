@@ -1,0 +1,20 @@
+{
+  "id": 25032,
+  "models_2": [
+    26398
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "colours": [
+    [
+      6689,
+      7465
+    ]
+  ],
+  "mirror": true,
+  "scale_x": 128,
+  "scale_y": 256,
+  "scale_z": 128
+}

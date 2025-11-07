@@ -1,0 +1,22 @@
+{
+  "id": 59283,
+  "name": "Sealed crate",
+  "models_2": [
+    42298,
+    18328
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 3743,
+  "ambient": 20,
+  "actions": [
+    "Pry-open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false
+}

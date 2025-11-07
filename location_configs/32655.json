@@ -1,0 +1,17 @@
+{
+  "id": 32655,
+  "name": "Notice board",
+  "models_2": [
+    35253
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

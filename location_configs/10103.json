@@ -1,0 +1,19 @@
+{
+  "id": 10103,
+  "name": "Trashed Patch",
+  "models_2": [
+    7801,
+    7766
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ]
+}

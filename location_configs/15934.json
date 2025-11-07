@@ -1,0 +1,15 @@
+{
+  "id": 15934,
+  "name": "Workbench",
+  "models_2": [
+    15771,
+    15770
+  ],
+  "actions": [
+    "Take-Tool",
+    null,
+    null,
+    null,
+    null
+  ]
+}

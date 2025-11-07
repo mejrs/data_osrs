@@ -1,0 +1,24 @@
+{
+  "id": 8072,
+  "name": "Dead orange tree",
+  "models_2": [
+    8046,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      8602,
+      10508
+    ]
+  ]
+}

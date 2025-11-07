@@ -1,0 +1,26 @@
+{
+  "id": 42804,
+  "models_2": [
+    23118
+  ],
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      7442,
+      3230
+    ],
+    [
+      7566,
+      3346
+    ],
+    [
+      7690,
+      3594
+    ]
+  ]
+}

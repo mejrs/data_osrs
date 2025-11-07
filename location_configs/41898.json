@@ -1,0 +1,20 @@
+{
+  "id": 41898,
+  "name": "Shelf",
+  "models_2": [
+    30512
+  ],
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      11191,
+      33230
+    ],
+    [
+      7506,
+      7467
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 17429,
+  "name": "Rusty key",
+  "models_2": [
+    17468,
+    17471
+  ],
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "translate_y": 65534
+}

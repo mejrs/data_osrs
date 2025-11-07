@@ -1,0 +1,15 @@
+{
+  "id": 10805,
+  "name": "Sandy's Desk",
+  "models_2": [
+    10715
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

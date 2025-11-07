@@ -1,0 +1,33 @@
+{
+  "id": 41317,
+  "name": "Rock",
+  "models_2": [
+    10974,
+    11003
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Take-axe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      10398,
+      8656
+    ],
+    [
+      10518,
+      8656
+    ],
+    [
+      61,
+      5652
+    ]
+  ]
+}

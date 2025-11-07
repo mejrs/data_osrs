@@ -1,0 +1,22 @@
+{
+  "id": 32211,
+  "name": "Rough hewn steps",
+  "models_2": [
+    26714
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30,
+  "mapscene": 7
+}

@@ -1,0 +1,31 @@
+{
+  "id": 16885,
+  "name": "Barrel",
+  "models_2": [
+    7761,
+    16514
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6558,
+      5404
+    ],
+    [
+      6443,
+      6563
+    ],
+    [
+      6806,
+      6930
+    ]
+  ],
+  "category": 529
+}

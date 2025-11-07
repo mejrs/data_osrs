@@ -1,0 +1,45 @@
+{
+  "id": 29190,
+  "name": "Mounted Defence Cape",
+  "models_2": [
+    32189
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      41426
+    ],
+    [
+      54183,
+      41408
+    ],
+    [
+      54503,
+      41527
+    ],
+    [
+      960,
+      41426
+    ],
+    [
+      22464,
+      41416
+    ],
+    [
+      43968,
+      41408
+    ]
+  ],
+  "category": 206
+}

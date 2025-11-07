@@ -1,0 +1,25 @@
+{
+  "id": 17100,
+  "models": [
+    [
+      10,
+      15609
+    ],
+    [
+      0,
+      15610
+    ]
+  ],
+  "name": "Rickety door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 4284,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19906,
+  "models": [
+    [
+      0,
+      20034
+    ]
+  ],
+  "name": "Tunnel",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

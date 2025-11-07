@@ -1,0 +1,27 @@
+{
+  "id": 49375,
+  "models_2": [
+    49013
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      7260,
+      7260
+    ],
+    [
+      7244,
+      7244
+    ]
+  ],
+  "scale_x": 166,
+  "scale_y": 166,
+  "scale_z": 166
+}

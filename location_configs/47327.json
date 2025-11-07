@@ -1,0 +1,11 @@
+{
+  "id": 47327,
+  "name": "Ancient Doors",
+  "models_2": [
+    34745
+  ],
+  "dim_x": 6,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 30
+}

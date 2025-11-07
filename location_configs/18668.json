@@ -1,0 +1,21 @@
+{
+  "id": 18668,
+  "models": [
+    [
+      4,
+      18855
+    ]
+  ],
+  "name": "Cog",
+  "unknown_19": 1,
+  "unknown_24": 4896,
+  "ambient": 50,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50
+}

@@ -1,0 +1,34 @@
+{
+  "id": 41400,
+  "models": [
+    [
+      0,
+      5314
+    ],
+    [
+      1,
+      5315
+    ],
+    [
+      9,
+      5316
+    ]
+  ],
+  "name": "Rail",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15,
+  "colours": [
+    [
+      5921,
+      5553
+    ],
+    [
+      5673,
+      5553
+    ]
+  ]
+}

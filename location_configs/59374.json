@@ -1,0 +1,16 @@
+{
+  "id": 59374,
+  "name": "Tangle of fishing nets",
+  "models_2": [
+    58533
+  ],
+  "unknown_24": 13564,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2317
+}

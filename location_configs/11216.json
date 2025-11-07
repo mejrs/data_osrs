@@ -1,0 +1,16 @@
+{
+  "id": 11216,
+  "name": "Broken Cannon",
+  "models_2": [
+    11153
+  ],
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ]
+}

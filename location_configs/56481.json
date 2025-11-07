@@ -1,0 +1,17 @@
+{
+  "id": 56481,
+  "name": "Cabinet",
+  "models_2": [
+    7105
+  ],
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

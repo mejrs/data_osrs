@@ -1,0 +1,25 @@
+{
+  "id": 10823,
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 288,
+  "morphs_1": {
+    "varbit": 4153,
+    "ids": [
+      10822,
+      9714
+    ]
+  },
+  "unknown_81": 80,
+  "mapscene": 129
+}

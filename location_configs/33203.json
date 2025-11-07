@@ -1,0 +1,16 @@
+{
+  "id": 33203,
+  "name": "<col=ffff00>Icicle</col>",
+  "models_2": [
+    35833
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 8154,
+  "unknown_27": false,
+  "mapscene": 82,
+  "params": {
+    "2312": 9
+  }
+}

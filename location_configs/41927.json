@@ -1,0 +1,13 @@
+{
+  "id": 41927,
+  "models": [
+    [
+      0,
+      34061
+    ]
+  ],
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20
+}

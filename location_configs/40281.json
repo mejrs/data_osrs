@@ -1,0 +1,19 @@
+{
+  "id": 40281,
+  "name": "<col=ffff00>Wily hellcat",
+  "models_2": [
+    13412,
+    13408
+  ],
+  "unknown_24": 317,
+  "ambient": 40,
+  "colours": [
+    [
+      8,
+      914
+    ]
+  ],
+  "scale_x": 70,
+  "scale_y": 70,
+  "scale_z": 70
+}

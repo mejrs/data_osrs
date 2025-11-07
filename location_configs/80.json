@@ -1,0 +1,19 @@
+{
+  "id": 80,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Prison Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 28915,
+  "models": [
+    [
+      22,
+      31590
+    ]
+  ],
+  "name": "Hole",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      12178,
+      47514
+    ],
+    [
+      8078,
+      47382
+    ],
+    [
+      9096,
+      16
+    ],
+    [
+      9108,
+      47514
+    ]
+  ]
+}

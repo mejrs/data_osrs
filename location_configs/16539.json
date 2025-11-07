@@ -1,0 +1,20 @@
+{
+  "id": 16539,
+  "models": [
+    [
+      0,
+      9247
+    ]
+  ],
+  "name": "Crevice",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

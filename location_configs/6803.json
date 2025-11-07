@@ -1,0 +1,17 @@
+{
+  "id": 6803,
+  "name": "Helmet pluming stand",
+  "models_2": [
+    12564
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Make-helmet",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

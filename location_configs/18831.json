@@ -1,0 +1,34 @@
+{
+  "id": 18831,
+  "name": "Dead herbs",
+  "models_2": [
+    19148,
+    19152,
+    19143
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      5392
+    ],
+    [
+      19988,
+      5268
+    ],
+    [
+      19992,
+      10508
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 8304,
+  "name": "Diseased Yanillian Hops",
+  "models_2": [
+    8202,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13210,
+      9114
+    ],
+    [
+      13214,
+      8995
+    ],
+    [
+      13095,
+      8747
+    ],
+    [
+      14098,
+      10002
+    ],
+    [
+      13850,
+      9754
+    ]
+  ]
+}

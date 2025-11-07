@@ -1,0 +1,21 @@
+{
+  "id": 21143,
+  "name": "Snow jump",
+  "models_2": [
+    21611
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

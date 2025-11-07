@@ -1,0 +1,28 @@
+{
+  "id": 41448,
+  "name": "Willow's bag",
+  "models_2": [
+    14145
+  ],
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      8361
+    ],
+    [
+      16652,
+      286
+    ],
+    [
+      16536,
+      280
+    ]
+  ]
+}

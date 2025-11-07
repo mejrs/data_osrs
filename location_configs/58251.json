@@ -1,0 +1,15 @@
+{
+  "id": 58251,
+  "models": [
+    [
+      9,
+      59687
+    ]
+  ],
+  "name": "Cell door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25
+}

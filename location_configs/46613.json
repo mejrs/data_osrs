@@ -1,0 +1,28 @@
+{
+  "id": 46613,
+  "name": "Pillar",
+  "models_2": [
+    47040
+  ],
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "colours": [
+    [
+      563,
+      47814
+    ],
+    [
+      2836,
+      3486
+    ]
+  ],
+  "model": false
+}

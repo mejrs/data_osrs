@@ -1,0 +1,16 @@
+{
+  "id": 13572,
+  "name": "Dragon bitter",
+  "models_2": [
+    12384
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

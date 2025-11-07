@@ -1,0 +1,24 @@
+{
+  "id": 46071,
+  "name": "Scoreboard",
+  "models_2": [
+    46197
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      7469,
+      8363
+    ]
+  ]
+}

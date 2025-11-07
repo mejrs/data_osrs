@@ -1,0 +1,20 @@
+{
+  "id": 33503,
+  "name": "Furnace",
+  "models_2": [
+    36221
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "scale_y": 112,
+  "scale_z": 112,
+  "translate_z": 65520
+}

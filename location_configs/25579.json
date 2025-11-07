@@ -1,0 +1,19 @@
+{
+  "id": 25579,
+  "models": [
+    [
+      4,
+      27030
+    ]
+  ],
+  "name": "Star chart",
+  "ambient": 20,
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

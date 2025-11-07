@@ -1,0 +1,16 @@
+{
+  "id": 30097,
+  "name": "The Great Expedition",
+  "models_2": [
+    3138
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

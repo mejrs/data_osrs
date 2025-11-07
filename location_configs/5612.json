@@ -1,0 +1,31 @@
+{
+  "id": 5612,
+  "models": [
+    [
+      0,
+      993
+    ],
+    [
+      1,
+      995
+    ],
+    [
+      2,
+      996
+    ],
+    [
+      3,
+      998
+    ],
+    [
+      9,
+      999
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "scale_x": 142,
+  "scale_y": 340,
+  "scale_z": 142
+}

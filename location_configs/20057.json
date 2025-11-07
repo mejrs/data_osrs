@@ -1,0 +1,24 @@
+{
+  "id": 20057,
+  "models": [
+    [
+      4,
+      10072
+    ]
+  ],
+  "name": "Trellis",
+  "unknown_19": 1,
+  "ambient": 5,
+  "contrast": 5,
+  "colours": [
+    [
+      26908,
+      6554
+    ],
+    [
+      26789,
+      6430
+    ]
+  ],
+  "translate_y": 58
+}

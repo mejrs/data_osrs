@@ -1,0 +1,16 @@
+{
+  "id": 27677,
+  "name": "Tin bath",
+  "models_2": [
+    30318
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      32922,
+      7580
+    ]
+  ]
+}

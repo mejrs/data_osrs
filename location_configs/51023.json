@@ -1,0 +1,19 @@
+{
+  "id": 51023,
+  "models_2": [
+    51747
+  ],
+  "dim_x": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -15,
+  "contrast": 30,
+  "colours": [
+    [
+      38181,
+      39203
+    ]
+  ],
+  "translate_y": 1
+}

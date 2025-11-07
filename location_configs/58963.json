@@ -1,0 +1,25 @@
+{
+  "id": 58963,
+  "name": "Portal of Iorwerth",
+  "models_2": [
+    37828
+  ],
+  "ambient": 30,
+  "contrast": 44,
+  "colours": [
+    [
+      33488,
+      8
+    ],
+    [
+      33455,
+      8
+    ],
+    [
+      33344,
+      8
+    ]
+  ],
+  "scale_z": 384,
+  "translate_y": 65534
+}

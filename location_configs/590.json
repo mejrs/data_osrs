@@ -1,0 +1,12 @@
+{
+  "id": 590,
+  "name": "Bank table",
+  "models_2": [
+    1262
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 25,
+  "category": 154
+}

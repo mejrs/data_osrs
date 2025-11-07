@@ -1,0 +1,21 @@
+{
+  "id": 51051,
+  "name": "Brazier",
+  "models_2": [
+    52632
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "model": false
+}

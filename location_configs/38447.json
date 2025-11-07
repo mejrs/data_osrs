@@ -1,0 +1,34 @@
+{
+  "id": 38447,
+  "models": [
+    [
+      22,
+      40205
+    ]
+  ],
+  "name": "Strange Tile",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      49275,
+      39473
+    ],
+    [
+      49251,
+      40483
+    ],
+    [
+      49230,
+      8012
+    ],
+    [
+      49205,
+      7618
+    ]
+  ],
+  "category": 1442
+}

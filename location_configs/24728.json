@@ -1,0 +1,17 @@
+{
+  "id": 24728,
+  "name": "Music Stand",
+  "models_2": [
+    25938
+  ],
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

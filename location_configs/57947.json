@@ -1,0 +1,12 @@
+{
+  "id": 57947,
+  "name": "Crafting stall",
+  "models_2": [
+    58842,
+    58841
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 10
+}

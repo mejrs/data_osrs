@@ -1,0 +1,15 @@
+{
+  "id": 11236,
+  "name": "Plunder Storage",
+  "models_2": [
+    11205
+  ],
+  "actions": [
+    "Count-plunder",
+    "Store-plunder",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

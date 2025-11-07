@@ -1,0 +1,27 @@
+{
+  "id": 4109,
+  "models": [
+    [
+      0,
+      41770
+    ]
+  ],
+  "name": "Solid silver door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      43076
+    ],
+    [
+      33,
+      43096
+    ]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 28642,
+  "name": "Crates",
+  "models_2": [
+    31457
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20
+}

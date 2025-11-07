@@ -1,0 +1,12 @@
+{
+  "id": 57187,
+  "name": "Chopped trees",
+  "models_2": [
+    57005
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

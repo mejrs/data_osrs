@@ -1,0 +1,35 @@
+{
+  "id": 8627,
+  "name": "Sweetcorn plant",
+  "models_2": [
+    8222,
+    8172,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14786,
+      14889
+    ],
+    [
+      21978,
+      14897
+    ],
+    [
+      14897,
+      18085
+    ],
+    [
+      8148,
+      7869
+    ]
+  ]
+}

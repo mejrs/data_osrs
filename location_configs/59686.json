@@ -1,0 +1,18 @@
+{
+  "id": 59686,
+  "name": "Gale catcher",
+  "models_2": [
+    58341
+  ],
+  "is_transparent": true,
+  "unknown_24": 13423,
+  "unknown_27": false,
+  "actions": [
+    "Release-mote",
+    "Deactivate",
+    null,
+    null,
+    null
+  ],
+  "category": 2327
+}

@@ -1,0 +1,13 @@
+{
+  "id": 48768,
+  "name": "Portal",
+  "models_2": [
+    48374
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 8934,
+  "ambient": 60,
+  "contrast": 60,
+  "unknown_89": false
+}

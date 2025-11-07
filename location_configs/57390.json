@@ -1,0 +1,26 @@
+{
+  "id": 57390,
+  "models": [
+    [
+      10,
+      56899
+    ],
+    [
+      0,
+      56914
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 25,
+  "colours": [
+    [
+      41249,
+      27036
+    ]
+  ],
+  "translate_y": 1
+}

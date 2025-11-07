@@ -1,0 +1,13 @@
+{
+  "id": 12315,
+  "name": "Banquet table",
+  "models_2": [
+    56332,
+    56334,
+    13666,
+    13667
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_22": true
+}

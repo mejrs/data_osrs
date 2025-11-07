@@ -1,0 +1,11 @@
+{
+  "id": 10786,
+  "name": "Rock",
+  "models_2": [
+    1434
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "mapscene": 11
+}

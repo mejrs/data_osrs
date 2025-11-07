@@ -1,0 +1,25 @@
+{
+  "id": 11247,
+  "name": "Repair Locker",
+  "models_2": [
+    11162
+  ],
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      5904
+    ],
+    [
+      7952,
+      6806
+    ]
+  ],
+  "unknown_69": 27
+}

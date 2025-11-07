@@ -1,0 +1,19 @@
+{
+  "id": 54540,
+  "name": "Wall",
+  "models_2": [
+    54617
+  ],
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "unknown_69": 23,
+  "mapscene": 7
+}

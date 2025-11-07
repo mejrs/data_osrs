@@ -1,0 +1,16 @@
+{
+  "id": 23698,
+  "name": "Hole",
+  "models_2": [
+    10601
+  ],
+  "unknown_22": true,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

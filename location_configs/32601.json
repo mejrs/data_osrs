@@ -1,0 +1,16 @@
+{
+  "id": 32601,
+  "name": "Row boat",
+  "models_2": [
+    9535
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ]
+}

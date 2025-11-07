@@ -1,0 +1,25 @@
+{
+  "id": 53273,
+  "models": [
+    [
+      10,
+      53541
+    ],
+    [
+      22,
+      53536
+    ]
+  ],
+  "name": "Pit",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    null,
+    null,
+    "Trap",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_73": true
+}

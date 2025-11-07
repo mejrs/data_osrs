@@ -1,0 +1,34 @@
+{
+  "id": 18828,
+  "name": "Diseased herbs",
+  "models_2": [
+    19148,
+    19152,
+    19143
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      11148
+    ],
+    [
+      19988,
+      11026
+    ],
+    [
+      19992,
+      10902
+    ]
+  ]
+}

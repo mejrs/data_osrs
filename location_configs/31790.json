@@ -1,0 +1,17 @@
+{
+  "id": 31790,
+  "name": "Vine ladder",
+  "models_2": [
+    34399
+  ],
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7
+}

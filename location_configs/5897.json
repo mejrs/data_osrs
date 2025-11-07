@@ -1,0 +1,20 @@
+{
+  "id": 5897,
+  "name": "Shining pool",
+  "models_2": [
+    5724
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 523,
+  "ambient": 40,
+  "actions": [
+    "Listen-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

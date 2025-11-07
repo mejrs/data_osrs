@@ -1,0 +1,30 @@
+{
+  "id": 8218,
+  "name": "Krandorian Hops",
+  "models_2": [
+    8205,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    "Harvest",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13210,
+      5797
+    ],
+    [
+      13214,
+      5677
+    ],
+    [
+      13095,
+      5557
+    ]
+  ]
+}

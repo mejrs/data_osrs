@@ -1,0 +1,37 @@
+{
+  "id": 48635,
+  "name": "Entry",
+  "models_2": [
+    36368
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 5,
+  "contrast": 20,
+  "colours": [
+    [
+      16532,
+      154
+    ],
+    [
+      16652,
+      148
+    ],
+    [
+      16904,
+      268
+    ],
+    [
+      17284,
+      520
+    ],
+    [
+      22402,
+      898
+    ]
+  ],
+  "unknown_73": true
+}

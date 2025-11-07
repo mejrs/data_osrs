@@ -1,0 +1,14 @@
+{
+  "id": 40082,
+  "name": "Drawer space",
+  "models_2": [
+    40795
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    "Build",
+    null
+  ]
+}

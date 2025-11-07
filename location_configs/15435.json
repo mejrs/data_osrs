@@ -1,0 +1,15 @@
+{
+  "id": 15435,
+  "name": "Lever space",
+  "models_2": [
+    12716
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

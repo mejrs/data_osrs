@@ -1,0 +1,10 @@
+{
+  "id": 51380,
+  "name": "Blood Mural",
+  "models_2": [
+    52399
+  ],
+  "dim_x": 3,
+  "ambient": 50,
+  "contrast": 20
+}

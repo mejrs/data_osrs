@@ -1,0 +1,18 @@
+{
+  "id": 2971,
+  "models": [
+    [
+      0,
+      584
+    ]
+  ],
+  "name": "Shimmering field",
+  "unknown_19": 1,
+  "actions": [
+    "Walk-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

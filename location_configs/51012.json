@@ -1,0 +1,22 @@
+{
+  "id": 51012,
+  "models": [
+    [
+      0,
+      51748
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -10,
+  "contrast": 30,
+  "colours": [
+    [
+      38181,
+      39203
+    ]
+  ],
+  "mirror": true,
+  "translate_y": 1
+}

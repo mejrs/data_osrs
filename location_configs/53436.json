@@ -1,0 +1,28 @@
+{
+  "id": 53436,
+  "models": [
+    [
+      0,
+      53992
+    ],
+    [
+      1,
+      54004
+    ],
+    [
+      3,
+      54005
+    ],
+    [
+      9,
+      53975
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15,
+  "breakroutefinding": true
+}

@@ -1,0 +1,25 @@
+{
+  "id": 42150,
+  "name": "Cloth",
+  "models_2": [
+    5561
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 5,
+  "colours": [
+    [
+      22422,
+      16
+    ],
+    [
+      38554,
+      920
+    ],
+    [
+      43156,
+      16
+    ]
+  ]
+}

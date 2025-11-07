@@ -1,0 +1,23 @@
+{
+  "id": 17516,
+  "models": [
+    [
+      0,
+      17766
+    ],
+    [
+      1,
+      17767
+    ],
+    [
+      9,
+      17768
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "scale_x": 128,
+  "scale_y": 80,
+  "scale_z": 128
+}

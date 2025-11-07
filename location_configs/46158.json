@@ -1,0 +1,31 @@
+{
+  "id": 46158,
+  "name": "Path of Apmeken",
+  "models_2": [
+    45368,
+    45361
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 9495,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    "Quick-Enter",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      4944,
+      8002
+    ]
+  ],
+  "category": 1680,
+  "unknown_73": true
+}

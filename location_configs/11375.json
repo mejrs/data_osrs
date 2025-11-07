@@ -1,0 +1,26 @@
+{
+  "id": 11375,
+  "name": "Adamantite rocks",
+  "models_2": [
+    1391
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      24,
+      21662
+    ]
+  ],
+  "category": 197,
+  "mapscene": 149
+}

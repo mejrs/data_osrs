@@ -1,0 +1,17 @@
+{
+  "id": 52695,
+  "name": "Crown of Ralos",
+  "models_2": [
+    52363,
+    52361
+  ],
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

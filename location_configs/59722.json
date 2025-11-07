@@ -1,0 +1,22 @@
+{
+  "id": 59722,
+  "name": "Shipyard Portal",
+  "models_2": [
+    59507
+  ],
+  "dim_x": 3,
+  "unknown_24": 3174,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

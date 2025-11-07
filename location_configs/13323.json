@@ -1,0 +1,19 @@
+{
+  "id": 13323,
+  "models": [
+    [
+      0,
+      12435
+    ]
+  ],
+  "name": "Door",
+  "is_transparent": true,
+  "actions": [
+    "Open",
+    "Pick-lock",
+    "Force",
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,15 @@
+{
+  "id": 49362,
+  "name": "Nerve",
+  "models_2": [
+    49171
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 35,
+  "contrast": 20,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

@@ -1,0 +1,11 @@
+{
+  "id": 36498,
+  "name": "Shop counter",
+  "models_2": [
+    37867
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "translate_y": 65535
+}

@@ -1,0 +1,13 @@
+{
+  "id": 29865,
+  "name": "Shadow root",
+  "models_2": [
+    32458
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "mapscene": 6
+}

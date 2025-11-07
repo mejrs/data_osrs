@@ -1,0 +1,15 @@
+{
+  "id": 41551,
+  "name": "Barronite Crusher",
+  "models_2": [
+    42119
+  ],
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 772
+}

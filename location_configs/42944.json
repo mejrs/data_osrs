@@ -1,0 +1,22 @@
+{
+  "id": 42944,
+  "name": "Stalagmite",
+  "models_2": [
+    21710
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Attack",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 104,
+  "scale_y": 104,
+  "scale_z": 104
+}

@@ -1,0 +1,19 @@
+{
+  "id": 34499,
+  "name": "Cave",
+  "models_2": [
+    36476
+  ],
+  "dim_x": 4,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27,
+  "translate_y": 65535
+}

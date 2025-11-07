@@ -1,0 +1,35 @@
+{
+  "id": 58861,
+  "name": "Dead Hemp",
+  "models_2": [
+    59773,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21797,
+      7452
+    ],
+    [
+      21805,
+      7461
+    ],
+    [
+      61883,
+      61615
+    ],
+    [
+      21788,
+      7452
+    ]
+  ]
+}

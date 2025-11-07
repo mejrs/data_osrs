@@ -1,0 +1,18 @@
+{
+  "id": 32446,
+  "name": "Stone chest",
+  "models_2": [
+    33969
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

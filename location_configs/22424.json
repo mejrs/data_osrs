@@ -1,0 +1,25 @@
+{
+  "id": 22424,
+  "name": "Lever",
+  "models_2": [
+    1381
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6569,
+      6573
+    ],
+    [
+      5660,
+      6817
+    ]
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 544,
+  "name": "Broken Fence",
+  "models_2": [
+    31222
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 51
+}

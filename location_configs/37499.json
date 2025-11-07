@@ -1,0 +1,17 @@
+{
+  "id": 37499,
+  "name": "Basic Jewellery Box",
+  "models_2": [
+    32156
+  ],
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Teleport Menu",
+    "Tears of Guthix",
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206,
+  "translate_y": 65535
+}

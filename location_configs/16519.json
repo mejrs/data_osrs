@@ -1,0 +1,20 @@
+{
+  "id": 16519,
+  "name": "Castle wall",
+  "models_2": [
+    16918
+  ],
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb-under",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 29
+}

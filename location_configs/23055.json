@@ -1,0 +1,19 @@
+{
+  "id": 23055,
+  "name": "Broken cart",
+  "models_2": [
+    23976,
+    23974
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

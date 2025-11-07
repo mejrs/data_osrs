@@ -1,0 +1,23 @@
+{
+  "id": 24015,
+  "models": [
+    [
+      10,
+      11541
+    ],
+    [
+      3,
+      11542
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 20,
+  "colours": [
+    [
+      37,
+      7370
+    ]
+  ]
+}

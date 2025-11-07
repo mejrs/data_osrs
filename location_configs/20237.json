@@ -1,0 +1,43 @@
+{
+  "id": 20237,
+  "name": "Penance cave",
+  "models_2": [
+    20639
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Block",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6697,
+      5652
+    ],
+    [
+      6701,
+      5656
+    ],
+    [
+      6705,
+      5532
+    ],
+    [
+      6581,
+      5537
+    ],
+    [
+      6589,
+      5413
+    ]
+  ],
+  "unknown_75": 0
+}

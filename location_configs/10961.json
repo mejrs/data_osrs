@@ -1,0 +1,13 @@
+{
+  "id": 10961,
+  "name": "Camel's statue",
+  "models_2": [
+    10905,
+    10899
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25
+}

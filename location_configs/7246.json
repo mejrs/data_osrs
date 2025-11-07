@@ -1,0 +1,17 @@
+{
+  "id": 7246,
+  "models": [
+    [
+      0,
+      7563
+    ]
+  ],
+  "name": "Door",
+  "actions": [
+    "Pick-lock",
+    null,
+    null,
+    null,
+    null
+  ]
+}

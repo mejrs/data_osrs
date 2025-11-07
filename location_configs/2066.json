@@ -1,0 +1,11 @@
+{
+  "id": 2066,
+  "name": "Wall",
+  "models_2": [
+    571
+  ],
+  "textures": {
+    "2": 23
+  },
+  "mapscene": 21
+}

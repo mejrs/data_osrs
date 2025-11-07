@@ -1,0 +1,29 @@
+{
+  "id": 56787,
+  "name": "Stack of bricks",
+  "models_2": [
+    57021
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -10,
+  "contrast": 15,
+  "colours": [
+    [
+      3495,
+      3604
+    ],
+    [
+      3491,
+      2578
+    ],
+    [
+      3489,
+      2576
+    ],
+    [
+      4502,
+      2700
+    ]
+  ]
+}

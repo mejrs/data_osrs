@@ -1,0 +1,18 @@
+{
+  "id": 16590,
+  "name": "Log pile",
+  "models_2": [
+    16772
+  ],
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "model": false
+}

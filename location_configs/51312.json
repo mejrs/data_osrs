@@ -1,0 +1,27 @@
+{
+  "id": 51312,
+  "name": "Blue Moon Brazier",
+  "models_2": [
+    52632,
+    52631
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 7321,
+  "ambient": 45,
+  "actions": [
+    "Feed",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_78": {
+    "unknown_1": 2065,
+    "unknown_2": 3
+  }
+}

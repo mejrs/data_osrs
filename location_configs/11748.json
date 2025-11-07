@@ -1,0 +1,52 @@
+{
+  "id": 11748,
+  "models": [
+    [
+      10,
+      35150
+    ],
+    [
+      22,
+      35158
+    ]
+  ],
+  "name": "Grape vine",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Check-health",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      30,
+      8076
+    ],
+    [
+      35,
+      7952
+    ],
+    [
+      39,
+      7700
+    ],
+    [
+      43,
+      7704
+    ],
+    [
+      47,
+      7580
+    ],
+    [
+      51,
+      7585
+    ]
+  ],
+  "unknown_73": true
+}

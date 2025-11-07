@@ -1,0 +1,15 @@
+{
+  "id": 2227,
+  "name": "Crude raft",
+  "models_2": [
+    1461
+  ],
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Disembark",
+    null,
+    null,
+    null
+  ]
+}

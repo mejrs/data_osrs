@@ -1,0 +1,25 @@
+{
+  "id": 31034,
+  "name": "Giant Boulder",
+  "models_2": [
+    33540
+  ],
+  "dim_x": 8,
+  "dim_y": 8,
+  "is_transparent": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "Hidden",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1162,
+  "params": {
+    "430": 8
+  }
+}

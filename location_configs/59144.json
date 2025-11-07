@@ -1,0 +1,16 @@
+{
+  "id": 59144,
+  "name": "Outcrop",
+  "models_2": [
+    57672
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Launch-toad-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

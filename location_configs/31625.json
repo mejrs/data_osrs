@@ -1,0 +1,14 @@
+{
+  "id": 31625,
+  "name": "Fountain of Uhld",
+  "models_2": [
+    34381
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 7939,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "model": false
+}

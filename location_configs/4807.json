@@ -1,0 +1,30 @@
+{
+  "id": 4807,
+  "models": [
+    [
+      0,
+      4007
+    ]
+  ],
+  "name": "Bamboo Door",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      6703
+    ],
+    [
+      5673,
+      5673
+    ]
+  ],
+  "unknown_75": 0
+}

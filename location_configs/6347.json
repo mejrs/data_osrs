@@ -1,0 +1,28 @@
+{
+  "id": 6347,
+  "models": [
+    [
+      10,
+      6115
+    ],
+    [
+      0,
+      6116
+    ],
+    [
+      3,
+      8971
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      10334,
+      10436
+    ]
+  ],
+  "mirror": true,
+  "translate_y": 1
+}

@@ -1,0 +1,11 @@
+{
+  "id": 21918,
+  "name": "Magic table",
+  "models_2": [
+    22725
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 5824,
+  "ambient": 10
+}

@@ -1,0 +1,18 @@
+{
+  "id": 21794,
+  "models": [
+    [
+      4,
+      22302
+    ]
+  ],
+  "name": "Shelves",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

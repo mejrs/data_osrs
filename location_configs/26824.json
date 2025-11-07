@@ -1,0 +1,17 @@
+{
+  "id": 26824,
+  "name": "Cage",
+  "models_2": [
+    1213,
+    6066
+  ],
+  "dim_x": 2,
+  "unknown_27": false,
+  "textures": {
+    "5": 16,
+    "22": 16
+  },
+  "category": 154,
+  "scale_x": 112,
+  "scale_z": 108
+}

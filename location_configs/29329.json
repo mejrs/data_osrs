@@ -1,0 +1,27 @@
+{
+  "id": 29329,
+  "name": "Coffer",
+  "models_2": [
+    6072
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4647,
+      33
+    ],
+    [
+      6051,
+      41
+    ]
+  ]
+}

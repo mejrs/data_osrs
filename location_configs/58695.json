@@ -1,0 +1,32 @@
+{
+  "id": 58695,
+  "name": "Diseased pillar coral",
+  "models_2": [
+    59741,
+    7766,
+    59745
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      1839,
+      43057
+    ],
+    [
+      1847,
+      43074
+    ],
+    [
+      3895,
+      43102
+    ]
+  ]
+}

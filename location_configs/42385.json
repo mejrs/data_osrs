@@ -1,0 +1,18 @@
+{
+  "id": 42385,
+  "name": "Roots",
+  "models_2": [
+    2172
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 20,
+  "colours": [
+    [
+      6028,
+      3470
+    ]
+  ],
+  "mapscene": 6
+}

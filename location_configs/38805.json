@@ -1,0 +1,23 @@
+{
+  "id": 38805,
+  "name": "Holy barrier",
+  "models_2": [
+    40203
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 8695,
+  "ambient": 100,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "unknown_78": {
+    "unknown_1": 3131,
+    "unknown_2": 3
+  }
+}

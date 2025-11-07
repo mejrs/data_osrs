@@ -1,0 +1,11 @@
+{
+  "id": 17891,
+  "name": "Bookshelf",
+  "models_2": [
+    17868
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "translate_y": 65535
+}

@@ -1,0 +1,10 @@
+{
+  "id": 21906,
+  "name": "Operation table",
+  "models_2": [
+    22682,
+    22663
+  ],
+  "dim_x": 2,
+  "ambient": 10
+}

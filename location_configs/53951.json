@@ -1,0 +1,20 @@
+{
+  "id": 53951,
+  "name": "Bed chest",
+  "models_2": [
+    53938
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 27
+}

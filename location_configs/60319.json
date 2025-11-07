@@ -1,0 +1,9 @@
+{
+  "id": 60319,
+  "name": "Barrel of liquid",
+  "models_2": [
+    58757
+  ],
+  "ambient": 10,
+  "contrast": 15
+}

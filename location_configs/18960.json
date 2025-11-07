@@ -1,0 +1,23 @@
+{
+  "id": 18960,
+  "name": "Cart Camel",
+  "models_2": [
+    19325,
+    19326,
+    19324
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_24": 5044,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 228,
+  "scale_y": 228,
+  "scale_z": 228,
+  "translate_y": 65535
+}

@@ -1,0 +1,44 @@
+{
+  "id": 26198,
+  "name": "Birthday cake",
+  "models_2": [
+    50168
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36682,
+      8128
+    ],
+    [
+      36653,
+      6969
+    ],
+    [
+      40615,
+      8
+    ],
+    [
+      40627,
+      0
+    ],
+    [
+      55215,
+      8128
+    ],
+    [
+      931,
+      8
+    ]
+  ]
+}

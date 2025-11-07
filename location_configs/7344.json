@@ -1,0 +1,17 @@
+{
+  "id": 7344,
+  "name": "Stone Door",
+  "models_2": [
+    7707
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pull-spade",
+    null,
+    null,
+    null,
+    null
+  ]
+}

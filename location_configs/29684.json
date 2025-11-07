@@ -1,0 +1,19 @@
+{
+  "id": 29684,
+  "models_2": [
+    32870
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": -20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100
+}

@@ -1,0 +1,28 @@
+{
+  "id": 46946,
+  "models": [
+    [
+      10,
+      5512
+    ],
+    [
+      22,
+      5513
+    ]
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_24": 1727,
+  "colours": [
+    [
+      43117,
+      38309
+    ]
+  ],
+  "model": false,
+  "scale_x": 130,
+  "scale_y": 130,
+  "scale_z": 130,
+  "translate_y": 65535
+}

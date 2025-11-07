@@ -1,0 +1,29 @@
+{
+  "id": 38183,
+  "models": [
+    [
+      0,
+      39991
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      32821,
+      21530
+    ],
+    [
+      32827,
+      21539
+    ],
+    [
+      8012,
+      21522
+    ]
+  ]
+}

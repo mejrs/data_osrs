@@ -1,0 +1,19 @@
+{
+  "id": 29273,
+  "name": "Gnome bench",
+  "models_2": [
+    32099
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

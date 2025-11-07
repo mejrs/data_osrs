@@ -1,0 +1,22 @@
+{
+  "id": 15482,
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_24": 3174,
+  "actions": [
+    "Enter",
+    "Home",
+    "Build mode",
+    "Friend's house",
+    null
+  ],
+  "category": 486,
+  "morphs_1": {
+    "varbit": 4153,
+    "ids": [
+      30172,
+      30173
+    ]
+  },
+  "mapscene": 64
+}

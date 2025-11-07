@@ -1,0 +1,14 @@
+{
+  "id": 40324,
+  "name": "Pile of rope",
+  "models_2": [
+    1842
+  ],
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

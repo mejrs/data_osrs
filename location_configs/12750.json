@@ -1,0 +1,19 @@
+{
+  "id": 12750,
+  "models": [
+    [
+      4,
+      13995
+    ]
+  ],
+  "name": "Plaque",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

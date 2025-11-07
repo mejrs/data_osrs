@@ -1,0 +1,12 @@
+{
+  "id": 37380,
+  "name": "Books",
+  "models_2": [
+    38811
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 44
+}

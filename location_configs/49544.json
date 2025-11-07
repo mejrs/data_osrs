@@ -1,0 +1,41 @@
+{
+  "id": 49544,
+  "name": "Strange Pool",
+  "models_2": [
+    40774
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 7304,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Drink-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      35,
+      49313
+    ],
+    [
+      24,
+      49304
+    ],
+    [
+      20,
+      49300
+    ]
+  ],
+  "category": 1870,
+  "scale_x": 120,
+  "scale_y": 120,
+  "scale_z": 120,
+  "unknown_78": {
+    "unknown_1": 2149,
+    "unknown_2": 3
+  }
+}

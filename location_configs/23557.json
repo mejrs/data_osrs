@@ -1,0 +1,21 @@
+{
+  "id": 23557,
+  "models": [
+    [
+      22,
+      1878
+    ]
+  ],
+  "name": "Balancing rope",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Walk-on",
+    null,
+    null,
+    null,
+    null
+  ]
+}

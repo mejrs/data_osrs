@@ -1,0 +1,30 @@
+{
+  "id": 40204,
+  "name": "Bed",
+  "models_2": [
+    12394
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      127,
+      926
+    ],
+    [
+      10363,
+      926
+    ],
+    [
+      8128,
+      926
+    ]
+  ]
+}

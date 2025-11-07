@@ -1,0 +1,19 @@
+{
+  "id": 50537,
+  "models": [
+    [
+      0,
+      50613
+    ]
+  ],
+  "name": "Gate",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

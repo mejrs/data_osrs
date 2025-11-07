@@ -1,0 +1,21 @@
+{
+  "id": 5816,
+  "name": "Flashing landing light",
+  "models_2": [
+    5645
+  ],
+  "unknown_24": 1747,
+  "ambient": 50,
+  "actions": [
+    "Look",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 120,
+  "category": 223,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90
+}

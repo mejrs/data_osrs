@@ -1,0 +1,11 @@
+{
+  "id": 57534,
+  "name": "Rock",
+  "models_2": [
+    56643
+  ],
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 15,
+  "model": false
+}

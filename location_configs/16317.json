@@ -1,0 +1,30 @@
+{
+  "id": 16317,
+  "models": [
+    [
+      0,
+      16332
+    ],
+    [
+      1,
+      16333
+    ],
+    [
+      9,
+      16334
+    ]
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 30,
+  "colours": [
+    [
+      6689,
+      7626
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 64,
+  "scale_z": 128
+}

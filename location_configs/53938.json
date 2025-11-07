@@ -1,0 +1,17 @@
+{
+  "id": 53938,
+  "name": "Waste-paper basket",
+  "models_2": [
+    53650
+  ],
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

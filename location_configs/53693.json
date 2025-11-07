@@ -1,0 +1,21 @@
+{
+  "id": 53693,
+  "name": "Stone cube",
+  "models_2": [
+    53863,
+    53865
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20407,
+  "models": [
+    [
+      0,
+      21258
+    ]
+  ],
+  "name": "Tin ore vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "Hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 198,
+  "scale_y": 153
+}

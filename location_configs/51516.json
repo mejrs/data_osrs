@@ -1,0 +1,39 @@
+{
+  "id": 51516,
+  "name": "Bank table",
+  "models_2": [
+    51393,
+    51380
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      78,
+      5541
+    ],
+    [
+      3131,
+      5532
+    ],
+    [
+      3123,
+      5524
+    ],
+    [
+      5157,
+      5388
+    ]
+  ],
+  "category": 684,
+  "scale_y": 96
+}

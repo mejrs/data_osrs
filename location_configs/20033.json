@@ -1,0 +1,20 @@
+{
+  "id": 20033,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      18522,
+      55250
+    ]
+  ],
+  "morphs_1": {
+    "varbit": 3129,
+    "ids": [
+      20030,
+      20031,
+      20032
+    ]
+  }
+}

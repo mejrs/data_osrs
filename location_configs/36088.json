@@ -1,0 +1,15 @@
+{
+  "id": 36088,
+  "name": "Reward Chest",
+  "models_2": [
+    37450
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 44,
+  "scale_x": 104,
+  "scale_y": 104,
+  "scale_z": 104
+}

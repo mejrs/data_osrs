@@ -1,0 +1,29 @@
+{
+  "id": 56933,
+  "name": "Eggs",
+  "models_2": [
+    56636
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      6674,
+      6707
+    ],
+    [
+      6945,
+      6707
+    ]
+  ]
+}

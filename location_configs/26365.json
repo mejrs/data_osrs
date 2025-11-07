@@ -1,0 +1,20 @@
+{
+  "id": 26365,
+  "name": "Armadyl altar",
+  "models_2": [
+    27773,
+    27746
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Pray",
+    "Teleport",
+    null,
+    null,
+    null
+  ]
+}

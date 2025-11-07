@@ -1,0 +1,13 @@
+{
+  "id": 34334,
+  "name": "Dead tree",
+  "models_2": [
+    36531
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 10,
+  "mapscene": 6
+}

@@ -1,0 +1,11 @@
+{
+  "id": 16472,
+  "name": "Lathe",
+  "models_2": [
+    29103,
+    56328
+  ],
+  "dim_x": 2,
+  "ambient": 20,
+  "contrast": 20
+}

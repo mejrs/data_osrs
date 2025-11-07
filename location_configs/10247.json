@@ -1,0 +1,16 @@
+{
+  "id": 10247,
+  "name": "Broken kiln",
+  "models_2": [
+    6172
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Look-in",
+    null,
+    null,
+    null,
+    null
+  ]
+}

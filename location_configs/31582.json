@@ -1,0 +1,22 @@
+{
+  "id": 31582,
+  "name": "Bank counter",
+  "models_2": [
+    1262
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 684,
+  "breakroutefinding": true
+}

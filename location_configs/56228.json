@@ -1,0 +1,19 @@
+{
+  "id": 56228,
+  "name": "Table",
+  "models_2": [
+    1289,
+    2901
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2161,
+  "translate_x": 20,
+  "translate_z": 20
+}

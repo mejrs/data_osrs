@@ -1,0 +1,27 @@
+{
+  "id": 40777,
+  "name": "Decorated marble fireplace",
+  "models_2": [
+    12613,
+    12611,
+    41514,
+    41513
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 3105,
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    "Remove-decorations",
+    null,
+    null
+  ],
+  "category": 206,
+  "unknown_69": 29,
+  "unknown_78": {
+    "unknown_1": 2065,
+    "unknown_2": 3
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": 35879,
+  "models": [
+    [
+      10,
+      38546
+    ],
+    [
+      4,
+      38545
+    ]
+  ],
+  "name": "Symbol",
+  "unknown_19": 1,
+  "unknown_24": 8399,
+  "ambient": 60,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

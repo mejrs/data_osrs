@@ -1,0 +1,21 @@
+{
+  "id": 539,
+  "models": [
+    [
+      0,
+      11455
+    ]
+  ],
+  "name": "Curtain",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8293,
+  "name": "Yanillian Hops",
+  "models_2": [
+    8204,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13095,
+      9005
+    ],
+    [
+      13214,
+      9129
+    ],
+    [
+      13210,
+      9125
+    ]
+  ]
+}

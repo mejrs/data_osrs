@@ -1,0 +1,24 @@
+{
+  "id": 9749,
+  "models": [
+    [
+      0,
+      9735
+    ],
+    [
+      4,
+      9734
+    ]
+  ],
+  "name": "Crystal dispenser",
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

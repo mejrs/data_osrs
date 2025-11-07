@@ -1,0 +1,16 @@
+{
+  "id": 20266,
+  "name": "Egg hopper",
+  "models_2": [
+    20658
+  ],
+  "unknown_19": 1,
+  "unknown_24": 5432,
+  "actions": [
+    "Load",
+    "Look-in",
+    null,
+    null,
+    null
+  ]
+}

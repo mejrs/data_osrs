@@ -1,0 +1,21 @@
+{
+  "id": 26859,
+  "name": "Teak scratching post",
+  "models_2": [
+    28951
+  ],
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 763,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100
+}

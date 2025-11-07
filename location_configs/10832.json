@@ -1,0 +1,21 @@
+{
+  "id": 10832,
+  "name": "Maple tree",
+  "models_2": [
+    8023
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 222,
+  "unknown_81": 80,
+  "mapscene": 2
+}

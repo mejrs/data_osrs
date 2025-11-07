@@ -1,0 +1,28 @@
+{
+  "id": 7846,
+  "name": "Flower Patch",
+  "models_2": [
+    7801,
+    7766
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13982,
+      14866
+    ],
+    [
+      14230,
+      14990
+    ]
+  ]
+}

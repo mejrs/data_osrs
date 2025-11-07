@@ -1,0 +1,32 @@
+{
+  "id": 41937,
+  "name": "<col=ffff00>Protester</col>",
+  "models_2": [
+    37998
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8050,
+  "unknown_27": false,
+  "ambient": -2,
+  "contrast": 34,
+  "colours": [
+    [
+      6798,
+      8755
+    ],
+    [
+      8741,
+      3858
+    ],
+    [
+      25238,
+      12585
+    ]
+  ],
+  "model": false,
+  "mapscene": 82,
+  "params": {
+    "2312": 9
+  }
+}

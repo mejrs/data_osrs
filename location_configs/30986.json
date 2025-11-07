@@ -1,0 +1,33 @@
+{
+  "id": 30986,
+  "models": [
+    [
+      10,
+      1465
+    ],
+    [
+      22,
+      20043
+    ]
+  ],
+  "name": "Empty ash pile",
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6798,
+      80
+    ]
+  ],
+  "scale_x": 48,
+  "scale_y": 16,
+  "scale_z": 48,
+  "mapscene": 12
+}

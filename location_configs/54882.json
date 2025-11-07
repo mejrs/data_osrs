@@ -1,0 +1,46 @@
+{
+  "id": 54882,
+  "name": "Agitator",
+  "models_2": [
+    54876
+  ],
+  "unknown_21": true,
+  "unknown_24": 11633,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Homogenise-potion",
+    null,
+    "Check",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      48563,
+      43439
+    ],
+    [
+      48547,
+      43425
+    ],
+    [
+      48666,
+      43414
+    ],
+    [
+      61229,
+      41523
+    ],
+    [
+      61223,
+      41513
+    ],
+    [
+      61214,
+      41505
+    ]
+  ],
+  "model": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 31902,
+  "name": "Slayer Helmet display case",
+  "models_2": [
+    25342,
+    34551,
+    25343
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20
+}

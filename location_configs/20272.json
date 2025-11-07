@@ -1,0 +1,18 @@
+{
+  "id": 20272,
+  "name": "Trap",
+  "models_2": [
+    16424
+  ],
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Disable",
+    null,
+    null,
+    null,
+    null
+  ]
+}

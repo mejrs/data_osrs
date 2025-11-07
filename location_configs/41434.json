@@ -1,0 +1,20 @@
+{
+  "id": 41434,
+  "models": [
+    [
+      4,
+      42014
+    ]
+  ],
+  "name": "S.T.A.S.H chart",
+  "ambient": 30,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206
+}

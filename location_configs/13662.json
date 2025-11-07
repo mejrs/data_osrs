@@ -1,0 +1,20 @@
+{
+  "id": 13662,
+  "models": [
+    [
+      4,
+      12168
+    ]
+  ],
+  "name": "Alchemical chart",
+  "ambient": 30,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206
+}

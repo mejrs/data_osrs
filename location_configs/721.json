@@ -1,0 +1,22 @@
+{
+  "id": 721,
+  "name": "Shaking box",
+  "models_2": [
+    19904
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 5179,
+  "actions": [
+    "Check",
+    "Reset",
+    null,
+    null,
+    null
+  ],
+  "category": 194,
+  "unknown_75": 0,
+  "params": {
+    "1545": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8004,
+  "name": "Banana tree",
+  "models_2": [
+    7939,
+    7767,
+    7935
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick-banana",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

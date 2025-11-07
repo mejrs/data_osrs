@@ -1,0 +1,12 @@
+{
+  "id": 57185,
+  "name": "Logs",
+  "models_2": [
+    57012
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

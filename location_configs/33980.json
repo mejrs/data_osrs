@@ -1,0 +1,17 @@
+{
+  "id": 33980,
+  "name": "Anima patch",
+  "models_2": [
+    7793
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

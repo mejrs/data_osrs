@@ -1,0 +1,36 @@
+{
+  "id": 27288,
+  "name": "Deadman chest",
+  "models_2": [
+    29746
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    "Toggle XP",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14499,
+      10285
+    ],
+    [
+      12698,
+      10266
+    ],
+    [
+      12818,
+      10258
+    ]
+  ],
+  "category": 884,
+  "scale_x": 105,
+  "scale_y": 105,
+  "scale_z": 105,
+  "unknown_69": 27
+}

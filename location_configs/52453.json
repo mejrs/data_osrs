@@ -1,0 +1,14 @@
+{
+  "id": 52453,
+  "name": "Bed",
+  "models_2": [
+    1288
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": -25,
+  "contrast": 20,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

@@ -1,0 +1,12 @@
+{
+  "id": 46046,
+  "name": "Sand",
+  "models_2": [
+    46265
+  ],
+  "dim_x": 4,
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 30
+}

@@ -1,0 +1,19 @@
+{
+  "id": 54148,
+  "name": "Acid pool",
+  "models_2": [
+    29311
+  ],
+  "unknown_17": false,
+  "colours": [
+    [
+      2995,
+      21144
+    ],
+    [
+      9026,
+      21020
+    ]
+  ],
+  "translate_y": 65534
+}

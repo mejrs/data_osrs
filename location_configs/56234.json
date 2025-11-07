@@ -1,0 +1,11 @@
+{
+  "id": 56234,
+  "name": "Broken gibbet",
+  "models_2": [
+    56279
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "model": false
+}

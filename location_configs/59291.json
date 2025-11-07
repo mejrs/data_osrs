@@ -1,0 +1,21 @@
+{
+  "id": 59291,
+  "name": "Corpse",
+  "models_2": [
+    57609
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false,
+  "mapscene": 11
+}

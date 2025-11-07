@@ -1,0 +1,1 @@
+[{"name": "Dampe", "id": 10590, "p": 0, "x": 3479, "y": 3320, "size": 1, "walkingAnimation": 2562, "standingAnimation": 2561, "combatLevel": 0, "actions": ["Talk-to", "None", "Locks", "None", "None"], "colourReplacements": [{"original": 5276, "replacement": 49209}], "models": [40729, 251, 41744, 41741, 179, 41737, 41747, 13938, 41734, 10723], "chatHeadModels": [40756, 83]}]

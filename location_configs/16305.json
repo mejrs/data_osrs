@@ -1,0 +1,12 @@
+{
+  "id": 16305,
+  "name": "Fairy Queen",
+  "models_2": [
+    16187,
+    16188
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20
+}

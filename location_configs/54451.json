@@ -1,0 +1,17 @@
+{
+  "id": 54451,
+  "name": "Frozen door",
+  "models_2": [
+    54930
+  ],
+  "dim_x": 4,
+  "ambient": 0,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35
+}

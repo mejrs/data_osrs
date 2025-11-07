@@ -1,0 +1,15 @@
+{
+  "id": 40139,
+  "name": "Hat stand",
+  "models_2": [
+    40820
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 36594,
+  "name": "Corpses",
+  "models_2": [
+    37829
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "contrast": 10
+}

@@ -1,0 +1,17 @@
+{
+  "id": 58651,
+  "name": "Loom",
+  "models_2": [
+    3915
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Weave",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

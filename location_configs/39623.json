@@ -1,0 +1,16 @@
+{
+  "id": 39623,
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "morphs_2": {
+    "varbit": 10392,
+    "ids": [
+      38454,
+      38454
+    ],
+    "default": 38453
+  },
+  "mapscene": 7
+}

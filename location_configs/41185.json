@@ -1,0 +1,15 @@
+{
+  "id": 41185,
+  "name": "Ancient brazier",
+  "models_2": [
+    41097
+  ],
+  "ambient": 25,
+  "contrast": 10,
+  "colours": [
+    [
+      908,
+      119
+    ]
+  ]
+}

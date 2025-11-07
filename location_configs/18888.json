@@ -1,0 +1,17 @@
+{
+  "id": 18888,
+  "name": "Winch",
+  "models_2": [
+    19323
+  ],
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Look at",
+    "Operate",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29
+}

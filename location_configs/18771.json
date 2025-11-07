@@ -1,0 +1,16 @@
+{
+  "id": 18771,
+  "name": "Magic cape rack",
+  "models_2": [
+    19002
+  ],
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

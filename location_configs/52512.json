@@ -1,0 +1,12 @@
+{
+  "id": 52512,
+  "name": "Potted fan",
+  "models_2": [
+    52435
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 30,
+  "contrast": 30,
+  "category": 2217
+}

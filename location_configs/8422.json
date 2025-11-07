@@ -1,0 +1,27 @@
+{
+  "id": 8422,
+  "name": "Diseased Magic Tree",
+  "models_2": [
+    7989,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      8602,
+      10650
+    ]
+  ],
+  "textures": {
+    "8": 41
+  }
+}

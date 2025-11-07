@@ -1,0 +1,18 @@
+{
+  "id": 59733,
+  "name": "Crate of saws",
+  "models_2": [
+    59028
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 35,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 60285,
+  "name": "Rosewood cargo hold",
+  "models_2": [
+    58160
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    "Quick-deposit",
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21435,
+      916
+    ],
+    [
+      21464,
+      920
+    ],
+    [
+      54203,
+      1447
+    ],
+    [
+      54183,
+      1441
+    ]
+  ],
+  "category": 2343
+}

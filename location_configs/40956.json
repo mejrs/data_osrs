@@ -1,0 +1,32 @@
+{
+  "id": 40956,
+  "name": "Rocks",
+  "models_2": [
+    16893
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6565,
+      24
+    ],
+    [
+      6689,
+      24
+    ],
+    [
+      6684,
+      24
+    ]
+  ],
+  "model": false
+}

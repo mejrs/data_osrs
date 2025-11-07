@@ -1,0 +1,10 @@
+{
+  "id": 32639,
+  "name": "Ladder",
+  "models_2": [
+    32941
+  ],
+  "is_transparent": true,
+  "ambient": 30,
+  "contrast": 30
+}

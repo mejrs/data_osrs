@@ -1,0 +1,17 @@
+{
+  "id": 2265,
+  "name": "Travel cart",
+  "models_2": [
+    1480
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "actions": [
+    null,
+    "Board",
+    "Pay-fare",
+    null,
+    null
+  ]
+}

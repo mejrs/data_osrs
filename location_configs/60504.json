@@ -1,0 +1,39 @@
+{
+  "id": 60504,
+  "name": "Mithril salvaging hook",
+  "models_2": [
+    58272
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 13579,
+  "ambient": 15,
+  "actions": [
+    "Deploy",
+    null,
+    "Hidden",
+    null,
+    "Modify"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21435,
+      43294
+    ],
+    [
+      21464,
+      43301
+    ],
+    [
+      54193,
+      4517
+    ],
+    [
+      54203,
+      4519
+    ]
+  ],
+  "category": 2349,
+  "unknown_69": 15
+}

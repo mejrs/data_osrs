@@ -1,0 +1,20 @@
+{
+  "id": 26295,
+  "name": "Bear droppings",
+  "models_2": [
+    6048
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 1881,
+  "unknown_27": false,
+  "colours": [
+    [
+      61,
+      5656
+    ]
+  ],
+  "scale_x": 136,
+  "scale_y": 148,
+  "scale_z": 136
+}

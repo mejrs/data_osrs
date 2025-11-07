@@ -1,0 +1,20 @@
+{
+  "id": 54715,
+  "name": "Backstage entrance",
+  "models_2": [
+    54929
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 27
+}

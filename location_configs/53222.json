@@ -1,0 +1,39 @@
+{
+  "id": 53222,
+  "name": "Zombie Pirate's Locker",
+  "models_2": [
+    53111
+  ],
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      6707,
+      8472
+    ],
+    [
+      7952,
+      8361
+    ],
+    [
+      41,
+      10805
+    ],
+    [
+      33,
+      10667
+    ],
+    [
+      16,
+      10638
+    ]
+  ],
+  "unknown_69": 27
+}

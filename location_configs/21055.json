@@ -1,0 +1,19 @@
+{
+  "id": 21055,
+  "name": "Control panel",
+  "models_2": [
+    21747
+  ],
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "mapscene": 22
+}

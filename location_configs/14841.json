@@ -1,0 +1,21 @@
+{
+  "id": 14841,
+  "name": "Edge",
+  "models_2": [
+    16238
+  ],
+  "dim_x": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Jump-off",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 640,
+  "unknown_69": 27,
+  "unknown_73": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": 28649,
+  "name": "Pipe",
+  "models_2": [
+    31458
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false
+}

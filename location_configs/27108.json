@@ -1,0 +1,20 @@
+{
+  "id": 27108,
+  "name": "Charcoal furnace",
+  "models_2": [
+    29850
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 3106,
+  "unknown_27": false,
+  "actions": [
+    "Light",
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29
+}

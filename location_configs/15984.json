@@ -1,0 +1,18 @@
+{
+  "id": 15984,
+  "models": [
+    [
+      0,
+      4007
+    ]
+  ],
+  "name": "Waiting Room Door",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 57104,
+  "name": "Jaguar totem",
+  "models_2": [
+    56994
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

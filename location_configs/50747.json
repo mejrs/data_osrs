@@ -1,0 +1,20 @@
+{
+  "id": 50747,
+  "models": [
+    [
+      4,
+      52340
+    ]
+  ],
+  "name": "Colosseum scoreboard",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "View",
+    "View-stats",
+    "View-glory",
+    null,
+    null
+  ],
+  "contrast": 20
+}

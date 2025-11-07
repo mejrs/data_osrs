@@ -1,0 +1,18 @@
+{
+  "id": 59300,
+  "name": "Notice from General Khazard",
+  "models_2": [
+    1552
+  ],
+  "ambient": 17,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 17,
+  "category": 2317,
+  "translate_y": 65526
+}

@@ -1,0 +1,16 @@
+{
+  "id": 49999,
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "unknown_69": 30,
+  "morphs_1": {
+    "varbit": 5423,
+    "ids": [
+      29778,
+      50000
+    ]
+  },
+  "mapscene": 7
+}

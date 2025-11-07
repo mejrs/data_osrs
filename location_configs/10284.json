@@ -1,0 +1,19 @@
+{
+  "id": 10284,
+  "name": "Ladder",
+  "models_2": [
+    4566
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      43026,
+      6430
+    ]
+  ],
+  "scale_y": 178,
+  "unknown_69": 27
+}

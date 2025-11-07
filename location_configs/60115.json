@@ -1,0 +1,17 @@
+{
+  "id": 60115,
+  "unknown_19": 0,
+  "unknown_24": 13133,
+  "contrast": 50,
+  "model": false,
+  "scale_y": 64,
+  "morphs_1": {
+    "varbit": 15152,
+    "ids": [
+      null,
+      60116,
+      60116,
+      60116
+    ]
+  }
+}

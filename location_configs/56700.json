@@ -1,0 +1,26 @@
+{
+  "id": 56700,
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Move-Itzla",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 320,
+  "scale_y": 10,
+  "scale_z": 320,
+  "morphs_2": {
+    "varbit": 16677,
+    "ids": [
+      56701,
+      56701,
+      56701
+    ],
+    "default": 56702
+  }
+}

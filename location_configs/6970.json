@@ -1,0 +1,16 @@
+{
+  "id": 6970,
+  "name": "Swamp Boaty",
+  "models_2": [
+    4970
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ]
+}

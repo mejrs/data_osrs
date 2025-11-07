@@ -1,0 +1,18 @@
+{
+  "id": 18691,
+  "name": "Extractor hat",
+  "models_2": [
+    18778
+  ],
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 3166,
+    "unknown_2": 3
+  }
+}

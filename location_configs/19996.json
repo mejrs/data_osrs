@@ -1,0 +1,23 @@
+{
+  "id": 19996,
+  "name": "Buried skeleton",
+  "models_2": [
+    1101
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10337,
+      10318
+    ]
+  ]
+}

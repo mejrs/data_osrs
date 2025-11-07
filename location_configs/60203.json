@@ -1,0 +1,43 @@
+{
+  "id": 60203,
+  "name": "Cave exit",
+  "models_2": [
+    42434
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      16,
+      7566
+    ],
+    [
+      12,
+      7690
+    ],
+    [
+      8,
+      5640
+    ],
+    [
+      4,
+      3594
+    ]
+  ],
+  "model": false,
+  "unknown_69": 23
+}

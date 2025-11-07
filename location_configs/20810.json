@@ -1,0 +1,27 @@
+{
+  "id": 20810,
+  "models": [
+    [
+      22,
+      9788
+    ]
+  ],
+  "name": "Exercise mat",
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      16280
+    ]
+  ],
+  "unknown_73": true
+}

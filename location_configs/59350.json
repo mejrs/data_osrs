@@ -1,0 +1,17 @@
+{
+  "id": 59350,
+  "name": "Dead magical plant",
+  "models_2": [
+    58540
+  ],
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2317
+}

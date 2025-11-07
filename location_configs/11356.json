@@ -1,0 +1,42 @@
+{
+  "id": 11356,
+  "name": "Portal Home",
+  "models_2": [
+    11231
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 3174,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      50072,
+      103
+    ],
+    [
+      49948,
+      107
+    ],
+    [
+      49953,
+      111
+    ],
+    [
+      49829,
+      115
+    ],
+    [
+      49705,
+      119
+    ]
+  ],
+  "mapscene": 64
+}

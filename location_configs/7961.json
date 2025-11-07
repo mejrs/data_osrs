@@ -1,0 +1,18 @@
+{
+  "id": 7961,
+  "name": "Apple tree stump",
+  "models_2": [
+    7922,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

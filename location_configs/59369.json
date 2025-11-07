@@ -1,0 +1,38 @@
+{
+  "id": 59369,
+  "name": "Charred remains of a table",
+  "models_2": [
+    13485
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6808,
+      10270
+    ],
+    [
+      6930,
+      10266
+    ],
+    [
+      7836,
+      10262
+    ],
+    [
+      7690,
+      10382
+    ]
+  ],
+  "category": 2317
+}

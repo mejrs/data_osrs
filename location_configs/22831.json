@@ -1,0 +1,12 @@
+{
+  "id": 22831,
+  "name": "Table",
+  "models_2": [
+    23410,
+    23422
+  ],
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "category": 154
+}

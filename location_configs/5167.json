@@ -1,0 +1,18 @@
+{
+  "id": 5167,
+  "name": "Memorial",
+  "models_2": [
+    5169
+  ],
+  "dim_x": 2,
+  "unknown_27": false,
+  "actions": [
+    "Push",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 23,
+  "mapscene": 34
+}

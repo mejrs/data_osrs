@@ -1,0 +1,17 @@
+{
+  "id": 59335,
+  "name": "Elven river mine",
+  "models_2": [
+    57607
+  ],
+  "unknown_22": true,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2317,
+  "model": false
+}

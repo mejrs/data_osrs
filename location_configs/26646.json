@@ -1,0 +1,49 @@
+{
+  "id": 26646,
+  "name": "Portal",
+  "models_2": [
+    15138,
+    11233
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 3174,
+  "ambient": 15,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      7442
+    ],
+    [
+      49705,
+      107
+    ],
+    [
+      49829,
+      103
+    ],
+    [
+      49953,
+      99
+    ],
+    [
+      49948,
+      94
+    ],
+    [
+      50072,
+      90
+    ]
+  ],
+  "unknown_69": 30,
+  "translate_z": 30,
+  "mapscene": 64
+}

@@ -1,0 +1,20 @@
+{
+  "id": 26769,
+  "models": [
+    [
+      0,
+      28319
+    ]
+  ],
+  "name": "Crevice",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7
+}

@@ -1,0 +1,14 @@
+{
+  "id": 18841,
+  "name": "Dolphin",
+  "models_2": [
+    19127,
+    19126
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_24": 5012,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100
+}

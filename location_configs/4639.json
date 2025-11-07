@@ -1,0 +1,48 @@
+{
+  "id": 4639,
+  "models": [
+    [
+      0,
+      634
+    ],
+    [
+      1,
+      635
+    ],
+    [
+      2,
+      574
+    ],
+    [
+      3,
+      575
+    ],
+    [
+      9,
+      576
+    ]
+  ],
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      24,
+      4762
+    ]
+  ],
+  "textures": {
+    "2": 4
+  },
+  "mirror": true,
+  "translate_y": 1,
+  "unknown_75": 0
+}

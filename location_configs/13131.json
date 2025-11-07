@@ -1,0 +1,28 @@
+{
+  "id": 13131,
+  "models": [
+    [
+      0,
+      12909
+    ],
+    [
+      3,
+      12910
+    ]
+  ],
+  "name": "Boxing ring",
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      123,
+      960
+    ]
+  ],
+  "category": 206
+}

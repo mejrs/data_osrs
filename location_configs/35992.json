@@ -1,0 +1,13 @@
+{
+  "id": 35992,
+  "name": "Illuminated Symbol",
+  "models_2": [
+    37530
+  ],
+  "dim_x": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 44
+}

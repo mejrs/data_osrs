@@ -1,0 +1,15 @@
+{
+  "id": 42974,
+  "name": "Lock",
+  "models_2": [
+    43369
+  ],
+  "unknown_19": 1,
+  "ambient": 50,
+  "contrast": 20,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 4364,
+    "unknown_2": 10
+  }
+}

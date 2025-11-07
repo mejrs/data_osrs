@@ -1,0 +1,28 @@
+{
+  "id": 31718,
+  "models": [
+    [
+      10,
+      1465
+    ],
+    [
+      22,
+      20043
+    ]
+  ],
+  "name": "Sand",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      6798,
+      8640
+    ]
+  ],
+  "scale_x": 48,
+  "scale_y": 48,
+  "scale_z": 48,
+  "unknown_75": 1
+}

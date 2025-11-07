@@ -1,0 +1,25 @@
+{
+  "id": 30108,
+  "name": "Rowboat",
+  "models_2": [
+    18304,
+    14158
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_24": 3743,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      27844,
+      38117
+    ]
+  ],
+  "model": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 48178,
+  "models": [
+    [
+      10,
+      49055
+    ],
+    [
+      4,
+      49056
+    ]
+  ],
+  "name": "Ancient banner",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 30
+}

@@ -1,0 +1,13 @@
+{
+  "id": 52433,
+  "models": [
+    [
+      22,
+      52333
+    ]
+  ],
+  "name": "Boardgame",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 30
+}

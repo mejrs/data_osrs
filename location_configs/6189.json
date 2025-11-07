@@ -1,0 +1,21 @@
+{
+  "id": 6189,
+  "name": "Furnace",
+  "models_2": [
+    1192
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_22": true,
+  "actions": [
+    null,
+    "Smelt",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "unknown_69": 29
+}

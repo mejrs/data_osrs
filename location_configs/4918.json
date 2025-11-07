@@ -1,0 +1,14 @@
+{
+  "id": 4918,
+  "name": "Mine cart",
+  "models_2": [
+    1398
+  ],
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ]
+}

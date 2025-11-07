@@ -1,0 +1,19 @@
+{
+  "id": 57904,
+  "name": "Steps",
+  "models_2": [
+    57587
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 30
+}

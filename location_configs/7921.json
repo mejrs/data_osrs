@@ -1,0 +1,28 @@
+{
+  "id": 7921,
+  "name": "Woad plant",
+  "models_2": [
+    7868,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      22428,
+      36395
+    ],
+    [
+      22433,
+      36643
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 55621,
+  "models": [
+    [
+      22,
+      55387
+    ]
+  ],
+  "name": "Pumpkin patch",
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Plant",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 2130,
+  "unknown_73": true
+}

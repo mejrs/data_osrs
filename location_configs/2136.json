@@ -1,0 +1,32 @@
+{
+  "id": 2136,
+  "name": "Table",
+  "models_2": [
+    14827,
+    25201
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      6451,
+      7587
+    ],
+    [
+      6443,
+      7582
+    ],
+    [
+      6439,
+      7706
+    ],
+    [
+      6563,
+      7830
+    ]
+  ],
+  "category": 154
+}

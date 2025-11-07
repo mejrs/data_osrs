@@ -1,0 +1,16 @@
+{
+  "id": 10291,
+  "name": "Rat trap",
+  "models_2": [
+    10052,
+    10053
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ]
+}

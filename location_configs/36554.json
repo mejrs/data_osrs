@@ -1,0 +1,10 @@
+{
+  "id": 36554,
+  "name": "Bell mechanism",
+  "models_2": [
+    37640
+  ],
+  "dim_x": 2,
+  "ambient": 10,
+  "contrast": 5
+}

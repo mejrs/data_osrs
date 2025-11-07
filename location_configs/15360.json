@@ -1,0 +1,19 @@
+{
+  "id": 15360,
+  "models": [
+    [
+      0,
+      12645
+    ]
+  ],
+  "name": "Door space",
+  "unknown_17": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

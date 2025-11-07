@@ -1,0 +1,27 @@
+{
+  "id": 8665,
+  "name": "Watermelon seed",
+  "models_2": [
+    8222,
+    8177,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      16291,
+      22040
+    ],
+    [
+      10155,
+      15256
+    ]
+  ]
+}

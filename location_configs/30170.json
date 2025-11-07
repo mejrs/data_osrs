@@ -1,0 +1,24 @@
+{
+  "id": 30170,
+  "name": "Root",
+  "models_2": [
+    2174
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Step-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6028,
+      26892
+    ]
+  ],
+  "category": 735,
+  "mapscene": 6
+}

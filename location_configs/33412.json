@@ -1,0 +1,20 @@
+{
+  "id": 33412,
+  "models": [
+    [
+      4,
+      36041
+    ]
+  ],
+  "name": "Xeric's Talisman",
+  "ambient": 25,
+  "actions": [
+    "Glade",
+    "Teleport menu",
+    "Configuration",
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2068,
+  "models": [
+    [
+      0,
+      6745
+    ]
+  ],
+  "name": "Fence",
+  "unknown_22": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

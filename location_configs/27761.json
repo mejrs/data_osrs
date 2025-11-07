@@ -1,0 +1,11 @@
+{
+  "id": 27761,
+  "name": "Broken rowboat",
+  "models_2": [
+    30297
+  ],
+  "dim_x": 4,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "model": false
+}

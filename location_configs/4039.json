@@ -1,0 +1,15 @@
+{
+  "id": 4039,
+  "name": "Laundry Basket",
+  "models_2": [
+    4066
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

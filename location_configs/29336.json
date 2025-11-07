@@ -1,0 +1,16 @@
+{
+  "id": 29336,
+  "name": "Combat dummy",
+  "models_2": [
+    32307
+  ],
+  "ambient": 25,
+  "actions": [
+    "Attach",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206
+}

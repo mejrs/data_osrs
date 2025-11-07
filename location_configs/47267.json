@@ -1,0 +1,18 @@
+{
+  "id": 47267,
+  "name": "Guardians of the Rift Display",
+  "models_2": [
+    47584
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "model": false,
+  "scale_x": 120,
+  "scale_y": 120,
+  "scale_z": 120
+}

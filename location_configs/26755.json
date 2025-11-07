@@ -1,0 +1,13 @@
+{
+  "id": 26755,
+  "name": "Volcanic Forge",
+  "models_2": [
+    13861
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 35,
+  "scale_y": 32,
+  "unknown_73": true
+}

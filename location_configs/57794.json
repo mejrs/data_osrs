@@ -1,0 +1,10 @@
+{
+  "id": 57794,
+  "name": "Plant",
+  "models_2": [
+    44723
+  ],
+  "ambient": 20,
+  "contrast": 20,
+  "model": false
+}

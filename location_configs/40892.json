@@ -1,0 +1,30 @@
+{
+  "id": 40892,
+  "name": "<col=ff9040>Sled</col>",
+  "models_2": [
+    4937
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6594,
+      5574
+    ],
+    [
+      5559,
+      4667
+    ],
+    [
+      5799,
+      4779
+    ]
+  ],
+  "mapscene": 81
+}

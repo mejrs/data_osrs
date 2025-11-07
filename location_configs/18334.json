@@ -1,0 +1,24 @@
+{
+  "id": 18334,
+  "models": [
+    [
+      0,
+      18437
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 35,
+  "colours": [
+    [
+      6579,
+      6819
+    ],
+    [
+      6699,
+      6938
+    ]
+  ],
+  "mirror": true
+}

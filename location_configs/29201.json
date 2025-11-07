@@ -1,0 +1,45 @@
+{
+  "id": 29201,
+  "name": "Mounted Herblore Cape (t)",
+  "models_2": [
+    32200
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Search",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      9145
+    ],
+    [
+      54183,
+      9156
+    ],
+    [
+      54503,
+      9147
+    ],
+    [
+      960,
+      22422
+    ],
+    [
+      22464,
+      22420
+    ],
+    [
+      43968,
+      22416
+    ]
+  ],
+  "category": 206
+}

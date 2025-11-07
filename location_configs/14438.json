@@ -1,0 +1,18 @@
+{
+  "id": 14438,
+  "models_2": [
+    14773,
+    14774
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 524,
+  "ambient": 25,
+  "contrast": 25,
+  "model": false,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "mapscene": 65
+}

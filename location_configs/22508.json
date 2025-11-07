@@ -1,0 +1,32 @@
+{
+  "id": 22508,
+  "name": "Hank (very sick)",
+  "models_2": [
+    23200,
+    23196
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 5984,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4550,
+      2242
+    ],
+    [
+      6798,
+      6323
+    ]
+  ],
+  "category": 646
+}

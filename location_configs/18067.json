@@ -1,0 +1,34 @@
+{
+  "id": 18067,
+  "models": [
+    [
+      0,
+      17716
+    ],
+    [
+      1,
+      17717
+    ],
+    [
+      2,
+      17718
+    ],
+    [
+      9,
+      17719
+    ]
+  ],
+  "name": "Wall",
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128
+}

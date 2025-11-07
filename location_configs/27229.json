@@ -1,0 +1,10 @@
+{
+  "id": 27229,
+  "name": "Barrel",
+  "models_2": [
+    29972
+  ],
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 25
+}

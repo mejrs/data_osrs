@@ -1,0 +1,15 @@
+{
+  "id": 21734,
+  "name": "Vines",
+  "models_2": [
+    5007
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Chop-down",
+    null,
+    "hidden",
+    null,
+    null
+  ]
+}

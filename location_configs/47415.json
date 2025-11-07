@@ -1,0 +1,20 @@
+{
+  "id": 47415,
+  "name": "Vanity dresser",
+  "models_2": [
+    47762
+  ],
+  "dim_x": 2,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      38686,
+      8111
+    ],
+    [
+      38678,
+      7962
+    ]
+  ]
+}

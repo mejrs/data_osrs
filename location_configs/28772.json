@@ -1,0 +1,21 @@
+{
+  "id": 28772,
+  "models": [
+    [
+      22,
+      31329
+    ]
+  ],
+  "name": "Hole",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    "Look-in",
+    "Look-in-all",
+    null,
+    null
+  ],
+  "translate_y": 65535
+}

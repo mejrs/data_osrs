@@ -1,0 +1,14 @@
+{
+  "id": 39979,
+  "name": "Broken Range",
+  "models_2": [
+    40825
+  ],
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ]
+}

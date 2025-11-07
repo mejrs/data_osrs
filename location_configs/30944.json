@@ -1,0 +1,18 @@
+{
+  "id": 30944,
+  "name": "Strange Machine",
+  "models_2": [
+    33988
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 7735,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

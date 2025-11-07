@@ -1,0 +1,30 @@
+{
+  "id": 39641,
+  "models": [
+    [
+      0,
+      4874
+    ]
+  ],
+  "name": "High Stakes",
+  "unknown_19": 1,
+  "unknown_24": 1433,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Pass-Through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      28616
+    ]
+  ],
+  "unknown_75": 0,
+  "mapscene": 70
+}

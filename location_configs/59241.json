@@ -1,0 +1,11 @@
+{
+  "id": 59241,
+  "name": "Barracuda boat",
+  "models_2": [
+    58812
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 15
+}

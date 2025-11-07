@@ -1,0 +1,18 @@
+{
+  "id": 1732,
+  "models": [
+    [
+      0,
+      639
+    ]
+  ],
+  "name": "Magic guild door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0
+}

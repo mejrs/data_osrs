@@ -1,0 +1,16 @@
+{
+  "id": 6193,
+  "name": "Dwarf mirror",
+  "models_2": [
+    1294
+  ],
+  "colours": [
+    [
+      9104,
+      5404
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 80,
+  "scale_z": 100
+}

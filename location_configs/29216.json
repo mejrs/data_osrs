@@ -1,0 +1,45 @@
+{
+  "id": 29216,
+  "name": "Mounted Slayer Cape",
+  "models_2": [
+    32183
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      12
+    ],
+    [
+      54183,
+      0
+    ],
+    [
+      54503,
+      0
+    ],
+    [
+      960,
+      12
+    ],
+    [
+      22464,
+      8
+    ],
+    [
+      43968,
+      8
+    ]
+  ],
+  "category": 206
+}

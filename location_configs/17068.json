@@ -1,0 +1,21 @@
+{
+  "id": 17068,
+  "models": [
+    [
+      22,
+      16897
+    ]
+  ],
+  "name": "Broken Raft",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ]
+}

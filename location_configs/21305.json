@@ -1,0 +1,15 @@
+{
+  "id": 21305,
+  "name": "Woodcutting stump",
+  "models_2": [
+    21984
+  ],
+  "ambient": 10,
+  "actions": [
+    "Cut-wood",
+    null,
+    null,
+    null,
+    null
+  ]
+}

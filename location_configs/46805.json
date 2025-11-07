@@ -1,0 +1,16 @@
+{
+  "id": 46805,
+  "name": "Well",
+  "models_2": [
+    47120
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "contrast": 10,
+  "category": 245,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90
+}

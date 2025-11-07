@@ -1,0 +1,18 @@
+{
+  "id": 34005,
+  "name": "Dead Kronos plant",
+  "models_2": [
+    36863,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

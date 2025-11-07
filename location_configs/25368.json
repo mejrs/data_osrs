@@ -1,0 +1,13 @@
+{
+  "id": 25368,
+  "name": "Apparatus",
+  "models_2": [
+    31320
+  ],
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false
+}

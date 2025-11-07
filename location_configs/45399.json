@@ -1,0 +1,18 @@
+{
+  "id": 45399,
+  "name": "Waterfall (dry)",
+  "models_2": [
+    45550
+  ],
+  "dim_x": 7,
+  "dim_y": 5,
+  "unknown_22": true,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

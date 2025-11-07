@@ -1,0 +1,20 @@
+{
+  "id": 54934,
+  "name": "Bank Chest",
+  "models_2": [
+    54846
+  ],
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Use",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 237,
+  "unknown_69": 27
+}

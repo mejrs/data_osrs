@@ -1,0 +1,17 @@
+{
+  "id": 2702,
+  "name": "Tracks",
+  "models_2": [
+    1744
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Look at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

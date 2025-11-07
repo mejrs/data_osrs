@@ -1,0 +1,35 @@
+{
+  "id": 36591,
+  "name": "Hopper",
+  "models_2": [
+    25317
+  ],
+  "ambient": 20,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      8489,
+      3350
+    ],
+    [
+      7463,
+      3226
+    ],
+    [
+      7585,
+      3346
+    ],
+    [
+      7954,
+      3470
+    ]
+  ],
+  "category": 513
+}

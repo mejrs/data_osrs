@@ -1,0 +1,33 @@
+{
+  "id": 9975,
+  "name": "Cave",
+  "models_2": [
+    833
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Descend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7952
+    ],
+    [
+      6808,
+      8844
+    ],
+    [
+      7056,
+      7690
+    ],
+    [
+      6028,
+      8070
+    ]
+  ]
+}

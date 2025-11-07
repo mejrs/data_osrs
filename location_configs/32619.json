@@ -1,0 +1,13 @@
+{
+  "id": 32619,
+  "name": "Bell",
+  "models_2": [
+    35293
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 30
+}

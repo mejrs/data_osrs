@@ -1,0 +1,21 @@
+{
+  "id": 4035,
+  "models": [
+    [
+      9,
+      4070
+    ]
+  ],
+  "name": "Druid's robes",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 35,
+  "contrast": 35,
+  "colours": [
+    [
+      127,
+      74
+    ]
+  ],
+  "model": false
+}

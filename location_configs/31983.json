@@ -1,0 +1,19 @@
+{
+  "id": 31983,
+  "name": "Mounted Mythical Cape",
+  "models_2": [
+    35101
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "category": 206
+}

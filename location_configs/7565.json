@@ -1,0 +1,18 @@
+{
+  "id": 7565,
+  "name": "Belladonna",
+  "models_2": [
+    7905,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

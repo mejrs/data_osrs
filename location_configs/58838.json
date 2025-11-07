@@ -1,0 +1,17 @@
+{
+  "id": 58838,
+  "name": "Flax",
+  "models_2": [
+    59764,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15
+}

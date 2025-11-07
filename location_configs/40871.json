@@ -1,0 +1,17 @@
+{
+  "id": 40871,
+  "name": "Icon of Gnome Child",
+  "models_2": [
+    41650
+  ],
+  "dim_x": 2,
+  "ambient": 15,
+  "actions": [
+    null,
+    null,
+    null,
+    "Read",
+    "Remove"
+  ],
+  "category": 206
+}

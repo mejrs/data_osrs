@@ -1,0 +1,18 @@
+{
+  "id": 58951,
+  "name": "Crystal of Crwys",
+  "models_2": [
+    58172
+  ],
+  "colours": [
+    [
+      32993,
+      9804
+    ]
+  ],
+  "model": false,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "translate_y": 140
+}

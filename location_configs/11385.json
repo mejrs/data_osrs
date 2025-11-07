@@ -1,0 +1,29 @@
+{
+  "id": 11385,
+  "name": "Pile of rock",
+  "models_2": [
+    3195
+  ],
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      37,
+      8373
+    ],
+    [
+      24,
+      8373
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

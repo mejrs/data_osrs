@@ -1,0 +1,19 @@
+{
+  "id": 20878,
+  "models": [
+    [
+      0,
+      5004
+    ]
+  ],
+  "name": "Exit",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ]
+}

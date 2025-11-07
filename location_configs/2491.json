@@ -1,0 +1,14 @@
+{
+  "id": 2491,
+  "models": [
+    [
+      4,
+      24630
+    ]
+  ],
+  "name": "Lamp",
+  "unknown_19": 1,
+  "unknown_24": 1868,
+  "ambient": 10,
+  "contrast": 10
+}

@@ -1,0 +1,19 @@
+{
+  "id": 46569,
+  "models": [
+    [
+      4,
+      47184
+    ]
+  ],
+  "name": "Broken Window",
+  "unknown_19": 1,
+  "ambient": 50,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

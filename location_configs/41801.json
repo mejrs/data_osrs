@@ -1,0 +1,19 @@
+{
+  "id": 41801,
+  "models": [
+    [
+      0,
+      3543
+    ]
+  ],
+  "name": "Cell Door",
+  "unknown_22": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1561
+}

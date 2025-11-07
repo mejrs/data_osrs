@@ -1,0 +1,45 @@
+{
+  "id": 29221,
+  "name": "Mounted Strength Cape (t)",
+  "models_2": [
+    32196
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      935
+    ],
+    [
+      54183,
+      931
+    ],
+    [
+      54503,
+      924
+    ],
+    [
+      960,
+      27544
+    ],
+    [
+      22464,
+      27544
+    ],
+    [
+      43968,
+      26516
+    ]
+  ],
+  "category": 206
+}

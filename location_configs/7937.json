@@ -1,0 +1,18 @@
+{
+  "id": 7937,
+  "name": "Apple tree",
+  "models_2": [
+    7917,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

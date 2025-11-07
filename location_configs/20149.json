@@ -1,0 +1,35 @@
+{
+  "id": 20149,
+  "name": "Scroll table",
+  "models_2": [
+    4325,
+    20650
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5559,
+      5547
+    ],
+    [
+      5679,
+      5543
+    ],
+    [
+      5675,
+      5667
+    ],
+    [
+      5799,
+      5662
+    ]
+  ]
+}

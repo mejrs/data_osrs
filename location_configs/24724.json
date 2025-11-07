@@ -1,0 +1,19 @@
+{
+  "id": 24724,
+  "name": "Gramophone",
+  "models_2": [
+    25986,
+    25982
+  ],
+  "unknown_19": 1,
+  "unknown_24": 6522,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Wind-up",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 58687,
+  "name": "Umbral coral",
+  "models_2": [
+    59746,
+    7766,
+    59745
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

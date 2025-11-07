@@ -1,0 +1,14 @@
+{
+  "id": 19888,
+  "name": "Camping equipment",
+  "models_2": [
+    20051
+  ],
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

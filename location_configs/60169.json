@@ -1,0 +1,38 @@
+{
+  "id": 60169,
+  "name": "Cave entrance",
+  "models_2": [
+    52431
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      8375,
+      6569
+    ],
+    [
+      8369,
+      6565
+    ],
+    [
+      8363,
+      6558
+    ]
+  ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "translate_y": 65501
+}

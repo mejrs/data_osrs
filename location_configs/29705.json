@@ -1,0 +1,51 @@
+{
+  "id": 29705,
+  "models": [
+    [
+      22,
+      32849
+    ]
+  ],
+  "name": "Crack",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": -10,
+  "actions": [
+    "Peek",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": -10,
+  "colours": [
+    [
+      37099,
+      9521
+    ],
+    [
+      37196,
+      9521
+    ],
+    [
+      38061,
+      9517
+    ],
+    [
+      38040,
+      9637
+    ],
+    [
+      43146,
+      9756
+    ],
+    [
+      35994,
+      7721
+    ]
+  ],
+  "model": false,
+  "unknown_73": true
+}

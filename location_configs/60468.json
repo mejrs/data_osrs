@@ -1,0 +1,26 @@
+{
+  "id": 60468,
+  "name": "Barracuda shipwreck",
+  "models_2": [
+    58892
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 13608,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 2347,
+  "model": false,
+  "unknown_89": false,
+  "unknown_90": true
+}

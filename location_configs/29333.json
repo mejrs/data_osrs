@@ -1,0 +1,16 @@
+{
+  "id": 29333,
+  "name": "Cart tunnel",
+  "models_2": [
+    21248
+  ],
+  "unknown_22": true,
+  "actions": [
+    "Crawl-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 153
+}

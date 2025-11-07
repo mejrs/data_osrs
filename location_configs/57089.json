@@ -1,0 +1,41 @@
+{
+  "id": 57089,
+  "name": "Magic totem",
+  "models_2": [
+    57001
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Carve",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5665,
+      7322
+    ],
+    [
+      5545,
+      8481
+    ],
+    [
+      5427,
+      28748
+    ],
+    [
+      6457,
+      32662
+    ],
+    [
+      6466,
+      32540
+    ]
+  ]
+}

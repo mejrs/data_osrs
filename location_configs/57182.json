@@ -1,0 +1,11 @@
+{
+  "id": 57182,
+  "name": "Henge",
+  "models_2": [
+    57092
+  ],
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

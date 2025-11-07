@@ -1,0 +1,18 @@
+{
+  "id": 37978,
+  "name": "Massive storage unit",
+  "models_2": [
+    39583
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Shared",
+    "Private",
+    null,
+    null,
+    null
+  ],
+  "category": 972,
+  "unknown_69": 23
+}

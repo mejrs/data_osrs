@@ -1,0 +1,19 @@
+{
+  "id": 7219,
+  "models": [
+    [
+      0,
+      7590
+    ]
+  ],
+  "name": "Passageway",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

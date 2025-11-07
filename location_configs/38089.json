@@ -1,0 +1,18 @@
+{
+  "id": 38089,
+  "name": "Boat",
+  "models_2": [
+    17556
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

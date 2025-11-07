@@ -1,0 +1,22 @@
+{
+  "id": 30474,
+  "name": "Dead Teak",
+  "models_2": [
+    8038,
+    7768
+  ],
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      5665,
+      5276
+    ]
+  ]
+}

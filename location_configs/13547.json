@@ -1,0 +1,21 @@
+{
+  "id": 13547,
+  "models": [
+    [
+      4,
+      12546
+    ]
+  ],
+  "name": "Shelves",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

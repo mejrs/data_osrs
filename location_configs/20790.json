@@ -1,0 +1,38 @@
+{
+  "id": 20790,
+  "name": "Entrance",
+  "models_2": [
+    15589
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7580,
+      53
+    ],
+    [
+      7469,
+      61
+    ],
+    [
+      7700,
+      37
+    ],
+    [
+      8076,
+      24
+    ],
+    [
+      3974,
+      16
+    ]
+  ]
+}

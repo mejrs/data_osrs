@@ -1,0 +1,13 @@
+{
+  "id": 58428,
+  "name": "Broken fish stall",
+  "models_2": [
+    58840,
+    58848
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

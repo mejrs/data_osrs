@@ -1,0 +1,34 @@
+{
+  "id": 20421,
+  "models": [
+    [
+      0,
+      21258
+    ]
+  ],
+  "name": "Mithril ore vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "Hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      53,
+      43297
+    ],
+    [
+      37,
+      43288
+    ]
+  ],
+  "category": 252,
+  "scale_y": 153
+}

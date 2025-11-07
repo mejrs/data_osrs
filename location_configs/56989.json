@@ -1,0 +1,31 @@
+{
+  "id": 56989,
+  "name": "Tunnel",
+  "models_2": [
+    9233
+  ],
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_28": 32,
+  "actions": [
+    "Climb-into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      16803,
+      5652
+    ]
+  ],
+  "category": 2208,
+  "unknown_69": 23,
+  "params": {
+    "2291": 33,
+    "2294": 2,
+    "2295": 0,
+    "2296": 75
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6226,
+  "models": [
+    [
+      0,
+      6110
+    ],
+    [
+      1,
+      6111
+    ],
+    [
+      2,
+      6112
+    ],
+    [
+      3,
+      6113
+    ],
+    [
+      9,
+      6114
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 25,
+  "translate_y": 1
+}

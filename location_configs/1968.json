@@ -1,0 +1,16 @@
+{
+  "id": 1968,
+  "name": "Tree Door",
+  "models_2": [
+    1350
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

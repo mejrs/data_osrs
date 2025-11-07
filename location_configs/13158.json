@@ -1,0 +1,18 @@
+{
+  "id": 13158,
+  "name": "Teak drawers",
+  "models_2": [
+    12959
+  ],
+  "ambient": 25,
+  "actions": [
+    "Change-clothes",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "unknown_69": 27
+}

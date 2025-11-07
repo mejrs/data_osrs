@@ -1,0 +1,19 @@
+{
+  "id": 28890,
+  "name": "Rocks",
+  "models_2": [
+    31597
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ]
+}

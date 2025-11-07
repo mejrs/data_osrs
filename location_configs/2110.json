@@ -1,0 +1,27 @@
+{
+  "id": 2110,
+  "models": [
+    [
+      10,
+      4475
+    ],
+    [
+      22,
+      5061
+    ]
+  ],
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "scale_x": 128,
+  "scale_y": 192,
+  "scale_z": 128
+}

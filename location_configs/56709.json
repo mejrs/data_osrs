@@ -1,0 +1,13 @@
+{
+  "id": 56709,
+  "name": "Brazier",
+  "models_2": [
+    57322
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "category": 2201,
+  "model": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 57107,
+  "name": "Scorpion totem",
+  "models_2": [
+    56993
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

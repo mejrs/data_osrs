@@ -1,0 +1,43 @@
+{
+  "id": 11317,
+  "name": "Ship hull",
+  "models_2": [
+    2216
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 464,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      12579,
+      4510
+    ],
+    [
+      12574,
+      4515
+    ],
+    [
+      12698,
+      6930
+    ],
+    [
+      12694,
+      4391
+    ],
+    [
+      12818,
+      6930
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 2169,
+    "unknown_2": 3
+  }
+}

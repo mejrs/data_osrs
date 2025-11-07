@@ -1,0 +1,21 @@
+{
+  "id": 52816,
+  "name": "Unbuilt Landing Site",
+  "models_2": [
+    53127
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

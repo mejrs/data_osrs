@@ -1,0 +1,16 @@
+{
+  "id": 30134,
+  "name": "Piano",
+  "models_2": [
+    25942
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    null
+  ]
+}

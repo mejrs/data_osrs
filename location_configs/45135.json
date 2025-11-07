@@ -1,0 +1,22 @@
+{
+  "id": 45135,
+  "name": "Barrier",
+  "models_2": [
+    45362
+  ],
+  "unknown_24": 9495,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Pass",
+    "Quick-Pass",
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "category": 1661,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_89": false
+}

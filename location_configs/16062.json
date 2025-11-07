@@ -1,0 +1,29 @@
+{
+  "id": 16062,
+  "name": "Tropical tree",
+  "models_2": [
+    1676
+  ],
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      6703
+    ],
+    [
+      6585,
+      5673
+    ],
+    [
+      15919,
+      14876
+    ]
+  ],
+  "mapscene": 0
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2698,
+  "models": [
+    [
+      0,
+      19291
+    ]
+  ],
+  "name": "Mine cave",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Walk through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2909,
+  "models": [
+    [
+      9,
+      2266
+    ]
+  ],
+  "name": "Fire Wall",
+  "is_transparent": true,
+  "unknown_24": 476,
+  "ambient": 100,
+  "actions": [
+    "Touch",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "mapscene": 15
+}

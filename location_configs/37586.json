@@ -1,0 +1,49 @@
+{
+  "id": 37586,
+  "name": "Salve Graveyard Portal",
+  "models_2": [
+    11231,
+    11240
+  ],
+  "dim_x": 2,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      50072,
+      3230
+    ],
+    [
+      49948,
+      163
+    ],
+    [
+      49953,
+      2221
+    ],
+    [
+      49829,
+      181
+    ],
+    [
+      49705,
+      192
+    ]
+  ],
+  "category": 206,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "params": {
+    "429": 2,
+    "430": 1
+  }
+}

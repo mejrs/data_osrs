@@ -1,0 +1,19 @@
+{
+  "id": 48216,
+  "name": "Revitalising Idol",
+  "models_2": [
+    48938
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 45
+}

@@ -1,0 +1,13 @@
+{
+  "id": 11697,
+  "name": "Pie stall",
+  "models_2": [
+    1421,
+    1445
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 10
+}

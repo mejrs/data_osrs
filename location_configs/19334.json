@@ -1,0 +1,17 @@
+{
+  "id": 19334,
+  "name": "Broken snare",
+  "models_2": [
+    23903
+  ],
+  "unknown_17": false,
+  "unknown_24": 5237,
+  "actions": [
+    "Dismantle",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 592
+}

@@ -1,0 +1,18 @@
+{
+  "id": 34674,
+  "name": "Hillside entrance",
+  "models_2": [
+    627
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "translate_y": 65436,
+  "translate_z": 75
+}

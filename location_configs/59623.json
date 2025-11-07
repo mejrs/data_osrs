@@ -1,0 +1,11 @@
+{
+  "id": 59623,
+  "name": "Ship's wheel",
+  "models_2": [
+    58292
+  ],
+  "unknown_24": 13284,
+  "ambient": 10,
+  "contrast": 15,
+  "unknown_89": false
+}

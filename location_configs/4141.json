@@ -1,0 +1,16 @@
+{
+  "id": 4141,
+  "name": "Strange altar",
+  "models_2": [
+    4288
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Summon",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 45355,
+  "name": "Ancient button",
+  "models_2": [
+    46218
+  ],
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Push",
+    null,
+    null,
+    null,
+    null
+  ]
+}

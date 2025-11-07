@@ -1,0 +1,18 @@
+{
+  "id": 32075,
+  "name": "Ancient Equipment",
+  "models_2": [
+    34708
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

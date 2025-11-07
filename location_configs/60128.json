@@ -1,0 +1,33 @@
+{
+  "id": 60128,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Rocky outcrop",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2203,
+  "model": false,
+  "mapscene": 11,
+  "params": {
+    "2291": 61,
+    "2294": 2,
+    "2295": 0
+  }
+}

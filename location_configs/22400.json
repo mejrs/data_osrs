@@ -1,0 +1,10 @@
+{
+  "id": 22400,
+  "name": "Granary roof",
+  "models_2": [
+    22813
+  ],
+  "unknown_22": true,
+  "ambient": 35,
+  "mirror": true
+}

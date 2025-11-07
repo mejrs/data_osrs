@@ -1,0 +1,16 @@
+{
+  "id": 5057,
+  "name": "Wooden doors",
+  "models_2": [
+    4965
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

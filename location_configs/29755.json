@@ -1,0 +1,31 @@
+{
+  "id": 29755,
+  "name": "Slightly dark crystal",
+  "models_2": [
+    32502
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "colours": [
+    [
+      15296,
+      49
+    ],
+    [
+      15273,
+      74
+    ],
+    [
+      15029,
+      66
+    ],
+    [
+      16163,
+      57
+    ]
+  ]
+}

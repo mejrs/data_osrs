@@ -1,0 +1,15 @@
+{
+  "id": 4960,
+  "name": "Lever",
+  "models_2": [
+    1774
+  ],
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1475
+}

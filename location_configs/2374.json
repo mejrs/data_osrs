@@ -1,0 +1,15 @@
+{
+  "id": 2374,
+  "name": "Cupboard",
+  "models_2": [
+    2244
+  ],
+  "actions": [
+    "Close",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29
+}

@@ -1,0 +1,14 @@
+{
+  "id": 6456,
+  "name": "Ice ledge",
+  "models_2": [
+    6318
+  ],
+  "actions": [
+    "Step-off",
+    null,
+    null,
+    null,
+    null
+  ]
+}

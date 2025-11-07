@@ -1,0 +1,12 @@
+{
+  "id": 26360,
+  "name": "Frozen orc",
+  "models_2": [
+    27797
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20
+}

@@ -1,0 +1,14 @@
+{
+  "id": 28670,
+  "name": "Gnome statue",
+  "models_2": [
+    1318
+  ],
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

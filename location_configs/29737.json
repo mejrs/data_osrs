@@ -1,0 +1,27 @@
+{
+  "id": 29737,
+  "name": "Rotten stump",
+  "models_2": [
+    1685
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6028,
+      29194
+    ],
+    [
+      7054,
+      29194
+    ]
+  ]
+}

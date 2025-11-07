@@ -1,0 +1,11 @@
+{
+  "id": 15832,
+  "name": "Wall support",
+  "models_2": [
+    21247
+  ],
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 20,
+  "scale_y": 153
+}

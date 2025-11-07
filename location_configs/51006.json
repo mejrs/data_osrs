@@ -1,0 +1,20 @@
+{
+  "id": 51006,
+  "name": "Door",
+  "models_2": [
+    51765
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -10,
+  "contrast": 30,
+  "colours": [
+    [
+      38181,
+      39203
+    ]
+  ],
+  "translate_y": 1
+}

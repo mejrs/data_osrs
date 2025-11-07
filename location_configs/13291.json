@@ -1,0 +1,16 @@
+{
+  "id": 13291,
+  "name": "Magic chest",
+  "models_2": [
+    11123
+  ],
+  "unknown_24": 3117,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

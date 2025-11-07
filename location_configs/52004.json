@@ -1,0 +1,21 @@
+{
+  "id": 52004,
+  "name": "Glass case",
+  "models_2": [
+    25525
+  ],
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "hidden"
+  ],
+  "category": 1936,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "unknown_69": 27
+}

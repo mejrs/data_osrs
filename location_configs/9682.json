@@ -1,0 +1,16 @@
+{
+  "id": 9682,
+  "name": "Range",
+  "models_2": [
+    9561
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Cook",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29
+}

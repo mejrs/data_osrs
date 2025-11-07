@@ -1,0 +1,40 @@
+{
+  "id": 55402,
+  "name": "Hopper controls",
+  "models_2": [
+    25318
+  ],
+  "ambient": 20,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      7463,
+      5409
+    ],
+    [
+      7587,
+      5404
+    ],
+    [
+      7582,
+      5400
+    ],
+    [
+      7830,
+      5392
+    ],
+    [
+      7954,
+      5388
+    ]
+  ],
+  "category": 986,
+  "unknown_69": 27
+}

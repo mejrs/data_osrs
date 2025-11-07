@@ -1,0 +1,19 @@
+{
+  "id": 13352,
+  "models": [
+    [
+      0,
+      12207
+    ]
+  ],
+  "name": "Door",
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 206,
+  "translate_y": 1
+}

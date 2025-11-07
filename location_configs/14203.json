@@ -1,0 +1,18 @@
+{
+  "id": 14203,
+  "name": "Broken bars",
+  "models_2": [
+    50127
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Climb-through (normal)",
+    "Climb-through (private)",
+    "Peek (normal)",
+    null,
+    null
+  ],
+  "contrast": 30
+}

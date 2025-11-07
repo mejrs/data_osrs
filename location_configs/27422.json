@@ -1,0 +1,14 @@
+{
+  "id": 27422,
+  "name": "Blighted Bologano plant",
+  "models_2": [
+    30130
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 902,
+  "mapscene": 6
+}

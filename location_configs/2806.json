@@ -1,0 +1,16 @@
+{
+  "id": 2806,
+  "name": "Cave entrance",
+  "models_2": [
+    20333
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

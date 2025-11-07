@@ -1,0 +1,31 @@
+{
+  "id": 58106,
+  "name": "Gem stall",
+  "models_2": [
+    1421,
+    1524
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      6455
+    ],
+    [
+      6684,
+      6336
+    ],
+    [
+      6371,
+      8392
+    ]
+  ]
+}

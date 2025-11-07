@@ -1,0 +1,17 @@
+{
+  "id": 3810,
+  "models": [
+    [
+      0,
+      3802
+    ]
+  ],
+  "name": "Storeroom Door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 20233,
+  "name": "Poison crater",
+  "models_2": [
+    20655
+  ],
+  "unknown_21": true,
+  "unknown_24": 5415,
+  "unknown_27": false,
+  "actions": [
+    "Dunk",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5964,
+      25511
+    ],
+    [
+      5819,
+      23454
+    ],
+    [
+      1942,
+      20374
+    ],
+    [
+      3992,
+      18328
+    ],
+    [
+      5018,
+      18330
+    ],
+    [
+      7068,
+      16284
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3077,
+    "unknown_2": 3
+  }
+}

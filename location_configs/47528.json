@@ -1,0 +1,21 @@
+{
+  "id": 47528,
+  "name": "Arder mushrooms",
+  "models_2": [
+    48527
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Pick",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 35,
+  "category": 1811,
+  "model": false
+}

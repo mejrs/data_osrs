@@ -1,0 +1,15 @@
+{
+  "id": 3344,
+  "name": "Brew Barrel",
+  "models_2": [
+    1495
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

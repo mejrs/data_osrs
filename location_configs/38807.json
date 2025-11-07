@@ -1,0 +1,22 @@
+{
+  "id": 38807,
+  "models": [
+    [
+      22,
+      40199
+    ]
+  ],
+  "name": "Broken bridge",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Fix",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

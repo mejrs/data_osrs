@@ -1,0 +1,45 @@
+{
+  "id": 24088,
+  "name": "Crates",
+  "models_2": [
+    7704
+  ],
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      6453
+    ],
+    [
+      6439,
+      6449
+    ],
+    [
+      6563,
+      6445
+    ],
+    [
+      6558,
+      6569
+    ],
+    [
+      6682,
+      6565
+    ],
+    [
+      6806,
+      6689
+    ]
+  ],
+  "translate_x": 65506,
+  "translate_y": 0,
+  "translate_z": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33262,
+  "models": [
+    [
+      22,
+      47193
+    ]
+  ],
+  "name": "Smelly hole",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

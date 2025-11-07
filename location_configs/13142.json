@@ -1,0 +1,20 @@
+{
+  "id": 13142,
+  "models": [
+    [
+      22,
+      12901
+    ]
+  ],
+  "name": "Balance beam",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Stand-on",
+    "hidden",
+    null,
+    "Get-down",
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,26 @@
+{
+  "id": 11378,
+  "name": "Blurite rocks",
+  "models_2": [
+    1390
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      24,
+      39869
+    ]
+  ],
+  "category": 749,
+  "mapscene": 152
+}

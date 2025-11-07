@@ -1,0 +1,17 @@
+{
+  "id": 2675,
+  "models": [
+    [
+      0,
+      639
+    ]
+  ],
+  "name": "Mine door entrance",
+  "actions": [
+    "Open",
+    "Watch",
+    null,
+    null,
+    null
+  ]
+}

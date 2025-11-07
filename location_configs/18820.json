@@ -1,0 +1,30 @@
+{
+  "id": 18820,
+  "name": "Herb patch",
+  "models_2": [
+    19148,
+    19152,
+    19146
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      13982,
+      14866
+    ],
+    [
+      14230,
+      14990
+    ]
+  ]
+}

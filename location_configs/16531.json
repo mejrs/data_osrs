@@ -1,0 +1,17 @@
+{
+  "id": 16531,
+  "name": "Damaged wall",
+  "models_2": [
+    2323
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      7952,
+      6689
+    ]
+  ]
+}

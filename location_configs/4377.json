@@ -1,0 +1,24 @@
+{
+  "id": 4377,
+  "name": "Standard Stand",
+  "models_2": [
+    4416
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Capture",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10388,
+      8379
+    ]
+  ],
+  "textures": {
+    "23": 35
+  }
+}

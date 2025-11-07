@@ -1,0 +1,12 @@
+{
+  "id": 57985,
+  "name": "Skeleton",
+  "models_2": [
+    58621
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 0,
+  "contrast": 20
+}

@@ -1,0 +1,47 @@
+{
+  "id": 30200,
+  "name": "Rope",
+  "models_2": [
+    831
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5425,
+      8763
+    ],
+    [
+      5293,
+      8879
+    ],
+    [
+      10277,
+      8871
+    ],
+    [
+      21534,
+      7836
+    ],
+    [
+      57,
+      8602
+    ],
+    [
+      45,
+      5276
+    ]
+  ]
+}

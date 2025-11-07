@@ -1,0 +1,18 @@
+{
+  "id": 4529,
+  "name": "Dungeon entrance",
+  "models_2": [
+    12923
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    "Remove-room",
+    "Remove"
+  ],
+  "category": 206
+}

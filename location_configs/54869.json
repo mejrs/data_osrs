@@ -1,0 +1,35 @@
+{
+  "id": 54869,
+  "models": [
+    [
+      10,
+      54871
+    ],
+    [
+      4,
+      54869
+    ]
+  ],
+  "name": "Lye lever",
+  "unknown_22": true,
+  "unknown_24": 11622,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      20273,
+      545
+    ]
+  ],
+  "category": 2079,
+  "model": false,
+  "unknown_69": 27
+}

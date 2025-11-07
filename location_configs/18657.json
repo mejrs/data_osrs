@@ -1,0 +1,19 @@
+{
+  "id": 18657,
+  "name": "Door",
+  "models_2": [
+    18836,
+    18834
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 4881,
+  "ambient": 35,
+  "colours": [
+    [
+      7062,
+      43486
+    ]
+  ]
+}

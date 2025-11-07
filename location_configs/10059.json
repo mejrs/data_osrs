@@ -1,0 +1,21 @@
+{
+  "id": 10059,
+  "models": [
+    [
+      0,
+      10502
+    ],
+    [
+      1,
+      10489
+    ],
+    [
+      9,
+      10490
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "breakroutefinding": true
+}

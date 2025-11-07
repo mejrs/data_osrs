@@ -1,0 +1,25 @@
+{
+  "id": 4382,
+  "name": "Catapult",
+  "models_2": [
+    2217
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      53,
+      3239
+    ]
+  ],
+  "mapscene": 30
+}

@@ -1,0 +1,20 @@
+{
+  "id": 54895,
+  "name": "Alembic",
+  "models_2": [
+    54875
+  ],
+  "unknown_21": true,
+  "unknown_24": 11638,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Crystalise-potion",
+    null,
+    "Check",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false
+}

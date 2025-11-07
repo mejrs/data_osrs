@@ -1,0 +1,19 @@
+{
+  "id": 37983,
+  "name": "Lab table",
+  "models_2": [
+    17873
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Destroy",
+    null,
+    null,
+    null,
+    null
+  ]
+}

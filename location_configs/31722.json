@@ -1,0 +1,22 @@
+{
+  "id": 31722,
+  "name": "Burning driftwood",
+  "models_2": [
+    34312,
+    26584
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 6646,
+  "unknown_27": false,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 32592,
+  "name": "<col=ffff00>Old Man Ral</col>",
+  "models_2": [
+    35124
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8050,
+  "unknown_27": false,
+  "colours": [
+    [
+      4550,
+      94
+    ],
+    [
+      43026,
+      3470
+    ],
+    [
+      12,
+      3470
+    ],
+    [
+      43270,
+      8
+    ],
+    [
+      280,
+      8
+    ],
+    [
+      21526,
+      3470
+    ]
+  ],
+  "model": false,
+  "scale_x": 100,
+  "scale_z": 100,
+  "mapscene": 82,
+  "params": {
+    "2312": 9
+  }
+}

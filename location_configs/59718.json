@@ -1,0 +1,20 @@
+{
+  "id": 59718,
+  "name": "Boat schematics",
+  "models_2": [
+    58748
+  ],
+  "dim_x": 3,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Modify",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 2333,
+  "unknown_69": 27
+}

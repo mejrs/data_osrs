@@ -1,0 +1,15 @@
+{
+  "id": 11638,
+  "name": "Hurdle",
+  "models_2": [
+    5127
+  ],
+  "dim_x": 3,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ]
+}

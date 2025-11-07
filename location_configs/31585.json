@@ -1,0 +1,26 @@
+{
+  "id": 31585,
+  "name": "Spade",
+  "models_2": [
+    9556
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      5181
+    ],
+    [
+      6040,
+      8656
+    ]
+  ]
+}

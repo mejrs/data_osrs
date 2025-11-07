@@ -1,0 +1,23 @@
+{
+  "id": 41721,
+  "name": "Sign",
+  "models_2": [
+    25207,
+    25208
+  ],
+  "is_transparent": true,
+  "unknown_24": 4128,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      66,
+      7867
+    ],
+    [
+      82,
+      7888
+    ]
+  ]
+}

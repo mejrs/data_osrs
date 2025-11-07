@@ -1,0 +1,16 @@
+{
+  "id": 54539,
+  "name": "Frozen platform",
+  "models_2": [
+    54482
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 10061,
+  "models": [
+    [
+      0,
+      10502
+    ],
+    [
+      1,
+      10489
+    ],
+    [
+      9,
+      10490
+    ]
+  ],
+  "name": "Grand Exchange booth",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Exchange",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "category": 684,
+  "breakroutefinding": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 50741,
+  "name": "Rewards Chest",
+  "models_2": [
+    52415
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 10825,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "unknown_69": 27,
+  "unknown_89": false
+}

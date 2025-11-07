@@ -1,0 +1,19 @@
+{
+  "id": 40758,
+  "name": "Teak tree",
+  "models_2": [
+    37919
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 165,
+  "unknown_81": 80,
+  "mapscene": 131
+}

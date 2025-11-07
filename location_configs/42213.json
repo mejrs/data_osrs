@@ -1,0 +1,33 @@
+{
+  "id": 42213,
+  "models": [
+    [
+      10,
+      42490
+    ],
+    [
+      22,
+      42485
+    ]
+  ],
+  "name": "Bar",
+  "ambient": 15,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      1825,
+      8128
+    ],
+    [
+      1814,
+      7089
+    ]
+  ]
+}

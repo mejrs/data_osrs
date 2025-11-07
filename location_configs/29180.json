@@ -1,0 +1,45 @@
+{
+  "id": 29180,
+  "name": "Mounted Agility Cape",
+  "models_2": [
+    32176
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      43431
+    ],
+    [
+      54183,
+      43550
+    ],
+    [
+      54503,
+      43674
+    ],
+    [
+      960,
+      43431
+    ],
+    [
+      22464,
+      43550
+    ],
+    [
+      43968,
+      43674
+    ]
+  ],
+  "category": 206
+}

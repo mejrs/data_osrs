@@ -1,0 +1,13 @@
+{
+  "id": 33542,
+  "name": "Energy Pylon",
+  "models_2": [
+    36283
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 5,
+  "scale_x": 104,
+  "scale_y": 104,
+  "scale_z": 104
+}

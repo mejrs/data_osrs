@@ -1,0 +1,13 @@
+{
+  "id": 43510,
+  "name": "Pillar",
+  "models_2": [
+    870,
+    44083
+  ],
+  "ambient": 10,
+  "contrast": 25,
+  "textures": {
+    "11": 95
+  }
+}

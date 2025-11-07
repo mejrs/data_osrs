@@ -1,0 +1,25 @@
+{
+  "id": 4949,
+  "name": "Points settings",
+  "models_2": [
+    21246
+  ],
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      6689,
+      7851
+    ]
+  ],
+  "scale_y": 153
+}

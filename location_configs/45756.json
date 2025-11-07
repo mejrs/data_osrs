@@ -1,0 +1,15 @@
+{
+  "id": 45756,
+  "name": "Ba-Ba's Throne",
+  "models_2": [
+    45755
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 30,
+  "contrast": 15,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140
+}

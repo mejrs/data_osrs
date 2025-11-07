@@ -1,0 +1,26 @@
+{
+  "id": 40199,
+  "name": "Broken Bed",
+  "models_2": [
+    12393
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4510,
+      7582
+    ],
+    [
+      4502,
+      7587
+    ]
+  ]
+}

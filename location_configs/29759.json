@@ -1,0 +1,32 @@
+{
+  "id": 29759,
+  "name": "Cyan crystal",
+  "models_2": [
+    32502
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "colours": [
+    [
+      15296,
+      33713
+    ],
+    [
+      15273,
+      33725
+    ],
+    [
+      15029,
+      33721
+    ],
+    [
+      16163,
+      33717
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 72,
+  "scale_z": 64
+}

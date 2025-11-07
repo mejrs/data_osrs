@@ -1,0 +1,20 @@
+{
+  "id": 52002,
+  "name": "Wardrobe",
+  "models_2": [
+    11125
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "hidden"
+  ],
+  "contrast": 25,
+  "category": 1936,
+  "unknown_69": 27
+}

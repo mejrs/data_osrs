@@ -1,0 +1,20 @@
+{
+  "id": 32738,
+  "name": "Treasure room",
+  "models_2": [
+    35337
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_z": 65472
+}

@@ -1,0 +1,24 @@
+{
+  "id": 34899,
+  "models": [
+    [
+      10,
+      2112
+    ],
+    [
+      0,
+      25626
+    ]
+  ],
+  "name": "Slashed web",
+  "unknown_17": false,
+  "unknown_22": true,
+  "actions": [
+    "Pass-through",
+    "Peek",
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0
+}

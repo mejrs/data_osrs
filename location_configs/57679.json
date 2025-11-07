@@ -1,0 +1,23 @@
+{
+  "id": 57679,
+  "models": [
+    [
+      9,
+      57333
+    ]
+  ],
+  "name": "Broken window",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Climb-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 128,
+  "scale_y": 192,
+  "scale_z": 128
+}

@@ -1,0 +1,22 @@
+{
+  "id": 59721,
+  "models": [
+    [
+      22,
+      57667
+    ]
+  ],
+  "name": "Gangplank",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

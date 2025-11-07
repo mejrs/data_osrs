@@ -1,0 +1,16 @@
+{
+  "id": 20165,
+  "name": "Penance Healer statue",
+  "models_2": [
+    20674,
+    20675
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

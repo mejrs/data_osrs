@@ -1,0 +1,20 @@
+{
+  "id": 55398,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2081,
+  "morphs_1": {
+    "varbit": 11332,
+    "ids": [
+      54941,
+      54942
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 56677,
+  "name": "Shrine",
+  "models_2": [
+    57059
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 40,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110
+}

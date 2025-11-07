@@ -1,0 +1,40 @@
+{
+  "id": 55775,
+  "name": "Mural",
+  "models_2": [
+    55476
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7481,
+      7353
+    ],
+    [
+      8501,
+      7349
+    ],
+    [
+      8497,
+      7475
+    ],
+    [
+      8493,
+      7473
+    ],
+    [
+      8617,
+      7461
+    ]
+  ]
+}

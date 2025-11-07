@@ -1,0 +1,22 @@
+{
+  "id": 40847,
+  "name": "Frozen fancy pool of Rejuvenation",
+  "models_2": [
+    32108,
+    41515
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Drink",
+    null,
+    "Remove-decorations",
+    null,
+    null
+  ],
+  "category": 206
+}

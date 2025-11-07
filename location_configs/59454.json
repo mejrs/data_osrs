@@ -1,0 +1,32 @@
+{
+  "id": 59454,
+  "name": "Mermaid's blessing",
+  "models_2": [
+    9750
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      24,
+      39624
+    ],
+    [
+      935,
+      34727
+    ],
+    [
+      1961,
+      34729
+    ],
+    [
+      2995,
+      34739
+    ],
+    [
+      4029,
+      34648
+    ]
+  ]
+}

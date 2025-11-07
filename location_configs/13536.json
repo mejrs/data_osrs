@@ -1,0 +1,24 @@
+{
+  "id": 13536,
+  "name": "Large oven",
+  "models_2": [
+    12629,
+    12620
+  ],
+  "dim_y": 2,
+  "unknown_24": 3105,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "unknown_78": {
+    "unknown_1": 2209,
+    "unknown_2": 3
+  }
+}

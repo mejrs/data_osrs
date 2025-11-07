@@ -1,0 +1,11 @@
+{
+  "id": 48903,
+  "name": "Plinth",
+  "models_2": [
+    48544
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 15
+}

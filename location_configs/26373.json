@@ -1,0 +1,15 @@
+{
+  "id": 26373,
+  "name": "Rock",
+  "models_2": [
+    27836
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Tie-rope",
+    null,
+    null,
+    null,
+    null
+  ]
+}

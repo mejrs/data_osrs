@@ -1,0 +1,12 @@
+{
+  "id": 60110,
+  "name": "Restraint table",
+  "models_2": [
+    39806,
+    39799
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": -20,
+  "contrast": 20
+}

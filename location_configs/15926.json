@@ -1,0 +1,14 @@
+{
+  "id": 15926,
+  "name": "Conveyor Belt",
+  "models_2": [
+    15793
+  ],
+  "actions": [
+    "Take-Rum",
+    null,
+    null,
+    null,
+    null
+  ]
+}

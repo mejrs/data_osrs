@@ -1,0 +1,21 @@
+{
+  "id": 18085,
+  "models": [
+    [
+      22,
+      17663
+    ]
+  ],
+  "name": "Tunnel",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "unknown_27": false,
+  "unknown_28": 32,
+  "actions": [
+    "Climb-into",
+    null,
+    null,
+    null,
+    null
+  ]
+}

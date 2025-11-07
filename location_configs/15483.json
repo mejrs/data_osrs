@@ -1,0 +1,27 @@
+{
+  "id": 15483,
+  "name": "Entry",
+  "models_2": [
+    45359
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      12,
+      4
+    ],
+    [
+      16,
+      8
+    ],
+    [
+      18,
+      16
+    ]
+  ],
+  "category": 1657,
+  "unknown_73": true
+}

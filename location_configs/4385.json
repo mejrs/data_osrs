@@ -1,0 +1,33 @@
+{
+  "id": 4385,
+  "name": "Catapult",
+  "models_2": [
+    4447
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7700,
+      20
+    ],
+    [
+      8076,
+      12
+    ],
+    [
+      5784,
+      12
+    ]
+  ],
+  "mapscene": 30
+}

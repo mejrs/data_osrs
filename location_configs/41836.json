@@ -1,0 +1,19 @@
+{
+  "id": 41836,
+  "name": "Pillar",
+  "models_2": [
+    42354
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_28": 32,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

@@ -1,0 +1,45 @@
+{
+  "id": 49995,
+  "name": "Info Board",
+  "models_2": [
+    43382
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": -100,
+  "colours": [
+    [
+      29656,
+      4044
+    ],
+    [
+      40103,
+      299
+    ],
+    [
+      40094,
+      289
+    ],
+    [
+      40210,
+      280
+    ],
+    [
+      40458,
+      274
+    ]
+  ],
+  "scale_x": 190,
+  "scale_y": 190,
+  "scale_z": 190
+}

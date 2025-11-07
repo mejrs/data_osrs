@@ -1,0 +1,14 @@
+{
+  "id": 30015,
+  "name": "Crystal",
+  "models_2": [
+    32763
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "translate_y": 65535
+}

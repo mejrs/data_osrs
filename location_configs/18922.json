@@ -1,0 +1,34 @@
+{
+  "id": 18922,
+  "models": [
+    [
+      22,
+      1124
+    ]
+  ],
+  "name": "Cliff edge",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4892,
+      9533
+    ],
+    [
+      4899,
+      9525
+    ],
+    [
+      5921,
+      9517
+    ]
+  ]
+}

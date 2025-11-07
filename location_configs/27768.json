@@ -1,0 +1,12 @@
+{
+  "id": 27768,
+  "name": "Broken barrel",
+  "models_2": [
+    30316
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10
+}

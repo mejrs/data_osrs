@@ -1,0 +1,29 @@
+{
+  "id": 58793,
+  "name": "Diseased Rosewood",
+  "models_2": [
+    58675,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      148,
+      10392
+    ]
+  ],
+  "textures": {
+    "202": 204,
+    "203": 205
+  }
+}

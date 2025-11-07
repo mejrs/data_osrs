@@ -1,0 +1,23 @@
+{
+  "id": 38017,
+  "name": "Bookshelf",
+  "models_2": [
+    17867
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6067,
+      86
+    ]
+  ]
+}

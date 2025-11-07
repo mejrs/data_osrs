@@ -1,0 +1,21 @@
+{
+  "id": 33236,
+  "name": "Ramp",
+  "models_2": [
+    7766
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 200,
+  "scale_z": 200
+}

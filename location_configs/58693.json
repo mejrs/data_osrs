@@ -1,0 +1,32 @@
+{
+  "id": 58693,
+  "name": "Diseased elkhorn coral",
+  "models_2": [
+    59737,
+    7766,
+    59745
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      8788,
+      43102
+    ],
+    [
+      9149,
+      43074
+    ],
+    [
+      7104,
+      43057
+    ]
+  ]
+}

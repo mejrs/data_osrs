@@ -1,0 +1,27 @@
+{
+  "id": 44213,
+  "models_2": [
+    44691
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 40,
+  "contrast": 20,
+  "colours": [
+    [
+      6585,
+      6565
+    ],
+    [
+      6707,
+      6684
+    ],
+    [
+      22433,
+      10145
+    ]
+  ],
+  "model": false
+}

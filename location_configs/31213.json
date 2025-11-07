@@ -1,0 +1,15 @@
+{
+  "id": 31213,
+  "name": "Small Fossil Display",
+  "models_2": [
+    33319,
+    33411
+  ],
+  "actions": [
+    "Add to",
+    null,
+    null,
+    null,
+    null
+  ]
+}

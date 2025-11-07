@@ -1,0 +1,43 @@
+{
+  "id": 54535,
+  "name": "Ice",
+  "models_2": [
+    54636
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "colours": [
+    [
+      37949,
+      32877
+    ],
+    [
+      37937,
+      32865
+    ],
+    [
+      37925,
+      32846
+    ],
+    [
+      38049,
+      32846
+    ],
+    [
+      38036,
+      32836
+    ]
+  ],
+  "model": false,
+  "unknown_69": 23,
+  "mapscene": 7
+}

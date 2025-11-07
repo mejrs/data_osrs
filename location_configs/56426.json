@@ -1,0 +1,30 @@
+{
+  "id": 56426,
+  "name": "Bed",
+  "models_2": [
+    5192
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7952,
+      6563
+    ],
+    [
+      6707,
+      5660
+    ],
+    [
+      5016,
+      4884
+    ]
+  ]
+}

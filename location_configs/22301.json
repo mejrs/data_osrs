@@ -1,0 +1,17 @@
+{
+  "id": 22301,
+  "name": "Cabbage",
+  "models_2": [
+    8196
+  ],
+  "unknown_17": false,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "mapscene": 9
+}

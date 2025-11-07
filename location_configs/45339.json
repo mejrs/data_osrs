@@ -1,0 +1,15 @@
+{
+  "id": 45339,
+  "name": "Ancient tablet",
+  "models_2": [
+    46199
+  ],
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

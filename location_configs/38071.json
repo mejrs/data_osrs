@@ -1,0 +1,19 @@
+{
+  "id": 38071,
+  "models": [
+    [
+      0,
+      40413
+    ]
+  ],
+  "name": "Mausoleum door",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 50652,
+  "name": "Wilderness Ditch",
+  "models_2": [
+    24201
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1906
+}

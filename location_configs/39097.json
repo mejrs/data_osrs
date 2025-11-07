@@ -1,0 +1,12 @@
+{
+  "id": 39097,
+  "models_2": [
+    39861
+  ],
+  "dim_x": 6,
+  "dim_y": 5,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10
+}

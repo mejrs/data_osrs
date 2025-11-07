@@ -1,0 +1,36 @@
+{
+  "id": 56990,
+  "models": [
+    [
+      22,
+      1115
+    ]
+  ],
+  "name": "Log balance",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Walk-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5014,
+      3470
+    ]
+  ],
+  "category": 2204,
+  "params": {
+    "2291": 45,
+    "2294": 7,
+    "2295": 0,
+    "2296": 195
+  }
+}

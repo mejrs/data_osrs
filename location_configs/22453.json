@@ -1,0 +1,17 @@
+{
+  "id": 22453,
+  "name": "Crate",
+  "models_2": [
+    22925
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Add-bottom",
+    null,
+    null,
+    null,
+    null
+  ]
+}

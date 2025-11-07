@@ -1,0 +1,11 @@
+{
+  "id": 38541,
+  "name": "Owl Statue",
+  "models_2": [
+    40128,
+    40065
+  ],
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 10
+}

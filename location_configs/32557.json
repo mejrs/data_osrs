@@ -1,0 +1,21 @@
+{
+  "id": 32557,
+  "name": "Broken Fountain",
+  "models_2": [
+    35324
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 244,
+  "translate_y": 65535,
+  "mapscene": 8
+}

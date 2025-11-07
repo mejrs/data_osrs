@@ -1,0 +1,25 @@
+{
+  "id": 53513,
+  "name": "Wall",
+  "models_2": [
+    53972
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 35,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      0,
+      10262
+    ]
+  ]
+}

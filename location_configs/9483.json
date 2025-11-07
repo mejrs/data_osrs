@@ -1,0 +1,18 @@
+{
+  "id": 9483,
+  "models": [
+    [
+      0,
+      5578
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "textures": {
+    "6": 44
+  },
+  "mirror": true,
+  "translate_x": 0,
+  "translate_y": 65440,
+  "translate_z": 0
+}

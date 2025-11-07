@@ -1,0 +1,25 @@
+{
+  "id": 10663,
+  "models": [
+    [
+      22,
+      25640
+    ]
+  ],
+  "name": "Stepping stone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 3743,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 100,
+  "scale_z": 100,
+  "unknown_73": true
+}

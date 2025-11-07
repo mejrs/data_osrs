@@ -1,0 +1,28 @@
+{
+  "id": 2107,
+  "name": "Danger sign",
+  "models_2": [
+    1552
+  ],
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6036,
+      7322
+    ],
+    [
+      127,
+      7485
+    ],
+    [
+      5793,
+      7335
+    ]
+  ]
+}

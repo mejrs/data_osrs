@@ -1,0 +1,15 @@
+{
+  "id": 12041,
+  "name": "A gap through the wall",
+  "models_2": [
+    11917
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

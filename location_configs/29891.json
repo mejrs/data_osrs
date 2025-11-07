@@ -1,0 +1,17 @@
+{
+  "id": 29891,
+  "models_2": [
+    32532
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 493,
+  "ambient": 50,
+  "contrast": 25,
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256
+}

@@ -1,0 +1,11 @@
+{
+  "id": 59171,
+  "name": "Balloon toad pile",
+  "models_2": [
+    58815
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 15
+}

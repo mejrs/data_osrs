@@ -1,0 +1,16 @@
+{
+  "id": 2886,
+  "name": "Open Cupboard",
+  "models_2": [
+    2244
+  ],
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Search",
+    "Shut",
+    null,
+    null
+  ],
+  "unknown_69": 29
+}

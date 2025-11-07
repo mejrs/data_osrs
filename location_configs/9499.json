@@ -1,0 +1,12 @@
+{
+  "id": 9499,
+  "name": "Plant",
+  "models_2": [
+    9539
+  ],
+  "ambient": 20,
+  "contrast": 15,
+  "scale_x": 70,
+  "scale_y": 70,
+  "scale_z": 70
+}

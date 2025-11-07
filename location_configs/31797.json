@@ -1,0 +1,11 @@
+{
+  "id": 31797,
+  "name": "Ogre bed",
+  "models_2": [
+    34401
+  ],
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false
+}

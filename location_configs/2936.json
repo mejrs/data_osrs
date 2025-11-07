@@ -1,0 +1,14 @@
+{
+  "id": 2936,
+  "name": "Totem Pole",
+  "models_2": [
+    1759
+  ],
+  "actions": [
+    "Look",
+    null,
+    null,
+    null,
+    null
+  ]
+}

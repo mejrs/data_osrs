@@ -1,0 +1,17 @@
+{
+  "id": 58409,
+  "name": "Rosewood Pyre",
+  "models_2": [
+    4138
+  ],
+  "dim_y": 3,
+  "unknown_24": 1304,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2051
+}

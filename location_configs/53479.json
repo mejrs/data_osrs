@@ -1,0 +1,27 @@
+{
+  "id": 53479,
+  "models": [
+    [
+      0,
+      53994
+    ]
+  ],
+  "name": "Solid door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      0,
+      10258
+    ]
+  ],
+  "unknown_75": 0
+}

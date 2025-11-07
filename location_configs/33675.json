@@ -1,0 +1,17 @@
+{
+  "id": 33675,
+  "name": "Snape grass plant",
+  "models_2": [
+    36893,
+    8222,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

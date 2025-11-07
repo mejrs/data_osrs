@@ -1,0 +1,26 @@
+{
+  "id": 6840,
+  "models": [
+    [
+      4,
+      57467
+    ]
+  ],
+  "name": "Fungus pattern",
+  "unknown_19": 1,
+  "ambient": 50,
+  "actions": [
+    null,
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      6689,
+      7070
+    ]
+  ]
+}

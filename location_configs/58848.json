@@ -1,0 +1,17 @@
+{
+  "id": 58848,
+  "name": "Hemp",
+  "models_2": [
+    59769,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15
+}

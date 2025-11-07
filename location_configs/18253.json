@@ -1,0 +1,16 @@
+{
+  "id": 18253,
+  "models": [
+    [
+      0,
+      18222
+    ]
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "contrast": 20,
+  "mirror": true,
+  "translate_y": 1
+}

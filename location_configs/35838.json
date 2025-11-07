@@ -1,0 +1,19 @@
+{
+  "id": 35838,
+  "models": [
+    [
+      0,
+      38700
+    ]
+  ],
+  "name": "Blocked Crevice",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

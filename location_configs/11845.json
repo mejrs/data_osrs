@@ -1,0 +1,28 @@
+{
+  "id": 11845,
+  "name": "Hot vent door",
+  "models_2": [
+    9290
+  ],
+  "unknown_21": true,
+  "unknown_24": 2598,
+  "unknown_27": false,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      33676,
+      0
+    ]
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 2066,
+    "unknown_2": 3
+  }
+}

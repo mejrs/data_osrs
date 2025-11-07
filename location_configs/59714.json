@@ -1,0 +1,20 @@
+{
+  "id": 59714,
+  "name": "Supply station",
+  "models_2": [
+    58323
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 20,
+  "category": 2326
+}

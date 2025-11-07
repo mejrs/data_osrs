@@ -1,0 +1,14 @@
+{
+  "id": 610,
+  "name": "Workbench",
+  "models_2": [
+    2147
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "textures": {
+    "22": 16,
+    "29": 16
+  },
+  "category": 154
+}

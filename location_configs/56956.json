@@ -1,0 +1,12 @@
+{
+  "id": 56956,
+  "name": "Cacao tree",
+  "models_2": [
+    57137,
+    7767
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "contrast": 15
+}

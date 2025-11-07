@@ -1,0 +1,20 @@
+{
+  "id": 59361,
+  "name": "Wreck of the Counterweight",
+  "models_2": [
+    57640
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false
+}

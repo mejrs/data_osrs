@@ -1,0 +1,21 @@
+{
+  "id": 33496,
+  "name": "Crate",
+  "models_2": [
+    36264
+  ],
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "category": 209,
+  "scale_x": 88,
+  "scale_y": 88,
+  "scale_z": 88
+}

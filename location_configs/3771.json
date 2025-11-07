@@ -1,0 +1,42 @@
+{
+  "id": 3771,
+  "name": "Stronghold",
+  "models_2": [
+    57463
+  ],
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6036,
+      7335
+    ],
+    [
+      5008,
+      7326
+    ],
+    [
+      1932,
+      7446
+    ],
+    [
+      904,
+      7566
+    ],
+    [
+      900,
+      8070
+    ]
+  ],
+  "model": false,
+  "translate_x": 25,
+  "translate_y": 135
+}

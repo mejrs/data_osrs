@@ -1,0 +1,18 @@
+{
+  "id": 59685,
+  "name": "Gale catcher",
+  "models_2": [
+    58341
+  ],
+  "is_transparent": true,
+  "unknown_24": 13422,
+  "unknown_27": false,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    "Modify"
+  ],
+  "category": 2328
+}

@@ -1,0 +1,17 @@
+{
+  "id": 30483,
+  "name": "Seaweed patch",
+  "models_2": [
+    7794
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

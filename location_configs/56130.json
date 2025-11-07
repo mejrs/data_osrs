@@ -1,0 +1,18 @@
+{
+  "id": 56130,
+  "name": "Oak display",
+  "models_2": [
+    56064
+  ],
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Trophies",
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

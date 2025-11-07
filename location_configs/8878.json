@@ -1,0 +1,15 @@
+{
+  "id": 8878,
+  "name": "Dwarven machinery",
+  "models_2": [
+    8662
+  ],
+  "actions": [
+    "Control",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

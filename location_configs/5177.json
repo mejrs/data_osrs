@@ -1,0 +1,11 @@
+{
+  "id": 5177,
+  "name": "Lightning conductor",
+  "models_2": [
+    5172
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 1632,
+  "unknown_27": false
+}

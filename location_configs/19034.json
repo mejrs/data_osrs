@@ -1,0 +1,21 @@
+{
+  "id": 19034,
+  "name": "Snow",
+  "models_2": [
+    20486
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 568,
+  "unknown_75": 1,
+  "mapscene": 12
+}

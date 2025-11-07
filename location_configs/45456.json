@@ -1,0 +1,13 @@
+{
+  "id": 45456,
+  "name": "Mirror",
+  "models_2": [
+    45764,
+    45759
+  ],
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 25,
+  "category": 1669,
+  "mirror": true
+}

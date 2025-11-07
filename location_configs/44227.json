@@ -1,0 +1,19 @@
+{
+  "id": 44227,
+  "name": "Bush",
+  "models_2": [
+    1640
+  ],
+  "is_transparent": true,
+  "colours": [
+    [
+      5388,
+      8483
+    ]
+  ],
+  "model": false,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "mapscene": 6
+}

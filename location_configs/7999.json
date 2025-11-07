@@ -1,0 +1,19 @@
+{
+  "id": 7999,
+  "name": "Banana tree",
+  "models_2": [
+    7941,
+    7767,
+    7935
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Check-health",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

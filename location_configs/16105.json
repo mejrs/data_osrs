@@ -1,0 +1,22 @@
+{
+  "id": 16105,
+  "name": "Energy Barrier",
+  "models_2": [
+    5397
+  ],
+  "ambient": 100,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    "Pay-toll(2-Ecto)",
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      61,
+      20797
+    ]
+  ]
+}

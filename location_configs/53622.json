@@ -1,0 +1,21 @@
+{
+  "id": 53622,
+  "name": "Opening",
+  "models_2": [
+    53811
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 27
+}

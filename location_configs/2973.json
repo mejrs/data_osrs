@@ -1,0 +1,17 @@
+{
+  "id": 2973,
+  "name": "Boulder",
+  "models_2": [
+    685
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Smash-to-bits",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 11
+}

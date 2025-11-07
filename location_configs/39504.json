@@ -1,0 +1,11 @@
+{
+  "id": 39504,
+  "name": "Ladder",
+  "models_2": [
+    17852
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "mapscene": 7
+}

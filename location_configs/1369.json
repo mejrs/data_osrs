@@ -1,0 +1,23 @@
+{
+  "id": 1369,
+  "name": "Plant",
+  "models_2": [
+    1593
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 20,
+  "colours": [
+    [
+      6028,
+      21646
+    ],
+    [
+      22455,
+      29592
+    ]
+  ],
+  "unknown_81": 80,
+  "mapscene": 5
+}

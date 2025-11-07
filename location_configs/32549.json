@@ -1,0 +1,25 @@
+{
+  "id": 32549,
+  "name": "Rubble",
+  "models_2": [
+    34873
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      127,
+      28
+    ],
+    [
+      37982,
+      20
+    ]
+  ]
+}

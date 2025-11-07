@@ -1,0 +1,21 @@
+{
+  "id": 3475,
+  "models": [
+    [
+      4,
+      3510
+    ]
+  ],
+  "unknown_19": 0,
+  "ambient": 50,
+  "colours": [
+    [
+      6930,
+      7566
+    ]
+  ],
+  "textures": {
+    "16": 5
+  },
+  "translate_y": 1
+}

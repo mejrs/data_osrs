@@ -1,0 +1,20 @@
+{
+  "id": 49757,
+  "name": "Sewer exit",
+  "models_2": [
+    49686
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 1873,
+  "mirror": true
+}

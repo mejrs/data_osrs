@@ -1,0 +1,33 @@
+{
+  "id": 29176,
+  "name": "Mounted Music Cape",
+  "models_2": [
+    32191
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      28
+    ],
+    [
+      54183,
+      127
+    ],
+    [
+      54503,
+      33030
+    ]
+  ],
+  "category": 206
+}

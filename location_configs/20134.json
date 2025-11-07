@@ -1,0 +1,17 @@
+{
+  "id": 20134,
+  "name": "Blackboard",
+  "models_2": [
+    20638
+  ],
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

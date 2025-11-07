@@ -1,0 +1,19 @@
+{
+  "id": 26756,
+  "models": [
+    [
+      4,
+      2040
+    ]
+  ],
+  "name": "Wilderness Statistics",
+  "unknown_19": 1,
+  "ambient": 50,
+  "actions": [
+    "Read",
+    "Toggle K/D",
+    null,
+    null,
+    null
+  ]
+}

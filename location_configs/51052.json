@@ -1,0 +1,19 @@
+{
+  "id": 51052,
+  "name": "Burning brazier",
+  "models_2": [
+    52632,
+    52631
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 40,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 2065,
+    "unknown_2": 3
+  }
+}

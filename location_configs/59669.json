@@ -1,0 +1,19 @@
+{
+  "id": 59669,
+  "name": "Facility hotspot",
+  "models_2": [
+    58786
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2325
+}

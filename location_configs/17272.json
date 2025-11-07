@@ -1,0 +1,15 @@
+{
+  "id": 17272,
+  "name": "Machine panel",
+  "models_2": [
+    17080
+  ],
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

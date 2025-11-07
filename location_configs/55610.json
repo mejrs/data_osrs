@@ -1,0 +1,45 @@
+{
+  "id": 55610,
+  "models": [
+    [
+      22,
+      55386
+    ]
+  ],
+  "name": "Orange pumpkins",
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5555,
+      5933
+    ],
+    [
+      5433,
+      5939
+    ],
+    [
+      6466,
+      5813
+    ],
+    [
+      6470,
+      5941
+    ],
+    [
+      6472,
+      6069
+    ]
+  ],
+  "category": 2130,
+  "unknown_73": true,
+  "mapscene": 144
+}

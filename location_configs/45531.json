@@ -1,0 +1,42 @@
+{
+  "id": 45531,
+  "name": "Damaged pillar",
+  "models_2": [
+    45425
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 9502,
+  "unknown_27": false,
+  "ambient": -20,
+  "contrast": 40,
+  "colours": [
+    [
+      1331,
+      64935
+    ],
+    [
+      1321,
+      65054
+    ],
+    [
+      6344,
+      41137
+    ],
+    [
+      6336,
+      41131
+    ],
+    [
+      6315,
+      21539
+    ],
+    [
+      6319,
+      21534
+    ]
+  ],
+  "scale_x": 88,
+  "scale_y": 88,
+  "scale_z": 88
+}

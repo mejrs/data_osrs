@@ -1,0 +1,41 @@
+{
+  "id": 57074,
+  "name": "Willow totem",
+  "models_2": [
+    57001
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Carve",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5665,
+      8846
+    ],
+    [
+      5545,
+      8598
+    ],
+    [
+      5427,
+      8604
+    ],
+    [
+      6457,
+      8615
+    ],
+    [
+      6466,
+      9643
+    ]
+  ]
+}

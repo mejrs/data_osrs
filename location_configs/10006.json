@@ -1,0 +1,15 @@
+{
+  "id": 10006,
+  "name": "Light door",
+  "models_2": [
+    9683
+  ],
+  "dim_x": 2,
+  "colours": [
+    [
+      127,
+      11200
+    ]
+  ],
+  "mirror": true
+}

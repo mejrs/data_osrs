@@ -1,0 +1,17 @@
+{
+  "id": 4678,
+  "name": "Herbs",
+  "models_2": [
+    1690,
+    4634
+  ],
+  "unknown_17": false,
+  "unknown_21": true,
+  "actions": [
+    "Weed",
+    null,
+    "hidden",
+    null,
+    null
+  ]
+}

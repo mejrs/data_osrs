@@ -1,0 +1,18 @@
+{
+  "id": 16829,
+  "models": [
+    [
+      22,
+      16762
+    ]
+  ],
+  "name": "Transport platform",
+  "unknown_27": false,
+  "actions": [
+    "Step-on",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 57647,
+  "name": "Barrel",
+  "models_2": [
+    25200
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Claim-staves",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6451,
+      5409
+    ],
+    [
+      6439,
+      5409
+    ],
+    [
+      6563,
+      5400
+    ],
+    [
+      6558,
+      5404
+    ]
+  ]
+}

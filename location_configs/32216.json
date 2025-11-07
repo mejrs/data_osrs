@@ -1,0 +1,11 @@
+{
+  "id": 32216,
+  "name": "Anvil",
+  "models_2": [
+    34807
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "translate_y": 65535
+}

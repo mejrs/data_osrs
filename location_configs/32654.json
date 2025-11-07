@@ -1,0 +1,22 @@
+{
+  "id": 32654,
+  "name": "Vyre well",
+  "models_2": [
+    35255
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Charge-at",
+    "Fill",
+    "Check",
+    "Empty",
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 3088,
+    "unknown_2": 5
+  }
+}

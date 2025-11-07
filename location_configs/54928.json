@@ -1,0 +1,51 @@
+{
+  "id": 54928,
+  "name": "Mixing vessel (Mixalot)",
+  "models_2": [
+    54865
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11628,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      48563,
+      41756
+    ],
+    [
+      48547,
+      41752
+    ],
+    [
+      48666,
+      41748
+    ],
+    [
+      61229,
+      6936
+    ],
+    [
+      61223,
+      6932
+    ],
+    [
+      61214,
+      6930
+    ],
+    [
+      48198,
+      21671
+    ]
+  ],
+  "model": false
+}

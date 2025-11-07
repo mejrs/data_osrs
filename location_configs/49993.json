@@ -1,0 +1,27 @@
+{
+  "id": 49993,
+  "name": "Fiery Ornate Pool of Rejuvenation",
+  "models_2": [
+    50051
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 3105,
+  "unknown_27": false,
+  "ambient": 45,
+  "actions": [
+    "Drink",
+    null,
+    "Revert",
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 206,
+  "unknown_78": {
+    "unknown_1": 7566,
+    "unknown_2": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 30929,
+  "name": "Table parts",
+  "models_2": [
+    33906
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ]
+}

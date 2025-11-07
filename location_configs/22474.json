@@ -1,0 +1,21 @@
+{
+  "id": 22474,
+  "name": "Wheat",
+  "models_2": [
+    22799
+  ],
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "category": 240,
+  "scale_x": 120,
+  "scale_y": 140,
+  "scale_z": 120
+}

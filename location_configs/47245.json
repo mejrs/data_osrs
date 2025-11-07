@@ -1,0 +1,14 @@
+{
+  "id": 47245,
+  "name": "Combat Achievements Display",
+  "models_2": [
+    47554,
+    47587,
+    47528
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

@@ -1,0 +1,12 @@
+{
+  "id": 11912,
+  "name": "Bush",
+  "models_2": [
+    11550
+  ],
+  "unknown_21": true,
+  "ambient": 10,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

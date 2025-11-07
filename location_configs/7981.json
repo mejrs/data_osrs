@@ -1,0 +1,28 @@
+{
+  "id": 7981,
+  "name": "Diseased pineapple plant",
+  "models_2": [
+    8093,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      7729,
+      10140
+    ],
+    [
+      12855,
+      21555
+    ]
+  ]
+}

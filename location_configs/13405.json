@@ -1,0 +1,30 @@
+{
+  "id": 13405,
+  "name": "Sq'irk tree",
+  "models_2": [
+    22206,
+    22202,
+    22205
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Pick-Fruit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14224,
+      16834
+    ],
+    [
+      15244,
+      16825
+    ]
+  ]
+}

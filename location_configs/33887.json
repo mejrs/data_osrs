@@ -1,0 +1,28 @@
+{
+  "id": 33887,
+  "name": "Big Compost Bin",
+  "models_2": [
+    7838,
+    7845,
+    7843
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Dump"
+  ],
+  "colours": [
+    [
+      8724,
+      13074
+    ]
+  ],
+  "scale_x": 181,
+  "scale_z": 181,
+  "translate_x": 65506
+}

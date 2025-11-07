@@ -1,0 +1,43 @@
+{
+  "id": 60483,
+  "name": "Bronze salvaging hook",
+  "models_2": [
+    58269
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 13565,
+  "ambient": 15,
+  "actions": [
+    "Deploy",
+    null,
+    "Hidden",
+    null,
+    "Modify"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      54164,
+      6682
+    ],
+    [
+      54183,
+      6695
+    ],
+    [
+      54193,
+      6699
+    ],
+    [
+      54203,
+      6701
+    ],
+    [
+      21435,
+      7062
+    ]
+  ],
+  "category": 2349,
+  "unknown_69": 15
+}

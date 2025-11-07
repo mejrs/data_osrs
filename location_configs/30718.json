@@ -1,0 +1,28 @@
+{
+  "id": 30718,
+  "name": "Giant vial",
+  "models_2": [
+    33985
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      7977,
+      31655
+    ],
+    [
+      7077,
+      27555
+    ],
+    [
+      4638,
+      29340
+    ]
+  ],
+  "unknown_73": true
+}

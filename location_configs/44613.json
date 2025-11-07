@@ -1,0 +1,14 @@
+{
+  "id": 44613,
+  "name": "Big chest",
+  "models_2": [
+    44907
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 10
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2586,
+  "name": "Hopper",
+  "models_2": [
+    25317
+  ],
+  "ambient": 20,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 513
+}

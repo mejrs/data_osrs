@@ -1,0 +1,48 @@
+{
+  "id": 25751,
+  "models": [
+    [
+      0,
+      639
+    ]
+  ],
+  "unknown_19": 0,
+  "ambient": 20,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6945,
+      5421
+    ],
+    [
+      6940,
+      5417
+    ],
+    [
+      6697,
+      5425
+    ],
+    [
+      4762,
+      5532
+    ],
+    [
+      4638,
+      5537
+    ],
+    [
+      6814,
+      5413
+    ]
+  ],
+  "mirror": true,
+  "translate_y": 1,
+  "unknown_75": 0
+}

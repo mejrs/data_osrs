@@ -1,0 +1,22 @@
+{
+  "id": 2142,
+  "name": "Cauldron of Thunder",
+  "models_2": [
+    2241
+  ],
+  "unknown_24": 479,
+  "colours": [
+    [
+      37,
+      11187
+    ],
+    [
+      22435,
+      43237
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3115,
+    "unknown_2": 3
+  }
+}

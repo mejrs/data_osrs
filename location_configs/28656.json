@@ -1,0 +1,21 @@
+{
+  "id": 28656,
+  "models": [
+    [
+      0,
+      31479
+    ]
+  ],
+  "name": "Opening",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

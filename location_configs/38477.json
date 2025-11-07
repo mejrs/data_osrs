@@ -1,0 +1,52 @@
+{
+  "id": 38477,
+  "models": [
+    [
+      22,
+      39950
+    ]
+  ],
+  "name": "Platform",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 3743,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      32827,
+      32955
+    ],
+    [
+      32794,
+      32922
+    ],
+    [
+      32786,
+      32916
+    ],
+    [
+      32906,
+      33030
+    ],
+    [
+      33730,
+      33752
+    ]
+  ],
+  "unknown_73": true,
+  "unknown_78": {
+    "unknown_1": 3087,
+    "unknown_2": 3
+  },
+  "mapscene": 21
+}

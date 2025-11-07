@@ -1,0 +1,43 @@
+{
+  "id": 54531,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Ledge",
+  "dim_x": 2,
+  "ambient": 30,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      80,
+      54218
+    ],
+    [
+      64,
+      54218
+    ],
+    [
+      55,
+      54218
+    ]
+  ],
+  "scale_x": 70,
+  "scale_y": 50,
+  "scale_z": 256,
+  "unknown_69": 30,
+  "mapscene": 7
+}

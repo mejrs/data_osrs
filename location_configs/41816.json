@@ -1,0 +1,22 @@
+{
+  "id": 41816,
+  "models": [
+    [
+      0,
+      42424
+    ]
+  ],
+  "name": "Vines",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

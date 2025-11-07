@@ -1,0 +1,19 @@
+{
+  "id": 29146,
+  "name": "Tip jar",
+  "models_2": [
+    32086
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Use",
+    null,
+    null,
+    "Setup",
+    "Remove"
+  ],
+  "category": 206,
+  "translate_y": 65535,
+  "unknown_75": 0
+}

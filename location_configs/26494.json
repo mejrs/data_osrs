@@ -1,0 +1,11 @@
+{
+  "id": 26494,
+  "name": "Snowfall",
+  "models_2": [
+    27935
+  ],
+  "unknown_17": false,
+  "unknown_24": 7001,
+  "ambient": 35,
+  "scale_y": 256
+}

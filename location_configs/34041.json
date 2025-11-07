@@ -1,0 +1,17 @@
+{
+  "id": 34041,
+  "name": "Redwood tree patch",
+  "models_2": [
+    36768
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

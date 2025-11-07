@@ -1,0 +1,11 @@
+{
+  "id": 48413,
+  "name": "Dead Bear",
+  "models_2": [
+    49000
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 30
+}

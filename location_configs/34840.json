@@ -1,0 +1,18 @@
+{
+  "id": 34840,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Grubby Door",
+  "unknown_19": 1,
+  "actions": [
+    "Pick-lock",
+    null,
+    null,
+    null,
+    null
+  ]
+}

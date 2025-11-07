@@ -1,0 +1,31 @@
+{
+  "id": 43703,
+  "name": "Guardian of Earth",
+  "models_2": [
+    43995,
+    43991
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 9362,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    "Toggle-talisman",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      962,
+      6032
+    ]
+  ],
+  "category": 1616,
+  "model": false,
+  "translate_y": 65535
+}

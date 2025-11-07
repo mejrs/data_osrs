@@ -1,0 +1,16 @@
+{
+  "id": 20151,
+  "name": "Lure cave",
+  "models_2": [
+    20639
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "scale_x": 171,
+  "unknown_75": 0
+}

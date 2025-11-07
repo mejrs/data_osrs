@@ -1,0 +1,14 @@
+{
+  "id": 38824,
+  "models": [
+    [
+      22,
+      40187
+    ]
+  ],
+  "name": "Tile",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 10
+}

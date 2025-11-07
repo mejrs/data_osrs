@@ -1,0 +1,17 @@
+{
+  "id": 37501,
+  "name": "Fancy Jewellery Box",
+  "models_2": [
+    32149
+  ],
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Teleport Menu",
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206,
+  "translate_y": 65535
+}

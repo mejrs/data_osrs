@@ -1,0 +1,20 @@
+{
+  "id": 28755,
+  "models": [
+    [
+      22,
+      31405
+    ]
+  ],
+  "name": "Vine",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Walk on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

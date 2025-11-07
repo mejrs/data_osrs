@@ -1,0 +1,17 @@
+{
+  "id": 31949,
+  "name": "Bank Box",
+  "models_2": [
+    34593
+  ],
+  "unknown_19": 1,
+  "unknown_24": 7824,
+  "actions": [
+    "Bank",
+    "Venerate",
+    null,
+    null,
+    null
+  ],
+  "category": 237
+}

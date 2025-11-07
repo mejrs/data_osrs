@@ -1,0 +1,28 @@
+{
+  "id": 14216,
+  "models": [
+    [
+      0,
+      14482
+    ],
+    [
+      9,
+      14483
+    ]
+  ],
+  "name": "Wall",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    null,
+    "hidden",
+    "Repair",
+    null,
+    null
+  ],
+  "category": 182,
+  "model": false
+}

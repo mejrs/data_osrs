@@ -1,0 +1,19 @@
+{
+  "id": 3687,
+  "name": "Boxes",
+  "models_2": [
+    2140
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "16": 22
+  },
+  "category": 208
+}

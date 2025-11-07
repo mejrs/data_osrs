@@ -1,0 +1,19 @@
+{
+  "id": 13127,
+  "models": [
+    [
+      22,
+      12907
+    ]
+  ],
+  "name": "Boxing mat",
+  "unknown_17": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

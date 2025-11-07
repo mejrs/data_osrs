@@ -1,0 +1,20 @@
+{
+  "id": 30602,
+  "name": "Sulliuscep",
+  "models_2": [
+    33700
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Cut",
+    "Inject",
+    "hidden",
+    null,
+    null
+  ],
+  "translate_y": 65535
+}

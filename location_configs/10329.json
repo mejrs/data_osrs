@@ -1,0 +1,39 @@
+{
+  "id": 10329,
+  "models": [
+    [
+      10,
+      16340
+    ],
+    [
+      0,
+      612
+    ],
+    [
+      1,
+      613
+    ],
+    [
+      2,
+      614
+    ],
+    [
+      9,
+      615
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "colours": [
+    [
+      24,
+      9098
+    ]
+  ],
+  "textures": {
+    "2": 23
+  },
+  "translate_y": 1
+}

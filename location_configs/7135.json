@@ -1,0 +1,24 @@
+{
+  "id": 7135,
+  "name": "Mushrooms",
+  "models_2": [
+    3917
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "colours": [
+    [
+      7283,
+      7636
+    ],
+    [
+      10378,
+      7283
+    ],
+    [
+      1742,
+      7390
+    ]
+  ]
+}

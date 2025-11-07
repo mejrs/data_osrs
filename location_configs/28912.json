@@ -1,0 +1,24 @@
+{
+  "id": 28912,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Steep roof",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Balance-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

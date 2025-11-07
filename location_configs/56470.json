@@ -1,0 +1,29 @@
+{
+  "id": 56470,
+  "name": "Potted fan",
+  "models_2": [
+    56558
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      24206,
+      12820
+    ],
+    [
+      24342,
+      13076
+    ]
+  ]
+}

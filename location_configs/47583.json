@@ -1,0 +1,46 @@
+{
+  "id": 47583,
+  "name": "Scoreboard",
+  "models_2": [
+    49060
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Read",
+    "Read (Awakened)",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      43169,
+      43169
+    ],
+    [
+      43160,
+      43160
+    ],
+    [
+      43150,
+      43150
+    ],
+    [
+      49432,
+      49432
+    ],
+    [
+      49424,
+      49424
+    ],
+    [
+      49420,
+      49420
+    ]
+  ],
+  "category": 1818,
+  "model": false
+}

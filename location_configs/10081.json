@@ -1,0 +1,16 @@
+{
+  "id": 10081,
+  "name": "Rocks",
+  "models_2": [
+    1390
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "mapscene": 12
+}

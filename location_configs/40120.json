@@ -1,0 +1,15 @@
+{
+  "id": 40120,
+  "name": "Broken Shelves",
+  "models_2": [
+    1271
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ]
+}

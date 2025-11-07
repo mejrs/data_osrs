@@ -1,0 +1,45 @@
+{
+  "id": 56147,
+  "models": [
+    [
+      0,
+      9476
+    ],
+    [
+      9,
+      9477
+    ]
+  ],
+  "name": "Door",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6945,
+      7566
+    ],
+    [
+      6940,
+      7690
+    ],
+    [
+      7064,
+      7442
+    ],
+    [
+      6038,
+      7566
+    ]
+  ],
+  "mirror": true,
+  "translate_y": 1
+}

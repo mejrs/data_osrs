@@ -1,0 +1,26 @@
+{
+  "id": 17677,
+  "models": [
+    [
+      10,
+      17907
+    ],
+    [
+      22,
+      17908
+    ]
+  ],
+  "name": "Wall",
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      26780,
+      32910
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128
+}

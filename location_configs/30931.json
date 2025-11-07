@@ -1,0 +1,17 @@
+{
+  "id": 30931,
+  "name": "Ring of Stones",
+  "models_2": [
+    33923
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Build on",
+    null,
+    null,
+    null,
+    null
+  ]
+}

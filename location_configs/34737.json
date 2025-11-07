@@ -1,0 +1,21 @@
+{
+  "id": 34737,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Build",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "category": 960,
+  "morphs_1": {
+    "varbit": 8255,
+    "ids": [
+      34734,
+      34735
+    ]
+  }
+}

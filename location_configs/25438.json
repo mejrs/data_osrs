@@ -1,0 +1,21 @@
+{
+  "id": 25438,
+  "name": "Telescope",
+  "models_2": [
+    26938,
+    26940
+  ],
+  "dim_x": 2,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_69": 29
+}

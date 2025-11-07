@@ -1,0 +1,15 @@
+{
+  "id": 15426,
+  "name": "Throne space",
+  "models_2": [
+    12879
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

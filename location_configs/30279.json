@@ -1,0 +1,16 @@
+{
+  "id": 30279,
+  "name": "Shop Counter",
+  "models_2": [
+    33120
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ]
+}

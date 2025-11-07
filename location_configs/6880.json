@@ -1,0 +1,15 @@
+{
+  "id": 6880,
+  "name": "Ogre barricade",
+  "models_2": [
+    6788
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "colours": [
+    [
+      9556,
+      8514
+    ]
+  ]
+}

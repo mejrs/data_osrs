@@ -1,0 +1,21 @@
+{
+  "id": 14411,
+  "name": "Tree",
+  "models_2": [
+    16238
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_z": 256,
+  "translate_y": 65476,
+  "unknown_73": true
+}

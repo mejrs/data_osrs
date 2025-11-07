@@ -1,0 +1,32 @@
+{
+  "id": 50970,
+  "models": [
+    [
+      10,
+      5512
+    ],
+    [
+      22,
+      5513
+    ]
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 10408,
+  "ambient": 50,
+  "contrast": 30,
+  "colours": [
+    [
+      43117,
+      32945
+    ]
+  ],
+  "model": false,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "translate_y": 65535,
+  "translate_z": 0
+}

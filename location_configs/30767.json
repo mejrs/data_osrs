@@ -1,0 +1,22 @@
+{
+  "id": 30767,
+  "models": [
+    [
+      0,
+      33817
+    ]
+  ],
+  "name": "Obstacle",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Navigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "mapscene": 22
+}

@@ -1,0 +1,24 @@
+{
+  "id": 26273,
+  "name": "Rewards chest",
+  "models_2": [
+    1226
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      7101
+    ]
+  ],
+  "unknown_69": 30,
+  "translate_x": 10
+}

@@ -1,0 +1,17 @@
+{
+  "id": 29166,
+  "name": "Cape hanger",
+  "models_2": [
+    32194
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "hidden",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

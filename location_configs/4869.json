@@ -1,0 +1,25 @@
+{
+  "id": 4869,
+  "models": [
+    [
+      22,
+      4735
+    ]
+  ],
+  "name": "Teleportation Device",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      7566
+    ]
+  ]
+}

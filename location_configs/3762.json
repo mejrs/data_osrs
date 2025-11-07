@@ -1,0 +1,19 @@
+{
+  "id": 3762,
+  "name": "Secret Door",
+  "models_2": [
+    3806
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 40,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "model": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": 25928,
+  "name": "Table",
+  "models_2": [
+    27378,
+    27379
+  ],
+  "dim_x": 3,
+  "ambient": 10,
+  "contrast": 10
+}

@@ -1,0 +1,22 @@
+{
+  "id": 49899,
+  "name": "Warped tree roots",
+  "models_2": [
+    49594
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 1875,
+  "mirror": true,
+  "model": false
+}

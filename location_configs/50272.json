@@ -1,0 +1,12 @@
+{
+  "id": 50272,
+  "name": "Stone boat",
+  "models_2": [
+    50221
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 40
+}

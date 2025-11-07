@@ -1,0 +1,16 @@
+{
+  "id": 29315,
+  "name": "Sprouting Roots",
+  "models_2": [
+    32250
+  ],
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ]
+}

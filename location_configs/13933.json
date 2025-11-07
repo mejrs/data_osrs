@@ -1,0 +1,18 @@
+{
+  "id": 13933,
+  "name": "Exit",
+  "models_2": [
+    14237
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 50,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 40437,
+  "models": [
+    [
+      0,
+      27100
+    ]
+  ],
+  "name": "Blue Barrier",
+  "unknown_19": 1,
+  "unknown_24": 1433,
+  "ambient": 100,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      61,
+      42816
+    ]
+  ],
+  "unknown_75": 0,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  }
+}

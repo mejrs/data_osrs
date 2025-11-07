@@ -1,0 +1,19 @@
+{
+  "id": 13310,
+  "models": [
+    [
+      4,
+      12473
+    ]
+  ],
+  "name": "Skeleton",
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

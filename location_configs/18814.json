@@ -1,0 +1,21 @@
+{
+  "id": 18814,
+  "name": "Fancy dress box space",
+  "models_2": [
+    19006
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 40760,
+  "name": "Mahogany tree",
+  "models_2": [
+    37874
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 164,
+  "unknown_81": 80,
+  "mapscene": 132
+}

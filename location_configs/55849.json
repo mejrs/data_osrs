@@ -1,0 +1,24 @@
+{
+  "id": 55849,
+  "name": "Trophy pedestal",
+  "models_2": [
+    41707,
+    55506
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    "Remove-trophy",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
+}

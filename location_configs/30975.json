@@ -1,0 +1,21 @@
+{
+  "id": 30975,
+  "name": "Sluice Gate",
+  "models_2": [
+    33682,
+    33679
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 7725,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

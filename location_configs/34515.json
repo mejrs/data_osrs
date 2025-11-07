@@ -1,0 +1,21 @@
+{
+  "id": 34515,
+  "name": "Lava gap",
+  "models_2": [
+    36414
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6420,
+  "name": "Burnt chest",
+  "models_2": [
+    1249
+  ],
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      20
+    ]
+  ],
+  "unknown_69": 30
+}

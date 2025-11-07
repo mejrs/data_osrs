@@ -1,0 +1,30 @@
+{
+  "id": 25531,
+  "models": [
+    [
+      0,
+      27046
+    ],
+    [
+      1,
+      27042
+    ],
+    [
+      9,
+      27029
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      10419,
+      6315
+    ]
+  ],
+  "mirror": true,
+  "mapscene": 22
+}

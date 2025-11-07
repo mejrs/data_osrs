@@ -1,0 +1,17 @@
+{
+  "id": 51723,
+  "name": "Table",
+  "models_2": [
+    51376,
+    51381
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 30,
+  "category": 157
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15268,
+  "name": "Corner space",
+  "models_2": [
+    12670
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

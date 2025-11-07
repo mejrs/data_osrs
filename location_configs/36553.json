@@ -1,0 +1,17 @@
+{
+  "id": 36553,
+  "name": "Bell",
+  "models_2": [
+    37640
+  ],
+  "dim_x": 2,
+  "ambient": 10,
+  "actions": [
+    "Ring",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

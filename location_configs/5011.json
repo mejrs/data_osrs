@@ -1,0 +1,41 @@
+{
+  "id": 5011,
+  "name": "Tunnel",
+  "models_2": [
+    3717
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 60,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      6036,
+      43131
+    ],
+    [
+      5008,
+      43115
+    ],
+    [
+      1932,
+      43098
+    ],
+    [
+      904,
+      43082
+    ],
+    [
+      900,
+      43202
+    ]
+  ]
+}

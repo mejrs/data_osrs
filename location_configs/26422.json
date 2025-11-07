@@ -1,0 +1,17 @@
+{
+  "id": 26422,
+  "name": "Rope",
+  "models_2": [
+    27839
+  ],
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

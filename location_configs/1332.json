@@ -1,0 +1,22 @@
+{
+  "id": 1332,
+  "name": "Tree",
+  "models_2": [
+    1683
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 189,
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 0
+}

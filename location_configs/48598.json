@@ -1,0 +1,14 @@
+{
+  "id": 48598,
+  "name": "Broken Boaty",
+  "models_2": [
+    49063
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 0,
+  "contrast": 15,
+  "model": false
+}

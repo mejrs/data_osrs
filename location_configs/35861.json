@@ -1,0 +1,30 @@
+{
+  "id": 35861,
+  "name": "Mushrooms",
+  "models_2": [
+    3917
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7283,
+      7636
+    ],
+    [
+      10378,
+      7283
+    ],
+    [
+      1742,
+      7390
+    ]
+  ]
+}

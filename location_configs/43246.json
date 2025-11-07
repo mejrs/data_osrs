@@ -1,0 +1,19 @@
+{
+  "id": 43246,
+  "name": "Strange box",
+  "models_2": [
+    43538
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_24": 9325,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

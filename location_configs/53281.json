@@ -1,0 +1,19 @@
+{
+  "id": 53281,
+  "models": [
+    [
+      0,
+      9480
+    ]
+  ],
+  "name": "Cell gate",
+  "is_transparent": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0
+}

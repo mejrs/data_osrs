@@ -1,0 +1,33 @@
+{
+  "id": 39947,
+  "name": "Broken Dresser",
+  "models_2": [
+    12468
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6466,
+      7587
+    ],
+    [
+      5545,
+      7582
+    ],
+    [
+      6563,
+      7706
+    ],
+    [
+      5660,
+      7830
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9364,
+  "name": "Grave",
+  "models_2": [
+    13375,
+    13372
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Take-Coffin",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1472,
+  "unknown_69": 27
+}

@@ -1,0 +1,23 @@
+{
+  "id": 15579,
+  "name": "Red Banana Tree",
+  "models_2": [
+    13614,
+    13612,
+    13610
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30
+}

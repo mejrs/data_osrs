@@ -1,0 +1,19 @@
+{
+  "id": 13768,
+  "models": [
+    [
+      4,
+      13052
+    ]
+  ],
+  "name": "Square shield",
+  "ambient": 30,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

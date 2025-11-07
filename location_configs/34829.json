@@ -1,0 +1,47 @@
+{
+  "id": 34829,
+  "name": "Larran's big chest",
+  "models_2": [
+    6615
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Unlock",
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      11140,
+      7706
+    ],
+    [
+      10514,
+      7830
+    ],
+    [
+      10394,
+      7954
+    ],
+    [
+      10762,
+      8078
+    ],
+    [
+      10518,
+      7056
+    ],
+    [
+      10638,
+      7054
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 72,
+  "scale_z": 64,
+  "unknown_69": 27
+}

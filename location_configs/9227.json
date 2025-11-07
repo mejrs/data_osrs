@@ -1,0 +1,16 @@
+{
+  "id": 9227,
+  "name": "Snowdrop patch",
+  "models_2": [
+    9201,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    null,
+    null
+  ]
+}

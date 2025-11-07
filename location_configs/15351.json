@@ -1,0 +1,17 @@
+{
+  "id": 15351,
+  "name": "Floor space",
+  "models_2": [
+    4730
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

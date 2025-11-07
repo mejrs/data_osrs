@@ -1,0 +1,23 @@
+{
+  "id": 28778,
+  "name": "Dart trap",
+  "models_2": [
+    3647
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 1108,
+  "actions": [
+    "Disarm",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6573,
+      6449
+    ]
+  ]
+}

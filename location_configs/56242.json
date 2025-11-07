@@ -1,0 +1,18 @@
+{
+  "id": 56242,
+  "name": "Chain",
+  "models_2": [
+    56280
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

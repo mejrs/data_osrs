@@ -1,0 +1,9 @@
+{
+  "id": 46308,
+  "name": "Spooky Gravestone",
+  "models_2": [
+    46700
+  ],
+  "ambient": 10,
+  "contrast": 20
+}

@@ -1,0 +1,23 @@
+{
+  "id": 43024,
+  "name": "Prifddinas Waystone",
+  "models_2": [
+    43391,
+    43375,
+    43383
+  ],
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Teleport",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "scale_x": 240,
+  "scale_y": 240,
+  "scale_z": 240,
+  "mapscene": 14
+}

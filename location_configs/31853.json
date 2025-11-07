@@ -1,0 +1,22 @@
+{
+  "id": 31853,
+  "models": [
+    [
+      22,
+      12840
+    ]
+  ],
+  "name": "Rope",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "breakroutefinding": true
+}

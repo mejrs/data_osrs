@@ -1,0 +1,23 @@
+{
+  "id": 5155,
+  "models": [
+    [
+      0,
+      13158
+    ],
+    [
+      2,
+      13160
+    ]
+  ],
+  "name": "Iron railings",
+  "is_transparent": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

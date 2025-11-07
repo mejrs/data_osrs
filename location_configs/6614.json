@@ -1,0 +1,19 @@
+{
+  "id": 6614,
+  "name": "Door",
+  "models_2": [
+    14199
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "translate_y": 178
+}

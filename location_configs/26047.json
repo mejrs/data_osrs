@@ -1,0 +1,12 @@
+{
+  "id": 26047,
+  "name": "Citizen",
+  "models_2": [
+    27307,
+    27312
+  ],
+  "unknown_24": 6892,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15
+}

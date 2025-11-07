@@ -1,0 +1,41 @@
+{
+  "id": 58762,
+  "name": "Diseased Ironwood",
+  "models_2": [
+    58657,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      158,
+      10392
+    ],
+    [
+      161,
+      10396
+    ],
+    [
+      163,
+      10398
+    ],
+    [
+      171,
+      10401
+    ]
+  ],
+  "textures": {
+    "8": 200,
+    "60": 201
+  }
+}

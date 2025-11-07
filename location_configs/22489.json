@@ -1,0 +1,22 @@
+{
+  "id": 22489,
+  "unknown_19": 1,
+  "actions": [
+    "hidden",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 3390,
+    "ids": [
+      null,
+      22457,
+      22453,
+      22454,
+      22455,
+      31943
+    ]
+  }
+}

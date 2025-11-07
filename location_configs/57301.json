@@ -1,0 +1,12 @@
+{
+  "id": 57301,
+  "name": "Small boat",
+  "models_2": [
+    57047
+  ],
+  "dim_x": 2,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 30,
+  "model": false
+}

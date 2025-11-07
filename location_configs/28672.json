@@ -1,0 +1,24 @@
+{
+  "id": 28672,
+  "models": [
+    [
+      22,
+      3910
+    ]
+  ],
+  "name": "Tracks",
+  "unknown_17": false,
+  "unknown_21": true,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 938,
+  "model": false,
+  "scale_x": 50,
+  "scale_y": 50,
+  "scale_z": 50
+}

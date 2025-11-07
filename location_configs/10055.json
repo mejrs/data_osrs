@@ -1,0 +1,18 @@
+{
+  "id": 10055,
+  "name": "Mausoleum",
+  "models_2": [
+    13381
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 276,
+  "unknown_69": 27
+}

@@ -1,0 +1,17 @@
+{
+  "id": 26836,
+  "name": "Cactus",
+  "models_2": [
+    28941
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

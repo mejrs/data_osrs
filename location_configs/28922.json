@@ -1,0 +1,24 @@
+{
+  "id": 28922,
+  "models": [
+    [
+      10,
+      31600
+    ],
+    [
+      13,
+      31657
+    ]
+  ],
+  "name": "Inanimate Altar",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    "Leave Cavern",
+    null,
+    null,
+    null
+  ]
+}

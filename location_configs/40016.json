@@ -1,0 +1,14 @@
+{
+  "id": 40016,
+  "name": "Broken Table",
+  "models_2": [
+    40848
+  ],
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ]
+}

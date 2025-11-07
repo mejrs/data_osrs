@@ -1,0 +1,17 @@
+{
+  "id": 13652,
+  "name": "Celestial globe",
+  "models_2": [
+    12483
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

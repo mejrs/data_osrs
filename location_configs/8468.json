@@ -1,0 +1,18 @@
+{
+  "id": 8468,
+  "name": "Oak tree stump",
+  "models_2": [
+    8044,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

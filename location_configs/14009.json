@@ -1,0 +1,17 @@
+{
+  "id": 14009,
+  "name": "Pot-boiler",
+  "models_2": [
+    14095,
+    14098
+  ],
+  "unknown_19": 1,
+  "unknown_24": 3105,
+  "actions": [
+    "Remove-Bone",
+    null,
+    null,
+    null,
+    null
+  ]
+}

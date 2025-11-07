@@ -1,0 +1,22 @@
+{
+  "id": 58660,
+  "name": "Furnace space",
+  "models_2": [
+    58767
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Build",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 27
+}

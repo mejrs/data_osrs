@@ -1,0 +1,25 @@
+{
+  "id": 5842,
+  "name": "Boulder",
+  "models_2": [
+    818
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    null,
+    null,
+    "Push",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7331
+    ]
+  ],
+  "mapscene": 11
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15490,
+  "name": "Kalphite Queen",
+  "models_2": [
+    25850,
+    25851,
+    25859,
+    25870
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_24": 6477,
+  "ambient": 20
+}

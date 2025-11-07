@@ -1,0 +1,28 @@
+{
+  "id": 50858,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Camp spot",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 384,
+  "scale_y": 512,
+  "scale_z": 384
+}

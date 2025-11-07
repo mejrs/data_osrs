@@ -1,0 +1,17 @@
+{
+  "id": 6363,
+  "name": "Door",
+  "models_2": [
+    6198
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_24": 1909,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

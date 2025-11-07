@@ -1,0 +1,18 @@
+{
+  "id": 14404,
+  "name": "Tropical tree",
+  "models_2": [
+    16238
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Swing-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 164,
+  "scale_z": 256
+}

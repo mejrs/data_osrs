@@ -1,0 +1,43 @@
+{
+  "id": 25720,
+  "name": "Dairy churn",
+  "models_2": [
+    9837
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Churn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5541,
+      5421
+    ],
+    [
+      5665,
+      5413
+    ],
+    [
+      5660,
+      5421
+    ],
+    [
+      5784,
+      5532
+    ],
+    [
+      5904,
+      5413
+    ]
+  ],
+  "category": 1175,
+  "unknown_69": 27
+}

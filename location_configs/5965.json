@@ -1,0 +1,17 @@
+{
+  "id": 5965,
+  "name": "Gold cannonball",
+  "models_2": [
+    5869
+  ],
+  "dim_y": 7,
+  "is_transparent": true,
+  "unknown_24": 1846,
+  "unknown_27": false,
+  "colours": [
+    [
+      12,
+      8885
+    ]
+  ]
+}

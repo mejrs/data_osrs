@@ -1,0 +1,18 @@
+{
+  "id": 15948,
+  "name": "Jungle tree",
+  "models_2": [
+    15808
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 30,
+  "actions": [
+    "Cut-Down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "mapscene": 5
+}

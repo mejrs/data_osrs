@@ -1,0 +1,9 @@
+{
+  "id": 50133,
+  "name": "Broken chair",
+  "models_2": [
+    50623
+  ],
+  "is_transparent": true,
+  "ambient": 25
+}

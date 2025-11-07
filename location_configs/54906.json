@@ -1,0 +1,15 @@
+{
+  "id": 54906,
+  "name": "Mixer",
+  "models_2": [
+    54864
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11608,
+  "unknown_27": false,
+  "ambient": 60,
+  "contrast": 25,
+  "model": false
+}

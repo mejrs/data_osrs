@@ -1,0 +1,21 @@
+{
+  "id": 36101,
+  "name": "Node",
+  "models_2": [
+    37374
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 44,
+  "category": 1367
+}

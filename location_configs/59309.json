@@ -1,0 +1,18 @@
+{
+  "id": 59309,
+  "name": "Tiny briny shrimp",
+  "models_2": [
+    57627
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 16550,
+  "models": [
+    [
+      22,
+      9236
+    ]
+  ],
+  "name": "Rocks",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

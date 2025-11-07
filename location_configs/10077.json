@@ -1,0 +1,11 @@
+{
+  "id": 10077,
+  "name": "Armour",
+  "models_2": [
+    30875
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

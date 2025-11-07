@@ -1,0 +1,18 @@
+{
+  "id": 32461,
+  "name": "Fremennik Boat",
+  "models_2": [
+    8694,
+    8695
+  ],
+  "unknown_19": 1,
+  "unknown_24": 2346,
+  "ambient": 20,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ]
+}

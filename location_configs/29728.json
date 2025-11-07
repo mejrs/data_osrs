@@ -1,0 +1,21 @@
+{
+  "id": 29728,
+  "models": [
+    [
+      22,
+      4443
+    ]
+  ],
+  "name": "Stepping stone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 12
+}

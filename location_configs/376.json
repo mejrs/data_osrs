@@ -1,0 +1,21 @@
+{
+  "id": 376,
+  "name": "Closed chest",
+  "models_2": [
+    1249
+  ],
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      11173
+    ]
+  ],
+  "unknown_69": 30
+}

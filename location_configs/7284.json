@@ -1,0 +1,18 @@
+{
+  "id": 7284,
+  "name": "Grain",
+  "models_2": [
+    7702
+  ],
+  "ambient": 20,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 99,
+  "scale_y": 99,
+  "scale_z": 99
+}

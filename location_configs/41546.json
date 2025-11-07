@@ -1,0 +1,22 @@
+{
+  "id": 41546,
+  "name": "Altar",
+  "models_2": [
+    42043
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Offer-fish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "scale_x": 224,
+  "scale_y": 224,
+  "scale_z": 224
+}

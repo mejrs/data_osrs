@@ -1,0 +1,18 @@
+{
+  "id": 8047,
+  "name": "Fruit Tree Patch",
+  "models_2": [
+    7794,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

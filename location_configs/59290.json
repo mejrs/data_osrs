@@ -1,0 +1,19 @@
+{
+  "id": 59290,
+  "name": "Wreck of the Pandemonium III",
+  "models_2": [
+    57637
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2317,
+  "model": false
+}

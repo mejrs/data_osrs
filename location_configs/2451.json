@@ -1,0 +1,17 @@
+{
+  "id": 2451,
+  "name": "Roots",
+  "models_2": [
+    2220
+  ],
+  "dim_x": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Push",
+    null,
+    null,
+    null,
+    null
+  ]
+}

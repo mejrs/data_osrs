@@ -1,0 +1,18 @@
+{
+  "id": 41309,
+  "name": "Book table",
+  "models_2": [
+    41881
+  ],
+  "dim_x": 2,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 205
+}

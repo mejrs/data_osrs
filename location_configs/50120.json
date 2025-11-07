@@ -1,0 +1,14 @@
+{
+  "id": 50120,
+  "models": [
+    [
+      0,
+      50659
+    ]
+  ],
+  "unknown_28": 32,
+  "ambient": 25,
+  "contrast": 25,
+  "mirror": true,
+  "scale_y": 130
+}

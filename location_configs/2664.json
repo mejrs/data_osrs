@@ -1,0 +1,33 @@
+{
+  "id": 2664,
+  "models": [
+    [
+      0,
+      966
+    ],
+    [
+      1,
+      967
+    ],
+    [
+      9,
+      968
+    ]
+  ],
+  "name": "Sturdy wooden gate",
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6040,
+      5537
+    ]
+  ]
+}

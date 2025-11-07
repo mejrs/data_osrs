@@ -1,0 +1,22 @@
+{
+  "id": 54917,
+  "name": "Conveyor belt",
+  "models_2": [
+    54861
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11626,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Fulfil-order",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "translate_y": 65535
+}

@@ -1,0 +1,20 @@
+{
+  "id": 45507,
+  "name": "Bubbles",
+  "models_2": [
+    2259
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 480,
+  "colours": [
+    [
+      27028,
+      31514
+    ]
+  ],
+  "model": false,
+  "scale_x": 200,
+  "scale_z": 200
+}

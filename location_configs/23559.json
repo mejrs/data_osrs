@@ -1,0 +1,15 @@
+{
+  "id": 23559,
+  "name": "Tree branch",
+  "models_2": [
+    2001
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ]
+}

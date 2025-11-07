@@ -1,0 +1,39 @@
+{
+  "id": 30189,
+  "name": "Steps",
+  "models_2": [
+    21604
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      34130,
+      6689
+    ],
+    [
+      38121,
+      6689
+    ],
+    [
+      37099,
+      6689
+    ],
+    [
+      35949,
+      6689
+    ]
+  ],
+  "scale_x": 256,
+  "unknown_69": 30,
+  "mapscene": 7
+}

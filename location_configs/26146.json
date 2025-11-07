@@ -1,0 +1,17 @@
+{
+  "id": 26146,
+  "name": "Eyes",
+  "models_2": [
+    7435
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    "Distract",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

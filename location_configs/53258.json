@@ -1,0 +1,52 @@
+{
+  "id": 53258,
+  "models": [
+    [
+      0,
+      53136
+    ]
+  ],
+  "name": "Crevice",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Squeeze-Through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "colours": [
+    [
+      7442,
+      27144
+    ],
+    [
+      7446,
+      26892
+    ],
+    [
+      7322,
+      26896
+    ],
+    [
+      7326,
+      26772
+    ],
+    [
+      7331,
+      21656
+    ],
+    [
+      7335,
+      16536
+    ],
+    [
+      12,
+      27524
+    ]
+  ],
+  "mapscene": 7
+}

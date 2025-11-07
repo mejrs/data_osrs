@@ -1,0 +1,14 @@
+{
+  "id": 2226,
+  "name": "Smashed table",
+  "models_2": [
+    1207
+  ],
+  "actions": [
+    "Look-at",
+    "Craft",
+    null,
+    null,
+    null
+  ]
+}

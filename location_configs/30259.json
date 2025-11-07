@@ -1,0 +1,21 @@
+{
+  "id": 30259,
+  "name": "Lift",
+  "models_2": [
+    32985
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 23,
+  "mapscene": 7
+}

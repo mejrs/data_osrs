@@ -1,0 +1,19 @@
+{
+  "id": 36075,
+  "name": "Crystal Singing Recipes",
+  "models_2": [
+    37445
+  ],
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1363,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "unknown_69": 27
+}

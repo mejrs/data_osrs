@@ -1,0 +1,17 @@
+{
+  "id": 16858,
+  "name": "Platform edge",
+  "models_2": [
+    7766
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

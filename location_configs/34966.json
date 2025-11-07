@@ -1,0 +1,18 @@
+{
+  "id": 34966,
+  "name": "Pillar",
+  "models_2": [
+    1404
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 50,
+  "scale_y": 50,
+  "scale_z": 50
+}

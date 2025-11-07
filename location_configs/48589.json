@@ -1,0 +1,42 @@
+{
+  "id": 48589,
+  "name": "Cave",
+  "models_2": [
+    42840
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Peek",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      18072,
+      43
+    ],
+    [
+      13212,
+      70
+    ],
+    [
+      10438,
+      55
+    ],
+    [
+      10440,
+      169
+    ],
+    [
+      10427,
+      165
+    ]
+  ],
+  "unknown_69": 27
+}

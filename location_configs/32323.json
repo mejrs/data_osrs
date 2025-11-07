@@ -1,0 +1,18 @@
+{
+  "id": 32323,
+  "name": "Rope ladder",
+  "models_2": [
+    34969
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

@@ -1,0 +1,22 @@
+{
+  "id": 29235,
+  "name": "Abyssal Sire Topiary",
+  "models_2": [
+    32103
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    "Clip",
+    "Remove"
+  ],
+  "category": 206,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15261,
+  "name": "Wardrobe space",
+  "models_2": [
+    12893
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

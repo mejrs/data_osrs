@@ -1,0 +1,37 @@
+{
+  "id": 28662,
+  "name": "Fire remains",
+  "models_2": [
+    2262
+  ],
+  "unknown_24": 475,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5177,
+      10398
+    ],
+    [
+      45,
+      10518
+    ],
+    [
+      41,
+      10407
+    ],
+    [
+      5161,
+      10518
+    ],
+    [
+      28,
+      10398
+    ]
+  ]
+}

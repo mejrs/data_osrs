@@ -1,0 +1,21 @@
+{
+  "id": 15481,
+  "name": "Portal",
+  "models_2": [
+    11233,
+    12636
+  ],
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    "Home",
+    "Build mode",
+    "Friend's house",
+    null
+  ],
+  "category": 486,
+  "mapscene": 64
+}

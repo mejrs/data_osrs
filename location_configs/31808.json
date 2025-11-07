@@ -1,0 +1,25 @@
+{
+  "id": 31808,
+  "models": [
+    [
+      0,
+      4874
+    ]
+  ],
+  "name": "Magical Barrier",
+  "unknown_24": 1433,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      41913
+    ]
+  ],
+  "model": false
+}

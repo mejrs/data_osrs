@@ -1,0 +1,17 @@
+{
+  "id": 58619,
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 1732,
+  "unknown_27": false,
+  "category": 2308,
+  "morphs_1": {
+    "varbit": 18366,
+    "ids": [
+      58646,
+      58647
+    ]
+  }
+}

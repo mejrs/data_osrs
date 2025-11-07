@@ -1,0 +1,22 @@
+{
+  "id": 14305,
+  "models": [
+    [
+      22,
+      1882
+    ]
+  ],
+  "name": "Gangplank",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

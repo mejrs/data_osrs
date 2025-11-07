@@ -1,0 +1,45 @@
+{
+  "id": 29196,
+  "name": "Mounted Fishing Cape",
+  "models_2": [
+    32198
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      38119
+    ],
+    [
+      54183,
+      38486
+    ],
+    [
+      54503,
+      38325
+    ],
+    [
+      960,
+      38222
+    ],
+    [
+      22464,
+      38214
+    ],
+    [
+      43968,
+      38205
+    ]
+  ],
+  "category": 206
+}

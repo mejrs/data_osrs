@@ -1,0 +1,13 @@
+{
+  "id": 31931,
+  "name": "Fossil Island display case",
+  "models_2": [
+    34558,
+    34550,
+    34568
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20
+}

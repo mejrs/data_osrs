@@ -1,0 +1,36 @@
+{
+  "id": 18902,
+  "name": "Table",
+  "models_2": [
+    14827
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6451,
+      6340
+    ],
+    [
+      6443,
+      6331
+    ],
+    [
+      6439,
+      6327
+    ],
+    [
+      6563,
+      6451
+    ]
+  ],
+  "category": 154
+}

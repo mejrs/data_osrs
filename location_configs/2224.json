@@ -1,0 +1,17 @@
+{
+  "id": 2224,
+  "name": "Ancient gallows",
+  "models_2": [
+    1498,
+    18551
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

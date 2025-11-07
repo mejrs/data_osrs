@@ -1,0 +1,21 @@
+{
+  "id": 50532,
+  "name": "Table",
+  "models_2": [
+    50420
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 154
+}

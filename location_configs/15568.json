@@ -1,0 +1,30 @@
+{
+  "id": 15568,
+  "name": "Small table",
+  "models_2": [
+    9590
+  ],
+  "is_transparent": true,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      6451,
+      6435
+    ],
+    [
+      6443,
+      6430
+    ],
+    [
+      6439,
+      6554
+    ],
+    [
+      6563,
+      6550
+    ]
+  ],
+  "category": 155,
+  "unknown_75": 1
+}

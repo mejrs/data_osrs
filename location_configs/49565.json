@@ -1,0 +1,13 @@
+{
+  "id": 49565,
+  "name": "Loot!",
+  "models_2": [
+    49491,
+    49490
+  ],
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 40,
+  "contrast": 40,
+  "unknown_89": false
+}

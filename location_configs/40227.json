@@ -1,0 +1,19 @@
+{
+  "id": 40227,
+  "name": "Table hotspot",
+  "models_2": [
+    12875
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 64,
+  "scale_z": 64
+}

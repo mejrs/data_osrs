@@ -1,0 +1,1 @@
+[{"name": "Chicken", "id": 2831, "p": 2, "x": 3110, "y": 3366, "morphs_names": ["Chicken", "Chicken", "Chicken", ""], "walkingAnimation": 2297, "standingAnimation": 2298, "combatLevel": 0, "hasRenderPriority": true, "varbitId": -1, "varpId": 32, "morphs": [10556, 10556, 10556, -1]}]

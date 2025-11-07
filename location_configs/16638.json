@@ -1,0 +1,24 @@
+{
+  "id": 16638,
+  "models": [
+    [
+      22,
+      16789
+    ]
+  ],
+  "name": "Dream puff",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 50,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "model": false,
+  "unknown_73": true,
+  "mapscene": 66
+}

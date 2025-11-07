@@ -1,0 +1,13 @@
+{
+  "id": 50746,
+  "name": "Molten Sand",
+  "models_2": [
+    51240
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 60,
+  "model": false,
+  "translate_y": 65535
+}

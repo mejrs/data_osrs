@@ -1,0 +1,15 @@
+{
+  "id": 2975,
+  "name": "Leafy Palm Tree",
+  "models_2": [
+    1676
+  ],
+  "actions": [
+    "Shake",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 0
+}

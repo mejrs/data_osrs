@@ -1,0 +1,19 @@
+{
+  "id": 8795,
+  "name": "<col=ffff00>Gnome on a rack</col>",
+  "models_2": [
+    14200,
+    8326
+  ],
+  "dim_x": 3,
+  "actions": [
+    "Talk-to",
+    "Release",
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "2312": 9
+  }
+}

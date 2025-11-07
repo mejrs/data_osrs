@@ -1,0 +1,16 @@
+{
+  "id": 2849,
+  "name": "Raft",
+  "models_2": [
+    1461
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ]
+}

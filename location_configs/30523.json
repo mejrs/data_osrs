@@ -1,0 +1,16 @@
+{
+  "id": 30523,
+  "name": "Driftwood",
+  "models_2": [
+    33848
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "actions": [
+    "Inspect",
+    "Check count",
+    "Toggle warning",
+    null,
+    null
+  ]
+}

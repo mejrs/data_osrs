@@ -1,0 +1,24 @@
+{
+  "id": 31561,
+  "models": [
+    [
+      10,
+      34135
+    ],
+    [
+      22,
+      8950
+    ]
+  ],
+  "name": "Pillar",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ]
+}

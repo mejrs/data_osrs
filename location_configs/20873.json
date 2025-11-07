@@ -1,0 +1,22 @@
+{
+  "id": 20873,
+  "models": [
+    [
+      0,
+      6756
+    ]
+  ],
+  "name": "Cage",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

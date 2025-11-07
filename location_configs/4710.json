@@ -1,0 +1,28 @@
+{
+  "id": 4710,
+  "models": [
+    [
+      0,
+      4007
+    ]
+  ],
+  "name": "Doorway",
+  "is_transparent": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      6703
+    ],
+    [
+      5673,
+      5673
+    ]
+  ]
+}

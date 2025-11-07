@@ -1,0 +1,18 @@
+{
+  "id": 28754,
+  "name": "Vine",
+  "models_2": [
+    11180
+  ],
+  "dim_x": 4,
+  "unknown_27": false,
+  "actions": [
+    "Swing",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 65416
+}

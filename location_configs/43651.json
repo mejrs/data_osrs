@@ -1,0 +1,38 @@
+{
+  "id": 43651,
+  "models": [
+    [
+      10,
+      44044
+    ],
+    [
+      22,
+      44046
+    ]
+  ],
+  "name": "Elk kelp",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -35,
+  "contrast": 25,
+  "colours": [
+    [
+      9152,
+      33441
+    ],
+    [
+      8128,
+      33432
+    ],
+    [
+      7104,
+      33300
+    ]
+  ],
+  "scale_x": 242,
+  "scale_y": 242,
+  "scale_z": 200,
+  "mapscene": 26
+}

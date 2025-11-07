@@ -1,0 +1,11 @@
+{
+  "id": 8715,
+  "name": "Hay bale",
+  "models_2": [
+    8247
+  ],
+  "ambient": 30,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100
+}

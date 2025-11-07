@@ -1,0 +1,23 @@
+{
+  "id": 28497,
+  "name": "Volcanic sulphur",
+  "models_2": [
+    30861
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Mine",
+    null,
+    "Hidden",
+    null,
+    null
+  ],
+  "category": 912,
+  "scale_x": 140,
+  "scale_y": 100,
+  "scale_z": 140
+}

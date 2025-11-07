@@ -1,0 +1,30 @@
+{
+  "id": 49184,
+  "name": "Nerve Ending (Water)",
+  "models_2": [
+    49013
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Break",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      7260,
+      40386
+    ],
+    [
+      7244,
+      40386
+    ]
+  ],
+  "category": 1807
+}

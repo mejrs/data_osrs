@@ -1,0 +1,19 @@
+{
+  "id": 19456,
+  "models": [
+    [
+      0,
+      20034
+    ]
+  ],
+  "name": "Opening",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

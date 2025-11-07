@@ -1,0 +1,16 @@
+{
+  "id": 18622,
+  "name": "An old lever",
+  "models_2": [
+    18783
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30
+}

@@ -1,0 +1,30 @@
+{
+  "id": 4142,
+  "name": "Swaying tree",
+  "models_2": [
+    4293
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Cut-branch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      9106,
+      5404
+    ]
+  ],
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192,
+  "unknown_78": {
+    "unknown_1": 3137,
+    "unknown_2": 3
+  },
+  "unknown_81": 80
+}

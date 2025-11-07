@@ -1,0 +1,24 @@
+{
+  "id": 41180,
+  "name": "Ornate league statue",
+  "models_2": [
+    41679
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
+}

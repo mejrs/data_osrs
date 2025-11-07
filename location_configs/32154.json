@@ -1,0 +1,19 @@
+{
+  "id": 32154,
+  "name": "<col=ffff00>Dragon</col>",
+  "models_2": [
+    35015,
+    35016
+  ],
+  "dim_x": 8,
+  "dim_y": 8,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 7913,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "params": {
+    "2312": 9
+  }
+}

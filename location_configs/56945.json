@@ -1,0 +1,29 @@
+{
+  "id": 56945,
+  "name": "Workbench",
+  "models_2": [
+    11564
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5545,
+      7587
+    ],
+    [
+      6466,
+      7582
+    ],
+    [
+      5545,
+      7463
+    ]
+  ]
+}

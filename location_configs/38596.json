@@ -1,0 +1,13 @@
+{
+  "id": 38596,
+  "name": "Stairs",
+  "models_2": [
+    40100
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 30,
+  "contrast": 15,
+  "unknown_69": 30
+}

@@ -1,0 +1,14 @@
+{
+  "id": 50337,
+  "name": "Icthlarin statue",
+  "models_2": [
+    50259
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 10766,
+  "ambient": 0,
+  "contrast": 40,
+  "unknown_89": false
+}

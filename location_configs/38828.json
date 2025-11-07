@@ -1,0 +1,19 @@
+{
+  "id": 38828,
+  "name": "Portal frame",
+  "models_2": [
+    40178
+  ],
+  "dim_x": 5,
+  "unknown_22": true,
+  "unknown_24": 8694,
+  "ambient": 30,
+  "actions": [
+    "Conjure",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

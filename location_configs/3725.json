@@ -1,0 +1,33 @@
+{
+  "id": 3725,
+  "models": [
+    [
+      0,
+      966
+    ],
+    [
+      1,
+      967
+    ],
+    [
+      9,
+      968
+    ]
+  ],
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6040,
+      5409
+    ]
+  ]
+}

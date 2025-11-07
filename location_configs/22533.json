@@ -1,0 +1,33 @@
+{
+  "id": 22533,
+  "models": [
+    [
+      22,
+      23188
+    ]
+  ],
+  "name": "Partially broken bridge",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      12698
+    ],
+    [
+      6684,
+      12818
+    ]
+  ],
+  "category": 648,
+  "unknown_73": true,
+  "mapscene": 46
+}

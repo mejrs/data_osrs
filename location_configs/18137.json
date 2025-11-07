@@ -1,0 +1,17 @@
+{
+  "id": 18137,
+  "name": "Windswept tree",
+  "models_2": [
+    16842
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 6
+}

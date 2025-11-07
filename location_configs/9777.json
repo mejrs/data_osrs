@@ -1,0 +1,21 @@
+{
+  "id": 9777,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "morphs_1": {
+    "varbit": 1150,
+    "ids": [
+      9769,
+      9775
+    ]
+  }
+}

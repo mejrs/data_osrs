@@ -1,0 +1,18 @@
+{
+  "id": 47319,
+  "name": "Spotlight",
+  "models_2": [
+    47476
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "ambient": 40,
+  "contrast": 40,
+  "colours": [
+    [
+      5598,
+      5598
+    ]
+  ]
+}

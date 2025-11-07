@@ -1,0 +1,19 @@
+{
+  "id": 31885,
+  "models": [
+    [
+      0,
+      34546
+    ],
+    [
+      9,
+      34531
+    ]
+  ],
+  "name": "Curtain",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25
+}

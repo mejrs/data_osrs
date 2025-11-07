@@ -1,0 +1,18 @@
+{
+  "id": 9,
+  "name": "Cannon barrels",
+  "models_2": [
+    1802
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1522
+}

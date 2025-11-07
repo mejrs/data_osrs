@@ -1,0 +1,19 @@
+{
+  "id": 13838,
+  "models": [
+    [
+      22,
+      14143
+    ]
+  ],
+  "name": "Bog",
+  "unknown_27": false,
+  "actions": [
+    "Stand-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 185
+}

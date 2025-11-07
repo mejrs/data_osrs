@@ -1,0 +1,45 @@
+{
+  "id": 30024,
+  "name": "Septic tendrils",
+  "models_2": [
+    7458,
+    7766
+  ],
+  "unknown_19": 1,
+  "unknown_24": 2173,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      1688,
+      19117
+    ],
+    [
+      910,
+      7054
+    ],
+    [
+      784,
+      7952
+    ],
+    [
+      1810,
+      13074
+    ],
+    [
+      662,
+      17180
+    ],
+    [
+      2836,
+      18339
+    ]
+  ]
+}

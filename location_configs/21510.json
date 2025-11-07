@@ -1,0 +1,21 @@
+{
+  "id": 21510,
+  "models": [
+    [
+      0,
+      22102
+    ],
+    [
+      22,
+      22101
+    ]
+  ],
+  "name": "Broken rope bridge",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "unknown_73": true
+}

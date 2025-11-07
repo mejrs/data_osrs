@@ -1,0 +1,19 @@
+{
+  "id": 46701,
+  "name": "Ancient essence crystals",
+  "models_2": [
+    47054
+  ],
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 35,
+  "category": 1757
+}

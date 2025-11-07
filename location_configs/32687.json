@@ -1,0 +1,14 @@
+{
+  "id": 32687,
+  "name": "Supporting Pillar",
+  "models_2": [
+    35231
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "model": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 26838,
+  "name": "Crater",
+  "models_2": [
+    28925
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

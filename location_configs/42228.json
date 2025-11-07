@@ -1,0 +1,23 @@
+{
+  "id": 42228,
+  "models_2": [
+    42404
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      1825,
+      7089
+    ],
+    [
+      1814,
+      7079
+    ]
+  ],
+  "translate_x": 65488,
+  "translate_z": 65488
+}

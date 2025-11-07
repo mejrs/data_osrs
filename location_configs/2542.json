@@ -1,0 +1,24 @@
+{
+  "id": 2542,
+  "name": "Pipe",
+  "models_2": [
+    11447
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      9098
+    ]
+  ],
+  "textures": {
+    "2": 23
+  }
+}

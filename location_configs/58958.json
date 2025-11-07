@@ -1,0 +1,25 @@
+{
+  "id": 58958,
+  "name": "Portal of Hefin",
+  "models_2": [
+    37828
+  ],
+  "ambient": 60,
+  "contrast": 44,
+  "colours": [
+    [
+      33488,
+      947
+    ],
+    [
+      33455,
+      947
+    ],
+    [
+      33344,
+      947
+    ]
+  ],
+  "scale_z": 365,
+  "translate_y": 65534
+}

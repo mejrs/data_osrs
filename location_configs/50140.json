@@ -1,0 +1,12 @@
+{
+  "id": 50140,
+  "name": "Trapdoor",
+  "models_2": [
+    20791
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 10
+}

@@ -1,0 +1,13 @@
+{
+  "id": 36097,
+  "name": "Inactive Symbol",
+  "models_2": [
+    37372
+  ],
+  "dim_x": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 44
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3235,
+  "name": "Pipe",
+  "models_2": [
+    813
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7952
+    ]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 57948,
+  "name": "Herbalist stall",
+  "models_2": [
+    58842,
+    58845
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 10
+}

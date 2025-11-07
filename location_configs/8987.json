@@ -1,0 +1,23 @@
+{
+  "id": 8987,
+  "name": "Net trap",
+  "models_2": [
+    19934
+  ],
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 5270,
+  "colours": [
+    [
+      6682,
+      5388
+    ],
+    [
+      6071,
+      0
+    ]
+  ],
+  "category": 191,
+  "unknown_75": 0,
+  "mapscene": 68
+}

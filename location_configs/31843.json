@@ -1,0 +1,49 @@
+{
+  "id": 31843,
+  "name": "<col=ffff00>Annette</col>",
+  "models_2": [
+    33896
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 7647,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    null,
+    "Nets",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      34925,
+      32957
+    ],
+    [
+      34917,
+      37056
+    ],
+    [
+      32854,
+      32832
+    ],
+    [
+      33889,
+      28740
+    ],
+    [
+      37974,
+      32832
+    ],
+    [
+      39995,
+      24644
+    ]
+  ],
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "unknown_69": 27,
+  "mapscene": 82
+}

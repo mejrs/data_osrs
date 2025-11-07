@@ -1,0 +1,23 @@
+{
+  "id": 60224,
+  "models": [
+    [
+      0,
+      58427
+    ]
+  ],
+  "name": "Door",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mirror": true,
+  "unknown_75": 0
+}

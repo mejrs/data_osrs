@@ -1,0 +1,10 @@
+{
+  "id": 4270,
+  "name": "Wooden Table",
+  "models_2": [
+    4290,
+    4291
+  ],
+  "dim_y": 4,
+  "is_transparent": true
+}

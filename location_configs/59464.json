@@ -1,0 +1,21 @@
+{
+  "id": 59464,
+  "name": "Warm brazier",
+  "models_2": [
+    10991,
+    10878
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Light",
+    "Load",
+    "Check",
+    "Unload",
+    "Settings"
+  ],
+  "contrast": 5,
+  "category": 2321
+}

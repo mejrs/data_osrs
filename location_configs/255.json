@@ -1,0 +1,14 @@
+{
+  "id": 255,
+  "name": "Winch",
+  "models_2": [
+    1835
+  ],
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

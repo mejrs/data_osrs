@@ -1,0 +1,18 @@
+{
+  "id": 34227,
+  "name": "Redwood tree",
+  "models_2": [
+    36697
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": -20,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 100
+}

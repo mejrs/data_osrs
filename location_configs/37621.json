@@ -1,0 +1,21 @@
+{
+  "id": 37621,
+  "models": [
+    [
+      4,
+      39141
+    ]
+  ],
+  "name": "Spice Rack",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Store",
+    "Take",
+    "Check",
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

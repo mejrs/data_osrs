@@ -1,0 +1,21 @@
+{
+  "id": 26745,
+  "name": "Viewing orb",
+  "models_2": [
+    9754
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 2657,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 756,
+  "mapscene": 76
+}

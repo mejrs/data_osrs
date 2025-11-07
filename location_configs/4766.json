@@ -1,0 +1,16 @@
+{
+  "id": 4766,
+  "models": [
+    [
+      9,
+      4793
+    ]
+  ],
+  "name": "Wall of flame",
+  "unknown_19": 1,
+  "unknown_24": 476,
+  "ambient": 100,
+  "contrast": 100,
+  "scale_y": 512,
+  "mapscene": 22
+}

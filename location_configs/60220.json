@@ -1,0 +1,28 @@
+{
+  "id": 60220,
+  "name": "Cloth",
+  "models_2": [
+    5561
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      43156,
+      65054
+    ],
+    [
+      22422,
+      328
+    ],
+    [
+      38554,
+      1950
+    ],
+    [
+      9521,
+      328
+    ]
+  ],
+  "translate_z": 0
+}

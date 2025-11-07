@@ -1,0 +1,16 @@
+{
+  "id": 30705,
+  "name": "Hook briar",
+  "models_2": [
+    33951
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "mapscene": 6
+}

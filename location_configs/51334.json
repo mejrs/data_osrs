@@ -1,0 +1,16 @@
+{
+  "id": 51334,
+  "name": "Statue",
+  "models_2": [
+    52309
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 20,
+  "scale_x": 120,
+  "scale_y": 120,
+  "scale_z": 120
+}

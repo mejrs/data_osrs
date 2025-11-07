@@ -1,0 +1,11 @@
+{
+  "id": 45289,
+  "name": "Broken Pot",
+  "models_2": [
+    46136
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": -10,
+  "contrast": 40
+}

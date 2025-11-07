@@ -1,0 +1,42 @@
+{
+  "id": 53004,
+  "models": [
+    [
+      22,
+      42418
+    ]
+  ],
+  "name": "Stairs",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Quick-escape",
+    "Escape",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      49,
+      40214
+    ],
+    [
+      39,
+      40214
+    ],
+    [
+      30,
+      40210
+    ],
+    [
+      20,
+      40334
+    ]
+  ],
+  "unknown_73": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": 51430,
+  "name": "Ancient fountainhead",
+  "models_2": [
+    52625
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 5605,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      26958,
+      6077
+    ],
+    [
+      26809,
+      6069
+    ],
+    [
+      26929,
+      6059
+    ],
+    [
+      26921,
+      6055
+    ]
+  ],
+  "category": 1931,
+  "scale_x": 256,
+  "scale_y": 244,
+  "scale_z": 256,
+  "unknown_78": {
+    "unknown_1": 10411,
+    "unknown_2": 3
+  }
+}

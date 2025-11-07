@@ -1,0 +1,15 @@
+{
+  "id": 58436,
+  "models": [
+    [
+      0,
+      58448
+    ]
+  ],
+  "name": "Damaged wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 20
+}

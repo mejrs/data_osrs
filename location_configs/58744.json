@@ -1,0 +1,23 @@
+{
+  "id": 58744,
+  "name": "Ironwood tree",
+  "models_2": [
+    58645,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 20,
+  "textures": {
+    "194": 198,
+    "195": 199
+  }
+}

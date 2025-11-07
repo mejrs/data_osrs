@@ -1,0 +1,22 @@
+{
+  "id": 24684,
+  "name": "Table",
+  "models_2": [
+    15209
+  ],
+  "dim_x": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7954,
+      6435
+    ],
+    [
+      7830,
+      6554
+    ]
+  ],
+  "category": 156,
+  "unknown_75": 1
+}

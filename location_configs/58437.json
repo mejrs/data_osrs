@@ -1,0 +1,22 @@
+{
+  "id": 58437,
+  "models": [
+    [
+      0,
+      58448
+    ]
+  ],
+  "name": "Damaged wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

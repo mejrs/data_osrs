@@ -1,0 +1,14 @@
+{
+  "id": 25155,
+  "name": "Fire",
+  "models_2": [
+    26582
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 6645,
+  "unknown_27": false,
+  "ambient": 60,
+  "contrast": 60,
+  "model": false
+}

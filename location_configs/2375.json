@@ -1,0 +1,16 @@
+{
+  "id": 2375,
+  "name": "Specimen tray",
+  "models_2": [
+    17316
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

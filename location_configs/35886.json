@@ -1,0 +1,11 @@
+{
+  "id": 35886,
+  "name": "Dwarf multicannon",
+  "models_2": [
+    38729
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 20,
+  "contrast": 10
+}

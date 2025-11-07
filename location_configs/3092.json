@@ -1,0 +1,21 @@
+{
+  "id": 3092,
+  "models_2": [
+    3250
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 60,
+  "contrast": 60,
+  "colours": [
+    [
+      6932,
+      6689
+    ],
+    [
+      7626,
+      2485
+    ]
+  ]
+}

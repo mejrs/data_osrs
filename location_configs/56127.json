@@ -1,0 +1,18 @@
+{
+  "id": 56127,
+  "name": "KQ head",
+  "models_2": [
+    56059
+  ],
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    "Trophies",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "unknown_69": 27
+}

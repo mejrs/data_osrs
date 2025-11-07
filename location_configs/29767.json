@@ -1,0 +1,45 @@
+{
+  "id": 29767,
+  "name": "Noxious tendrils",
+  "models_2": [
+    7458,
+    7766
+  ],
+  "unknown_19": 1,
+  "unknown_24": 2173,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      1688,
+      21144
+    ],
+    [
+      2836,
+      19220
+    ],
+    [
+      662,
+      22166
+    ],
+    [
+      1810,
+      20242
+    ],
+    [
+      784,
+      22288
+    ],
+    [
+      910,
+      22414
+    ]
+  ]
+}

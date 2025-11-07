@@ -1,0 +1,23 @@
+{
+  "id": 15660,
+  "models": [
+    [
+      10,
+      15380
+    ],
+    [
+      0,
+      15379
+    ]
+  ],
+  "name": "Heavy door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "translate_y": 3
+}

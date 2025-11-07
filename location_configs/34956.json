@@ -1,0 +1,26 @@
+{
+  "id": 34956,
+  "name": "Soft clay rocks",
+  "models_2": [
+    1390
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      24,
+      7062
+    ]
+  ],
+  "category": 1342,
+  "mapscene": 12
+}

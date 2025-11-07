@@ -1,0 +1,18 @@
+{
+  "id": 32443,
+  "name": "Incomplete map",
+  "models_2": [
+    33950
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Complete",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

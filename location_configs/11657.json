@@ -1,0 +1,17 @@
+{
+  "id": 11657,
+  "name": "Pipe",
+  "models_2": [
+    4981
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 23
+}

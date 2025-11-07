@@ -1,0 +1,21 @@
+{
+  "id": 59325,
+  "name": "Old camp",
+  "models_2": [
+    57595
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317
+}

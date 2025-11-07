@@ -1,0 +1,22 @@
+{
+  "id": 59293,
+  "name": "Treacherous rock",
+  "models_2": [
+    58600,
+    57620
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false,
+  "mapscene": 11
+}

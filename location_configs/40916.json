@@ -1,0 +1,15 @@
+{
+  "id": 40916,
+  "name": "Statue",
+  "models_2": [
+    41648
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

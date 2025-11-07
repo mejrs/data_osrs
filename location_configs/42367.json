@@ -1,0 +1,12 @@
+{
+  "id": 42367,
+  "name": "Boulders",
+  "models_2": [
+    42527
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false
+}

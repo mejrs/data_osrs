@@ -1,0 +1,17 @@
+{
+  "id": 29164,
+  "name": "Mounted Emblem",
+  "models_2": [
+    32169
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,23 @@
+{
+  "id": 55199,
+  "name": "<col=ffff00>Bank buffalo</col>",
+  "models_2": [
+    52518
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 5852,
+  "unknown_27": false,
+  "actions": [
+    "Bank",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "category": 237,
+  "params": {
+    "2312": 9
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 41871,
+  "models": [
+    [
+      0,
+      42351
+    ]
+  ],
+  "name": "Doorway",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

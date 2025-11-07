@@ -1,0 +1,17 @@
+{
+  "id": 35805,
+  "name": "Barricade",
+  "models_2": [
+    14205
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Escape",
+    null,
+    null,
+    null,
+    null
+  ]
+}

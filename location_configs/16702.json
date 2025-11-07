@@ -1,0 +1,15 @@
+{
+  "id": 16702,
+  "name": "Cooker",
+  "models_2": [
+    16675
+  ],
+  "actions": [
+    "Cook",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 687
+}

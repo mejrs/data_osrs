@@ -1,0 +1,13 @@
+{
+  "id": 41611,
+  "name": "Bush",
+  "models_2": [
+    42190
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10
+}

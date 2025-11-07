@@ -1,0 +1,20 @@
+{
+  "id": 48890,
+  "name": "Staircase",
+  "models_2": [
+    48432
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "ambient": 15,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65535
+}

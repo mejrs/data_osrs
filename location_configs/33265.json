@@ -1,0 +1,23 @@
+{
+  "id": 33265,
+  "name": "<col=ff9040>Old man's coffin</col>",
+  "models_2": [
+    35847
+  ],
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 104,
+  "scale_y": 92,
+  "scale_z": 70,
+  "params": {
+    "2312": 11
+  }
+}

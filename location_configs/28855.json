@@ -1,0 +1,25 @@
+{
+  "id": 28855,
+  "name": "Cave",
+  "models_2": [
+    31570
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 172,
+  "unknown_69": 27
+}

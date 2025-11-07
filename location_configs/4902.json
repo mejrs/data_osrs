@@ -1,0 +1,26 @@
+{
+  "id": 4902,
+  "name": "Saradomin Standard",
+  "models_2": [
+    4445,
+    4416
+  ],
+  "unknown_24": 1430,
+  "actions": [
+    "Capture",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10388,
+      8379
+    ]
+  ],
+  "textures": {
+    "23": 35
+  },
+  "mapscene": 28
+}

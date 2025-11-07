@@ -1,0 +1,38 @@
+{
+  "id": 58191,
+  "name": "Shadowy Rift",
+  "models_2": [
+    44082
+  ],
+  "dim_x": 7,
+  "unknown_24": 9355,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      53068,
+      0
+    ],
+    [
+      46912,
+      0
+    ],
+    [
+      57292,
+      0
+    ]
+  ],
+  "model": false,
+  "scale_x": 340,
+  "scale_y": 340,
+  "scale_z": 340,
+  "translate_y": 200
+}

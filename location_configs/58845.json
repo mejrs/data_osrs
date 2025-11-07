@@ -1,0 +1,35 @@
+{
+  "id": 58845,
+  "name": "Dead Flax",
+  "models_2": [
+    59762,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      22414,
+      3243
+    ],
+    [
+      22420,
+      3253
+    ],
+    [
+      22049,
+      3253
+    ],
+    [
+      33354,
+      3136
+    ]
+  ]
+}

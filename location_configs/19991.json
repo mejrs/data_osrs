@@ -1,0 +1,19 @@
+{
+  "id": 19991,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 3106,
+    "ids": [
+      19916,
+      19917,
+      19917,
+      19918
+    ]
+  }
+}

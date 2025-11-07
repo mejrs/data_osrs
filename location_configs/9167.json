@@ -1,0 +1,16 @@
+{
+  "id": 9167,
+  "name": "Delphinium patch",
+  "models_2": [
+    9199,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    null,
+    null
+  ]
+}

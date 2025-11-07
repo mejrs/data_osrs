@@ -1,0 +1,16 @@
+{
+  "id": 23052,
+  "name": "Doorway",
+  "models_2": [
+    15487
+  ],
+  "unknown_19": 1,
+  "ambient": 35,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

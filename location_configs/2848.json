@@ -1,0 +1,15 @@
+{
+  "id": 2848,
+  "name": "Sewer valve",
+  "models_2": [
+    1746
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ]
+}

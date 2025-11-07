@@ -1,0 +1,26 @@
+{
+  "id": 51566,
+  "name": "Brewing vat",
+  "models_2": [
+    9865
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      7095,
+      5541
+    ],
+    [
+      7079,
+      5532
+    ],
+    [
+      5020,
+      5524
+    ]
+  ],
+  "scale_y": 115
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1763,
+  "name": "Sink",
+  "models_2": [
+    24869
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 20,
+  "contrast": 10,
+  "category": 175,
+  "translate_y": 65531
+}

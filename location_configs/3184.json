@@ -1,0 +1,24 @@
+{
+  "id": 3184,
+  "name": "Hospital shelves",
+  "models_2": [
+    2134
+  ],
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      7700,
+      103
+    ],
+    [
+      7952,
+      99
+    ],
+    [
+      8076,
+      94
+    ]
+  ]
+}

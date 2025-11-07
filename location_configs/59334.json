@@ -1,0 +1,17 @@
+{
+  "id": 59334,
+  "name": "Barrel of halberd poles",
+  "models_2": [
+    57593
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317
+}

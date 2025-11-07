@@ -1,0 +1,21 @@
+{
+  "id": 41029,
+  "name": "Outfit stand space",
+  "models_2": [
+    41673
+  ],
+  "unknown_19": 1,
+  "ambient": 100,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "params": {
+    "429": 1,
+    "430": 1
+  }
+}

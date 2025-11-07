@@ -1,0 +1,12 @@
+{
+  "id": 30034,
+  "name": "Large crystals",
+  "models_2": [
+    32502
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

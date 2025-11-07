@@ -1,0 +1,31 @@
+{
+  "id": 58942,
+  "name": "Portal of Amlodd",
+  "models_2": [
+    37828
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 8456,
+  "ambient": 60,
+  "contrast": 44,
+  "colours": [
+    [
+      33488,
+      39607
+    ],
+    [
+      33455,
+      39607
+    ],
+    [
+      33344,
+      39607
+    ]
+  ],
+  "model": false,
+  "scale_z": 365,
+  "translate_y": 65534
+}

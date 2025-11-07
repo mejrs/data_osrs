@@ -1,0 +1,21 @@
+{
+  "id": 59682,
+  "name": "Range",
+  "models_2": [
+    57688
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Cook",
+    null,
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 20,
+  "category": 2326,
+  "unknown_69": 27
+}

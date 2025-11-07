@@ -1,0 +1,43 @@
+{
+  "id": 56246,
+  "models": [
+    [
+      10,
+      52468
+    ],
+    [
+      22,
+      17016
+    ]
+  ],
+  "name": "Stone",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5388,
+      4
+    ],
+    [
+      5656,
+      2962
+    ],
+    [
+      5931,
+      2977
+    ]
+  ],
+  "unknown_73": true,
+  "unknown_75": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": 23647,
+  "models": [
+    [
+      22,
+      1046
+    ]
+  ],
+  "name": "Stepping stones",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ]
+}

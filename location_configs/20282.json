@@ -1,0 +1,34 @@
+{
+  "id": 20282,
+  "models_2": [
+    11538
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6930,
+      7958
+    ],
+    [
+      6932,
+      7958
+    ],
+    [
+      7834,
+      6932
+    ],
+    [
+      7836,
+      7958
+    ]
+  ],
+  "unknown_69": 27
+}

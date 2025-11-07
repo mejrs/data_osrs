@@ -1,0 +1,17 @@
+{
+  "id": 31967,
+  "name": "Rope",
+  "models_2": [
+    27837
+  ],
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mapscene": 7
+}

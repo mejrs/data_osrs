@@ -1,0 +1,22 @@
+{
+  "id": 2893,
+  "name": "Jungle Bush",
+  "models_2": [
+    1618
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Chop-down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      17304,
+      22447
+    ]
+  ],
+  "mapscene": 5
+}

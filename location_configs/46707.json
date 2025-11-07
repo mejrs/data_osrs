@@ -1,0 +1,37 @@
+{
+  "id": 46707,
+  "models": [
+    [
+      0,
+      2212
+    ],
+    [
+      1,
+      2213
+    ],
+    [
+      2,
+      2176
+    ],
+    [
+      3,
+      2177
+    ],
+    [
+      9,
+      2178
+    ]
+  ],
+  "name": "Wall",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "unknown_28": 8,
+  "actions": [
+    "Knock-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 1
+}

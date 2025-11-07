@@ -1,0 +1,20 @@
+{
+  "id": 14848,
+  "name": "Gap",
+  "models_2": [
+    16238
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_z": 256,
+  "unknown_73": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": 25735,
+  "name": "Bed",
+  "models_2": [
+    1256
+  ],
+  "dim_y": 2,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      33,
+      5921
+    ],
+    [
+      8770,
+      1218
+    ]
+  ],
+  "translate_z": 65504
+}

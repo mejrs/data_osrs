@@ -1,0 +1,11 @@
+{
+  "id": 47329,
+  "name": "Broken Doors",
+  "models_2": [
+    34761
+  ],
+  "dim_x": 6,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 30
+}

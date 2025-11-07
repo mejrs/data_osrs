@@ -1,0 +1,18 @@
+{
+  "id": 20977,
+  "name": "An anonymous looking door",
+  "models_2": [
+    16400
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 4339,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 176
+}

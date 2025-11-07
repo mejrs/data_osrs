@@ -1,0 +1,24 @@
+{
+  "id": 31733,
+  "name": "Stairs",
+  "models_2": [
+    34306
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 638,
+  "unknown_69": 30,
+  "mapscene": 7
+}

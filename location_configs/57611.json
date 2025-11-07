@@ -1,0 +1,12 @@
+{
+  "id": 57611,
+  "name": "Gemstone rock",
+  "models_2": [
+    56653
+  ],
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "model": false
+}

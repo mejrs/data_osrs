@@ -1,0 +1,13 @@
+{
+  "id": 39163,
+  "name": "<col=ffff00>Slave</col>",
+  "models_2": [
+    39749,
+    40360
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_24": 8699,
+  "ambient": 10,
+  "contrast": 10
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28790,
+  "models": [
+    [
+      10,
+      2112
+    ],
+    [
+      0,
+      25626
+    ]
+  ],
+  "name": "Sliced web",
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Pass through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "12": 26
+  },
+  "unknown_75": 0
+}

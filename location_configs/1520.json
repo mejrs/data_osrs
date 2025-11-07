@@ -1,0 +1,25 @@
+{
+  "id": 1520,
+  "models": [
+    [
+      0,
+      14930
+    ],
+    [
+      9,
+      14931
+    ]
+  ],
+  "name": "Large door",
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "translate_y": 1,
+  "unknown_75": 0
+}

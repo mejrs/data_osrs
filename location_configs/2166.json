@@ -1,0 +1,23 @@
+{
+  "id": 2166,
+  "models": [
+    [
+      0,
+      4468
+    ],
+    [
+      3,
+      4469
+    ],
+    [
+      9,
+      4470
+    ]
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "scale_x": 128,
+  "scale_y": 192,
+  "scale_z": 128
+}

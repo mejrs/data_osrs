@@ -1,0 +1,25 @@
+{
+  "id": 9029,
+  "models": [
+    [
+      0,
+      8892
+    ],
+    [
+      9,
+      8893
+    ]
+  ],
+  "name": "Village fence",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Reinforce",
+    null,
+    "Hidden",
+    "Hidden",
+    null
+  ],
+  "category": 162
+}

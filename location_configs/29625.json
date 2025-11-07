@@ -1,0 +1,41 @@
+{
+  "id": 29625,
+  "name": "Mounted Max Cape",
+  "models_2": [
+    32188
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      668,
+      47777
+    ],
+    [
+      675,
+      47657
+    ],
+    [
+      673,
+      8
+    ],
+    [
+      815,
+      43292
+    ],
+    [
+      784,
+      0
+    ]
+  ],
+  "category": 206
+}

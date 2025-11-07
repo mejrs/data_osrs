@@ -1,0 +1,49 @@
+{
+  "id": 57677,
+  "models": [
+    [
+      0,
+      57335
+    ]
+  ],
+  "name": "Ivy",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_28": 32,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      9098
+    ],
+    [
+      18200,
+      27532
+    ],
+    [
+      15132,
+      28564
+    ],
+    [
+      15265,
+      28316
+    ],
+    [
+      15145,
+      28197
+    ]
+  ],
+  "textures": {
+    "2": 23
+  },
+  "scale_x": 128,
+  "scale_y": 192,
+  "scale_z": 128
+}

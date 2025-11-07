@@ -1,0 +1,43 @@
+{
+  "id": 23530,
+  "name": "Crate",
+  "models_2": [
+    7700
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Hide-behind",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      7700
+    ],
+    [
+      6439,
+      7700
+    ],
+    [
+      6563,
+      8976
+    ],
+    [
+      6558,
+      8846
+    ],
+    [
+      6682,
+      8846
+    ],
+    [
+      6806,
+      8846
+    ]
+  ]
+}

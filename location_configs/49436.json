@@ -1,0 +1,17 @@
+{
+  "id": 49436,
+  "name": "Damaged Growth",
+  "models_2": [
+    49012
+  ],
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

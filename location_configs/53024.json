@@ -1,0 +1,15 @@
+{
+  "id": 53024,
+  "name": "Collapsed trap",
+  "models_2": [
+    10772
+  ],
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Dismantle",
+    null,
+    null,
+    null
+  ]
+}

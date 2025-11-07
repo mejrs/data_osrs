@@ -1,0 +1,19 @@
+{
+  "id": 41458,
+  "name": "Structural pillar",
+  "models_2": [
+    42121
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 10
+}

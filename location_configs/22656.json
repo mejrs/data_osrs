@@ -1,0 +1,16 @@
+{
+  "id": 22656,
+  "name": "Blocked tunnel",
+  "models_2": [
+    23280
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

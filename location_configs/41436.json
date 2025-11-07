@@ -1,0 +1,15 @@
+{
+  "id": 41436,
+  "name": "Rewards Chest",
+  "models_2": [
+    35450
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Claim",
+    null,
+    null,
+    null,
+    null
+  ]
+}

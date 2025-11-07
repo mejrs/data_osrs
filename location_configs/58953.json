@@ -1,0 +1,25 @@
+{
+  "id": 58953,
+  "name": "Portal of Crwys",
+  "models_2": [
+    37828
+  ],
+  "ambient": 60,
+  "contrast": 44,
+  "colours": [
+    [
+      33488,
+      9804
+    ],
+    [
+      33455,
+      9804
+    ],
+    [
+      33344,
+      9804
+    ]
+  ],
+  "scale_z": 365,
+  "translate_y": 65534
+}

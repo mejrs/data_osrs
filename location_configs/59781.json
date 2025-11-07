@@ -1,0 +1,22 @@
+{
+  "id": 59781,
+  "name": "Buoy",
+  "models_2": [
+    58791
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 13563,
+  "ambient": 10,
+  "actions": [
+    "Dock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2339,
+  "model": false
+}

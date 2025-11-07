@@ -1,0 +1,17 @@
+{
+  "id": 20074,
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 5360,
+  "unknown_27": false,
+  "model": false,
+  "morphs_1": {
+    "varbit": 2547,
+    "ids": [
+      20072,
+      20073
+    ]
+  }
+}

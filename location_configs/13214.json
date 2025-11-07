@@ -1,0 +1,17 @@
+{
+  "id": 13214,
+  "name": "Windchimes",
+  "models_2": [
+    13222
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

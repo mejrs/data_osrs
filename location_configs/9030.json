@@ -1,0 +1,37 @@
+{
+  "id": 9030,
+  "name": "Gem Rock",
+  "models_2": [
+    8882
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5289,
+      10908
+    ],
+    [
+      813,
+      10465
+    ],
+    [
+      10297,
+      17633
+    ],
+    [
+      35489,
+      61376
+    ]
+  ],
+  "category": 163,
+  "mapscene": 12
+}

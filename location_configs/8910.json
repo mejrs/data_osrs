@@ -1,0 +1,29 @@
+{
+  "id": 8910,
+  "name": "Bookcase",
+  "models_2": [
+    7107
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      11148,
+      24
+    ],
+    [
+      11026,
+      43051
+    ],
+    [
+      10894,
+      43051
+    ]
+  ]
+}

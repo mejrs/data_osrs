@@ -1,0 +1,25 @@
+{
+  "id": 56646,
+  "name": "Debris",
+  "models_2": [
+    46250
+  ],
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      40099,
+      3489
+    ]
+  ],
+  "model": false
+}

@@ -1,0 +1,42 @@
+{
+  "id": 40888,
+  "name": "Cave exit",
+  "models_2": [
+    731
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6036,
+      119
+    ],
+    [
+      5008,
+      90
+    ],
+    [
+      1932,
+      61
+    ],
+    [
+      904,
+      37
+    ],
+    [
+      900,
+      16
+    ]
+  ],
+  "unknown_69": 27,
+  "translate_x": 0,
+  "translate_y": 80,
+  "translate_z": 0
+}

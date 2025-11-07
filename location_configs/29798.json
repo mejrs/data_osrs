@@ -1,0 +1,21 @@
+{
+  "id": 29798,
+  "models": [
+    [
+      10,
+      32448
+    ],
+    [
+      22,
+      32503
+    ]
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_27": false
+}

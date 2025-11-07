@@ -1,0 +1,12 @@
+{
+  "id": 46634,
+  "name": "Cage",
+  "models_2": [
+    47015
+  ],
+  "dim_y": 3,
+  "unknown_22": true,
+  "ambient": 0,
+  "contrast": 35,
+  "model": false
+}

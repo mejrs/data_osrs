@@ -1,0 +1,13 @@
+{
+  "id": 31918,
+  "name": "Great Olm display",
+  "models_2": [
+    34564
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 20,
+  "model": false
+}

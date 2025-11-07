@@ -1,0 +1,33 @@
+{
+  "id": 35840,
+  "models": [
+    [
+      0,
+      789
+    ],
+    [
+      9,
+      790
+    ]
+  ],
+  "name": "Crevice",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7952
+    ],
+    [
+      6808,
+      7050
+    ]
+  ]
+}

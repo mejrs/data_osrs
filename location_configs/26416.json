@@ -1,0 +1,13 @@
+{
+  "id": 26416,
+  "name": "Boulder",
+  "models_2": [
+    27832
+  ],
+  "dim_x": 4,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25
+}

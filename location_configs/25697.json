@@ -1,0 +1,42 @@
+{
+  "id": 25697,
+  "name": "Bookcase",
+  "models_2": [
+    7392,
+    7393
+  ],
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6565,
+      4517
+    ],
+    [
+      7834,
+      4387
+    ],
+    [
+      7958,
+      11024
+    ],
+    [
+      6430,
+      5413
+    ],
+    [
+      5400,
+      5532
+    ]
+  ],
+  "category": 205,
+  "unknown_69": 29,
+  "translate_x": 16
+}

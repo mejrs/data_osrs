@@ -1,0 +1,18 @@
+{
+  "id": 59286,
+  "name": "Stone tablet",
+  "models_2": [
+    57645
+  ],
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317
+}

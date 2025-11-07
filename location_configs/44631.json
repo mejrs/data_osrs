@@ -1,0 +1,32 @@
+{
+  "id": 44631,
+  "name": "Lava pool",
+  "models_2": [
+    14158,
+    44909
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 3743,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Heat-preform",
+    "Dunk-preform",
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      27844,
+      5060
+    ]
+  ],
+  "model": false,
+  "scale_y": 50,
+  "scale_z": 80
+}

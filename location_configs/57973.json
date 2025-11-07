@@ -1,0 +1,24 @@
+{
+  "id": 57973,
+  "models": [
+    [
+      22,
+      58508
+    ]
+  ],
+  "name": "Gryphon feathers",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      7353,
+      5020
+    ],
+    [
+      35,
+      4884
+    ]
+  ]
+}

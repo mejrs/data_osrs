@@ -1,0 +1,16 @@
+{
+  "id": 58676,
+  "name": "Coral nursery",
+  "models_2": [
+    59745
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

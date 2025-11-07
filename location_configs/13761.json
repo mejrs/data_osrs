@@ -1,0 +1,19 @@
+{
+  "id": 13761,
+  "models": [
+    [
+      4,
+      13013
+    ]
+  ],
+  "name": "Kite shield",
+  "ambient": 30,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,21 @@
+{
+  "id": 27698,
+  "name": "Broken table",
+  "models_2": [
+    30319
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      6707,
+      6439
+    ],
+    [
+      7585,
+      6430
+    ]
+  ]
+}

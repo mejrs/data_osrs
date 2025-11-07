@@ -1,0 +1,21 @@
+{
+  "id": 10867,
+  "models": [
+    [
+      22,
+      10779
+    ]
+  ],
+  "name": "Plank",
+  "unknown_17": false,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

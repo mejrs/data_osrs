@@ -1,0 +1,12 @@
+{
+  "id": 14263,
+  "name": "Lander boat",
+  "models_2": [
+    14504
+  ],
+  "dim_x": 6,
+  "unknown_22": true,
+  "ambient": 20,
+  "scale_x": 224,
+  "scale_y": 192
+}

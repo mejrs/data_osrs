@@ -1,0 +1,27 @@
+{
+  "id": 3489,
+  "models": [
+    [
+      0,
+      3544
+    ]
+  ],
+  "name": "Large door",
+  "ambient": 30,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6930,
+      7566
+    ]
+  ],
+  "textures": {
+    "16": 5
+  }
+}

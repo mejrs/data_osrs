@@ -1,0 +1,22 @@
+{
+  "id": 33500,
+  "name": "Power Grid",
+  "models_2": [
+    36236
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Align",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_73": true
+}

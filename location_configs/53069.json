@@ -1,0 +1,23 @@
+{
+  "id": 53069,
+  "name": "Easter mine cart",
+  "models_2": [
+    53068
+  ],
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Hidden",
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      43945,
+      15298
+    ]
+  ]
+}

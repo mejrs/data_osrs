@@ -1,0 +1,28 @@
+{
+  "id": 2398,
+  "models": [
+    [
+      0,
+      20643
+    ]
+  ],
+  "name": "Door",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5532,
+      7582
+    ],
+    [
+      5652,
+      7706
+    ]
+  ]
+}

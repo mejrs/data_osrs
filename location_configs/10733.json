@@ -1,0 +1,10 @@
+{
+  "id": 10733,
+  "name": "Portal",
+  "models_2": [
+    10619,
+    10618
+  ],
+  "ambient": 20,
+  "contrast": 15
+}

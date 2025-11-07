@@ -1,0 +1,27 @@
+{
+  "id": 41210,
+  "models": [
+    [
+      0,
+      41770
+    ]
+  ],
+  "name": "Solid gold door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      6063
+    ],
+    [
+      33,
+      8128
+    ]
+  ]
+}

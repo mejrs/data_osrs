@@ -1,0 +1,15 @@
+{
+  "id": 23169,
+  "name": "Cave",
+  "models_2": [
+    24077
+  ],
+  "unknown_22": true,
+  "ambient": 10,
+  "colours": [
+    [
+      24,
+      10396
+    ]
+  ]
+}

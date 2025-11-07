@@ -1,0 +1,13 @@
+{
+  "id": 56266,
+  "name": "Pile of skulls",
+  "models_2": [
+    17014
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 40,
+  "model": false
+}

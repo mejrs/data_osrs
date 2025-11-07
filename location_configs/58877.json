@@ -1,0 +1,35 @@
+{
+  "id": 58877,
+  "name": "Dead Cotton",
+  "models_2": [
+    59753,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      16807,
+      7461
+    ],
+    [
+      16803,
+      7452
+    ],
+    [
+      16798,
+      7452
+    ],
+    [
+      8542,
+      7452
+    ]
+  ]
+}

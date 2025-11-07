@@ -1,0 +1,19 @@
+{
+  "id": 18777,
+  "name": "Fancy dress box",
+  "models_2": [
+    19010
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

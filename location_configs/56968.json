@@ -1,0 +1,48 @@
+{
+  "id": 56968,
+  "models": [
+    [
+      0,
+      34344
+    ],
+    [
+      2,
+      34338
+    ],
+    [
+      3,
+      34335
+    ],
+    [
+      9,
+      34345
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": -5,
+  "contrast": 15,
+  "colours": [
+    [
+      43026,
+      8
+    ],
+    [
+      43047,
+      28
+    ],
+    [
+      43038,
+      22
+    ],
+    [
+      43030,
+      16
+    ]
+  ],
+  "model": false,
+  "scale_y": 64
+}

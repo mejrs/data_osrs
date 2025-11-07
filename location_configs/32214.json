@@ -1,0 +1,13 @@
+{
+  "id": 32214,
+  "name": "Dragon head",
+  "models_2": [
+    34800
+  ],
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "translate_y": 65535
+}

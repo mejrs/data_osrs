@@ -1,0 +1,35 @@
+{
+  "id": 58873,
+  "name": "Diseased Cotton",
+  "models_2": [
+    59753,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      16807,
+      10787
+    ],
+    [
+      16803,
+      10782
+    ],
+    [
+      16798,
+      10782
+    ],
+    [
+      8542,
+      10782
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 30532,
+  "models": [
+    [
+      10,
+      33845
+    ],
+    [
+      22,
+      33844
+    ]
+  ],
+  "name": "Tunnel",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Attack",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

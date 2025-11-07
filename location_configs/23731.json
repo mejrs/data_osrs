@@ -1,0 +1,15 @@
+{
+  "id": 23731,
+  "name": "Cradle of Life",
+  "models_2": [
+    15848
+  ],
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

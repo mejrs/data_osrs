@@ -1,0 +1,19 @@
+{
+  "id": 28802,
+  "name": "Lectern",
+  "models_2": [
+    3138
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "1862": 1
+  }
+}

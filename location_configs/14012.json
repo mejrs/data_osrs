@@ -1,0 +1,16 @@
+{
+  "id": 14012,
+  "name": "Market stall",
+  "models_2": [
+    1421
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Steal-From",
+    null,
+    null,
+    null
+  ]
+}

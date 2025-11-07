@@ -1,0 +1,13 @@
+{
+  "id": 18842,
+  "name": "Fish",
+  "models_2": [
+    19128,
+    19126
+  ],
+  "dim_y": 2,
+  "unknown_24": 5012,
+  "scale_x": 50,
+  "scale_y": 50,
+  "scale_z": 50
+}

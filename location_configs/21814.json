@@ -1,0 +1,19 @@
+{
+  "id": 21814,
+  "models": [
+    [
+      0,
+      22755
+    ]
+  ],
+  "name": "Tower door",
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

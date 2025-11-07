@@ -1,0 +1,14 @@
+{
+  "id": 40079,
+  "name": "Chair space",
+  "models_2": [
+    12660
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    "Build",
+    null
+  ]
+}

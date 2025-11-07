@@ -1,0 +1,47 @@
+{
+  "id": 11399,
+  "models": [
+    [
+      0,
+      24997
+    ]
+  ],
+  "name": "Cave entrance",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Crawl-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "colours": [
+    [
+      7442,
+      10258
+    ],
+    [
+      7446,
+      24
+    ],
+    [
+      7322,
+      33
+    ],
+    [
+      7326,
+      45
+    ],
+    [
+      7331,
+      53
+    ],
+    [
+      7335,
+      61
+    ]
+  ]
+}

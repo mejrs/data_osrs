@@ -1,0 +1,17 @@
+{
+  "id": 28756,
+  "models": [
+    [
+      4,
+      31407
+    ]
+  ],
+  "name": "Wall support",
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ]
+}

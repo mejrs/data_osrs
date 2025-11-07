@@ -1,0 +1,22 @@
+{
+  "id": 6433,
+  "name": "Mystical mirror",
+  "models_2": [
+    6307
+  ],
+  "unknown_19": 1,
+  "unknown_24": 1923,
+  "actions": [
+    "Look-into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8889,
+      8656
+    ]
+  ]
+}

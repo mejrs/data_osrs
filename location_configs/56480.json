@@ -1,0 +1,25 @@
+{
+  "id": 56480,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Hole",
+  "unknown_19": 1,
+  "actions": [
+    "Climb-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 112,
+  "scale_y": 256,
+  "scale_z": 112
+}

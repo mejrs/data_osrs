@@ -1,0 +1,19 @@
+{
+  "id": 42164,
+  "models": [
+    [
+      10,
+      42360
+    ],
+    [
+      22,
+      42358
+    ]
+  ],
+  "name": "Ceremonial Pillow",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

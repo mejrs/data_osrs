@@ -1,0 +1,17 @@
+{
+  "id": 3765,
+  "models": [
+    [
+      0,
+      3802
+    ]
+  ],
+  "name": "Cell Door",
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ]
+}

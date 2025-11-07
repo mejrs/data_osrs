@@ -1,0 +1,13 @@
+{
+  "id": 30834,
+  "name": "Mushtree",
+  "models_2": [
+    33628
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "mapscene": 84
+}

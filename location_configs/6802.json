@@ -1,0 +1,17 @@
+{
+  "id": 6802,
+  "name": "Armour repair stand",
+  "models_2": [
+    12561
+  ],
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

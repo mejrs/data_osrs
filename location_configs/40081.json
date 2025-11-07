@@ -1,0 +1,15 @@
+{
+  "id": 40081,
+  "name": "Bed space",
+  "models_2": [
+    12865
+  ],
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    "Build",
+    null
+  ]
+}

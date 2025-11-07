@@ -1,0 +1,20 @@
+{
+  "id": 26830,
+  "name": "Consecrated house",
+  "models_2": [
+    28943
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "View",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

@@ -1,0 +1,14 @@
+{
+  "id": 30522,
+  "name": "Rock",
+  "models_2": [
+    33850
+  ],
+  "actions": [
+    "Inspect",
+    "Check count",
+    "Toggle warning",
+    null,
+    null
+  ]
+}

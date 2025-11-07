@@ -1,0 +1,18 @@
+{
+  "id": 2912,
+  "models": [
+    [
+      0,
+      1809
+    ]
+  ],
+  "name": "Ancient Gate",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

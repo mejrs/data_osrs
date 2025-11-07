@@ -1,0 +1,19 @@
+{
+  "id": 2580,
+  "name": "Scorched earth",
+  "models_2": [
+    1065
+  ],
+  "unknown_21": true,
+  "colours": [
+    [
+      4892,
+      4750
+    ],
+    [
+      4899,
+      7056
+    ]
+  ],
+  "mapscene": 5
+}

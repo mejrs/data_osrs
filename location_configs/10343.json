@@ -1,0 +1,46 @@
+{
+  "id": 10343,
+  "models": [
+    [
+      0,
+      10066
+    ]
+  ],
+  "name": "Rat Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 7,
+  "actions": [
+    "Spectate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 7,
+  "colours": [
+    [
+      8478,
+      10266
+    ],
+    [
+      8602,
+      10262
+    ],
+    [
+      8598,
+      10262
+    ],
+    [
+      8722,
+      10258
+    ],
+    [
+      8846,
+      10382
+    ]
+  ],
+  "category": 225,
+  "scale_y": 90
+}

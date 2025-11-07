@@ -1,0 +1,17 @@
+{
+  "id": 59332,
+  "name": "Sharhai's purse",
+  "models_2": [
+    57605
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317
+}

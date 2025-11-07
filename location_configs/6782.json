@@ -1,0 +1,19 @@
+{
+  "id": 6782,
+  "name": "Limestone fireplace",
+  "models_2": [
+    12612
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 29
+}

@@ -1,0 +1,20 @@
+{
+  "id": 13663,
+  "models": [
+    [
+      4,
+      12169
+    ]
+  ],
+  "name": "Astronomical chart",
+  "ambient": 30,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206
+}

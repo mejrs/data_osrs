@@ -1,0 +1,45 @@
+{
+  "id": 56858,
+  "name": "Chest",
+  "models_2": [
+    52412
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      97,
+      7752
+    ],
+    [
+      99,
+      7768
+    ],
+    [
+      45,
+      3499
+    ],
+    [
+      61,
+      3503
+    ],
+    [
+      53,
+      3509
+    ],
+    [
+      43179,
+      10529
+    ]
+  ],
+  "unknown_69": 27
+}

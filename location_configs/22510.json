@@ -1,0 +1,22 @@
+{
+  "id": 22510,
+  "name": "Hank (Well)",
+  "models_2": [
+    23192,
+    23196
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 5983,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 647
+}

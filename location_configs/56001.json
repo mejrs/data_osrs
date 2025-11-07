@@ -1,0 +1,17 @@
+{
+  "id": 56001,
+  "name": "Fire",
+  "models_2": [
+    55961
+  ],
+  "is_transparent": true,
+  "unknown_24": 12005,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 100,
+  "translate_y": 65534,
+  "unknown_78": {
+    "unknown_1": 2064,
+    "unknown_2": 1
+  }
+}

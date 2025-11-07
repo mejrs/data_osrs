@@ -1,0 +1,19 @@
+{
+  "id": 13383,
+  "name": "Weapons Rack",
+  "models_2": [
+    12178,
+    12179,
+    12181,
+    12180
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

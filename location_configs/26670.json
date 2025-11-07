@@ -1,0 +1,29 @@
+{
+  "id": 26670,
+  "name": "Broken strut",
+  "models_2": [
+    28468
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Hammer",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      5429,
+      6682
+    ],
+    [
+      61,
+      7566
+    ]
+  ],
+  "unknown_69": 23
+}

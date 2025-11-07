@@ -1,0 +1,35 @@
+{
+  "id": 54868,
+  "models": [
+    [
+      10,
+      54870
+    ],
+    [
+      4,
+      54867
+    ]
+  ],
+  "name": "Mox lever",
+  "unknown_22": true,
+  "unknown_24": 11621,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      20273,
+      45481
+    ]
+  ],
+  "category": 2079,
+  "model": false,
+  "unknown_69": 30
+}

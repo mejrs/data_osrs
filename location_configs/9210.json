@@ -1,0 +1,16 @@
+{
+  "id": 9210,
+  "name": "White Tree patch",
+  "models_2": [
+    7793,
+    7768
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 12989,
+  "models": [
+    [
+      0,
+      7371
+    ]
+  ],
+  "name": "Gate",
+  "is_transparent": true,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6430,
+      5784
+    ],
+    [
+      6550,
+      5904
+    ]
+  ],
+  "mirror": true
+}

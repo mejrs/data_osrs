@@ -1,0 +1,25 @@
+{
+  "id": 41754,
+  "name": "<col=ff9040>Iron pickaxe</col>",
+  "models_2": [
+    2529
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      33
+    ]
+  ],
+  "category": 1787,
+  "mapscene": 81
+}

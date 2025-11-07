@@ -1,0 +1,21 @@
+{
+  "id": 27291,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    "Deposit-box",
+    null
+  ],
+  "category": 684,
+  "breakroutefinding": true,
+  "morphs_1": {
+    "varbit": 4153,
+    "ids": [
+      18491,
+      27292
+    ]
+  }
+}

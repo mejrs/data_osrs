@@ -1,0 +1,12 @@
+{
+  "id": 57820,
+  "name": "Tropical palm",
+  "models_2": [
+    58697
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25
+}

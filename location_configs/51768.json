@@ -1,0 +1,29 @@
+{
+  "id": 51768,
+  "name": "Acacia tree",
+  "models_2": [
+    52425
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 50,
+  "contrast": 30,
+  "colours": [
+    [
+      5404,
+      5537
+    ],
+    [
+      5400,
+      5537
+    ],
+    [
+      5524,
+      5532
+    ]
+  ],
+  "scale_x": 190,
+  "scale_y": 344,
+  "scale_z": 190,
+  "mapscene": 134
+}

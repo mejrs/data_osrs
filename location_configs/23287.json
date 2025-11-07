@@ -1,0 +1,23 @@
+{
+  "id": 23287,
+  "name": "Doorway",
+  "models_2": [
+    24238
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10270,
+      10266
+    ]
+  ]
+}

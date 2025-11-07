@@ -1,0 +1,24 @@
+{
+  "id": 8396,
+  "name": "Magic tree",
+  "models_2": [
+    7977,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      5665,
+      8602
+    ]
+  ]
+}

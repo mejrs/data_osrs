@@ -1,0 +1,16 @@
+{
+  "id": 3937,
+  "name": "Dense forest",
+  "models_2": [
+    3969
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

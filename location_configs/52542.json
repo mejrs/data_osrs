@@ -1,0 +1,38 @@
+{
+  "id": 52542,
+  "models_2": [
+    51318
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 30,
+  "colours": [
+    [
+      1438,
+      36376
+    ],
+    [
+      1443,
+      36378
+    ],
+    [
+      1317,
+      36133
+    ],
+    [
+      1319,
+      36133
+    ],
+    [
+      5165,
+      5165
+    ]
+  ],
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "translate_y": 1,
+  "mapscene": 176
+}

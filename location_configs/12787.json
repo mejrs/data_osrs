@@ -1,0 +1,19 @@
+{
+  "id": 12787,
+  "models": [
+    [
+      4,
+      10818
+    ]
+  ],
+  "name": "Damaged wall",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

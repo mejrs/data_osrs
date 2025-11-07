@@ -1,0 +1,22 @@
+{
+  "id": 43903,
+  "name": "Well",
+  "models_2": [
+    44556
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 1628,
+  "unknown_69": 27
+}

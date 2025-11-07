@@ -1,0 +1,15 @@
+{
+  "id": 40122,
+  "name": "Shelves",
+  "models_2": [
+    40834
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ]
+}

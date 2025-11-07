@@ -1,0 +1,23 @@
+{
+  "id": 5798,
+  "models": [
+    [
+      0,
+      789
+    ],
+    [
+      9,
+      790
+    ]
+  ],
+  "name": "Crack",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

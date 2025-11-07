@@ -1,0 +1,16 @@
+{
+  "id": 2014,
+  "name": "Chalice",
+  "models_2": [
+    1814
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Take treasure",
+    null,
+    null,
+    null,
+    null
+  ]
+}

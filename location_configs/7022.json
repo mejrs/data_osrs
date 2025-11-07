@@ -1,0 +1,29 @@
+{
+  "id": 7022,
+  "models": [
+    [
+      22,
+      1394
+    ]
+  ],
+  "name": "Track",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      5016,
+      7050
+    ],
+    [
+      53,
+      10262
+    ],
+    [
+      41,
+      10262
+    ]
+  ],
+  "unknown_73": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3496,
+  "name": "Monument",
+  "models_2": [
+    3554
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 1072,
+  "actions": [
+    "Study",
+    "Take-from",
+    null,
+    null,
+    null
+  ],
+  "category": 169
+}

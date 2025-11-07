@@ -1,0 +1,15 @@
+{
+  "id": 5777,
+  "models": [
+    [
+      0,
+      5481
+    ]
+  ],
+  "unknown_22": true,
+  "textures": {
+    "2": 23,
+    "6": 18
+  },
+  "mirror": true
+}

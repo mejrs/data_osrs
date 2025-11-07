@@ -1,0 +1,15 @@
+{
+  "id": 2234,
+  "name": "Well stacked rocks",
+  "models_2": [
+    1390
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Investigate",
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

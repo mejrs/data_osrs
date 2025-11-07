@@ -1,0 +1,25 @@
+{
+  "id": 16511,
+  "name": "Obstacle pipe",
+  "models_2": [
+    1475
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      9098
+    ]
+  ],
+  "textures": {
+    "2": 23
+  },
+  "translate_y": 1
+}

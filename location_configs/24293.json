@@ -1,0 +1,24 @@
+{
+  "id": 24293,
+  "models": [
+    [
+      0,
+      27606
+    ]
+  ],
+  "name": "Locked door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "mirror": true,
+  "scale_y": 159
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4672,
+  "models": [
+    [
+      0,
+      14930
+    ],
+    [
+      9,
+      14931
+    ]
+  ],
+  "name": "Throne Room Door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 43723,
+  "name": "Essence pile (catalytic)",
+  "models_2": [
+    44067
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 9386,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Assemble",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "model": false
+}

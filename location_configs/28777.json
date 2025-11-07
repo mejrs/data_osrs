@@ -1,0 +1,20 @@
+{
+  "id": 28777,
+  "name": "Floor spikes",
+  "models_2": [
+    3645
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 1112,
+  "unknown_27": false,
+  "actions": [
+    "Pass",
+    "Disarm",
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65535,
+  "unknown_73": true
+}

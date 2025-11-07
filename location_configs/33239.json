@@ -1,0 +1,27 @@
+{
+  "id": 33239,
+  "models": [
+    [
+      0,
+      18595
+    ],
+    [
+      2,
+      35759
+    ]
+  ],
+  "name": "Water's edge",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "category": 1278,
+  "model": false,
+  "unknown_75": 0
+}

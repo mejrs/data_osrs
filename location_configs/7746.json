@@ -1,0 +1,28 @@
+{
+  "id": 7746,
+  "name": "Cactus patch",
+  "models_2": [
+    7801,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13982,
+      10019
+    ],
+    [
+      14230,
+      10012
+    ]
+  ]
+}

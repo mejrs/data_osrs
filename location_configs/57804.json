@@ -1,0 +1,25 @@
+{
+  "id": 57804,
+  "name": "Plant",
+  "models_2": [
+    58538
+  ],
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      14631,
+      9630
+    ],
+    [
+      14622,
+      10646
+    ],
+    [
+      9907,
+      5952
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 47227,
+  "name": "Porcine of Interest Display",
+  "models_2": [
+    47566
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "scale_x": 128,
+  "scale_z": 128
+}

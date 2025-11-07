@@ -1,0 +1,22 @@
+{
+  "id": 56239,
+  "models": [
+    [
+      22,
+      4244
+    ]
+  ],
+  "name": "Conspicuous carrot scraps",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

@@ -1,0 +1,22 @@
+{
+  "id": 41974,
+  "name": "Protest Banners",
+  "models_2": [
+    42470
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 120,
+  "scale_y": 118,
+  "scale_z": 124
+}

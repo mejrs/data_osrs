@@ -1,0 +1,19 @@
+{
+  "id": 2927,
+  "models": [
+    [
+      9,
+      1816
+    ]
+  ],
+  "name": "Marked wall",
+  "unknown_22": true,
+  "occludes_1": false,
+  "actions": [
+    "Use",
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

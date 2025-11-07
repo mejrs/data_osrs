@@ -1,0 +1,21 @@
+{
+  "id": 26379,
+  "name": "Pillar",
+  "models_2": [
+    23316
+  ],
+  "dim_y": 9,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 6069,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "hidden"
+  ],
+  "contrast": 25
+}

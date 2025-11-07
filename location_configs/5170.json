@@ -1,0 +1,18 @@
+{
+  "id": 5170,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Entrance",
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

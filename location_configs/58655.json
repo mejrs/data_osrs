@@ -1,0 +1,49 @@
+{
+  "id": 58655,
+  "name": "Pottery oven",
+  "models_2": [
+    11582
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Fire",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      37,
+      5285
+    ],
+    [
+      33,
+      5409
+    ],
+    [
+      28,
+      5404
+    ],
+    [
+      24,
+      5400
+    ],
+    [
+      20,
+      5524
+    ],
+    [
+      10514,
+      5524
+    ]
+  ],
+  "unknown_69": 29,
+  "unknown_78": {
+    "unknown_1": 2208,
+    "unknown_2": 10
+  }
+}

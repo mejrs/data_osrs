@@ -1,0 +1,18 @@
+{
+  "id": 27522,
+  "name": "Apple basket",
+  "models_2": [
+    30227
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

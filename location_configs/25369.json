@@ -1,0 +1,20 @@
+{
+  "id": 25369,
+  "models": [
+    [
+      22,
+      31282
+    ]
+  ],
+  "name": "Holding area",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ]
+}

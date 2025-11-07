@@ -1,0 +1,20 @@
+{
+  "id": 23644,
+  "models": [
+    [
+      22,
+      1115
+    ]
+  ],
+  "name": "A wooden log",
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 13
+}

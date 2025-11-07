@@ -1,0 +1,23 @@
+{
+  "id": 17047,
+  "models": [
+    [
+      0,
+      16911
+    ]
+  ],
+  "name": "Wall",
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_28": 32,
+  "ambient": 25,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "translate_y": 1
+}

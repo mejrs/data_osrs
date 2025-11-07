@@ -1,0 +1,18 @@
+{
+  "id": 33714,
+  "name": "Dead celastrus tree",
+  "models_2": [
+    36820,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 30,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

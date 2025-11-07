@@ -1,0 +1,20 @@
+{
+  "id": 56282,
+  "name": "Juice press",
+  "models_2": [
+    9837
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 27
+}

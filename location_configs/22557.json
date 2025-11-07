@@ -1,0 +1,16 @@
+{
+  "id": 22557,
+  "name": "Tunnel",
+  "models_2": [
+    23294
+  ],
+  "dim_x": 3,
+  "unknown_22": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

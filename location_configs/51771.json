@@ -1,0 +1,33 @@
+{
+  "id": 51771,
+  "name": "Stonepine tree",
+  "models_2": [
+    52429
+  ],
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_21": true,
+  "ambient": 80,
+  "contrast": 50,
+  "colours": [
+    [
+      5404,
+      4502
+    ],
+    [
+      5400,
+      4502
+    ],
+    [
+      5524,
+      4626
+    ]
+  ],
+  "textures": {
+    "90": 124
+  },
+  "model": false,
+  "scale_x": 160,
+  "scale_y": 150,
+  "scale_z": 160
+}

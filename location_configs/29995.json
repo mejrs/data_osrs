@@ -1,0 +1,23 @@
+{
+  "id": 29995,
+  "name": "Rope",
+  "models_2": [
+    1487,
+    13908,
+    13909
+  ],
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 998,
+  "mapscene": 7
+}

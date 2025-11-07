@@ -1,0 +1,45 @@
+{
+  "id": 31622,
+  "name": "Portal of Legends",
+  "models_2": [
+    11231,
+    34416
+  ],
+  "dim_x": 3,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      50072,
+      935
+    ],
+    [
+      49948,
+      939
+    ],
+    [
+      49953,
+      815
+    ],
+    [
+      49829,
+      819
+    ],
+    [
+      49705,
+      695
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  }
+}

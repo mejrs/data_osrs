@@ -1,0 +1,12 @@
+{
+  "id": 15884,
+  "name": "Bridge",
+  "models_2": [
+    15751
+  ],
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false
+}

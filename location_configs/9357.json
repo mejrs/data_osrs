@@ -1,0 +1,16 @@
+{
+  "id": 9357,
+  "name": "Ornate kalphite combat dummy",
+  "models_2": [
+    4883
+  ],
+  "ambient": 25,
+  "actions": [
+    "Attach",
+    null,
+    null,
+    "Swap",
+    "Remove"
+  ],
+  "category": 206
+}

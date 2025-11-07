@@ -1,0 +1,18 @@
+{
+  "id": 3788,
+  "name": "Stone Staircase",
+  "models_2": [
+    3796
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27,
+  "mapscene": 7
+}

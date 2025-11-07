@@ -1,0 +1,30 @@
+{
+  "id": 15601,
+  "models": [
+    [
+      0,
+      15397
+    ],
+    [
+      1,
+      15398
+    ],
+    [
+      9,
+      15399
+    ]
+  ],
+  "name": "Railing",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

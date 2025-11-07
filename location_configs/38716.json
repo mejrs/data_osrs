@@ -1,0 +1,21 @@
+{
+  "id": 38716,
+  "name": "Statue",
+  "models_2": [
+    40576
+  ],
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      43096,
+      10299
+    ],
+    [
+      898,
+      26801
+    ]
+  ]
+}

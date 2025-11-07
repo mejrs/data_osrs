@@ -1,0 +1,15 @@
+{
+  "id": 29671,
+  "name": "Redwood tree",
+  "models_2": [
+    32888
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": -20,
+  "contrast": 100,
+  "params": {
+    "1545": 1
+  }
+}

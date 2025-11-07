@@ -1,0 +1,17 @@
+{
+  "id": 13694,
+  "name": "Teak bench",
+  "models_2": [
+    12403
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

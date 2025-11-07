@@ -1,0 +1,20 @@
+{
+  "id": 7786,
+  "name": "Calquat tree",
+  "models_2": [
+    7960,
+    7944,
+    7961,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Pick-fruit",
+    "Inspect",
+    null,
+    "Guide",
+    "Clear"
+  ]
+}

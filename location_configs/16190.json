@@ -1,0 +1,17 @@
+{
+  "id": 16190,
+  "name": "Lightning",
+  "models_2": [
+    11266
+  ],
+  "unknown_19": 1,
+  "unknown_24": 4308,
+  "ambient": 40,
+  "contrast": 40,
+  "colours": [
+    [
+      39139,
+      427
+    ]
+  ]
+}

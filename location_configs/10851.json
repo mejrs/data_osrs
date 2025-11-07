@@ -1,0 +1,22 @@
+{
+  "id": 10851,
+  "models": [
+    [
+      4,
+      10765
+    ]
+  ],
+  "name": "Climbing rocks",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

@@ -1,0 +1,35 @@
+{
+  "id": 38008,
+  "models": [
+    [
+      22,
+      1124
+    ]
+  ],
+  "name": "Path",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 7,
+  "actions": [
+    "Continue",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4899,
+      28310
+    ],
+    [
+      5921,
+      28310
+    ],
+    [
+      4892,
+      28310
+    ]
+  ]
+}

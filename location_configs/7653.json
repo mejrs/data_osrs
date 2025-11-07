@@ -1,0 +1,32 @@
+{
+  "id": 7653,
+  "name": "Diseased jangerberry bush",
+  "models_2": [
+    7826,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      8737
+    ],
+    [
+      8722,
+      10776
+    ],
+    [
+      13731,
+      8361
+    ]
+  ]
+}

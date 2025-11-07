@@ -1,0 +1,21 @@
+{
+  "id": 59465,
+  "name": "Scorching brazier",
+  "models_2": [
+    53101
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8170,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Extinguish",
+    "Load",
+    "Check",
+    "Unload",
+    "Settings"
+  ],
+  "contrast": 10,
+  "category": 2320
+}

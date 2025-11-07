@@ -1,0 +1,21 @@
+{
+  "id": 4532,
+  "name": "Tree",
+  "models_2": [
+    12945
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "mapscene": 0
+}

@@ -1,0 +1,17 @@
+{
+  "id": 26248,
+  "name": "Tree",
+  "models_2": [
+    4971
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    null,
+    "Climb",
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

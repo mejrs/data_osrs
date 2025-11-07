@@ -1,0 +1,14 @@
+{
+  "id": 51853,
+  "name": "Orange tree",
+  "models_2": [
+    52423
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 15,
+  "category": 189,
+  "scale_y": 144,
+  "mapscene": 5
+}

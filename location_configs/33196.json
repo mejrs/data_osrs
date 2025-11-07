@@ -1,0 +1,28 @@
+{
+  "id": 33196,
+  "name": "Skeleton",
+  "models_2": [
+    1080
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6241,
+      82
+    ],
+    [
+      61,
+      82
+    ]
+  ]
+}

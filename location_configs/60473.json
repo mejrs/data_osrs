@@ -1,0 +1,20 @@
+{
+  "id": 60473,
+  "name": "Pirate shipwreck",
+  "models_2": [
+    58886
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 13613,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 20,
+  "category": 2348,
+  "model": false,
+  "unknown_89": false,
+  "unknown_90": true
+}

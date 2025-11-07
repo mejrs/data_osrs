@@ -1,0 +1,15 @@
+{
+  "id": 2019,
+  "name": "Whirlpool",
+  "models_2": [
+    2320
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 456,
+  "scale_y": 1,
+  "unknown_78": {
+    "unknown_1": 2171,
+    "unknown_2": 3
+  }
+}

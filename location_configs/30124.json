@@ -1,0 +1,15 @@
+{
+  "id": 30124,
+  "name": "A barrel of rainwater",
+  "models_2": [
+    10145
+  ],
+  "ambient": -10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

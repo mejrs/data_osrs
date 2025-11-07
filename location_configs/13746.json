@@ -1,0 +1,19 @@
+{
+  "id": 13746,
+  "models": [
+    [
+      4,
+      13030
+    ]
+  ],
+  "name": "Round shield",
+  "ambient": 30,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

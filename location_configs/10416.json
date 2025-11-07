@@ -1,0 +1,19 @@
+{
+  "id": 10416,
+  "models": [
+    [
+      22,
+      10155
+    ]
+  ],
+  "name": "Crevice",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ]
+}

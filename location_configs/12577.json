@@ -1,0 +1,16 @@
+{
+  "id": 12577,
+  "name": "Stalactite",
+  "models_2": [
+    753
+  ],
+  "unknown_17": false,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      5916,
+      7952
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 55236,
+  "name": "Chest",
+  "models_2": [
+    54845
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 30,
+  "contrast": 25,
+  "model": false,
+  "unknown_69": 27
+}

@@ -1,0 +1,30 @@
+{
+  "id": 41782,
+  "name": "Cabinet",
+  "models_2": [
+    25065
+  ],
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      5285
+    ],
+    [
+      5660,
+      7954
+    ],
+    [
+      5908,
+      7830
+    ]
+  ],
+  "category": 1561
+}

@@ -1,0 +1,37 @@
+{
+  "id": 51829,
+  "name": "Sweetcorn",
+  "models_2": [
+    8176,
+    7766
+  ],
+  "ambient": 15,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      14786,
+      14889
+    ],
+    [
+      21978,
+      14897
+    ],
+    [
+      14897,
+      18085
+    ],
+    [
+      8148,
+      7869
+    ]
+  ],
+  "category": 1934,
+  "mapscene": 124
+}

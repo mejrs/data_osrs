@@ -1,0 +1,19 @@
+{
+  "id": 4484,
+  "models": [
+    [
+      4,
+      4439
+    ]
+  ],
+  "name": "Scoreboard",
+  "unknown_19": 1,
+  "ambient": 50,
+  "actions": [
+    "View",
+    null,
+    "View Stats",
+    null,
+    null
+  ]
+}

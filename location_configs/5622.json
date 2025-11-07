@@ -1,0 +1,34 @@
+{
+  "id": 5622,
+  "name": "Wardrobe",
+  "models_2": [
+    1951
+  ],
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      9104,
+      5532
+    ],
+    [
+      7050,
+      5904
+    ],
+    [
+      0,
+      62342
+    ],
+    [
+      24,
+      7446
+    ]
+  ],
+  "unknown_69": 29
+}

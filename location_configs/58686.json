@@ -1,0 +1,18 @@
+{
+  "id": 58686,
+  "name": "Pillar coral",
+  "models_2": [
+    59744,
+    7766,
+    59745
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Collect",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

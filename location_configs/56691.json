@@ -1,0 +1,13 @@
+{
+  "id": 56691,
+  "name": "Moon Statue",
+  "models_2": [
+    57057
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 80,
+  "contrast": 40
+}

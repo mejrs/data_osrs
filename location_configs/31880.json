@@ -1,0 +1,25 @@
+{
+  "id": 31880,
+  "name": "Fountain of Heroes",
+  "models_2": [
+    1497
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "colours": [
+    [
+      28,
+      8103
+    ],
+    [
+      61,
+      9129
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 2151,
+    "unknown_2": 5
+  },
+  "mapscene": 8
+}

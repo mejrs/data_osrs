@@ -1,0 +1,25 @@
+{
+  "id": 31587,
+  "name": "Table",
+  "models_2": [
+    25055
+  ],
+  "dim_x": 8,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "colours": [
+    [
+      6067,
+      8115
+    ],
+    [
+      5037,
+      8111
+    ]
+  ],
+  "category": 154,
+  "scale_x": 384,
+  "scale_z": 256
+}

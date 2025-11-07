@@ -1,0 +1,21 @@
+{
+  "id": 56614,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Entrance",
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 2191,
+  "scale_x": 280,
+  "scale_y": 512
+}

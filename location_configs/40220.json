@@ -1,0 +1,26 @@
+{
+  "id": 40220,
+  "name": "Broken chair",
+  "models_2": [
+    1242
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Demolish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4886,
+      7954
+    ]
+  ],
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

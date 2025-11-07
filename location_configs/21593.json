@@ -1,0 +1,20 @@
+{
+  "id": 21593,
+  "models": [
+    [
+      22,
+      10155
+    ]
+  ],
+  "name": "Stone ladder",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

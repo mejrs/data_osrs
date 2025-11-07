@@ -1,0 +1,40 @@
+{
+  "id": 29874,
+  "name": "Trough",
+  "models_2": [
+    14206,
+    32531
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      7587,
+      28830
+    ],
+    [
+      7830,
+      28826
+    ],
+    [
+      7954,
+      28950
+    ],
+    [
+      5698,
+      9121
+    ]
+  ],
+  "category": 993
+}

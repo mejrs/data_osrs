@@ -1,0 +1,17 @@
+{
+  "id": 25590,
+  "name": "Boil",
+  "models_2": [
+    7431
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    "Burn-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

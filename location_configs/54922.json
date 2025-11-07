@@ -1,0 +1,47 @@
+{
+  "id": 54922,
+  "name": "Mixing vessel (Alco-augmentator)",
+  "models_2": [
+    54866
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11628,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      48563,
+      23459
+    ],
+    [
+      48547,
+      23454
+    ],
+    [
+      48666,
+      23450
+    ],
+    [
+      61229,
+      26287
+    ],
+    [
+      61223,
+      26283
+    ],
+    [
+      61214,
+      26279
+    ]
+  ],
+  "model": false
+}

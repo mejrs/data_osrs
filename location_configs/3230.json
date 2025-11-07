@@ -1,0 +1,22 @@
+{
+  "id": 3230,
+  "name": "Flat rock",
+  "models_2": [
+    3177
+  ],
+  "unknown_17": false,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      53,
+      6798
+    ]
+  ]
+}

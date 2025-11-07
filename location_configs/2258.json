@@ -1,0 +1,16 @@
+{
+  "id": 2258,
+  "name": "Tomb dolmen",
+  "models_2": [
+    1470
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

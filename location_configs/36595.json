@@ -1,0 +1,15 @@
+{
+  "id": 36595,
+  "name": "Statue",
+  "models_2": [
+    1164
+  ],
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      7326
+    ]
+  ]
+}

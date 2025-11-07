@@ -1,0 +1,20 @@
+{
+  "id": 15515,
+  "models": [
+    [
+      0,
+      25029
+    ]
+  ],
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 14430,
+  "models_2": [
+    13861,
+    13914
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 35,
+  "colours": [
+    [
+      43117,
+      6067
+    ],
+    [
+      61,
+      920
+    ]
+  ],
+  "scale_y": 32,
+  "unknown_73": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": 9668,
+  "name": "Mysterious statue",
+  "models_2": [
+    9543,
+    9544,
+    9545
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20
+}

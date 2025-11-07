@@ -1,0 +1,13 @@
+{
+  "id": 32690,
+  "name": "Verzik Vitur",
+  "models_2": [
+    35189
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 20,
+  "model": false
+}

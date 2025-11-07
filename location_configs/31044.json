@@ -1,0 +1,20 @@
+{
+  "id": 31044,
+  "name": "Blocked volcanic chamber",
+  "models_2": [
+    33546
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_22": true,
+  "unknown_24": 7722,
+  "ambient": 15,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 15
+}

@@ -1,0 +1,35 @@
+{
+  "id": 48304,
+  "name": "Ladder",
+  "models_2": [
+    14537
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": -10,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 45,
+  "colours": [
+    [
+      6930,
+      43034
+    ],
+    [
+      7834,
+      43026
+    ],
+    [
+      7836,
+      43156
+    ]
+  ],
+  "unknown_69": 30,
+  "translate_x": 65523,
+  "mapscene": 69
+}

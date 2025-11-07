@@ -1,0 +1,19 @@
+{
+  "id": 29151,
+  "name": "Mahogany Adventure Log",
+  "models_2": [
+    32161
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27,
+  "translate_y": 65535
+}

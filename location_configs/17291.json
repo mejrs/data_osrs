@@ -1,0 +1,10 @@
+{
+  "id": 17291,
+  "name": "Hoisted sail",
+  "models_2": [
+    17283
+  ],
+  "ambient": 10,
+  "contrast": 20,
+  "mirror": true
+}

@@ -1,0 +1,26 @@
+{
+  "id": 38840,
+  "models": [
+    [
+      0,
+      4874
+    ]
+  ],
+  "name": "Holy Barrier",
+  "unknown_19": 1,
+  "ambient": 100,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      61,
+      39896
+    ]
+  ]
+}

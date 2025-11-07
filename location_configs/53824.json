@@ -1,0 +1,17 @@
+{
+  "id": 53824,
+  "name": "Stone of Jas",
+  "models_2": [
+    53474,
+    53475,
+    53477
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 11164,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "category": 2026,
+  "unknown_69": 30
+}

@@ -1,0 +1,42 @@
+{
+  "id": 19380,
+  "name": "Plant",
+  "models_2": [
+    1643
+  ],
+  "is_transparent": true,
+  "ambient": 40,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      16916
+    ],
+    [
+      49,
+      13840
+    ],
+    [
+      24,
+      14216
+    ],
+    [
+      41,
+      3350
+    ],
+    [
+      37,
+      3346
+    ],
+    [
+      33,
+      3470
+    ]
+  ]
+}

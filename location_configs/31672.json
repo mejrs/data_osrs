@@ -1,0 +1,15 @@
+{
+  "id": 31672,
+  "name": "Roof Entrance",
+  "models_2": [
+    34591
+  ],
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Unlock",
+    null,
+    null,
+    null
+  ]
+}

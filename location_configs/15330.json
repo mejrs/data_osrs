@@ -1,0 +1,19 @@
+{
+  "id": 15330,
+  "models": [
+    [
+      4,
+      12695
+    ]
+  ],
+  "name": "Lighting space",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "translate_y": 1
+}

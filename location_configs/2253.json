@@ -1,0 +1,22 @@
+{
+  "id": 2253,
+  "models": [
+    [
+      10,
+      611
+    ],
+    [
+      1,
+      607
+    ]
+  ],
+  "name": "Tomb exit",
+  "dim_y": 2,
+  "actions": [
+    "Open",
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

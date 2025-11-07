@@ -1,0 +1,19 @@
+{
+  "id": 55991,
+  "name": "Book of Earthen Might",
+  "models_2": [
+    56006
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Reinvigorate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

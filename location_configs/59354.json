@@ -1,0 +1,19 @@
+{
+  "id": 59354,
+  "name": "Shark corpse",
+  "models_2": [
+    57630
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 2317
+}

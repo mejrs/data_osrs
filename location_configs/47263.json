@@ -1,0 +1,12 @@
+{
+  "id": 47263,
+  "name": "A Goblin",
+  "models_2": [
+    47546
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

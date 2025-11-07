@@ -1,0 +1,27 @@
+{
+  "id": 40229,
+  "name": "Campbed",
+  "models_2": [
+    1277
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      4882,
+      7446
+    ],
+    [
+      8286,
+      8406
+    ],
+    [
+      115,
+      5351
+    ]
+  ],
+  "unknown_75": 0
+}

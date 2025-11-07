@@ -1,0 +1,27 @@
+{
+  "id": 27061,
+  "name": "Tree stump",
+  "models_2": [
+    1695
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5388,
+      3470
+    ],
+    [
+      3470,
+      5665
+    ]
+  ],
+  "mapscene": 6
+}

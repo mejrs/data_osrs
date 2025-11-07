@@ -1,0 +1,29 @@
+{
+  "id": 29261,
+  "name": "Volcanic theme",
+  "models_2": [
+    9295
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      33676,
+      0
+    ]
+  ],
+  "category": 206,
+  "scale_x": 160,
+  "scale_y": 128,
+  "scale_z": 160
+}

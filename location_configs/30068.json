@@ -1,0 +1,21 @@
+{
+  "id": 30068,
+  "name": "Medivaemia root",
+  "models_2": [
+    32759,
+    32757
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 6
+}

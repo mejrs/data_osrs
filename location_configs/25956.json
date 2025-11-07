@@ -1,0 +1,17 @@
+{
+  "id": 25956,
+  "name": "Court judge",
+  "models_2": [
+    27389
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 6898,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ]
+}

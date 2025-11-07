@@ -1,0 +1,45 @@
+{
+  "id": 29202,
+  "name": "Mounted Hitpoints Cape",
+  "models_2": [
+    32177
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      43076
+    ],
+    [
+      54183,
+      43092
+    ],
+    [
+      54503,
+      43092
+    ],
+    [
+      960,
+      8305
+    ],
+    [
+      22464,
+      8297
+    ],
+    [
+      43968,
+      8289
+    ]
+  ],
+  "category": 206
+}

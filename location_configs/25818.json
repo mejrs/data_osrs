@@ -1,0 +1,30 @@
+{
+  "id": 25818,
+  "name": "Church organ",
+  "models_2": [
+    1732
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4890,
+      6435
+    ],
+    [
+      4638,
+      6315
+    ],
+    [
+      5904,
+      6554
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 56786,
+  "name": "Plank pile",
+  "models_2": [
+    56985
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -10,
+  "contrast": 15,
+  "colours": [
+    [
+      6932,
+      5772
+    ],
+    [
+      6689,
+      5648
+    ]
+  ]
+}

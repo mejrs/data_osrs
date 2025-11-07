@@ -1,0 +1,16 @@
+{
+  "id": 47206,
+  "name": "Hosidius Rework Display",
+  "models_2": [
+    47583,
+    47526,
+    47558
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

@@ -1,0 +1,19 @@
+{
+  "id": 31554,
+  "name": "Obelisk",
+  "models_2": [
+    34164
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Activate",
+    "Teleport to destination",
+    "Set destination",
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

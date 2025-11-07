@@ -1,0 +1,19 @@
+{
+  "id": 15404,
+  "name": "Sink space",
+  "models_2": [
+    12866
+  ],
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "params": {
+    "430": 2
+  }
+}

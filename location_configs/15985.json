@@ -1,0 +1,26 @@
+{
+  "id": 15985,
+  "name": "Deposit Box",
+  "models_2": [
+    15759
+  ],
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6466,
+      5667
+    ],
+    [
+      5545,
+      5662
+    ]
+  ],
+  "category": 276,
+  "unknown_69": 27
+}

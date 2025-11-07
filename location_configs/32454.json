@@ -1,0 +1,17 @@
+{
+  "id": 32454,
+  "name": "Mushtree",
+  "models_2": [
+    33628
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 84
+}

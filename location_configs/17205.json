@@ -1,0 +1,13 @@
+{
+  "id": 17205,
+  "name": "Gnome crowd",
+  "models_2": [
+    17042,
+    17044,
+    17043,
+    17041
+  ],
+  "dim_x": 3,
+  "unknown_24": 4569,
+  "model": false
+}

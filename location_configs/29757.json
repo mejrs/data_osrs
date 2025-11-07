@@ -1,0 +1,32 @@
+{
+  "id": 29757,
+  "name": "Glowing crystal",
+  "models_2": [
+    32502
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 50,
+  "colours": [
+    [
+      15296,
+      107
+    ],
+    [
+      15273,
+      127
+    ],
+    [
+      15029,
+      123
+    ],
+    [
+      16163,
+      115
+    ]
+  ]
+}

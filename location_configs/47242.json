@@ -1,0 +1,14 @@
+{
+  "id": 47242,
+  "name": "Shooting Star Display",
+  "models_2": [
+    47522
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

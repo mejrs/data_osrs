@@ -1,0 +1,22 @@
+{
+  "id": 32319,
+  "name": "Wreckage",
+  "models_2": [
+    34981
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 7928,
+  "ambient": 20,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "unknown_73": true
+}

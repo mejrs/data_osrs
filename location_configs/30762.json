@@ -1,0 +1,22 @@
+{
+  "id": 30762,
+  "models": [
+    [
+      0,
+      33819
+    ],
+    [
+      1,
+      33813
+    ],
+    [
+      9,
+      33806
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 20,
+  "mapscene": 22
+}

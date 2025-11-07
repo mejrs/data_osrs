@@ -1,0 +1,19 @@
+{
+  "id": 41011,
+  "name": "Damaged totem pole",
+  "models_2": [
+    41867
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 1505
+}

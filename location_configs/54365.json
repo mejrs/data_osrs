@@ -1,0 +1,32 @@
+{
+  "id": 54365,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    "Pick-lock",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      163
+    ],
+    [
+      37,
+      152
+    ]
+  ],
+  "unknown_75": 0
+}

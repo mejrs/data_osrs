@@ -1,0 +1,34 @@
+{
+  "id": 32374,
+  "name": "Debris",
+  "models_2": [
+    34917
+  ],
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      675,
+      794
+    ],
+    [
+      670,
+      8111
+    ],
+    [
+      794,
+      8105
+    ],
+    [
+      666,
+      8099
+    ]
+  ]
+}

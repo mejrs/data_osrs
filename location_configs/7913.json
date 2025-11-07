@@ -1,0 +1,32 @@
+{
+  "id": 7913,
+  "name": "Dead rosemary",
+  "models_2": [
+    7864,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      23849,
+      9112
+    ],
+    [
+      5072,
+      6044
+    ],
+    [
+      443,
+      9098
+    ]
+  ]
+}

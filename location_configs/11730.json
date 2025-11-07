@@ -1,0 +1,17 @@
+{
+  "id": 11730,
+  "name": "Baker's stall",
+  "models_2": [
+    1421,
+    1445
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ]
+}

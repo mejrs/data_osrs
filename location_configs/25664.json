@@ -1,0 +1,18 @@
+{
+  "id": 25664,
+  "name": "Sir Lucan",
+  "models_2": [
+    27126
+  ],
+  "unknown_17": false,
+  "unknown_24": 6912,
+  "ambient": 10,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

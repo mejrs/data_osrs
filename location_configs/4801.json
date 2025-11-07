@@ -1,0 +1,23 @@
+{
+  "id": 4801,
+  "models": [
+    [
+      0,
+      4723
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 10,
+  "contrast": 20,
+  "colours": [
+    [
+      6585,
+      6703
+    ],
+    [
+      5673,
+      5673
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 41595,
+  "models": [
+    [
+      0,
+      5957
+    ],
+    [
+      1,
+      5958
+    ],
+    [
+      2,
+      5959
+    ],
+    [
+      9,
+      5960
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 5,
+  "colours": [
+    [
+      43051,
+      5541
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 165,
+  "scale_z": 128
+}

@@ -1,0 +1,51 @@
+{
+  "id": 54378,
+  "name": "Medical box",
+  "models_2": [
+    52395,
+    54858
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Take-from",
+    "Take-many",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      6443,
+      5400
+    ],
+    [
+      6558,
+      5392
+    ],
+    [
+      7700,
+      5388
+    ],
+    [
+      51,
+      163
+    ],
+    [
+      41,
+      154
+    ],
+    [
+      30,
+      148
+    ]
+  ],
+  "category": 2074,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100
+}

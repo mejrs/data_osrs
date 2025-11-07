@@ -1,0 +1,19 @@
+{
+  "id": 17246,
+  "name": "Oaknock's Machine",
+  "models_2": [
+    17087
+  ],
+  "unknown_19": 1,
+  "unknown_24": 4561,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65506
+}

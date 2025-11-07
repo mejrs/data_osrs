@@ -1,0 +1,18 @@
+{
+  "id": 47601,
+  "name": "Tendril",
+  "models_2": [
+    49295
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Quick-escape"
+  ],
+  "category": 1814
+}

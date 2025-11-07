@@ -1,0 +1,13 @@
+{
+  "id": 24102,
+  "name": "Fountain",
+  "models_2": [
+    11566
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 10,
+  "category": 244,
+  "model": false
+}

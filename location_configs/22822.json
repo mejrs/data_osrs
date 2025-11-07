@@ -1,0 +1,12 @@
+{
+  "id": 22822,
+  "name": "Bank safe",
+  "models_2": [
+    23322
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "scale_x": 115
+}

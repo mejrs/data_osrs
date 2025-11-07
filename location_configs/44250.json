@@ -1,0 +1,29 @@
+{
+  "id": 44250,
+  "models_2": [
+    40772
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      7626,
+      8375
+    ],
+    [
+      6470,
+      7362
+    ],
+    [
+      6480,
+      7357
+    ]
+  ],
+  "model": false,
+  "mapscene": 11
+}

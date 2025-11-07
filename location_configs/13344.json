@@ -1,0 +1,19 @@
+{
+  "id": 13344,
+  "models": [
+    [
+      0,
+      12206
+    ]
+  ],
+  "name": "Door",
+  "actions": [
+    "Open",
+    "Pick-lock",
+    "Force",
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "translate_y": 1
+}

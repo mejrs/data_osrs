@@ -1,0 +1,24 @@
+{
+  "id": 59691,
+  "name": "Keg (empty)",
+  "models_2": [
+    58229
+  ],
+  "is_transparent": true,
+  "ambient": 5,
+  "actions": [
+    "Check",
+    "Fill",
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      54203,
+      55
+    ]
+  ],
+  "unknown_69": 27
+}

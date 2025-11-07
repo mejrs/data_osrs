@@ -1,0 +1,26 @@
+{
+  "id": 2583,
+  "models": [
+    [
+      4,
+      57467
+    ]
+  ],
+  "name": "Fungus covered Cavern wall",
+  "unknown_19": 1,
+  "ambient": 50,
+  "actions": [
+    null,
+    "Search",
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      6689,
+      22428
+    ]
+  ]
+}

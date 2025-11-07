@@ -1,0 +1,11 @@
+{
+  "id": 31913,
+  "name": "Achievement diary display",
+  "models_2": [
+    34571
+  ],
+  "dim_x": 2,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 20
+}

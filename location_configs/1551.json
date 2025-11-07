@@ -1,0 +1,22 @@
+{
+  "id": 1551,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "translate_y": 1,
+  "unknown_75": 0
+}

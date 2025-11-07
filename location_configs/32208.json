@@ -1,0 +1,21 @@
+{
+  "id": 32208,
+  "models": [
+    [
+      0,
+      26771
+    ]
+  ],
+  "name": "Mithril door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

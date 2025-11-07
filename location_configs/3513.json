@@ -1,0 +1,16 @@
+{
+  "id": 3513,
+  "name": "Golden pear bush",
+  "models_2": [
+    3603
+  ],
+  "unknown_17": false,
+  "unknown_24": 1097,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ]
+}

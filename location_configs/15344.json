@@ -1,0 +1,15 @@
+{
+  "id": 15344,
+  "name": "Stone space",
+  "models_2": [
+    12885
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

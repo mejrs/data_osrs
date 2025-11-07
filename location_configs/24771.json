@@ -1,0 +1,19 @@
+{
+  "id": 24771,
+  "name": "Rupert",
+  "models_2": [
+    26062
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 6509,
+  "ambient": 20,
+  "actions": [
+    "Talk-to",
+    null,
+    "Climb-down",
+    null,
+    null
+  ],
+  "contrast": 10
+}

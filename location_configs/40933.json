@@ -1,0 +1,30 @@
+{
+  "id": 40933,
+  "name": "Evergreen tree",
+  "models_2": [
+    1611
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      3470,
+      5665
+    ]
+  ],
+  "category": 189,
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "unknown_81": 80,
+  "mapscene": 0
+}

@@ -1,0 +1,48 @@
+{
+  "id": 16657,
+  "name": "Furnace",
+  "models_2": [
+    11546
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Smelt",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      44994,
+      17682
+    ],
+    [
+      18,
+      18712
+    ],
+    [
+      20,
+      21790
+    ],
+    [
+      12,
+      21908
+    ],
+    [
+      28,
+      21667
+    ],
+    [
+      37,
+      16677
+    ]
+  ],
+  "category": 215,
+  "unknown_78": {
+    "unknown_1": 2210,
+    "unknown_2": 3
+  }
+}

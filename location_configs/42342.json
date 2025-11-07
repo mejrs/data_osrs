@@ -1,0 +1,15 @@
+{
+  "id": 42342,
+  "name": "Kourend sigil",
+  "models_2": [
+    31130
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3500,
+  "name": "Church organ",
+  "models_2": [
+    1732
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 64,
+  "scale_y": 76,
+  "scale_z": 64
+}

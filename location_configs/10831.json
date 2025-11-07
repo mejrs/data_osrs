@@ -1,0 +1,28 @@
+{
+  "id": 10831,
+  "name": "Willow tree",
+  "models_2": [
+    5528
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5786,
+      8598
+    ]
+  ],
+  "category": 286,
+  "mirror": true,
+  "unknown_81": 80,
+  "mapscene": 3
+}

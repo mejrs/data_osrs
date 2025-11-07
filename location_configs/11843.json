@@ -1,0 +1,17 @@
+{
+  "id": 11843,
+  "name": "Open hot vent door",
+  "models_2": [
+    9291
+  ],
+  "unknown_21": true,
+  "unknown_24": 2598,
+  "unknown_27": false,
+  "colours": [
+    [
+      33676,
+      0
+    ]
+  ],
+  "model": false
+}

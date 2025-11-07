@@ -1,0 +1,26 @@
+{
+  "id": 10943,
+  "name": "Copper rocks",
+  "models_2": [
+    1390
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      24,
+      4645
+    ]
+  ],
+  "category": 196,
+  "mapscene": 144
+}

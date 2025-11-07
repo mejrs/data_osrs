@@ -1,0 +1,12 @@
+{
+  "id": 57787,
+  "name": "Baker's stall",
+  "models_2": [
+    58854,
+    1445
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 15
+}

@@ -1,0 +1,26 @@
+{
+  "id": 56690,
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "unknown_69": 27,
+  "morphs_2": {
+    "varbit": 16677,
+    "ids": [
+      56692,
+      56692,
+      56692
+    ],
+    "default": 56691
+  }
+}

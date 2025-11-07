@@ -1,0 +1,25 @@
+{
+  "id": 55216,
+  "models": [
+    [
+      4,
+      54919
+    ]
+  ],
+  "name": "Magic engraving",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 60,
+  "contrast": 60,
+  "colours": [
+    [
+      315,
+      39225
+    ],
+    [
+      968,
+      39880
+    ]
+  ],
+  "category": 2083
+}

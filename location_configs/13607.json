@@ -1,0 +1,17 @@
+{
+  "id": 13607,
+  "name": "Herman's desk",
+  "models_2": [
+    10715
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 17959,
+  "name": "Rock",
+  "models_2": [
+    17338
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      26780,
+      32910
+    ]
+  ],
+  "mirror": true,
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128,
+  "translate_y": 65516
+}

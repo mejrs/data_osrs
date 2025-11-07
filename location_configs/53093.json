@@ -1,0 +1,9 @@
+{
+  "id": 53093,
+  "name": "Giant display egg",
+  "models_2": [
+    53077
+  ],
+  "ambient": 10,
+  "contrast": 75
+}

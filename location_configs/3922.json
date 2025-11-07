@@ -1,0 +1,17 @@
+{
+  "id": 3922,
+  "name": "Sticks",
+  "models_2": [
+    3984
+  ],
+  "dim_x": 3,
+  "unknown_17": false,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65529
+}

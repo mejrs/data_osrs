@@ -1,0 +1,16 @@
+{
+  "id": 19987,
+  "name": "Growing vine",
+  "models_2": [
+    20073
+  ],
+  "dim_x": 2,
+  "ambient": 20,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ]
+}

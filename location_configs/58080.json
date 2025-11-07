@@ -1,0 +1,11 @@
+{
+  "id": 58080,
+  "name": "Bar pumps",
+  "models_2": [
+    58755
+  ],
+  "is_transparent": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 15
+}

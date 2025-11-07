@@ -1,0 +1,17 @@
+{
+  "id": 4093,
+  "name": "Funeral Pyre",
+  "models_2": [
+    4138
+  ],
+  "dim_y": 3,
+  "unknown_24": 1303,
+  "actions": [
+    "Build",
+    null,
+    null,
+    "Hidden",
+    null
+  ],
+  "mapscene": 37
+}

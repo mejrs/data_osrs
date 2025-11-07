@@ -1,0 +1,28 @@
+{
+  "id": 54720,
+  "models": [
+    [
+      22,
+      9235
+    ]
+  ],
+  "name": "Loose rocks",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 35,
+  "actions": [
+    "Navigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      6689,
+      8483
+    ]
+  ]
+}

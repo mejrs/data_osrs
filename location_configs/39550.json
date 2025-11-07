@@ -1,0 +1,16 @@
+{
+  "id": 39550,
+  "name": "Death's Coffer",
+  "models_2": [
+    40609
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Sacrifice",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 970,
+  "models": [
+    [
+      4,
+      2111
+    ]
+  ],
+  "name": "Plaque",
+  "unknown_19": 1,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      8128
+    ]
+  ]
+}

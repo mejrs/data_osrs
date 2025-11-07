@@ -1,0 +1,19 @@
+{
+  "id": 56943,
+  "name": "Cart",
+  "models_2": [
+    57044
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

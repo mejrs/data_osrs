@@ -1,0 +1,19 @@
+{
+  "id": 7227,
+  "name": "Floor",
+  "models_2": [
+    7603
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 1112,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Search"
+  ],
+  "translate_y": 65535,
+  "unknown_73": true
+}

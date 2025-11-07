@@ -1,0 +1,12 @@
+{
+  "id": 57103,
+  "name": "Buffalo totem",
+  "models_2": [
+    56989
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15
+}

@@ -1,0 +1,19 @@
+{
+  "id": 60475,
+  "name": "Mercenary shipwreck",
+  "models_2": [
+    58893
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 13617,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 20,
+  "category": 2348,
+  "model": false,
+  "unknown_89": false,
+  "unknown_90": true
+}

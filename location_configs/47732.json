@@ -1,0 +1,15 @@
+{
+  "id": 47732,
+  "name": "Grate",
+  "models_2": [
+    32376
+  ],
+  "dim_x": 7,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": -50,
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160
+}

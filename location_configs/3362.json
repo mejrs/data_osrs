@@ -1,0 +1,18 @@
+{
+  "id": 3362,
+  "models": [
+    [
+      4,
+      2032
+    ]
+  ],
+  "name": "Window",
+  "ambient": 50,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

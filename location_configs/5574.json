@@ -1,0 +1,12 @@
+{
+  "id": 5574,
+  "name": "Sack",
+  "models_2": [
+    5494
+  ],
+  "ambient": 40,
+  "category": 220,
+  "scale_x": 125,
+  "scale_y": 125,
+  "scale_z": 125
+}

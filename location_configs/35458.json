@@ -1,0 +1,19 @@
+{
+  "id": 35458,
+  "name": "Seal of Hefin",
+  "models_2": [
+    38333,
+    38328
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 44
+}

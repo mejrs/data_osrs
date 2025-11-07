@@ -1,0 +1,15 @@
+{
+  "id": 9395,
+  "name": "Box trap",
+  "models_2": [
+    19904,
+    19907
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 5176,
+  "ambient": 25,
+  "contrast": 25,
+  "category": 194,
+  "unknown_75": 0
+}

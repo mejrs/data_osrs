@@ -1,0 +1,17 @@
+{
+  "id": 6180,
+  "name": "Cooking Pots",
+  "models_2": [
+    4646
+  ],
+  "colours": [
+    [
+      61,
+      43051
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_y": 65535
+}

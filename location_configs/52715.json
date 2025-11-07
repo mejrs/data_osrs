@@ -1,0 +1,23 @@
+{
+  "id": 52715,
+  "name": "Statue of Quoatlos",
+  "models_2": [
+    52317
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "scale_x": 260,
+  "scale_y": 260,
+  "scale_z": 260
+}

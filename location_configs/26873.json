@@ -1,0 +1,25 @@
+{
+  "id": 26873,
+  "name": "Rocks",
+  "models_2": [
+    1390
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      6589
+    ]
+  ],
+  "category": 767,
+  "mapscene": 24
+}

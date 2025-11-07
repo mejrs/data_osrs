@@ -1,0 +1,30 @@
+{
+  "id": 58663,
+  "name": "Bank chest",
+  "models_2": [
+    21969
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Bank",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      47,
+      6856
+    ],
+    [
+      61,
+      6862
+    ]
+  ],
+  "unknown_69": 27
+}

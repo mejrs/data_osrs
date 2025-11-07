@@ -1,0 +1,15 @@
+{
+  "id": 39919,
+  "name": "Wardrobe",
+  "models_2": [
+    11127
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ]
+}

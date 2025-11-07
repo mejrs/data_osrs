@@ -1,0 +1,16 @@
+{
+  "id": 16217,
+  "name": "Potion shelves",
+  "models_2": [
+    16125
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

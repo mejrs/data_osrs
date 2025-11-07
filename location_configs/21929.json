@@ -1,0 +1,25 @@
+{
+  "id": 21929,
+  "models": [
+    [
+      0,
+      18595
+    ],
+    [
+      2,
+      35759
+    ]
+  ],
+  "name": "Tower door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "mapscene": 22
+}

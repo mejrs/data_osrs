@@ -1,0 +1,25 @@
+{
+  "id": 59295,
+  "name": "Thorns",
+  "models_2": [
+    11713
+  ],
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      9519,
+      31037
+    ]
+  ],
+  "category": 2317,
+  "model": false
+}

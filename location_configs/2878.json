@@ -1,0 +1,22 @@
+{
+  "id": 2878,
+  "name": "Sparkling pool",
+  "models_2": [
+    691
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Step-into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 196,
+  "scale_z": 196,
+  "unknown_78": {
+    "unknown_1": 2149,
+    "unknown_2": 3
+  }
+}

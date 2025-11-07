@@ -1,0 +1,32 @@
+{
+  "id": 41545,
+  "name": "Preparation Table",
+  "models_2": [
+    42040
+  ],
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Prepare-fish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      103,
+      54342
+    ],
+    [
+      127,
+      70
+    ],
+    [
+      5210,
+      5198
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 58755,
+  "name": "Ironwood tree stump",
+  "models_2": [
+    58658,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 20
+}

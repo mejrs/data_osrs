@@ -1,0 +1,18 @@
+{
+  "id": 29327,
+  "name": "Bank Deposit Box",
+  "models_2": [
+    32251
+  ],
+  "ambient": 25,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 276,
+  "unknown_69": 27
+}

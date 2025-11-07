@@ -1,0 +1,24 @@
+{
+  "id": 7956,
+  "name": "Dead apple tree",
+  "models_2": [
+    7916,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      7068,
+      10508
+    ]
+  ]
+}

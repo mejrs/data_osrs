@@ -1,0 +1,34 @@
+{
+  "id": 26644,
+  "name": "Challenge portal",
+  "models_2": [
+    10734,
+    11233
+  ],
+  "dim_x": 4,
+  "unknown_21": true,
+  "unknown_24": 3174,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    "Join",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      20,
+      28
+    ],
+    [
+      947,
+      0
+    ]
+  ],
+  "category": 747,
+  "scale_x": 88,
+  "unknown_69": 30,
+  "translate_x": 65506,
+  "mapscene": 64
+}

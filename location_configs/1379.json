@@ -1,0 +1,20 @@
+{
+  "id": 1379,
+  "name": "Hollow log",
+  "models_2": [
+    1594
+  ],
+  "dim_x": 2,
+  "ambient": 15,
+  "contrast": 20,
+  "colours": [
+    [
+      4537,
+      5388
+    ],
+    [
+      4531,
+      5388
+    ]
+  ]
+}

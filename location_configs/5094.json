@@ -1,0 +1,20 @@
+{
+  "id": 5094,
+  "models": [
+    [
+      4,
+      25166
+    ]
+  ],
+  "name": "Combat Scroll",
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mirror": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": 34860,
+  "name": "Strange passage",
+  "models_2": [
+    37307
+  ],
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      21534,
+      49
+    ],
+    [
+      21530,
+      41
+    ],
+    [
+      21526,
+      33
+    ],
+    [
+      21522,
+      24
+    ],
+    [
+      21646,
+      16
+    ],
+    [
+      21642,
+      8
+    ]
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 57335,
+  "name": "Potted plant",
+  "models_2": [
+    56551
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 30,
+  "contrast": 15
+}

@@ -1,0 +1,14 @@
+{
+  "id": 50300,
+  "name": "Green block",
+  "models_2": [
+    50290
+  ],
+  "unknown_19": 1,
+  "unknown_24": 10756,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 40,
+  "category": 1901,
+  "unknown_89": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 55247,
+  "name": "Cave entrance",
+  "models_2": [
+    54472,
+    54471
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 11684,
+  "ambient": 0,
+  "contrast": 30,
+  "colours": [
+    [
+      65426,
+      898
+    ]
+  ],
+  "category": 2084,
+  "translate_y": 65534,
+  "unknown_89": false
+}

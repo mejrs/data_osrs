@@ -1,0 +1,31 @@
+{
+  "id": 43710,
+  "name": "Guardian of Cosmic",
+  "models_2": [
+    43995,
+    43986
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 9362,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    "Toggle-talisman",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      962,
+      11200
+    ]
+  ],
+  "category": 1616,
+  "model": false,
+  "translate_y": 65535
+}

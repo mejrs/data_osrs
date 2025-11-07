@@ -1,0 +1,30 @@
+{
+  "id": 43499,
+  "name": "Group storage",
+  "models_2": [
+    29746
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14499,
+      7725
+    ],
+    [
+      12698,
+      6817
+    ],
+    [
+      12818,
+      6812
+    ]
+  ],
+  "unknown_69": 27
+}

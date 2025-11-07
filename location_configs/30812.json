@@ -1,0 +1,11 @@
+{
+  "id": 30812,
+  "name": "Reinforced crate",
+  "models_2": [
+    33920
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20
+}

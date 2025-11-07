@@ -1,0 +1,34 @@
+{
+  "id": 4904,
+  "name": "Catapult",
+  "models_2": [
+    4448,
+    4449
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 1431,
+  "ambient": 40,
+  "contrast": 40,
+  "colours": [
+    [
+      37,
+      24
+    ],
+    [
+      7700,
+      3346
+    ],
+    [
+      8076,
+      3346
+    ],
+    [
+      53,
+      3239
+    ]
+  ],
+  "mapscene": 30
+}

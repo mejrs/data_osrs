@@ -1,0 +1,21 @@
+{
+  "id": 41028,
+  "name": "Banner stand space",
+  "models_2": [
+    41696
+  ],
+  "unknown_19": 1,
+  "ambient": 100,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "params": {
+    "429": 1,
+    "430": 1
+  }
+}

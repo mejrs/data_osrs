@@ -1,0 +1,22 @@
+{
+  "id": 56744,
+  "models_2": [
+    12040
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -20,
+  "contrast": 20,
+  "unknown_79": {
+    "unknown_1": 400,
+    "unknown_2": 600,
+    "unknown_3": 4,
+    "values": [
+      2152,
+      3080,
+      3081,
+      2411
+    ]
+  }
+}

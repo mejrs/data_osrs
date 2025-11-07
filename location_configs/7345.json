@@ -1,0 +1,17 @@
+{
+  "id": 7345,
+  "name": "Open Door",
+  "models_2": [
+    7706
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Walk-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 28655,
+  "models": [
+    [
+      0,
+      1325
+    ],
+    [
+      2,
+      1326
+    ],
+    [
+      9,
+      1327
+    ]
+  ],
+  "name": "Fence",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false
+}

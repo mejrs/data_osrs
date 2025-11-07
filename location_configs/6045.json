@@ -1,0 +1,14 @@
+{
+  "id": 6045,
+  "name": "Mine cart",
+  "models_2": [
+    1398
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

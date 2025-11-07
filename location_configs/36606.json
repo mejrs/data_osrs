@@ -1,0 +1,23 @@
+{
+  "id": 36606,
+  "name": "Cooking Pots",
+  "models_2": [
+    4646
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      43051
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100
+}

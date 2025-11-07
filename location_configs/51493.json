@@ -1,0 +1,20 @@
+{
+  "id": 51493,
+  "models": [
+    [
+      0,
+      50706
+    ],
+    [
+      4,
+      50707
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 2054,
+  "ambient": 50,
+  "contrast": 10,
+  "mapscene": 12
+}

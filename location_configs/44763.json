@@ -1,0 +1,15 @@
+{
+  "id": 44763,
+  "name": "Belt system",
+  "models_2": [
+    44815
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 9446,
+  "contrast": 120,
+  "model": false,
+  "translate_x": 15,
+  "translate_y": 20
+}

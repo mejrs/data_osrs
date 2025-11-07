@@ -1,0 +1,14 @@
+{
+  "id": 56625,
+  "name": "Broken keystone",
+  "models_2": [
+    57054
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "contrast": 50,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10503,
+  "name": "Pile of bricks",
+  "models_2": [
+    4476
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "colours": [
+    [
+      21526,
+      7481
+    ]
+  ]
+}

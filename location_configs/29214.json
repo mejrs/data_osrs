@@ -1,0 +1,45 @@
+{
+  "id": 29214,
+  "name": "Mounted Runecrafting Cape",
+  "models_2": [
+    32192
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      10332
+    ],
+    [
+      54183,
+      10316
+    ],
+    [
+      54503,
+      10308
+    ],
+    [
+      960,
+      10332
+    ],
+    [
+      22464,
+      10324
+    ],
+    [
+      43968,
+      10316
+    ]
+  ],
+  "category": 206
+}

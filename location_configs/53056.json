@@ -1,0 +1,32 @@
+{
+  "id": 53056,
+  "models": [
+    [
+      4,
+      5264
+    ],
+    [
+      22,
+      5263
+    ]
+  ],
+  "name": "Pile of chocolate",
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      20785,
+      4775
+    ],
+    [
+      20797,
+      4760
+    ]
+  ]
+}

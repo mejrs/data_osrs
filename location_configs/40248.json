@@ -1,0 +1,13 @@
+{
+  "id": 40248,
+  "name": "<col=ffff00>Baby Mole",
+  "models_2": [
+    42012
+  ],
+  "unknown_24": 3309,
+  "ambient": 30,
+  "contrast": 30,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80
+}

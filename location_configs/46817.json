@@ -1,0 +1,22 @@
+{
+  "id": 46817,
+  "models": [
+    [
+      0,
+      47195
+    ]
+  ],
+  "name": "Broken fence",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 7,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 7,
+  "model": false
+}

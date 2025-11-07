@@ -1,0 +1,17 @@
+{
+  "id": 20813,
+  "name": "Control panel",
+  "models_2": [
+    14946
+  ],
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 30
+}

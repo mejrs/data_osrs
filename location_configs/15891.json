@@ -1,0 +1,20 @@
+{
+  "id": 15891,
+  "name": "Bamboo Ladder",
+  "models_2": [
+    15746
+  ],
+  "colours": [
+    [
+      6585,
+      6689
+    ],
+    [
+      5673,
+      5912
+    ]
+  ],
+  "mirror": true,
+  "unknown_69": 29,
+  "translate_x": 64
+}

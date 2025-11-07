@@ -1,0 +1,18 @@
+{
+  "id": 34918,
+  "name": "Crystal tree",
+  "models_2": [
+    37356,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 30,
+  "actions": [
+    "Chop-down",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

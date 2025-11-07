@@ -1,0 +1,20 @@
+{
+  "id": 15966,
+  "name": "Bitternut Tree",
+  "models_2": [
+    15789,
+    15788
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 4245,
+  "ambient": 30,
+  "colours": [
+    [
+      6932,
+      41377
+    ]
+  ],
+  "unknown_69": 23,
+  "mapscene": 5
+}

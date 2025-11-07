@@ -1,0 +1,22 @@
+{
+  "id": 6795,
+  "name": "Workbench",
+  "models_2": [
+    12188,
+    10559,
+    12186
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Work-at",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27,
+  "params": {
+    "23": 99
+  }
+}

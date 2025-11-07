@@ -1,0 +1,17 @@
+{
+  "id": 48919,
+  "name": "Rope",
+  "models_2": [
+    1487
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29,
+  "mapscene": 69
+}

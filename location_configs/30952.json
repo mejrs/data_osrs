@@ -1,0 +1,19 @@
+{
+  "id": 30952,
+  "name": "Drift net anchors",
+  "models_2": [
+    33785
+  ],
+  "dim_x": 5,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Set up",
+    null,
+    null,
+    null,
+    null
+  ]
+}

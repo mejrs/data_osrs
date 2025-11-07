@@ -1,0 +1,47 @@
+{
+  "id": 49957,
+  "name": "Trophy pedestal",
+  "models_2": [
+    41707,
+    41712
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    "Remove-trophy",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      48476,
+      9152
+    ],
+    [
+      48941,
+      35
+    ],
+    [
+      48918,
+      65436
+    ],
+    [
+      52160,
+      4032
+    ],
+    [
+      51887,
+      65455
+    ]
+  ],
+  "category": 206,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
+}

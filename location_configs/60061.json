@@ -1,0 +1,26 @@
+{
+  "id": 60061,
+  "name": "Table",
+  "models_2": [
+    39804
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      66,
+      21545
+    ],
+    [
+      61,
+      21534
+    ],
+    [
+      57,
+      21526
+    ]
+  ],
+  "category": 154
+}

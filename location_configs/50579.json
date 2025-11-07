@@ -1,0 +1,15 @@
+{
+  "id": 50579,
+  "models": [
+    [
+      22,
+      50214
+    ]
+  ],
+  "name": "Puddle",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 10743,
+  "ambient": 0,
+  "contrast": 40
+}

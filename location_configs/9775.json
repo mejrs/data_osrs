@@ -1,0 +1,17 @@
+{
+  "id": 9775,
+  "name": "Light door",
+  "models_2": [
+    9723
+  ],
+  "unknown_24": 2746,
+  "ambient": 100,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100
+}

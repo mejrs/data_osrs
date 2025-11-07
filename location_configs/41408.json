@@ -1,0 +1,16 @@
+{
+  "id": 41408,
+  "name": "Bailing buckets",
+  "models_2": [
+    41534
+  ],
+  "ambient": 10,
+  "actions": [
+    "Take",
+    "Take-5",
+    "Take-10",
+    "Take-X",
+    null
+  ],
+  "contrast": 15
+}

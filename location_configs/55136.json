@@ -1,0 +1,11 @@
+{
+  "id": 55136,
+  "name": "Termite mound",
+  "models_2": [
+    54518
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 30
+}

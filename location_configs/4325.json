@@ -1,0 +1,33 @@
+{
+  "id": 4325,
+  "models": [
+    [
+      0,
+      1003
+    ],
+    [
+      1,
+      1004
+    ],
+    [
+      2,
+      1005
+    ],
+    [
+      3,
+      1006
+    ],
+    [
+      9,
+      1007
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_28": 32,
+  "textures": {
+    "47": 46
+  }
+}

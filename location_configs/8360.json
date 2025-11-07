@@ -1,0 +1,27 @@
+{
+  "id": 8360,
+  "name": "Diseased Spirit Tree",
+  "models_2": [
+    8114,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    null,
+    "Inspect",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      5656,
+      10776
+    ]
+  ],
+  "textures": {
+    "8": 41
+  }
+}

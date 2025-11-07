@@ -1,0 +1,12 @@
+{
+  "id": 31969,
+  "name": "Crystal",
+  "models_2": [
+    30685
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "mapscene": 79
+}

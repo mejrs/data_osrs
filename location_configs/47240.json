@@ -1,0 +1,17 @@
+{
+  "id": 47240,
+  "name": "Archway",
+  "models_2": [
+    41024,
+    41008,
+    41025
+  ],
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 8790,
+  "unknown_27": false,
+  "ambient": 40,
+  "contrast": 10,
+  "mapscene": 14
+}

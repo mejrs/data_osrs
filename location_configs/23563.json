@@ -1,0 +1,21 @@
+{
+  "id": 23563,
+  "name": "Pile of rubble",
+  "models_2": [
+    1411
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7064,
+      7721
+    ]
+  ]
+}

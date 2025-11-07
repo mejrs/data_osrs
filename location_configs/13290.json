@@ -1,0 +1,15 @@
+{
+  "id": 13290,
+  "name": "Mahogany chest",
+  "models_2": [
+    11205
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 206
+}

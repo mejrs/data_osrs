@@ -1,0 +1,13 @@
+{
+  "id": 31046,
+  "name": "Depleted Rock",
+  "models_2": [
+    33528
+  ],
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

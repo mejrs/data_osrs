@@ -1,0 +1,21 @@
+{
+  "id": 3267,
+  "models": [
+    [
+      0,
+      969
+    ],
+    [
+      9,
+      970
+    ]
+  ],
+  "name": "Cage",
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

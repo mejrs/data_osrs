@@ -1,0 +1,15 @@
+{
+  "id": 13286,
+  "name": "Oak chest",
+  "models_2": [
+    12147
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 206
+}

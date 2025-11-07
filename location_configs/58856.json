@@ -1,0 +1,35 @@
+{
+  "id": 58856,
+  "name": "Diseased Hemp",
+  "models_2": [
+    59769,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21797,
+      10776
+    ],
+    [
+      21805,
+      10659
+    ],
+    [
+      61883,
+      61615
+    ],
+    [
+      21788,
+      10776
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 33441,
+  "name": "Scrying orb",
+  "models_2": [
+    36085
+  ],
+  "is_transparent": true,
+  "unknown_24": 1638,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Scry",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_78": {
+    "unknown_1": 2149,
+    "unknown_2": 3
+  }
+}

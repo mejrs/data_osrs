@@ -1,0 +1,47 @@
+{
+  "id": 15731,
+  "models": [
+    [
+      0,
+      15536
+    ]
+  ],
+  "name": "Crack",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7463,
+      6558
+    ],
+    [
+      7587,
+      6682
+    ],
+    [
+      7582,
+      6806
+    ],
+    [
+      7706,
+      6930
+    ],
+    [
+      7830,
+      7054
+    ],
+    [
+      7954,
+      6028
+    ]
+  ]
+}

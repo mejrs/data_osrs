@@ -1,0 +1,21 @@
+{
+  "id": 57667,
+  "models": [
+    [
+      0,
+      57330
+    ]
+  ],
+  "name": "Zip line",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Teeth-grip",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

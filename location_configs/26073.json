@@ -1,0 +1,16 @@
+{
+  "id": 26073,
+  "name": "Statue",
+  "models_2": [
+    27453
+  ],
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

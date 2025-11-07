@@ -1,0 +1,18 @@
+{
+  "id": 2607,
+  "name": "Hopper controls",
+  "models_2": [
+    25318
+  ],
+  "ambient": 20,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 986,
+  "unknown_69": 27
+}

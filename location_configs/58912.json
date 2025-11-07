@@ -1,0 +1,21 @@
+{
+  "id": 58912,
+  "name": "Crab trap (full)",
+  "models_2": [
+    59783,
+    59786
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Empty",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2309
+}

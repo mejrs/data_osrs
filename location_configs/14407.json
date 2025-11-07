@@ -1,0 +1,11 @@
+{
+  "id": 14407,
+  "name": "Zip line",
+  "models_2": [
+    5137
+  ],
+  "dim_y": 3,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 10
+}

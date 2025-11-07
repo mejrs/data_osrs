@@ -1,0 +1,15 @@
+{
+  "id": 38062,
+  "models": [
+    [
+      0,
+      40404
+    ]
+  ],
+  "name": "Mausoleum door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 15
+}

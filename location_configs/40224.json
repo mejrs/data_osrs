@@ -1,0 +1,15 @@
+{
+  "id": 40224,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "morphs_2": {
+    "varbit": 10567,
+    "ids": [
+      7446,
+      40226,
+      40227
+    ],
+    "default": 40228
+  }
+}

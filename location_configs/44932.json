@@ -1,0 +1,33 @@
+{
+  "id": 44932,
+  "name": "Portal",
+  "models_2": [
+    2318
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 504,
+  "unknown_27": false,
+  "ambient": 100,
+  "actions": [
+    "Use",
+    "Exit",
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      11218,
+      30622
+    ]
+  ],
+  "scale_x": 96,
+  "scale_z": 96,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 5
+  },
+  "mapscene": 64
+}

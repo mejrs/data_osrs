@@ -1,0 +1,21 @@
+{
+  "id": 31045,
+  "name": "Large Rock",
+  "models_2": [
+    33529
+  ],
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "mapscene": 12
+}

@@ -1,0 +1,24 @@
+{
+  "id": 25761,
+  "models": [
+    [
+      4,
+      23881
+    ]
+  ],
+  "name": "Blacksmith's tools",
+  "unknown_19": 1,
+  "ambient": 40,
+  "contrast": 20,
+  "colours": [
+    [
+      7830,
+      6554
+    ],
+    [
+      7582,
+      6435
+    ]
+  ],
+  "translate_y": 30
+}

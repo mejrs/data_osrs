@@ -1,0 +1,22 @@
+{
+  "id": 56088,
+  "models": [
+    [
+      0,
+      56080
+    ]
+  ],
+  "name": "Shuttered window",
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "scale_y": 120,
+  "translate_y": 1
+}

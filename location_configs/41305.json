@@ -1,0 +1,19 @@
+{
+  "id": 41305,
+  "name": "Rope ladder",
+  "models_2": [
+    41849
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Climb",
+    "Quick-climb",
+    "Solo-start",
+    null,
+    null
+  ],
+  "contrast": 20
+}

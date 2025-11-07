@@ -1,0 +1,22 @@
+{
+  "id": 25377,
+  "models": [
+    [
+      4,
+      7456
+    ]
+  ],
+  "name": "Soul rift",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 2178,
+  "ambient": 50,
+  "actions": [
+    "Exit-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50
+}

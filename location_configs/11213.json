@@ -1,0 +1,22 @@
+{
+  "id": 11213,
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Load",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29,
+  "morphs_1": {
+    "varbit": 1741,
+    "ids": [
+      11214,
+      11215,
+      11216,
+      11217
+    ]
+  }
+}

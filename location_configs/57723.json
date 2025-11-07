@@ -1,0 +1,22 @@
+{
+  "id": 57723,
+  "name": "Energy Barrier",
+  "models_2": [
+    5397
+  ],
+  "ambient": 100,
+  "actions": [
+    null,
+    null,
+    null,
+    "Pass",
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      61,
+      20797
+    ]
+  ]
+}

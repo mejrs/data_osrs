@@ -1,0 +1,30 @@
+{
+  "id": 8250,
+  "name": "Diseased Jute",
+  "models_2": [
+    7878,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      21813,
+      6445
+    ],
+    [
+      21821,
+      6453
+    ],
+    [
+      15822,
+      6461
+    ]
+  ]
+}

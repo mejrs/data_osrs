@@ -1,0 +1,16 @@
+{
+  "id": 40431,
+  "name": "Ornate dragon combat dummy",
+  "models_2": [
+    41144
+  ],
+  "ambient": 25,
+  "actions": [
+    "Attach",
+    null,
+    null,
+    "Swap",
+    "Remove"
+  ],
+  "category": 206
+}

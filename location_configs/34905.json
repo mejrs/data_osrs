@@ -1,0 +1,17 @@
+{
+  "id": 34905,
+  "name": "Fog marker",
+  "models_2": [
+    32936
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 502,
+  "colours": [
+    [
+      10349,
+      5353
+    ]
+  ],
+  "scale_y": 80
+}

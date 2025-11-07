@@ -1,0 +1,34 @@
+{
+  "id": 9433,
+  "name": "Table",
+  "models_2": [
+    1213,
+    9411,
+    9409
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      127,
+      7060
+    ],
+    [
+      8094,
+      5008
+    ],
+    [
+      937,
+      7060
+    ]
+  ]
+}

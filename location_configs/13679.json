@@ -1,0 +1,19 @@
+{
+  "id": 13679,
+  "models": [
+    [
+      22,
+      12607
+    ]
+  ],
+  "name": "Teak trapdoor",
+  "unknown_27": false,
+  "actions": [
+    "Go-down",
+    "Close",
+    null,
+    "Remove-room",
+    "Remove"
+  ],
+  "category": 206
+}

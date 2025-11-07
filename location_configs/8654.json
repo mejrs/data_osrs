@@ -1,0 +1,34 @@
+{
+  "id": 8654,
+  "name": "Dead tomato plant",
+  "models_2": [
+    8219,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      19096,
+      12818
+    ],
+    [
+      16931,
+      13601
+    ],
+    [
+      20135,
+      12581
+    ],
+    [
+      12062,
+      13615
+    ]
+  ]
+}

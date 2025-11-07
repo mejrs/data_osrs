@@ -1,0 +1,24 @@
+{
+  "id": 31709,
+  "models": [
+    [
+      0,
+      17328
+    ],
+    [
+      9,
+      17335
+    ]
+  ],
+  "name": "Doorway",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 40,
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 40020,
+  "name": "Table",
+  "models_2": [
+    40810
+  ],
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ]
+}

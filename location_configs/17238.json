@@ -1,0 +1,17 @@
+{
+  "id": 17238,
+  "name": "Aspidistra plant",
+  "models_2": [
+    17067
+  ],
+  "is_transparent": true,
+  "unknown_24": 4559,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 20090,
+  "models": [
+    [
+      0,
+      20319
+    ]
+  ],
+  "name": "City gate",
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      46381,
+      7446
+    ],
+    [
+      5400,
+      7442
+    ],
+    [
+      3346,
+      7566
+    ]
+  ],
+  "mirror": true,
+  "unknown_75": 0
+}

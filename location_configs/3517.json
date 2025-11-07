@@ -1,0 +1,17 @@
+{
+  "id": 3517,
+  "name": "Grotto tree",
+  "models_2": [
+    3570
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_22": true,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 16005,
+  "models": [
+    [
+      22,
+      15776
+    ]
+  ],
+  "name": "Stepping log",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ]
+}

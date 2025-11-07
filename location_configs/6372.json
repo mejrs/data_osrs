@@ -1,0 +1,23 @@
+{
+  "id": 6372,
+  "name": "Staircase",
+  "models_2": [
+    6070
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10334,
+      10436
+    ]
+  ],
+  "mapscene": 7
+}

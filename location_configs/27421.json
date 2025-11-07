@@ -1,0 +1,14 @@
+{
+  "id": 27421,
+  "name": "Blighted Bologano seedling",
+  "models_2": [
+    30123
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 902,
+  "mapscene": 6
+}

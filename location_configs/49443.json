@@ -1,0 +1,35 @@
+{
+  "id": 49443,
+  "name": "Cosmic Axon Terminal",
+  "models_2": [
+    49399,
+    48355
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 7304,
+  "ambient": 30,
+  "contrast": 15,
+  "colours": [
+    [
+      59813,
+      9048
+    ],
+    [
+      59806,
+      9011
+    ],
+    [
+      59811,
+      8790
+    ],
+    [
+      59821,
+      8666
+    ]
+  ],
+  "category": 1838,
+  "model": false
+}

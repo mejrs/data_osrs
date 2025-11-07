@@ -1,0 +1,17 @@
+{
+  "id": 12813,
+  "name": "Rubble",
+  "models_2": [
+    14032
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 221,
+  "mapscene": 12
+}

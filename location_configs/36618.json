@@ -1,0 +1,46 @@
+{
+  "id": 36618,
+  "name": "Bookcase",
+  "models_2": [
+    38473
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 44,
+  "colours": [
+    [
+      35361,
+      43096
+    ],
+    [
+      35129,
+      43105
+    ],
+    [
+      35245,
+      43086
+    ],
+    [
+      35138,
+      43119
+    ],
+    [
+      35253,
+      43115
+    ],
+    [
+      35241,
+      43105
+    ]
+  ],
+  "category": 1371
+}

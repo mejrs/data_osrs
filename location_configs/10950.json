@@ -1,0 +1,37 @@
+{
+  "id": 10950,
+  "name": "Sand pile",
+  "models_2": [
+    10953
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8629,
+      8656
+    ],
+    [
+      8625,
+      8652
+    ],
+    [
+      8621,
+      8648
+    ],
+    [
+      8745,
+      8644
+    ]
+  ]
+}

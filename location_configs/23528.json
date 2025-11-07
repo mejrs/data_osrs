@@ -1,0 +1,32 @@
+{
+  "id": 23528,
+  "models": [
+    [
+      22,
+      12125
+    ]
+  ],
+  "name": "Buried artefact",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "colours": [
+    [
+      35,
+      8076
+    ],
+    [
+      39,
+      7952
+    ],
+    [
+      43,
+      7700
+    ],
+    [
+      30,
+      7050
+    ]
+  ],
+  "category": 537
+}

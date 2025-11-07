@@ -1,0 +1,18 @@
+{
+  "id": 58674,
+  "name": "Mounted swift marlin",
+  "models_2": [
+    59506
+  ],
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Trophies",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

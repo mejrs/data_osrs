@@ -1,0 +1,51 @@
+{
+  "id": 59459,
+  "name": "Powerful runic shield generator",
+  "models_2": [
+    44073
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 2686,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Deactivate",
+    "Charge",
+    "Check",
+    "Uncharge",
+    "Settings"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      42915,
+      931
+    ],
+    [
+      41899,
+      832
+    ],
+    [
+      42830,
+      902
+    ],
+    [
+      41773,
+      912
+    ],
+    [
+      41913,
+      924
+    ],
+    [
+      43460,
+      898
+    ],
+    [
+      43344,
+      900
+    ]
+  ],
+  "category": 2320
+}

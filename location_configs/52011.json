@@ -1,0 +1,44 @@
+{
+  "id": 52011,
+  "name": "Jewellery case",
+  "models_2": [
+    51385
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "hidden"
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      5561,
+      5427
+    ],
+    [
+      5557,
+      5421
+    ],
+    [
+      5669,
+      5404
+    ],
+    [
+      5656,
+      5400
+    ],
+    [
+      5524,
+      5524
+    ]
+  ],
+  "category": 1936,
+  "unknown_69": 27
+}

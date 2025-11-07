@@ -1,0 +1,19 @@
+{
+  "id": 36387,
+  "name": "Crystal Staircase",
+  "models_2": [
+    37721
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ]
+}

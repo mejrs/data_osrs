@@ -1,0 +1,17 @@
+{
+  "id": 58867,
+  "name": "Cotton",
+  "models_2": [
+    59760,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    "Harvest",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15
+}

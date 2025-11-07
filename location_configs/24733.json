@@ -1,0 +1,17 @@
+{
+  "id": 24733,
+  "name": "Beanstalk",
+  "models_2": [
+    25957
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    "Chop",
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 59833,
+  "name": "Mooring point",
+  "models_2": [
+    58362
+  ],
+  "unknown_22": true,
+  "unknown_24": 13562,
+  "ambient": 20,
+  "actions": [
+    "Disembark",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_73": true
+}

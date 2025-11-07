@@ -1,0 +1,28 @@
+{
+  "id": 7988,
+  "name": "Dead pineapple plant",
+  "models_2": [
+    8094,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      7729,
+      10275
+    ],
+    [
+      12855,
+      38049
+    ]
+  ]
+}

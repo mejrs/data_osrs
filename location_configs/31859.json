@@ -1,0 +1,17 @@
+{
+  "id": 31859,
+  "name": "Altar of the Occult",
+  "models_2": [
+    32160
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Venerate",
+    "Standard",
+    "Lunar",
+    "Arceuus",
+    "Remove"
+  ],
+  "category": 206
+}

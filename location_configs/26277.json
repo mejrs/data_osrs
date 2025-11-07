@@ -1,0 +1,15 @@
+{
+  "id": 26277,
+  "name": "Super ranging potion",
+  "models_2": [
+    12388
+  ],
+  "actions": [
+    "Check",
+    "Take",
+    "Store",
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

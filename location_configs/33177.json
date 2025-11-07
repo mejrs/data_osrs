@@ -1,0 +1,30 @@
+{
+  "id": 33177,
+  "name": "Icy rocks",
+  "models_2": [
+    19151
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      7335,
+      90
+    ],
+    [
+      10396,
+      86
+    ],
+    [
+      5276,
+      94
+    ],
+    [
+      5281,
+      90
+    ]
+  ]
+}

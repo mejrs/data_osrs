@@ -1,0 +1,28 @@
+{
+  "id": 7769,
+  "name": "Dead cactus",
+  "models_2": [
+    7832,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      15252,
+      10394
+    ],
+    [
+      17296,
+      10514
+    ]
+  ]
+}

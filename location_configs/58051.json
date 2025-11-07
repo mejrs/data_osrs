@@ -1,0 +1,12 @@
+{
+  "id": 58051,
+  "name": "Hoisted sail",
+  "models_2": [
+    58313
+  ],
+  "dim_x": 8,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 15,
+  "translate_y": 65384
+}

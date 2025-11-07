@@ -1,0 +1,13 @@
+{
+  "id": 9425,
+  "models_2": [
+    9392
+  ],
+  "dim_x": 6,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "mirror": true,
+  "scale_x": 128,
+  "scale_y": 186,
+  "scale_z": 128
+}

@@ -1,0 +1,17 @@
+{
+  "id": 30282,
+  "name": "The Inferno",
+  "models_2": [
+    33022
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Jump-in",
+    null,
+    null,
+    null,
+    null
+  ]
+}

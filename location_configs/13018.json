@@ -1,0 +1,22 @@
+{
+  "id": 13018,
+  "models": [
+    [
+      0,
+      12193
+    ]
+  ],
+  "name": "Door",
+  "occludes_1": false,
+  "unknown_28": 8,
+  "ambient": 30,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "translate_y": 1
+}

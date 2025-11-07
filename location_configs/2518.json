@@ -1,0 +1,44 @@
+{
+  "id": 2518,
+  "models": [
+    [
+      0,
+      634
+    ],
+    [
+      1,
+      635
+    ],
+    [
+      2,
+      574
+    ],
+    [
+      3,
+      575
+    ],
+    [
+      9,
+      576
+    ]
+  ],
+  "name": "Loose panel",
+  "unknown_22": true,
+  "occludes_1": false,
+  "actions": [
+    "Kick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      3398
+    ]
+  ],
+  "textures": {
+    "2": 22
+  }
+}

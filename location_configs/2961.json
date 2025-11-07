@@ -1,0 +1,15 @@
+{
+  "id": 2961,
+  "name": "Rocky Ledge",
+  "models_2": [
+    1391
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ]
+}

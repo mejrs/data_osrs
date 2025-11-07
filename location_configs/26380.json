@@ -1,0 +1,19 @@
+{
+  "id": 26380,
+  "name": "Pillar",
+  "models_2": [
+    23314
+  ],
+  "dim_y": 9,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

@@ -1,0 +1,22 @@
+{
+  "id": 14941,
+  "name": "Monkeybars",
+  "models_2": [
+    16238
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 256,
+  "scale_y": 512,
+  "scale_z": 256,
+  "unknown_69": 27,
+  "unknown_73": true
+}

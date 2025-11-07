@@ -1,0 +1,25 @@
+{
+  "id": 60478,
+  "name": "Merchant shipwreck",
+  "models_2": [
+    58891
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 13620,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 2347,
+  "unknown_89": false,
+  "unknown_90": true
+}

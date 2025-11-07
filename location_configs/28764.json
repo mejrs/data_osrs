@@ -1,0 +1,17 @@
+{
+  "id": 28764,
+  "name": "Hole",
+  "models_2": [
+    31400
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

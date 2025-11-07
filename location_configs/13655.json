@@ -1,0 +1,18 @@
+{
+  "id": 13655,
+  "name": "Large orrery",
+  "models_2": [
+    12970
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 3579,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

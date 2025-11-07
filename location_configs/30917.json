@@ -1,0 +1,24 @@
+{
+  "id": 30917,
+  "models": [
+    [
+      22,
+      33494
+    ]
+  ],
+  "name": "Rope anchor",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Climb Down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 30
+}

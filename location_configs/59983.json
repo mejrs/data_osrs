@@ -1,0 +1,36 @@
+{
+  "id": 59983,
+  "name": "Coral Reef",
+  "models_2": [
+    13783
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      9521,
+      8375
+    ],
+    [
+      9517,
+      8371
+    ],
+    [
+      9515,
+      8367
+    ],
+    [
+      8483,
+      7335
+    ]
+  ]
+}

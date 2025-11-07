@@ -1,0 +1,25 @@
+{
+  "id": 49984,
+  "name": "Ornate trophy pedestal",
+  "models_2": [
+    41709,
+    50049
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    "Remove-trophy",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 206,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
+}

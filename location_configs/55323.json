@@ -1,0 +1,18 @@
+{
+  "id": 55323,
+  "name": "Gate",
+  "models_2": [
+    51272
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

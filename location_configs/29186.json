@@ -1,0 +1,45 @@
+{
+  "id": 29186,
+  "name": "Mounted Cooking Cape",
+  "models_2": [
+    32174
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      51738
+    ],
+    [
+      54183,
+      51986
+    ],
+    [
+      54503,
+      51084
+    ],
+    [
+      960,
+      51738
+    ],
+    [
+      22464,
+      51862
+    ],
+    [
+      43968,
+      51986
+    ]
+  ],
+  "category": 206
+}

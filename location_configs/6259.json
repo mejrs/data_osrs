@@ -1,0 +1,22 @@
+{
+  "id": 6259,
+  "name": "Dung",
+  "models_2": [
+    6048
+  ],
+  "unknown_17": false,
+  "unknown_24": 1881,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      13852
+    ]
+  ]
+}

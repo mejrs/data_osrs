@@ -1,0 +1,30 @@
+{
+  "id": 6848,
+  "name": "Ogre Coffin",
+  "models_2": [
+    6784
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Open",
+    "Pick-lock",
+    null,
+    "hidden",
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      6930
+    ],
+    [
+      7475,
+      6558
+    ]
+  ],
+  "category": 232,
+  "mapscene": 34
+}

@@ -1,0 +1,23 @@
+{
+  "id": 30126,
+  "models": [
+    [
+      10,
+      32347
+    ],
+    [
+      4,
+      32350
+    ]
+  ],
+  "name": "Painting",
+  "unknown_19": 1,
+  "ambient": 5,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 59288,
+  "name": "Crashed glider",
+  "models_2": [
+    57611
+  ],
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false
+}

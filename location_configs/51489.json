@@ -1,0 +1,28 @@
+{
+  "id": 51489,
+  "models": [
+    [
+      10,
+      51791
+    ],
+    [
+      0,
+      51772
+    ]
+  ],
+  "name": "Calcified rocks",
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 50,
+  "category": 1932,
+  "unknown_69": 23,
+  "mapscene": 12
+}

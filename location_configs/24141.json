@@ -1,0 +1,13 @@
+{
+  "id": 24141,
+  "name": "Standing stone",
+  "models_2": [
+    11705,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 15,
+  "mapscene": 11
+}

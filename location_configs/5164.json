@@ -1,0 +1,20 @@
+{
+  "id": 5164,
+  "name": "Signpost",
+  "models_2": [
+    5174
+  ],
+  "unknown_24": 1631,
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 2970,
+    "unknown_2": 3
+  }
+}

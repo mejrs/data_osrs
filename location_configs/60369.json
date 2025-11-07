@@ -1,0 +1,15 @@
+{
+  "id": 60369,
+  "models_2": [
+    57743
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 13524,
+  "ambient": 60,
+  "contrast": 30,
+  "model": false,
+  "mapscene": 248
+}

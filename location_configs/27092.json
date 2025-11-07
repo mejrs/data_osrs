@@ -1,0 +1,21 @@
+{
+  "id": 27092,
+  "name": "Insurance stall",
+  "models_2": [
+    29665
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 15,
+  "colours": [
+    [
+      36775,
+      41496
+    ],
+    [
+      6371,
+      790
+    ]
+  ]
+}

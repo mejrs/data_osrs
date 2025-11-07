@@ -1,0 +1,25 @@
+{
+  "id": 13491,
+  "name": "Mithril armour",
+  "models_2": [
+    12382
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      21662,
+      43297
+    ],
+    [
+      21776,
+      43282
+    ]
+  ],
+  "category": 206
+}

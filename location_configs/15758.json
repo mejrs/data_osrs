@@ -1,0 +1,19 @@
+{
+  "id": 15758,
+  "models": [
+    [
+      0,
+      12367
+    ]
+  ],
+  "name": "Large door",
+  "actions": [
+    "Listen-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_75": 0
+}

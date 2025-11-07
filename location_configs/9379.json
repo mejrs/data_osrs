@@ -1,0 +1,23 @@
+{
+  "id": 9379,
+  "name": "Bird snare",
+  "models_2": [
+    26843,
+    26848
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 5174,
+  "ambient": 20,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 193,
+  "params": {
+    "1545": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 59298,
+  "name": "Charts in a bottle",
+  "models_2": [
+    18484,
+    18483
+  ],
+  "unknown_24": 3743,
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 2317,
+  "model": false
+}

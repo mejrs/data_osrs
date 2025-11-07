@@ -1,0 +1,13 @@
+{
+  "id": 20806,
+  "name": "Oak tree",
+  "models_2": [
+    8037,
+    8040
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "category": 279,
+  "mapscene": 128
+}

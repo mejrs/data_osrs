@@ -1,0 +1,16 @@
+{
+  "id": 9361,
+  "name": "Gravestone",
+  "models_2": [
+    13380
+  ],
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1471
+}

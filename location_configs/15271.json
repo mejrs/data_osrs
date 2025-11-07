@@ -1,0 +1,15 @@
+{
+  "id": 15271,
+  "name": "Lamp space",
+  "models_2": [
+    12711
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

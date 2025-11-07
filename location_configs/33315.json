@@ -1,0 +1,29 @@
+{
+  "id": 33315,
+  "name": "Hardy goutweed",
+  "models_2": [
+    19148,
+    19152,
+    19144
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "colours": [
+    [
+      19992,
+      8493
+    ],
+    [
+      19988,
+      8487
+    ],
+    [
+      20364,
+      8493
+    ]
+  ]
+}

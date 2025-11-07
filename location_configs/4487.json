@@ -1,0 +1,13 @@
+{
+  "id": 4487,
+  "name": "Washing Line",
+  "models_2": [
+    18172,
+    18171
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 4778,
+  "ambient": 10,
+  "contrast": 10
+}

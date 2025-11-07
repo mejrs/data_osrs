@@ -1,0 +1,39 @@
+{
+  "id": 59348,
+  "name": "Safe kebbit burrow",
+  "models_2": [
+    19356
+  ],
+  "ambient": 30,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      8656,
+      43131
+    ],
+    [
+      8644,
+      43115
+    ],
+    [
+      8631,
+      43098
+    ],
+    [
+      8747,
+      43082
+    ],
+    [
+      8862,
+      43202
+    ]
+  ],
+  "category": 2317
+}

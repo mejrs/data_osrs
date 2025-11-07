@@ -1,0 +1,16 @@
+{
+  "id": 32551,
+  "name": "Vent",
+  "models_2": [
+    35271
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 34434,
+  "name": "Mystical barrier (red)",
+  "models_2": [
+    32750
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 60,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      15291,
+      933
+    ],
+    [
+      14272,
+      947
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "translate_y": 65535
+}

@@ -1,0 +1,25 @@
+{
+  "id": 51616,
+  "name": "Guildmaster's chest",
+  "models_2": [
+    52412
+  ],
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      97,
+      7752
+    ],
+    [
+      99,
+      7768
+    ]
+  ],
+  "unknown_69": 27
+}

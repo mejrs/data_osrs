@@ -1,0 +1,14 @@
+{
+  "id": 2545,
+  "name": "Manhole cover",
+  "models_2": [
+    57466
+  ],
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ]
+}

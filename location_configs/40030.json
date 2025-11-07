@@ -1,0 +1,34 @@
+{
+  "id": 40030,
+  "name": "Broken Table",
+  "models_2": [
+    4326
+  ],
+  "ambient": 15,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5559,
+      5285
+    ],
+    [
+      5675,
+      5404
+    ],
+    [
+      5679,
+      5285
+    ],
+    [
+      5799,
+      5404
+    ]
+  ]
+}

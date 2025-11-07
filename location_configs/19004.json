@@ -1,0 +1,16 @@
+{
+  "id": 19004,
+  "name": "Ladder",
+  "models_2": [
+    15869
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7
+}

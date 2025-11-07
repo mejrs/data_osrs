@@ -1,0 +1,20 @@
+{
+  "id": 30107,
+  "name": "Storage unit",
+  "models_2": [
+    32520
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Private",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "unknown_69": 23
+}

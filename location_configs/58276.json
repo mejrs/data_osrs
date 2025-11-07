@@ -1,0 +1,22 @@
+{
+  "id": 58276,
+  "models": [
+    [
+      0,
+      59689
+    ]
+  ],
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Open",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_75": 0,
+  "mapscene": 22
+}

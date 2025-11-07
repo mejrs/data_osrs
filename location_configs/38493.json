@@ -1,0 +1,12 @@
+{
+  "id": 38493,
+  "name": "Metal stand",
+  "models_2": [
+    40092
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 10
+}

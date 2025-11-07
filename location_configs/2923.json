@@ -1,0 +1,36 @@
+{
+  "id": 2923,
+  "models": [
+    [
+      0,
+      1815
+    ]
+  ],
+  "name": "Ancient Gate",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      4
+    ],
+    [
+      61,
+      33
+    ],
+    [
+      24,
+      4
+    ],
+    [
+      10275,
+      1942
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 2171,
+  "name": "Heap of bricks",
+  "models_2": [
+    4476
+  ],
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "scale_x": 120,
+  "scale_y": 130,
+  "scale_z": 125
+}

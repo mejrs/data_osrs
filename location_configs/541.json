@@ -1,0 +1,36 @@
+{
+  "id": 541,
+  "name": "<col=ff9040>Orange spice (4)</col>",
+  "models_2": [
+    13443
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      34933,
+      4795
+    ],
+    [
+      35955,
+      4795
+    ],
+    [
+      36977,
+      4795
+    ],
+    [
+      37999,
+      4795
+    ]
+  ],
+  "translate_x": 5,
+  "translate_z": 10,
+  "mapscene": 81,
+  "params": {
+    "2312": 11
+  }
+}

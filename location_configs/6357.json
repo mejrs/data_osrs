@@ -1,0 +1,25 @@
+{
+  "id": 6357,
+  "models": [
+    [
+      0,
+      6106
+    ],
+    [
+      2,
+      6107
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      10334,
+      10436
+    ]
+  ],
+  "mirror": true,
+  "translate_y": 1
+}

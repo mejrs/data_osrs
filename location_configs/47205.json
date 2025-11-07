@@ -1,0 +1,17 @@
+{
+  "id": 47205,
+  "name": "Mimic Display",
+  "models_2": [
+    47592
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "scale_x": 88,
+  "scale_y": 88,
+  "scale_z": 88
+}

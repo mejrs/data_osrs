@@ -1,0 +1,26 @@
+{
+  "id": 33214,
+  "name": "Goat poo",
+  "models_2": [
+    14202
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      6684
+    ]
+  ],
+  "scale_x": 96,
+  "scale_y": 80,
+  "scale_z": 96
+}

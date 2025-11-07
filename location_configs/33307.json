@@ -1,0 +1,11 @@
+{
+  "id": 33307,
+  "name": "Old Shrine",
+  "models_2": [
+    35871
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_27": false,
+  "ambient": 15
+}

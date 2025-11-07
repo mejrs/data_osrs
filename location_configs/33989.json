@@ -1,0 +1,18 @@
+{
+  "id": 33989,
+  "name": "Withering Iasor plant",
+  "models_2": [
+    36848,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

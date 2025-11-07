@@ -1,0 +1,11 @@
+{
+  "id": 57305,
+  "name": "Produce basket",
+  "models_2": [
+    57040
+  ],
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 30,
+  "model": false
+}

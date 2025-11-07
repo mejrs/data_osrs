@@ -1,0 +1,44 @@
+{
+  "id": 59357,
+  "name": "Bird nest",
+  "models_2": [
+    49903
+  ],
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5409,
+      5388
+    ],
+    [
+      7073,
+      5301
+    ],
+    [
+      6461,
+      5157
+    ],
+    [
+      7343,
+      7219
+    ],
+    [
+      5404,
+      5157
+    ],
+    [
+      5786,
+      5281
+    ]
+  ],
+  "category": 2317
+}

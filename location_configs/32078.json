@@ -1,0 +1,19 @@
+{
+  "id": 32078,
+  "name": "Ancient Incubator",
+  "models_2": [
+    35009
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

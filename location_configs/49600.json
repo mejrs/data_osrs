@@ -1,0 +1,20 @@
+{
+  "id": 49600,
+  "models": [
+    [
+      0,
+      49709
+    ]
+  ],
+  "name": "Heavy door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Peek",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

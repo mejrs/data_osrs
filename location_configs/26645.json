@@ -1,0 +1,32 @@
+{
+  "id": 26645,
+  "name": "Free-for-all portal",
+  "models_2": [
+    10734,
+    40773
+  ],
+  "dim_x": 3,
+  "unknown_21": true,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      20,
+      28
+    ],
+    [
+      947,
+      0
+    ]
+  ],
+  "scale_x": 64,
+  "mapscene": 64
+}

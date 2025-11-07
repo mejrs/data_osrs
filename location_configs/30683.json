@@ -1,0 +1,13 @@
+{
+  "id": 30683,
+  "models_2": [
+    33963
+  ],
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10,
+  "translate_y": 65535
+}

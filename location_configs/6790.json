@@ -1,0 +1,20 @@
+{
+  "id": 6790,
+  "models": [
+    [
+      4,
+      12601
+    ]
+  ],
+  "name": "Tools",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

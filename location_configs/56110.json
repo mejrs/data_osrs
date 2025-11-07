@@ -1,0 +1,28 @@
+{
+  "id": 56110,
+  "name": "Teak display",
+  "models_2": [
+    56053
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Trophies",
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      4510,
+      6443
+    ],
+    [
+      4502,
+      6682
+    ]
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

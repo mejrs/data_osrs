@@ -1,0 +1,21 @@
+{
+  "id": 48900,
+  "models_2": [
+    47181
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 0,
+  "contrast": 35,
+  "colours": [
+    [
+      38049,
+      6583
+    ],
+    [
+      37925,
+      6592
+    ]
+  ]
+}

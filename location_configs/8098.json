@@ -1,0 +1,32 @@
+{
+  "id": 8098,
+  "name": "Dead palm tree",
+  "models_2": [
+    8064,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      7845,
+      21526
+    ],
+    [
+      21696,
+      14490
+    ],
+    [
+      9110,
+      5272
+    ]
+  ]
+}

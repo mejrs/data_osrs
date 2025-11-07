@@ -1,0 +1,24 @@
+{
+  "id": 53363,
+  "models": [
+    [
+      10,
+      53727
+    ],
+    [
+      4,
+      53739
+    ]
+  ],
+  "name": "Key rack",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

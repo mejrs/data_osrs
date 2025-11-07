@@ -1,0 +1,22 @@
+{
+  "id": 23117,
+  "name": "Device",
+  "models_2": [
+    31308,
+    31311
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 6028,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Tamper",
+    null,
+    null,
+    null,
+    null
+  ]
+}

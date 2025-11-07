@@ -1,0 +1,20 @@
+{
+  "id": 28824,
+  "name": "Large boulder",
+  "models_2": [
+    6566
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Set-trap",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 949,
+  "unknown_69": 29,
+  "mapscene": 71
+}

@@ -1,0 +1,17 @@
+{
+  "id": 36698,
+  "name": "Eye",
+  "models_2": [
+    37819
+  ],
+  "unknown_24": 8460,
+  "ambient": 30,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

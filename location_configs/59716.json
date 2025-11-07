@@ -1,0 +1,22 @@
+{
+  "id": 59716,
+  "name": "Greater teleportation focus",
+  "models_2": [
+    58325
+  ],
+  "is_transparent": true,
+  "unknown_24": 13421,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 15,
+  "scale_x": 88,
+  "scale_y": 88,
+  "scale_z": 88
+}

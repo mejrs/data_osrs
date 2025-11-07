@@ -1,0 +1,12 @@
+{
+  "id": 22683,
+  "name": "Chest",
+  "models_2": [
+    23370
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "unknown_69": 30
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2634,
+  "name": "Rock slide",
+  "models_2": [
+    818
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Investigate",
+    "Mine",
+    null,
+    null,
+    null
+  ],
+  "mapscene": 12
+}

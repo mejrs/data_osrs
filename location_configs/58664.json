@@ -1,0 +1,19 @@
+{
+  "id": 58664,
+  "name": "Mounted Sailing Cape",
+  "models_2": [
+    59497
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    "Rename Boat",
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "category": 206
+}

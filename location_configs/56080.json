@@ -1,0 +1,25 @@
+{
+  "id": 56080,
+  "name": "Birthday Balloons",
+  "models_2": [
+    43870
+  ],
+  "unknown_17": false,
+  "unknown_24": 7543,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      687,
+      8
+    ],
+    [
+      16039,
+      8128
+    ],
+    [
+      43571,
+      0
+    ]
+  ]
+}

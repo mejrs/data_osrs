@@ -1,0 +1,15 @@
+{
+  "id": 40076,
+  "name": "Dresser space",
+  "models_2": [
+    40792
+  ],
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    "Build",
+    null
+  ]
+}

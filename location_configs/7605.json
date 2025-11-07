@@ -1,0 +1,28 @@
+{
+  "id": 7605,
+  "name": "Dwellberry bush",
+  "models_2": [
+    7817,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      22034
+    ],
+    [
+      8722,
+      8844
+    ]
+  ]
+}

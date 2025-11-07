@@ -1,0 +1,17 @@
+{
+  "id": 9100,
+  "name": "Conveyor belt",
+  "models_2": [
+    9063
+  ],
+  "unknown_19": 1,
+  "unknown_24": 2437,
+  "unknown_27": false,
+  "actions": [
+    "Put-ore-on",
+    null,
+    null,
+    null,
+    null
+  ]
+}

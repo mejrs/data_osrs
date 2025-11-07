@@ -1,0 +1,16 @@
+{
+  "id": 33666,
+  "name": "Snape grass seedling",
+  "models_2": [
+    36897,
+    7766
+  ],
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

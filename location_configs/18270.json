@@ -1,0 +1,44 @@
+{
+  "id": 18270,
+  "name": "Old ruin entrance",
+  "models_2": [
+    18246
+  ],
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7508,
+      8384
+    ],
+    [
+      7504,
+      8375
+    ],
+    [
+      7500,
+      8367
+    ],
+    [
+      7494,
+      8487
+    ],
+    [
+      7490,
+      8478
+    ],
+    [
+      7483,
+      8598
+    ]
+  ],
+  "unknown_69": 30,
+  "mapscene": 7
+}

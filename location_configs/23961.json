@@ -1,0 +1,17 @@
+{
+  "id": 23961,
+  "name": "Dummy",
+  "models_2": [
+    15363,
+    15368
+  ],
+  "unknown_24": 4163,
+  "actions": [
+    "Hit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 394
+}

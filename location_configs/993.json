@@ -1,0 +1,20 @@
+{
+  "id": 993,
+  "name": "Stile",
+  "models_2": [
+    982
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 211,
+  "unknown_75": 0,
+  "mapscene": 70
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13690,
+  "name": "Hanging",
+  "models_2": [
+    12582
+  ],
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

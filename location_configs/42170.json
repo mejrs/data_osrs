@@ -1,0 +1,11 @@
+{
+  "id": 42170,
+  "name": "Ceremonial Pillar",
+  "models_2": [
+    42460
+  ],
+  "unknown_19": 1,
+  "ambient": -25,
+  "contrast": 25,
+  "mapscene": 34
+}

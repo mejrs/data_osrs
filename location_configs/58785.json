@@ -1,0 +1,20 @@
+{
+  "id": 58785,
+  "name": "Rosewood tree",
+  "models_2": [
+    58661,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    "Inspect",
+    "hidden",
+    "Guide",
+    null
+  ],
+  "contrast": 20,
+  "mapscene": 0
+}

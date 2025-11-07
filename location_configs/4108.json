@@ -1,0 +1,27 @@
+{
+  "id": 4108,
+  "models": [
+    [
+      0,
+      41770
+    ]
+  ],
+  "name": "Solid black door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      0
+    ],
+    [
+      33,
+      8
+    ]
+  ]
+}

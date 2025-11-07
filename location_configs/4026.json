@@ -1,0 +1,15 @@
+{
+  "id": 4026,
+  "name": "Fractionalising still",
+  "models_2": [
+    3911
+  ],
+  "ambient": 30,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

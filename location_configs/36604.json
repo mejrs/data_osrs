@@ -1,0 +1,17 @@
+{
+  "id": 36604,
+  "name": "Crystal outcrop",
+  "models_2": [
+    37836
+  ],
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

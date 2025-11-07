@@ -1,0 +1,19 @@
+{
+  "id": 13343,
+  "models": [
+    [
+      4,
+      12609
+    ]
+  ],
+  "name": "Skull",
+  "unknown_24": 3107,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

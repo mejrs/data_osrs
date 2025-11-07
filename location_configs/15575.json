@@ -1,0 +1,22 @@
+{
+  "id": 15575,
+  "name": "Light",
+  "models_2": [
+    10941,
+    13593
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 3101,
+  "ambient": 60,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "model": false
+}

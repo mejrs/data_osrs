@@ -1,0 +1,22 @@
+{
+  "id": 25880,
+  "models": [
+    [
+      0,
+      27397
+    ]
+  ],
+  "name": "Vent",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Reach",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

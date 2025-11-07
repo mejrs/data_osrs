@@ -1,0 +1,22 @@
+{
+  "id": 3238,
+  "models": [
+    [
+      22,
+      1804
+    ]
+  ],
+  "name": "Ledge",
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "mapscene": 43
+}

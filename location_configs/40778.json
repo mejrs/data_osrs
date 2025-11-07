@@ -1,0 +1,19 @@
+{
+  "id": 40778,
+  "name": "Christmas-Spirit Tree",
+  "models_2": [
+    41505
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Travel",
+    null,
+    "Remove-decorations",
+    null,
+    null
+  ],
+  "category": 206
+}

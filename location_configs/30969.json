@@ -1,0 +1,22 @@
+{
+  "id": 30969,
+  "name": "Clam",
+  "models_2": [
+    33829
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 7671,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1159,
+  "unknown_69": 27
+}

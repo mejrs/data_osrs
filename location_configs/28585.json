@@ -1,0 +1,15 @@
+{
+  "id": 28585,
+  "name": "Pot of dynamite",
+  "models_2": [
+    30187,
+    30183
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 7204,
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 30,
+  "category": 916
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8976,
+  "name": "Depleted runestone",
+  "models_2": [
+    31000
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": -5,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      45,
+      28
+    ],
+    [
+      49,
+      33
+    ]
+  ],
+  "mapscene": 12
+}

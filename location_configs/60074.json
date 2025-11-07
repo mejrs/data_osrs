@@ -1,0 +1,20 @@
+{
+  "id": 60074,
+  "name": "Dark hole",
+  "models_2": [
+    58909
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ]
+}

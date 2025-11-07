@@ -1,0 +1,16 @@
+{
+  "id": 13571,
+  "name": "Greenman's ale",
+  "models_2": [
+    12387
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

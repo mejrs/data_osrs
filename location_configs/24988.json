@@ -1,0 +1,26 @@
+{
+  "id": 24988,
+  "name": "Centre of crop circle",
+  "models_2": [
+    26336
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 6627,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65535,
+  "unknown_79": {
+    "unknown_1": 200,
+    "unknown_2": 200,
+    "unknown_3": 20,
+    "values": [
+      3721
+    ]
+  }
+}

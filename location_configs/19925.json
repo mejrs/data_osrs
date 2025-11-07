@@ -1,0 +1,18 @@
+{
+  "id": 19925,
+  "name": "Rocky outcrop",
+  "models_2": [
+    19997
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "translate_y": 100
+}

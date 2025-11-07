@@ -1,0 +1,12 @@
+{
+  "id": 37483,
+  "name": "Dragon trophy display",
+  "models_2": [
+    38994
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

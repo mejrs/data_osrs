@@ -1,0 +1,12 @@
+{
+  "id": 57946,
+  "name": "Hunting stall",
+  "models_2": [
+    58842,
+    58846
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 10
+}

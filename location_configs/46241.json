@@ -1,0 +1,20 @@
+{
+  "id": 46241,
+  "name": "Sacrificial boat",
+  "models_2": [
+    5280
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": -10,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

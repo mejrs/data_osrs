@@ -1,0 +1,18 @@
+{
+  "id": 33594,
+  "models": [
+    [
+      10,
+      30672
+    ],
+    [
+      22,
+      30674
+    ]
+  ],
+  "name": "Rocks",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "category": 1298,
+  "mapscene": 12
+}

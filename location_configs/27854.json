@@ -1,0 +1,20 @@
+{
+  "id": 27854,
+  "name": "Stairs",
+  "models_2": [
+    30724
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 638,
+  "unknown_69": 27
+}

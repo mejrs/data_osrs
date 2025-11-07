@@ -1,0 +1,24 @@
+{
+  "id": 34771,
+  "name": "Altar",
+  "models_2": [
+    16839
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 503,
+  "ambient": 40,
+  "actions": [
+    "Craft-rune",
+    "Pray",
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "category": 2156,
+  "unknown_78": {
+    "unknown_1": 3140,
+    "unknown_2": 5
+  }
+}

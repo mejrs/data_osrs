@@ -1,0 +1,15 @@
+{
+  "id": 32455,
+  "name": "Rowboat space",
+  "models_2": [
+    34823
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ]
+}

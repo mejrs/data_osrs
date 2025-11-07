@@ -1,0 +1,18 @@
+{
+  "id": 3924,
+  "models": [
+    [
+      22,
+      3981
+    ]
+  ],
+  "name": "Leaves",
+  "unknown_17": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ]
+}

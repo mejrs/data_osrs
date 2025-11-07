@@ -1,0 +1,16 @@
+{
+  "id": 28621,
+  "name": "Compromised support",
+  "models_2": [
+    31446
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 937
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9143,
+  "name": "Sink",
+  "models_2": [
+    5936
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Fill-bucket",
+    null,
+    null,
+    null,
+    null
+  ]
+}

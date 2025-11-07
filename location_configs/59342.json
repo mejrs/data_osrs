@@ -1,0 +1,17 @@
+{
+  "id": 59342,
+  "name": "Toad spawn",
+  "models_2": [
+    57604
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 2317
+}

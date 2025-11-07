@@ -1,0 +1,31 @@
+{
+  "id": 42296,
+  "name": "Vine ladder",
+  "models_2": [
+    42518
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      929,
+      13964
+    ],
+    [
+      931,
+      13596
+    ],
+    [
+      945,
+      13592
+    ]
+  ],
+  "translate_y": 65336
+}

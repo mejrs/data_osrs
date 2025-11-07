@@ -1,0 +1,47 @@
+{
+  "id": 55180,
+  "models": [
+    [
+      22,
+      42486
+    ]
+  ],
+  "name": "Tightrope",
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      1825,
+      8128
+    ],
+    [
+      1814,
+      7089
+    ],
+    [
+      3346,
+      6447
+    ],
+    [
+      3470,
+      6447
+    ],
+    [
+      3247,
+      6610
+    ],
+    [
+      3365,
+      6610
+    ]
+  ]
+}

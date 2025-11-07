@@ -1,0 +1,22 @@
+{
+  "id": 56831,
+  "models_2": [
+    2298
+  ],
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 494,
+  "ambient": 70,
+  "contrast": 100,
+  "colours": [
+    [
+      5056,
+      3998
+    ]
+  ],
+  "model": false,
+  "scale_x": 96,
+  "scale_z": 96,
+  "translate_x": 65486,
+  "translate_z": 25
+}

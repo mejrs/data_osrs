@@ -1,0 +1,28 @@
+{
+  "id": 57792,
+  "name": "Plant",
+  "models_2": [
+    1645
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      61,
+      14742
+    ],
+    [
+      49,
+      14866
+    ],
+    [
+      41,
+      11144
+    ]
+  ],
+  "model": false,
+  "mapscene": 9
+}

@@ -1,0 +1,11 @@
+{
+  "id": 47070,
+  "name": "Web sack",
+  "models_2": [
+    47308
+  ],
+  "dim_x": 2,
+  "ambient": 20,
+  "contrast": 20,
+  "model": false
+}

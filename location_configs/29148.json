@@ -1,0 +1,19 @@
+{
+  "id": 29148,
+  "name": "Lunar Altar",
+  "models_2": [
+    32165
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 7302,
+  "actions": [
+    "Venerate",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

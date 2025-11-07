@@ -1,0 +1,33 @@
+{
+  "id": 26665,
+  "models": [
+    [
+      0,
+      28465
+    ]
+  ],
+  "name": "Depleted vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      922,
+      7952
+    ],
+    [
+      914,
+      5524
+    ],
+    [
+      920,
+      6930
+    ],
+    [
+      918,
+      6550
+    ]
+  ],
+  "scale_y": 170
+}

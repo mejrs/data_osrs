@@ -1,0 +1,11 @@
+{
+  "id": 57323,
+  "name": "Water wheel",
+  "models_2": [
+    57130
+  ],
+  "dim_x": 3,
+  "unknown_24": 12513,
+  "ambient": 10,
+  "contrast": 30
+}

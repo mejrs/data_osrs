@@ -1,0 +1,21 @@
+{
+  "id": 55208,
+  "name": "<col=ffff00>The Hueycoatl</col>",
+  "models_2": [
+    54464,
+    54466,
+    54465
+  ],
+  "dim_x": 3,
+  "dim_y": 6,
+  "unknown_24": 11707,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 30,
+  "model": false,
+  "translate_y": 65535,
+  "unknown_89": false,
+  "params": {
+    "2312": 10
+  }
+}

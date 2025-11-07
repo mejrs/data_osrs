@@ -1,0 +1,15 @@
+{
+  "id": 2533,
+  "name": "Mud pile",
+  "models_2": [
+    1411
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ]
+}

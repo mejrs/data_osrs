@@ -1,0 +1,16 @@
+{
+  "id": 30569,
+  "name": "Barge controls",
+  "models_2": [
+    33759
+  ],
+  "dim_x": 3,
+  "unknown_27": false,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

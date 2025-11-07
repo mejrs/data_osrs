@@ -1,0 +1,18 @@
+{
+  "id": 47273,
+  "name": "Phantom Muspah Display",
+  "models_2": [
+    47541
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "model": false,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

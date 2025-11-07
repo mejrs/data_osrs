@@ -1,0 +1,10 @@
+{
+  "id": 39392,
+  "name": "Cupboard",
+  "models_2": [
+    40387
+  ],
+  "dim_x": 2,
+  "ambient": 10,
+  "contrast": 10
+}

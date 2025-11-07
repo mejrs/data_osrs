@@ -1,0 +1,44 @@
+{
+  "id": 18071,
+  "models": [
+    [
+      22,
+      17924
+    ]
+  ],
+  "name": "Floorboards",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5272,
+      16656
+    ],
+    [
+      7446,
+      10388
+    ],
+    [
+      10258,
+      21522
+    ],
+    [
+      10382,
+      10258
+    ],
+    [
+      21646,
+      7446
+    ]
+  ],
+  "unknown_73": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 11734,
+  "name": "Silver stall",
+  "models_2": [
+    1421,
+    1493
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 31934,
+  "name": "Monkey Madness II display",
+  "models_2": [
+    34557
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "translate_y": 65535
+}

@@ -1,0 +1,26 @@
+{
+  "id": 48212,
+  "name": "Tentacle",
+  "models_2": [
+    49251,
+    49252,
+    49236
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 10267,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": -100,
+  "colours": [
+    [
+      24734,
+      24
+    ],
+    [
+      10537,
+      30
+    ]
+  ],
+  "unknown_89": false
+}

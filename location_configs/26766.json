@@ -1,0 +1,28 @@
+{
+  "id": 26766,
+  "name": "Cave",
+  "models_2": [
+    731
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6036,
+      45
+    ],
+    [
+      5008,
+      37
+    ]
+  ],
+  "unknown_69": 27
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4182,
+  "models": [
+    [
+      4,
+      2052
+    ]
+  ],
+  "name": "Bull's head",
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ]
+}

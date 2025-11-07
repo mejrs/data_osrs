@@ -1,0 +1,27 @@
+{
+  "id": 11382,
+  "name": "Limestone rock",
+  "models_2": [
+    3184
+  ],
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      10299,
+      8373
+    ],
+    [
+      24,
+      10295
+    ]
+  ]
+}

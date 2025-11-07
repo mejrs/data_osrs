@@ -1,0 +1,21 @@
+{
+  "id": 15413,
+  "models": [
+    [
+      22,
+      13604
+    ]
+  ],
+  "name": "Temp Stone 4 Zip",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

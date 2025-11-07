@@ -1,0 +1,16 @@
+{
+  "id": 13568,
+  "name": "Beer barrel",
+  "models_2": [
+    12388
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

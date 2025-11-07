@@ -1,0 +1,15 @@
+{
+  "id": 56803,
+  "name": "Carcasses",
+  "models_2": [
+    57072
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 30,
+  "contrast": 15,
+  "scale_x": 196,
+  "scale_y": 196,
+  "scale_z": 196
+}

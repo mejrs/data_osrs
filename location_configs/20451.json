@@ -1,0 +1,42 @@
+{
+  "id": 20451,
+  "models": [
+    [
+      0,
+      21249
+    ]
+  ],
+  "name": "Clay ore vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "Hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      53,
+      4645
+    ],
+    [
+      37,
+      4764
+    ],
+    [
+      49,
+      4769
+    ],
+    [
+      45,
+      4764
+    ]
+  ],
+  "category": 201,
+  "scale_y": 153
+}

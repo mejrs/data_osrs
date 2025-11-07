@@ -1,0 +1,15 @@
+{
+  "id": 6545,
+  "name": "Pyramid entrance",
+  "models_2": [
+    6252
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

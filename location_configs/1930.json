@@ -1,0 +1,19 @@
+{
+  "id": 1930,
+  "models": [
+    [
+      12,
+      590
+    ],
+    [
+      17,
+      592
+    ]
+  ],
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "textures": {
+    "6": 18
+  }
+}

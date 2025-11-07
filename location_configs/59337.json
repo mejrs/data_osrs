@@ -1,0 +1,21 @@
+{
+  "id": 59337,
+  "name": "Crystal dinghy",
+  "models_2": [
+    58183
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2317,
+  "model": false
+}

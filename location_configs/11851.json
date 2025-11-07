@@ -1,0 +1,31 @@
+{
+  "id": 11851,
+  "models": [
+    [
+      10,
+      9294
+    ],
+    [
+      22,
+      9295
+    ]
+  ],
+  "name": "Sulphur vent",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 15,
+  "colours": [
+    [
+      33676,
+      0
+    ]
+  ],
+  "category": 152,
+  "model": false,
+  "unknown_73": true,
+  "unknown_78": {
+    "unknown_1": 2066,
+    "unknown_2": 3
+  }
+}

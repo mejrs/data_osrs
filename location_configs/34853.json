@@ -1,0 +1,47 @@
+{
+  "id": 34853,
+  "models": [
+    [
+      0,
+      37327
+    ]
+  ],
+  "name": "Passage",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21534,
+      49
+    ],
+    [
+      21530,
+      41
+    ],
+    [
+      21526,
+      33
+    ],
+    [
+      21522,
+      24
+    ],
+    [
+      21646,
+      16
+    ],
+    [
+      21642,
+      8
+    ]
+  ]
+}

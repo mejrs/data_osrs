@@ -1,0 +1,19 @@
+{
+  "id": 39617,
+  "name": "Crypt",
+  "models_2": [
+    40601
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 27
+}

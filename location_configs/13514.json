@@ -1,0 +1,20 @@
+{
+  "id": 13514,
+  "models": [
+    [
+      4,
+      12497
+    ]
+  ],
+  "name": "Desert painting",
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

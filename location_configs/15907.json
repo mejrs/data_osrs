@@ -1,0 +1,12 @@
+{
+  "id": 15907,
+  "name": "Boiler",
+  "models_2": [
+    15800,
+    15795,
+    15816
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "mirror": true
+}

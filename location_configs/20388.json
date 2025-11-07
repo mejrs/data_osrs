@@ -1,0 +1,30 @@
+{
+  "id": 20388,
+  "name": "Cloth covered table",
+  "models_2": [
+    14827,
+    20831
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "colours": [
+    [
+      6451,
+      6589
+    ],
+    [
+      6443,
+      6594
+    ],
+    [
+      6439,
+      6705
+    ],
+    [
+      6563,
+      6701
+    ]
+  ],
+  "category": 156
+}

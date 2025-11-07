@@ -1,0 +1,26 @@
+{
+  "id": 39897,
+  "name": "Broken Grandfather Clock",
+  "models_2": [
+    40873
+  ],
+  "ambient": 10,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      4510,
+      7582
+    ],
+    [
+      4502,
+      7954
+    ]
+  ]
+}

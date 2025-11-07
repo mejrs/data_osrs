@@ -1,0 +1,31 @@
+{
+  "id": 30449,
+  "name": "Diseased Teak",
+  "models_2": [
+    33220,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      9882
+    ],
+    [
+      14773,
+      7605
+    ]
+  ],
+  "textures": {
+    "33": 41
+  }
+}

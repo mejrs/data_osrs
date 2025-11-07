@@ -1,0 +1,20 @@
+{
+  "id": 42247,
+  "name": "Cave",
+  "models_2": [
+    42434
+  ],
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 23,
+  "translate_z": 65472,
+  "mapscene": 7
+}

@@ -1,0 +1,22 @@
+{
+  "id": 30154,
+  "models": [
+    [
+      4,
+      2057
+    ]
+  ],
+  "name": "Painting",
+  "unknown_19": 1,
+  "ambient": 20,
+  "colours": [
+    [
+      11140,
+      6569
+    ]
+  ],
+  "textures": {
+    "14": 39
+  },
+  "category": 1038
+}

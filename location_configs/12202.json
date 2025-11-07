@@ -1,0 +1,20 @@
+{
+  "id": 12202,
+  "models": [
+    [
+      22,
+      12031
+    ]
+  ],
+  "name": "Mole hill",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Look-inside"
+  ]
+}

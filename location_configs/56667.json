@@ -1,0 +1,27 @@
+{
+  "id": 56667,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Staircase",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2189,
+  "scale_x": 380,
+  "scale_z": 380,
+  "unknown_69": 30
+}

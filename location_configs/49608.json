@@ -1,0 +1,16 @@
+{
+  "id": 49608,
+  "name": "<col=ffff00>Advisor</col>",
+  "models_2": [
+    49602,
+    49601
+  ],
+  "unknown_19": 1,
+  "unknown_24": 10469,
+  "ambient": 45,
+  "contrast": 30,
+  "unknown_89": false,
+  "params": {
+    "2312": 9
+  }
+}

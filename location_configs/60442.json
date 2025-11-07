@@ -1,0 +1,14 @@
+{
+  "id": 60442,
+  "models_2": [
+    58602
+  ],
+  "dim_x": 3,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 20,
+  "contrast": 25,
+  "model": false,
+  "mapscene": 11
+}

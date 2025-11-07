@@ -1,0 +1,39 @@
+{
+  "id": 46082,
+  "name": "Rewards Niche",
+  "models_2": [
+    46020
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Claim",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      7469,
+      40210
+    ],
+    [
+      7488,
+      40094
+    ],
+    [
+      7376,
+      40099
+    ],
+    [
+      7370,
+      40094
+    ],
+    [
+      8282,
+      40090
+    ]
+  ]
+}

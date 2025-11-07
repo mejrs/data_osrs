@@ -1,0 +1,34 @@
+{
+  "id": 25686,
+  "name": "Chest",
+  "models_2": [
+    11205
+  ],
+  "ambient": 25,
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4510,
+      5413
+    ],
+    [
+      4502,
+      5532
+    ],
+    [
+      8130,
+      41
+    ],
+    [
+      7095,
+      33
+    ]
+  ]
+}

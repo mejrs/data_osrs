@@ -1,0 +1,20 @@
+{
+  "id": 13119,
+  "models": [
+    [
+      0,
+      13286
+    ]
+  ],
+  "name": "Door",
+  "occludes_1": false,
+  "unknown_28": 8,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 1
+}

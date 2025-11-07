@@ -1,0 +1,22 @@
+{
+  "id": 43860,
+  "name": "Broken grindstone",
+  "models_2": [
+    44809
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "unknown_69": 29
+}

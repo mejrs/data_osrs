@@ -1,0 +1,15 @@
+{
+  "id": 13492,
+  "name": "Adamant armour",
+  "models_2": [
+    12382
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

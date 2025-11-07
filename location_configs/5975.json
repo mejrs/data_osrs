@@ -1,0 +1,24 @@
+{
+  "id": 5975,
+  "name": "Dwarf MultiCannon",
+  "models_2": [
+    2328
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Fire",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43051,
+      28
+    ]
+  ]
+}

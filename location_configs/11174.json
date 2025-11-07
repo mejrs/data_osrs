@@ -1,0 +1,15 @@
+{
+  "id": 11174,
+  "name": "Cave rocks",
+  "models_2": [
+    1391
+  ],
+  "is_transparent": true,
+  "colours": [
+    [
+      24,
+      7721
+    ]
+  ],
+  "mapscene": 12
+}

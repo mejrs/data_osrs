@@ -1,0 +1,40 @@
+{
+  "id": 49996,
+  "name": "Portal",
+  "models_2": [
+    37828
+  ],
+  "unknown_17": false,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8456,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Travel-End",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 44,
+  "colours": [
+    [
+      32995,
+      45619
+    ],
+    [
+      33488,
+      46036
+    ],
+    [
+      33344,
+      44626
+    ],
+    [
+      33455,
+      32995
+    ]
+  ],
+  "translate_y": 65535
+}

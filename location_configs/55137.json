@@ -1,0 +1,15 @@
+{
+  "id": 55137,
+  "name": "Termite mound",
+  "models_2": [
+    54517
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 30,
+  "model": false,
+  "scale_y": 160
+}

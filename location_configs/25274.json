@@ -1,0 +1,22 @@
+{
+  "id": 25274,
+  "name": "Whirlpool",
+  "models_2": [
+    57469
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 6737,
+  "ambient": 30,
+  "actions": [
+    "Dive in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "model": false
+}

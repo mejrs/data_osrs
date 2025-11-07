@@ -1,0 +1,21 @@
+{
+  "id": 53649,
+  "name": "Statue",
+  "models_2": [
+    53928,
+    53929
+  ],
+  "dim_x": 2,
+  "unknown_24": 11182,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2019
+}

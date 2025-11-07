@@ -1,0 +1,26 @@
+{
+  "id": 3339,
+  "models": [
+    [
+      22,
+      3177
+    ]
+  ],
+  "name": "Flat rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      53,
+      6798
+    ]
+  ]
+}

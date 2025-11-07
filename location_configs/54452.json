@@ -1,0 +1,17 @@
+{
+  "id": 54452,
+  "name": "Door",
+  "models_2": [
+    54928
+  ],
+  "dim_x": 4,
+  "ambient": 0,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35
+}

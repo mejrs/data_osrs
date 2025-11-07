@@ -1,0 +1,21 @@
+{
+  "id": 27780,
+  "name": "Score board",
+  "models_2": [
+    3293
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 50,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "scale_x": 50,
+  "scale_y": 50,
+  "scale_z": 50
+}

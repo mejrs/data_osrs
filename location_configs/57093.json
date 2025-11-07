@@ -1,0 +1,41 @@
+{
+  "id": 57093,
+  "name": "Redwood totem",
+  "models_2": [
+    56988
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Carve",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5665,
+      2595
+    ],
+    [
+      5545,
+      2599
+    ],
+    [
+      5427,
+      2609
+    ],
+    [
+      6457,
+      4645
+    ],
+    [
+      6466,
+      4659
+    ]
+  ]
+}

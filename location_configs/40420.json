@@ -1,0 +1,16 @@
+{
+  "id": 40420,
+  "name": "Big door",
+  "models_2": [
+    27710
+  ],
+  "ambient": 25,
+  "actions": [
+    "Open (normal)",
+    "Open (private)",
+    "Peek",
+    null,
+    null
+  ],
+  "contrast": 25
+}

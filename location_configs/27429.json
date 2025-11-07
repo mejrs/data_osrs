@@ -1,0 +1,11 @@
+{
+  "id": 27429,
+  "name": "Fruit cart",
+  "models_2": [
+    30131
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false
+}

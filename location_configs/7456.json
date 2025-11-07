@@ -1,0 +1,32 @@
+{
+  "id": 7456,
+  "models": [
+    [
+      0,
+      37229
+    ],
+    [
+      1,
+      37240
+    ],
+    [
+      2,
+      37232
+    ],
+    [
+      3,
+      37230
+    ],
+    [
+      9,
+      37241
+    ]
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "translate_y": 1
+}

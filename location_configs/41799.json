@@ -1,0 +1,28 @@
+{
+  "id": 41799,
+  "name": "Bed",
+  "models_2": [
+    12394
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4502,
+      7954
+    ],
+    [
+      4510,
+      7582
+    ]
+  ],
+  "category": 1561
+}

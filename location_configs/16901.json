@@ -1,0 +1,25 @@
+{
+  "id": 16901,
+  "models": [
+    [
+      4,
+      3511
+    ]
+  ],
+  "name": "Lantern",
+  "unknown_19": 1,
+  "unknown_24": 1073,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      41,
+      32910
+    ],
+    [
+      49,
+      32786
+    ]
+  ],
+  "category": 529
+}

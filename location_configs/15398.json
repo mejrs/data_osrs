@@ -1,0 +1,19 @@
+{
+  "id": 15398,
+  "name": "Stove space",
+  "models_2": [
+    12732
+  ],
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "params": {
+    "430": 2
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 46816,
+  "models": [
+    [
+      0,
+      35926
+    ],
+    [
+      1,
+      35932
+    ],
+    [
+      2,
+      35912
+    ],
+    [
+      3,
+      35931
+    ],
+    [
+      9,
+      35918
+    ]
+  ],
+  "name": "Fence",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 7,
+  "contrast": 7,
+  "model": false
+}

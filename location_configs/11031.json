@@ -1,0 +1,11 @@
+{
+  "id": 11031,
+  "name": "Wall",
+  "models_2": [
+    10911
+  ],
+  "dim_x": 5,
+  "unknown_19": 1,
+  "mirror": true,
+  "scale_y": 256
+}

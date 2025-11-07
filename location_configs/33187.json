@@ -1,0 +1,21 @@
+{
+  "id": 33187,
+  "name": "Roped tree",
+  "models_2": [
+    35909,
+    35930
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 27,
+  "mapscene": 6
+}

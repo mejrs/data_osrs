@@ -1,0 +1,18 @@
+{
+  "id": 33721,
+  "name": "Celastrus tree stump",
+  "models_2": [
+    36811,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 30,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 40249,
+  "name": "<col=ffff00>Kalphite Princess",
+  "models_2": [
+    24602,
+    24605,
+    24606
+  ],
+  "unknown_24": 6236,
+  "ambient": 30,
+  "contrast": 30,
+  "scale_x": 45,
+  "scale_y": 45,
+  "scale_z": 45
+}

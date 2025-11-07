@@ -1,0 +1,17 @@
+{
+  "id": 15077,
+  "name": "Flax",
+  "models_2": [
+    15107,
+    15109,
+    7766
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Rake",
+    null,
+    null,
+    null,
+    null
+  ]
+}

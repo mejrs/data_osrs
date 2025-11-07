@@ -1,0 +1,18 @@
+{
+  "id": 56124,
+  "name": "Abyssal demon head",
+  "models_2": [
+    56056
+  ],
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    "Trophies",
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "unknown_69": 27
+}

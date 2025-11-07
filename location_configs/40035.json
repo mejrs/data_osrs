@@ -1,0 +1,16 @@
+{
+  "id": 40035,
+  "name": "Table",
+  "models_2": [
+    40806
+  ],
+  "ambient": 15,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

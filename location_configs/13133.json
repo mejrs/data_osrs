@@ -1,0 +1,22 @@
+{
+  "id": 13133,
+  "models": [
+    [
+      0,
+      12966
+    ],
+    [
+      3,
+      12967
+    ]
+  ],
+  "name": "Fencing ring",
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

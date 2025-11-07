@@ -1,0 +1,13 @@
+{
+  "id": 16239,
+  "models": [
+    [
+      4,
+      16102
+    ]
+  ],
+  "name": "First aid box",
+  "unknown_19": 1,
+  "ambient": 40,
+  "translate_x": 65524
+}

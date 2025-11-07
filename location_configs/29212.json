@@ -1,0 +1,45 @@
+{
+  "id": 29212,
+  "name": "Mounted Ranged Cape",
+  "models_2": [
+    32190
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      15004
+    ],
+    [
+      54183,
+      15128
+    ],
+    [
+      54503,
+      15252
+    ],
+    [
+      960,
+      15004
+    ],
+    [
+      22464,
+      15128
+    ],
+    [
+      43968,
+      15252
+    ]
+  ],
+  "category": 206
+}

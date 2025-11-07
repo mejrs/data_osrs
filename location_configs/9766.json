@@ -1,0 +1,15 @@
+{
+  "id": 9766,
+  "name": "Slave",
+  "models_2": [
+    9674
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

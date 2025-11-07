@@ -1,0 +1,23 @@
+{
+  "id": 41786,
+  "name": "Bathtub",
+  "models_2": [
+    11535
+  ],
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43123,
+      10341
+    ]
+  ],
+  "category": 1561
+}

@@ -1,0 +1,22 @@
+{
+  "id": 59305,
+  "name": "Wreck of the Balanced Ballast",
+  "models_2": [
+    58883,
+    57638
+  ],
+  "dim_x": 2,
+  "unknown_24": 13600,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false,
+  "unknown_89": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15225,
+  "name": "Platform",
+  "models_2": [
+    15080
+  ],
+  "actions": [
+    "Use-Lift",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

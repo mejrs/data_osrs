@@ -1,0 +1,16 @@
+{
+  "id": 18675,
+  "name": "Cog",
+  "models_2": [
+    18841
+  ],
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7590,
+  "name": "Cadavaberry bush",
+  "models_2": [
+    7826,
+    7767,
+    7814
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick-from",
+    "Inspect",
+    null,
+    "Guide",
+    "Clear"
+  ],
+  "colours": [
+    [
+      14872,
+      24873
+    ],
+    [
+      8722,
+      10520
+    ],
+    [
+      6364,
+      53698
+    ]
+  ]
+}

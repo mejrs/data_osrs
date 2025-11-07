@@ -1,0 +1,19 @@
+{
+  "id": 16307,
+  "models": [
+    [
+      4,
+      16075
+    ]
+  ],
+  "name": "Rune temple sign",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

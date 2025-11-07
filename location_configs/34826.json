@@ -1,0 +1,31 @@
+{
+  "id": 34826,
+  "name": "Handy portal",
+  "models_2": [
+    2318
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 504,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "scale_x": 192,
+  "scale_y": 160,
+  "scale_z": 192,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 5
+  },
+  "mapscene": 64
+}

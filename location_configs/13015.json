@@ -1,0 +1,24 @@
+{
+  "id": 13015,
+  "models": [
+    [
+      0,
+      12193
+    ]
+  ],
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "unknown_28": 8,
+  "ambient": 30,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "mirror": true,
+  "translate_y": 1
+}

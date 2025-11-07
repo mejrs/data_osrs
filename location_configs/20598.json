@@ -1,0 +1,20 @@
+{
+  "id": 20598,
+  "name": "Wall",
+  "models_2": [
+    21490,
+    21492
+  ],
+  "dim_x": 2,
+  "unknown_17": false,
+  "ambient": 15,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Search"
+  ],
+  "contrast": 15,
+  "scale_y": 135
+}

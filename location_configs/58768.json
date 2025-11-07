@@ -1,0 +1,19 @@
+{
+  "id": 58768,
+  "name": "Dead Ironwood",
+  "models_2": [
+    58650,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 20
+}

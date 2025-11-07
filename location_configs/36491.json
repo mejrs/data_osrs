@@ -1,0 +1,19 @@
+{
+  "id": 36491,
+  "name": "Memoriam Device",
+  "models_2": [
+    37879
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5
+}

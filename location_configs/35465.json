@@ -1,0 +1,18 @@
+{
+  "id": 35465,
+  "name": "Seal of Trahaearn",
+  "models_2": [
+    38400
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 44
+}

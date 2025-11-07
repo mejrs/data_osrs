@@ -1,0 +1,13 @@
+{
+  "id": 55963,
+  "name": "Dog Burrow",
+  "models_2": [
+    55840
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15
+}

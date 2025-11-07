@@ -1,0 +1,47 @@
+{
+  "id": 57656,
+  "models": [
+    [
+      0,
+      38725
+    ],
+    [
+      1,
+      38711
+    ],
+    [
+      2,
+      38714
+    ],
+    [
+      3,
+      38718
+    ],
+    [
+      9,
+      38709
+    ]
+  ],
+  "name": "Debug Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      55232
+    ],
+    [
+      43080,
+      55232
+    ]
+  ]
+}

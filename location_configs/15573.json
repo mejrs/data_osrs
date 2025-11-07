@@ -1,0 +1,23 @@
+{
+  "id": 15573,
+  "models": [
+    [
+      10,
+      1565
+    ],
+    [
+      22,
+      20041
+    ]
+  ],
+  "name": "Tchiki Monkey Nut Bush",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pick Nuts",
+    null,
+    null,
+    null,
+    null
+  ]
+}

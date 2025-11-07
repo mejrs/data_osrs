@@ -1,0 +1,28 @@
+{
+  "id": 42211,
+  "name": "Monkeybars",
+  "models_2": [
+    42484
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      1825,
+      8128
+    ],
+    [
+      1814,
+      7089
+    ]
+  ]
+}

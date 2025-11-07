@@ -1,0 +1,21 @@
+{
+  "id": 5883,
+  "name": "Mud",
+  "models_2": [
+    2259
+  ],
+  "unknown_24": 480,
+  "actions": [
+    "Dig-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      27028,
+      5524
+    ]
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 53490,
+  "name": "Chain",
+  "models_2": [
+    53531
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true
+}

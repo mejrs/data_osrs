@@ -1,0 +1,12 @@
+{
+  "id": 43518,
+  "name": "Rubble",
+  "models_2": [
+    867
+  ],
+  "ambient": 10,
+  "contrast": 25,
+  "textures": {
+    "11": 95
+  }
+}

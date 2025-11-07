@@ -1,0 +1,21 @@
+{
+  "id": 42407,
+  "name": "Hollow log",
+  "models_2": [
+    1594
+  ],
+  "dim_x": 2,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      4537,
+      3346
+    ],
+    [
+      4531,
+      3470
+    ]
+  ],
+  "mapscene": 6
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9098,
+  "name": "Melting Pot",
+  "models_2": [
+    9037
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ]
+}

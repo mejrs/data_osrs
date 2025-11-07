@@ -1,0 +1,15 @@
+{
+  "id": 3378,
+  "name": "Unlocked Ogre chest",
+  "models_2": [
+    3449
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 30012,
+  "name": "Rocks",
+  "models_2": [
+    32753
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "translate_y": 65533
+}

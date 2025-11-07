@@ -1,0 +1,21 @@
+{
+  "id": 56264,
+  "name": "Flames",
+  "models_2": [
+    2298
+  ],
+  "unknown_19": 1,
+  "unknown_24": 494,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Pass",
+    "Quick Pass",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "mapscene": 75
+}

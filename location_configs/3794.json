@@ -1,0 +1,16 @@
+{
+  "id": 3794,
+  "name": "Grass",
+  "models_2": [
+    3794
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "colours": [
+    [
+      13212,
+      13204
+    ]
+  ]
+}

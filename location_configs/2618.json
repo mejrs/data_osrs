@@ -1,0 +1,16 @@
+{
+  "id": 2618,
+  "name": "Broken fence",
+  "models_2": [
+    24897
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65521
+}

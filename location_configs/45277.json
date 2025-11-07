@@ -1,0 +1,13 @@
+{
+  "id": 45277,
+  "name": "Pots",
+  "models_2": [
+    46155,
+    46153,
+    46154
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": -10,
+  "contrast": 40
+}

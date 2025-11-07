@@ -1,0 +1,24 @@
+{
+  "id": 40445,
+  "name": "Explosive potion table",
+  "models_2": [
+    7906,
+    41249
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      7099
+    ]
+  ],
+  "category": 1480
+}

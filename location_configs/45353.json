@@ -1,0 +1,16 @@
+{
+  "id": 45353,
+  "models": [
+    [
+      22,
+      45802
+    ]
+  ],
+  "name": "Pressure plate",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "category": 1664
+}

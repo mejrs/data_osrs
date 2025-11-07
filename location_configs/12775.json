@@ -1,0 +1,24 @@
+{
+  "id": 12775,
+  "name": "<col=ffff00>Marius</col>",
+  "models_2": [
+    14035
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      933,
+      5675
+    ]
+  ],
+  "params": {
+    "2312": 9
+  }
+}

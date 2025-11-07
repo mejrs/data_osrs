@@ -1,0 +1,21 @@
+{
+  "id": 21177,
+  "name": "Boat",
+  "models_2": [
+    21529
+  ],
+  "dim_x": 6,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 3742,
+  "ambient": 25,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 65535
+}

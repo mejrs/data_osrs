@@ -1,0 +1,21 @@
+{
+  "id": 4538,
+  "name": "Dead Tree",
+  "models_2": [
+    12944
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "scale_x": 75,
+  "scale_y": 75,
+  "scale_z": 75,
+  "mapscene": 0
+}

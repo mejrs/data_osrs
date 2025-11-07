@@ -1,0 +1,20 @@
+{
+  "id": 21134,
+  "models": [
+    [
+      22,
+      21605
+    ]
+  ],
+  "name": "Icicles",
+  "unknown_17": false,
+  "actions": [
+    "Tread-softly",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true
+}

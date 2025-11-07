@@ -1,0 +1,22 @@
+{
+  "id": 58447,
+  "name": "Monument",
+  "models_2": [
+    58873
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 25,
+  "colours": [
+    [
+      43096,
+      61
+    ]
+  ],
+  "scale_x": 164,
+  "scale_y": 164,
+  "scale_z": 164
+}

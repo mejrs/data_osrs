@@ -1,0 +1,14 @@
+{
+  "id": 15664,
+  "name": "Shot",
+  "models_2": [
+    15388
+  ],
+  "actions": [
+    "Throw",
+    null,
+    null,
+    null,
+    null
+  ]
+}

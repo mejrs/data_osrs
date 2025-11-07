@@ -1,0 +1,15 @@
+{
+  "id": 57665,
+  "name": "STASH (master)",
+  "models_2": [
+    32055
+  ],
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Search",
+    "Jump-over",
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 58740,
+  "name": "Dead Camphor",
+  "models_2": [
+    58639,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 20
+}

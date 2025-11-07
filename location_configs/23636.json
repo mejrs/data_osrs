@@ -1,0 +1,19 @@
+{
+  "id": 23636,
+  "models": [
+    [
+      4,
+      25780
+    ]
+  ],
+  "name": "Plaque",
+  "ambient": 20,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

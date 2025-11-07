@@ -1,0 +1,30 @@
+{
+  "id": 9051,
+  "name": "Diseased goutweed",
+  "models_2": [
+    7874,
+    10772
+  ],
+  "ambient": 25,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      11148
+    ],
+    [
+      19988,
+      11026
+    ],
+    [
+      19992,
+      10902
+    ]
+  ]
+}

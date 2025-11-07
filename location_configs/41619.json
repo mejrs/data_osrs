@@ -1,0 +1,19 @@
+{
+  "id": 41619,
+  "name": "Passage",
+  "models_2": [
+    35242
+  ],
+  "dim_x": 7,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1547
+}

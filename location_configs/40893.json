@@ -1,0 +1,17 @@
+{
+  "id": 40893,
+  "name": "Slope",
+  "models_2": [
+    10772
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

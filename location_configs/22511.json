@@ -1,0 +1,22 @@
+{
+  "id": 22511,
+  "name": "Wilf (sick)",
+  "models_2": [
+    23202,
+    23196
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 5975,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 646
+}

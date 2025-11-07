@@ -1,0 +1,24 @@
+{
+  "id": 15931,
+  "name": "Log Store",
+  "models_2": [
+    15813
+  ],
+  "actions": [
+    "Take-Log",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4515,
+      5916
+    ],
+    [
+      4391,
+      6689
+    ]
+  ]
+}

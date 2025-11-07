@@ -1,0 +1,29 @@
+{
+  "id": 8085,
+  "name": "Palm tree",
+  "models_2": [
+    8069,
+    7767,
+    8070
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick-coconut",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      21696,
+      18859
+    ],
+    [
+      21815,
+      19222
+    ]
+  ]
+}

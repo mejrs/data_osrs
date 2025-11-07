@@ -1,0 +1,23 @@
+{
+  "id": 32316,
+  "models": [
+    [
+      22,
+      34615
+    ]
+  ],
+  "name": "Debris",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 3743,
+  "ambient": 10,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5129,
+  "name": "Bush",
+  "models_2": [
+    12933
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

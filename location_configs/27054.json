@@ -1,0 +1,21 @@
+{
+  "id": 27054,
+  "models": [
+    [
+      0,
+      5090
+    ]
+  ],
+  "name": "Passage",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

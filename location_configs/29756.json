@@ -1,0 +1,31 @@
+{
+  "id": 29756,
+  "name": "Dim crystal",
+  "models_2": [
+    32502
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "colours": [
+    [
+      15296,
+      66
+    ],
+    [
+      15273,
+      99
+    ],
+    [
+      15029,
+      90
+    ],
+    [
+      16163,
+      82
+    ]
+  ]
+}

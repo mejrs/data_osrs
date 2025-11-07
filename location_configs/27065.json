@@ -1,0 +1,15 @@
+{
+  "id": 27065,
+  "name": "Log raft",
+  "models_2": [
+    1461
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ]
+}

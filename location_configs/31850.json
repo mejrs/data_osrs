@@ -1,0 +1,32 @@
+{
+  "id": 31850,
+  "name": "Rocks",
+  "models_2": [
+    16893,
+    16892
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5537,
+      43177
+    ],
+    [
+      5656,
+      43297
+    ],
+    [
+      5904,
+      43288
+    ]
+  ]
+}

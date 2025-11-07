@@ -1,0 +1,22 @@
+{
+  "id": 59313,
+  "name": "Crab monument",
+  "models_2": [
+    57644
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2317
+}

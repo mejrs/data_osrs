@@ -1,0 +1,20 @@
+{
+  "id": 42601,
+  "name": "Egg Sac",
+  "models_2": [
+    42846
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

@@ -1,0 +1,29 @@
+{
+  "id": 56994,
+  "models": [
+    [
+      22,
+      1743
+    ]
+  ],
+  "name": "Rocks",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_28": 32,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2209,
+  "params": {
+    "2291": 41,
+    "2294": 4,
+    "2295": 1,
+    "2296": 95
+  }
+}

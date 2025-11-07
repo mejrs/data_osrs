@@ -1,0 +1,14 @@
+{
+  "id": 5038,
+  "name": "Ice covered boulder",
+  "models_2": [
+    4956
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256
+}

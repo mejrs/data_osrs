@@ -1,0 +1,11 @@
+{
+  "id": 13844,
+  "name": "Swamp tree",
+  "models_2": [
+    14150
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 10,
+  "model": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 59163,
+  "unknown_19": 0,
+  "unknown_24": 13170,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "morphs_2": {
+    "varbit": 18418,
+    "ids": [
+      59164,
+      59164,
+      59165
+    ],
+    "default": 59164
+  },
+  "mapscene": 208
+}

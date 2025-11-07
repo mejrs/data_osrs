@@ -1,0 +1,45 @@
+{
+  "id": 49930,
+  "name": "Forester's Campfire",
+  "models_2": [
+    2260
+  ],
+  "unknown_17": false,
+  "unknown_24": 475,
+  "ambient": 75,
+  "actions": [
+    "Tend-to",
+    "Check",
+    "Rest",
+    null,
+    null
+  ],
+  "contrast": 75,
+  "colours": [
+    [
+      2987,
+      38860
+    ],
+    [
+      4019,
+      38715
+    ],
+    [
+      5056,
+      39855
+    ],
+    [
+      8128,
+      43943
+    ],
+    [
+      7104,
+      41907
+    ]
+  ],
+  "category": 152,
+  "unknown_78": {
+    "unknown_1": 2066,
+    "unknown_2": 5
+  }
+}

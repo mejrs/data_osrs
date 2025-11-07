@@ -1,0 +1,16 @@
+{
+  "id": 40028,
+  "name": "Cooking shelves",
+  "models_2": [
+    40832
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

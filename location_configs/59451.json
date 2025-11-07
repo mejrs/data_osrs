@@ -1,0 +1,46 @@
+{
+  "id": 59451,
+  "name": "Rune cannon",
+  "models_2": [
+    58153
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 13321,
+  "unknown_27": false,
+  "actions": [
+    "Operate",
+    "Check-ammunition",
+    "Reset-ammunition",
+    "hidden",
+    "Modify"
+  ],
+  "colours": [
+    [
+      54212,
+      2227
+    ],
+    [
+      54232,
+      2235
+    ],
+    [
+      54185,
+      2223
+    ],
+    [
+      21435,
+      36139
+    ],
+    [
+      21464,
+      36145
+    ],
+    [
+      21400,
+      36252
+    ]
+  ],
+  "category": 2319,
+  "unknown_69": 30
+}

@@ -1,0 +1,13 @@
+{
+  "id": 44047,
+  "name": "Body",
+  "models_2": [
+    20788
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10
+}

@@ -1,0 +1,16 @@
+{
+  "id": 624,
+  "name": "Table",
+  "models_2": [
+    1213
+  ],
+  "is_transparent": true,
+  "textures": {
+    "5": 16,
+    "22": 16
+  },
+  "category": 155,
+  "scale_x": 40,
+  "scale_y": 100,
+  "scale_z": 100
+}

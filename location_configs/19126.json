@@ -1,0 +1,18 @@
+{
+  "id": 19126,
+  "name": "Plank",
+  "models_2": [
+    19774
+  ],
+  "unknown_24": 3743,
+  "ambient": 10,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 65535
+}

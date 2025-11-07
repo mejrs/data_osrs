@@ -1,0 +1,42 @@
+{
+  "id": 20412,
+  "models": [
+    [
+      0,
+      21249
+    ]
+  ],
+  "name": "Coal ore vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "Hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      53,
+      8
+    ],
+    [
+      37,
+      0
+    ],
+    [
+      49,
+      12
+    ],
+    [
+      45,
+      16
+    ]
+  ],
+  "category": 200,
+  "scale_y": 153
+}

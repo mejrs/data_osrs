@@ -1,0 +1,18 @@
+{
+  "id": 37992,
+  "models": [
+    [
+      0,
+      9480
+    ]
+  ],
+  "name": "Gate",
+  "is_transparent": true,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ]
+}

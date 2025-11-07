@@ -1,0 +1,20 @@
+{
+  "id": 56249,
+  "name": "Glowing portal",
+  "models_2": [
+    53322
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 12092,
+  "ambient": 50,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50
+}

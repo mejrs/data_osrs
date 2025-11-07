@@ -1,0 +1,38 @@
+{
+  "id": 32986,
+  "name": "<col=ff9040>Tatty toy</col>",
+  "models_2": [
+    17291
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "colours": [
+    [
+      5681,
+      8986
+    ],
+    [
+      5801,
+      8856
+    ],
+    [
+      6049,
+      10012
+    ],
+    [
+      6940,
+      10004
+    ],
+    [
+      5652,
+      7566
+    ]
+  ],
+  "scale_x": 112,
+  "scale_y": 96,
+  "scale_z": 112,
+  "translate_x": 16,
+  "translate_z": 16,
+  "mapscene": 81
+}

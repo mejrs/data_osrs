@@ -1,0 +1,25 @@
+{
+  "id": 41182,
+  "models": [
+    [
+      10,
+      41690
+    ],
+    [
+      4,
+      41688
+    ]
+  ],
+  "name": "League Accomplishment Scroll",
+  "ambient": 20,
+  "actions": [
+    "League-statistics",
+    "League-rankings",
+    "League-firsts",
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206,
+  "unknown_69": 29
+}

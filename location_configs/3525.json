@@ -1,0 +1,17 @@
+{
+  "id": 3525,
+  "name": "Grotto",
+  "models_2": [
+    3578
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ]
+}

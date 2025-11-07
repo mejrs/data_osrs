@@ -1,0 +1,19 @@
+{
+  "id": 59699,
+  "name": "Salvaging station",
+  "models_2": [
+    58273
+  ],
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Sort-salvage",
+    null,
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 15,
+  "category": 2332,
+  "unknown_69": 27
+}

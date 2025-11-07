@@ -1,0 +1,42 @@
+{
+  "id": 44226,
+  "name": "Plant",
+  "models_2": [
+    1643
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 40,
+  "colours": [
+    [
+      61,
+      9519
+    ],
+    [
+      49,
+      8481
+    ],
+    [
+      24,
+      8598
+    ],
+    [
+      41,
+      8598
+    ],
+    [
+      37,
+      8472
+    ],
+    [
+      33,
+      8472
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_x": 25,
+  "translate_z": 25,
+  "unknown_75": 0
+}

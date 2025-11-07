@@ -1,0 +1,13 @@
+{
+  "id": 57193,
+  "name": "Sawdust",
+  "models_2": [
+    57029
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30
+}

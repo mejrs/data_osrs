@@ -1,0 +1,14 @@
+{
+  "id": 51571,
+  "models": [
+    [
+      4,
+      52338
+    ]
+  ],
+  "name": "The Lost Pickaxe",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 35
+}

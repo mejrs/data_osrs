@@ -1,0 +1,19 @@
+{
+  "id": 34553,
+  "models": [
+    [
+      0,
+      36435
+    ]
+  ],
+  "name": "Alchemical door",
+  "unknown_21": true,
+  "actions": [
+    "Open",
+    "Quick-open",
+    null,
+    null,
+    null
+  ],
+  "category": 1300
+}

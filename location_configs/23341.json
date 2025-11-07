@@ -1,0 +1,37 @@
+{
+  "id": 23341,
+  "models": [
+    [
+      0,
+      12367
+    ]
+  ],
+  "name": "Large door",
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6940,
+      7700
+    ],
+    [
+      5662,
+      8976
+    ],
+    [
+      7064,
+      8846
+    ],
+    [
+      6038,
+      8976
+    ]
+  ],
+  "mirror": true,
+  "unknown_75": 0
+}

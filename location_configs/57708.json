@@ -1,0 +1,17 @@
+{
+  "id": 57708,
+  "name": "Rope",
+  "models_2": [
+    1842
+  ],
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

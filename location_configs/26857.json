@@ -1,0 +1,15 @@
+{
+  "id": 26857,
+  "name": "Scratching post space",
+  "models_2": [
+    28952
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

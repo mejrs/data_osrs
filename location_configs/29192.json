@@ -1,0 +1,45 @@
+{
+  "id": 29192,
+  "name": "Mounted Farming Cape",
+  "models_2": [
+    32179
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Teleport",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      21916
+    ],
+    [
+      54183,
+      22412
+    ],
+    [
+      54503,
+      22036
+    ],
+    [
+      960,
+      21916
+    ],
+    [
+      22464,
+      22036
+    ],
+    [
+      43968,
+      22412
+    ]
+  ],
+  "category": 206
+}

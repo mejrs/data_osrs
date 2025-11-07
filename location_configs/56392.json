@@ -1,0 +1,21 @@
+{
+  "id": 56392,
+  "name": "Exit",
+  "models_2": [
+    42434
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50
+}

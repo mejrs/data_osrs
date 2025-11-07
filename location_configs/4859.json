@@ -1,0 +1,22 @@
+{
+  "id": 4859,
+  "name": "Gorilla Statue",
+  "models_2": [
+    4739
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8514,
+      7646
+    ]
+  ]
+}

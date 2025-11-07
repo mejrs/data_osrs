@@ -1,0 +1,19 @@
+{
+  "id": 56418,
+  "name": "Plank",
+  "models_2": [
+    19774
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 3743,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

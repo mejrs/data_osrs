@@ -1,0 +1,16 @@
+{
+  "id": 25268,
+  "name": "Barbarian bed",
+  "models_2": [
+    26739
+  ],
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

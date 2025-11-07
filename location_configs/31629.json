@@ -1,0 +1,20 @@
+{
+  "id": 31629,
+  "models": [
+    [
+      4,
+      34373
+    ]
+  ],
+  "name": "Bookshelf",
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 1202
+}

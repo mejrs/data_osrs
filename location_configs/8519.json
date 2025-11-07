@@ -1,0 +1,28 @@
+{
+  "id": 8519,
+  "name": "Diseased Yew",
+  "models_2": [
+    8153,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      6682,
+      10778
+    ]
+  ],
+  "textures": {
+    "8": 41,
+    "60": 41
+  }
+}

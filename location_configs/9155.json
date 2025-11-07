@@ -1,0 +1,19 @@
+{
+  "id": 9155,
+  "name": "Globe of Gielinor",
+  "models_2": [
+    7398
+  ],
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      6430,
+      9915
+    ],
+    [
+      5400,
+      9915
+    ]
+  ]
+}

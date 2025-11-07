@@ -1,0 +1,24 @@
+{
+  "id": 35971,
+  "name": "Corrupt Fishing Spot",
+  "models_2": [
+    37462
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 8412,
+  "ambient": 30,
+  "actions": [
+    "Fish",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 44,
+  "category": 1357,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

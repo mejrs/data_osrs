@@ -1,0 +1,46 @@
+{
+  "id": 12546,
+  "name": "Crate",
+  "models_2": [
+    5256
+  ],
+  "is_transparent": true,
+  "ambient": 35,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5417,
+      6032
+    ],
+    [
+      5413,
+      5908
+    ],
+    [
+      5537,
+      5784
+    ],
+    [
+      5532,
+      5665
+    ],
+    [
+      5656,
+      5541
+    ],
+    [
+      5652,
+      5660
+    ]
+  ],
+  "category": 209,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100
+}

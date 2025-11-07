@@ -1,0 +1,16 @@
+{
+  "id": 3650,
+  "name": "Cave entrance",
+  "models_2": [
+    15618
+  ],
+  "unknown_22": true,
+  "ambient": 70,
+  "actions": [
+    "Enter",
+    "Toggle-warning",
+    null,
+    null,
+    null
+  ]
+}

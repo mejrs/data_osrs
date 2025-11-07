@@ -1,0 +1,36 @@
+{
+  "id": 14860,
+  "name": "Altar",
+  "models_2": [
+    12370,
+    12379
+  ],
+  "dim_x": 2,
+  "ambient": 25,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6682,
+      7954
+    ],
+    [
+      6443,
+      7706
+    ],
+    [
+      24,
+      78
+    ],
+    [
+      43094,
+      9436
+    ]
+  ],
+  "category": 897
+}

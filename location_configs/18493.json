@@ -1,0 +1,19 @@
+{
+  "id": 18493,
+  "name": "Signpost",
+  "models_2": [
+    18518
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 556,
+  "model": false
+}

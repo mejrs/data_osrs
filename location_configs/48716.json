@@ -1,0 +1,16 @@
+{
+  "id": 48716,
+  "name": "Old campfire",
+  "models_2": [
+    20055
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    "Hidden",
+    null
+  ]
+}

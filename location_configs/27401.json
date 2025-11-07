@@ -1,0 +1,21 @@
+{
+  "id": 27401,
+  "name": "Bologano plant",
+  "models_2": [
+    30125,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Water",
+    null,
+    null,
+    null
+  ],
+  "category": 901
+}

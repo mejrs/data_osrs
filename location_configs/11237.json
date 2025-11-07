@@ -1,0 +1,18 @@
+{
+  "id": 11237,
+  "actions": [
+    "Take-powder",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 1756,
+    "ids": [
+      11238,
+      11239,
+      11315
+    ]
+  }
+}

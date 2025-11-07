@@ -1,0 +1,26 @@
+{
+  "id": 14642,
+  "name": "Tree",
+  "models_2": [
+    14739
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "colours": [
+    [
+      10772,
+      7322
+    ],
+    [
+      11148,
+      7446
+    ],
+    [
+      10638,
+      7442
+    ]
+  ],
+  "mapscene": 6
+}

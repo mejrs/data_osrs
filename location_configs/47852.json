@@ -1,0 +1,35 @@
+{
+  "id": 47852,
+  "models": [
+    [
+      22,
+      48682
+    ]
+  ],
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": -10,
+  "contrast": 20,
+  "colours": [
+    [
+      50462,
+      21923
+    ],
+    [
+      57628,
+      21908
+    ],
+    [
+      49189,
+      29865
+    ],
+    [
+      49197,
+      29861
+    ]
+  ],
+  "mirror": true,
+  "model": false,
+  "translate_y": 65535
+}

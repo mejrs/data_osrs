@@ -1,0 +1,19 @@
+{
+  "id": 2934,
+  "name": "Winch",
+  "models_2": [
+    1795
+  ],
+  "dim_x": 4,
+  "dim_y": 5,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 300,
+  "scale_y": 300,
+  "scale_z": 300
+}

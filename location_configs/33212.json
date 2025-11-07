@@ -1,0 +1,18 @@
+{
+  "id": 33212,
+  "name": "<col=ffff00>Ice wolf</col>",
+  "models_2": [
+    26266
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 6580,
+  "unknown_27": false,
+  "ambient": 80,
+  "mapscene": 82,
+  "params": {
+    "2312": 9
+  }
+}

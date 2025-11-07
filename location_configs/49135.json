@@ -1,0 +1,22 @@
+{
+  "id": 49135,
+  "models": [
+    [
+      0,
+      48742
+    ]
+  ],
+  "name": "Sapphire Gate",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "model": false,
+  "unknown_75": 0
+}

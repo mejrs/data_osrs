@@ -1,0 +1,27 @@
+{
+  "id": 13639,
+  "name": "Scrying pool",
+  "models_2": [
+    13192
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 3644,
+  "ambient": 40,
+  "actions": [
+    "Direct-portal",
+    "Scry",
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_78": {
+    "unknown_1": 2149,
+    "unknown_2": 3
+  },
+  "params": {
+    "429": 2,
+    "430": 2
+  }
+}

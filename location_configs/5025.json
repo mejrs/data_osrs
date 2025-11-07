@@ -1,0 +1,33 @@
+{
+  "id": 5025,
+  "models": [
+    [
+      0,
+      789
+    ],
+    [
+      9,
+      790
+    ]
+  ],
+  "name": "Crevasse",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      43131
+    ],
+    [
+      6808,
+      43123
+    ]
+  ]
+}

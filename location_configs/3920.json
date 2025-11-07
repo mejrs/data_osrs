@@ -1,0 +1,16 @@
+{
+  "id": 3920,
+  "name": "Tripwire",
+  "models_2": [
+    3920
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "actions": [
+    "Step-over",
+    null,
+    null,
+    null,
+    null
+  ]
+}

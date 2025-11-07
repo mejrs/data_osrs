@@ -1,0 +1,20 @@
+{
+  "id": 9410,
+  "models": [
+    [
+      10,
+      9406
+    ],
+    [
+      0,
+      9407
+    ]
+  ],
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "scale_x": 128,
+  "scale_y": 256,
+  "scale_z": 128
+}

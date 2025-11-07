@@ -1,0 +1,16 @@
+{
+  "id": 36229,
+  "name": "Dark hole",
+  "models_2": [
+    37826
+  ],
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

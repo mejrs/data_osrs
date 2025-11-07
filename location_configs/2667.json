@@ -1,0 +1,15 @@
+{
+  "id": 2667,
+  "name": "Winch",
+  "models_2": [
+    1778
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Look at",
+    "Use",
+    null,
+    null,
+    null
+  ]
+}

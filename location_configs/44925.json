@@ -1,0 +1,22 @@
+{
+  "id": 44925,
+  "name": "Staging area steps",
+  "models_2": [
+    45009
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mirror": true,
+  "unknown_69": 30,
+  "mapscene": 7
+}

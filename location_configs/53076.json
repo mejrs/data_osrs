@@ -1,0 +1,9 @@
+{
+  "id": 53076,
+  "name": "Pile of eggs",
+  "models_2": [
+    53075
+  ],
+  "ambient": 10,
+  "contrast": 75
+}

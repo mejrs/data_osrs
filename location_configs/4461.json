@@ -1,0 +1,16 @@
+{
+  "id": 4461,
+  "name": "Table",
+  "models_2": [
+    1213,
+    4417
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Take-from",
+    "Take-5",
+    null,
+    null,
+    null
+  ]
+}

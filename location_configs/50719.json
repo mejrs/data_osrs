@@ -1,0 +1,30 @@
+{
+  "id": 50719,
+  "name": "Net trap",
+  "models_2": [
+    19934
+  ],
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 5271,
+  "actions": [
+    "Dismantle",
+    "Reset",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6682,
+      32827
+    ],
+    [
+      6071,
+      0
+    ]
+  ],
+  "category": 191,
+  "unknown_75": 0,
+  "mapscene": 68
+}

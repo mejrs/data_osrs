@@ -1,0 +1,11 @@
+{
+  "id": 22625,
+  "name": "Levers",
+  "models_2": [
+    23520
+  ],
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20
+}

@@ -1,0 +1,45 @@
+{
+  "id": 29219,
+  "name": "Mounted Smithing Cape (t)",
+  "models_2": [
+    32182
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      6067
+    ],
+    [
+      54183,
+      9152
+    ],
+    [
+      54503,
+      6067
+    ],
+    [
+      960,
+      5318
+    ],
+    [
+      22464,
+      5309
+    ],
+    [
+      43968,
+      10512
+    ]
+  ],
+  "category": 206
+}

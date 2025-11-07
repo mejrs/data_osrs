@@ -1,0 +1,17 @@
+{
+  "id": 27432,
+  "name": "Sack",
+  "models_2": [
+    30133
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 903
+}

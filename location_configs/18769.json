@@ -1,0 +1,17 @@
+{
+  "id": 18769,
+  "name": "Gilded cape rack",
+  "models_2": [
+    19004,
+    19001
+  ],
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "category": 206
+}

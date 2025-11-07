@@ -1,0 +1,15 @@
+{
+  "id": 13674,
+  "name": "Lever",
+  "models_2": [
+    13123
+  ],
+  "actions": [
+    "Pull",
+    "Challenge-mode",
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

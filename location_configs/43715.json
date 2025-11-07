@@ -1,0 +1,20 @@
+{
+  "id": 43715,
+  "name": "Guardian parts",
+  "models_2": [
+    44026
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 1617
+}

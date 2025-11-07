@@ -1,0 +1,22 @@
+{
+  "id": 59372,
+  "name": "Wreck of the Lunar Longship",
+  "models_2": [
+    59027
+  ],
+  "dim_x": 6,
+  "dim_y": 3,
+  "unknown_24": 3743,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317,
+  "model": false,
+  "unknown_75": 0
+}

@@ -1,0 +1,18 @@
+{
+  "id": 34575,
+  "models_2": [
+    36202,
+    36201
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 0,
+  "unknown_24": 8285,
+  "ambient": 30,
+  "contrast": 44,
+  "category": 1301,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "unknown_69": 27
+}

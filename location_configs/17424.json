@@ -1,0 +1,18 @@
+{
+  "id": 17424,
+  "models": [
+    [
+      4,
+      17486
+    ]
+  ],
+  "name": "Drain",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

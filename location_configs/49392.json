@@ -1,0 +1,13 @@
+{
+  "id": 49392,
+  "name": "Abyssal Growth",
+  "models_2": [
+    49010
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 25,
+  "category": 1832
+}

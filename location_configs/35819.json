@@ -1,0 +1,35 @@
+{
+  "id": 35819,
+  "name": "<col=ffff00>Man</col>",
+  "models_2": [
+    37993
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8050,
+  "unknown_27": false,
+  "ambient": -10,
+  "colours": [
+    [
+      6798,
+      4888
+    ],
+    [
+      8741,
+      43160
+    ],
+    [
+      25238,
+      6430
+    ],
+    [
+      4626,
+      8
+    ]
+  ],
+  "model": false,
+  "mapscene": 82,
+  "params": {
+    "2312": 9
+  }
+}

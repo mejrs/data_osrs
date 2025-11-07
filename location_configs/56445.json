@@ -1,0 +1,16 @@
+{
+  "id": 56445,
+  "name": "Corpse",
+  "models_2": [
+    56413
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 12211,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30,
+  "category": 2182,
+  "translate_y": 65525,
+  "unknown_89": false
+}

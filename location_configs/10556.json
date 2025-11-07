@@ -1,0 +1,15 @@
+{
+  "id": 10556,
+  "name": "Champion Statue",
+  "models_2": [
+    10257
+  ],
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

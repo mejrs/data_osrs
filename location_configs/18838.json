@@ -1,0 +1,12 @@
+{
+  "id": 18838,
+  "name": "Trolley",
+  "models_2": [
+    19129,
+    19135
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false
+}

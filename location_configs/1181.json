@@ -1,0 +1,15 @@
+{
+  "id": 1181,
+  "name": "Nettles",
+  "models_2": [
+    5407
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2944,
+  "name": "Tall Reeds",
+  "models_2": [
+    1674
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 56682,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2199,
+  "morphs_2": {
+    "varbit": 16675,
+    "ids": [
+      56683,
+      56683,
+      56683
+    ],
+    "default": 56684
+  }
+}

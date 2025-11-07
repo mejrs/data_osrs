@@ -1,0 +1,20 @@
+{
+  "id": 17962,
+  "models": [
+    [
+      4,
+      17578
+    ]
+  ],
+  "name": "Daeyalt rocks",
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "Hidden",
+    null,
+    null
+  ],
+  "category": 544
+}

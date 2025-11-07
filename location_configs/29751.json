@@ -1,0 +1,18 @@
+{
+  "id": 29751,
+  "name": "<col=ff9040>Keystone crystal</col>",
+  "models_2": [
+    2335
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 81
+}

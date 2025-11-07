@@ -1,0 +1,12 @@
+{
+  "id": 30832,
+  "name": "Blood Stinkhorn",
+  "models_2": [
+    33639
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10
+}

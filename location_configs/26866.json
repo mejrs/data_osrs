@@ -1,0 +1,21 @@
+{
+  "id": 26866,
+  "models": [
+    [
+      22,
+      28920
+    ]
+  ],
+  "name": "Arena",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

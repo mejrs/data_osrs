@@ -1,0 +1,26 @@
+{
+  "id": 29143,
+  "name": "Boss lair space",
+  "models_2": [
+    32168
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "params": {
+    "429": 3,
+    "430": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 27500,
+  "name": "Stump",
+  "models_2": [
+    30093
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "mapscene": 0
+}

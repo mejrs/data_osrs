@@ -1,0 +1,14 @@
+{
+  "id": 2367,
+  "name": "Signpost",
+  "models_2": [
+    1402
+  ],
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

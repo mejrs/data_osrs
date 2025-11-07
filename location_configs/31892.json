@@ -1,0 +1,19 @@
+{
+  "id": 31892,
+  "name": "Old passageway",
+  "models_2": [
+    34541
+  ],
+  "dim_y": 2,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

@@ -1,0 +1,16 @@
+{
+  "id": 30545,
+  "name": "Smelly mushroom",
+  "models_2": [
+    33841
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

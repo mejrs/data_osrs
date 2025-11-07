@@ -1,0 +1,13 @@
+{
+  "id": 56768,
+  "name": "Pillar",
+  "models_2": [
+    57081,
+    57082
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 60
+}

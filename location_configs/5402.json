@@ -1,0 +1,12 @@
+{
+  "id": 5402,
+  "models": [
+    [
+      0,
+      5302
+    ]
+  ],
+  "dim_x": 2,
+  "unknown_22": true,
+  "mirror": true
+}

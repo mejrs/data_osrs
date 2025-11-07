@@ -1,0 +1,32 @@
+{
+  "id": 1736,
+  "models": [
+    [
+      0,
+      3369
+    ]
+  ],
+  "name": "Odd looking wall",
+  "unknown_19": 1,
+  "actions": [
+    "Push",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      9098
+    ],
+    [
+      20,
+      7050
+    ]
+  ],
+  "textures": {
+    "2": 23
+  },
+  "unknown_75": 0
+}

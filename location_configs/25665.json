@@ -1,0 +1,28 @@
+{
+  "id": 25665,
+  "name": "Sir Palomedes",
+  "models_2": [
+    27126
+  ],
+  "unknown_17": false,
+  "unknown_24": 6913,
+  "ambient": 10,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      7888,
+      4903
+    ],
+    [
+      5537,
+      5652
+    ]
+  ]
+}

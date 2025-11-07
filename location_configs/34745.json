@@ -1,0 +1,30 @@
+{
+  "id": 34745,
+  "name": "Mysterious ruins",
+  "models_2": [
+    9625
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      38860,
+      10155
+    ],
+    [
+      36824,
+      13241
+    ],
+    [
+      38860,
+      10361
+    ]
+  ]
+}

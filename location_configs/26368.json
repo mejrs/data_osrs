@@ -1,0 +1,15 @@
+{
+  "id": 26368,
+  "name": "Big hole",
+  "models_2": [
+    27786
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 6987,
+  "ambient": 100,
+  "contrast": 20,
+  "model": false
+}

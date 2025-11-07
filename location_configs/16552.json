@@ -1,0 +1,20 @@
+{
+  "id": 16552,
+  "models": [
+    [
+      0,
+      9238
+    ]
+  ],
+  "name": "Ornate railing",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

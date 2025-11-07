@@ -1,0 +1,32 @@
+{
+  "id": 34642,
+  "dim_x": 2,
+  "unknown_19": 1,
+  "occludes_1": false,
+  "unknown_24": 7503,
+  "unknown_27": false,
+  "category": 1299,
+  "model": false,
+  "translate_y": 65535,
+  "unknown_75": 0,
+  "morphs_1": {
+    "varbit": 7942,
+    "ids": [
+      34432,
+      34432,
+      34432,
+      34433,
+      34433,
+      34433,
+      34434,
+      34434,
+      34434,
+      34434,
+      34434
+    ]
+  },
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  }
+}

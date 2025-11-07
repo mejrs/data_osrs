@@ -1,0 +1,27 @@
+{
+  "id": 18871,
+  "models": [
+    [
+      22,
+      19306
+    ]
+  ],
+  "name": "Rock",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Climb",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      7721
+    ]
+  ]
+}

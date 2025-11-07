@@ -1,0 +1,40 @@
+{
+  "id": 60122,
+  "name": "Plinth",
+  "models_2": [
+    59517
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      28,
+      49300
+    ],
+    [
+      33,
+      49300
+    ],
+    [
+      39,
+      49304
+    ],
+    [
+      45,
+      49308
+    ],
+    [
+      57,
+      49313
+    ]
+  ],
+  "scale_x": 148,
+  "scale_y": 148,
+  "scale_z": 148,
+  "translate_y": 65532
+}

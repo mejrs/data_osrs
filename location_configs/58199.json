@@ -1,0 +1,28 @@
+{
+  "id": 58199,
+  "name": "Tree",
+  "models_2": [
+    16293,
+    16294
+  ],
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Chop-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      6819,
+      6554
+    ]
+  ],
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "mapscene": 1
+}

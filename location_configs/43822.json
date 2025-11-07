@@ -1,0 +1,30 @@
+{
+  "id": 43822,
+  "name": "Guardian of Mind",
+  "models_2": [
+    43995,
+    43989
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 9363,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      962,
+      5056
+    ]
+  ],
+  "category": 1616,
+  "model": false
+}

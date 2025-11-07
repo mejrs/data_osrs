@@ -1,0 +1,9 @@
+{
+  "id": 21603,
+  "name": "Broken barrel",
+  "models_2": [
+    22026
+  ],
+  "is_transparent": true,
+  "ambient": 25
+}

@@ -1,0 +1,22 @@
+{
+  "id": 59336,
+  "name": "Partial ship",
+  "models_2": [
+    18213
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2317,
+  "model": false,
+  "translate_y": 20
+}

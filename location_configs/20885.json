@@ -1,0 +1,14 @@
+{
+  "id": 20885,
+  "name": "Crate",
+  "models_2": [
+    25038
+  ],
+  "actions": [
+    "Buy",
+    null,
+    null,
+    null,
+    null
+  ]
+}

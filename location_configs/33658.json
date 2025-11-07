@@ -1,0 +1,19 @@
+{
+  "id": 33658,
+  "name": "White lily",
+  "models_2": [
+    36833,
+    7767,
+    7783
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

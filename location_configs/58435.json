@@ -1,0 +1,16 @@
+{
+  "id": 58435,
+  "name": "Coconut crate",
+  "models_2": [
+    58804,
+    7191
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 25,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96
+}

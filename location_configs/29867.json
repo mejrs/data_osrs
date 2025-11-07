@@ -1,0 +1,12 @@
+{
+  "id": 29867,
+  "name": "Giant Anvil",
+  "models_2": [
+    32499
+  ],
+  "dim_x": 6,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 6800,
+  "name": "Repair bench",
+  "models_2": [
+    12187
+  ],
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

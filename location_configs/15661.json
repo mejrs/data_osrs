@@ -1,0 +1,16 @@
+{
+  "id": 15661,
+  "models": [
+    [
+      10,
+      15380
+    ],
+    [
+      0,
+      15379
+    ]
+  ],
+  "name": "Heavy door",
+  "mirror": true,
+  "translate_y": 3
+}

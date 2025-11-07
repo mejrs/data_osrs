@@ -1,0 +1,19 @@
+{
+  "id": 50706,
+  "name": "Mounted Dizana's Max Cape",
+  "models_2": [
+    52843
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "category": 206
+}

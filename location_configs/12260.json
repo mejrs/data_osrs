@@ -1,0 +1,22 @@
+{
+  "id": 12260,
+  "name": "Portal",
+  "models_2": [
+    12635,
+    11233
+  ],
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_24": 3174,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 26835,
+  "name": "Tree",
+  "models_2": [
+    28931
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

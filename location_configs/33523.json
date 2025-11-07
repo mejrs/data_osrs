@@ -1,0 +1,21 @@
+{
+  "id": 33523,
+  "name": "Runic Altar",
+  "models_2": [
+    36229
+  ],
+  "dim_x": 3,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "translate_z": 16
+}

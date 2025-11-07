@@ -1,0 +1,28 @@
+{
+  "id": 13483,
+  "name": "<col=ff9040>Transdimensional notes</col>",
+  "models_2": [
+    2633
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Take"
+  ],
+  "colours": [
+    [
+      5018,
+      2977
+    ],
+    [
+      10351,
+      7644
+    ]
+  ],
+  "scale_y": 96,
+  "unknown_75": 1
+}

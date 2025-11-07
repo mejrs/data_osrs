@@ -1,0 +1,12 @@
+{
+  "id": 30035,
+  "name": "Carved head",
+  "models_2": [
+    32760
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "occludes_1": false,
+  "unknown_27": false
+}

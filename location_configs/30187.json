@@ -1,0 +1,14 @@
+{
+  "id": 30187,
+  "name": "Bucket",
+  "models_2": [
+    14028,
+    14030
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 3558,
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192
+}

@@ -1,0 +1,20 @@
+{
+  "id": 17080,
+  "name": "Strong Tree",
+  "models_2": [
+    16910
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 128,
+  "scale_y": 150,
+  "scale_z": 128,
+  "mapscene": 10
+}

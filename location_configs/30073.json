@@ -1,0 +1,16 @@
+{
+  "id": 30073,
+  "name": "Slimy pillars",
+  "models_2": [
+    32765
+  ],
+  "dim_x": 4,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_24": 7501,
+  "unknown_27": false
+}

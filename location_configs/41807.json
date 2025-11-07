@@ -1,0 +1,30 @@
+{
+  "id": 41807,
+  "name": "Portal",
+  "models_2": [
+    6194
+  ],
+  "dim_x": 4,
+  "unknown_24": 1908,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      910,
+      38300
+    ],
+    [
+      916,
+      38199
+    ]
+  ],
+  "scale_x": 232,
+  "scale_y": 232,
+  "scale_z": 232,
+  "translate_y": 44
+}

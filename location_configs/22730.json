@@ -1,0 +1,26 @@
+{
+  "id": 22730,
+  "name": "Wire",
+  "models_2": [
+    23572,
+    23576,
+    23577,
+    23578
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 6038,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Grab",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 3506,
+    "unknown_2": 3
+  }
+}

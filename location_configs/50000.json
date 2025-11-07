@@ -1,0 +1,21 @@
+{
+  "id": 50000,
+  "name": "Steps",
+  "models_2": [
+    32433
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    "Reload",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30,
+  "mapscene": 7
+}

@@ -1,0 +1,17 @@
+{
+  "id": 32535,
+  "name": "Rock Pile",
+  "models_2": [
+    3921
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Clamber",
+    null,
+    "Quick-exit",
+    null,
+    null
+  ],
+  "mapscene": 11
+}

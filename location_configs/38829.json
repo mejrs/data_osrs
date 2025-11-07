@@ -1,0 +1,19 @@
+{
+  "id": 38829,
+  "name": "Portal",
+  "models_2": [
+    40180
+  ],
+  "dim_x": 5,
+  "unknown_22": true,
+  "unknown_24": 8694,
+  "ambient": 30,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

@@ -1,0 +1,40 @@
+{
+  "id": 11043,
+  "name": "Stone Ladder",
+  "models_2": [
+    10950
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 30,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7481,
+      7618
+    ],
+    [
+      8501,
+      7609
+    ],
+    [
+      8497,
+      6707
+    ],
+    [
+      8493,
+      6703
+    ],
+    [
+      8617,
+      7595
+    ]
+  ],
+  "unknown_69": 27
+}

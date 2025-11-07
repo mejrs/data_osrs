@@ -1,0 +1,23 @@
+{
+  "id": 14743,
+  "name": "Sack",
+  "models_2": [
+    1482
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8094,
+      7954
+    ]
+  ],
+  "category": 220
+}

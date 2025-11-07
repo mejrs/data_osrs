@@ -1,0 +1,11 @@
+{
+  "id": 6474,
+  "name": "Ice chunks",
+  "models_2": [
+    6330
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "model": false
+}

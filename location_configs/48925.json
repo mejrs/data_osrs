@@ -1,0 +1,19 @@
+{
+  "id": 48925,
+  "name": "Rubble",
+  "models_2": [
+    49092
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 29
+}

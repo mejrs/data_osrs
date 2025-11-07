@@ -1,0 +1,19 @@
+{
+  "id": 59363,
+  "name": "Lurking Shadow",
+  "models_2": [
+    57629
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317
+}

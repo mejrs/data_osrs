@@ -1,0 +1,21 @@
+{
+  "id": 25425,
+  "name": "Tendrils",
+  "models_2": [
+    7442,
+    7441
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 27
+}

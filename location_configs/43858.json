@@ -1,0 +1,21 @@
+{
+  "id": 43858,
+  "name": "Repaired trip hammer",
+  "models_2": [
+    44816
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 9449,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "unknown_69": 27
+}

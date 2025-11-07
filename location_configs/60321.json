@@ -1,0 +1,19 @@
+{
+  "id": 60321,
+  "name": "Ledger table",
+  "models_2": [
+    57700
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Deposit-cargo",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 2345,
+  "unknown_69": 27
+}

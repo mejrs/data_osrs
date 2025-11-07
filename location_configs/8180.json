@@ -1,0 +1,30 @@
+{
+  "id": 8180,
+  "name": "Hammerstone Hops",
+  "models_2": [
+    8203,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13210,
+      13857
+    ],
+    [
+      13214,
+      13737
+    ],
+    [
+      13095,
+      13857
+    ]
+  ]
+}

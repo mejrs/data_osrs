@@ -1,0 +1,33 @@
+{
+  "id": 56938,
+  "name": "Broken whetstone",
+  "models_2": [
+    56350
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      5545,
+      6689
+    ],
+    [
+      6466,
+      6808
+    ],
+    [
+      10287,
+      5165
+    ]
+  ],
+  "unknown_69": 27
+}

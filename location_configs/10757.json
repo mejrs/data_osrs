@@ -1,0 +1,26 @@
+{
+  "id": 10757,
+  "models": [
+    [
+      22,
+      10603
+    ]
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      14633,
+      8602
+    ],
+    [
+      9542,
+      6447
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 128
+}

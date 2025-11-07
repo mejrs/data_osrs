@@ -1,0 +1,19 @@
+{
+  "id": 1592,
+  "models": [
+    [
+      10,
+      653
+    ],
+    [
+      0,
+      644
+    ]
+  ],
+  "name": "Doorway",
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "mirror": true,
+  "unknown_75": 0
+}

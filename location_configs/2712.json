@@ -1,0 +1,26 @@
+{
+  "id": 2712,
+  "name": "Shelves",
+  "models_2": [
+    7392,
+    7677
+  ],
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6430,
+      7587
+    ],
+    [
+      5400,
+      7582
+    ]
+  ]
+}

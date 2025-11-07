@@ -1,0 +1,16 @@
+{
+  "id": 2539,
+  "name": "Stairs",
+  "models_2": [
+    1237
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Walk-up",
+    null,
+    null,
+    null,
+    null
+  ]
+}

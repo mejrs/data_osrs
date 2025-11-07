@@ -1,0 +1,35 @@
+{
+  "id": 41563,
+  "models": [
+    [
+      10,
+      5514
+    ],
+    [
+      1,
+      5515
+    ]
+  ],
+  "name": "Small rock",
+  "unknown_24": 1727,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      10266
+    ],
+    [
+      43117,
+      30292
+    ]
+  ],
+  "model": false,
+  "scale_x": 70,
+  "scale_y": 70,
+  "scale_z": 70,
+  "unknown_78": {
+    "unknown_1": 3087,
+    "unknown_2": 3
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 52590,
+  "name": "Flour bin",
+  "models_2": [
+    38735,
+    25311
+  ],
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Empty",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      3226,
+      5409
+    ],
+    [
+      3350,
+      5404
+    ],
+    [
+      3346,
+      5400
+    ],
+    [
+      3470,
+      5392
+    ],
+    [
+      3594,
+      5388
+    ]
+  ],
+  "scale_y": 154
+}

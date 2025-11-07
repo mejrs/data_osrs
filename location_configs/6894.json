@@ -1,0 +1,16 @@
+{
+  "id": 6894,
+  "name": "Bookcase",
+  "models_2": [
+    1245
+  ],
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29,
+  "translate_y": 1
+}

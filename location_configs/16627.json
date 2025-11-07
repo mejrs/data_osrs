@@ -1,0 +1,19 @@
+{
+  "id": 16627,
+  "name": "Eight",
+  "models_2": [
+    16777
+  ],
+  "unknown_19": 1,
+  "unknown_24": 4356,
+  "ambient": 30,
+  "actions": [
+    "Press",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "model": false
+}

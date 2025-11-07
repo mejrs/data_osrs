@@ -1,0 +1,17 @@
+{
+  "id": 45498,
+  "name": "Potions",
+  "models_2": [
+    46268,
+    46267
+  ],
+  "ambient": 10,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

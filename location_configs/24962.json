@@ -1,0 +1,17 @@
+{
+  "id": 24962,
+  "name": "Hopper",
+  "models_2": [
+    1379
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 513,
+  "unknown_69": 30
+}

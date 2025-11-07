@@ -1,0 +1,20 @@
+{
+  "id": 41624,
+  "name": "Cart",
+  "models_2": [
+    19275,
+    19274,
+    19277
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1547,
+  "unknown_69": 30
+}

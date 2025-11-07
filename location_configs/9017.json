@@ -1,0 +1,32 @@
+{
+  "id": 9017,
+  "name": "Medium Jungle",
+  "models_2": [
+    8897
+  ],
+  "is_transparent": true,
+  "unknown_24": 2380,
+  "actions": [
+    null,
+    null,
+    "Hidden",
+    "Hack",
+    null
+  ],
+  "colours": [
+    [
+      6825,
+      7841
+    ],
+    [
+      6585,
+      7851
+    ],
+    [
+      15017,
+      16037
+    ]
+  ],
+  "category": 160,
+  "mapscene": 5
+}

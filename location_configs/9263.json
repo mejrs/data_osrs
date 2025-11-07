@@ -1,0 +1,13 @@
+{
+  "id": 9263,
+  "name": "White Tree",
+  "models_2": [
+    9210
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85
+}

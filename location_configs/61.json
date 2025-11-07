@@ -1,0 +1,17 @@
+{
+  "id": 61,
+  "name": "Chaos altar",
+  "models_2": [
+    1216
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Pray-at",
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "category": 897
+}

@@ -1,0 +1,1 @@
+[{"name": "Skeleton", "id": 10717, "p": 0, "x": 1677, "y": 3575, "size": 1, "walkingAnimation": 5481, "standingAnimation": 5483, "actions": ["None", "Attack", "None", "None", "None"], "category": 257, "combatLevel": 25, "models": [21170, 21178, 21159, 21156, 21180, 21202, 21187]}]

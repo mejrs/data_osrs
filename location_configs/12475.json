@@ -1,0 +1,17 @@
+{
+  "id": 12475,
+  "name": "Anchor",
+  "models_2": [
+    13733
+  ],
+  "unknown_22": true,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "mapscene": 41
+}

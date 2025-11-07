@@ -1,0 +1,14 @@
+{
+  "id": 36235,
+  "name": "Rope bridge",
+  "models_2": [
+    37827
+  ],
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ]
+}

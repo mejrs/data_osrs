@@ -1,0 +1,20 @@
+{
+  "id": 6843,
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "morphs_1": {
+    "varbit": 488,
+    "ids": [
+      6844,
+      6844,
+      6844,
+      6845,
+      6845,
+      6845
+    ]
+  },
+  "mapscene": 34
+}

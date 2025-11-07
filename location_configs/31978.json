@@ -1,0 +1,23 @@
+{
+  "id": 31978,
+  "name": "Vorkath display",
+  "models_2": [
+    35100
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 30,
+  "actions": [
+    "Configure",
+    "Jars",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 44,
+  "category": 206,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "unknown_69": 27
+}

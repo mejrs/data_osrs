@@ -1,0 +1,14 @@
+{
+  "id": 27121,
+  "name": "Fishing spot",
+  "models_2": [
+    1491
+  ],
+  "actions": [
+    "Bait",
+    "hidden",
+    "hidden",
+    "hidden",
+    null
+  ]
+}

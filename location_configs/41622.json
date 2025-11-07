@@ -1,0 +1,27 @@
+{
+  "id": 41622,
+  "name": "Gate",
+  "models_2": [
+    4728
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      5673
+    ],
+    [
+      41,
+      6585
+    ]
+  ],
+  "category": 1547,
+  "mirror": true
+}

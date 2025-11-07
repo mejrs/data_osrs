@@ -1,0 +1,25 @@
+{
+  "id": 27785,
+  "name": "Statue",
+  "models_2": [
+    30553
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    "Read",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
+  "unknown_69": 27
+}

@@ -1,0 +1,19 @@
+{
+  "id": 24799,
+  "name": "Mouse hole",
+  "models_2": [
+    26011
+  ],
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

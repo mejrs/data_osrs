@@ -1,0 +1,28 @@
+{
+  "id": 1796,
+  "models": [
+    [
+      0,
+      6618
+    ],
+    [
+      1,
+      6619
+    ],
+    [
+      9,
+      6620
+    ]
+  ],
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

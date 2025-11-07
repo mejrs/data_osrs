@@ -1,0 +1,44 @@
+{
+  "id": 51371,
+  "name": "Supply crates",
+  "models_2": [
+    29965
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Take-from",
+    "Take-from <col=00ffff>Fishing",
+    "Take-from <col=00ffff>Hunting",
+    "Take-from <col=00ffff>Herblore",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6563,
+      3230
+    ],
+    [
+      6443,
+      3226
+    ],
+    [
+      6558,
+      148
+    ],
+    [
+      6439,
+      3226
+    ],
+    [
+      7700,
+      148
+    ],
+    [
+      5904,
+      148
+    ]
+  ]
+}

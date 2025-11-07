@@ -1,0 +1,27 @@
+{
+  "id": 8451,
+  "name": "Diseased Maple",
+  "models_2": [
+    8023,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      5786,
+      9882
+    ]
+  ],
+  "textures": {
+    "33": 41
+  }
+}

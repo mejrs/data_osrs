@@ -1,0 +1,16 @@
+{
+  "id": 3194,
+  "name": "Open chest",
+  "models_2": [
+    1226
+  ],
+  "actions": [
+    "Bank",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "category": 237,
+  "unknown_69": 30
+}

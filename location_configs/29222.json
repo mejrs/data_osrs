@@ -1,0 +1,45 @@
+{
+  "id": 29222,
+  "name": "Mounted Thieving Cape",
+  "models_2": [
+    32180
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      58661
+    ],
+    [
+      54183,
+      58661
+    ],
+    [
+      54503,
+      59152
+    ],
+    [
+      960,
+      58661
+    ],
+    [
+      22464,
+      58785
+    ],
+    [
+      43968,
+      58904
+    ]
+  ],
+  "category": 206
+}

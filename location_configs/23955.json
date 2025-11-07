@@ -1,0 +1,23 @@
+{
+  "id": 23955,
+  "name": "Magical Animator",
+  "models_2": [
+    15351
+  ],
+  "is_transparent": true,
+  "unknown_24": 4161,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Animate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 128,
+  "scale_y": 115,
+  "scale_z": 128,
+  "unknown_69": 30,
+  "unknown_75": 0
+}

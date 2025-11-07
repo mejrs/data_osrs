@@ -1,0 +1,21 @@
+{
+  "id": 56141,
+  "models": [
+    [
+      0,
+      56066
+    ]
+  ],
+  "name": "Window space",
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "contrast": 25,
+  "category": 207,
+  "scale_y": 120
+}

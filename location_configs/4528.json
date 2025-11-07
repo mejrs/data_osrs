@@ -1,0 +1,21 @@
+{
+  "id": 4528,
+  "name": "Statue",
+  "models_2": [
+    20420,
+    13188,
+    13189
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 3647,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11979,
+  "name": "Viewing orb",
+  "models_2": [
+    9298
+  ],
+  "unknown_24": 2657,
+  "ambient": 60,
+  "actions": [
+    "Look-into",
+    null,
+    null,
+    null,
+    null
+  ]
+}

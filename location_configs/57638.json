@@ -1,0 +1,30 @@
+{
+  "id": 57638,
+  "name": "Table",
+  "models_2": [
+    9559
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "contrast": 5,
+  "colours": [
+    [
+      6693,
+      5404
+    ],
+    [
+      6812,
+      5400
+    ],
+    [
+      6817,
+      5524
+    ],
+    [
+      6936,
+      5427
+    ]
+  ],
+  "category": 154
+}

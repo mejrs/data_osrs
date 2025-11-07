@@ -1,0 +1,21 @@
+{
+  "id": 4812,
+  "models": [
+    [
+      10,
+      4741
+    ],
+    [
+      22,
+      4742
+    ]
+  ],
+  "name": "Jungle Grass",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "scale_x": 128,
+  "scale_y": 270,
+  "scale_z": 128,
+  "unknown_73": true
+}

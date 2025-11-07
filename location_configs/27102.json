@@ -1,0 +1,19 @@
+{
+  "id": 27102,
+  "name": "Crates",
+  "models_2": [
+    31456
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

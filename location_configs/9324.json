@@ -1,0 +1,11 @@
+{
+  "id": 9324,
+  "name": "Toy corner",
+  "models_2": [
+    27086
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "translate_y": 65535
+}

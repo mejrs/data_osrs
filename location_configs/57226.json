@@ -1,0 +1,14 @@
+{
+  "id": 57226,
+  "name": "Large roots",
+  "models_2": [
+    56590
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": -10,
+  "contrast": 20,
+  "mirror": true
+}

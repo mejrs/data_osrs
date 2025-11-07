@@ -1,0 +1,17 @@
+{
+  "id": 32203,
+  "name": "Ancient Mural",
+  "models_2": [
+    34678
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

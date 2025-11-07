@@ -1,0 +1,27 @@
+{
+  "id": 41790,
+  "name": "Dresser",
+  "models_2": [
+    12466
+  ],
+  "dim_x": 2,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4502,
+      7954
+    ],
+    [
+      4510,
+      7582
+    ]
+  ],
+  "category": 1561
+}

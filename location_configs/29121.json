@@ -1,0 +1,26 @@
+{
+  "id": 29121,
+  "name": "Topiary space",
+  "models_2": [
+    32093
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
+}

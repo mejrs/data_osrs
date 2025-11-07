@@ -1,0 +1,24 @@
+{
+  "id": 12941,
+  "name": "Fountain",
+  "models_2": [
+    22212,
+    22213
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 5797,
+  "ambient": 30,
+  "actions": [
+    "Drink-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 2149,
+    "unknown_2": 8
+  }
+}

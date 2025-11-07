@@ -1,0 +1,16 @@
+{
+  "id": 33560,
+  "name": "Table",
+  "models_2": [
+    36224,
+    36234,
+    36216,
+    36248
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "scale_x": 102,
+  "scale_y": 102,
+  "scale_z": 102,
+  "translate_x": 20
+}

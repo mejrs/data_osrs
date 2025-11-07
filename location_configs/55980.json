@@ -1,0 +1,13 @@
+{
+  "id": 55980,
+  "name": "Frozen Throne",
+  "models_2": [
+    55966
+  ],
+  "dim_x": 6,
+  "dim_y": 6,
+  "ambient": 40,
+  "contrast": 20,
+  "model": false,
+  "mapscene": 120
+}

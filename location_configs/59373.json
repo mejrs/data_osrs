@@ -1,0 +1,21 @@
+{
+  "id": 59373,
+  "name": "Prop shipwreck",
+  "models_2": [
+    58895
+  ],
+  "dim_x": 5,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 13624,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2317,
+  "model": false,
+  "unknown_89": false
+}

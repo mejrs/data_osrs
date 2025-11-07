@@ -1,0 +1,34 @@
+{
+  "id": 56529,
+  "models": [
+    [
+      0,
+      51803
+    ]
+  ],
+  "name": "Door",
+  "ambient": 20,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      3230,
+      5404
+    ],
+    [
+      3226,
+      5400
+    ],
+    [
+      148,
+      5392
+    ]
+  ],
+  "unknown_75": 0
+}

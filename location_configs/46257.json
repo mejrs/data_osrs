@@ -1,0 +1,18 @@
+{
+  "id": 46257,
+  "name": "Great cauldron",
+  "models_2": [
+    46675,
+    46674
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Deposit",
+    "Check",
+    "Claim",
+    null,
+    null
+  ],
+  "category": 1721
+}

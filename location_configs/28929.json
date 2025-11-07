@@ -1,0 +1,20 @@
+{
+  "id": 28929,
+  "name": "<col=ffff00>Juna</col>",
+  "models_2": [
+    6536
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    "Story",
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "2312": 9
+  }
+}

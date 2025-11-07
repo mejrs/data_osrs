@@ -1,0 +1,26 @@
+{
+  "id": 28786,
+  "name": "Rockfall",
+  "models_2": [
+    818
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Clear",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      6930
+    ]
+  ],
+  "mapscene": 11
+}

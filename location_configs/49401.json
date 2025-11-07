@@ -1,0 +1,16 @@
+{
+  "id": 49401,
+  "models": [
+    [
+      22,
+      48718
+    ]
+  ],
+  "name": "Crimson Vein",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 20
+}

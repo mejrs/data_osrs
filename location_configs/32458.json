@@ -1,0 +1,26 @@
+{
+  "id": 32458,
+  "name": "History",
+  "models_2": [
+    16788
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 4354,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "model": false,
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160,
+  "mapscene": 66
+}

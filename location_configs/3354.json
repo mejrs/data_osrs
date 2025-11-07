@@ -1,0 +1,28 @@
+{
+  "id": 3354,
+  "name": "Tomb",
+  "models_2": [
+    708
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_22": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5669,
+      8078
+    ],
+    [
+      5665,
+      7954
+    ]
+  ],
+  "mirror": true
+}

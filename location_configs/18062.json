@@ -1,0 +1,17 @@
+{
+  "id": 18062,
+  "name": "Table",
+  "models_2": [
+    17658
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

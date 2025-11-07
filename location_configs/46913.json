@@ -1,0 +1,22 @@
+{
+  "id": 46913,
+  "models_2": [
+    10974
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 40,
+  "colours": [
+    [
+      10518,
+      43030
+    ],
+    [
+      10398,
+      43030
+    ]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 54694,
+  "name": "Xerna's Diadem",
+  "models_2": [
+    52363,
+    54902
+  ],
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

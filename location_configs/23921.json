@@ -1,0 +1,23 @@
+{
+  "id": 23921,
+  "models": [
+    [
+      10,
+      15846
+    ],
+    [
+      14,
+      15847
+    ]
+  ],
+  "name": "Boney ladder",
+  "unknown_21": true,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7
+}

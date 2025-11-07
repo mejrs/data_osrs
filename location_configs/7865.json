@@ -1,0 +1,40 @@
+{
+  "id": 7865,
+  "name": "Dead limpwurt plant",
+  "models_2": [
+    7850,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      12833,
+      31630
+    ],
+    [
+      978,
+      1317
+    ],
+    [
+      65453,
+      551
+    ],
+    [
+      2526,
+      37
+    ],
+    [
+      65339,
+      171
+    ]
+  ]
+}

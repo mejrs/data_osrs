@@ -1,0 +1,19 @@
+{
+  "id": 21400,
+  "models": [
+    [
+      0,
+      22140
+    ]
+  ],
+  "name": "Large door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 167,
+  "unknown_75": 0
+}

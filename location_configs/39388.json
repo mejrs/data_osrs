@@ -1,0 +1,12 @@
+{
+  "id": 39388,
+  "name": "Coffin",
+  "models_2": [
+    40382
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 10
+}

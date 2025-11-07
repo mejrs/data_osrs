@@ -1,0 +1,18 @@
+{
+  "id": 40894,
+  "name": "Slope end",
+  "models_2": [
+    10772
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ]
+}

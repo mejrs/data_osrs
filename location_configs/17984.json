@@ -1,0 +1,22 @@
+{
+  "id": 17984,
+  "models": [
+    [
+      22,
+      17648
+    ]
+  ],
+  "name": "Lumpy rug",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 23,
+  "unknown_73": true,
+  "unknown_75": 0
+}

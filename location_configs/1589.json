@@ -1,0 +1,14 @@
+{
+  "id": 1589,
+  "name": "Doorway",
+  "models_2": [
+    674
+  ],
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "translate_x": 1,
+  "unknown_75": 0
+}

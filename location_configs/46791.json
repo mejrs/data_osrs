@@ -1,0 +1,24 @@
+{
+  "id": 46791,
+  "models_2": [
+    44593
+  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      40090,
+      6430
+    ],
+    [
+      40099,
+      6439
+    ]
+  ],
+  "scale_x": 104,
+  "scale_y": 108,
+  "scale_z": 104
+}

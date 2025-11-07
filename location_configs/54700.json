@@ -1,0 +1,16 @@
+{
+  "id": 54700,
+  "name": "Tools",
+  "models_2": [
+    54552
+  ],
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 11034,
+  "name": "Wall",
+  "models_2": [
+    10909
+  ],
+  "dim_x": 5,
+  "unknown_19": 1,
+  "scale_y": 256
+}

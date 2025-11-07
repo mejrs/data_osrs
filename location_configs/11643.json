@@ -1,0 +1,26 @@
+{
+  "id": 11643,
+  "models": [
+    [
+      22,
+      4443
+    ]
+  ],
+  "name": "Stepping stone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      5421
+    ]
+  ]
+}

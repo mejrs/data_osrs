@@ -1,0 +1,11 @@
+{
+  "id": 27215,
+  "name": "Training dummy",
+  "models_2": [
+    30003,
+    30001
+  ],
+  "dim_y": 2,
+  "unknown_27": false,
+  "category": 900
+}

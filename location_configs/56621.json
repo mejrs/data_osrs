@@ -1,0 +1,23 @@
+{
+  "id": 56621,
+  "name": "Glowing symbol",
+  "models_2": [
+    57034
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 9366,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "model": false
+}

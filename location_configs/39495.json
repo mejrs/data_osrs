@@ -1,0 +1,10 @@
+{
+  "id": 39495,
+  "name": "Planter",
+  "models_2": [
+    40282
+  ],
+  "dim_x": 2,
+  "ambient": 10,
+  "contrast": 10
+}

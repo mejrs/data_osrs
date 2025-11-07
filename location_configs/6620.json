@@ -1,0 +1,19 @@
+{
+  "id": 6620,
+  "models": [
+    [
+      0,
+      6430
+    ]
+  ],
+  "name": "Hole",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Climb-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

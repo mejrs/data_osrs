@@ -1,0 +1,31 @@
+{
+  "id": 43675,
+  "name": "Pineapple",
+  "models_2": [
+    44038
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -35,
+  "contrast": 25,
+  "colours": [
+    [
+      22024,
+      33422
+    ],
+    [
+      5640,
+      33288
+    ],
+    [
+      43662,
+      33030
+    ]
+  ],
+  "scale_x": 196,
+  "scale_y": 196,
+  "scale_z": 196,
+  "mapscene": 27
+}

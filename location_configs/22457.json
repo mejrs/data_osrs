@@ -1,0 +1,15 @@
+{
+  "id": 22457,
+  "name": "Crate",
+  "models_2": [
+    22928
+  ],
+  "ambient": 10,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ]
+}

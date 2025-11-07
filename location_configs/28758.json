@@ -1,0 +1,21 @@
+{
+  "id": 28758,
+  "models": [
+    [
+      22,
+      3639
+    ]
+  ],
+  "name": "Pressure pad",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

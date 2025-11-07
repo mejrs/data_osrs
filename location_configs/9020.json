@@ -1,0 +1,32 @@
+{
+  "id": 9020,
+  "name": "Dense Jungle",
+  "models_2": [
+    8895
+  ],
+  "is_transparent": true,
+  "unknown_24": 2380,
+  "actions": [
+    null,
+    null,
+    "Hidden",
+    "Hack",
+    null
+  ],
+  "colours": [
+    [
+      6825,
+      7060
+    ],
+    [
+      6585,
+      6817
+    ],
+    [
+      15017,
+      16030
+    ]
+  ],
+  "category": 161,
+  "mapscene": 5
+}

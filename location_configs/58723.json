@@ -1,0 +1,25 @@
+{
+  "id": 58723,
+  "name": "Camphor tree",
+  "models_2": [
+    58626,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    "Inspect",
+    "hidden",
+    "Guide",
+    null
+  ],
+  "contrast": 20,
+  "textures": {
+    "8": 194,
+    "60": 195
+  },
+  "unknown_81": 80,
+  "mapscene": 0
+}

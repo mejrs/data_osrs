@@ -1,0 +1,13 @@
+{
+  "id": 57186,
+  "name": "Redwood slices",
+  "models_2": [
+    57008
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -10,
+  "contrast": 50
+}

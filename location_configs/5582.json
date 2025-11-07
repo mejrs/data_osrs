@@ -1,0 +1,10 @@
+{
+  "id": 5582,
+  "name": "Logs",
+  "models_2": [
+    5496
+  ],
+  "is_transparent": true,
+  "ambient": 10,
+  "contrast": 20
+}

@@ -1,0 +1,11 @@
+{
+  "id": 48948,
+  "name": "Rack",
+  "models_2": [
+    47118
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 0,
+  "contrast": 35
+}

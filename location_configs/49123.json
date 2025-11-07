@@ -1,0 +1,21 @@
+{
+  "id": 49123,
+  "models": [
+    [
+      0,
+      48742
+    ]
+  ],
+  "name": "Sapphire Gate",
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 35,
+  "colours": [
+    [
+      7467,
+      42659
+    ]
+  ],
+  "model": false,
+  "unknown_75": 0
+}

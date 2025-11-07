@@ -1,0 +1,40 @@
+{
+  "id": 11768,
+  "models": [
+    [
+      22,
+      25640
+    ]
+  ],
+  "name": "Stepping stone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 3743,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7050,
+      5169
+    ],
+    [
+      8076,
+      5173
+    ],
+    [
+      7952,
+      5177
+    ]
+  ],
+  "scale_x": 112,
+  "scale_z": 112,
+  "unknown_73": true,
+  "mapscene": 11
+}

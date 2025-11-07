@@ -1,0 +1,11 @@
+{
+  "id": 589,
+  "name": "Crystal ball",
+  "models_2": [
+    1190
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "category": 154
+}

@@ -1,0 +1,23 @@
+{
+  "id": 48218,
+  "name": "Anima Portal",
+  "models_2": [
+    49445
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 6646,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 45,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

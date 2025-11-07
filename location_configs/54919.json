@@ -1,0 +1,47 @@
+{
+  "id": 54919,
+  "name": "Mixing vessel (Mammoth-might mix)",
+  "models_2": [
+    54866
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 11628,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      48563,
+      43439
+    ],
+    [
+      48547,
+      43425
+    ],
+    [
+      48666,
+      43414
+    ],
+    [
+      61229,
+      41523
+    ],
+    [
+      61223,
+      41513
+    ],
+    [
+      61214,
+      41505
+    ]
+  ],
+  "model": false
+}

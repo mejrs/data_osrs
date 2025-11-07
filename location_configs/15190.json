@@ -1,0 +1,9 @@
+{
+  "id": 15190,
+  "name": "Light",
+  "models_2": [
+    13908
+  ],
+  "dim_y": 3,
+  "ambient": 50
+}

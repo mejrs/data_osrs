@@ -1,0 +1,18 @@
+{
+  "id": 26199,
+  "name": "Grinder",
+  "models_2": [
+    4650
+  ],
+  "dim_x": 2,
+  "dim_y": 4,
+  "ambient": 20,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

@@ -1,0 +1,19 @@
+{
+  "id": 30946,
+  "name": "Pile of Ancient Books",
+  "models_2": [
+    33976
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

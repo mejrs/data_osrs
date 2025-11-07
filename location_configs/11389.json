@@ -1,0 +1,21 @@
+{
+  "id": 11389,
+  "models": [
+    [
+      0,
+      33164
+    ]
+  ],
+  "name": "Amethyst crystals",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 967
+}

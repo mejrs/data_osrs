@@ -1,0 +1,12 @@
+{
+  "id": 21019,
+  "name": "Workbench",
+  "models_2": [
+    21798,
+    21800
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25
+}

@@ -1,0 +1,17 @@
+{
+  "id": 30928,
+  "name": "Fossil cleaning bench",
+  "models_2": [
+    33905
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ]
+}

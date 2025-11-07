@@ -1,0 +1,20 @@
+{
+  "id": 25118,
+  "name": "Magic door",
+  "models_2": [
+    26553,
+    26554,
+    26556,
+    26557
+  ],
+  "dim_x": 3,
+  "unknown_24": 6636,
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

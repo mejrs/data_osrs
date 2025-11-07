@@ -1,0 +1,42 @@
+{
+  "id": 10662,
+  "name": "Crate",
+  "models_2": [
+    7685
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      13596
+    ],
+    [
+      6439,
+      13592
+    ],
+    [
+      6563,
+      13716
+    ],
+    [
+      6558,
+      13840
+    ],
+    [
+      6682,
+      13964
+    ],
+    [
+      6806,
+      14216
+    ]
+  ]
+}

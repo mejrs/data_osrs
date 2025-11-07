@@ -1,0 +1,21 @@
+{
+  "id": 20647,
+  "name": "Deadfall",
+  "models_2": [
+    19910,
+    19922,
+    19913,
+    19909
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 5196,
+  "colours": [
+    [
+      5008,
+      5532
+    ]
+  ],
+  "category": 393,
+  "mapscene": 71
+}

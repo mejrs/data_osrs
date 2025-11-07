@@ -1,0 +1,21 @@
+{
+  "id": 6660,
+  "models": [
+    [
+      0,
+      6510
+    ]
+  ],
+  "name": "Weeping wall",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Collect-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 23,
+  "mapscene": 51
+}

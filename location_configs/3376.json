@@ -1,0 +1,19 @@
+{
+  "id": 3376,
+  "name": "Ogre bench",
+  "models_2": [
+    723
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      6036,
+      6689
+    ]
+  ],
+  "category": 156,
+  "scale_x": 110,
+  "scale_y": 74,
+  "scale_z": 128
+}

@@ -1,0 +1,21 @@
+{
+  "id": 29706,
+  "name": "Pool of Nightmares",
+  "models_2": [
+    32903
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 2686,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Drink-from",
+    "Spectate",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "translate_y": 65534
+}

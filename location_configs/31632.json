@@ -1,0 +1,30 @@
+{
+  "id": 31632,
+  "name": "Telescope",
+  "models_2": [
+    7401
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Observe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4634,
+      5667
+    ],
+    [
+      2723,
+      5665
+    ],
+    [
+      10167,
+      9647
+    ]
+  ],
+  "unknown_69": 30
+}

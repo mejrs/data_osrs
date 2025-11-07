@@ -1,0 +1,10 @@
+{
+  "id": 58078,
+  "name": "Drawers",
+  "models_2": [
+    58830
+  ],
+  "dim_x": 2,
+  "ambient": 10,
+  "contrast": 15
+}

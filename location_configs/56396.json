@@ -1,0 +1,25 @@
+{
+  "id": 56396,
+  "name": "Lectern",
+  "models_2": [
+    3138
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Observe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      28608,
+      49990
+    ]
+  ],
+  "params": {
+    "1862": 1
+  }
+}

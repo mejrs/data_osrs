@@ -1,0 +1,25 @@
+{
+  "id": 11248,
+  "name": "Gun Locker",
+  "models_2": [
+    11129
+  ],
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      5904
+    ],
+    [
+      7952,
+      6806
+    ]
+  ],
+  "unknown_69": 27
+}

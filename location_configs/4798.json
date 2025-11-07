@@ -1,0 +1,25 @@
+{
+  "id": 4798,
+  "name": "Bamboo Bookcase",
+  "models_2": [
+    1275
+  ],
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      6703
+    ],
+    [
+      5673,
+      5673
+    ]
+  ]
+}

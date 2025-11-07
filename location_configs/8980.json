@@ -1,0 +1,26 @@
+{
+  "id": 8980,
+  "models_2": [
+    30999
+  ],
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": -5,
+  "colours": [
+    [
+      53,
+      33
+    ],
+    [
+      45,
+      28
+    ],
+    [
+      49,
+      24
+    ]
+  ]
+}

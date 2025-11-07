@@ -1,0 +1,20 @@
+{
+  "id": 31986,
+  "models": [
+    [
+      4,
+      35098
+    ]
+  ],
+  "name": "Mythical cape",
+  "ambient": 25,
+  "actions": [
+    "Teleport",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

@@ -1,0 +1,16 @@
+{
+  "id": 37959,
+  "name": "Bank booth",
+  "models_2": [
+    1270
+  ],
+  "is_transparent": true,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 684
+}

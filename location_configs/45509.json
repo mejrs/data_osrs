@@ -1,0 +1,22 @@
+{
+  "id": 45509,
+  "name": "Rock steps",
+  "models_2": [
+    46270
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "model": false,
+  "translate_y": 65535
+}

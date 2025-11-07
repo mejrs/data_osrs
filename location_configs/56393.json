@@ -1,0 +1,41 @@
+{
+  "id": 56393,
+  "models": [
+    [
+      22,
+      56970
+    ]
+  ],
+  "name": "Inactive Rune",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      49275,
+      8012
+    ],
+    [
+      49251,
+      7618
+    ],
+    [
+      49230,
+      39473
+    ],
+    [
+      49205,
+      40483
+    ]
+  ],
+  "unknown_89": false
+}

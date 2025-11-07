@@ -1,0 +1,15 @@
+{
+  "id": 40311,
+  "name": "Potatoes",
+  "models_2": [
+    40885
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

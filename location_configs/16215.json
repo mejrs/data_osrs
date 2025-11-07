@@ -1,0 +1,16 @@
+{
+  "id": 16215,
+  "name": "Fairy workbench",
+  "models_2": [
+    16230
+  ],
+  "unknown_19": 1,
+  "unknown_24": 3247,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

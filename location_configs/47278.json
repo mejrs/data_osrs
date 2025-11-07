@@ -1,0 +1,21 @@
+{
+  "id": 47278,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Wilderness Boss Display",
+  "dim_x": 6,
+  "dim_y": 7,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "scale_x": 800,
+  "scale_z": 800
+}

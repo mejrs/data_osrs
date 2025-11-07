@@ -1,0 +1,24 @@
+{
+  "id": 54942,
+  "name": "Mature digweed",
+  "models_2": [
+    54489,
+    7766
+  ],
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      21799,
+      21801
+    ]
+  ]
+}

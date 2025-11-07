@@ -1,0 +1,15 @@
+{
+  "id": 2225,
+  "name": "Waterfall rocks",
+  "models_2": [
+    805
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ]
+}

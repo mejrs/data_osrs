@@ -1,0 +1,20 @@
+{
+  "id": 54572,
+  "name": "Ice chunks",
+  "models_2": [
+    6328
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 30,
+  "contrast": 30,
+  "colours": [
+    [
+      43243,
+      32893
+    ]
+  ],
+  "model": false,
+  "mapscene": 118
+}

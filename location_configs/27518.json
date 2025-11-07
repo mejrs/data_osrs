@@ -1,0 +1,11 @@
+{
+  "id": 27518,
+  "name": "Bar",
+  "models_2": [
+    30217
+  ],
+  "dim_x": 4,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false
+}

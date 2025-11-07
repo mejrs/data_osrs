@@ -1,0 +1,41 @@
+{
+  "id": 57077,
+  "name": "Maple totem",
+  "models_2": [
+    56987
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Carve",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5665,
+      3864
+    ],
+    [
+      5545,
+      4888
+    ],
+    [
+      5427,
+      5786
+    ],
+    [
+      6457,
+      4897
+    ],
+    [
+      6466,
+      3877
+    ]
+  ]
+}

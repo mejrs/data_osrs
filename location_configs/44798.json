@@ -1,0 +1,15 @@
+{
+  "id": 44798,
+  "models_2": [
+    45399
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 5,
+  "contrast": 30,
+  "mirror": true,
+  "translate_y": 65535
+}

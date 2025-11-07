@@ -1,0 +1,24 @@
+{
+  "id": 19206,
+  "models": [
+    [
+      10,
+      15613
+    ],
+    [
+      0,
+      15614
+    ]
+  ],
+  "name": "Gate of War",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 4284,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

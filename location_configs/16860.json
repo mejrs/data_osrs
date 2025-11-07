@@ -1,0 +1,16 @@
+{
+  "id": 16860,
+  "name": "Tar barrel",
+  "models_2": [
+    16527
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 529
+}

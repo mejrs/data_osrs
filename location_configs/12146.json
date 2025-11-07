@@ -1,0 +1,16 @@
+{
+  "id": 12146,
+  "name": "Canoe Station",
+  "models_2": [
+    11989
+  ],
+  "dim_x": 5,
+  "dim_y": 2,
+  "actions": [
+    "Shape-Canoe",
+    null,
+    "hidden",
+    null,
+    null
+  ]
+}

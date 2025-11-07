@@ -1,0 +1,18 @@
+{
+  "id": 35980,
+  "name": "Range",
+  "models_2": [
+    37602
+  ],
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Cook",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 44,
+  "category": 687
+}

@@ -1,0 +1,19 @@
+{
+  "id": 33520,
+  "name": "Table",
+  "models_2": [
+    36238
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 102,
+  "scale_y": 102,
+  "scale_z": 102,
+  "translate_z": 65516
+}

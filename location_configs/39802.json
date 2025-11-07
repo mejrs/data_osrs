@@ -1,0 +1,32 @@
+{
+  "id": 39802,
+  "name": "Herbs",
+  "models_2": [
+    7871,
+    10772
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      22406
+    ],
+    [
+      19988,
+      22416
+    ],
+    [
+      19992,
+      22422
+    ]
+  ]
+}

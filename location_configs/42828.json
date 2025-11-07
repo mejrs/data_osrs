@@ -1,0 +1,16 @@
+{
+  "id": 42828,
+  "name": "Hardcore armour crate",
+  "models_2": [
+    42965
+  ],
+  "ambient": 10,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

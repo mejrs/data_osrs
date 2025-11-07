@@ -1,0 +1,16 @@
+{
+  "id": 32450,
+  "name": "Fungi",
+  "models_2": [
+    33651
+  ],
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 86
+}

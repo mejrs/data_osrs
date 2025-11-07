@@ -1,0 +1,20 @@
+{
+  "id": 18381,
+  "name": "Badly repaired wall",
+  "models_2": [
+    18473
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 35,
+  "actions": [
+    "Kick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 29,
+  "translate_y": 1
+}

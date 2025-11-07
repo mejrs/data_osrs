@@ -1,0 +1,23 @@
+{
+  "id": 47232,
+  "name": "Darkmeyer Display",
+  "models_2": [
+    47583,
+    47526,
+    47564
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Peer-into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

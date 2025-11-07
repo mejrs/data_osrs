@@ -1,0 +1,18 @@
+{
+  "id": 10047,
+  "name": "Dark tunnel",
+  "models_2": [
+    28467
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 170,
+  "unknown_69": 23
+}

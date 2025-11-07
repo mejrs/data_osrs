@@ -1,0 +1,24 @@
+{
+  "id": 59297,
+  "name": "Wreck of the Shelled Snail",
+  "models_2": [
+    58883
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 4781,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 2317,
+  "model": false,
+  "unknown_89": false
+}

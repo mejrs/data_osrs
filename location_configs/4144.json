@@ -1,0 +1,21 @@
+{
+  "id": 4144,
+  "name": "Golden tree",
+  "models_2": [
+    3597
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 40,
+  "contrast": 40,
+  "colours": [
+    [
+      13592,
+      7952
+    ]
+  ],
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192,
+  "unknown_81": 80
+}

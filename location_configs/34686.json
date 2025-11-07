@@ -1,0 +1,28 @@
+{
+  "id": 34686,
+  "models": [
+    [
+      4,
+      36979
+    ]
+  ],
+  "name": "Leather shields",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      565,
+      43573
+    ],
+    [
+      559,
+      43567
+    ],
+    [
+      557,
+      43565
+    ]
+  ]
+}

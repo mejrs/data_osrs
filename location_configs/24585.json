@@ -1,0 +1,11 @@
+{
+  "id": 24585,
+  "name": "Machine",
+  "models_2": [
+    25463,
+    25464
+  ],
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 35
+}

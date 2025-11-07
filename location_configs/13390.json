@@ -1,0 +1,23 @@
+{
+  "id": 13390,
+  "name": "Jacky Jester",
+  "models_2": [
+    13120,
+    13119
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 3587,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206
+}

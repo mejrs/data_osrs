@@ -1,0 +1,18 @@
+{
+  "id": 29772,
+  "name": "Gourd tree",
+  "models_2": [
+    32487
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pick",
+    "Pick-lots",
+    null,
+    null,
+    null
+  ]
+}

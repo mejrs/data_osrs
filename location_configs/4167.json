@@ -1,0 +1,25 @@
+{
+  "id": 4167,
+  "name": "Chest",
+  "models_2": [
+    1249
+  ],
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      3350
+    ],
+    [
+      11171,
+      7326
+    ]
+  ],
+  "unknown_69": 30
+}

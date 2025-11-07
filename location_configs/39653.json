@@ -1,0 +1,24 @@
+{
+  "id": 39653,
+  "models": [
+    [
+      0,
+      40699
+    ]
+  ],
+  "name": "Barrier",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Pass-Through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "mirror": true,
+  "unknown_75": 0,
+  "mapscene": 70
+}

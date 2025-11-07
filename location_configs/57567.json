@@ -1,0 +1,12 @@
+{
+  "id": 57567,
+  "name": "Signpost",
+  "models_2": [
+    57025
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15
+}

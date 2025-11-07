@@ -1,0 +1,21 @@
+{
+  "id": 11700,
+  "models_2": [
+    4086
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 1261,
+  "colours": [
+    [
+      10543,
+      31636
+    ]
+  ],
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160
+}

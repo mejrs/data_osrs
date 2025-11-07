@@ -1,0 +1,22 @@
+{
+  "id": 34734,
+  "models": [
+    [
+      10,
+      1565
+    ],
+    [
+      22,
+      20041
+    ]
+  ],
+  "name": "Inconspicuous bush (beginner)",
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ]
+}

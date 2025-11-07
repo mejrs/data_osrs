@@ -1,0 +1,42 @@
+{
+  "id": 52589,
+  "name": "Mill",
+  "models_2": [
+    38735
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Empty",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      3226,
+      5409
+    ],
+    [
+      3350,
+      5404
+    ],
+    [
+      3346,
+      5400
+    ],
+    [
+      3470,
+      5392
+    ],
+    [
+      3594,
+      5388
+    ]
+  ],
+  "scale_y": 154
+}

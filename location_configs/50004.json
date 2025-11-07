@@ -1,0 +1,15 @@
+{
+  "id": 50004,
+  "name": "Corpse",
+  "models_2": [
+    1079
+  ],
+  "is_transparent": true,
+  "unknown_21": true,
+  "colours": [
+    [
+      6241,
+      10434
+    ]
+  ]
+}

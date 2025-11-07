@@ -1,0 +1,16 @@
+{
+  "id": 20783,
+  "name": "Spikey chain",
+  "models_2": [
+    9246
+  ],
+  "unknown_21": true,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7
+}

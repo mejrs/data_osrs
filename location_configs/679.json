@@ -1,0 +1,29 @@
+{
+  "id": 679,
+  "models": [
+    [
+      0,
+      789
+    ],
+    [
+      9,
+      790
+    ]
+  ],
+  "name": "Cave exit",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7335
+    ]
+  ]
+}

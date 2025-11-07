@@ -1,0 +1,11 @@
+{
+  "id": 17362,
+  "name": "Urn",
+  "models_2": [
+    17317
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 30
+}

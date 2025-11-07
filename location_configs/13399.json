@@ -1,0 +1,16 @@
+{
+  "id": 13399,
+  "name": "Stick and hoop",
+  "models_2": [
+    13196,
+    13197
+  ],
+  "actions": [
+    "Hoop",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

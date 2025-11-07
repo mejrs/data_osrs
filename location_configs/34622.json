@@ -1,0 +1,24 @@
+{
+  "id": 34622,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 1297,
+  "morphs_2": {
+    "varbit": 7856,
+    "ids": [
+      33586,
+      33586,
+      33586,
+      33586,
+      33586,
+      33586,
+      33586,
+      33586,
+      33586,
+      33585
+    ],
+    "default": 33586
+  },
+  "mapscene": 5
+}

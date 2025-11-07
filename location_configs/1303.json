@@ -1,0 +1,28 @@
+{
+  "id": 1303,
+  "name": "Tree",
+  "models_2": [
+    1701
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 20,
+  "colours": [
+    [
+      61,
+      15799
+    ],
+    [
+      49,
+      15923
+    ],
+    [
+      41,
+      6583
+    ]
+  ],
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 5
+}

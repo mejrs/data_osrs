@@ -1,0 +1,22 @@
+{
+  "id": 3220,
+  "name": "Door",
+  "models_2": [
+    750
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7952
+    ]
+  ]
+}

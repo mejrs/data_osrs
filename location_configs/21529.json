@@ -1,0 +1,33 @@
+{
+  "id": 21529,
+  "name": "Rift",
+  "models_2": [
+    22030
+  ],
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      24,
+      7322
+    ],
+    [
+      20,
+      5268
+    ],
+    [
+      16,
+      5392
+    ],
+    [
+      12,
+      5388
+    ],
+    [
+      8,
+      5640
+    ]
+  ],
+  "unknown_73": true
+}

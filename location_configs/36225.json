@@ -1,0 +1,19 @@
+{
+  "id": 36225,
+  "name": "Tightrope",
+  "models_2": [
+    37820
+  ],
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

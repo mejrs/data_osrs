@@ -1,0 +1,17 @@
+{
+  "id": 59318,
+  "name": "Gnome the ball",
+  "models_2": [
+    57612
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317
+}

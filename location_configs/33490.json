@@ -1,0 +1,15 @@
+{
+  "id": 33490,
+  "name": "Display Case",
+  "models_2": [
+    36227
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 5,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

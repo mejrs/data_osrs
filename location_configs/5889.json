@@ -1,0 +1,21 @@
+{
+  "id": 5889,
+  "models": [
+    [
+      0,
+      5710
+    ]
+  ],
+  "name": "Tent door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true
+}

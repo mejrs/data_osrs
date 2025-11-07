@@ -1,0 +1,32 @@
+{
+  "id": 8013,
+  "name": "Dead banana tree",
+  "models_2": [
+    7930,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      9123,
+      10275
+    ],
+    [
+      7068,
+      10266
+    ],
+    [
+      22100,
+      38049
+    ]
+  ]
+}

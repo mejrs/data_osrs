@@ -1,0 +1,42 @@
+{
+  "id": 40999,
+  "name": "Mast",
+  "models_2": [
+    22880
+  ],
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Tether",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5665,
+      10396
+    ],
+    [
+      5541,
+      10401
+    ],
+    [
+      5660,
+      10392
+    ],
+    [
+      5784,
+      10388
+    ],
+    [
+      5904,
+      10508
+    ]
+  ],
+  "category": 1507
+}

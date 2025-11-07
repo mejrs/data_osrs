@@ -1,0 +1,19 @@
+{
+  "id": 28859,
+  "name": "Servant's money bag",
+  "models_2": [
+    32822
+  ],
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

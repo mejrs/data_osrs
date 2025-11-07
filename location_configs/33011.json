@@ -1,0 +1,20 @@
+{
+  "id": 33011,
+  "name": "War table",
+  "models_2": [
+    35441
+  ],
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1247
+}

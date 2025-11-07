@@ -1,0 +1,43 @@
+{
+  "id": 30019,
+  "name": "Magical fire",
+  "models_2": [
+    26582
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 6645,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      10471,
+      46036
+    ],
+    [
+      5056,
+      45896
+    ],
+    [
+      7104,
+      45764
+    ],
+    [
+      8146,
+      45760
+    ]
+  ],
+  "category": 152,
+  "unknown_78": {
+    "unknown_1": 2066,
+    "unknown_2": 10
+  }
+}

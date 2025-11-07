@@ -1,0 +1,37 @@
+{
+  "id": 56375,
+  "models": [
+    [
+      0,
+      42889
+    ],
+    [
+      1,
+      42887
+    ],
+    [
+      2,
+      42888
+    ],
+    [
+      3,
+      42883
+    ],
+    [
+      9,
+      42403
+    ]
+  ],
+  "name": "Barrier",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    "Exit",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

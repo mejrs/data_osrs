@@ -1,0 +1,24 @@
+{
+  "id": 33227,
+  "name": "Hole",
+  "models_2": [
+    35921
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Descend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "breakroutefinding": true
+}

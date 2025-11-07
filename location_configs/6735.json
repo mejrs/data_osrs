@@ -1,0 +1,17 @@
+{
+  "id": 6735,
+  "name": "Hedge",
+  "models_2": [
+    13180
+  ],
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

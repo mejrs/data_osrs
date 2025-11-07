@@ -1,0 +1,19 @@
+{
+  "id": 13815,
+  "models": [
+    [
+      4,
+      13099
+    ]
+  ],
+  "name": "Teak wall decoration",
+  "ambient": 30,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

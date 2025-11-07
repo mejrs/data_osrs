@@ -1,0 +1,15 @@
+{
+  "id": 3337,
+  "name": "Lever",
+  "models_2": [
+    1774
+  ],
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65496
+}

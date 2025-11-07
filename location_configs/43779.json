@@ -1,0 +1,22 @@
+{
+  "id": 43779,
+  "name": "Fire Energy",
+  "models_2": [
+    44057
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 9400,
+  "ambient": 55,
+  "contrast": 20,
+  "colours": [
+    [
+      0,
+      127
+    ]
+  ],
+  "model": false,
+  "scale_x": 120,
+  "scale_z": 120,
+  "translate_y": 65532
+}

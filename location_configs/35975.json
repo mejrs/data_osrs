@@ -1,0 +1,20 @@
+{
+  "id": 35975,
+  "name": "Corrupt Linum Tirinum",
+  "models_2": [
+    37608
+  ],
+  "ambient": 30,
+  "actions": [
+    "Pick",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 44,
+  "category": 1360,
+  "scale_x": 104,
+  "scale_y": 104,
+  "scale_z": 104
+}

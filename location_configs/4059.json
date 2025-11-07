@@ -1,0 +1,14 @@
+{
+  "id": 4059,
+  "models": [
+    [
+      3,
+      18175
+    ]
+  ],
+  "name": "Washing Line",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10
+}

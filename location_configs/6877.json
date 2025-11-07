@@ -1,0 +1,30 @@
+{
+  "id": 6877,
+  "name": "Wardrobe",
+  "models_2": [
+    1951
+  ],
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      45
+    ],
+    [
+      7050,
+      7954
+    ],
+    [
+      9104,
+      5786
+    ]
+  ],
+  "unknown_69": 29
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40443,
+  "name": "Barricade table",
+  "models_2": [
+    7906,
+    41245
+  ],
+  "dim_x": 2,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1480
+}

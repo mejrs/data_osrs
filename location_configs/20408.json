@@ -1,0 +1,34 @@
+{
+  "id": 20408,
+  "models": [
+    [
+      0,
+      21258
+    ]
+  ],
+  "name": "Copper ore vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    "Hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      53,
+      4645
+    ],
+    [
+      37,
+      4764
+    ]
+  ],
+  "category": 196,
+  "scale_y": 153
+}

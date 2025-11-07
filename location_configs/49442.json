@@ -1,0 +1,35 @@
+{
+  "id": 49442,
+  "name": "Nature Axon Terminal",
+  "models_2": [
+    49399,
+    48357
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 7304,
+  "ambient": 30,
+  "contrast": 15,
+  "colours": [
+    [
+      59813,
+      25298
+    ],
+    [
+      59806,
+      25255
+    ],
+    [
+      59811,
+      25255
+    ],
+    [
+      59821,
+      24922
+    ]
+  ],
+  "category": 1838,
+  "model": false
+}

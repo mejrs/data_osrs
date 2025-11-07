@@ -1,0 +1,22 @@
+{
+  "id": 34727,
+  "name": "Keyhole",
+  "models_2": [
+    37136
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Use",
+    "Exit",
+    null,
+    null,
+    null
+  ],
+  "contrast": 44,
+  "mapscene": 64
+}

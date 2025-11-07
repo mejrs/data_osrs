@@ -1,0 +1,26 @@
+{
+  "id": 56299,
+  "name": "Wardrobe",
+  "models_2": [
+    11125
+  ],
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      4502,
+      4502
+    ],
+    [
+      4510,
+      3346
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9774,
+  "name": "Light door",
+  "models_2": [
+    9723
+  ],
+  "unknown_24": 2746,
+  "ambient": 100,
+  "contrast": 100,
+  "colours": [
+    [
+      127,
+      0
+    ]
+  ]
+}

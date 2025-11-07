@@ -1,0 +1,49 @@
+{
+  "id": 56044,
+  "name": "Seers' Village Portal",
+  "models_2": [
+    11231,
+    55509
+  ],
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Seers' Village",
+    "Camelot",
+    "Toggle",
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      50072,
+      103
+    ],
+    [
+      49948,
+      107
+    ],
+    [
+      49953,
+      111
+    ],
+    [
+      49829,
+      115
+    ],
+    [
+      49705,
+      119
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "params": {
+    "429": 2,
+    "430": 1
+  }
+}

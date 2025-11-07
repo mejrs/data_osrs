@@ -1,0 +1,16 @@
+{
+  "id": 9090,
+  "name": "Pump",
+  "models_2": [
+    9036
+  ],
+  "unknown_17": false,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 30
+}

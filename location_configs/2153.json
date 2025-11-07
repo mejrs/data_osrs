@@ -1,0 +1,12 @@
+{
+  "id": 2153,
+  "name": "Obelisk of Fire",
+  "models_2": [
+    1777
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 50,
+  "contrast": 50,
+  "category": 2166
+}

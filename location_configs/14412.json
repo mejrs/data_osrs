@@ -1,0 +1,19 @@
+{
+  "id": 14412,
+  "models": [
+    [
+      4,
+      2103
+    ]
+  ],
+  "name": "Rough wall",
+  "unknown_19": 1,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true
+}

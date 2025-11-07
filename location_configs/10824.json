@@ -1,0 +1,27 @@
+{
+  "id": 10824,
+  "name": "Fireplace",
+  "models_2": [
+    5170
+  ],
+  "unknown_24": 1629,
+  "unknown_27": false,
+  "colours": [
+    [
+      11148,
+      5648
+    ],
+    [
+      10768,
+      5772
+    ],
+    [
+      21526,
+      5268
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 2065,
+    "unknown_2": 3
+  }
+}

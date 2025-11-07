@@ -1,0 +1,20 @@
+{
+  "id": 60455,
+  "models_2": [
+    2259
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 480,
+  "colours": [
+    [
+      27028,
+      38210
+    ]
+  ],
+  "model": false,
+  "scale_x": 200,
+  "scale_z": 200
+}

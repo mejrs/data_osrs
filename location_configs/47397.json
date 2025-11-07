@@ -1,0 +1,10 @@
+{
+  "id": 47397,
+  "name": "Shelves",
+  "models_2": [
+    47766
+  ],
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 5
+}

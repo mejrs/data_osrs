@@ -1,0 +1,24 @@
+{
+  "id": 29267,
+  "models": [
+    [
+      0,
+      32121
+    ],
+    [
+      2,
+      32119
+    ]
+  ],
+  "name": "Obsidian fence",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

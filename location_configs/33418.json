@@ -1,0 +1,20 @@
+{
+  "id": 33418,
+  "models": [
+    [
+      4,
+      36043
+    ]
+  ],
+  "name": "Digsite Pendant",
+  "ambient": 25,
+  "actions": [
+    "Lithkren",
+    "Teleport menu",
+    "Configuration",
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2881,
+  "models": [
+    [
+      0,
+      609
+    ]
+  ],
+  "name": "Prison Gate",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

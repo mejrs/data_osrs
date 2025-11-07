@@ -1,0 +1,18 @@
+{
+  "id": 1518,
+  "models": [
+    [
+      0,
+      616
+    ]
+  ],
+  "name": "Large door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0
+}

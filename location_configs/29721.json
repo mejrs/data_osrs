@@ -1,0 +1,11 @@
+{
+  "id": 29721,
+  "name": "Ancient machinery",
+  "models_2": [
+    32374
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 15
+}

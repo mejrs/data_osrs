@@ -1,0 +1,16 @@
+{
+  "id": 14887,
+  "name": "Potter's Wheel",
+  "models_2": [
+    1179
+  ],
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 377,
+  "unknown_69": 29
+}

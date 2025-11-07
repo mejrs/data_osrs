@@ -1,0 +1,11 @@
+{
+  "id": 39720,
+  "name": "Well",
+  "models_2": [
+    1525
+  ],
+  "is_transparent": true,
+  "ambient": 20,
+  "contrast": 10,
+  "category": 245
+}

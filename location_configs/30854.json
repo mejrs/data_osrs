@@ -1,0 +1,17 @@
+{
+  "id": 30854,
+  "name": "Burnt tree",
+  "models_2": [
+    33625
+  ],
+  "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 189,
+  "mapscene": 6
+}

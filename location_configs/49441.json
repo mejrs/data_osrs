@@ -1,0 +1,35 @@
+{
+  "id": 49441,
+  "name": "Fire Axon Terminal",
+  "models_2": [
+    49399,
+    48353
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 7304,
+  "ambient": 30,
+  "contrast": 15,
+  "colours": [
+    [
+      59813,
+      2904
+    ],
+    [
+      59806,
+      2853
+    ],
+    [
+      59811,
+      2776
+    ],
+    [
+      59821,
+      2526
+    ]
+  ],
+  "category": 1838,
+  "model": false
+}

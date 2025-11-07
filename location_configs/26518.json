@@ -1,0 +1,19 @@
+{
+  "id": 26518,
+  "models": [
+    [
+      22,
+      21617
+    ]
+  ],
+  "name": "Ice bridge",
+  "unknown_17": false,
+  "actions": [
+    "Climb-off",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

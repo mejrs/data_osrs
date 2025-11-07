@@ -1,0 +1,19 @@
+{
+  "id": 13994,
+  "name": "Weapon rack",
+  "models_2": [
+    5924,
+    6047,
+    6382,
+    5923
+  ],
+  "dim_y": 2,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65496
+}

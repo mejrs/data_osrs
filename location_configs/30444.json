@@ -1,0 +1,18 @@
+{
+  "id": 30444,
+  "name": "Teak tree",
+  "models_2": [
+    33229,
+    7768
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Check-health",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

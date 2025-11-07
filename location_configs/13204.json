@@ -1,0 +1,17 @@
+{
+  "id": 13204,
+  "name": "Torch",
+  "models_2": [
+    11319
+  ],
+  "ambient": 20,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206
+}

@@ -1,0 +1,45 @@
+{
+  "id": 29207,
+  "name": "Mounted Magic Cape (t)",
+  "models_2": [
+    32195
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Admire",
+    "Spellbook",
+    null,
+    "Take",
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      57280,
+      43569
+    ],
+    [
+      54183,
+      43685
+    ],
+    [
+      54503,
+      43804
+    ],
+    [
+      960,
+      6348
+    ],
+    [
+      22464,
+      6340
+    ],
+    [
+      43968,
+      6331
+    ]
+  ],
+  "category": 206
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31669,
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "morphs_2": {
+    "varp": 1669,
+    "ids": [
+      31684,
+      31684,
+      31684,
+      31684,
+      31684
+    ],
+    "default": 31685
+  }
+}

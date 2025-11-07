@@ -1,0 +1,11 @@
+{
+  "id": 11913,
+  "name": "Bush",
+  "models_2": [
+    11551
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 10
+}

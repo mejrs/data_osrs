@@ -1,0 +1,13 @@
+{
+  "id": 30841,
+  "name": "Lifelilly",
+  "models_2": [
+    33669
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "mapscene": 85
+}

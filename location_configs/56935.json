@@ -1,0 +1,42 @@
+{
+  "id": 56935,
+  "name": "Damiana",
+  "models_2": [
+    56581
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      2989,
+      11181
+    ],
+    [
+      4021,
+      10157
+    ],
+    [
+      929,
+      11181
+    ],
+    [
+      6075,
+      10151
+    ]
+  ],
+  "model": false,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "mapscene": 5
+}

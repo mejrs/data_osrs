@@ -1,0 +1,20 @@
+{
+  "id": 48924,
+  "name": "Rubble",
+  "models_2": [
+    49092
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 29,
+  "mapscene": 69
+}

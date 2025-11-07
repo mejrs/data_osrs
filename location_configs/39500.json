@@ -1,0 +1,28 @@
+{
+  "id": 39500,
+  "name": "Ladder",
+  "models_2": [
+    5187
+  ],
+  "unknown_22": true,
+  "colours": [
+    [
+      5788,
+      7690
+    ],
+    [
+      5912,
+      7566
+    ],
+    [
+      5673,
+      7442
+    ]
+  ],
+  "category": 664,
+  "scale_x": 128,
+  "scale_y": 151,
+  "scale_z": 128,
+  "unknown_69": 27,
+  "mapscene": 7
+}

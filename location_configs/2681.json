@@ -1,0 +1,38 @@
+{
+  "id": 2681,
+  "name": "Barrel",
+  "models_2": [
+    14087
+  ],
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    "Look in",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      6589
+    ],
+    [
+      5665,
+      6585
+    ],
+    [
+      5660,
+      6581
+    ],
+    [
+      5784,
+      6705
+    ],
+    [
+      5904,
+      6701
+    ]
+  ]
+}

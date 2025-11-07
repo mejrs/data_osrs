@@ -1,0 +1,52 @@
+{
+  "id": 33234,
+  "name": "Stairs",
+  "models_2": [
+    4879
+  ],
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Descend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7223
+    ],
+    [
+      6682,
+      7343
+    ],
+    [
+      6932,
+      7335
+    ],
+    [
+      6930,
+      7326
+    ],
+    [
+      6028,
+      7446
+    ],
+    [
+      2952,
+      7566
+    ]
+  ],
+  "model": false,
+  "scale_x": 86,
+  "scale_z": 97,
+  "unknown_69": 29,
+  "mapscene": 7
+}

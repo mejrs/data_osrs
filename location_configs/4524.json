@@ -1,0 +1,19 @@
+{
+  "id": 4524,
+  "models": [
+    [
+      4,
+      12678
+    ]
+  ],
+  "name": "Curtain space",
+  "ambient": 100,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

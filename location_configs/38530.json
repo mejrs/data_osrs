@@ -1,0 +1,21 @@
+{
+  "id": 38530,
+  "name": "Wolf Statue",
+  "models_2": [
+    40041
+  ],
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      8012,
+      10287
+    ],
+    [
+      7618,
+      10287
+    ]
+  ]
+}

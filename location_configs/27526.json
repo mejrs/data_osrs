@@ -1,0 +1,11 @@
+{
+  "id": 27526,
+  "name": "Wood Basket",
+  "models_2": [
+    30224
+  ],
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30
+}

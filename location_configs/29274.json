@@ -1,0 +1,19 @@
+{
+  "id": 29274,
+  "name": "Marble bench",
+  "models_2": [
+    32091
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 27
+}

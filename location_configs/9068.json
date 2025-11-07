@@ -1,0 +1,10 @@
+{
+  "id": 9068,
+  "name": "Crate",
+  "models_2": [
+    9008,
+    9009
+  ],
+  "is_transparent": true,
+  "ambient": 35
+}

@@ -1,0 +1,1 @@
+[{"name": "Kaston", "id": 11055, "p": 0, "x": 1497, "y": 3593, "combatLevel": 0, "walkingAnimation": 98, "standingAnimation": 101, "actions": ["Talk-to", "None", "None", "None", "None"], "colourReplacements": [{"original": 61, "replacement": 21543}], "models": [2974, 7059, 2978, 7044, 2985], "chatHeadModels": [4]}]

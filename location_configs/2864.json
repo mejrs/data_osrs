@@ -1,0 +1,21 @@
+{
+  "id": 2864,
+  "name": "Fountain",
+  "models_2": [
+    1497
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 2150,
+    "unknown_2": 3
+  },
+  "mapscene": 8
+}

@@ -1,0 +1,46 @@
+{
+  "id": 59446,
+  "name": "Bronze cannon",
+  "models_2": [
+    58153
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 13321,
+  "unknown_27": false,
+  "actions": [
+    "Operate",
+    "Check-ammunition",
+    "Reset-ammunition",
+    "hidden",
+    "Modify"
+  ],
+  "colours": [
+    [
+      54212,
+      6569
+    ],
+    [
+      54232,
+      6573
+    ],
+    [
+      54185,
+      6565
+    ],
+    [
+      21435,
+      5652
+    ],
+    [
+      21464,
+      5656
+    ],
+    [
+      21400,
+      7050
+    ]
+  ],
+  "category": 2319,
+  "unknown_69": 30
+}

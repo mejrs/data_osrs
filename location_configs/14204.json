@@ -1,0 +1,26 @@
+{
+  "id": 14204,
+  "models": [
+    [
+      10,
+      47599
+    ],
+    [
+      22,
+      56548
+    ]
+  ],
+  "name": "Sewage water",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Cross",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 190,
+  "scale_z": 190
+}

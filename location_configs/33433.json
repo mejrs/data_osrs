@@ -1,0 +1,49 @@
+{
+  "id": 33433,
+  "name": "Ghorrock Portal",
+  "models_2": [
+    11231,
+    11240
+  ],
+  "dim_x": 2,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      50072,
+      59303
+    ],
+    [
+      49948,
+      60333
+    ],
+    [
+      49953,
+      60335
+    ],
+    [
+      49829,
+      60337
+    ],
+    [
+      49705,
+      60341
+    ]
+  ],
+  "category": 206,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "params": {
+    "429": 2,
+    "430": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 40383,
+  "name": "Magical pumpkin",
+  "models_2": [
+    28802
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 8775,
+  "ambient": 20,
+  "actions": [
+    "Take-candy",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 10,
+  "category": 206
+}

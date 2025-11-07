@@ -1,0 +1,19 @@
+{
+  "id": 23547,
+  "models": [
+    [
+      22,
+      1072
+    ]
+  ],
+  "name": "Balancing ledge",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Walk-across",
+    null,
+    null,
+    null,
+    null
+  ]
+}

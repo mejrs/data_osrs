@@ -1,0 +1,29 @@
+{
+  "id": 47522,
+  "name": "Salt Deposit",
+  "models_2": [
+    48751
+  ],
+  "dim_x": 3,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 35,
+  "colours": [
+    [
+      563,
+      47814
+    ],
+    [
+      2836,
+      3486
+    ]
+  ],
+  "model": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 40959,
+  "models": [
+    [
+      22,
+      16905
+    ]
+  ],
+  "name": "Rope",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6558,
+      20
+    ],
+    [
+      6806,
+      16
+    ]
+  ]
+}

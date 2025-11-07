@@ -1,0 +1,13 @@
+{
+  "id": 26171,
+  "models": [
+    [
+      4,
+      7424
+    ]
+  ],
+  "dim_x": 2,
+  "unknown_21": true,
+  "ambient": 50,
+  "mirror": true
+}

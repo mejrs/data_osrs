@@ -1,0 +1,17 @@
+{
+  "id": 8198,
+  "name": "Barley",
+  "models_2": [
+    8187,
+    8222,
+    7766
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

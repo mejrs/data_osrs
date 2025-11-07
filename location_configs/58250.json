@@ -1,0 +1,15 @@
+{
+  "id": 58250,
+  "models": [
+    [
+      0,
+      59718
+    ]
+  ],
+  "name": "Barred window",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25
+}

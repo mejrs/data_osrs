@@ -1,0 +1,38 @@
+{
+  "id": 20648,
+  "name": "Boulder",
+  "models_2": [
+    19910,
+    19909
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 5197,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      94,
+      9804
+    ],
+    [
+      111,
+      9812
+    ],
+    [
+      127,
+      9445
+    ]
+  ],
+  "category": 393,
+  "unknown_69": 29,
+  "mapscene": 71,
+  "params": {
+    "1545": 1
+  }
+}

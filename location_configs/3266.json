@@ -1,0 +1,21 @@
+{
+  "id": 3266,
+  "models": [
+    [
+      0,
+      969
+    ],
+    [
+      9,
+      970
+    ]
+  ],
+  "name": "Gate",
+  "actions": [
+    "Picklock",
+    null,
+    null,
+    null,
+    null
+  ]
+}

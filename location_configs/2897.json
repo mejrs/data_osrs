@@ -1,0 +1,33 @@
+{
+  "id": 2897,
+  "models": [
+    [
+      0,
+      593
+    ]
+  ],
+  "name": "Legends Guild door",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10167,
+      43486
+    ],
+    [
+      9643,
+      41
+    ],
+    [
+      9137,
+      41191
+    ]
+  ],
+  "mirror": true
+}

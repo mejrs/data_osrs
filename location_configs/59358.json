@@ -1,0 +1,17 @@
+{
+  "id": 59358,
+  "name": "Golem corpse",
+  "models_2": [
+    57613
+  ],
+  "ambient": 10,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317
+}

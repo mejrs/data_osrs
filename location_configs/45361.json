@@ -1,0 +1,21 @@
+{
+  "id": 45361,
+  "models": [
+    [
+      22,
+      42048
+    ]
+  ],
+  "name": "Tile",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1665
+}

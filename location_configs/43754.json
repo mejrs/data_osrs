@@ -1,0 +1,19 @@
+{
+  "id": 43754,
+  "name": "Workbench",
+  "models_2": [
+    43950
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Work-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "translate_y": 65533
+}

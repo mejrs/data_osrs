@@ -1,0 +1,36 @@
+{
+  "id": 33422,
+  "models": [
+    [
+      22,
+      18243
+    ]
+  ],
+  "name": "Rocks",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "hidden",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10266,
+      10398
+    ],
+    [
+      10270,
+      8483
+    ],
+    [
+      10275,
+      7469
+    ]
+  ],
+  "breakroutefinding": true
+}

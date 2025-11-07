@@ -1,0 +1,31 @@
+{
+  "id": 6254,
+  "models_2": [
+    3321
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 917,
+  "ambient": 60,
+  "contrast": 60,
+  "colours": [
+    [
+      8662,
+      10339
+    ],
+    [
+      7626,
+      10339
+    ],
+    [
+      6932,
+      4750
+    ]
+  ],
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 172,
+  "translate_x": 30,
+  "translate_z": 65476
+}

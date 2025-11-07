@@ -1,0 +1,12 @@
+{
+  "id": 58325,
+  "name": "Mess",
+  "models_2": [
+    59649
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20
+}

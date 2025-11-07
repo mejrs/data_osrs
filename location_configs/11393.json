@@ -1,0 +1,32 @@
+{
+  "id": 11393,
+  "models": [
+    [
+      10,
+      33169
+    ],
+    [
+      0,
+      33168
+    ],
+    [
+      1,
+      33163
+    ],
+    [
+      9,
+      33170
+    ]
+  ],
+  "name": "Empty wall",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 1134
+}

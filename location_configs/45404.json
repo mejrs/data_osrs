@@ -1,0 +1,11 @@
+{
+  "id": 45404,
+  "name": "Bushes",
+  "models_2": [
+    46327
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 20
+}

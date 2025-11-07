@@ -1,0 +1,12 @@
+{
+  "id": 39312,
+  "name": "Castle Gates",
+  "models_2": [
+    40217
+  ],
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10
+}

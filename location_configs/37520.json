@@ -1,0 +1,17 @@
+{
+  "id": 37520,
+  "name": "Ornate Jewellery Box",
+  "models_2": [
+    32158
+  ],
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Teleport Menu",
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "translate_y": 65535
+}

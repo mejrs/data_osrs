@@ -1,0 +1,19 @@
+{
+  "id": 20267,
+  "unknown_19": 1,
+  "actions": [
+    "Load",
+    "Look-in",
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 3268,
+    "ids": [
+      20264,
+      20265,
+      20266
+    ]
+  }
+}

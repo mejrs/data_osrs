@@ -1,0 +1,19 @@
+{
+  "id": 20370,
+  "name": "Log pile",
+  "models_2": [
+    1468
+  ],
+  "is_transparent": true,
+  "ambient": 30,
+  "colours": [
+    [
+      4766,
+      6705
+    ],
+    [
+      6961,
+      6589
+    ]
+  ]
+}

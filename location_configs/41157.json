@@ -1,0 +1,25 @@
+{
+  "id": 41157,
+  "name": "Mahogany trophy case",
+  "models_2": [
+    41700,
+    41697
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Open",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "category": 206,
+  "params": {
+    "429": 2,
+    "430": 2
+  }
+}

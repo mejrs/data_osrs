@@ -1,0 +1,17 @@
+{
+  "id": 4566,
+  "models_2": [
+    4554
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "colours": [
+    [
+      9511,
+      10396
+    ]
+  ],
+  "mapscene": 21
+}

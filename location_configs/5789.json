@@ -1,0 +1,10 @@
+{
+  "id": 5789,
+  "name": "Statue",
+  "models_2": [
+    5575,
+    1452
+  ],
+  "ambient": 20,
+  "contrast": 30
+}

@@ -1,0 +1,17 @@
+{
+  "id": 59362,
+  "name": "Dictionary",
+  "models_2": [
+    57602
+  ],
+  "ambient": 15,
+  "actions": [
+    "Chart",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "category": 2317
+}

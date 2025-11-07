@@ -1,0 +1,26 @@
+{
+  "id": 26113,
+  "name": "Bookcase",
+  "models_2": [
+    27323
+  ],
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4502,
+      6550
+    ],
+    [
+      4510,
+      6430
+    ]
+  ]
+}

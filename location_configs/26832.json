@@ -1,0 +1,17 @@
+{
+  "id": 26832,
+  "name": "Nature house",
+  "models_2": [
+    28944
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

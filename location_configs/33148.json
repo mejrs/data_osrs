@@ -1,0 +1,13 @@
+{
+  "id": 33148,
+  "name": "Shadow crystal",
+  "models_2": [
+    30698
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": -40,
+  "mapscene": 80
+}

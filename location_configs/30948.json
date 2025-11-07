@@ -1,0 +1,16 @@
+{
+  "id": 30948,
+  "name": "Anchor rope",
+  "models_2": [
+    13732
+  ],
+  "unknown_22": true,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 41
+}

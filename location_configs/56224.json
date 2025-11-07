@@ -1,0 +1,25 @@
+{
+  "id": 56224,
+  "name": "Table",
+  "models_2": [
+    1213,
+    4434
+  ],
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Take-from",
+    "Take-5",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      33608
+    ]
+  ],
+  "category": 2160,
+  "translate_x": 20
+}

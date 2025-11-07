@@ -1,0 +1,22 @@
+{
+  "id": 25743,
+  "models": [
+    [
+      4,
+      2107
+    ]
+  ],
+  "name": "Landscape",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      9152,
+      5413
+    ]
+  ],
+  "textures": {
+    "14": 13
+  }
+}

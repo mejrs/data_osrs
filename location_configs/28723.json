@@ -1,0 +1,16 @@
+{
+  "id": 28723,
+  "name": "Gravestone",
+  "models_2": [
+    14666
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

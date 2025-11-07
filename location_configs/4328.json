@@ -1,0 +1,16 @@
+{
+  "id": 4328,
+  "name": "Tree stump",
+  "models_2": [
+    1573
+  ],
+  "is_transparent": true,
+  "colours": [
+    [
+      5388,
+      5404
+    ]
+  ],
+  "unknown_81": 80,
+  "mapscene": 6
+}

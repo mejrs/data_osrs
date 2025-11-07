@@ -1,0 +1,38 @@
+{
+  "id": 33442,
+  "name": "Supplies",
+  "models_2": [
+    11205
+  ],
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Gear",
+    "Stats",
+    "Standard",
+    "Ancients",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4510,
+      5413
+    ],
+    [
+      4502,
+      5532
+    ],
+    [
+      8130,
+      41
+    ],
+    [
+      7095,
+      33
+    ]
+  ],
+  "unknown_75": 1
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14886,
+  "name": "Bank chest",
+  "models_2": [
+    21969
+  ],
+  "actions": [
+    "Use",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "category": 237
+}

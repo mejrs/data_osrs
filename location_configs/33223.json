@@ -1,0 +1,15 @@
+{
+  "id": 33223,
+  "name": "Urt salt",
+  "models_2": [
+    35925
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "category": 1277,
+  "model": false
+}

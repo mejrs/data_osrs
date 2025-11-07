@@ -1,0 +1,16 @@
+{
+  "id": 58411,
+  "name": "Ironwood Pyre",
+  "models_2": [
+    4138
+  ],
+  "dim_y": 3,
+  "actions": [
+    "Light",
+    null,
+    null,
+    "Hidden",
+    null
+  ],
+  "category": 2052
+}

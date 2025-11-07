@@ -1,0 +1,13 @@
+{
+  "id": 34569,
+  "name": "Chemical vent (green)",
+  "models_2": [
+    36104
+  ],
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 8280,
+  "ambient": 30,
+  "contrast": 30,
+  "model": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": 12982,
+  "name": "Stile",
+  "models_2": [
+    7378
+  ],
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6430,
+      5784
+    ],
+    [
+      6550,
+      5904
+    ],
+    [
+      6439,
+      5541
+    ]
+  ],
+  "category": 211,
+  "unknown_75": 0,
+  "mapscene": 70
+}

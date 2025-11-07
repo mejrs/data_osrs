@@ -1,0 +1,23 @@
+{
+  "id": 2803,
+  "models": [
+    [
+      10,
+      1565
+    ],
+    [
+      22,
+      20041
+    ]
+  ],
+  "name": "Bush",
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 9
+}

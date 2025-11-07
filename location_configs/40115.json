@@ -1,0 +1,16 @@
+{
+  "id": 40115,
+  "name": "Cupboard",
+  "models_2": [
+    40837,
+    40787
+  ],
+  "ambient": 25,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ]
+}

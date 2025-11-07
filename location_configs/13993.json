@@ -1,0 +1,22 @@
+{
+  "id": 13993,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 2029,
+    "ids": [
+      13994,
+      13995,
+      13996,
+      13997,
+      13998
+    ]
+  }
+}

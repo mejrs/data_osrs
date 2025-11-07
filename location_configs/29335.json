@@ -1,0 +1,15 @@
+{
+  "id": 29335,
+  "name": "Combat dummy space",
+  "models_2": [
+    32311
+  ],
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

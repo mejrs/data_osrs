@@ -1,0 +1,14 @@
+{
+  "id": 36582,
+  "name": "Elven Crystal Chest",
+  "models_2": [
+    37910
+  ],
+  "actions": [
+    "Open",
+    "Check",
+    null,
+    null,
+    null
+  ]
+}

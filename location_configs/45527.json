@@ -1,0 +1,12 @@
+{
+  "id": 45527,
+  "name": "Floating pot",
+  "models_2": [
+    46139
+  ],
+  "is_transparent": true,
+  "unknown_24": 9499,
+  "unknown_27": false,
+  "ambient": -5,
+  "contrast": 50
+}

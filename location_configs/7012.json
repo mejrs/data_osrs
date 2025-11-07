@@ -1,0 +1,16 @@
+{
+  "id": 7012,
+  "name": "Plant",
+  "models_2": [
+    7119
+  ],
+  "colours": [
+    [
+      12833,
+      2611
+    ]
+  ],
+  "scale_x": 70,
+  "scale_y": 74,
+  "scale_z": 70
+}

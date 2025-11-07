@@ -1,0 +1,42 @@
+{
+  "id": 13377,
+  "name": "Tok-Xil",
+  "models_2": [
+    15142,
+    9330,
+    9329,
+    9331
+  ],
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 2631,
+  "ambient": 60,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 60,
+  "colours": [
+    [
+      10291,
+      5165
+    ],
+    [
+      10287,
+      5161
+    ],
+    [
+      10283,
+      5157
+    ],
+    [
+      10279,
+      5281
+    ]
+  ],
+  "category": 206
+}

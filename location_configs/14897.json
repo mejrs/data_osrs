@@ -1,0 +1,20 @@
+{
+  "id": 14897,
+  "name": "Gap",
+  "models_2": [
+    16238
+  ],
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_z": 160,
+  "translate_z": 32,
+  "unknown_73": true
+}

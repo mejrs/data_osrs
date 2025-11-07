@@ -1,0 +1,19 @@
+{
+  "id": 23104,
+  "name": "Iron Winch",
+  "models_2": [
+    29285
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Turn",
+    "Peek",
+    null,
+    null,
+    null
+  ]
+}

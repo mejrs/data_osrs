@@ -1,0 +1,28 @@
+{
+  "id": 7694,
+  "name": "Redberry bush",
+  "models_2": [
+    7821,
+    7767
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      22166
+    ],
+    [
+      8722,
+      5400
+    ]
+  ]
+}

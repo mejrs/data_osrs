@@ -1,0 +1,16 @@
+{
+  "id": 28823,
+  "name": "Fruit Stall",
+  "models_2": [
+    31554
+  ],
+  "dim_x": 2,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ]
+}

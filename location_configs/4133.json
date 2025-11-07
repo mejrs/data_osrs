@@ -1,0 +1,25 @@
+{
+  "id": 4133,
+  "models": [
+    [
+      10,
+      611
+    ],
+    [
+      1,
+      607
+    ]
+  ],
+  "name": "Wooden doors",
+  "dim_x": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "translate_y": 65436,
+  "translate_z": 15
+}

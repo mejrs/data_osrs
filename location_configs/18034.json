@@ -1,0 +1,20 @@
+{
+  "id": 18034,
+  "models": [
+    [
+      22,
+      17891
+    ]
+  ],
+  "name": "Floor",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 160
+}
