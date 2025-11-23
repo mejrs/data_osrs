@@ -9,5 +9,6 @@
   "unknown_19": 0,
   "ambient": 15,
   "contrast": 20,
-  "mirror": true
+  "mirror": true,
+  "translate_y": 1
 }

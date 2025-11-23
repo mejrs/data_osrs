@@ -2,8 +2,12 @@
   "id": 59330,
   "name": "<col=ffff00>Jellyfish</col>",
   "models_2": [
-    57614
+    59823,
+    18328
   ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 3743,
   "ambient": 15,
   "actions": [
     "Chart",
@@ -14,6 +18,8 @@
   ],
   "contrast": 25,
   "category": 2317,
+  "model": false,
+  "translate_y": 65535,
   "params": {
     "2312": 9
   }

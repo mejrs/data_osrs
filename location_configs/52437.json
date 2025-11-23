@@ -8,5 +8,8 @@
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 15
+  "contrast": 15,
+  "scale_x": 115,
+  "scale_y": 115,
+  "scale_z": 115
 }

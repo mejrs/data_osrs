@@ -1,0 +1,12 @@
+{
+  "id": 60573,
+  "name": "Shrimp",
+  "models_2": [
+    20849
+  ],
+  "ambient": 10,
+  "contrast": 15,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64
+}

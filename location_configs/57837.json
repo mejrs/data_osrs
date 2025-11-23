@@ -16,5 +16,6 @@
   "unknown_22": true,
   "ambient": 10,
   "contrast": 25,
+  "translate_y": 3,
   "mapscene": 22
 }

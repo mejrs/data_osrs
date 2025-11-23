@@ -13,5 +13,6 @@
   "ambient": 10,
   "contrast": 25,
   "mirror": true,
+  "translate_y": 3,
   "mapscene": 22
 }

@@ -8,5 +8,6 @@
   ],
   "unknown_19": 0,
   "ambient": 15,
-  "contrast": 20
+  "contrast": 20,
+  "translate_y": 1
 }

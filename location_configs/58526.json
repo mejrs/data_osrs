@@ -9,7 +9,13 @@
   "unknown_19": 0,
   "unknown_78": {
     "unknown_1": 10966,
-    "unknown_2": 5
+    "unknown_2": 10
+  },
+  "sound_fade_curve": {
+    "fade_in_curve": 0,
+    "fade_in_duration": 400,
+    "fade_out_curve": 0,
+    "fade_out_duration": 400
   },
   "sound_visibility": 1
 }

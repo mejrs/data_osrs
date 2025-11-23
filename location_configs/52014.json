@@ -24,5 +24,6 @@
   "unknown_27": false,
   "ambient": 30,
   "contrast": 25,
-  "scale_y": 192
+  "scale_y": 192,
+  "translate_y": 1
 }

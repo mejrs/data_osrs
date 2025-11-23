@@ -17,5 +17,6 @@
   "ambient": 30,
   "contrast": 25,
   "mirror": true,
-  "scale_y": 192
+  "scale_y": 192,
+  "translate_y": 1
 }

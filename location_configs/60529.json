@@ -1,0 +1,11 @@
+{
+  "id": 60529,
+  "name": "Red Coral",
+  "models_2": [
+    20845
+  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 20
+}

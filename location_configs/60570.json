@@ -1,0 +1,11 @@
+{
+  "id": 60570,
+  "name": "Cursed remains",
+  "models_2": [
+    59832
+  ],
+  "is_transparent": true,
+  "unknown_24": 475,
+  "ambient": 10,
+  "contrast": 15
+}

@@ -16,5 +16,7 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "scale_x": 145,
+  "scale_z": 145
 }
