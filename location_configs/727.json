@@ -1,9 +1,14 @@
 {
   "id": 727,
   "name": "Cave web",
-  "models_2": [
-    776
-  ],
+  "object_models": {
+    "models": [
+      776
+    ]
+  },
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

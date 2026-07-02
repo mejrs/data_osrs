@@ -1,9 +1,11 @@
 {
   "id": 32996,
   "name": "Teleport crystal",
-  "models_2": [
-    35449
-  ],
+  "object_models": {
+    "models": [
+      35449
+    ]
+  },
   "unknown_24": 8105,
   "unknown_27": false,
   "actions": [
@@ -17,5 +19,8 @@
     "unknown_1": 3131,
     "unknown_2": 7
   },
-  "mapscene": 64
+  "mapscene": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,18 @@
 {
   "id": 17816,
-  "models": [
-    [
-      18,
+  "object_models_and_types": {
+    "models": [
       17834
+    ],
+    "types": [
+      18
     ]
-  ],
+  },
   "ambient": 15,
   "scale_x": 128,
   "scale_y": 160,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

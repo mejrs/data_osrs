@@ -1,14 +1,19 @@
 {
   "id": 823,
   "name": "Dummy",
-  "models_2": [
-    1286
-  ],
+  "object_models": {
+    "models": [
+      1286
+    ]
+  },
   "actions": [
     null,
     "Attack",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

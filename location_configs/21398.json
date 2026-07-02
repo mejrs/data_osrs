@@ -1,12 +1,14 @@
 {
   "id": 21398,
-  "models": [
-    [
-      0,
-      22128
-    ]
-  ],
   "name": "Large door",
+  "object_models_and_types": {
+    "models": [
+      22128
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Close",
     null,
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

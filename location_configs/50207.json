@@ -1,10 +1,12 @@
 {
   "id": 50207,
   "name": "Odd markings",
-  "models_2": [
-    50587
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      50587
+    ]
+  },
   "unknown_17": false,
   "unknown_21": true,
   "ambient": 0,
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 40,
-  "category": 1900
+  "category": 1900,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

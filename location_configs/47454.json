@@ -1,12 +1,17 @@
 {
   "id": 47454,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       1105
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
-  "mapscene": 21
+  "mapscene": 21,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

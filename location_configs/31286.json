@@ -1,8 +1,13 @@
 {
   "id": 31286,
   "name": "Dragonfly",
-  "models_2": [
-    33461
-  ],
-  "unknown_22": true
+  "object_models": {
+    "models": [
+      33461
+    ]
+  },
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 42167,
   "name": "Ceremonial Pillar",
-  "models_2": [
-    42459
-  ],
+  "object_models": {
+    "models": [
+      42459
+    ]
+  },
   "unknown_19": 1,
   "ambient": -30,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

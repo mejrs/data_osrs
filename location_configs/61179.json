@@ -1,0 +1,42 @@
+{
+  "id": 61179,
+  "name": "Locker",
+  "object_models": {
+    "models": [
+      17853,
+      17855
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 10,
+  "colours": [
+    [
+      6443,
+      8481
+    ],
+    [
+      6439,
+      7452
+    ],
+    [
+      6563,
+      8472
+    ],
+    [
+      6558,
+      8596
+    ],
+    [
+      6682,
+      8720
+    ],
+    [
+      6806,
+      8844
+    ]
+  ],
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,9 +1,14 @@
 {
   "id": 15190,
   "name": "Light",
-  "models_2": [
-    13908
-  ],
   "dim_y": 3,
-  "ambient": 50
+  "object_models": {
+    "models": [
+      13908
+    ]
+  },
+  "ambient": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

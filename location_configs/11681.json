@@ -1,9 +1,11 @@
 {
   "id": 11681,
   "name": "Wizards Mind Bomb",
-  "models_2": [
-    7775
-  ],
+  "object_models": {
+    "models": [
+      7775
+    ]
+  },
   "is_transparent": true,
   "ambient": 15,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,18 +1,39 @@
 {
   "id": 29544,
-  "name": "Fairy ring",
-  "models_2": [
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
+  "name": "Bosun's workbench",
+  "object_models": {
+    "models": [
+      60441
+    ]
+  },
+  "is_transparent": true,
+  "unknown_24": 1177,
   "unknown_27": false,
-  "ambient": 60,
+  "ambient": 10,
   "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (BIP)",
+    "Work",
     null,
-    null
-  ]
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6707,
+      328
+    ],
+    [
+      7952,
+      299
+    ],
+    [
+      28,
+      916
+    ]
+  ],
+  "category": 2436,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

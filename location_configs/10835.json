@@ -19,5 +19,8 @@
     ]
   },
   "unknown_81": 80,
-  "mapscene": 130
+  "mapscene": 130,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

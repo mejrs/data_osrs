@@ -1,10 +1,12 @@
 {
   "id": 10439,
   "name": "Elidinis Statuette",
-  "models_2": [
-    10190,
-    10191
-  ],
+  "object_models": {
+    "models": [
+      10190,
+      10191
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Pray-at",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

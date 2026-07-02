@@ -1,9 +1,14 @@
 {
   "id": 222,
   "name": "Figurehead",
-  "models_2": [
-    1911
-  ],
   "dim_x": 4,
-  "mirror": true
+  "object_models": {
+    "models": [
+      1911
+    ]
+  },
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

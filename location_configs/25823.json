@@ -1,13 +1,18 @@
 {
   "id": 25823,
   "name": "Mirror",
-  "models_2": [
-    1294
-  ],
+  "object_models": {
+    "models": [
+      1294
+    ]
+  },
   "colours": [
     [
       9104,
       6315
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

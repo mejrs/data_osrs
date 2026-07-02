@@ -1,10 +1,15 @@
 {
   "id": 17039,
   "name": "Strong Yew",
-  "models_2": [
-    16914
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 40
+  "object_models": {
+    "models": [
+      16914
+    ]
+  },
+  "ambient": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

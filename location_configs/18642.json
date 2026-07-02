@@ -1,8 +1,13 @@
 {
   "id": 18642,
   "name": "Press support",
-  "models_2": [
-    18815
-  ],
-  "unknown_24": 4894
+  "object_models": {
+    "models": [
+      18815
+    ]
+  },
+  "unknown_24": 4894,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

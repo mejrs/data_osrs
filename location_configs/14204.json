@@ -1,18 +1,18 @@
 {
   "id": 14204,
-  "models": [
-    [
-      10,
-      47599
-    ],
-    [
-      22,
-      56548
-    ]
-  ],
   "name": "Sewage water",
   "dim_x": 2,
   "dim_y": 2,
+  "object_models_and_types": {
+    "models": [
+      47599,
+      56548
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Cross",
@@ -22,5 +22,8 @@
     null
   ],
   "scale_x": 190,
-  "scale_z": 190
+  "scale_z": 190,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

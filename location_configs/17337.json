@@ -1,9 +1,11 @@
 {
   "id": 17337,
   "name": "Lava",
-  "models_2": [
-    17308
-  ],
+  "object_models": {
+    "models": [
+      17308
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 35,
@@ -13,5 +15,8 @@
       5006
     ]
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

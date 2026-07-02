@@ -1,9 +1,11 @@
 {
   "id": 53935,
   "name": "Pile of weights",
-  "models_2": [
-    53601
-  ],
+  "object_models": {
+    "models": [
+      53601
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 15,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

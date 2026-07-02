@@ -1,12 +1,14 @@
 {
   "id": 30066,
-  "models": [
-    [
-      22,
-      32758
-    ]
-  ],
   "name": "Energy well",
+  "object_models_and_types": {
+    "models": [
+      32758
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -20,5 +22,8 @@
   ],
   "scale_x": 64,
   "scale_y": 64,
-  "scale_z": 64
+  "scale_z": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

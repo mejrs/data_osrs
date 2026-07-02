@@ -1,9 +1,11 @@
 {
   "id": 8955,
   "name": "Flag",
-  "models_2": [
-    8696
-  ],
+  "object_models": {
+    "models": [
+      8696
+    ]
+  },
   "unknown_24": 2360,
   "colours": [
     [
@@ -33,5 +35,8 @@
   "unknown_78": {
     "unknown_1": 3124,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

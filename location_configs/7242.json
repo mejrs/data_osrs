@@ -1,7 +1,12 @@
 {
   "id": 7242,
   "name": "Wooden Obstruction",
-  "models_2": [
-    7582
-  ]
+  "object_models": {
+    "models": [
+      7582
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

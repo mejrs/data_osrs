@@ -1,8 +1,13 @@
 {
   "id": 39311,
   "name": "Bench",
-  "models_2": [
-    40210
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      40210
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,32 +1,29 @@
 {
   "id": 46816,
-  "models": [
-    [
-      0,
-      35926
-    ],
-    [
-      1,
-      35932
-    ],
-    [
-      2,
-      35912
-    ],
-    [
-      3,
-      35931
-    ],
-    [
-      9,
-      35918
-    ]
-  ],
   "name": "Fence",
+  "object_models_and_types": {
+    "models": [
+      35926,
+      35932,
+      35912,
+      35931,
+      35918
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 7,
   "contrast": 7,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,17 @@
 {
   "id": 5001,
-  "models": [
-    [
-      4,
-      2033
-    ]
-  ],
   "name": "Wooden boards",
+  "object_models_and_types": {
+    "models": [
+      2033
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

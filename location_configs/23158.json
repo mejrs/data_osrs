@@ -1,9 +1,11 @@
 {
   "id": 23158,
   "name": "Cave",
-  "models_2": [
-    24091
-  ],
+  "object_models": {
+    "models": [
+      24091
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Exit",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

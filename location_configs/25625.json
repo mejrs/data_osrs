@@ -1,11 +1,16 @@
 {
   "id": 25625,
   "name": "Veteran Flag",
-  "models_2": [
-    27186,
-    27180
-  ],
+  "object_models": {
+    "models": [
+      27186,
+      27180
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
-  "unknown_24": 6874
+  "unknown_24": 6874,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

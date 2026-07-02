@@ -1,10 +1,12 @@
 {
   "id": 34674,
   "name": "Hillside entrance",
-  "models_2": [
-    627
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      627
+    ]
+  },
   "actions": [
     "Enter",
     null,
@@ -14,5 +16,8 @@
   ],
   "mirror": true,
   "translate_y": 65436,
-  "translate_z": 75
+  "translate_z": 75,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

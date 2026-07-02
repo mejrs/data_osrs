@@ -1,12 +1,14 @@
 {
   "id": 7811,
   "name": "Supplies",
-  "models_2": [
-    1453,
-    3847
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1453,
+      3847
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -14,7 +16,7 @@
   "actions": [
     "Gear",
     "Stats",
-    null,
+    "Spellbook",
     null,
     null
   ],
@@ -34,5 +36,8 @@
     ]
   ],
   "category": 1478,
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

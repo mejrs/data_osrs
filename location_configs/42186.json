@@ -1,11 +1,13 @@
 {
   "id": 42186,
   "name": "Table",
-  "models_2": [
-    25146
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      25146
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "colours": [
@@ -34,5 +36,8 @@
       3346
     ]
   ],
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

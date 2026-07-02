@@ -1,7 +1,12 @@
 {
   "id": 9074,
   "name": "rune casket",
-  "models_2": [
-    8983
-  ]
+  "object_models": {
+    "models": [
+      8983
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

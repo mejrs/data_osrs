@@ -1,7 +1,12 @@
 {
   "id": 10158,
   "name": "Brewer's Barrel",
-  "models_2": [
-    7775
-  ]
+  "object_models": {
+    "models": [
+      7775
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

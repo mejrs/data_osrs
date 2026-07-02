@@ -1,9 +1,11 @@
 {
   "id": 59348,
   "name": "Safe kebbit burrow",
-  "models_2": [
-    19356
-  ],
+  "object_models": {
+    "models": [
+      19356
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Chart",
@@ -35,5 +37,8 @@
       43202
     ]
   ],
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

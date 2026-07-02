@@ -1,10 +1,15 @@
 {
   "id": 36664,
   "name": "Book Cart",
-  "models_2": [
-    38516
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      38516
+    ]
+  },
   "ambient": 30,
-  "contrast": 44
+  "contrast": 44,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

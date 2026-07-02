@@ -1,9 +1,14 @@
 {
   "id": 8688,
   "name": "Dresser",
-  "models_2": [
-    8240
-  ],
   "dim_x": 2,
-  "category": 154
+  "object_models": {
+    "models": [
+      8240
+    ]
+  },
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

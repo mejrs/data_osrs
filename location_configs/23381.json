@@ -1,9 +1,11 @@
 {
   "id": 23381,
   "name": "Dead tree",
-  "models_2": [
-    1716
-  ],
+  "object_models": {
+    "models": [
+      1716
+    ]
+  },
   "colours": [
     [
       6028,
@@ -14,5 +16,8 @@
       26851
     ]
   ],
-  "mapscene": 27
+  "mapscene": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

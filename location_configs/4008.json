@@ -1,15 +1,20 @@
 {
   "id": 4008,
   "name": "Altar",
-  "models_2": [
-    3903
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      3903
+    ]
+  },
   "actions": [
     "Pray-at",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

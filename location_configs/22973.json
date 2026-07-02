@@ -1,13 +1,18 @@
 {
   "id": 22973,
   "name": "Fountain",
-  "models_2": [
-    23352,
-    23351
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      23352,
+      23351
+    ]
+  },
   "unknown_24": 6023,
   "ambient": 20,
-  "category": 244
+  "category": 244,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

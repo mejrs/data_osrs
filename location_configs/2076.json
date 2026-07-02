@@ -1,12 +1,14 @@
 {
   "id": 2076,
   "name": "Banana tree",
-  "models_2": [
-    7935,
-    7937
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7935,
+      7937
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

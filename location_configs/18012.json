@@ -1,9 +1,11 @@
 {
   "id": 18012,
   "name": "Broken barrel",
-  "models_2": [
-    18180
-  ],
+  "object_models": {
+    "models": [
+      18180
+    ]
+  },
   "colours": [
     [
       7333,
@@ -25,5 +27,8 @@
       5281,
       24
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

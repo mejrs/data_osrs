@@ -1,10 +1,12 @@
 {
   "id": 38034,
   "name": "Restraining Table",
-  "models_2": [
-    39806
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      39806
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -19,5 +21,8 @@
       57,
       21526
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

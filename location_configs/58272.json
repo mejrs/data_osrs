@@ -1,13 +1,18 @@
 {
   "id": 58272,
   "name": "Desk",
-  "models_2": [
-    27500,
-    27501
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      27500,
+      27501
+    ]
+  },
   "is_transparent": true,
   "ambient": 25,
   "contrast": 25,
-  "category": 156
+  "category": 156,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

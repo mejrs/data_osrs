@@ -1,14 +1,19 @@
 {
   "id": 4059,
-  "models": [
-    [
-      3,
-      18175
-    ]
-  ],
   "name": "Washing Line",
+  "object_models_and_types": {
+    "models": [
+      18175
+    ],
+    "types": [
+      3
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

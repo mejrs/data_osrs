@@ -1,9 +1,14 @@
 {
   "id": 18501,
   "name": "Crane",
-  "models_2": [
-    18565
-  ],
   "dim_x": 2,
-  "dim_y": 4
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      18565
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

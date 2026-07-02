@@ -1,12 +1,14 @@
 {
   "id": 9978,
-  "models": [
-    [
-      0,
-      9685
-    ]
-  ],
   "name": "Ladder",
+  "object_models_and_types": {
+    "models": [
+      9685
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

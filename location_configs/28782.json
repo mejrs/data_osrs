@@ -1,10 +1,12 @@
 {
   "id": 28782,
   "name": "Spinning blades",
-  "models_2": [
-    31494
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      31494
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -21,5 +23,8 @@
       6449
     ]
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

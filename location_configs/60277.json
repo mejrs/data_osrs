@@ -1,37 +1,16 @@
 {
   "id": 60277,
-  "name": "Teak cargo hold",
-  "models_2": [
-    58160
-  ],
   "is_transparent": true,
   "unknown_19": 1,
-  "ambient": 15,
-  "actions": [
-    "Open",
-    "Quick-deposit",
-    null,
-    null,
-    "Modify"
-  ],
-  "contrast": 15,
-  "colours": [
-    [
-      21435,
-      61
-    ],
-    [
-      21464,
-      66
-    ],
-    [
-      54203,
-      6457
-    ],
-    [
-      54183,
-      6449
+  "category": 2343,
+  "morphs_1": {
+    "varbit": 19134,
+    "ids": [
+      60633,
+      60634
     ]
-  ],
-  "category": 2343
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

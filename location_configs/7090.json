@@ -1,7 +1,12 @@
 {
   "id": 7090,
   "name": "Globe of Gielinor",
-  "models_2": [
-    7398
-  ]
+  "object_models": {
+    "models": [
+      7398
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

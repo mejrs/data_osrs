@@ -1,16 +1,16 @@
 {
   "id": 53921,
-  "models": [
-    [
-      10,
-      53883
-    ],
-    [
-      0,
-      53881
-    ]
-  ],
   "name": "Gate",
+  "object_models_and_types": {
+    "models": [
+      53883,
+      53881
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -30,5 +30,8 @@
   "unknown_78": {
     "unknown_1": 9040,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 56142,
-  "models": [
-    [
-      0,
-      56043
-    ]
-  ],
   "name": "Window space",
+  "object_models_and_types": {
+    "models": [
+      56043
+    ],
+    "types": [
+      0
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -16,5 +18,8 @@
     "Build"
   ],
   "contrast": 25,
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

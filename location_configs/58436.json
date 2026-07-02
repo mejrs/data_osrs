@@ -1,15 +1,20 @@
 {
   "id": 58436,
-  "models": [
-    [
-      0,
-      58448
-    ]
-  ],
   "name": "Damaged wall",
+  "object_models_and_types": {
+    "models": [
+      58448
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

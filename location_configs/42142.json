@@ -1,12 +1,17 @@
 {
   "id": 42142,
   "name": "Fabric rack",
-  "models_2": [
-    42493
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      42493
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 30
+  "ambient": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

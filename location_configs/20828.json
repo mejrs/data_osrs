@@ -1,10 +1,12 @@
 {
   "id": 20828,
   "name": "Barrow",
-  "models_2": [
-    14873
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      14873
+    ]
+  },
   "ambient": 10,
   "contrast": 10,
   "colours": [
@@ -20,5 +22,8 @@
       8598,
       7704
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

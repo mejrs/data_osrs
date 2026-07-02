@@ -1,11 +1,16 @@
 {
   "id": 18260,
   "name": "Steeple",
-  "models_2": [
-    18218
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      18218
+    ]
+  },
   "ambient": 40,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

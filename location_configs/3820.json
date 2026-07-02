@@ -1,10 +1,12 @@
 {
   "id": 3820,
   "name": "Food Trough",
-  "models_2": [
-    14206
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      14206
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -15,5 +17,8 @@
       61,
       5173
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

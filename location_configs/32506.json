@@ -1,7 +1,12 @@
 {
   "id": 32506,
   "name": "Obelisk",
-  "models_2": [
-    16367
-  ]
+  "object_models": {
+    "models": [
+      16367
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

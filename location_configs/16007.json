@@ -1,13 +1,18 @@
 {
   "id": 16007,
-  "models": [
-    [
-      22,
-      15778
-    ]
-  ],
   "name": "Stepping log",
+  "object_models_and_types": {
+    "models": [
+      15778
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

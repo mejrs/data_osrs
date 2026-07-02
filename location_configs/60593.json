@@ -1,0 +1,36 @@
+{
+  "id": 60593,
+  "name": "Bar",
+  "object_models": {
+    "models": [
+      59851,
+      25152,
+      25153,
+      22172
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "colours": [
+    [
+      5532,
+      7587
+    ],
+    [
+      5656,
+      7706
+    ],
+    [
+      5652,
+      7830
+    ],
+    [
+      6674,
+      7954
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

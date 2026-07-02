@@ -1,13 +1,18 @@
 {
   "id": 24350,
   "name": "Stepladder",
-  "models_2": [
-    1168
-  ],
+  "object_models": {
+    "models": [
+      1168
+    ]
+  },
   "colours": [
     [
       5537,
       7442
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 1976,
-  "models_2": [
-    1353
-  ],
   "dim_x": 3,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      1353
+    ]
+  },
   "unknown_19": 0,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 11487,
   "name": "Boxes",
-  "models_2": [
-    5283
-  ],
+  "object_models": {
+    "models": [
+      5283
+    ]
+  },
   "colours": [
     [
       5417,
@@ -29,5 +31,8 @@
       5652,
       9096
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

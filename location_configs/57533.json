@@ -1,13 +1,18 @@
 {
   "id": 57533,
   "name": "Tree root",
-  "models_2": [
-    56623
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      56623
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 20,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

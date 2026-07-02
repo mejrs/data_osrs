@@ -1,9 +1,11 @@
 {
   "id": 14476,
   "name": "Skeleton",
-  "models_2": [
-    14657
-  ],
+  "object_models": {
+    "models": [
+      14657
+    ]
+  },
   "colours": [
     [
       654,
@@ -17,5 +19,8 @@
       5276,
       61
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

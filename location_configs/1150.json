@@ -1,7 +1,12 @@
 {
   "id": 1150,
   "name": "Fairy bank",
-  "models_2": [
-    2006
-  ]
+  "object_models": {
+    "models": [
+      2006
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

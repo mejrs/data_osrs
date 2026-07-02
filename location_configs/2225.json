@@ -1,9 +1,11 @@
 {
   "id": 2225,
   "name": "Waterfall rocks",
-  "models_2": [
-    805
-  ],
+  "object_models": {
+    "models": [
+      805
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Look-at",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

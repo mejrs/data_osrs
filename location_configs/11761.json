@@ -1,18 +1,25 @@
 {
   "id": 11761,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
+  "name": "Glowing portal",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      53322
+    ]
+  },
+  "unknown_17": false,
+  "unknown_24": 12092,
+  "ambient": 50,
   "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (AIP)",
+    "Leave",
     null,
-    "Remove"
-  ]
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

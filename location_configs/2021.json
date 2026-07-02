@@ -1,8 +1,10 @@
 {
   "id": 2021,
-  "models_2": [
-    1716
-  ],
+  "object_models": {
+    "models": [
+      1716
+    ]
+  },
   "unknown_19": 0,
   "colours": [
     [
@@ -13,5 +15,8 @@
       6028,
       5388
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

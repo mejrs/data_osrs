@@ -1,12 +1,14 @@
 {
   "id": 12763,
-  "models": [
-    [
-      22,
-      57460
-    ]
-  ],
   "name": "Trapdoor",
+  "object_models_and_types": {
+    "models": [
+      57460
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

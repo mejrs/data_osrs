@@ -1,13 +1,18 @@
 {
   "id": 3628,
-  "models": [
-    [
-      4,
-      17540
-    ]
-  ],
   "name": "Shelf",
+  "object_models_and_types": {
+    "models": [
+      17540
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
-  "contrast": -106
+  "contrast": -106,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,16 @@
+{
+  "id": 60663,
+  "name": "Crane",
+  "object_models": {
+    "models": [
+      59975
+    ]
+  },
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 20,
+  "mapscene": 41,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

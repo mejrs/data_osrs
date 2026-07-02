@@ -1,9 +1,14 @@
 {
   "id": 54446,
   "name": "Pillow",
-  "models_2": [
-    54531
-  ],
+  "object_models": {
+    "models": [
+      54531
+    ]
+  },
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

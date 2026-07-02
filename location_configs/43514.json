@@ -1,10 +1,12 @@
 {
   "id": 43514,
   "name": "Pillar",
-  "models_2": [
-    873,
-    44084
-  ],
+  "object_models": {
+    "models": [
+      873,
+      44084
+    ]
+  },
   "ambient": 10,
   "contrast": 25,
   "textures": {
@@ -13,5 +15,8 @@
   },
   "scale_x": 112,
   "scale_y": 112,
-  "scale_z": 112
+  "scale_z": 112,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

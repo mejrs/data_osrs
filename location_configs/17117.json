@@ -1,11 +1,13 @@
 {
   "id": 17117,
   "name": "Pool of Slime",
-  "models_2": [
-    2297
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      2297
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 493,
@@ -21,5 +23,8 @@
   "model": false,
   "scale_x": 256,
   "scale_y": 256,
-  "scale_z": 256
+  "scale_z": 256,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

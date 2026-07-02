@@ -1,13 +1,15 @@
 {
   "id": 52801,
   "name": "Shrine",
-  "models_2": [
-    51386,
-    51375,
-    51378,
-    51397
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      51386,
+      51375,
+      51378,
+      51397
+    ]
+  },
   "is_transparent": true,
   "ambient": 10,
   "actions": [
@@ -23,5 +25,8 @@
       9152,
       555
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

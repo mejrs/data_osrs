@@ -1,13 +1,18 @@
 {
   "id": 55984,
   "name": "Frozen Throne",
-  "models_2": [
-    55966
-  ],
+  "object_models": {
+    "models": [
+      55966
+    ]
+  },
   "ambient": 40,
   "contrast": 20,
   "model": false,
   "scale_x": 24,
   "scale_y": 24,
-  "scale_z": 24
+  "scale_z": 24,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

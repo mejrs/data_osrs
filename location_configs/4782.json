@@ -1,11 +1,17 @@
 {
   "id": 4782,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       4752
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_22": true,
-  "unknown_73": true
+  "unknown_73": true,
+  "raise": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

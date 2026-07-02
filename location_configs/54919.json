@@ -1,9 +1,11 @@
 {
   "id": 54919,
   "name": "Mixing vessel (Mammoth-might mix)",
-  "models_2": [
-    54866
-  ],
+  "object_models": {
+    "models": [
+      54866
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 11628,
@@ -43,5 +45,8 @@
       41505
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

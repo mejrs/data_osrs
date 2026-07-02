@@ -1,8 +1,10 @@
 {
   "id": 25589,
-  "models_2": [
-    26907
-  ],
+  "object_models": {
+    "models": [
+      26907
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "ambient": 40,
@@ -25,5 +27,8 @@
       5640
     ]
   ],
-  "mapscene": 69
+  "mapscene": 69,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

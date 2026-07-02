@@ -1,8 +1,13 @@
 {
   "id": 44049,
   "name": "Gate",
-  "models_2": [
-    20768
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      20768
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

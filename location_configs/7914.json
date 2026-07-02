@@ -1,12 +1,14 @@
 {
   "id": 7914,
   "name": "Dead rosemary",
-  "models_2": [
-    7865,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7865,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Clear",
@@ -28,5 +30,8 @@
       443,
       9098
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

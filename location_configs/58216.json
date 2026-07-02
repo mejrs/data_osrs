@@ -1,10 +1,15 @@
 {
   "id": 58216,
   "name": "Locker",
-  "models_2": [
-    59651
-  ],
+  "object_models": {
+    "models": [
+      59651
+    ]
+  },
   "ambient": 25,
   "contrast": 25,
-  "category": 276
+  "category": 276,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

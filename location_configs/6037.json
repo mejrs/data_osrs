@@ -1,13 +1,18 @@
 {
   "id": 6037,
   "name": "Ship's ladder",
-  "models_2": [
-    14211
-  ],
+  "object_models": {
+    "models": [
+      14211
+    ]
+  },
   "colours": [
     [
       4886,
       6684
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,18 @@
 {
   "id": 3862,
   "name": "Burning bones",
-  "models_2": [
-    3880
-  ],
+  "object_models": {
+    "models": [
+      3880
+    ]
+  },
   "unknown_17": false,
   "unknown_24": 475,
   "unknown_78": {
     "unknown_1": 2065,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 13647,
   "name": "Lectern",
-  "models_2": [
-    12508
-  ],
+  "object_models": {
+    "models": [
+      12508
+    ]
+  },
   "actions": [
     "Study",
     null,
@@ -13,6 +15,9 @@
   ],
   "category": 206,
   "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "1862": 1
   }

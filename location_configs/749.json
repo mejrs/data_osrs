@@ -1,8 +1,13 @@
 {
   "id": 749,
-  "models_2": [
-    1831
-  ],
   "dim_x": 16,
-  "unknown_19": 0
+  "object_models": {
+    "models": [
+      1831
+    ]
+  },
+  "unknown_19": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

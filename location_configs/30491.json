@@ -1,12 +1,14 @@
 {
   "id": 30491,
   "name": "Seaweed",
-  "models_2": [
-    33251,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      33251,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick",
@@ -14,5 +16,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

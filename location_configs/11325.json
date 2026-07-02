@@ -1,27 +1,21 @@
 {
   "id": 11325,
-  "models": [
-    [
-      10,
-      2192
-    ],
-    [
-      0,
-      2202
-    ],
-    [
-      2,
-      2203
-    ],
-    [
-      3,
-      2204
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      2192,
+      2202,
+      2203,
+      2204,
       2205
+    ],
+    "types": [
+      10,
+      0,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "colours": [
@@ -34,5 +28,8 @@
       5912
     ]
   ],
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

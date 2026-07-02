@@ -1,13 +1,15 @@
 {
   "id": 30160,
   "name": "Return Orb",
-  "models_2": [
-    39517
-  ],
+  "object_models": {
+    "models": [
+      39517
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Teleport",
-    null,
+    "Ponder",
     null,
     null,
     null
@@ -30,5 +32,8 @@
       5799,
       5404
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

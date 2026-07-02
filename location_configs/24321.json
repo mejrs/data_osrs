@@ -1,9 +1,14 @@
 {
   "id": 24321,
   "name": "Scuttle",
-  "models_2": [
-    25139
-  ],
+  "object_models": {
+    "models": [
+      25139
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

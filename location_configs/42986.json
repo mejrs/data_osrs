@@ -1,12 +1,14 @@
 {
   "id": 42986,
-  "models": [
-    [
-      4,
-      43365
-    ]
-  ],
   "name": "Lock",
+  "object_models_and_types": {
+    "models": [
+      43365
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 50,
   "contrast": 20,
@@ -16,5 +18,8 @@
   "unknown_78": {
     "unknown_1": 5311,
     "unknown_2": 5
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

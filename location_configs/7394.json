@@ -1,10 +1,15 @@
 {
   "id": 7394,
   "name": "Rug",
-  "models_2": [
-    7736
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7736
+    ]
+  },
   "unknown_17": false,
-  "unknown_21": true
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

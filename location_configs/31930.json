@@ -1,13 +1,18 @@
 {
   "id": 31930,
   "name": "World map display",
-  "models_2": [
-    34558,
-    34549
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      34558,
+      34549
+    ]
+  },
   "unknown_22": true,
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

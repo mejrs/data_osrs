@@ -1,15 +1,20 @@
 {
   "id": 17232,
   "name": "Drawers",
-  "models_2": [
-    17062,
-    17060
-  ],
+  "object_models": {
+    "models": [
+      17062,
+      17060
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

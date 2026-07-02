@@ -1,8 +1,13 @@
 {
   "id": 4421,
   "name": "Barricade",
-  "models_2": [
-    14205
-  ],
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      14205
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

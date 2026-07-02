@@ -1,9 +1,11 @@
 {
   "id": 38495,
   "name": "Gilded stand",
-  "models_2": [
-    40092
-  ],
+  "object_models": {
+    "models": [
+      40092
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -18,5 +20,8 @@
       10281,
       7618
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

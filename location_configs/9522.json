@@ -1,9 +1,14 @@
 {
   "id": 9522,
   "name": "Anchor",
-  "models_2": [
-    9529
-  ],
+  "object_models": {
+    "models": [
+      9529
+    ]
+  },
   "is_transparent": true,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

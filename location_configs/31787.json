@@ -1,10 +1,12 @@
 {
   "id": 31787,
   "name": "Rock",
-  "models_2": [
-    17325
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      17325
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 30,
@@ -35,5 +37,8 @@
       15132
     ]
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

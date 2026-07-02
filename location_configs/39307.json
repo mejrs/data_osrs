@@ -1,10 +1,15 @@
 {
   "id": 39307,
   "name": "Root",
-  "models_2": [
-    40533
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      40533
+    ]
+  },
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

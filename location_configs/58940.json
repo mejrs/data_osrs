@@ -1,9 +1,11 @@
 {
   "id": 58940,
   "name": "Crystal of Amlodd",
-  "models_2": [
-    58172
-  ],
+  "object_models": {
+    "models": [
+      58172
+    ]
+  },
   "colours": [
     [
       32993,
@@ -14,5 +16,8 @@
   "scale_x": 96,
   "scale_y": 96,
   "scale_z": 96,
-  "translate_y": 140
+  "translate_y": 140,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

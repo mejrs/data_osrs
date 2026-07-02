@@ -1,12 +1,17 @@
 {
   "id": 49589,
   "name": "Tree",
-  "models_2": [
-    49549
-  ],
   "dim_y": 9,
+  "object_models": {
+    "models": [
+      49549
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_24": 6069,
-  "translate_y": 65434
+  "translate_y": 65434,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,19 @@
+{
+  "id": 61465,
+  "name": "Weapons rack",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61336,
+      61334
+    ]
+  },
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

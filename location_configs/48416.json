@@ -1,11 +1,16 @@
 {
   "id": 48416,
   "name": "Dead Lynx",
-  "models_2": [
-    49001
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      49001
+    ]
+  },
   "ambient": 10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

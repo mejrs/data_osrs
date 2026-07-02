@@ -1,9 +1,11 @@
 {
   "id": 20374,
   "name": "Logs",
-  "models_2": [
-    5496
-  ],
+  "object_models": {
+    "models": [
+      5496
+    ]
+  },
   "ambient": 20,
   "colours": [
     [
@@ -14,5 +16,8 @@
       6961,
       6589
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

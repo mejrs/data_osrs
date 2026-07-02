@@ -1,0 +1,16 @@
+{
+  "id": 60980,
+  "name": "Clothes model",
+  "object_models": {
+    "models": [
+      61218
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,11 +1,13 @@
 {
   "id": 7421,
   "name": "Oven",
-  "models_2": [
-    12629,
-    12620
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12629,
+      12620
+    ]
+  },
   "unknown_24": 3105,
   "ambient": 25,
   "actions": [
@@ -27,5 +29,8 @@
     ]
   ],
   "category": 687,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

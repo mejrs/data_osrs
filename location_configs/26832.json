@@ -1,11 +1,13 @@
 {
   "id": 26832,
   "name": "Nature house",
-  "models_2": [
-    28944
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      28944
+    ]
+  },
   "actions": [
     "View",
     null,
@@ -13,5 +15,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

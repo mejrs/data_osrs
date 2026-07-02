@@ -1,11 +1,16 @@
 {
   "id": 41484,
   "name": "Big Door",
-  "models_2": [
-    42022
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      42022
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

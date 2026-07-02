@@ -1,11 +1,13 @@
 {
   "id": 6845,
   "name": "Ogre Coffin",
-  "models_2": [
-    6787
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      6787
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -22,5 +24,8 @@
       7475,
       6558
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

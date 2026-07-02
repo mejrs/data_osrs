@@ -1,11 +1,13 @@
 {
   "id": 25590,
   "name": "Boil",
-  "models_2": [
-    7431
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7431
+    ]
+  },
   "actions": [
     "Burn-down",
     null,
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

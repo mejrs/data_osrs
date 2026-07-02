@@ -1,11 +1,13 @@
 {
   "id": 58561,
   "name": "Rosewood tree",
-  "models_2": [
-    58661
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58661
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chop down",
@@ -17,5 +19,8 @@
   "contrast": 20,
   "category": 2305,
   "unknown_81": 80,
-  "mapscene": 259
+  "mapscene": 259,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

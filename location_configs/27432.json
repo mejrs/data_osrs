@@ -1,9 +1,11 @@
 {
   "id": 27432,
   "name": "Sack",
-  "models_2": [
-    30133
-  ],
+  "object_models": {
+    "models": [
+      30133
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 903
+  "category": 903,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

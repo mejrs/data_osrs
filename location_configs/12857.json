@@ -1,10 +1,12 @@
 {
   "id": 12857,
-  "name": "Bar pumps",
-  "models_2": [
-    14022,
-    14026
-  ],
+  "object_models": {
+    "models": [
+      14022,
+      14026
+    ]
+  },
+  "unknown_19": 0,
   "colours": [
     [
       5559,
@@ -30,5 +32,8 @@
       5786,
       11144
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

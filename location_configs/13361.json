@@ -1,16 +1,16 @@
 {
   "id": 13361,
-  "models": [
-    [
-      0,
-      33141
-    ],
-    [
-      22,
-      596
-    ]
-  ],
   "name": "Spike hidden",
+  "object_models_and_types": {
+    "models": [
+      33141,
+      596
+    ],
+    "types": [
+      0,
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "actions": [
@@ -23,5 +23,8 @@
   "category": 206,
   "scale_x": 64,
   "scale_y": 64,
-  "scale_z": 64
+  "scale_z": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

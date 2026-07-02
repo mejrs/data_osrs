@@ -1,11 +1,13 @@
 {
   "id": 42390,
   "name": "Tree",
-  "models_2": [
-    14748
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      14748
+    ]
+  },
   "ambient": 15,
   "contrast": 20,
   "colours": [
@@ -18,5 +20,8 @@
       3470
     ]
   ],
-  "unknown_81": 80
+  "unknown_81": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

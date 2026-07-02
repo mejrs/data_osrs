@@ -1,15 +1,20 @@
 {
   "id": 5674,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       5477
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "textures": {
     "6": 44
   },
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

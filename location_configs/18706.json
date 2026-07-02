@@ -1,8 +1,13 @@
 {
   "id": 18706,
   "name": "Connection pipe",
-  "models_2": [
-    18715
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      18715
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 50131,
   "name": "Sword cabinet",
-  "models_2": [
-    50658
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      50658
+    ]
+  },
   "is_transparent": true,
   "ambient": 10,
   "contrast": 10,
@@ -25,5 +27,8 @@
       6550,
       7830
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

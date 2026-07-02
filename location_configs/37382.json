@@ -1,9 +1,11 @@
 {
   "id": 37382,
   "name": "Supply chest",
-  "models_2": [
-    5272
-  ],
+  "object_models": {
+    "models": [
+      5272
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -26,5 +28,8 @@
   "scale_x": 96,
   "scale_y": 96,
   "scale_z": 96,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

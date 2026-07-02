@@ -1,11 +1,13 @@
 {
   "id": 16957,
   "name": "Crane",
-  "models_2": [
-    9534
-  ],
   "dim_x": 2,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      9534
+    ]
+  },
   "ambient": 20,
   "colours": [
     [
@@ -20,5 +22,8 @@
       5545,
       5285
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

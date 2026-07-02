@@ -1,14 +1,19 @@
 {
   "id": 19689,
-  "models_2": [
-    19896
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      19896
+    ]
+  },
   "unknown_19": 0,
   "unknown_24": 5278,
   "ambient": 30,
   "contrast": 30,
   "model": false,
-  "mapscene": 67
+  "mapscene": 67,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

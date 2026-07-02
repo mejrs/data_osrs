@@ -1,9 +1,14 @@
 {
   "id": 2615,
   "name": "Coffin",
-  "models_2": [
-    11207
-  ],
   "dim_x": 2,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      11207
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

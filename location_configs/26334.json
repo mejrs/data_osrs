@@ -1,10 +1,15 @@
 {
   "id": 26334,
   "name": "Crates",
-  "models_2": [
-    27899
-  ],
+  "object_models": {
+    "models": [
+      27899
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

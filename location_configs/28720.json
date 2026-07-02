@@ -1,11 +1,16 @@
 {
   "id": 28720,
   "name": "Ruptured cavern",
-  "models_2": [
-    31487
-  ],
+  "object_models": {
+    "models": [
+      31487
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 6732,
   "ambient": 10,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

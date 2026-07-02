@@ -1,9 +1,11 @@
 {
   "id": 8886,
   "name": "Buffers",
-  "models_2": [
-    8674
-  ],
+  "object_models": {
+    "models": [
+      8674
+    ]
+  },
   "colours": [
     [
       5018,
@@ -13,5 +15,8 @@
       61,
       10262
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

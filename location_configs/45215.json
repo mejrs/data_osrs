@@ -1,10 +1,12 @@
 {
   "id": 45215,
   "name": "Fog",
-  "models_2": [
-    45342
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      45342
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -12,5 +14,8 @@
   "contrast": 100,
   "textures": {
     "98": 105
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

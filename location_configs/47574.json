@@ -1,13 +1,18 @@
 {
   "id": 47574,
   "name": "Corrupted seed",
-  "models_2": [
-    49231
-  ],
+  "object_models": {
+    "models": [
+      49231
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 10271,
   "ambient": 30,
   "contrast": 100,
-  "category": 1816
+  "category": 1816,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

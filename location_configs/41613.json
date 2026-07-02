@@ -1,12 +1,14 @@
 {
   "id": 41613,
-  "models": [
-    [
-      9,
-      42198
-    ]
-  ],
   "name": "Red Barrier",
+  "object_models_and_types": {
+    "models": [
+      42198
+    ],
+    "types": [
+      9
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 1433,
   "unknown_27": false,
@@ -24,5 +26,8 @@
     "unknown_1": 3139,
     "unknown_2": 1
   },
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

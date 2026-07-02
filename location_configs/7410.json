@@ -1,32 +1,29 @@
 {
   "id": 7410,
-  "models": [
-    [
-      0,
-      37231
-    ],
-    [
-      1,
-      37244
-    ],
-    [
-      2,
-      37245
-    ],
-    [
-      3,
-      37246
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      37231,
+      37244,
+      37245,
+      37246,
       37242
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 10,
   "contrast": 10,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

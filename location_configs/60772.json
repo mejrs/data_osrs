@@ -1,0 +1,39 @@
+{
+  "id": 60772,
+  "name": "Growth",
+  "object_models": {
+    "models": [
+      49176
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pluck",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      47168,
+      58432
+    ],
+    [
+      7355,
+      60599
+    ],
+    [
+      7260,
+      63808
+    ]
+  ],
+  "scale_x": 32,
+  "scale_y": 32,
+  "scale_z": 32,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

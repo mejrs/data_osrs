@@ -1,8 +1,13 @@
 {
   "id": 31763,
   "name": "Equipment",
-  "models_2": [
-    19995
-  ],
-  "ambient": 15
+  "object_models": {
+    "models": [
+      19995
+    ]
+  },
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

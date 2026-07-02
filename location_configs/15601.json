@@ -1,20 +1,18 @@
 {
   "id": 15601,
-  "models": [
-    [
-      0,
-      15397
-    ],
-    [
-      1,
-      15398
-    ],
-    [
-      9,
-      15399
-    ]
-  ],
   "name": "Railing",
+  "object_models_and_types": {
+    "models": [
+      15397,
+      15398,
+      15399
+    ],
+    "types": [
+      0,
+      1,
+      9
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -26,5 +24,8 @@
     null,
     null
   ],
-  "contrast": 5
+  "contrast": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

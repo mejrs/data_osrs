@@ -1,12 +1,17 @@
 {
   "id": 48217,
   "name": "Revitalising Idol",
-  "models_2": [
-    48935
-  ],
+  "object_models": {
+    "models": [
+      48935
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 45
+  "contrast": 45,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

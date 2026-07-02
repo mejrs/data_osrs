@@ -1,12 +1,14 @@
 {
   "id": 13575,
-  "models": [
-    [
-      22,
-      12520
-    ]
-  ],
   "name": "Pet basket",
+  "object_models_and_types": {
+    "models": [
+      12520
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

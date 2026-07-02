@@ -1,18 +1,50 @@
 {
   "id": 13628,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
+  "name": "Info Board",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      43382
+    ]
+  },
+  "unknown_21": true,
   "unknown_27": false,
+  "ambient": 40,
   "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (AIR)",
+    "Read",
     null,
-    "Remove"
-  ]
+    null,
+    null,
+    null
+  ],
+  "contrast": -100,
+  "colours": [
+    [
+      29656,
+      815
+    ],
+    [
+      40103,
+      28
+    ],
+    [
+      40094,
+      20
+    ],
+    [
+      40210,
+      16
+    ],
+    [
+      40458,
+      12
+    ]
+  ],
+  "scale_x": 190,
+  "scale_y": 190,
+  "scale_z": 190,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

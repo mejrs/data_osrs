@@ -1,9 +1,11 @@
 {
   "id": 2618,
   "name": "Broken fence",
-  "models_2": [
-    24897
-  ],
+  "object_models": {
+    "models": [
+      24897
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Climb-over",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "translate_y": 65521
+  "translate_y": 65521,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

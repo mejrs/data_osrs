@@ -1,7 +1,12 @@
 {
   "id": 12311,
   "name": "Chair",
-  "models_2": [
-    12760
-  ]
+  "object_models": {
+    "models": [
+      12760
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

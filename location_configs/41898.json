@@ -1,9 +1,11 @@
 {
   "id": 41898,
   "name": "Shelf",
-  "models_2": [
-    30512
-  ],
+  "object_models": {
+    "models": [
+      30512
+    ]
+  },
   "unknown_27": false,
   "ambient": 10,
   "contrast": 10,
@@ -16,5 +18,8 @@
       7506,
       7467
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

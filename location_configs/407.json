@@ -1,10 +1,15 @@
 {
   "id": 407,
   "name": "Henge",
-  "models_2": [
-    1416
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1416
+    ]
+  },
   "is_transparent": true,
-  "mapscene": 14
+  "mapscene": 14,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

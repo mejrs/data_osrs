@@ -1,14 +1,19 @@
 {
   "id": 9570,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       9491
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_22": true,
   "textures": {
     "6": 44
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

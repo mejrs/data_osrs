@@ -1,9 +1,11 @@
 {
   "id": 15931,
   "name": "Log Store",
-  "models_2": [
-    15813
-  ],
+  "object_models": {
+    "models": [
+      15813
+    ]
+  },
   "actions": [
     "Take-Log",
     null,
@@ -20,5 +22,8 @@
       4391,
       6689
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

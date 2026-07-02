@@ -1,7 +1,12 @@
 {
   "id": 12415,
   "name": "Spork",
-  "models_2": [
-    13471
-  ]
+  "object_models": {
+    "models": [
+      13471
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

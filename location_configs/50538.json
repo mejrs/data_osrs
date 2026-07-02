@@ -68,5 +68,8 @@
       55777
     ],
     "default": 50540
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 35984,
   "name": "Teleport Platform",
-  "models_2": [
-    37649
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37649
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -22,5 +24,8 @@
   "unknown_78": {
     "unknown_1": 4157,
     "unknown_2": 5
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

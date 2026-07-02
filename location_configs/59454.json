@@ -1,9 +1,11 @@
 {
   "id": 59454,
   "name": "Mermaid's blessing",
-  "models_2": [
-    9750
-  ],
+  "object_models": {
+    "models": [
+      9750
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -28,5 +30,8 @@
       4029,
       34648
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

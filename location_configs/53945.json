@@ -1,12 +1,17 @@
 {
   "id": 53945,
   "name": "Tiling",
-  "models_2": [
-    53970
-  ],
+  "object_models": {
+    "models": [
+      53970
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 30,
   "contrast": 20,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

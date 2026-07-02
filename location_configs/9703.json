@@ -1,13 +1,18 @@
 {
   "id": 9703,
   "name": "Candlestick holder",
-  "models_2": [
-    1560
-  ],
+  "object_models": {
+    "models": [
+      1560
+    ]
+  },
   "colours": [
     [
       10768,
       5276
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

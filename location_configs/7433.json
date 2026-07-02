@@ -1,9 +1,11 @@
 {
   "id": 7433,
   "name": "Oak chair",
-  "models_2": [
-    12446
-  ],
+  "object_models": {
+    "models": [
+      12446
+    ]
+  },
   "ambient": 25,
   "colours": [
     [
@@ -14,5 +16,8 @@
       5545,
       7830
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

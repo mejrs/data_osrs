@@ -1,8 +1,13 @@
 {
   "id": 6067,
   "name": "Weapon Rack",
-  "models_2": [
-    5946,
-    5944
-  ]
+  "object_models": {
+    "models": [
+      5946,
+      5944
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

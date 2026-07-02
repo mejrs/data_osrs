@@ -1,9 +1,11 @@
 {
   "id": 55307,
   "name": "Wreck",
-  "models_2": [
-    18324
-  ],
+  "object_models": {
+    "models": [
+      18324
+    ]
+  },
   "ambient": 10,
   "contrast": 20,
   "colours": [
@@ -16,5 +18,8 @@
       6932
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 21486,
-  "models_2": [
-    22045
-  ],
+  "object_models": {
+    "models": [
+      22045
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

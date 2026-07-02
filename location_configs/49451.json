@@ -1,11 +1,13 @@
 {
   "id": 49451,
   "name": "Summoning Circle",
-  "models_2": [
-    49400
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      49400
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 7304,
@@ -15,5 +17,8 @@
   "model": false,
   "scale_x": 200,
   "scale_y": 200,
-  "scale_z": 200
+  "scale_z": 200,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

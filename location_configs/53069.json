@@ -1,9 +1,11 @@
 {
   "id": 53069,
   "name": "Easter mine cart",
-  "models_2": [
-    53068
-  ],
+  "object_models": {
+    "models": [
+      53068
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "actions": [
@@ -19,5 +21,8 @@
       43945,
       15298
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

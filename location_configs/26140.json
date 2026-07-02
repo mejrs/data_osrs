@@ -1,9 +1,11 @@
 {
   "id": 26140,
   "name": "Gramophone",
-  "models_2": [
-    27533
-  ],
+  "object_models": {
+    "models": [
+      27533
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 25,
@@ -25,5 +27,8 @@
       4764,
       5537
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

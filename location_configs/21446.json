@@ -1,7 +1,12 @@
 {
   "id": 21446,
   "name": "Shield display",
-  "models_2": [
-    21989
-  ]
+  "object_models": {
+    "models": [
+      21989
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

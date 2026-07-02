@@ -1,13 +1,18 @@
 {
   "id": 26171,
-  "models": [
-    [
-      4,
-      7424
-    ]
-  ],
   "dim_x": 2,
+  "object_models_and_types": {
+    "models": [
+      7424
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_21": true,
   "ambient": 50,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 41782,
   "name": "Cabinet",
-  "models_2": [
-    25065
-  ],
+  "object_models": {
+    "models": [
+      25065
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Search",
@@ -26,5 +28,8 @@
       7830
     ]
   ],
-  "category": 1561
+  "category": 1561,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 47746,
   "name": "Pan",
-  "models_2": [
-    49052
-  ],
+  "object_models": {
+    "models": [
+      49052
+    ]
+  },
   "unknown_22": true,
   "ambient": 10,
   "contrast": 20,
@@ -32,5 +34,8 @@
       38156,
       33036
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

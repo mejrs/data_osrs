@@ -1,16 +1,16 @@
 {
   "id": 53056,
-  "models": [
-    [
-      4,
-      5264
-    ],
-    [
-      22,
-      5263
-    ]
-  ],
   "name": "Pile of chocolate",
+  "object_models_and_types": {
+    "models": [
+      5264,
+      5263
+    ],
+    "types": [
+      4,
+      22
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Investigate",
@@ -28,5 +28,8 @@
       20797,
       4760
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

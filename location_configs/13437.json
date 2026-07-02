@@ -1,9 +1,14 @@
 {
   "id": 13437,
   "name": "Spike defence",
-  "models_2": [
-    31096
-  ],
   "dim_x": 3,
-  "dim_y": 5
+  "dim_y": 5,
+  "object_models": {
+    "models": [
+      31096
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

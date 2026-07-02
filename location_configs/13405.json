@@ -1,13 +1,15 @@
 {
   "id": 13405,
   "name": "Sq'irk tree",
-  "models_2": [
-    22206,
-    22202,
-    22205
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      22206,
+      22202,
+      22205
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
   "actions": [
@@ -26,5 +28,8 @@
       15244,
       16825
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

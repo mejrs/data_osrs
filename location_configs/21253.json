@@ -1,11 +1,13 @@
 {
   "id": 21253,
   "name": "An anonymous looking door",
-  "models_2": [
-    16400
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      16400
+    ]
+  },
   "unknown_24": 4339,
   "actions": [
     "Search",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "translate_y": 52
+  "translate_y": 52,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

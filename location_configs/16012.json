@@ -1,14 +1,19 @@
 {
   "id": 16012,
-  "models": [
-    [
-      22,
-      15768
-    ]
-  ],
   "name": "Stepping Stone",
+  "object_models_and_types": {
+    "models": [
+      15768
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

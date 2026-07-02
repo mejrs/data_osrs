@@ -1,9 +1,11 @@
 {
   "id": 28580,
   "name": "Hard rock",
-  "models_2": [
-    30179
-  ],
+  "object_models": {
+    "models": [
+      30179
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 30,
-  "category": 913
+  "category": 913,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,39 @@
+{
+  "id": 62136,
+  "name": "Amitire plant",
+  "object_models": {
+    "models": [
+      61100,
+      7766
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Pick-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      280,
+      43076
+    ],
+    [
+      63774,
+      43086
+    ],
+    [
+      3226,
+      798
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

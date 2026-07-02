@@ -1,12 +1,14 @@
 {
   "id": 57202,
-  "models": [
-    [
-      4,
-      51399
-    ]
-  ],
   "name": "Bookshelf",
+  "object_models_and_types": {
+    "models": [
+      51399
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 10,
@@ -21,5 +23,8 @@
       3470
     ]
   ],
-  "translate_y": 50
+  "translate_y": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

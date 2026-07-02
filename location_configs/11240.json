@@ -1,9 +1,11 @@
 {
   "id": 11240,
   "name": "Barrel",
-  "models_2": [
-    14194
-  ],
+  "object_models": {
+    "models": [
+      14194
+    ]
+  },
   "actions": [
     "Take-powder",
     null,
@@ -28,5 +30,8 @@
       5784,
       6806
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

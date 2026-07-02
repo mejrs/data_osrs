@@ -1,7 +1,12 @@
 {
   "id": 697,
   "name": "Animal skull",
-  "models_2": [
-    1733
-  ]
+  "object_models": {
+    "models": [
+      1733
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

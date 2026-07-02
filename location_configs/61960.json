@@ -1,0 +1,28 @@
+{
+  "id": 61960,
+  "name": "Darkwood tree stump",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61094
+    ]
+  },
+  "ambient": 10,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2474,
+  "scale_x": 154,
+  "scale_y": 154,
+  "scale_z": 154,
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

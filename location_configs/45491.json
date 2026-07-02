@@ -1,12 +1,14 @@
 {
   "id": 45491,
-  "models": [
-    [
-      22,
-      30856
-    ]
-  ],
   "name": "Broken seal",
+  "object_models_and_types": {
+    "models": [
+      30856
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -23,5 +25,8 @@
       24,
       37945
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

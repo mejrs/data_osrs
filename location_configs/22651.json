@@ -1,12 +1,14 @@
 {
   "id": 22651,
-  "models": [
-    [
-      22,
-      15050
-    ]
-  ],
   "name": "Stairs",
+  "object_models_and_types": {
+    "models": [
+      15050
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

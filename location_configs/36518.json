@@ -1,11 +1,13 @@
 {
   "id": 36518,
   "name": "City Gate",
-  "models_2": [
-    37871
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37871
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 10,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "category": 1343
+  "category": 1343,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 56996,
   "name": "Broken wall",
-  "models_2": [
-    56807
-  ],
+  "object_models": {
+    "models": [
+      56807
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "actions": [
@@ -48,6 +50,9 @@
     ]
   ],
   "category": 2210,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2291": 24,
     "2294": 1,

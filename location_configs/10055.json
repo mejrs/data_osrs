@@ -1,11 +1,13 @@
 {
   "id": 10055,
   "name": "Mausoleum",
-  "models_2": [
-    13381
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      13381
+    ]
+  },
   "actions": [
     "Deposit",
     null,
@@ -14,5 +16,8 @@
     null
   ],
   "category": 276,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

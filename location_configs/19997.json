@@ -1,13 +1,18 @@
 {
   "id": 19997,
   "name": "Animal skull",
-  "models_2": [
-    1733
-  ],
+  "object_models": {
+    "models": [
+      1733
+    ]
+  },
   "colours": [
     [
       10357,
       10318
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

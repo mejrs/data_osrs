@@ -1,16 +1,21 @@
 {
   "id": 14032,
   "name": "Bones",
-  "models_2": [
-    14329
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      14329
+    ]
+  },
   "unknown_21": true,
   "colours": [
     [
       6241,
       10297
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

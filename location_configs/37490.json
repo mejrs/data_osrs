@@ -1,15 +1,21 @@
 {
   "id": 37490,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       31136
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "unknown_73": true,
-  "maparea_id": 645
+  "maparea_id": 645,
+  "raise": 3,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

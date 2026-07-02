@@ -1,11 +1,16 @@
 {
   "id": 32216,
   "name": "Anvil",
-  "models_2": [
-    34807
-  ],
+  "object_models": {
+    "models": [
+      34807
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 30,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,17 @@
 {
   "id": 17427,
-  "models": [
-    [
-      4,
-      17488
-    ]
-  ],
   "name": "Sword case",
+  "object_models_and_types": {
+    "models": [
+      17488
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

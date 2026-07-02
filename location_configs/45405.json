@@ -1,11 +1,13 @@
 {
   "id": 45405,
   "name": "Bushes",
-  "models_2": [
-    46327
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      46327
+    ]
+  },
   "unknown_21": true,
   "ambient": 30,
   "contrast": 20,
@@ -22,5 +24,8 @@
       652,
       2700
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

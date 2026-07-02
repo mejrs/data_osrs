@@ -1,8 +1,13 @@
 {
   "id": 8737,
   "name": "Tap",
-  "models_2": [
-    8294
-  ],
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      8294
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

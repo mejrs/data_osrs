@@ -1,9 +1,12 @@
 {
   "id": 59309,
-  "name": "Tiny briny shrimp",
-  "models_2": [
-    57627
-  ],
+  "name": "<col=ffff00>Tiny briny shrimp</col>",
+  "object_models": {
+    "models": [
+      57627
+    ]
+  },
+  "unknown_17": false,
   "ambient": 15,
   "actions": [
     "Chart",
@@ -14,5 +17,11 @@
   ],
   "contrast": 25,
   "category": 2317,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
+  "params": {
+    "2312": 9
+  }
 }

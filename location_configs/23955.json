@@ -1,9 +1,11 @@
 {
   "id": 23955,
   "name": "Magical Animator",
-  "models_2": [
-    15351
-  ],
+  "object_models": {
+    "models": [
+      15351
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 4161,
   "unknown_27": false,
@@ -19,5 +21,8 @@
   "scale_y": 115,
   "scale_z": 128,
   "unknown_69": 30,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

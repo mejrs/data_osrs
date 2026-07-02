@@ -1,10 +1,12 @@
 {
   "id": 41622,
   "name": "Gate",
-  "models_2": [
-    4728
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      4728
+    ]
+  },
   "actions": [
     "Exit",
     null,
@@ -23,5 +25,8 @@
     ]
   ],
   "category": 1547,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

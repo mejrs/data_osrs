@@ -1,11 +1,13 @@
 {
   "id": 60473,
   "name": "Pirate shipwreck",
-  "models_2": [
-    58886
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58886
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -16,5 +18,8 @@
   "category": 2348,
   "model": false,
   "unknown_89": false,
-  "unknown_90": true
+  "unknown_90": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

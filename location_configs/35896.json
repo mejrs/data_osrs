@@ -1,8 +1,13 @@
 {
   "id": 35896,
   "name": "Tunnel",
-  "models_2": [
-    9697
-  ],
-  "dim_y": 3
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      9697
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

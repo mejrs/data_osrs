@@ -1,14 +1,20 @@
 {
   "id": 51840,
   "name": "Stolen cabbage",
-  "models_2": [
-    52456
-  ],
+  "object_models": {
+    "models": [
+      52456
+    ]
+  },
   "unknown_17": false,
   "ambient": 17,
   "contrast": 15,
+  "category": 2421,
   "model": false,
   "scale_x": 110,
   "scale_y": 110,
-  "scale_z": 110
+  "scale_z": 110,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

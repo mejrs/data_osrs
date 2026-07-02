@@ -1,8 +1,13 @@
 {
   "id": 35956,
   "name": "Grain sacks",
-  "models_2": [
-    1482
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      1482
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

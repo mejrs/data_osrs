@@ -1,0 +1,35 @@
+{
+  "id": 61444,
+  "name": "Book",
+  "object_models": {
+    "models": [
+      49006
+    ]
+  },
+  "is_transparent": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 25,
+  "colours": [
+    [
+      43166,
+      24
+    ],
+    [
+      43173,
+      20
+    ],
+    [
+      43162,
+      12
+    ],
+    [
+      37,
+      152
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

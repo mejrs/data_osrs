@@ -1,7 +1,12 @@
 {
   "id": 17141,
   "name": "Healthorg statue",
-  "models_2": [
-    17102
-  ]
+  "object_models": {
+    "models": [
+      17102
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

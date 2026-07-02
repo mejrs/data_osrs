@@ -1,11 +1,13 @@
 {
   "id": 51581,
   "name": "Fire",
-  "models_2": [
-    14290
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      14290
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 476,
@@ -15,5 +17,8 @@
   "scale_y": 128,
   "scale_z": 130,
   "translate_x": 63,
-  "translate_y": 65511
+  "translate_y": 65511,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

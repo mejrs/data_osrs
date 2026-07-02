@@ -1,15 +1,20 @@
 {
   "id": 57608,
   "name": "Gemstone rock",
-  "models_2": [
-    56652
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      56652
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 20,
   "contrast": 10,
   "model": false,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

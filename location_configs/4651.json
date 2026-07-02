@@ -1,9 +1,14 @@
 {
   "id": 4651,
   "name": "Table",
-  "models_2": [
-    4598
-  ],
+  "object_models": {
+    "models": [
+      4598
+    ]
+  },
   "is_transparent": true,
-  "unknown_19": 1
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,8 +1,13 @@
 {
   "id": 20260,
   "name": "Hopper",
-  "models_2": [
-    20657
-  ],
-  "unknown_24": 5431
+  "object_models": {
+    "models": [
+      20657
+    ]
+  },
+  "unknown_24": 5431,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

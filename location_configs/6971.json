@@ -1,8 +1,13 @@
 {
   "id": 6971,
   "name": "Cart Track",
-  "models_2": [
-    7086
-  ],
-  "unknown_22": true
+  "object_models": {
+    "models": [
+      7086
+    ]
+  },
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

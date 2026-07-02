@@ -1,9 +1,14 @@
 {
   "id": 28390,
   "name": "Parchment",
-  "models_2": [
-    30516
-  ],
+  "object_models": {
+    "models": [
+      30516
+    ]
+  },
   "is_transparent": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

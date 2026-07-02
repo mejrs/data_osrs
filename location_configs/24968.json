@@ -1,7 +1,12 @@
 {
   "id": 24968,
   "name": "Kebab",
-  "models_2": [
-    1260
-  ]
+  "object_models": {
+    "models": [
+      1260
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

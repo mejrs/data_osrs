@@ -1,11 +1,13 @@
 {
   "id": 15572,
   "name": "Pit",
-  "models_2": [
-    13591
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      13591
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Enter",
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

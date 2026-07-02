@@ -1,14 +1,19 @@
 {
   "id": 48592,
   "name": "Strangled Tent",
-  "models_2": [
-    48573
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      48573
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 15,
   "contrast": 30,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

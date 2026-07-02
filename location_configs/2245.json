@@ -1,14 +1,19 @@
 {
   "id": 2245,
   "name": "Jungle plant",
-  "models_2": [
-    1618
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1618
+    ]
+  },
   "colours": [
     [
       17304,
       22447
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

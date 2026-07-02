@@ -1,19 +1,22 @@
 {
   "id": 17486,
-  "models": [
-    [
-      10,
-      17477
-    ],
-    [
-      4,
-      17479
-    ]
-  ],
   "name": "Dragon's head",
+  "object_models_and_types": {
+    "models": [
+      17477,
+      17479
+    ],
+    "types": [
+      10,
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 25,
   "contrast": 25,
-  "translate_y": 40
+  "translate_y": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,14 +1,19 @@
 {
   "id": 52514,
   "name": "Throne",
-  "models_2": [
-    52583
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      52583
+    ]
+  },
   "ambient": 25,
   "contrast": 25,
   "scale_x": 300,
   "scale_y": 300,
-  "scale_z": 300
+  "scale_z": 300,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 32158,
   "name": "Ancient Machinery",
-  "models_2": [
-    34737
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      34737
+    ]
+  },
   "unknown_24": 7899,
   "unknown_27": false,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

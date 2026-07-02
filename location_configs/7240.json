@@ -1,9 +1,11 @@
 {
   "id": 7240,
   "name": "Ledge",
-  "models_2": [
-    7562
-  ],
+  "object_models": {
+    "models": [
+      7562
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Climb",
@@ -17,5 +19,8 @@
       10518,
       5667
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 5429,
   "name": "Captain's Table",
-  "models_2": [
-    4290,
-    4291
-  ],
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      4290,
+      4291
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -24,5 +26,8 @@
       5799,
       12942
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

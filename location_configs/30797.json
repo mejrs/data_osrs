@@ -1,10 +1,15 @@
 {
   "id": 30797,
   "name": "Seaweed Pile",
-  "models_2": [
-    33839
-  ],
+  "object_models": {
+    "models": [
+      33839
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

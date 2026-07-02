@@ -1,14 +1,19 @@
 {
   "id": 835,
   "name": "Sword cabinet",
-  "models_2": [
-    1232
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1232
+    ]
+  },
   "colours": [
     [
       8860,
       6080
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

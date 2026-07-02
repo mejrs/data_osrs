@@ -1,11 +1,13 @@
 {
   "id": 44620,
   "name": "Grindstone",
-  "models_2": [
-    44811
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      44811
+    ]
+  },
   "unknown_22": true,
   "unknown_24": 9445,
   "unknown_27": false,
@@ -19,5 +21,8 @@
   ],
   "contrast": 30,
   "model": false,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

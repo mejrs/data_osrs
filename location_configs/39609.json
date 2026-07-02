@@ -1,11 +1,13 @@
 {
   "id": 39609,
   "name": "Stairs",
-  "models_2": [
-    40595
-  ],
   "dim_x": 4,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      40595
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Climb",
@@ -16,5 +18,8 @@
   ],
   "contrast": 10,
   "unknown_69": 27,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

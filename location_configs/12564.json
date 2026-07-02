@@ -1,9 +1,11 @@
 {
   "id": 12564,
   "name": "Pile of Rock",
-  "models_2": [
-    3184
-  ],
+  "object_models": {
+    "models": [
+      3184
+    ]
+  },
   "actions": [
     "Mine",
     null,
@@ -20,5 +22,9 @@
       24,
       5008
     ]
-  ]
+  ],
+  "category": 2427,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

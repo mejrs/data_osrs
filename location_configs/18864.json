@@ -1,8 +1,13 @@
 {
   "id": 18864,
   "name": "Drunken Dwarf",
-  "models_2": [
-    19120
-  ],
-  "ambient": 10
+  "object_models": {
+    "models": [
+      19120
+    ]
+  },
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

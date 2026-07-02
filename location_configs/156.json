@@ -1,10 +1,12 @@
 {
   "id": 156,
   "name": "Bookcase",
-  "models_2": [
-    11457,
-    11458
-  ],
+  "object_models": {
+    "models": [
+      11457,
+      11458
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -36,5 +38,8 @@
   ],
   "textures": {
     "2": 23
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

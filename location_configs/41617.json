@@ -1,10 +1,12 @@
 {
   "id": 41617,
   "name": "Portal",
-  "models_2": [
-    42245
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      42245
+    ]
+  },
   "unknown_24": 9016,
   "ambient": 25,
   "actions": [
@@ -20,5 +22,8 @@
     "unknown_1": 3139,
     "unknown_2": 2
   },
-  "mapscene": 64
+  "mapscene": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

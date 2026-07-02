@@ -1,10 +1,12 @@
 {
   "id": 20360,
   "name": "Workbench",
-  "models_2": [
-    11564
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      11564
+    ]
+  },
   "colours": [
     [
       5545,
@@ -18,5 +20,8 @@
       5545,
       6705
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

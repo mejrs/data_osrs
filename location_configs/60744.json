@@ -1,0 +1,19 @@
+{
+  "id": 60744,
+  "name": "Stepladder",
+  "object_models": {
+    "models": [
+      4989
+    ]
+  },
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

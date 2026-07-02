@@ -1,10 +1,12 @@
 {
   "id": 36102,
   "name": "Node",
-  "models_2": [
-    37382
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      37382
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 44,
-  "category": 1367
+  "category": 1367,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

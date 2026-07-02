@@ -1,25 +1,24 @@
 {
   "id": 21240,
-  "models": [
-    [
-      0,
-      21634
-    ],
-    [
-      1,
-      21635
-    ],
-    [
-      3,
-      21636
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      21634,
+      21635,
+      21636,
       21637
+    ],
+    "types": [
+      0,
+      1,
+      3,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_22": true,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

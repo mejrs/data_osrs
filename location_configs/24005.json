@@ -1,11 +1,13 @@
 {
   "id": 24005,
   "name": "Shop counter",
-  "models_2": [
-    11552,
-    7906
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      11552,
+      7906
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -33,5 +35,8 @@
       5910
     ]
   ],
-  "category": 156
+  "category": 156,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

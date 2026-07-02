@@ -1,7 +1,12 @@
 {
   "id": 50035,
   "name": "Tree stump",
-  "models_2": [
-    23909
-  ]
+  "object_models": {
+    "models": [
+      23909
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

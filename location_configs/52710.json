@@ -1,11 +1,13 @@
 {
   "id": 52710,
   "name": "Statue of Taur",
-  "models_2": [
-    52328
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      52328
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 10,
@@ -19,5 +21,8 @@
   "contrast": 25,
   "scale_x": 180,
   "scale_y": 180,
-  "scale_z": 180
+  "scale_z": 180,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

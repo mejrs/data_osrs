@@ -1,13 +1,18 @@
 {
   "id": 10504,
   "name": "Cooking Pots",
-  "models_2": [
-    4645
-  ],
+  "object_models": {
+    "models": [
+      4645
+    ]
+  },
   "colours": [
     [
       61,
       8390
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

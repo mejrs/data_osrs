@@ -1,9 +1,11 @@
 {
   "id": 55965,
   "name": "Candy cane crate",
-  "models_2": [
-    55837
-  ],
+  "object_models": {
+    "models": [
+      55837
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,
@@ -18,5 +20,8 @@
       39132
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

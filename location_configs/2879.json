@@ -1,11 +1,13 @@
 {
   "id": 2879,
   "name": "Sparkling pool",
-  "models_2": [
-    691
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      691
+    ]
+  },
   "actions": [
     "Step-into",
     null,
@@ -18,5 +20,8 @@
   "unknown_78": {
     "unknown_1": 2149,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

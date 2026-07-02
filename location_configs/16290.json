@@ -1,18 +1,21 @@
 {
   "id": 16290,
-  "models": [
-    [
-      10,
-      16152
-    ],
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
+      16152,
       16153
+    ],
+    "types": [
+      10,
+      0
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 30,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

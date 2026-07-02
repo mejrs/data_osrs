@@ -1,12 +1,14 @@
 {
   "id": 58763,
   "name": "Diseased Ironwood",
-  "models_2": [
-    58657,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58657,
+      7767
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Prune",
@@ -37,5 +39,8 @@
   "textures": {
     "8": 200,
     "60": 201
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

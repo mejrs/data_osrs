@@ -1,10 +1,12 @@
 {
   "id": 10053,
   "name": "Grave",
-  "models_2": [
-    13376
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      13376
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "actions": [
@@ -15,5 +17,8 @@
     null
   ],
   "category": 1473,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

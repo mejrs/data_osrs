@@ -1,16 +1,16 @@
 {
   "id": 14914,
-  "models": [
-    [
-      10,
-      1465
-    ],
-    [
-      22,
-      20043
-    ]
-  ],
   "name": "Sand",
+  "object_models_and_types": {
+    "models": [
+      1465,
+      20043
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "actions": [
@@ -30,5 +30,8 @@
   "scale_y": 96,
   "scale_z": 96,
   "unknown_75": 1,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

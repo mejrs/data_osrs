@@ -1,10 +1,15 @@
 {
   "id": 30286,
   "name": "Rocky support",
-  "models_2": [
-    33042
-  ],
+  "object_models": {
+    "models": [
+      33042
+    ]
+  },
   "unknown_19": 1,
   "translate_y": 65535,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

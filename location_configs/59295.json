@@ -1,10 +1,12 @@
 {
   "id": 59295,
   "name": "Thorns",
-  "models_2": [
-    11713
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      11713
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chart",
@@ -21,5 +23,8 @@
     ]
   ],
   "category": 2317,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

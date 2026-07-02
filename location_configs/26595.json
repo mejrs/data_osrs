@@ -1,12 +1,14 @@
 {
   "id": 26595,
-  "models": [
-    [
-      0,
-      8999
-    ]
-  ],
   "name": "Dyed fabric",
+  "object_models_and_types": {
+    "models": [
+      8999
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 35,
@@ -22,5 +24,8 @@
   ],
   "mirror": true,
   "model": false,
-  "translate_z": 40
+  "translate_z": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

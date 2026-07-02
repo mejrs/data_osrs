@@ -1,16 +1,16 @@
 {
   "id": 20364,
-  "models": [
-    [
-      10,
-      2100
-    ],
-    [
-      4,
-      7745
-    ]
-  ],
   "name": "Clothing shelves",
+  "object_models_and_types": {
+    "models": [
+      2100,
+      7745
+    ],
+    "types": [
+      10,
+      4
+    ]
+  },
   "unknown_17": false,
   "ambient": 50,
   "colours": [
@@ -18,5 +18,8 @@
       5660,
       6705
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

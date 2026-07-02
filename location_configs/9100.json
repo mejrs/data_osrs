@@ -1,9 +1,11 @@
 {
   "id": 9100,
   "name": "Conveyor belt",
-  "models_2": [
-    9063
-  ],
+  "object_models": {
+    "models": [
+      9063
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 2437,
   "unknown_27": false,
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

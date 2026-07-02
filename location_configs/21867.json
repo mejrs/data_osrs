@@ -1,19 +1,17 @@
 {
   "id": 21867,
-  "models": [
-    [
-      0,
-      18697
-    ],
-    [
-      2,
-      18698
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      18697,
+      18698,
       18699
+    ],
+    "types": [
+      0,
+      2,
+      9
     ]
-  ],
+  },
   "ambient": 20,
   "contrast": 5,
   "colours": [
@@ -25,5 +23,8 @@
       5400,
       5285
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

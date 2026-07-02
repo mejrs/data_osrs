@@ -1,20 +1,18 @@
 {
   "id": 3997,
-  "models": [
-    [
-      0,
-      3954
-    ],
-    [
-      1,
-      3955
-    ],
-    [
-      9,
-      3956
-    ]
-  ],
   "name": "Tent wall",
+  "object_models_and_types": {
+    "models": [
+      3954,
+      3955,
+      3956
+    ],
+    "types": [
+      0,
+      1,
+      9
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 1234,
   "ambient": 50,
@@ -28,5 +26,8 @@
       17686,
       7364
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

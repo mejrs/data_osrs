@@ -1,8 +1,10 @@
 {
   "id": 5833,
-  "models_2": [
-    3308
-  ],
+  "object_models": {
+    "models": [
+      3308
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "colours": [
@@ -18,5 +20,8 @@
   "mirror": true,
   "translate_x": 65488,
   "translate_y": 65526,
-  "translate_z": 0
+  "translate_z": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

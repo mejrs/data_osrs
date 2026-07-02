@@ -1,16 +1,21 @@
 {
   "id": 10954,
   "name": "Flat ground",
-  "models_2": [
-    10900
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      10900
+    ]
+  },
   "colours": [
     [
       5590,
       8656
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 33037,
   "name": "Portal",
-  "models_2": [
-    35609
-  ],
   "dim_x": 8,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      35609
+    ]
+  },
   "unknown_24": 8142,
   "ambient": 60,
   "actions": [
@@ -19,6 +21,9 @@
     "unknown_1": 3139,
     "unknown_2": 5
   },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 8,
     "430": 2

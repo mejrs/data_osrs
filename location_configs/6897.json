@@ -1,9 +1,11 @@
 {
   "id": 6897,
   "name": "Stand",
-  "models_2": [
-    6799
-  ],
+  "object_models": {
+    "models": [
+      6799
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Search",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

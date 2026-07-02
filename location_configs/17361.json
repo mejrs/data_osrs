@@ -1,16 +1,19 @@
 {
   "id": 17361,
-  "models": [
-    [
-      0,
-      17328
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      17328,
       17335
+    ],
+    "types": [
+      0,
+      9
     ]
-  ],
+  },
   "unknown_17": false,
   "unknown_22": true,
-  "ambient": 40
+  "ambient": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

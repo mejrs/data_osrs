@@ -1,8 +1,13 @@
 {
   "id": 40213,
   "name": "Bath",
-  "models_2": [
-    12121
-  ],
-  "ambient": 25
+  "object_models": {
+    "models": [
+      12121
+    ]
+  },
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

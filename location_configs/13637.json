@@ -1,10 +1,12 @@
 {
   "id": 13637,
   "name": "Portal frame",
-  "models_2": [
-    11236
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      11236
+    ]
+  },
   "ambient": 40,
   "actions": [
     null,
@@ -14,6 +16,12 @@
     "Remove"
   ],
   "category": 206,
+  "scale_x": 117,
+  "scale_y": 117,
+  "scale_z": 117,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 2,
     "430": 1

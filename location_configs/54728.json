@@ -1,9 +1,11 @@
 {
   "id": 54728,
   "name": "Bookshelf passage",
-  "models_2": [
-    54533
-  ],
+  "object_models": {
+    "models": [
+      54533
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Enter",
@@ -40,5 +42,8 @@
     ]
   ],
   "category": 205,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

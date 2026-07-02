@@ -1,9 +1,11 @@
 {
   "id": 23630,
   "name": "Redberry bush",
-  "models_2": [
-    7826
-  ],
+  "object_models": {
+    "models": [
+      7826
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -33,5 +35,8 @@
   "scale_x": 64,
   "scale_y": 64,
   "scale_z": 64,
-  "mapscene": 9
+  "mapscene": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

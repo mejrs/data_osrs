@@ -1,9 +1,11 @@
 {
   "id": 59465,
   "name": "Scorching brazier",
-  "models_2": [
-    53101
-  ],
+  "object_models": {
+    "models": [
+      53101
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8170,
@@ -17,5 +19,8 @@
     "Settings"
   ],
   "contrast": 10,
-  "category": 2320
+  "category": 2320,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

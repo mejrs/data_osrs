@@ -1,7 +1,12 @@
 {
   "id": 11870,
   "name": "Multicannon parts",
-  "models_2": [
-    11606
-  ]
+  "object_models": {
+    "models": [
+      11606
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

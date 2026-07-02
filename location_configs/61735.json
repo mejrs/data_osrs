@@ -1,0 +1,21 @@
+{
+  "id": 61735,
+  "name": "Chest",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      61164
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 30,
+  "category": 2465,
+  "unknown_69": 27,
+  "translate_z": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

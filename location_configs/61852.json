@@ -1,0 +1,33 @@
+{
+  "id": 61852,
+  "name": "Crank base",
+  "object_models": {
+    "models": [
+      61259
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2471,
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 178,
+      "max": 178,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
+}

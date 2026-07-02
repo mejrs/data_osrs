@@ -1,0 +1,22 @@
+{
+  "id": 61146,
+  "object_models_and_types": {
+    "models": [
+      61583,
+      1097
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 30,
+  "category": 1684,
+  "translate_x": 65472,
+  "translate_z": 65472,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

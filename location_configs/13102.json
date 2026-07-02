@@ -1,12 +1,14 @@
 {
   "id": 13102,
-  "models": [
-    [
-      0,
-      13261
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      13261
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

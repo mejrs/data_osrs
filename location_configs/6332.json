@@ -1,7 +1,12 @@
 {
   "id": 6332,
   "name": "Statue",
-  "models_2": [
-    6182
-  ]
+  "object_models": {
+    "models": [
+      6182
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

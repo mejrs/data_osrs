@@ -1,11 +1,13 @@
 {
   "id": 44918,
   "name": "Arena recruitment board",
-  "models_2": [
-    45089
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      45089
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 30,
@@ -21,5 +23,8 @@
   "scale_x": 108,
   "scale_y": 96,
   "scale_z": 108,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

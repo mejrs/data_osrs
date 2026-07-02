@@ -1,14 +1,19 @@
 {
   "id": 46297,
-  "models": [
-    [
-      4,
-      46681
-    ]
-  ],
   "name": "Autumn Wreath",
+  "object_models_and_types": {
+    "models": [
+      46681
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "contrast": 10,
-  "translate_y": 16
+  "translate_y": 16,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

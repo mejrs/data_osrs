@@ -1,11 +1,13 @@
 {
   "id": 12749,
   "name": "Rubble Pile",
-  "models_2": [
-    14031
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      14031
+    ]
+  },
   "actions": [
     null,
     "Search",
@@ -15,5 +17,8 @@
   ],
   "scale_x": 242,
   "scale_y": 242,
-  "scale_z": 242
+  "scale_z": 242,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,15 @@
 {
   "id": 6799,
   "name": "Clockmaker's bench",
-  "models_2": [
-    12185,
-    12182,
-    12183,
-    12189
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      12185,
+      12182,
+      12183,
+      12189
+    ]
+  },
   "actions": [
     "Craft",
     null,
@@ -16,5 +18,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

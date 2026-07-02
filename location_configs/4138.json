@@ -1,10 +1,12 @@
 {
   "id": 4138,
   "name": "Counter",
-  "models_2": [
-    1148
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1148
+    ]
+  },
   "is_transparent": true,
   "category": 156,
   "scale_x": 128,
@@ -12,5 +14,8 @@
   "scale_z": 84,
   "translate_x": 0,
   "translate_y": 0,
-  "translate_z": 20
+  "translate_z": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

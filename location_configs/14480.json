@@ -1,8 +1,13 @@
 {
   "id": 14480,
   "name": "Skeleton",
-  "models_2": [
-    14779
-  ],
-  "dim_y": 3
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      14779
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

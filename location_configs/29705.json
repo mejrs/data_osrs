@@ -1,12 +1,14 @@
 {
   "id": 29705,
-  "models": [
-    [
-      22,
-      32849
-    ]
-  ],
   "name": "Crack",
+  "object_models_and_types": {
+    "models": [
+      32849
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -47,5 +49,8 @@
     ]
   ],
   "model": false,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

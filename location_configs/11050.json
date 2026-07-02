@@ -1,9 +1,11 @@
 {
   "id": 11050,
   "name": "Secret entrance",
-  "models_2": [
-    10888
-  ],
+  "object_models": {
+    "models": [
+      10888
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Climb-down",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

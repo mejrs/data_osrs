@@ -1,12 +1,14 @@
 {
   "id": 5556,
-  "models": [
-    [
-      4,
-      5569
-    ]
-  ],
   "name": "Hanging tapestry",
+  "object_models_and_types": {
+    "models": [
+      5569
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
   "contrast": 100,
@@ -19,5 +21,8 @@
       3992,
       40627
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

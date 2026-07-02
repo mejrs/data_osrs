@@ -1,9 +1,11 @@
 {
   "id": 45342,
   "name": "Pressure plate",
-  "models_2": [
-    46440
-  ],
+  "object_models": {
+    "models": [
+      46440
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
@@ -17,5 +19,8 @@
       3879
     ]
   ],
-  "category": 1663
+  "category": 1663,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

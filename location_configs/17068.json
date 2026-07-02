@@ -1,12 +1,14 @@
 {
   "id": 17068,
-  "models": [
-    [
-      22,
-      16897
-    ]
-  ],
   "name": "Broken Raft",
+  "object_models_and_types": {
+    "models": [
+      16897
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -17,5 +19,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,24 @@
+{
+  "id": 62097,
+  "name": "Sink",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      40384
+    ]
+  },
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      41193,
+      32929
+    ]
+  ],
+  "category": 175,
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

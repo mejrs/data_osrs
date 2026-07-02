@@ -1,10 +1,12 @@
 {
   "id": 9081,
   "name": "Pinball Post",
-  "models_2": [
-    14969,
-    14972
-  ],
+  "object_models": {
+    "models": [
+      14969,
+      14972
+    ]
+  },
   "unknown_24": 4006,
   "ambient": 45,
   "actions": [
@@ -19,5 +21,8 @@
       6936,
       39638
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

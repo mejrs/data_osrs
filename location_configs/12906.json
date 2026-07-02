@@ -1,12 +1,14 @@
 {
   "id": 12906,
-  "models": [
-    [
-      22,
-      13979
-    ]
-  ],
   "name": "Ladder",
+  "object_models_and_types": {
+    "models": [
+      13979
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -18,5 +20,8 @@
     null
   ],
   "unknown_69": 29,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

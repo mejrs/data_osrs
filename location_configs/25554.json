@@ -1,12 +1,17 @@
 {
   "id": 25554,
-  "models_2": [
-    26943,
-    26939
-  ],
   "dim_x": 2,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      26943,
+      26939
+    ]
+  },
   "unknown_19": 0,
   "ambient": 25,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

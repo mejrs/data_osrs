@@ -1,9 +1,11 @@
 {
   "id": 3916,
   "name": "Mushrooms",
-  "models_2": [
-    3917
-  ],
+  "object_models": {
+    "models": [
+      3917
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -19,5 +21,8 @@
       7390
     ]
   ],
-  "unknown_81": 80
+  "unknown_81": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 23566,
   "name": "Monkeybars",
-  "models_2": [
-    1474
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      1474
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Swing across",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 11383,
   "name": "Limestone rock",
-  "models_2": [
-    3183
-  ],
+  "object_models": {
+    "models": [
+      3183
+    ]
+  },
   "unknown_21": true,
   "ambient": 10,
   "actions": [
@@ -23,5 +25,9 @@
       24,
       10295
     ]
-  ]
+  ],
+  "category": 2429,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

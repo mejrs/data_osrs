@@ -1,12 +1,14 @@
 {
   "id": 20414,
-  "models": [
-    [
-      0,
-      21257
-    ]
-  ],
   "name": "Adamant ore vein",
+  "object_models_and_types": {
+    "models": [
+      21257
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -30,5 +32,8 @@
     ]
   ],
   "category": 197,
-  "scale_y": 153
+  "scale_y": 153,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

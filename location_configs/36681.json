@@ -1,11 +1,13 @@
 {
   "id": 36681,
   "name": "Maple tree",
-  "models_2": [
-    37832
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37832
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chop down",
@@ -16,5 +18,8 @@
   ],
   "contrast": 5,
   "category": 222,
-  "mapscene": 2
+  "mapscene": 2,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

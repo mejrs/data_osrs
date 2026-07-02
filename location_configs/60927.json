@@ -1,0 +1,27 @@
+{
+  "id": 60927,
+  "name": "Rockslide",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      820
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 45,
+  "colours": [
+    [
+      6689,
+      268
+    ]
+  ],
+  "model": false,
+  "mapscene": 271,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,11 +1,16 @@
 {
   "id": 37666,
-  "models_2": [
-    39222
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      39222
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

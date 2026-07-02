@@ -1,11 +1,13 @@
 {
   "id": 30944,
   "name": "Strange Machine",
-  "models_2": [
-    33988
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      33988
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 7735,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

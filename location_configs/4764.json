@@ -1,9 +1,11 @@
 {
   "id": 4764,
   "name": "Bamboo Stool",
-  "models_2": [
-    1261
-  ],
+  "object_models": {
+    "models": [
+      1261
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -14,5 +16,8 @@
       5673,
       5673
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 18176,
   "name": "Large table",
-  "models_2": [
-    9547,
-    18258
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      9547,
+      18258
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -25,5 +27,8 @@
       7830
     ]
   ],
-  "category": 156
+  "category": 156,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

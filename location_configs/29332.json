@@ -1,9 +1,11 @@
 {
   "id": 29332,
   "name": "Cart tunnel",
-  "models_2": [
-    21248
-  ],
+  "object_models": {
+    "models": [
+      21248
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "scale_y": 154
+  "scale_y": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

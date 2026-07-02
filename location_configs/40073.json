@@ -1,14 +1,19 @@
 {
   "id": 40073,
   "name": "Cabinet space",
-  "models_2": [
-    40811
-  ],
+  "object_models": {
+    "models": [
+      40811
+    ]
+  },
   "actions": [
     null,
     null,
     null,
     "Build",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

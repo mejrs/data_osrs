@@ -1,12 +1,17 @@
 {
   "id": 56790,
   "name": "Hammer",
-  "models_2": [
-    57067
-  ],
+  "object_models": {
+    "models": [
+      57067
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 20,
   "contrast": 15,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

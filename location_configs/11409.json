@@ -1,8 +1,13 @@
 {
   "id": 11409,
   "name": "pipe with rope",
-  "models_2": [
-    11438
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      11438
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

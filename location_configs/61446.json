@@ -1,0 +1,39 @@
+{
+  "id": 61446,
+  "name": "Altar",
+  "dim_x": 3,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60553
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 897,
+  "scale_x": 144,
+  "scale_y": 144,
+  "scale_z": 144,
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 178,
+      "max": 178,
+      "text": "Pray"
+    }
+  ],
+  "conditional_sub_op": []
+}

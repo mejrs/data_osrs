@@ -1,11 +1,13 @@
 {
   "id": 31881,
   "name": "Fountain of Heroes",
-  "models_2": [
-    1497
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1497
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Recharge-jewellery",
@@ -28,5 +30,8 @@
     "unknown_1": 2151,
     "unknown_2": 5
   },
-  "mapscene": 8
+  "mapscene": 8,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

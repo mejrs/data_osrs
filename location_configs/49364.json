@@ -1,13 +1,18 @@
 {
   "id": 49364,
   "name": "Nerves",
-  "models_2": [
-    49170
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      49170
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 35,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

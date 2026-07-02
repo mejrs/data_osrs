@@ -1,11 +1,13 @@
 {
   "id": 36690,
   "name": "Cave",
-  "models_2": [
-    37868
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      37868
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Enter",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

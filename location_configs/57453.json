@@ -1,17 +1,22 @@
 {
   "id": 57453,
-  "models": [
-    [
-      0,
-      56895
-    ]
-  ],
   "name": "Hoop",
+  "object_models_and_types": {
+    "models": [
+      56895
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 15,
   "contrast": 30,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

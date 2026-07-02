@@ -1,11 +1,13 @@
 {
   "id": 58444,
   "name": "Mooring point",
-  "models_2": [
-    58362
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      58362
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -20,5 +22,8 @@
     null
   ],
   "contrast": 25,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

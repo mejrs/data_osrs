@@ -1,16 +1,16 @@
 {
   "id": 43656,
-  "models": [
-    [
-      10,
-      44034
-    ],
-    [
-      22,
-      44040
-    ]
-  ],
   "name": "Elk kelp",
+  "object_models_and_types": {
+    "models": [
+      44034,
+      44040
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": -35,
@@ -37,5 +37,8 @@
       33290
     ]
   ],
-  "mapscene": 27
+  "mapscene": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

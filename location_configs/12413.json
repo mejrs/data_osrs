@@ -1,7 +1,12 @@
 {
   "id": 12413,
   "name": "Rolling pin",
-  "models_2": [
-    13476
-  ]
+  "object_models": {
+    "models": [
+      13476
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 18701,
-  "models": [
-    [
-      0,
-      18672
-    ]
-  ],
   "name": "Mind Door",
+  "object_models_and_types": {
+    "models": [
+      18672
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

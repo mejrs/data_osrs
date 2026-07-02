@@ -1,9 +1,11 @@
 {
   "id": 5809,
   "name": "Weathervane",
-  "models_2": [
-    5655
-  ],
+  "object_models": {
+    "models": [
+      5655
+    ]
+  },
   "actions": [
     "Look",
     null,
@@ -24,5 +26,8 @@
       5547,
       3747
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

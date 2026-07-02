@@ -1,8 +1,13 @@
 {
   "id": 16872,
   "name": "Fish bits",
-  "models_2": [
-    16519
-  ],
-  "category": 529
+  "object_models": {
+    "models": [
+      16519
+    ]
+  },
+  "category": 529,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

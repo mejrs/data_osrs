@@ -1,10 +1,12 @@
 {
   "id": 5113,
   "name": "Crate",
-  "models_2": [
-    7685,
-    16950
-  ],
+  "object_models": {
+    "models": [
+      7685,
+      16950
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -40,5 +42,8 @@
       8078
     ]
   ],
-  "category": 209
+  "category": 209,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

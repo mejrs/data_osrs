@@ -1,9 +1,11 @@
 {
   "id": 41551,
   "name": "Barronite Crusher",
-  "models_2": [
-    42119
-  ],
+  "object_models": {
+    "models": [
+      42119
+    ]
+  },
   "actions": [
     "Smith",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "category": 772
+  "category": 772,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

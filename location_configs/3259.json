@@ -1,16 +1,21 @@
 {
   "id": 3259,
   "name": "Bridge",
-  "models_2": [
-    735
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      735
+    ]
+  },
   "unknown_22": true,
   "colours": [
     [
       5916,
       7952
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

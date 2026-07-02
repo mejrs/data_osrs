@@ -1,9 +1,14 @@
 {
   "id": 302,
   "name": "Eggs",
-  "models_2": [
-    1463
-  ],
+  "object_models": {
+    "models": [
+      1463
+    ]
+  },
   "ambient": -10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

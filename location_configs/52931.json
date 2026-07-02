@@ -1,15 +1,20 @@
 {
   "id": 52931,
-  "models_2": [
-    51612
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      51612
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 20,
   "contrast": 45,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

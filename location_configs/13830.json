@@ -1,13 +1,18 @@
 {
   "id": 13830,
-  "models": [
-    [
-      0,
-      12895
-    ]
-  ],
   "name": "Window",
+  "object_models_and_types": {
+    "models": [
+      12895
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

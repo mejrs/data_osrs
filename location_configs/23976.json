@@ -1,10 +1,15 @@
 {
   "id": 23976,
   "name": "Rock",
-  "models_2": [
-    11587
-  ],
+  "object_models": {
+    "models": [
+      11587
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

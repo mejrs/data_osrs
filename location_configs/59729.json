@@ -1,8 +1,10 @@
 {
   "id": 59729,
-  "models_2": [
-    58365
-  ],
+  "object_models": {
+    "models": [
+      58365
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_22": true,
@@ -10,5 +12,8 @@
   "contrast": 15,
   "mirror": true,
   "model": false,
-  "translate_y": 108
+  "translate_y": 108,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 40432,
   "name": "Table",
-  "models_2": [
-    1213,
-    4434
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1213,
+      4434
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Take-from",
@@ -20,5 +22,8 @@
       33608
     ]
   ],
-  "category": 2160
+  "category": 2160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 34916,
   "name": "Crystal tree",
-  "models_2": [
-    37354,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37354,
+      7767
+    ]
+  },
   "ambient": 30,
   "actions": [
     null,
@@ -14,5 +16,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 13155,
   "name": "Shoe box",
-  "models_2": [
-    11129
-  ],
+  "object_models": {
+    "models": [
+      11129
+    ]
+  },
   "actions": [
     "Change-clothes",
     null,
@@ -12,5 +14,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

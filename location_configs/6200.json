@@ -1,11 +1,16 @@
 {
   "id": 6200,
   "name": "Table",
-  "models_2": [
-    5953
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5953
+    ]
+  },
   "category": 157,
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

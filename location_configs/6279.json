@@ -1,9 +1,11 @@
 {
   "id": 6279,
   "name": "Smokey well",
-  "models_2": [
-    6144
-  ],
+  "object_models": {
+    "models": [
+      6144
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Climb-down",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

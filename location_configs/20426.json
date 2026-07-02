@@ -1,11 +1,13 @@
 {
   "id": 20426,
   "name": "Stairs",
-  "models_2": [
-    21230
-  ],
   "dim_x": 4,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      21230
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Walk-up",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "scale_y": 153
+  "scale_y": 153,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

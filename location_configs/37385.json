@@ -1,9 +1,11 @@
 {
   "id": 37385,
   "name": "House Advertisement",
-  "models_2": [
-    38855
-  ],
+  "object_models": {
+    "models": [
+      38855
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -32,5 +34,8 @@
       7446
     ]
   ],
-  "category": 1398
+  "category": 1398,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

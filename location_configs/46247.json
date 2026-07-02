@@ -1,17 +1,22 @@
 {
   "id": 46247,
   "name": "Weapons Rack",
-  "models_2": [
-    12178,
-    12179,
-    12181
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      12178,
+      12179,
+      12181
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

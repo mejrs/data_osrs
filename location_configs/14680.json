@@ -1,9 +1,11 @@
 {
   "id": 14680,
   "name": "Bones",
-  "models_2": [
-    13859
-  ],
+  "object_models": {
+    "models": [
+      13859
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "colours": [
@@ -11,5 +13,8 @@
       6241,
       20
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

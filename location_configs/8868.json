@@ -1,10 +1,12 @@
 {
   "id": 8868,
   "name": "Kelda Hops",
-  "models_2": [
-    8203,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8203,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -34,5 +36,8 @@
       13095,
       35908
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

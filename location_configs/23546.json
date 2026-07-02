@@ -1,12 +1,14 @@
 {
   "id": 23546,
-  "models": [
-    [
-      4,
-      1786
-    ]
-  ],
   "name": "Balancing ledge",
+  "object_models_and_types": {
+    "models": [
+      1786
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Walk-across",
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

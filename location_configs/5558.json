@@ -1,9 +1,11 @@
 {
   "id": 5558,
   "name": "Aggie's Cauldron",
-  "models_2": [
-    2241
-  ],
+  "object_models": {
+    "models": [
+      2241
+    ]
+  },
   "unknown_24": 479,
   "ambient": 30,
   "colours": [
@@ -15,5 +17,8 @@
   "unknown_78": {
     "unknown_1": 2143,
     "unknown_2": 10
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

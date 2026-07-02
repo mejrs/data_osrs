@@ -1,13 +1,18 @@
 {
   "id": 57189,
   "name": "Lumber transport",
-  "models_2": [
-    57009
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      57009
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 10,
   "contrast": 15,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

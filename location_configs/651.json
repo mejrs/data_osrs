@@ -1,11 +1,13 @@
 {
   "id": 651,
   "name": "Buried skeleton",
-  "models_2": [
-    1101
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1101
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Search",
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

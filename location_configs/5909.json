@@ -1,11 +1,13 @@
 {
   "id": 5909,
   "name": "Lamp oil still",
-  "models_2": [
-    5755,
-    9547
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      5755,
+      9547
+    ]
+  },
   "colours": [
     [
       6451,
@@ -23,5 +25,8 @@
       6563,
       6812
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

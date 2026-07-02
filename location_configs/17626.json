@@ -1,10 +1,12 @@
 {
   "id": 17626,
   "name": "Rubble",
-  "models_2": [
-    17911
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      17911
+    ]
+  },
   "unknown_21": true,
   "colours": [
     [
@@ -14,5 +16,8 @@
   ],
   "scale_x": 128,
   "scale_y": 160,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

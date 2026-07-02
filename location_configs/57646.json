@@ -1,12 +1,14 @@
 {
   "id": 57646,
-  "models": [
-    [
-      4,
-      25203
-    ]
-  ],
   "name": "Rack",
+  "object_models_and_types": {
+    "models": [
+      25203
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "contrast": 10,
@@ -23,5 +25,8 @@
       6439,
       5409
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

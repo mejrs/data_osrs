@@ -1,9 +1,11 @@
 {
   "id": 26739,
   "name": "Portal",
-  "models_2": [
-    2318
-  ],
+  "object_models": {
+    "models": [
+      2318
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 504,
   "unknown_27": false,
@@ -29,5 +31,8 @@
     "unknown_1": 3139,
     "unknown_2": 5
   },
-  "mapscene": 64
+  "mapscene": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

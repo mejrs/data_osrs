@@ -1,9 +1,14 @@
 {
   "id": 4852,
   "name": "Hollow Log",
-  "models_2": [
-    1634
-  ],
   "dim_x": 3,
-  "mapscene": 6
+  "object_models": {
+    "models": [
+      1634
+    ]
+  },
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

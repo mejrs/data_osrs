@@ -1,16 +1,18 @@
 {
   "id": 58604,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       1089
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 10,
-  "contrast": 15,
+  "contrast": 10,
   "colours": [
     [
       6932,
@@ -23,5 +25,9 @@
   ],
   "unknown_73": true,
   "maparea_id": 1054,
-  "mapscene": 46
+  "raise": 2,
+  "mapscene": 46,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

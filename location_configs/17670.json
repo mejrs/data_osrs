@@ -1,10 +1,12 @@
 {
   "id": 17670,
   "name": "Blackboard",
-  "models_2": [
-    17860
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      17860
+    ]
+  },
   "unknown_27": false,
   "ambient": 10,
   "colours": [
@@ -20,5 +22,8 @@
       5656,
       8472
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

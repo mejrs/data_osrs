@@ -1,13 +1,15 @@
 {
   "id": 25376,
-  "models": [
-    [
-      4,
-      7457
-    ]
-  ],
   "name": "Water rift",
   "dim_x": 2,
+  "object_models_and_types": {
+    "models": [
+      7457
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 2178,
   "ambient": 50,
@@ -24,5 +26,8 @@
       38848,
       41657
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

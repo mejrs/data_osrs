@@ -1,9 +1,11 @@
 {
   "id": 54989,
   "name": "Plant pot",
-  "models_2": [
-    49021
-  ],
+  "object_models": {
+    "models": [
+      49021
+    ]
+  },
   "ambient": 30,
   "contrast": 15,
   "colours": [
@@ -27,5 +29,8 @@
       0,
       4626
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

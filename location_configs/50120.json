@@ -1,14 +1,19 @@
 {
   "id": 50120,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       50659
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_28": 32,
   "ambient": 25,
   "contrast": 25,
   "mirror": true,
-  "scale_y": 130
+  "scale_y": 130,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

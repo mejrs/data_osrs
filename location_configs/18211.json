@@ -1,14 +1,19 @@
 {
   "id": 18211,
   "name": "Life buoy",
-  "models_2": [
-    18234
-  ],
+  "object_models": {
+    "models": [
+      18234
+    ]
+  },
   "ambient": 35,
   "colours": [
     [
       5532,
       5022
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 46470,
   "name": "Festive Present",
-  "models_2": [
-    43079
-  ],
+  "object_models": {
+    "models": [
+      43079
+    ]
+  },
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

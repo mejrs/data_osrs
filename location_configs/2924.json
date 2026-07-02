@@ -1,12 +1,14 @@
 {
   "id": 2924,
-  "models": [
-    [
-      0,
-      1727
-    ]
-  ],
   "name": "Ancient Gate",
+  "object_models_and_types": {
+    "models": [
+      1727
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -25,5 +27,8 @@
       10275,
       1942
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

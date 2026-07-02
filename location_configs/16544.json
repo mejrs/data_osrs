@@ -1,9 +1,11 @@
 {
   "id": 16544,
   "name": "Strange floor",
-  "models_2": [
-    7603
-  ],
+  "object_models": {
+    "models": [
+      7603
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 1112,
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

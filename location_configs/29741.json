@@ -1,11 +1,13 @@
 {
   "id": 29741,
   "name": "Mark of Power",
-  "models_2": [
-    1131
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1131
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -19,5 +21,8 @@
     ]
   ],
   "scale_x": 196,
-  "scale_z": 196
+  "scale_z": 196,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,17 +1,17 @@
 {
   "id": 54531,
-  "models": [
-    [
-      10,
-      47599
-    ],
-    [
-      22,
-      56548
-    ]
-  ],
   "name": "Ledge",
   "dim_x": 2,
+  "object_models_and_types": {
+    "models": [
+      47599,
+      56548
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Climb-down",
@@ -39,5 +39,8 @@
   "scale_y": 50,
   "scale_z": 256,
   "unknown_69": 30,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

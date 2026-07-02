@@ -1,10 +1,12 @@
 {
   "id": 22634,
   "name": "Console",
-  "models_2": [
-    23552
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      23552
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -22,5 +24,8 @@
       5910,
       16
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

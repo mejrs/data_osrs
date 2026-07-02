@@ -1,7 +1,12 @@
 {
   "id": 6266,
   "name": "Cage",
-  "models_2": [
-    6065
-  ]
+  "object_models": {
+    "models": [
+      6065
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

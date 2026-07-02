@@ -1,12 +1,14 @@
 {
   "id": 27415,
   "name": "Logavano plant",
-  "models_2": [
-    30124,
-    7768
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      30124,
+      7768
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -17,5 +19,8 @@
     null,
     null
   ],
-  "category": 901
+  "category": 901,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

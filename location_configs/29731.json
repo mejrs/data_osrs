@@ -1,10 +1,12 @@
 {
   "id": 29731,
   "name": "Painting",
-  "models_2": [
-    25349
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      25349
+    ]
+  },
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 20,
@@ -33,5 +35,8 @@
       7120,
       99
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

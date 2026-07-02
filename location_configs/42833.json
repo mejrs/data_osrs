@@ -1,9 +1,11 @@
 {
   "id": 42833,
   "name": "Iron rocks",
-  "models_2": [
-    1390
-  ],
+  "object_models": {
+    "models": [
+      1390
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "actions": [
@@ -20,5 +22,8 @@
     ]
   ],
   "category": 218,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

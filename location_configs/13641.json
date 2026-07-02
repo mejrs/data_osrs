@@ -1,11 +1,13 @@
 {
   "id": 13641,
   "name": "Greater teleport focus",
-  "models_2": [
-    13200
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      13200
+    ]
+  },
   "unknown_24": 3648,
   "ambient": 40,
   "actions": [
@@ -20,6 +22,9 @@
     "unknown_1": 3139,
     "unknown_2": 3
   },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 2,
     "430": 2

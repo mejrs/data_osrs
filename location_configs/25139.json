@@ -1,9 +1,11 @@
 {
   "id": 25139,
   "name": "Fungus",
-  "models_2": [
-    5023
-  ],
+  "object_models": {
+    "models": [
+      5023
+    ]
+  },
   "unknown_17": false,
   "colours": [
     [
@@ -18,5 +20,8 @@
       5970,
       7954
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

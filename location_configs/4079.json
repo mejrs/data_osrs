@@ -1,9 +1,11 @@
 {
   "id": 4079,
   "name": "Broken Wall",
-  "models_2": [
-    4137
-  ],
+  "object_models": {
+    "models": [
+      4137
+    ]
+  },
   "actions": [
     "Repair",
     null,
@@ -12,5 +14,8 @@
     null
   ],
   "category": 226,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

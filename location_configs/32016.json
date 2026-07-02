@@ -1,21 +1,22 @@
 {
   "id": 32016,
-  "models": [
-    [
-      0,
-      34846
-    ],
-    [
-      1,
-      34876
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      34846,
+      34876,
       34843
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "ambient": 15,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

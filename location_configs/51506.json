@@ -1,9 +1,11 @@
 {
   "id": 51506,
   "name": "Mine cart",
-  "models_2": [
-    4086
-  ],
+  "object_models": {
+    "models": [
+      4086
+    ]
+  },
   "unknown_24": 1261,
   "ambient": 10,
   "contrast": 20,
@@ -12,5 +14,8 @@
       10543,
       38238
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

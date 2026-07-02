@@ -1,8 +1,13 @@
 {
   "id": 23232,
   "name": "Wreck",
-  "models_2": [
-    24102
-  ],
-  "unknown_22": true
+  "object_models": {
+    "models": [
+      24102
+    ]
+  },
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

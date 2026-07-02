@@ -1,10 +1,12 @@
 {
   "id": 12111,
   "name": "Dairy Cow",
-  "models_2": [
-    23891
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      23891
+    ]
+  },
   "unknown_24": 5855,
   "ambient": 20,
   "actions": [
@@ -33,5 +35,8 @@
       262
     ]
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

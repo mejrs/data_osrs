@@ -1,14 +1,19 @@
 {
   "id": 668,
   "name": "Pile of skulls",
-  "models_2": [
-    2171
-  ],
+  "object_models": {
+    "models": [
+      2171
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
       10361,
       6241
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

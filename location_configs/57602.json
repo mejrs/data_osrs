@@ -1,9 +1,11 @@
 {
   "id": 57602,
   "name": "Grapevine",
-  "models_2": [
-    54487
-  ],
+  "object_models": {
+    "models": [
+      54487
+    ]
+  },
   "ambient": 30,
   "contrast": 30,
   "colours": [
@@ -20,5 +22,8 @@
       60304
     ]
   ],
-  "mapscene": 190
+  "mapscene": 190,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

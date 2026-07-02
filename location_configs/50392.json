@@ -1,13 +1,18 @@
 {
   "id": 50392,
   "name": "Dung",
-  "models_2": [
-    50252
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      50252
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 0,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

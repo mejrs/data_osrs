@@ -1,9 +1,11 @@
 {
   "id": 35828,
   "name": "<col=ffff00>Woman</col>",
-  "models_2": [
-    38134
-  ],
+  "object_models": {
+    "models": [
+      38134
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8050,
@@ -29,6 +31,9 @@
   ],
   "model": false,
   "mapscene": 82,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

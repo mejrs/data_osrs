@@ -1,9 +1,14 @@
 {
   "id": 16740,
   "name": "Table",
-  "models_2": [
-    16696,
-    16667
-  ],
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      16696,
+      16667
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

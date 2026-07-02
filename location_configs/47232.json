@@ -1,13 +1,15 @@
 {
   "id": 47232,
   "name": "Darkmeyer Display",
-  "models_2": [
-    47583,
-    47526,
-    47564
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      47583,
+      47526,
+      47564
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -19,5 +21,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

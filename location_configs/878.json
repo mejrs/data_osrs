@@ -1,9 +1,14 @@
 {
   "id": 878,
   "name": "Well",
-  "models_2": [
-    1525
-  ],
+  "object_models": {
+    "models": [
+      1525
+    ]
+  },
   "is_transparent": true,
-  "category": 245
+  "category": 245,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

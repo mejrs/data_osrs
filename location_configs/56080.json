@@ -1,25 +1,30 @@
 {
   "id": 56080,
   "name": "Birthday Balloons",
-  "models_2": [
-    43870
-  ],
-  "unknown_17": false,
+  "object_models": {
+    "models": [
+      43870
+    ]
+  },
   "unknown_24": 7543,
+  "unknown_27": false,
   "ambient": 20,
   "contrast": 20,
   "colours": [
     [
       687,
-      8
+      1569
     ],
     [
       16039,
-      8128
+      7741
     ],
     [
       43571,
-      0
+      7727
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

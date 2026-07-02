@@ -1,11 +1,13 @@
 {
   "id": 45485,
   "name": "Shielded statue",
-  "models_2": [
-    46183
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      46183
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -14,5 +16,8 @@
   "category": 1670,
   "scale_x": 256,
   "scale_y": 256,
-  "scale_z": 256
+  "scale_z": 256,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

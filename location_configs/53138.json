@@ -1,10 +1,12 @@
 {
   "id": 53138,
   "name": "Fallen Tree",
-  "models_2": [
-    1594
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1594
+    ]
+  },
   "ambient": 15,
   "contrast": 30,
   "colours": [
@@ -17,5 +19,8 @@
       6674
     ]
   ],
-  "mapscene": 27
+  "mapscene": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

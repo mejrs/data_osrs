@@ -1,9 +1,14 @@
 {
   "id": 12327,
   "name": "Awowogei",
-  "models_2": [
-    13671,
-    13683,
-    13682
-  ]
+  "object_models": {
+    "models": [
+      13671,
+      13683,
+      13682
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

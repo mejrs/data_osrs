@@ -1,10 +1,12 @@
 {
   "id": 4063,
   "name": "Sink",
-  "models_2": [
-    1182
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1182
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "colours": [
@@ -29,5 +31,8 @@
     "1": 23,
     "22": 16
   },
-  "category": 175
+  "category": 175,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

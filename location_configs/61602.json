@@ -1,0 +1,26 @@
+{
+  "id": 61602,
+  "name": "Stairs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60545
+    ]
+  },
+  "ambient": 10,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "category": 2463,
+  "unknown_69": 29,
+  "mapscene": 69,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

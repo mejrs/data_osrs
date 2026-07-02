@@ -1,9 +1,14 @@
 {
   "id": 34784,
   "name": "Pillar",
-  "models_2": [
-    870
-  ],
+  "object_models": {
+    "models": [
+      870
+    ]
+  },
   "ambient": 40,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

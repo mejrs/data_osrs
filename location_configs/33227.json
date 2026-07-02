@@ -1,11 +1,13 @@
 {
   "id": 33227,
   "name": "Hole",
-  "models_2": [
-    35921
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      35921
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -20,5 +22,8 @@
   ],
   "contrast": 15,
   "model": false,
-  "breakroutefinding": true
+  "breakroutefinding": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

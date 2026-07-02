@@ -1,10 +1,15 @@
 {
   "id": 53489,
   "name": "Chain",
-  "models_2": [
-    53497
-  ],
+  "object_models": {
+    "models": [
+      53497
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
-  "unknown_21": true
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

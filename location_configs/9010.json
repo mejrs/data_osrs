@@ -1,9 +1,11 @@
 {
   "id": 9010,
   "name": "Light Jungle",
-  "models_2": [
-    8895
-  ],
+  "object_models": {
+    "models": [
+      8895
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 2380,
   "actions": [
@@ -14,5 +16,8 @@
     null
   ],
   "category": 159,
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

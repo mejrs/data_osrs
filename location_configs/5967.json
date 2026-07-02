@@ -1,7 +1,12 @@
 {
   "id": 5967,
   "name": "Cannonballs",
-  "models_2": [
-    1550
-  ]
+  "object_models": {
+    "models": [
+      1550
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

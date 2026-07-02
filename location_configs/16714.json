@@ -1,9 +1,14 @@
 {
   "id": 16714,
   "name": "Bags for sale",
-  "models_2": [
-    16668
-  ],
+  "object_models": {
+    "models": [
+      16668
+    ]
+  },
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

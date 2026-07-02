@@ -1,12 +1,14 @@
 {
   "id": 8494,
   "name": "Diseased Willow",
-  "models_2": [
-    8135,
-    7768
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      8135,
+      7768
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Prune",
@@ -20,5 +22,8 @@
       8598,
       13976
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

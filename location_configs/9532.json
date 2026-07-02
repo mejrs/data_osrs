@@ -1,12 +1,17 @@
 {
   "id": 9532,
   "name": "Picnic bench",
-  "models_2": [
-    1453
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1453
+    ]
+  },
   "is_transparent": true,
   "ambient": 35,
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

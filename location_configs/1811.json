@@ -1,11 +1,16 @@
 {
   "id": 1811,
   "name": "Sliced web",
-  "models_2": [
-    800
-  ],
+  "object_models": {
+    "models": [
+      800
+    ]
+  },
   "unknown_17": false,
   "textures": {
     "12": 26
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

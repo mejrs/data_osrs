@@ -1,9 +1,14 @@
 {
   "id": 47334,
   "name": "Potions",
-  "models_2": [
-    34951,
-    32267
-  ],
-  "ambient": 25
+  "object_models": {
+    "models": [
+      34951,
+      32267
+    ]
+  },
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

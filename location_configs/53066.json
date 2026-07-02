@@ -1,10 +1,12 @@
 {
   "id": 53066,
   "name": "Easter egg rock",
-  "models_2": [
-    1390,
-    53067
-  ],
+  "object_models": {
+    "models": [
+      1390,
+      53067
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -21,5 +23,8 @@
       4626
     ]
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

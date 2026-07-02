@@ -1,12 +1,17 @@
 {
   "id": 36499,
-  "models": [
-    [
-      4,
-      37855
-    ]
-  ],
   "name": "Scroll",
+  "object_models_and_types": {
+    "models": [
+      37855
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 15434,
-  "models": [
-    [
-      4,
-      12889
-    ]
-  ],
   "name": "Decoration space",
+  "object_models_and_types": {
+    "models": [
+      12889
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 100,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,23 +1,24 @@
 {
   "id": 42019,
-  "models": [
-    [
-      0,
-      42390
-    ],
-    [
-      2,
-      42408
-    ],
-    [
-      3,
+  "object_models_and_types": {
+    "models": [
+      42390,
+      42408,
       42405
+    ],
+    "types": [
+      0,
+      2,
+      3
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 15,
   "contrast": 15,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

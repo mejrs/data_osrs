@@ -1,9 +1,11 @@
 {
   "id": 10258,
   "name": "Table",
-  "models_2": [
-    4326
-  ],
+  "object_models": {
+    "models": [
+      4326
+    ]
+  },
   "colours": [
     [
       5799,
@@ -21,5 +23,8 @@
       5559,
       6808
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

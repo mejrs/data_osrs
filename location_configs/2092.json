@@ -1,11 +1,13 @@
 {
   "id": 2092,
   "name": "Evergreen tree",
-  "models_2": [
-    1688
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1688
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chop down",
@@ -23,5 +25,8 @@
   ],
   "category": 189,
   "unknown_81": 80,
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 4180,
-  "models": [
-    [
-      4,
-      4301
-    ]
-  ],
   "name": "Abstract mural",
+  "object_models_and_types": {
+    "models": [
+      4301
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 40,
   "actions": [
     "Study",
@@ -25,5 +27,8 @@
       16,
       65059
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 49412,
   "name": "Passage",
-  "models_2": [
-    48886
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      48886
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -21,5 +23,8 @@
   "contrast": 20,
   "category": 1834,
   "model": false,
-  "scale_y": 166
+  "scale_y": 166,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

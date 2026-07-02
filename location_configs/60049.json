@@ -1,9 +1,11 @@
 {
   "id": 60049,
   "name": "Barrels",
-  "models_2": [
-    9860
-  ],
+  "object_models": {
+    "models": [
+      9860
+    ]
+  },
   "colours": [
     [
       5400,
@@ -23,5 +25,8 @@
     ]
   ],
   "translate_x": 65526,
-  "translate_z": 65526
+  "translate_z": 65526,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

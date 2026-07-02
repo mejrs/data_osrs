@@ -1,13 +1,18 @@
 {
   "id": 28834,
   "name": "Monkey trap",
-  "models_2": [
-    6565,
-    6563
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      6565,
+      6563
+    ]
+  },
   "unknown_24": 7252,
   "category": 949,
-  "mapscene": 71
+  "mapscene": 71,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,15 +1,20 @@
 {
   "id": 3485,
   "name": "Well",
-  "models_2": [
-    3490
-  ],
+  "object_models": {
+    "models": [
+      3490
+    ]
+  },
   "unknown_19": 1,
   "actions": [
-    "Search",
+    "Inspect",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

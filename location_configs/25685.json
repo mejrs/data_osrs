@@ -1,9 +1,11 @@
 {
   "id": 25685,
   "name": "Chest",
-  "models_2": [
-    11204
-  ],
+  "object_models": {
+    "models": [
+      11204
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Open",
@@ -30,5 +32,8 @@
       7093,
       33
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

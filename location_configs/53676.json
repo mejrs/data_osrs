@@ -1,12 +1,14 @@
 {
   "id": 53676,
-  "models": [
-    [
-      22,
-      53807
-    ]
-  ],
   "name": "Wall",
+  "object_models_and_types": {
+    "models": [
+      53807
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -18,5 +20,8 @@
     null
   ],
   "contrast": 25,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

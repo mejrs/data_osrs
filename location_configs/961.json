@@ -1,12 +1,17 @@
 {
   "id": 961,
-  "models": [
-    [
-      4,
-      2040
-    ]
-  ],
   "name": "Bank notice board",
+  "object_models_and_types": {
+    "models": [
+      2040
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 50
+  "ambient": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

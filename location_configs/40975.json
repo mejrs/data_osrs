@@ -1,9 +1,14 @@
 {
   "id": 40975,
-  "models_2": [
-    41826
-  ],
+  "object_models": {
+    "models": [
+      41826
+    ]
+  },
   "unknown_19": 0,
   "ambient": 20,
-  "category": 1503
+  "category": 1503,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

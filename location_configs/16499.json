@@ -1,9 +1,14 @@
 {
   "id": 16499,
   "name": "Obstacle net",
-  "models_2": [
-    1439
-  ],
   "dim_x": 2,
-  "unknown_69": 30
+  "object_models": {
+    "models": [
+      1439
+    ]
+  },
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

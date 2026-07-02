@@ -1,12 +1,14 @@
 {
   "id": 20440,
-  "models": [
-    [
-      0,
-      21258
-    ]
-  ],
   "name": "Depleted vein",
+  "object_models_and_types": {
+    "models": [
+      21258
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -29,5 +31,9 @@
       21543
     ]
   ],
-  "scale_y": 153
+  "category": 2432,
+  "scale_y": 153,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

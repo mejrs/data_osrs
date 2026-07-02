@@ -1,9 +1,11 @@
 {
   "id": 23703,
   "name": "Goo covered vine",
-  "models_2": [
-    15871
-  ],
+  "object_models": {
+    "models": [
+      15871
+    ]
+  },
   "actions": [
     "Climb-up",
     null,
@@ -25,5 +27,8 @@
       926
     ]
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

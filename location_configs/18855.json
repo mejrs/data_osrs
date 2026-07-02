@@ -1,12 +1,14 @@
 {
   "id": 18855,
   "name": "Hardy goutweed",
-  "models_2": [
-    19141,
-    19140
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      19141,
+      19140
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
@@ -30,5 +32,8 @@
       8493
     ]
   ],
-  "category": 562
+  "category": 562,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

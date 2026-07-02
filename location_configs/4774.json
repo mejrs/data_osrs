@@ -1,9 +1,11 @@
 {
   "id": 4774,
   "name": "Bamboo Ladder",
-  "models_2": [
-    4726
-  ],
+  "object_models": {
+    "models": [
+      4726
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Climb-up",
@@ -23,5 +25,8 @@
     ]
   ],
   "unknown_69": 29,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

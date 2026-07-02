@@ -1,14 +1,19 @@
 {
   "id": 55993,
   "name": "Lava",
-  "models_2": [
-    55953
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      55953
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 11967,
   "unknown_27": false,
   "model": false,
   "translate_y": 65535,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

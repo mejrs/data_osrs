@@ -1,13 +1,15 @@
 {
   "id": 48367,
   "name": "Pine",
-  "models_2": [
-    42498,
-    42501,
-    49156
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      42498,
+      42501,
+      49156
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
   "contrast": 10,
@@ -38,5 +40,8 @@
     ]
   ],
   "model": false,
-  "mapscene": 103
+  "mapscene": 103,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

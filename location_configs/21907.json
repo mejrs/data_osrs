@@ -1,9 +1,14 @@
 {
   "id": 21907,
   "name": "Operation chair",
-  "models_2": [
-    22662
-  ],
   "dim_x": 2,
-  "ambient": 10
+  "object_models": {
+    "models": [
+      22662
+    ]
+  },
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

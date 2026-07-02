@@ -1,9 +1,14 @@
 {
   "id": 33568,
   "name": "Thana",
-  "models_2": [
-    36357
-  ],
   "dim_y": 2,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      36357
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 57015,
   "name": "Greenman statue",
-  "models_2": [
-    56347
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      56347
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -16,5 +18,8 @@
     "Remove"
   ],
   "contrast": 30,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

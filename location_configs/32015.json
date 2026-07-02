@@ -1,11 +1,16 @@
 {
   "id": 32015,
   "name": "Ice blockage",
-  "models_2": [
-    34862
-  ],
+  "object_models": {
+    "models": [
+      34862
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

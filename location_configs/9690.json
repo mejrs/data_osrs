@@ -1,13 +1,18 @@
 {
   "id": 9690,
   "name": "Clothes model",
-  "models_2": [
-    9553
-  ],
+  "object_models": {
+    "models": [
+      9553
+    ]
+  },
   "colours": [
     [
       7469,
       3996
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

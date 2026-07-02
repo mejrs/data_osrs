@@ -1,9 +1,11 @@
 {
   "id": 16677,
   "name": "Staircase",
-  "models_2": [
-    1287
-  ],
+  "object_models": {
+    "models": [
+      1287
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Climb-down",
@@ -16,5 +18,8 @@
     "11": 16
   },
   "unknown_69": 29,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

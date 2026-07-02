@@ -1,12 +1,17 @@
 {
   "id": 18837,
   "name": "Goat",
-  "models_2": [
-    19129,
-    19132
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      19129,
+      19132
+    ]
+  },
   "is_transparent": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

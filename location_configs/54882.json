@@ -1,9 +1,11 @@
 {
   "id": 54882,
   "name": "Agitator",
-  "models_2": [
-    54876
-  ],
+  "object_models": {
+    "models": [
+      54876
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 11633,
   "unknown_27": false,
@@ -42,5 +44,8 @@
       41505
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

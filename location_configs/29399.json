@@ -1,18 +1,16 @@
 {
   "id": 29399,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
+  "name": "Little helper",
+  "object_models": {
+    "models": [
+      60350
+    ]
+  },
   "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (CKS)",
-    null,
-    "Remove"
-  ]
+  "unknown_24": 13868,
+  "ambient": 10,
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

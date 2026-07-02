@@ -1,7 +1,12 @@
 {
   "id": 15946,
   "name": "Sweetgrub Mound",
-  "models_2": [
-    15781
-  ]
+  "object_models": {
+    "models": [
+      15781
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

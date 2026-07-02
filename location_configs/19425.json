@@ -1,10 +1,12 @@
 {
   "id": 19425,
   "name": "Hollow log",
-  "models_2": [
-    1634
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1634
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -26,5 +28,8 @@
   ],
   "scale_x": 84,
   "scale_y": 224,
-  "scale_z": 224
+  "scale_z": 224,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

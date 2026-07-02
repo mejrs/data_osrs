@@ -1,8 +1,13 @@
 {
   "id": 30856,
   "name": "Dead tree stump",
-  "models_2": [
-    33655
-  ],
-  "mapscene": 6
+  "object_models": {
+    "models": [
+      33655
+    ]
+  },
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

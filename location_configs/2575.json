@@ -1,9 +1,11 @@
 {
   "id": 2575,
   "name": "Marshy jungle vine",
-  "models_2": [
-    1654
-  ],
+  "object_models": {
+    "models": [
+      1654
+    ]
+  },
   "unknown_21": true,
   "actions": [
     null,
@@ -21,5 +23,8 @@
       13243,
       10173
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

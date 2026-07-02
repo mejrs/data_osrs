@@ -1,11 +1,13 @@
 {
   "id": 50741,
   "name": "Rewards Chest",
-  "models_2": [
-    52415
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      52415
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 10825,
@@ -20,5 +22,8 @@
   ],
   "contrast": 60,
   "unknown_69": 27,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

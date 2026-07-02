@@ -1,14 +1,19 @@
 {
   "id": 39950,
   "name": "Dresser",
-  "models_2": [
-    12468
-  ],
+  "object_models": {
+    "models": [
+      12468
+    ]
+  },
   "actions": [
     null,
     "Remove",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

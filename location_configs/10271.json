@@ -1,10 +1,12 @@
 {
   "id": 10271,
   "name": "Large Display",
-  "models_2": [
-    10022,
-    10020
-  ],
+  "object_models": {
+    "models": [
+      10022,
+      10020
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Study",
@@ -30,5 +32,8 @@
       6697,
       6808
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

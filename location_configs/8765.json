@@ -1,20 +1,21 @@
 {
   "id": 8765,
-  "models": [
-    [
-      0,
-      8300
-    ],
-    [
-      1,
-      8301
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      8300,
+      8301,
       8302
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_22": true,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

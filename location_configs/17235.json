@@ -1,12 +1,14 @@
 {
   "id": 17235,
   "name": "Table",
-  "models_2": [
-    17068,
-    17069
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      17068,
+      17069
+    ]
+  },
   "unknown_24": 4557,
   "actions": [
     "Take-bowl",
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

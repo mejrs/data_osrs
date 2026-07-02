@@ -1,11 +1,13 @@
 {
   "id": 6749,
   "name": "Small fountain",
-  "models_2": [
-    13184
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      13184
+    ]
+  },
   "actions": [
     null,
     null,
@@ -17,5 +19,8 @@
   "unknown_78": {
     "unknown_1": 2149,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

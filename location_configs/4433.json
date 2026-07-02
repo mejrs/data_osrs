@@ -1,16 +1,16 @@
 {
   "id": 4433,
-  "models": [
-    [
-      0,
-      4427
-    ],
-    [
-      22,
-      4426
-    ]
-  ],
   "name": "Broken door",
+  "object_models_and_types": {
+    "models": [
+      4427,
+      4426
+    ],
+    "types": [
+      0,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -20,5 +20,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

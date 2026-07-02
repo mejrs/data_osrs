@@ -1,18 +1,15 @@
 {
   "id": 29411,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
+  "name": "Sage's Halo",
+  "object_models": {
+    "models": [
+      60213
+    ]
+  },
+  "is_transparent": true,
   "unknown_27": false,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (BLS)",
-    null,
-    "Remove"
-  ]
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 46083,
   "name": "False Door",
-  "models_2": [
-    46030
-  ],
+  "object_models": {
+    "models": [
+      46030
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 10,
@@ -36,5 +38,8 @@
       8282,
       40090
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

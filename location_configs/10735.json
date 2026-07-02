@@ -1,10 +1,12 @@
 {
   "id": 10735,
   "name": "Food chute",
-  "models_2": [
-    10646
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      10646
+    ]
+  },
   "unknown_22": true,
   "ambient": 30,
   "actions": [
@@ -35,5 +37,8 @@
   ],
   "scale_x": 128,
   "scale_y": 192,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

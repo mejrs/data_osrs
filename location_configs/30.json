@@ -1,14 +1,19 @@
 {
   "id": 30,
   "name": "Clock spindle",
-  "models_2": [
-    1793
-  ],
+  "object_models": {
+    "models": [
+      1793
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
       41905,
       0
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

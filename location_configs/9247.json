@@ -1,11 +1,16 @@
 {
   "id": 9247,
   "name": "Statue of Saradomin",
-  "models_2": [
-    9147,
-    9131
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      9147,
+      9131
+    ]
+  },
   "ambient": 15,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

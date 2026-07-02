@@ -1,11 +1,16 @@
 {
   "id": 3815,
   "name": "Crates",
-  "models_2": [
-    3816
-  ],
+  "object_models": {
+    "models": [
+      3816
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "contrast": 15,
-  "mapscene": 42
+  "mapscene": 42,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 18647,
   "name": "Water valve",
-  "models_2": [
-    1746
-  ],
+  "object_models": {
+    "models": [
+      1746
+    ]
+  },
   "actions": [
     "Turn",
     null,
@@ -16,5 +18,8 @@
       21543,
       7566
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

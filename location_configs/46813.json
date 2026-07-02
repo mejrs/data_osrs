@@ -1,11 +1,16 @@
 {
   "id": 46813,
   "name": "Incense burner",
-  "models_2": [
-    13118,
-    13114
-  ],
+  "object_models": {
+    "models": [
+      13118,
+      13114
+    ]
+  },
   "unknown_24": 3573,
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

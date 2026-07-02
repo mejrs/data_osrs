@@ -1,13 +1,18 @@
 {
   "id": 4872,
   "name": "Exit Sign",
-  "models_2": [
-    2903
-  ],
+  "object_models": {
+    "models": [
+      2903
+    ]
+  },
   "colours": [
     [
       61,
       7566
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

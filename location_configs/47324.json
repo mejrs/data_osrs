@@ -1,9 +1,11 @@
 {
   "id": 47324,
   "name": "Ice chunks",
-  "models_2": [
-    6328
-  ],
+  "object_models": {
+    "models": [
+      6328
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Climb-over",
@@ -16,5 +18,8 @@
   "scale_x": 64,
   "scale_y": 64,
   "scale_z": 64,
-  "mapscene": 92
+  "mapscene": 92,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

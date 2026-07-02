@@ -1,9 +1,11 @@
 {
   "id": 30101,
   "name": "Official Order of Construction",
-  "models_2": [
-    3138
-  ],
+  "object_models": {
+    "models": [
+      3138
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -18,5 +20,8 @@
       28608,
       55192
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

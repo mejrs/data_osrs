@@ -1,10 +1,15 @@
 {
   "id": 21016,
   "name": "Barrel",
-  "models_2": [
-    21564
-  ],
+  "object_models": {
+    "models": [
+      21564
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

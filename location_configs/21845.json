@@ -1,8 +1,13 @@
 {
   "id": 21845,
   "name": "Water pipes",
-  "models_2": [
-    22721
-  ],
-  "ambient": 20
+  "object_models": {
+    "models": [
+      22721
+    ]
+  },
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 4827,
   "name": "Pineapple Plant",
-  "models_2": [
-    1627
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1627
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Pick",
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

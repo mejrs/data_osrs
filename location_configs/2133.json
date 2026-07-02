@@ -1,10 +1,15 @@
 {
   "id": 2133,
   "name": "Safe",
-  "models_2": [
-    24840
-  ],
+  "object_models": {
+    "models": [
+      24840
+    ]
+  },
   "is_transparent": true,
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 34161,
   "name": "Diseased Redwood tree",
-  "models_2": [
-    36687
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      36687
+    ]
+  },
   "unknown_19": 1,
   "ambient": -20,
   "actions": [
@@ -41,5 +43,8 @@
       10508,
       21555
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

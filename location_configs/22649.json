@@ -1,9 +1,11 @@
 {
   "id": 22649,
   "name": "Stairs",
-  "models_2": [
-    23530
-  ],
+  "object_models": {
+    "models": [
+      23530
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -12,5 +14,8 @@
       5786,
       10266
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

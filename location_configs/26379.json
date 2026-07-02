@@ -1,10 +1,12 @@
 {
   "id": 26379,
   "name": "Pillar",
-  "models_2": [
-    23316
-  ],
   "dim_y": 9,
+  "object_models": {
+    "models": [
+      23316
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -17,5 +19,8 @@
     null,
     "hidden"
   ],
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

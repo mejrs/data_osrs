@@ -1,0 +1,44 @@
+{
+  "id": 62071,
+  "name": "Shelves",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      40543
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 30,
+  "colours": [
+    [
+      5285,
+      274
+    ],
+    [
+      5276,
+      398
+    ],
+    [
+      5388,
+      268
+    ],
+    [
+      5272,
+      398
+    ],
+    [
+      5268,
+      274
+    ],
+    [
+      5392,
+      398
+    ]
+  ],
+  "scale_y": 110,
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

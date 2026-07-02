@@ -1,9 +1,11 @@
 {
   "id": 28626,
   "name": "Gas cylinder",
-  "models_2": [
-    31444
-  ],
+  "object_models": {
+    "models": [
+      31444
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Investigate",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "category": 937
+  "category": 937,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

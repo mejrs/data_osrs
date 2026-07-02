@@ -1,10 +1,12 @@
 {
   "id": 27376,
   "name": "Utensil cupboard",
-  "models_2": [
-    13486
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      13486
+    ]
+  },
   "unknown_27": false,
   "ambient": 15,
   "actions": [
@@ -24,5 +26,8 @@
       6443
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

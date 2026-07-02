@@ -1,15 +1,20 @@
 {
   "id": 9143,
   "name": "Sink",
-  "models_2": [
-    5936
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5936
+    ]
+  },
   "actions": [
     "Fill-bucket",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

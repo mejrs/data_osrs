@@ -1,25 +1,24 @@
 {
   "id": 24097,
-  "models": [
-    [
-      0,
-      11823
-    ],
-    [
-      1,
-      11824
-    ],
-    [
-      3,
-      11825
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      11823,
+      11824,
+      11825,
       11826
+    ],
+    "types": [
+      0,
+      1,
+      3,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

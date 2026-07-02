@@ -1,7 +1,12 @@
 {
   "id": 21447,
   "name": "Armour display",
-  "models_2": [
-    21990
-  ]
+  "object_models": {
+    "models": [
+      21990
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

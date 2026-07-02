@@ -1,9 +1,11 @@
 {
   "id": 24104,
   "name": "Statue",
-  "models_2": [
-    1164
-  ],
+  "object_models": {
+    "models": [
+      1164
+    ]
+  },
   "colours": [
     [
       61,
@@ -13,5 +15,8 @@
       12595,
       8398
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

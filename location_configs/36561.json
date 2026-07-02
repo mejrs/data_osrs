@@ -1,8 +1,13 @@
 {
   "id": 36561,
   "name": "Armour stand",
-  "models_2": [
-    12561
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      12561
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 78,
-  "models": [
-    [
-      0,
-      609
-    ]
-  ],
   "name": "Prison Gate",
-  "unknown_19": 1
+  "object_models_and_types": {
+    "models": [
+      609
+    ],
+    "types": [
+      0
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

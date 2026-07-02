@@ -1,11 +1,13 @@
 {
   "id": 41311,
   "name": "Ferry",
-  "models_2": [
-    36362
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      36362
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

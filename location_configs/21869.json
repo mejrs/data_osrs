@@ -1,10 +1,15 @@
 {
   "id": 21869,
   "name": "Cage",
-  "models_2": [
-    22636
-  ],
   "dim_x": 3,
   "dim_y": 3,
-  "ambient": 10
+  "object_models": {
+    "models": [
+      22636
+    ]
+  },
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

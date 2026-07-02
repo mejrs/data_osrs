@@ -1,13 +1,15 @@
 {
   "id": 4528,
   "name": "Statue",
-  "models_2": [
-    20420,
-    13188,
-    13189
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      20420,
+      13188,
+      13189
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 3647,
   "actions": [
@@ -18,5 +20,8 @@
     "Remove"
   ],
   "category": 206,
-  "translate_y": 65534
+  "translate_y": 65534,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

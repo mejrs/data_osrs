@@ -1,10 +1,12 @@
 {
   "id": 44636,
   "name": "Exit",
-  "models_2": [
-    44908
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      44908
+    ]
+  },
   "actions": [
     "Exit",
     null,
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

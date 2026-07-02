@@ -1,12 +1,17 @@
 {
   "id": 11762,
   "name": "Scaregull",
-  "models_2": [
-    7812
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7812
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

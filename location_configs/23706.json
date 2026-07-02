@@ -1,9 +1,11 @@
 {
   "id": 23706,
   "name": "Dripping vine",
-  "models_2": [
-    15890
-  ],
+  "object_models": {
+    "models": [
+      15890
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Climb-down",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 59334,
   "name": "Barrel of halberd poles",
-  "models_2": [
-    57593
-  ],
+  "object_models": {
+    "models": [
+      57593
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chart",
@@ -13,5 +15,8 @@
     null
   ],
   "contrast": 25,
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

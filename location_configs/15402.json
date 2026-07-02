@@ -1,12 +1,14 @@
 {
   "id": 15402,
-  "models": [
-    [
-      22,
-      12659
-    ]
-  ],
   "name": "Cat basket space",
+  "object_models_and_types": {
+    "models": [
+      12659
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

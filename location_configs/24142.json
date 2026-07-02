@@ -1,14 +1,19 @@
 {
   "id": 24142,
   "name": "Standing stone",
-  "models_2": [
-    11707,
-    7767,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      11707,
+      7767,
+      7767
+    ]
+  },
   "unknown_21": true,
   "ambient": 15,
-  "mapscene": 11
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

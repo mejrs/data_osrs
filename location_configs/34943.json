@@ -1,14 +1,19 @@
 {
   "id": 34943,
   "name": "Sink",
-  "models_2": [
-    1182
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1182
+    ]
+  },
   "is_transparent": true,
   "ambient": 25,
   "contrast": 25,
   "textures": {
     "22": 16
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

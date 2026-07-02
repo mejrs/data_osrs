@@ -1,9 +1,11 @@
 {
   "id": 13602,
   "name": "Rack of barrels",
-  "models_2": [
-    9860
-  ],
+  "object_models": {
+    "models": [
+      9860
+    ]
+  },
   "colours": [
     [
       5409,
@@ -29,5 +31,8 @@
       3346,
       5161
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

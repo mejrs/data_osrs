@@ -1,11 +1,13 @@
 {
   "id": 6301,
   "name": "Throne",
-  "models_2": [
-    6189
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      6189
+    ]
+  },
   "colours": [
     [
       57,
@@ -23,5 +25,8 @@
       664,
       43908
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

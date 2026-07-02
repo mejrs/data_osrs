@@ -1,16 +1,19 @@
 {
   "id": 4214,
-  "models": [
-    [
-      12,
-      4352
-    ],
-    [
-      18,
+  "object_models_and_types": {
+    "models": [
+      4352,
       4353
+    ],
+    "types": [
+      12,
+      18
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

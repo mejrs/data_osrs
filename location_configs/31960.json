@@ -1,9 +1,11 @@
 {
   "id": 31960,
   "name": "White Crystal",
-  "models_2": [
-    32502
-  ],
+  "object_models": {
+    "models": [
+      32502
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -38,5 +40,8 @@
   "category": 1215,
   "scale_x": 64,
   "scale_y": 72,
-  "scale_z": 64
+  "scale_z": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

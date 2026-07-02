@@ -1,15 +1,20 @@
 {
   "id": 26372,
   "name": "Rock",
-  "models_2": [
-    27838
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      27838
+    ]
+  },
   "actions": [
     null,
     "Climb-down",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

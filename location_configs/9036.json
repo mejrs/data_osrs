@@ -1,9 +1,11 @@
 {
   "id": 9036,
   "name": "Teak tree",
-  "models_2": [
-    8902
-  ],
+  "object_models": {
+    "models": [
+      8902
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Chop down",
@@ -20,5 +22,8 @@
     ]
   ],
   "category": 165,
-  "mapscene": 131
+  "mapscene": 131,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

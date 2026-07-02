@@ -1,13 +1,15 @@
 {
   "id": 7590,
   "name": "Cadavaberry bush",
-  "models_2": [
-    7826,
-    7767,
-    7814
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7826,
+      7767,
+      7814
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick-from",
@@ -29,5 +31,8 @@
       6364,
       53698
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

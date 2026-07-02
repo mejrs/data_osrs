@@ -1,10 +1,12 @@
 {
   "id": 46673,
   "name": "Heavy Door",
-  "models_2": [
-    47025
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      47025
+    ]
+  },
   "ambient": 0,
   "contrast": 35,
   "colours": [
@@ -16,5 +18,8 @@
       2836,
       3486
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

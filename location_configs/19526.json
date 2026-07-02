@@ -1,9 +1,11 @@
 {
   "id": 19526,
   "name": "Burrow",
-  "models_2": [
-    733
-  ],
+  "object_models": {
+    "models": [
+      733
+    ]
+  },
   "actions": [
     "Inspect",
     null,
@@ -35,5 +37,8 @@
   ],
   "scale_x": 64,
   "scale_y": 34,
-  "scale_z": 64
+  "scale_z": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

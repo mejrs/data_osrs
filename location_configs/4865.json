@@ -1,7 +1,12 @@
 {
   "id": 4865,
   "name": "Watchtower Middle",
-  "models_2": [
-    4767
-  ]
+  "object_models": {
+    "models": [
+      4767
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 8630,
   "name": "Sweetcorn plant",
-  "models_2": [
-    8222,
-    8175,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8222,
+      8175,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -31,5 +33,8 @@
       8148,
       7869
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

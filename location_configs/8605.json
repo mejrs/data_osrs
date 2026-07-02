@@ -1,11 +1,13 @@
 {
   "id": 8605,
   "name": "Strawberry plant",
-  "models_2": [
-    8222,
-    8166,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8222,
+      8166,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -19,5 +21,8 @@
       1984,
       815
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

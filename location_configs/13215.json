@@ -1,10 +1,12 @@
 {
   "id": 13215,
   "name": "Bells",
-  "models_2": [
-    13132
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      13132
+    ]
+  },
   "unknown_24": 3577,
   "actions": [
     "Play",
@@ -14,5 +16,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

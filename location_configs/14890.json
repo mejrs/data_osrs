@@ -1,9 +1,14 @@
 {
   "id": 14890,
   "name": "Sand pit",
-  "models_2": [
-    10722
-  ],
   "dim_x": 2,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      10722
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

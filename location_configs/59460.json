@@ -1,9 +1,11 @@
 {
   "id": 59460,
   "name": "Runic shield generator",
-  "models_2": [
-    44073
-  ],
+  "object_models": {
+    "models": [
+      44073
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -46,5 +48,8 @@
       900
     ]
   ],
-  "category": 2321
+  "category": 2321,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

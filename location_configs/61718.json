@@ -1,0 +1,30 @@
+{
+  "id": 61718,
+  "name": "Plaque",
+  "object_models_and_types": {
+    "models": [
+      2111
+    ],
+    "types": [
+      4
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      8128
+    ]
+  ],
+  "category": 2467,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

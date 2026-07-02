@@ -1,12 +1,14 @@
 {
   "id": 13815,
-  "models": [
-    [
-      4,
-      13099
-    ]
-  ],
   "name": "Teak wall decoration",
+  "object_models_and_types": {
+    "models": [
+      13099
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 30,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

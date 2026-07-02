@@ -1,9 +1,14 @@
 {
   "id": 9237,
   "name": "Vines",
-  "models_2": [
-    9192,
-    7766
-  ],
-  "ambient": 25
+  "object_models": {
+    "models": [
+      9192,
+      7766
+    ]
+  },
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 56139,
   "name": "Mounted harpoonfish",
-  "models_2": [
-    56057
-  ],
+  "object_models": {
+    "models": [
+      56057
+    ]
+  },
   "unknown_17": false,
   "ambient": 25,
   "actions": [
@@ -14,5 +16,8 @@
     "Remove"
   ],
   "contrast": 25,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

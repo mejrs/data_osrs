@@ -1,0 +1,28 @@
+{
+  "id": 61507,
+  "object_models_and_types": {
+    "models": [
+      2255
+    ],
+    "types": [
+      4
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 481,
+  "ambient": 20,
+  "colours": [
+    [
+      28,
+      278
+    ],
+    [
+      33,
+      284
+    ]
+  ],
+  "translate_z": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

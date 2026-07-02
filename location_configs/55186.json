@@ -1,16 +1,16 @@
 {
   "id": 55186,
-  "models": [
-    [
-      10,
-      42490
-    ],
-    [
-      22,
-      42485
-    ]
-  ],
   "name": "Rope",
+  "object_models_and_types": {
+    "models": [
+      42490,
+      42485
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Climb",
@@ -45,5 +45,8 @@
       3365,
       6610
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

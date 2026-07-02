@@ -1,14 +1,19 @@
 {
   "id": 39963,
   "name": "Table",
-  "models_2": [
-    40807
-  ],
+  "object_models": {
+    "models": [
+      40807
+    ]
+  },
   "actions": [
     null,
     "Remove",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

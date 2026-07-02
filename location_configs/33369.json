@@ -1,19 +1,21 @@
 {
   "id": 33369,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    55583,
-    55873
+  "object_models": {
+    "models": [
+      40243
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      16,
+      142
+    ]
   ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
-  "unknown_27": false,
-  "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (AJQ)",
-    "Remove"
-  ]
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

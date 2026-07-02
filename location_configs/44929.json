@@ -1,11 +1,13 @@
 {
   "id": 44929,
   "name": "Supplies",
-  "models_2": [
-    45092
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      45092
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -23,5 +25,8 @@
   "scale_y": 180,
   "scale_z": 180,
   "unknown_69": 27,
-  "translate_z": 65520
+  "translate_z": 65520,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 48005,
   "name": "Plant Pot",
-  "models_2": [
-    49022
-  ],
+  "object_models": {
+    "models": [
+      49022
+    ]
+  },
   "ambient": -10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

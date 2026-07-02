@@ -1,9 +1,11 @@
 {
   "id": 56935,
   "name": "Damiana",
-  "models_2": [
-    56581
-  ],
+  "object_models": {
+    "models": [
+      56581
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -38,5 +40,8 @@
   "scale_x": 64,
   "scale_y": 64,
   "scale_z": 64,
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,15 +1,20 @@
 {
   "id": 15934,
   "name": "Workbench",
-  "models_2": [
-    15771,
-    15770
-  ],
+  "object_models": {
+    "models": [
+      15771,
+      15770
+    ]
+  },
   "actions": [
     "Take-Tool",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

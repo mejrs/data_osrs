@@ -1,11 +1,16 @@
 {
   "id": 57270,
   "name": "Portcullis",
-  "models_2": [
-    32376
-  ],
   "dim_x": 5,
+  "object_models": {
+    "models": [
+      32376
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

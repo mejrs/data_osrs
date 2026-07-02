@@ -1,9 +1,11 @@
 {
   "id": 9744,
   "name": "Ship's ladder",
-  "models_2": [
-    5190
-  ],
+  "object_models": {
+    "models": [
+      5190
+    ]
+  },
   "actions": [
     "Climb-up",
     null,
@@ -28,5 +30,8 @@
       12694,
       5784
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

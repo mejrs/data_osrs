@@ -1,14 +1,19 @@
 {
   "id": 56626,
   "name": "Broken keystone",
-  "models_2": [
-    57055
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      57055
+    ]
+  },
   "ambient": 20,
   "contrast": 50,
   "scale_x": 80,
   "scale_y": 80,
-  "scale_z": 80
+  "scale_z": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

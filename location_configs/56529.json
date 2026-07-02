@@ -1,12 +1,14 @@
 {
   "id": 56529,
-  "models": [
-    [
-      0,
-      51803
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      51803
+    ],
+    "types": [
+      0
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Escape",
@@ -30,5 +32,8 @@
       5392
     ]
   ],
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

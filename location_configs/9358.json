@@ -1,9 +1,11 @@
 {
   "id": 9358,
   "name": "Ornate kurask combat dummy",
-  "models_2": [
-    4885
-  ],
+  "object_models": {
+    "models": [
+      4885
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Attach",
@@ -12,5 +14,8 @@
     "Swap",
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

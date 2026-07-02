@@ -1,0 +1,31 @@
+{
+  "id": 61527,
+  "name": "Stairs",
+  "dim_x": 3,
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      60544
+    ]
+  },
+  "ambient": 10,
+  "contrast": 100,
+  "colours": [
+    [
+      284,
+      5404
+    ],
+    [
+      278,
+      5400
+    ],
+    [
+      274,
+      5392
+    ]
+  ],
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

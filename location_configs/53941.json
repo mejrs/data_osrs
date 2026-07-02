@@ -1,11 +1,13 @@
 {
   "id": 53941,
   "name": "Desk",
-  "models_2": [
-    53572,
-    53629
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      53572,
+      53629
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 15,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

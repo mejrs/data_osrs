@@ -1,16 +1,21 @@
 {
   "id": 4694,
-  "models": [
-    [
-      4,
+  "object_models_and_types": {
+    "models": [
       2255
+    ],
+    "types": [
+      4
     ]
-  ],
+  },
   "unknown_24": 481,
   "colours": [
     [
       33,
       6930
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

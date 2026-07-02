@@ -1,17 +1,22 @@
 {
   "id": 3927,
-  "models": [
-    [
-      4,
-      2056
-    ]
-  ],
   "name": "Protruding rocks",
+  "object_models_and_types": {
+    "models": [
+      2056
+    ],
+    "types": [
+      4
+    ]
+  },
   "actions": [
     "Climb",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 3220,
   "name": "Door",
-  "models_2": [
-    750
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      750
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -18,5 +20,8 @@
       6689,
       7952
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

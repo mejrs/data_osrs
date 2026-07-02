@@ -1,9 +1,14 @@
 {
   "id": 57957,
   "name": "Open chest",
-  "models_2": [
-    58797
-  ],
+  "object_models": {
+    "models": [
+      58797
+    ]
+  },
   "ambient": 10,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

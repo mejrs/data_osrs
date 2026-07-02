@@ -1,0 +1,26 @@
+{
+  "id": 61656,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2467,
+  "unknown_69": 27,
+  "morphs_2": {
+    "varbit": 15509,
+    "ids": [
+      61661
+    ],
+    "default": 61658
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

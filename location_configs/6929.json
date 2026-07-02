@@ -1,9 +1,14 @@
 {
   "id": 6929,
   "name": "Bone support",
-  "models_2": [
-    6897
-  ],
+  "object_models": {
+    "models": [
+      6897
+    ]
+  },
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

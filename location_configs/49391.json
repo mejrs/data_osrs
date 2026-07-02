@@ -1,9 +1,11 @@
 {
   "id": 49391,
   "name": "Abyssal Growth",
-  "models_2": [
-    49012
-  ],
+  "object_models": {
+    "models": [
+      49012
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 25,
-  "category": 1832
+  "category": 1832,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

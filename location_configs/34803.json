@@ -1,7 +1,12 @@
 {
   "id": 34803,
   "name": "Rubble",
-  "models_2": [
-    866
-  ]
+  "object_models": {
+    "models": [
+      866
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 47601,
   "name": "Tendril",
-  "models_2": [
-    49295
-  ],
+  "object_models": {
+    "models": [
+      49295
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -14,5 +16,8 @@
     null,
     "Quick-escape"
   ],
-  "category": 1814
+  "category": 1814,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

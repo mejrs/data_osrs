@@ -1,10 +1,12 @@
 {
   "id": 26270,
   "name": "<col=ff9040>Spectator potion",
-  "models_2": [
-    16732,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      16732,
+      7766
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -23,5 +25,8 @@
   ],
   "unknown_69": 27,
   "translate_y": 65466,
-  "translate_z": 5
+  "translate_z": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

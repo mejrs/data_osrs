@@ -1,11 +1,13 @@
 {
   "id": 44609,
   "name": "Broken polishing wheel",
-  "models_2": [
-    44831
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      44831
+    ]
+  },
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 0,
@@ -16,5 +18,8 @@
       8
     ]
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

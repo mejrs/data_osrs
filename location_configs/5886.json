@@ -1,9 +1,11 @@
 {
   "id": 5886,
   "name": "Roots",
-  "models_2": [
-    2173
-  ],
+  "object_models": {
+    "models": [
+      2173
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Dig-below",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 23045,
-  "models": [
-    [
-      4,
-      23881
-    ]
-  ],
   "name": "Tools",
+  "object_models_and_types": {
+    "models": [
+      23881
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 40,
   "actions": [
     "Take",
@@ -29,5 +31,8 @@
       6049
     ]
   ],
-  "category": 661
+  "category": 661,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 6486,
   "name": "Obelisk",
-  "models_2": [
-    6266
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      6266
+    ]
+  },
   "unknown_24": 1943,
   "colours": [
     [
@@ -19,5 +21,8 @@
   ],
   "scale_x": 256,
   "scale_y": 256,
-  "scale_z": 256
+  "scale_z": 256,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

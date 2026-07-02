@@ -1,11 +1,16 @@
 {
   "id": 1371,
   "name": "Tropical tree",
-  "models_2": [
-    1684
-  ],
+  "object_models": {
+    "models": [
+      1684
+    ]
+  },
   "ambient": 15,
   "contrast": 20,
   "unknown_81": 80,
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

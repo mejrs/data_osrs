@@ -1,14 +1,19 @@
 {
   "id": 25039,
-  "models": [
-    [
-      0,
-      26468
-    ]
-  ],
   "name": "Wall",
+  "object_models_and_types": {
+    "models": [
+      26468
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "textures": {
     "2": 23
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

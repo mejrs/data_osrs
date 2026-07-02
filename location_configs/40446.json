@@ -1,11 +1,13 @@
 {
   "id": 40446,
   "name": "Potion of power table",
-  "models_2": [
-    7906,
-    41249
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      7906,
+      41249
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Take-from",
@@ -20,5 +22,8 @@
       29625
     ]
   ],
-  "category": 1480
+  "category": 1480,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

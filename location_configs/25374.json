@@ -1,10 +1,15 @@
 {
   "id": 25374,
   "name": "Campfire",
-  "models_2": [
-    26827
-  ],
+  "object_models": {
+    "models": [
+      26827
+    ]
+  },
   "unknown_24": 3105,
   "ambient": 50,
-  "category": 152
+  "category": 152,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

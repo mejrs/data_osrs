@@ -1,11 +1,13 @@
 {
   "id": 10251,
   "name": "Portal",
-  "models_2": [
-    6194,
-    6195
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      6194,
+      6195
+    ]
+  },
   "unknown_24": 2878,
   "actions": [
     "Enter",
@@ -23,5 +25,8 @@
       41,
       16
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

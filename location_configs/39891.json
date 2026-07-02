@@ -1,9 +1,11 @@
 {
   "id": 39891,
   "name": "Broken table",
-  "models_2": [
-    12492
-  ],
+  "object_models": {
+    "models": [
+      12492
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -11,5 +13,8 @@
     "Repair",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

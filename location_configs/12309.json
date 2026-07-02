@@ -1,9 +1,11 @@
 {
   "id": 12309,
   "name": "Chest",
-  "models_2": [
-    13651
-  ],
+  "object_models": {
+    "models": [
+      13651
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Bank",
@@ -12,5 +14,8 @@
     "Buy-food",
     "Buy-items"
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

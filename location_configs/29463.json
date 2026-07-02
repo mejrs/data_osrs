@@ -1,18 +1,44 @@
 {
   "id": 29463,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    32111
-  ],
-  "dim_x": 2,
-  "dim_y": 2,
+  "name": "Pirate cannon",
+  "object_models": {
+    "models": [
+      58153
+    ]
+  },
+  "is_transparent": true,
   "unknown_19": 1,
+  "unknown_24": 13321,
   "unknown_27": false,
-  "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (CKS)",
-    "Remove"
-  ]
+  "colours": [
+    [
+      54212,
+      5169
+    ],
+    [
+      54232,
+      5186
+    ],
+    [
+      54185,
+      5165
+    ],
+    [
+      21435,
+      5652
+    ],
+    [
+      21464,
+      5656
+    ],
+    [
+      21400,
+      7050
+    ]
+  ],
+  "category": 2435,
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

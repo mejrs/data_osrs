@@ -1,12 +1,14 @@
 {
   "id": 15990,
-  "models": [
-    [
-      4,
-      15745
-    ]
-  ],
   "name": "Blue Water Sign",
+  "object_models_and_types": {
+    "models": [
+      15745
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "contrast": 25,
@@ -15,5 +17,8 @@
       935,
       43943
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

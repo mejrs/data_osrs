@@ -1,16 +1,16 @@
 {
   "id": 54869,
-  "models": [
-    [
-      10,
-      54871
-    ],
-    [
-      4,
-      54869
-    ]
-  ],
   "name": "Lye lever",
+  "object_models_and_types": {
+    "models": [
+      54871,
+      54869
+    ],
+    "types": [
+      10,
+      4
+    ]
+  },
   "unknown_22": true,
   "unknown_24": 11622,
   "unknown_27": false,
@@ -31,5 +31,8 @@
   ],
   "category": 2079,
   "model": false,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

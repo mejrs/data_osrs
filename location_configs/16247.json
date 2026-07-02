@@ -1,12 +1,17 @@
 {
   "id": 16247,
-  "models": [
-    [
-      4,
-      16113
-    ]
-  ],
   "name": "Wall map",
+  "object_models_and_types": {
+    "models": [
+      16113
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 40
+  "ambient": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

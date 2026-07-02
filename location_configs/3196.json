@@ -1,13 +1,18 @@
 {
   "id": 3196,
   "name": "Damaged armour",
-  "models_2": [
-    3271
-  ],
+  "object_models": {
+    "models": [
+      3271
+    ]
+  },
   "colours": [
     [
       45,
       5433
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

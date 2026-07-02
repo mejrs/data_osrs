@@ -1,13 +1,18 @@
 {
   "id": 55303,
   "name": "Obelisk Hand",
-  "models_2": [
-    54931
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      54931
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 15,
-  "contrast": 60
+  "contrast": 60,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 310,
   "name": "Mud patch",
-  "models_2": [
-    1535
-  ],
   "dim_x": 2,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      1535
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

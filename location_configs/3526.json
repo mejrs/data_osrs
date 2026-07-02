@@ -1,9 +1,11 @@
 {
   "id": 3526,
   "name": "Grotto",
-  "models_2": [
-    3578
-  ],
+  "object_models": {
+    "models": [
+      3578
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -23,5 +25,8 @@
       7471,
       15023
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

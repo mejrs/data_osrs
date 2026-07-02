@@ -1,0 +1,19 @@
+{
+  "id": 62000,
+  "name": "Cave painting",
+  "object_models": {
+    "models": [
+      61269
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 20,
+  "scale_y": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

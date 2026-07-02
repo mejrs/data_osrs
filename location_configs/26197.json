@@ -1,10 +1,38 @@
 {
   "id": 26197,
-  "models": [
+  "object_models": {
+    "models": [
+      2873
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
     [
-      4,
-      4637
+      54164,
+      6558
+    ],
+    [
+      54174,
+      6563
+    ],
+    [
+      54183,
+      6565
+    ],
+    [
+      54193,
+      6569
+    ],
+    [
+      54203,
+      6573
     ]
   ],
-  "ambient": 100
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

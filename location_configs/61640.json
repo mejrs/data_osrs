@@ -1,0 +1,19 @@
+{
+  "id": 61640,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 2467,
+  "unknown_69": 27,
+  "morphs_2": {
+    "varbit": 15539,
+    "ids": [
+      61644,
+      61645
+    ],
+    "default": 61646
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

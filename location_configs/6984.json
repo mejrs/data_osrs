@@ -1,12 +1,17 @@
 {
   "id": 6984,
   "name": "Market Stall",
-  "models_2": [
-    5879
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5879
+    ]
+  },
   "scale_x": 88,
   "scale_y": 88,
-  "scale_z": 88
+  "scale_z": 88,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

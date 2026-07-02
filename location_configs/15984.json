@@ -1,12 +1,14 @@
 {
   "id": 15984,
-  "models": [
-    [
-      0,
-      4007
-    ]
-  ],
   "name": "Waiting Room Door",
+  "object_models_and_types": {
+    "models": [
+      4007
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

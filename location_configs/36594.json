@@ -1,11 +1,16 @@
 {
   "id": 36594,
   "name": "Corpses",
-  "models_2": [
-    37829
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37829
+    ]
+  },
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

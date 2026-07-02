@@ -1,12 +1,14 @@
 {
   "id": 2909,
-  "models": [
-    [
-      9,
-      2266
-    ]
-  ],
   "name": "Fire Wall",
+  "object_models_and_types": {
+    "models": [
+      2266
+    ],
+    "types": [
+      9
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 476,
   "ambient": 100,
@@ -18,5 +20,8 @@
     null
   ],
   "contrast": 100,
-  "mapscene": 15
+  "mapscene": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

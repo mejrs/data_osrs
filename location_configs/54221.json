@@ -1,10 +1,12 @@
 {
   "id": 54221,
   "name": "Web sack",
-  "models_2": [
-    47308
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      47308
+    ]
+  },
   "ambient": -10,
   "contrast": 50,
   "colours": [
@@ -36,5 +38,8 @@
       29861,
       13497
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

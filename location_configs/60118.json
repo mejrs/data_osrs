@@ -1,10 +1,12 @@
 {
   "id": 60118,
   "name": "Cave exit",
-  "models_2": [
-    58357
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      58357
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -20,5 +22,8 @@
   ],
   "contrast": 50,
   "model": false,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

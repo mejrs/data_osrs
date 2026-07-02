@@ -1,13 +1,18 @@
 {
   "id": 30656,
   "name": "Skroom",
-  "models_2": [
-    33687
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      33687
+    ]
+  },
   "is_transparent": true,
   "ambient": -20,
   "contrast": 112,
-  "mapscene": 87
+  "mapscene": 87,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

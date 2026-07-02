@@ -1,0 +1,18 @@
+{
+  "id": 61759,
+  "name": "Fireplace",
+  "dim_x": 3,
+  "object_models": {
+    "models": [
+      61239,
+      61240
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

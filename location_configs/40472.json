@@ -1,11 +1,13 @@
 {
   "id": 40472,
   "name": "Coffin",
-  "models_2": [
-    35289
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      35289
+    ]
+  },
   "ambient": 20,
   "colours": [
     [
@@ -28,5 +30,8 @@
       21642,
       11140
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

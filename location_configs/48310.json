@@ -1,12 +1,14 @@
 {
   "id": 48310,
   "name": "Tentacle",
-  "models_2": [
-    49237,
-    49243,
-    49246,
-    49244
-  ],
+  "object_models": {
+    "models": [
+      49237,
+      49243,
+      49246,
+      49244
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 10265,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

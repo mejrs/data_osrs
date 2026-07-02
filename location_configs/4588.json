@@ -1,12 +1,17 @@
 {
   "id": 4588,
   "name": "Lighting mechanism",
-  "models_2": [
-    4570,
-    4574
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      4570,
+      4574
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

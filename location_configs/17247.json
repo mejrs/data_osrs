@@ -1,10 +1,12 @@
 {
   "id": 17247,
   "name": "Oaknock's Machine",
-  "models_2": [
-    17086,
-    17089
-  ],
+  "object_models": {
+    "models": [
+      17086,
+      17089
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 4561,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "translate_y": 65506
+  "translate_y": 65506,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

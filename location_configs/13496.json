@@ -1,9 +1,11 @@
 {
   "id": 13496,
   "name": "Gold Castlewars armour",
-  "models_2": [
-    12383
-  ],
+  "object_models": {
+    "models": [
+      12383
+    ]
+  },
   "actions": [
     null,
     null,
@@ -21,5 +23,8 @@
       43280
     ]
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

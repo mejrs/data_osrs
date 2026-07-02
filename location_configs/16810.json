@@ -1,13 +1,18 @@
 {
   "id": 16810,
   "name": "Ceremonial Brazier",
-  "models_2": [
-    16698,
-    16699
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      16698,
+      16699
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
-  "unknown_24": 4408
+  "unknown_24": 4408,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

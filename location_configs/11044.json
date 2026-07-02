@@ -1,9 +1,11 @@
 {
   "id": 11044,
   "name": "Stone Ladder",
-  "models_2": [
-    10951
-  ],
+  "object_models": {
+    "models": [
+      10951
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 30,
@@ -36,5 +38,8 @@
       7595
     ]
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

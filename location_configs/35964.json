@@ -1,11 +1,13 @@
 {
   "id": 35964,
   "name": "Corrupted Sceptre",
-  "models_2": [
-    37455
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37455
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -17,5 +19,8 @@
     null,
     null
   ],
-  "contrast": 44
+  "contrast": 44,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,15 @@
+{
+  "id": 61990,
+  "name": "Abandoned sack",
+  "object_models": {
+    "models": [
+      61138
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

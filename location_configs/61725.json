@@ -1,0 +1,61 @@
+{
+  "id": 61725,
+  "name": "Sink",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      60599
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      161,
+      284
+    ],
+    [
+      158,
+      280
+    ],
+    [
+      154,
+      278
+    ],
+    [
+      148,
+      274
+    ],
+    [
+      7326,
+      7452
+    ],
+    [
+      7322,
+      7446
+    ],
+    [
+      14614,
+      14610
+    ],
+    [
+      14490,
+      14614
+    ]
+  ],
+  "category": 2465,
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

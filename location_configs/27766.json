@@ -1,10 +1,15 @@
 {
   "id": 27766,
   "name": "Broken boat",
-  "models_2": [
-    30301
-  ],
   "dim_x": 2,
   "dim_y": 3,
-  "unknown_21": true
+  "object_models": {
+    "models": [
+      30301
+    ]
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

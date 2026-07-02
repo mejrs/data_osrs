@@ -1,9 +1,11 @@
 {
   "id": 14556,
   "name": "Stone Pile",
-  "models_2": [
-    4476
-  ],
+  "object_models": {
+    "models": [
+      4476
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -33,5 +35,8 @@
       21642,
       12
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,15 +1,20 @@
 {
   "id": 60405,
-  "models_2": [
-    57725
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      57725
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_27": false,
   "ambient": 25,
   "contrast": 25,
   "model": false,
-  "mapscene": 244
+  "mapscene": 244,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

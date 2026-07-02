@@ -1,9 +1,11 @@
 {
   "id": 56685,
   "name": "Urn",
-  "models_2": [
-    56971
-  ],
+  "object_models": {
+    "models": [
+      56971
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "category": 2199
+  "category": 2199,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

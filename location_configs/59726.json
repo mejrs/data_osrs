@@ -1,12 +1,17 @@
 {
   "id": 59726,
   "name": "Large workbench",
-  "models_2": [
-    58882
-  ],
   "dim_x": 3,
   "dim_y": 8,
+  "object_models": {
+    "models": [
+      58882
+    ]
+  },
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,18 @@
 {
   "id": 9263,
   "name": "White Tree",
-  "models_2": [
-    9210
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      9210
+    ]
+  },
   "ambient": 25,
   "scale_x": 85,
   "scale_y": 85,
-  "scale_z": 85
+  "scale_z": 85,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

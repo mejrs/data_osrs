@@ -1,10 +1,15 @@
 {
   "id": 25930,
   "name": "Table",
-  "models_2": [
-    27377
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      27377
+    ]
+  },
   "is_transparent": true,
-  "category": 156
+  "category": 156,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 50516,
-  "models": [
-    [
-      4,
-      50446
-    ]
-  ],
   "name": "Tapestry",
+  "object_models_and_types": {
+    "models": [
+      50446
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Search",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

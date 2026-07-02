@@ -1,16 +1,16 @@
 {
   "id": 56610,
-  "models": [
-    [
-      10,
-      47599
-    ],
-    [
-      22,
-      56548
-    ]
-  ],
   "name": "Pillar",
+  "object_models_and_types": {
+    "models": [
+      47599,
+      56548
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_22": true,
@@ -20,5 +20,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

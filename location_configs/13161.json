@@ -1,9 +1,11 @@
 {
   "id": 13161,
   "name": "Gilded wardrobe",
-  "models_2": [
-    11125
-  ],
+  "object_models": {
+    "models": [
+      11125
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Change-clothes",
@@ -14,5 +16,8 @@
   ],
   "contrast": 25,
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

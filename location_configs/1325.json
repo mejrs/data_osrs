@@ -1,12 +1,17 @@
 {
   "id": 1325,
   "name": "Roots",
-  "models_2": [
-    2174
-  ],
+  "object_models": {
+    "models": [
+      2174
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "ambient": 15,
   "contrast": 20,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

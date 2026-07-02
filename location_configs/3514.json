@@ -1,7 +1,12 @@
 {
   "id": 3514,
   "name": "Rotting tree",
-  "models_2": [
-    3597
-  ]
+  "object_models": {
+    "models": [
+      3597
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

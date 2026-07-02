@@ -1,10 +1,12 @@
 {
   "id": 47316,
   "name": "Old passageway",
-  "models_2": [
-    34541
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      34541
+    ]
+  },
   "unknown_22": true,
   "occludes_1": false,
   "ambient": 25,
@@ -35,5 +37,8 @@
       0
     ]
   ],
-  "scale_y": 190
+  "scale_y": 190,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

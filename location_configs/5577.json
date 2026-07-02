@@ -1,9 +1,14 @@
 {
   "id": 5577,
   "name": "Trough",
-  "models_2": [
-    14206,
-    5507
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      14206,
+      5507
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

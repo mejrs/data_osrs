@@ -1,9 +1,11 @@
 {
   "id": 9002,
   "name": "Net trap",
-  "models_2": [
-    19932
-  ],
+  "object_models": {
+    "models": [
+      19932
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Dismantle",
@@ -13,5 +15,8 @@
     null
   ],
   "category": 192,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

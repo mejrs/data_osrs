@@ -1,7 +1,12 @@
 {
   "id": 2089,
   "name": "Rockery",
-  "models_2": [
-    1711
-  ]
+  "object_models": {
+    "models": [
+      1711
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

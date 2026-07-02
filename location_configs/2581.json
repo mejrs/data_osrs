@@ -1,9 +1,11 @@
 {
   "id": 2581,
   "name": "Rock",
-  "models_2": [
-    1388
-  ],
+  "object_models": {
+    "models": [
+      1388
+    ]
+  },
   "actions": [
     null,
     "Search",
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 40966,
   "name": "Buckets",
-  "models_2": [
-    41839
-  ],
+  "object_models": {
+    "models": [
+      41839
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Take",
@@ -11,5 +13,8 @@
     "Take-10",
     "Take-X",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

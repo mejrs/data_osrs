@@ -1,12 +1,14 @@
 {
   "id": 14010,
-  "models": [
-    [
-      4,
-      13696
-    ]
-  ],
   "name": "Wish-list",
+  "object_models_and_types": {
+    "models": [
+      13696
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 40,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

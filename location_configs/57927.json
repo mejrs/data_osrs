@@ -1,12 +1,14 @@
 {
   "id": 57927,
-  "models": [
-    [
-      22,
-      9237
-    ]
-  ],
   "name": "Rocks",
+  "object_models_and_types": {
+    "models": [
+      9237
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
   "actions": [
@@ -26,5 +28,8 @@
   "scale_x": 128,
   "scale_y": 64,
   "scale_z": 128,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

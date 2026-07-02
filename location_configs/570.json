@@ -1,7 +1,12 @@
 {
   "id": 570,
   "name": "Gnome statue",
-  "models_2": [
-    1303
-  ]
+  "object_models": {
+    "models": [
+      1303
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 59723,
   "name": "Shipwrights' Workbench",
-  "models_2": [
-    57702
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      57702
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -12,11 +14,14 @@
   "actions": [
     null,
     "Craft",
-    null,
-    null,
+    "Craft-hull-parts",
+    "Craft-repair-kits",
     null
   ],
   "contrast": 30,
   "category": 2334,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

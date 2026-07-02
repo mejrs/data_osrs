@@ -1,12 +1,17 @@
 {
   "id": 50312,
   "name": "Sarcophagus",
-  "models_2": [
-    50240
-  ],
   "dim_x": 3,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      50240
+    ]
+  },
   "unknown_19": 1,
   "ambient": 0,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

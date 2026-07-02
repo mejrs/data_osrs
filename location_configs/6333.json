@@ -1,8 +1,13 @@
 {
   "id": 6333,
   "name": "Statue",
-  "models_2": [
-    6167
-  ],
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      6167
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

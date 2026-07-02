@@ -1,11 +1,13 @@
 {
   "id": 37418,
   "name": "Steps",
-  "models_2": [
-    38876
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      38876
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -17,5 +19,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,23 +1,19 @@
 {
   "id": 1604,
-  "models": [
-    [
-      12,
-      2185
-    ],
-    [
-      13,
-      2189
-    ],
-    [
-      16,
-      5583
-    ],
-    [
-      17,
+  "object_models_and_types": {
+    "models": [
+      2185,
+      2189,
+      5583,
       2187
+    ],
+    "types": [
+      12,
+      13,
+      16,
+      17
     ]
-  ],
+  },
   "unknown_22": true,
   "ambient": 15,
   "contrast": 25,
@@ -29,5 +25,8 @@
   ],
   "textures": {
     "6": 18
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 59367,
   "name": "Advert",
-  "models_2": [
-    14651,
-    57641
-  ],
+  "object_models": {
+    "models": [
+      14651,
+      57641
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chart",
@@ -36,5 +38,8 @@
       2332
     ]
   ],
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

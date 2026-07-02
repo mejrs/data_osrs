@@ -1,13 +1,18 @@
 {
   "id": 49885,
-  "models": [
-    [
-      0,
-      49735
-    ]
-  ],
   "name": "Secure door",
+  "object_models_and_types": {
+    "models": [
+      49735
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

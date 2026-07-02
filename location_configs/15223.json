@@ -1,8 +1,13 @@
 {
   "id": 15223,
   "name": "Platform",
-  "models_2": [
-    15083
-  ],
-  "unknown_73": true
+  "object_models": {
+    "models": [
+      15083
+    ]
+  },
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

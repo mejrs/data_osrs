@@ -1,9 +1,11 @@
 {
   "id": 41947,
   "name": "<col=ffff00>Protester</col>",
-  "models_2": [
-    42547
-  ],
+  "object_models": {
+    "models": [
+      42547
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 9044,
@@ -22,6 +24,9 @@
   ],
   "model": false,
   "mapscene": 82,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

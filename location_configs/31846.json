@@ -1,10 +1,12 @@
 {
   "id": 31846,
   "name": "Notice board",
-  "models_2": [
-    14651,
-    34439
-  ],
+  "object_models": {
+    "models": [
+      14651,
+      34439
+    ]
+  },
   "unknown_27": false,
   "ambient": 5,
   "actions": [
@@ -33,5 +35,8 @@
       5157
     ]
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

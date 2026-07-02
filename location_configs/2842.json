@@ -1,9 +1,14 @@
 {
   "id": 2842,
   "name": "Magical shield",
-  "models_2": [
-    11877
-  ],
   "dim_y": 2,
-  "unknown_24": 446
+  "object_models": {
+    "models": [
+      11877
+    ]
+  },
+  "unknown_24": 446,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

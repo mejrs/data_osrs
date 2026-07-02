@@ -1,11 +1,13 @@
 {
   "id": 15409,
   "name": "Centrepiece space",
-  "models_2": [
-    12876
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12876
+    ]
+  },
   "actions": [
     null,
     null,
@@ -14,6 +16,9 @@
     "Build"
   ],
   "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 2,
     "430": 2

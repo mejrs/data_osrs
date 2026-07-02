@@ -1,9 +1,11 @@
 {
   "id": 40967,
   "name": "Harpoons",
-  "models_2": [
-    41840
-  ],
+  "object_models": {
+    "models": [
+      41840
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Take",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

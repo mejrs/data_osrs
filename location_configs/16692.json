@@ -1,8 +1,13 @@
 {
   "id": 16692,
   "name": "Hat rack",
-  "models_2": [
-    16705
-  ],
-  "unknown_24": 4393
+  "object_models": {
+    "models": [
+      16705
+    ]
+  },
+  "unknown_24": 4393,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 8845,
   "name": "City Gate",
-  "models_2": [
-    8341
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      8341
+    ]
+  },
   "actions": [
     "Enter",
     null,
@@ -14,5 +16,8 @@
     null
   ],
   "category": 1343,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

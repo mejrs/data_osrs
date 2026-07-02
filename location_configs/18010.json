@@ -1,9 +1,14 @@
 {
   "id": 18010,
   "name": "Stagnant fish display",
-  "models_2": [
-    17742
-  ],
   "dim_x": 2,
-  "ambient": 15
+  "object_models": {
+    "models": [
+      17742
+    ]
+  },
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

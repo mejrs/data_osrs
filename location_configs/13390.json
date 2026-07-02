@@ -1,12 +1,14 @@
 {
   "id": 13390,
   "name": "Jacky Jester",
-  "models_2": [
-    13120,
-    13119
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      13120,
+      13119
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 3587,
   "unknown_27": false,
@@ -19,5 +21,8 @@
     "Remove"
   ],
   "contrast": 20,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

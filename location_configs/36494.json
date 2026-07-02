@@ -1,9 +1,14 @@
 {
   "id": 36494,
   "name": "Bench",
-  "models_2": [
-    37914
-  ],
   "dim_x": 2,
-  "ambient": 10
+  "object_models": {
+    "models": [
+      37914
+    ]
+  },
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 53938,
   "name": "Waste-paper basket",
-  "models_2": [
-    53650
-  ],
+  "object_models": {
+    "models": [
+      53650
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

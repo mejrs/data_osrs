@@ -1,10 +1,12 @@
 {
   "id": 59718,
   "name": "Boat schematics",
-  "models_2": [
-    58748
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      58748
+    ]
+  },
   "unknown_27": false,
   "ambient": 30,
   "actions": [
@@ -16,5 +18,8 @@
   ],
   "contrast": 10,
   "category": 2333,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 693,
   "name": "Broom",
-  "models_2": [
-    1218
-  ]
+  "object_models": {
+    "models": [
+      1218
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

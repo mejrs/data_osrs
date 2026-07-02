@@ -1,10 +1,12 @@
 {
   "id": 54380,
   "name": "Medical box",
-  "models_2": [
-    52395,
-    54858
-  ],
+  "object_models": {
+    "models": [
+      52395,
+      54858
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -47,5 +49,8 @@
   "category": 2074,
   "scale_x": 100,
   "scale_y": 100,
-  "scale_z": 100
+  "scale_z": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

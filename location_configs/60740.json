@@ -1,0 +1,31 @@
+{
+  "id": 60740,
+  "name": "Shelves",
+  "object_models": {
+    "models": [
+      7392,
+      7677
+    ]
+  },
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6430,
+      7587
+    ],
+    [
+      5400,
+      7582
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

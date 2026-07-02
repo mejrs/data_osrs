@@ -1,9 +1,11 @@
 {
   "id": 2901,
   "name": "Mossy rock",
-  "models_2": [
-    2157
-  ],
+  "object_models": {
+    "models": [
+      2157
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

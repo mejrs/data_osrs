@@ -1,9 +1,14 @@
 {
   "id": 18665,
   "name": "Pin",
-  "models_2": [
-    18858
-  ],
+  "object_models": {
+    "models": [
+      18858
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

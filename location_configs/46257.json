@@ -1,12 +1,14 @@
 {
   "id": 46257,
   "name": "Great cauldron",
-  "models_2": [
-    46675,
-    46674
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      46675,
+      46674
+    ]
+  },
   "actions": [
     "Deposit",
     "Check",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "category": 1721
+  "category": 1721,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

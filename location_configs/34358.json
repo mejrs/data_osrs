@@ -1,9 +1,14 @@
 {
   "id": 34358,
-  "models_2": [
-    36580
-  ],
+  "object_models": {
+    "models": [
+      36580
+    ]
+  },
   "unknown_19": 0,
   "ambient": 10,
-  "contrast": 5
+  "contrast": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

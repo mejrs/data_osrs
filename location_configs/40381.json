@@ -1,13 +1,18 @@
 {
   "id": 40381,
   "name": "Staircase",
-  "models_2": [
-    25315,
-    25320
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      25315,
+      25320
+    ]
+  },
   "ambient": 25,
   "contrast": 25,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

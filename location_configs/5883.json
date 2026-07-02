@@ -1,9 +1,11 @@
 {
   "id": 5883,
   "name": "Mud",
-  "models_2": [
-    2259
-  ],
+  "object_models": {
+    "models": [
+      2259
+    ]
+  },
   "unknown_24": 480,
   "actions": [
     "Dig-up",
@@ -17,5 +19,8 @@
       27028,
       5524
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

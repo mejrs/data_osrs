@@ -1,23 +1,19 @@
 {
   "id": 39664,
-  "models": [
-    [
-      0,
-      14783
-    ],
-    [
-      1,
-      14784
-    ],
-    [
-      2,
-      14785
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      14783,
+      14784,
+      14785,
       14786
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_22": true,
@@ -48,5 +44,8 @@
       21642,
       12
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

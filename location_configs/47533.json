@@ -1,14 +1,19 @@
 {
   "id": 47533,
   "name": "Holos mushrooms",
-  "models_2": [
-    48492
-  ],
+  "object_models": {
+    "models": [
+      48492
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 10,
   "contrast": 35,
   "category": 1811,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

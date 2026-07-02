@@ -1,9 +1,14 @@
 {
   "id": 13593,
   "name": "Metal Press",
-  "models_2": [
-    14901
-  ],
   "dim_x": 2,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      14901
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

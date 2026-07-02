@@ -1,12 +1,14 @@
 {
   "id": 18036,
-  "models": [
-    [
-      22,
-      17920
-    ]
-  ],
   "name": "Floor",
+  "object_models_and_types": {
+    "models": [
+      17920
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -17,5 +19,8 @@
     null
   ],
   "scale_y": 160,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

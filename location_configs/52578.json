@@ -1,10 +1,12 @@
 {
   "id": 52578,
   "name": "Bookshelf",
-  "models_2": [
-    7392,
-    7394
-  ],
+  "object_models": {
+    "models": [
+      7392,
+      7394
+    ]
+  },
   "ambient": 10,
   "contrast": 30,
   "colours": [
@@ -34,5 +36,8 @@
     ]
   ],
   "category": 205,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

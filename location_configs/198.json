@@ -1,11 +1,16 @@
 {
   "id": 198,
-  "models": [
-    [
-      4,
-      2257
-    ]
-  ],
   "dim_x": 2,
-  "unknown_24": 481
+  "object_models_and_types": {
+    "models": [
+      2257
+    ],
+    "types": [
+      4
+    ]
+  },
+  "unknown_24": 481,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,17 @@
 {
   "id": 51661,
   "name": "Haystack",
-  "models_2": [
-    1455
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1455
+    ]
+  },
   "is_transparent": true,
   "ambient": 15,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 60321,
   "name": "Ledger table",
-  "models_2": [
-    57700
-  ],
+  "object_models": {
+    "models": [
+      57700
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -15,5 +17,8 @@
   ],
   "contrast": 15,
   "category": 2345,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

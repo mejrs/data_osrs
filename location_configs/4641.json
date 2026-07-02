@@ -1,7 +1,12 @@
 {
   "id": 4641,
   "name": "Stacked barrels",
-  "models_2": [
-    4615
-  ]
+  "object_models": {
+    "models": [
+      4615
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

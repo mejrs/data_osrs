@@ -1,15 +1,20 @@
 {
   "id": 48685,
-  "models_2": [
-    48424
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      48424
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "ambient": 30,
   "contrast": 30,
   "mirror": true,
   "model": false,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

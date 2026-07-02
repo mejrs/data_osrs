@@ -1,10 +1,12 @@
 {
   "id": 13399,
   "name": "Stick and hoop",
-  "models_2": [
-    13196,
-    13197
-  ],
+  "object_models": {
+    "models": [
+      13196,
+      13197
+    ]
+  },
   "actions": [
     "Hoop",
     null,
@@ -12,5 +14,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

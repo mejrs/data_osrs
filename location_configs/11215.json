@@ -1,10 +1,12 @@
 {
   "id": 11215,
   "name": "Broken Cannon",
-  "models_2": [
-    11152
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      11152
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Repair",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

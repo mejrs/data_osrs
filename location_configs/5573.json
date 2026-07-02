@@ -1,11 +1,13 @@
 {
   "id": 5573,
   "name": "Coop",
-  "models_2": [
-    5503,
-    5502
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      5503,
+      5502
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -14,5 +16,8 @@
     null
   ],
   "category": 1469,
-  "translate_z": 65535
+  "translate_z": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

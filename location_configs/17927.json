@@ -1,8 +1,13 @@
 {
   "id": 17927,
-  "models_2": [
-    5358
-  ],
+  "object_models": {
+    "models": [
+      5358
+    ]
+  },
   "unknown_19": 0,
-  "unknown_21": true
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

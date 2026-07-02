@@ -1,12 +1,14 @@
 {
   "id": 15052,
   "name": "Coffin",
-  "models_2": [
-    11207,
-    15014
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      11207,
+      15014
+    ]
+  },
   "actions": [
     "Search",
     "Close",
@@ -39,5 +41,8 @@
       9096,
       6020
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 25809,
   "name": "Closed booth",
-  "models_2": [
-    5271
-  ],
+  "object_models": {
+    "models": [
+      5271
+    ]
+  },
   "is_transparent": true,
   "ambient": 20,
   "colours": [
@@ -27,5 +29,8 @@
       27152,
       7056
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

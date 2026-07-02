@@ -1,28 +1,25 @@
 {
   "id": 2855,
-  "models": [
-    [
-      0,
-      2212
-    ],
-    [
-      1,
-      2213
-    ],
-    [
-      2,
-      2176
-    ],
-    [
-      3,
-      2177
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      2212,
+      2213,
+      2176,
+      2177,
       2178
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "occludes_1": false,
   "unknown_28": 8,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

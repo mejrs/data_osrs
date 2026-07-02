@@ -1,10 +1,15 @@
 {
   "id": 25190,
   "name": "A tropical tree",
-  "models_2": [
-    26489
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "mapscene": 5
+  "object_models": {
+    "models": [
+      26489
+    ]
+  },
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 23174,
   "name": "Camping gear",
-  "models_2": [
-    20051
-  ],
+  "object_models": {
+    "models": [
+      20051
+    ]
+  },
   "colours": [
     [
       49,
@@ -18,5 +20,8 @@
       7333
     ]
   ],
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

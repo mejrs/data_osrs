@@ -1,21 +1,24 @@
 {
   "id": 29798,
-  "models": [
-    [
-      10,
-      32448
-    ],
-    [
-      22,
-      32503
-    ]
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models_and_types": {
+    "models": [
+      32448,
+      32503
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "occludes_1": false,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

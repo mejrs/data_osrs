@@ -1,0 +1,45 @@
+{
+  "id": 60642,
+  "name": "Rosewood cargo hold",
+  "object_models": {
+    "models": [
+      58160
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Deposit-held",
+    "Deposit-all",
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21435,
+      916
+    ],
+    [
+      21464,
+      920
+    ],
+    [
+      54203,
+      1447
+    ],
+    [
+      54183,
+      1441
+    ]
+  ],
+  "category": 2343,
+  "scale_x": 190,
+  "scale_y": 190,
+  "scale_z": 190,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

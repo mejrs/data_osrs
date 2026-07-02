@@ -1,12 +1,14 @@
 {
   "id": 55793,
-  "models": [
-    [
-      0,
-      50340
-    ]
-  ],
   "name": "Mural",
+  "object_models_and_types": {
+    "models": [
+      50340
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 0,
@@ -18,5 +20,8 @@
     null
   ],
   "contrast": 40,
-  "category": 2138
+  "category": 2138,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

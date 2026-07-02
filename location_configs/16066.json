@@ -1,12 +1,14 @@
 {
   "id": 16066,
-  "models": [
-    [
-      22,
-      13584
-    ]
-  ],
   "name": "Vine",
+  "object_models_and_types": {
+    "models": [
+      13584
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

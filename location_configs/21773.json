@@ -1,13 +1,18 @@
 {
   "id": 21773,
   "name": "Soul Devourer",
-  "models_2": [
-    29280
-  ],
   "dim_x": 5,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      29280
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 4517,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

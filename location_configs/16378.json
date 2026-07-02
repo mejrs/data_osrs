@@ -1,9 +1,11 @@
 {
   "id": 16378,
   "name": "Healing certificate",
-  "models_2": [
-    16121
-  ],
+  "object_models": {
+    "models": [
+      16121
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 20,
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

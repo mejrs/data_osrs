@@ -1,8 +1,13 @@
 {
   "id": 31154,
   "name": "Hoop Snake",
-  "models_2": [
-    33316,
-    33326
-  ]
+  "object_models": {
+    "models": [
+      33316,
+      33326
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

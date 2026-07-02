@@ -1,9 +1,11 @@
 {
   "id": 39956,
   "name": "Chair",
-  "models_2": [
-    12450
-  ],
+  "object_models": {
+    "models": [
+      12450
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 60114,
   "name": "Ancient mould",
-  "models_2": [
-    58836
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58836
+    ]
+  },
   "actions": [
     "Inspect",
     null,
@@ -16,5 +18,8 @@
   "contrast": 20,
   "scale_x": 100,
   "scale_y": 100,
-  "scale_z": 100
+  "scale_z": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

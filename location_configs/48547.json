@@ -1,9 +1,11 @@
 {
   "id": 48547,
   "name": "Strangled Plant",
-  "models_2": [
-    1643
-  ],
+  "object_models": {
+    "models": [
+      1643
+    ]
+  },
   "is_transparent": true,
   "ambient": 30,
   "contrast": 10,
@@ -33,5 +35,8 @@
       3470
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

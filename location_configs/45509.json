@@ -1,10 +1,12 @@
 {
   "id": 45509,
   "name": "Rock steps",
-  "models_2": [
-    46270
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      46270
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -18,5 +20,8 @@
   ],
   "contrast": 30,
   "model": false,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

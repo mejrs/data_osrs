@@ -1,12 +1,14 @@
 {
   "id": 16265,
   "name": "Tree",
-  "models_2": [
-    16293,
-    16294
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      16293,
+      16294
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
@@ -26,5 +28,8 @@
   "scale_x": 170,
   "scale_y": 170,
   "scale_z": 170,
-  "mapscene": 1
+  "mapscene": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 54493,
   "name": "Markings",
-  "models_2": [
-    54851
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      54851
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
   "actions": [
@@ -17,5 +19,8 @@
   "contrast": 50,
   "category": 2076,
   "model": false,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

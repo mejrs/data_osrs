@@ -1,15 +1,20 @@
 {
   "id": 47665,
   "name": "Grate",
-  "models_2": [
-    32376
-  ],
   "dim_x": 7,
+  "object_models": {
+    "models": [
+      32376
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": -50,
   "scale_x": 160,
   "scale_y": 160,
-  "scale_z": 160
+  "scale_z": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

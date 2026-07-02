@@ -1,10 +1,12 @@
 {
   "id": 15487,
   "name": "Rope",
-  "models_2": [
-    11180
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      11180
+    ]
+  },
   "actions": [
     "Swing",
     null,
@@ -14,5 +16,8 @@
   ],
   "model": false,
   "unknown_69": 23,
-  "translate_y": 65416
+  "translate_y": 65416,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

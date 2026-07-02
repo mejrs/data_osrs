@@ -1,12 +1,14 @@
 {
   "id": 46240,
-  "models": [
-    [
-      4,
-      49830
-    ]
-  ],
   "name": "Noticeboard",
+  "object_models_and_types": {
+    "models": [
+      49830
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 50,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 636,
   "name": "Buffers",
-  "models_2": [
-    1389
-  ]
+  "object_models": {
+    "models": [
+      1389
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

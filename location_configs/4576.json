@@ -1,15 +1,15 @@
 {
   "id": 4576,
-  "models": [
-    [
-      10,
-      4540
-    ],
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
+      4540,
       4541
+    ],
+    "types": [
+      10,
+      0
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "occludes_1": false,
@@ -17,5 +17,8 @@
   "contrast": 0,
   "scale_x": 128,
   "scale_y": 256,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

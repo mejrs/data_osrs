@@ -1,11 +1,16 @@
 {
   "id": 8142,
   "name": "Closed bank booth",
-  "models_2": [
-    29244
-  ],
+  "object_models": {
+    "models": [
+      29244
+    ]
+  },
   "is_transparent": true,
   "ambient": 25,
   "contrast": 25,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 57257,
   "name": "Rock",
-  "models_2": [
-    56644
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      56644
+    ]
+  },
   "unknown_21": true,
   "ambient": 0,
   "contrast": 30,
@@ -43,5 +45,8 @@
       14872
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

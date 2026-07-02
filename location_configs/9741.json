@@ -1,28 +1,22 @@
 {
   "id": 9741,
-  "models": [
-    [
-      0,
-      1003
-    ],
-    [
-      1,
-      1004
-    ],
-    [
-      2,
-      1005
-    ],
-    [
-      3,
-      1006
-    ],
-    [
-      9,
-      1007
-    ]
-  ],
   "name": "Wall",
+  "object_models_and_types": {
+    "models": [
+      1003,
+      1004,
+      1005,
+      1006,
+      1007
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_22": true,
@@ -32,5 +26,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

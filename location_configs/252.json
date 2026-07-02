@@ -1,7 +1,12 @@
 {
   "id": 252,
   "name": "Ship's wheel",
-  "models_2": [
-    1890
-  ]
+  "object_models": {
+    "models": [
+      1890
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

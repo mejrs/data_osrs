@@ -1,9 +1,11 @@
 {
   "id": 25684,
   "name": "Bookcase",
-  "models_2": [
-    12409
-  ],
+  "object_models": {
+    "models": [
+      12409
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Search",
@@ -23,5 +25,8 @@
       5413
     ]
   ],
-  "category": 205
+  "category": 205,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 48254,
-  "models": [
-    [
-      0,
-      48378
-    ]
-  ],
   "name": "Doors",
+  "object_models_and_types": {
+    "models": [
+      48378
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -20,5 +22,8 @@
   ],
   "contrast": 20,
   "category": 1824,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

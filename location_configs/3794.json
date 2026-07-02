@@ -1,9 +1,11 @@
 {
   "id": 3794,
   "name": "Grass",
-  "models_2": [
-    3794
-  ],
+  "object_models": {
+    "models": [
+      3794
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -12,5 +14,8 @@
       13212,
       13204
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

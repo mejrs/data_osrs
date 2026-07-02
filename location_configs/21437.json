@@ -1,7 +1,12 @@
 {
   "id": 21437,
   "name": "Axe case",
-  "models_2": [
-    22023
-  ]
+  "object_models": {
+    "models": [
+      22023
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

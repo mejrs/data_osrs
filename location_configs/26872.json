@@ -1,11 +1,13 @@
 {
   "id": 26872,
   "name": "Mahogany feeder",
-  "models_2": [
-    28958
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      28958
+    ]
+  },
   "actions": [
     null,
     null,
@@ -16,5 +18,8 @@
   "category": 206,
   "scale_x": 100,
   "scale_y": 100,
-  "scale_z": 100
+  "scale_z": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 19125,
-  "models": [
-    [
-      22,
-      1124
-    ]
-  ],
   "name": "Dirt",
+  "object_models_and_types": {
+    "models": [
+      1124
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": -30,
@@ -30,5 +32,8 @@
       4899,
       6573
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

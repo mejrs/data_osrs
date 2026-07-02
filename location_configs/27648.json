@@ -1,8 +1,13 @@
 {
   "id": 27648,
   "name": "Post",
-  "models_2": [
-    30269
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      30269
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

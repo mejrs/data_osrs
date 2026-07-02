@@ -1,11 +1,16 @@
 {
   "id": 44996,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       45779
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

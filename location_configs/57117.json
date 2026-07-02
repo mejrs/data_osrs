@@ -1,9 +1,11 @@
 {
   "id": 57117,
   "name": "Entling",
-  "models_2": [
-    49909
-  ],
+  "object_models": {
+    "models": [
+      49909
+    ]
+  },
   "ambient": 10,
   "contrast": 10,
   "colours": [
@@ -15,5 +17,8 @@
       7366,
       3486
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,34 +1,29 @@
 {
   "id": 10745,
-  "models": [
-    [
-      12,
-      10656
-    ],
-    [
-      15,
-      10659
-    ],
-    [
-      16,
-      10660
-    ],
-    [
-      17,
-      10661
-    ],
-    [
-      18,
-      10662
-    ],
-    [
-      20,
+  "object_models_and_types": {
+    "models": [
+      10656,
+      10659,
+      10660,
+      10661,
+      10662,
       10657
+    ],
+    "types": [
+      12,
+      15,
+      16,
+      17,
+      18,
+      20
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 30,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

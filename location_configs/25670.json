@@ -1,9 +1,11 @@
 {
   "id": 25670,
   "name": "Hedge",
-  "models_2": [
-    13174
-  ],
+  "object_models": {
+    "models": [
+      13174
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 20,
@@ -15,5 +17,8 @@
     ]
   ],
   "scale_y": 196,
-  "mapscene": 9
+  "mapscene": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

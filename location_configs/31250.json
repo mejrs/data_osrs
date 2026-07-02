@@ -1,8 +1,13 @@
 {
   "id": 31250,
   "name": "Terror Snail",
-  "models_2": [
-    33312,
-    33424
-  ]
+  "object_models": {
+    "models": [
+      33312,
+      33424
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

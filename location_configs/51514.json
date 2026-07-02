@@ -1,10 +1,12 @@
 {
   "id": 51514,
   "name": "Crusher",
-  "models_2": [
-    7102
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      7102
+    ]
+  },
   "unknown_24": 2135,
   "ambient": 10,
   "contrast": 30,
@@ -25,5 +27,8 @@
       43043,
       5392
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

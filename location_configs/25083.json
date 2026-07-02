@@ -1,9 +1,11 @@
 {
   "id": 25083,
   "name": "Stalactite",
-  "models_2": [
-    26508
-  ],
+  "object_models": {
+    "models": [
+      26508
+    ]
+  },
   "unknown_17": false,
   "unknown_21": true,
   "colours": [
@@ -19,5 +21,8 @@
       21543,
       6558
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

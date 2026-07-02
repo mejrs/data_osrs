@@ -1,12 +1,14 @@
 {
   "id": 6943,
-  "models": [
-    [
-      0,
-      37222
-    ]
-  ],
   "name": "Glass door",
+  "object_models_and_types": {
+    "models": [
+      37222
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -17,5 +19,8 @@
     null,
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,14 +1,19 @@
 {
   "id": 51401,
   "name": "Carving",
-  "models_2": [
-    52299
-  ],
   "dim_x": 6,
+  "object_models": {
+    "models": [
+      52299
+    ]
+  },
   "ambient": -65,
   "contrast": 40,
   "scale_x": 192,
   "scale_y": 192,
   "scale_z": 192,
-  "translate_y": 65408
+  "translate_y": 65408,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

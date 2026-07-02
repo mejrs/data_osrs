@@ -1,9 +1,11 @@
 {
   "id": 24595,
   "name": "Button",
-  "models_2": [
-    25792
-  ],
+  "object_models": {
+    "models": [
+      25792
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

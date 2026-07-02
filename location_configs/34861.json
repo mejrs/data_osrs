@@ -1,10 +1,12 @@
 {
   "id": 34861,
   "name": "Strange wall",
-  "models_2": [
-    37299
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37299
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
   "contrast": 10,
@@ -33,5 +35,8 @@
       21642,
       8
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

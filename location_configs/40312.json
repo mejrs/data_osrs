@@ -1,9 +1,11 @@
 {
   "id": 40312,
   "name": "Carrot",
-  "models_2": [
-    40879
-  ],
+  "object_models": {
+    "models": [
+      40879
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Investigate",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

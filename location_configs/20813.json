@@ -1,9 +1,11 @@
 {
   "id": 20813,
   "name": "Control panel",
-  "models_2": [
-    14946
-  ],
+  "object_models": {
+    "models": [
+      14946
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Use",
@@ -13,5 +15,8 @@
     null
   ],
   "contrast": 20,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

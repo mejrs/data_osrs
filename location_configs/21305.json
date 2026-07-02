@@ -1,9 +1,11 @@
 {
   "id": 21305,
   "name": "Woodcutting stump",
-  "models_2": [
-    21984
-  ],
+  "object_models": {
+    "models": [
+      21984
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Cut-wood",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

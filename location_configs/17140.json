@@ -1,7 +1,12 @@
 {
   "id": 17140,
   "name": "Oaknock statue",
-  "models_2": [
-    17103
-  ]
+  "object_models": {
+    "models": [
+      17103
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

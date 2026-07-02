@@ -1,12 +1,14 @@
 {
   "id": 45503,
-  "models": [
-    [
-      0,
-      16412
-    ]
-  ],
   "name": "Tomb Door",
+  "object_models_and_types": {
+    "models": [
+      16412
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -39,5 +41,8 @@
       7461
     ]
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

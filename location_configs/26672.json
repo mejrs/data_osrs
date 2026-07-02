@@ -1,10 +1,12 @@
 {
   "id": 26672,
   "name": "Water wheel",
-  "models_2": [
-    18866
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      18866
+    ]
+  },
   "ambient": 10,
   "contrast": 30,
   "colours": [
@@ -16,5 +18,8 @@
       61,
       7566
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

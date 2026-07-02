@@ -1,14 +1,19 @@
 {
   "id": 2823,
   "name": "Hole",
-  "models_2": [
-    1464
-  ],
+  "object_models": {
+    "models": [
+      1464
+    ]
+  },
   "actions": [
     "Climb-down",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

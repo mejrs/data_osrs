@@ -1,12 +1,14 @@
 {
   "id": 15399,
-  "models": [
-    [
-      4,
-      12864
-    ]
-  ],
   "name": "Shelf space",
+  "object_models_and_types": {
+    "models": [
+      12864
+    ],
+    "types": [
+      4
+    ]
+  },
   "actions": [
     null,
     null,
@@ -14,5 +16,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

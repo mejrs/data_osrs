@@ -1,9 +1,14 @@
 {
   "id": 210,
   "name": "Ice Light",
-  "models_2": [
-    1531
-  ],
+  "object_models": {
+    "models": [
+      1531
+    ]
+  },
   "ambient": 50,
-  "contrast": 50
+  "contrast": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

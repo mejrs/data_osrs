@@ -1,10 +1,12 @@
 {
   "id": 51441,
-  "models_2": [
-    47228
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      47228
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
@@ -13,5 +15,8 @@
   "model": false,
   "scale_x": 32,
   "scale_y": 96,
-  "scale_z": 32
+  "scale_z": 32,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

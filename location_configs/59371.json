@@ -1,9 +1,11 @@
 {
   "id": 59371,
   "name": "Port roberts jail visitors book",
-  "models_2": [
-    2509
-  ],
+  "object_models": {
+    "models": [
+      2509
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chart",
@@ -24,5 +26,8 @@
     ]
   ],
   "category": 2317,
-  "translate_z": 65516
+  "translate_z": 65516,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

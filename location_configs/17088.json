@@ -1,27 +1,26 @@
 {
   "id": 17088,
-  "models": [
-    [
-      0,
-      16919
-    ],
-    [
-      1,
-      16920
-    ],
-    [
-      2,
-      16921
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      16919,
+      16920,
+      16921,
       16922
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_22": true,
   "occludes_1": false,
   "unknown_28": 32,
   "ambient": 25,
   "contrast": 25,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

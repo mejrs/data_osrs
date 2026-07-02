@@ -1,11 +1,16 @@
 {
   "id": 20789,
   "name": "Lever",
-  "models_2": [
-    31313
-  ],
+  "object_models": {
+    "models": [
+      31313
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

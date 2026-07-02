@@ -1,11 +1,13 @@
 {
   "id": 44623,
   "name": "Crucible (partially full)",
-  "models_2": [
-    44843
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      44843
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 0,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 30,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 152,
   "name": "Compost heap",
-  "models_2": [
-    1428
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1428
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -15,5 +17,8 @@
   ],
   "textures": {
     "2": 23
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 10146,
   "name": "Brewing vat",
-  "models_2": [
-    9865
-  ],
+  "object_models": {
+    "models": [
+      9865
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
-  "scale_y": 115
+  "scale_y": 115,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

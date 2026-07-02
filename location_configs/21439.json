@@ -1,8 +1,13 @@
 {
   "id": 21439,
   "name": "Swords",
-  "models_2": [
-    22025
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      22025
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

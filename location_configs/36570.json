@@ -1,16 +1,21 @@
 {
   "id": 36570,
   "name": "Silver stall",
-  "models_2": [
-    37897
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37897
+    ]
+  },
   "actions": [
     null,
     "Steal-from",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 11280,
   "name": "Sail",
-  "models_2": [
-    1858
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1858
+    ]
+  },
   "colours": [
     [
       5559,
@@ -14,5 +16,8 @@
       5673,
       5904
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

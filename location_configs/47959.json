@@ -1,13 +1,18 @@
 {
   "id": 47959,
   "name": "Bath pipes",
-  "models_2": [
-    1264
-  ],
+  "object_models": {
+    "models": [
+      1264
+    ]
+  },
   "colours": [
     [
       3484,
       43034
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

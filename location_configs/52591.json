@@ -1,9 +1,11 @@
 {
   "id": 52591,
   "name": "Hopper",
-  "models_2": [
-    25317
-  ],
+  "object_models": {
+    "models": [
+      25317
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Fill",
@@ -31,5 +33,8 @@
       5388
     ]
   ],
-  "category": 513
+  "category": 513,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

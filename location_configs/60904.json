@@ -1,0 +1,18 @@
+{
+  "id": 60904,
+  "name": "Post",
+  "object_models": {
+    "models": [
+      60532
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30,
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

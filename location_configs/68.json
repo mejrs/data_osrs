@@ -1,9 +1,11 @@
 {
   "id": 68,
   "name": "Beehive",
-  "models_2": [
-    1505
-  ],
+  "object_models": {
+    "models": [
+      1505
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Take-from",
@@ -15,5 +17,8 @@
   "unknown_78": {
     "unknown_1": 3045,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

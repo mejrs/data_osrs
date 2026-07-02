@@ -1,11 +1,16 @@
 {
   "id": 1719,
-  "models_2": [
-    1547
-  ],
+  "object_models": {
+    "models": [
+      1547
+    ]
+  },
   "unknown_19": 0,
   "textures": {
     "2": 23
   },
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 8676,
   "name": "Diseased watermelons",
-  "models_2": [
-    8181,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8181,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Cure",
@@ -30,5 +32,8 @@
       7853,
       13217
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

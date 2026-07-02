@@ -1,9 +1,11 @@
 {
   "id": 41993,
-  "models_2": [
-    42382
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      42382
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -32,5 +34,8 @@
     ]
   ],
   "mirror": true,
-  "scale_z": 64
+  "scale_z": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 42151,
   "name": "Bow case",
-  "models_2": [
-    24722
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      24722
+    ]
+  },
   "ambient": 10,
   "contrast": 5,
   "colours": [
@@ -20,5 +22,8 @@
       7830,
       3346
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

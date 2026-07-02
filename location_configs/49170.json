@@ -1,9 +1,11 @@
 {
   "id": 49170,
   "name": "Ancient Icon",
-  "models_2": [
-    47105
-  ],
+  "object_models": {
+    "models": [
+      47105
+    ]
+  },
   "ambient": 0,
   "actions": [
     "Search",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "contrast": 35
+  "contrast": 35,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

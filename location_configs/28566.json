@@ -1,10 +1,12 @@
 {
   "id": 28566,
   "name": "Altar",
-  "models_2": [
-    30940
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      30940
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Pray",
@@ -14,5 +16,8 @@
     null
   ],
   "category": 897,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

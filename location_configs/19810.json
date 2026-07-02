@@ -1,10 +1,15 @@
 {
   "id": 19810,
   "name": "Large cave",
-  "models_2": [
-    19358
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      19358
+    ]
+  },
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

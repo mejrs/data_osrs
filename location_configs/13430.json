@@ -1,8 +1,13 @@
 {
   "id": 13430,
   "name": "Shayzien banner",
-  "models_2": [
-    31093
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      31093
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

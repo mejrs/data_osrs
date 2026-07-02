@@ -1,11 +1,13 @@
 {
   "id": 33211,
   "name": "<col=ffff00>Mountain goat</col>",
-  "models_2": [
-    20273,
-    20280,
-    20275
-  ],
+  "object_models": {
+    "models": [
+      20273,
+      20280,
+      20275
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 5339,
@@ -40,6 +42,9 @@
   "scale_y": 138,
   "scale_z": 138,
   "mapscene": 82,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

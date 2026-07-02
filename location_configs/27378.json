@@ -1,11 +1,13 @@
 {
   "id": 27378,
   "name": "Buffet table",
-  "models_2": [
-    30962,
-    30963
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      30962,
+      30963
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

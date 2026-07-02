@@ -1,7 +1,12 @@
 {
   "id": 3015,
   "name": "Dishes",
-  "models_2": [
-    25189
-  ]
+  "object_models": {
+    "models": [
+      25189
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

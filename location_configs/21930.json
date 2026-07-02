@@ -1,9 +1,14 @@
 {
   "id": 21930,
   "name": "Cage",
-  "models_2": [
-    22710
-  ],
+  "object_models": {
+    "models": [
+      22710
+    ]
+  },
   "unknown_24": 5847,
-  "ambient": 15
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

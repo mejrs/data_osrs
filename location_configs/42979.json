@@ -1,10 +1,15 @@
 {
   "id": 42979,
   "name": "Lock",
-  "models_2": [
-    43366
-  ],
+  "object_models": {
+    "models": [
+      43366
+    ]
+  },
   "ambient": 50,
   "contrast": 20,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

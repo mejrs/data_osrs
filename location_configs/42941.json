@@ -1,10 +1,12 @@
 {
   "id": 42941,
   "name": "Ancient Barrier",
-  "models_2": [
-    43208
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      43208
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 9203,
@@ -33,5 +35,8 @@
     ]
   ],
   "model": false,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

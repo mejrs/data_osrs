@@ -1,10 +1,12 @@
 {
   "id": 25821,
   "name": "Bow cabinet",
-  "models_2": [
-    1243
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1243
+    ]
+  },
   "colours": [
     [
       7952,
@@ -14,5 +16,8 @@
       5772,
       6435
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 18834,
   "name": "Troll ladder",
-  "models_2": [
-    19117
-  ],
+  "object_models": {
+    "models": [
+      19117
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -15,5 +17,8 @@
     null
   ],
   "unknown_75": 0,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

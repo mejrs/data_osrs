@@ -1,9 +1,11 @@
 {
   "id": 56370,
   "name": "Fire",
-  "models_2": [
-    14290
-  ],
+  "object_models": {
+    "models": [
+      14290
+    ]
+  },
   "unknown_24": 476,
   "unknown_27": false,
   "ambient": 100,
@@ -16,5 +18,8 @@
   ],
   "contrast": 100,
   "scale_y": 200,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

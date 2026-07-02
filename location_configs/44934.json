@@ -1,11 +1,13 @@
 {
   "id": 44934,
   "name": "Opened sarcophagus",
-  "models_2": [
-    46285
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      46285
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_24": 9504,
@@ -18,5 +20,8 @@
     null
   ],
   "contrast": 30,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

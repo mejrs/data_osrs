@@ -1,12 +1,14 @@
 {
   "id": 28893,
-  "models": [
-    [
-      22,
-      31598
-    ]
-  ],
   "name": "Stone",
+  "object_models_and_types": {
+    "models": [
+      31598
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_21": true,
   "unknown_22": true,
@@ -16,5 +18,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 8158,
   "name": "Asgarnian Hops",
-  "models_2": [
-    8204,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8204,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -12,5 +14,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

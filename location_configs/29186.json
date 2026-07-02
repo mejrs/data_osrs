@@ -1,11 +1,13 @@
 {
   "id": 29186,
   "name": "Mounted Cooking Cape",
-  "models_2": [
-    32174
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32174
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Admire",
@@ -41,5 +43,8 @@
       51986
     ]
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 4110,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       41770
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "colours": [
     [
       24,
@@ -19,5 +21,8 @@
       61,
       5652
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

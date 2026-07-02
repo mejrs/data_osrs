@@ -1,16 +1,16 @@
 {
   "id": 33593,
-  "models": [
-    [
-      10,
-      30672
-    ],
-    [
-      22,
-      30674
-    ]
-  ],
   "name": "Rocks",
+  "object_models_and_types": {
+    "models": [
+      30672,
+      30674
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "actions": [
@@ -21,5 +21,8 @@
     null
   ],
   "category": 1298,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

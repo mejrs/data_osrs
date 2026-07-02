@@ -1,9 +1,11 @@
 {
   "id": 58415,
   "name": "Palm",
-  "models_2": [
-    58683
-  ],
+  "object_models": {
+    "models": [
+      58683
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Shake",
@@ -15,5 +17,8 @@
   "contrast": 15,
   "category": 2300,
   "unknown_81": 80,
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

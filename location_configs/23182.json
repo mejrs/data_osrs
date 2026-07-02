@@ -1,7 +1,12 @@
 {
   "id": 23182,
   "name": "Barrel",
-  "models_2": [
-    24084
-  ]
+  "object_models": {
+    "models": [
+      24084
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,15 +1,20 @@
 {
   "id": 48347,
-  "models_2": [
-    49250
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      49250
+    ]
+  },
   "unknown_19": 0,
   "unknown_24": 10264,
   "ambient": -100,
   "contrast": 20,
   "scale_x": 192,
   "scale_y": 192,
-  "scale_z": 192
+  "scale_z": 192,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

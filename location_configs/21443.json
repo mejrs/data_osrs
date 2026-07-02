@@ -1,8 +1,13 @@
 {
   "id": 21443,
   "name": "Ore table",
-  "models_2": [
-    22019
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      22019
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

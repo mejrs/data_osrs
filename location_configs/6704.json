@@ -1,7 +1,12 @@
 {
   "id": 6704,
   "name": "Boulders",
-  "models_2": [
-    15625
-  ]
+  "object_models": {
+    "models": [
+      15625
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 27522,
   "name": "Apple basket",
-  "models_2": [
-    30227
-  ],
+  "object_models": {
+    "models": [
+      30227
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 20,
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

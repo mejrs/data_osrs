@@ -1,16 +1,16 @@
 {
   "id": 2528,
-  "models": [
-    [
-      0,
-      9476
-    ],
-    [
-      9,
-      9477
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      9476,
+      9477
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -18,5 +18,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

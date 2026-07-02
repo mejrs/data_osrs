@@ -1,10 +1,15 @@
 {
   "id": 22376,
   "name": "Granary wall",
-  "models_2": [
-    22828
-  ],
+  "object_models": {
+    "models": [
+      22828
+    ]
+  },
   "unknown_22": true,
   "ambient": 35,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

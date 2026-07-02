@@ -1,7 +1,12 @@
 {
   "id": 16704,
   "name": "Sink",
-  "models_2": [
-    16686
-  ]
+  "object_models": {
+    "models": [
+      16686
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

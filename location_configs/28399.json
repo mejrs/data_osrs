@@ -1,9 +1,11 @@
 {
   "id": 28399,
   "name": "Books",
-  "models_2": [
-    30504
-  ],
+  "object_models": {
+    "models": [
+      30504
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "colours": [
@@ -19,5 +21,8 @@
       7384,
       10295
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

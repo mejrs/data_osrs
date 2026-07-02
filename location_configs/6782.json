@@ -1,10 +1,12 @@
 {
   "id": 6782,
   "name": "Limestone fireplace",
-  "models_2": [
-    12612
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12612
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -15,5 +17,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

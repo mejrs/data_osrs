@@ -1,9 +1,14 @@
 {
   "id": 11337,
   "name": "Bamboo Desk",
-  "models_2": [
-    11159
-  ],
+  "object_models": {
+    "models": [
+      11159
+    ]
+  },
   "is_transparent": true,
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

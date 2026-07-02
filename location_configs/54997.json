@@ -1,9 +1,14 @@
 {
   "id": 54997,
   "name": "Wine drinking bowl",
-  "models_2": [
-    54878
-  ],
+  "object_models": {
+    "models": [
+      54878
+    ]
+  },
   "ambient": 30,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

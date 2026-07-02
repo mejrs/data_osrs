@@ -1,11 +1,13 @@
 {
   "id": 51364,
   "name": "Camp barrier",
-  "models_2": [
-    44678
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      44678
+    ]
+  },
   "unknown_19": 1,
   "ambient": 0,
   "contrast": 20,
@@ -22,5 +24,8 @@
       26673,
       165
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

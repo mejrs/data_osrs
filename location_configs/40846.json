@@ -1,12 +1,14 @@
 {
   "id": 40846,
   "name": "Frozen Pool of Rejuvenation",
-  "models_2": [
-    32112,
-    41515
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32112,
+      41515
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -18,5 +20,8 @@
     null,
     null
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

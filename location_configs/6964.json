@@ -1,11 +1,16 @@
 {
   "id": 6964,
-  "models": [
-    [
-      4,
+  "object_models_and_types": {
+    "models": [
       6972
+    ],
+    "types": [
+      4
     ]
-  ],
+  },
   "ambient": 20,
-  "contrast": 50
+  "contrast": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

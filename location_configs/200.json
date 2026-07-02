@@ -1,7 +1,12 @@
 {
   "id": 200,
   "name": "Lamp",
-  "models_2": [
-    1324
-  ]
+  "object_models": {
+    "models": [
+      1324
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

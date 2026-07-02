@@ -1,12 +1,14 @@
 {
   "id": 40904,
-  "models": [
-    [
-      0,
-      41633
-    ]
-  ],
   "name": "Stained-glass window",
+  "object_models_and_types": {
+    "models": [
+      41633
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     null,
     null,
@@ -15,5 +17,8 @@
     "Remove"
   ],
   "category": 206,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

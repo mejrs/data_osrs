@@ -1,21 +1,24 @@
 {
   "id": 46243,
-  "models": [
-    [
-      0,
-      12915
-    ],
-    [
-      3,
-      12916
-    ]
-  ],
   "name": "Combat ring",
+  "object_models_and_types": {
+    "models": [
+      12915,
+      12916
+    ],
+    "types": [
+      0,
+      3
+    ]
+  },
   "actions": [
     "Climb-over",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

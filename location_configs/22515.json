@@ -1,12 +1,14 @@
 {
   "id": 22515,
   "name": "Wilf (very sick)",
-  "models_2": [
-    23203,
-    23196
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      23203,
+      23196
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 5984,
@@ -18,5 +20,8 @@
     null,
     null
   ],
-  "category": 646
+  "category": 646,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

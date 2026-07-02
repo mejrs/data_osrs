@@ -1,10 +1,12 @@
 {
   "id": 3018,
   "name": "Sword case",
-  "models_2": [
-    25197
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      25197
+    ]
+  },
   "colours": [
     [
       788,
@@ -14,5 +16,8 @@
       11187,
       127
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,16 +1,21 @@
 {
   "id": 39550,
   "name": "Death's Coffer",
-  "models_2": [
-    40609
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      40609
+    ]
+  },
   "actions": [
     "Sacrifice",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

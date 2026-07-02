@@ -1,15 +1,20 @@
 {
   "id": 33205,
   "name": "<col=ffff00>Pebble</col>",
-  "models_2": [
-    35829
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      35829
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 8154,
   "unknown_27": false,
   "mapscene": 82,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

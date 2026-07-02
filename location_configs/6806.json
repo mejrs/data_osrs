@@ -1,8 +1,13 @@
 {
   "id": 6806,
   "name": "Stool",
-  "models_2": [
-    10089
-  ],
-  "category": 206
+  "object_models": {
+    "models": [
+      10089
+    ]
+  },
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

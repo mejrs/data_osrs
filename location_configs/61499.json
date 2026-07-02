@@ -1,0 +1,50 @@
+{
+  "id": 61499,
+  "object_models_and_types": {
+    "models": [
+      2255
+    ],
+    "types": [
+      4
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 481,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      28,
+      152
+    ],
+    [
+      33,
+      156
+    ],
+    [
+      4886,
+      272
+    ],
+    [
+      7104,
+      960
+    ],
+    [
+      6069,
+      960
+    ],
+    [
+      5035,
+      960
+    ],
+    [
+      2977,
+      960
+    ]
+  ],
+  "translate_x": 14,
+  "translate_y": 65436,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

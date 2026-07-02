@@ -1,10 +1,15 @@
 {
   "id": 44077,
   "name": "Cactus",
-  "models_2": [
-    44721
-  ],
+  "object_models": {
+    "models": [
+      44721
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 11182,
   "name": "Mossy rock",
-  "models_2": [
-    2162
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      2162
+    ]
+  },
   "is_transparent": true,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

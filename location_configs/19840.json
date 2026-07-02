@@ -1,15 +1,20 @@
 {
   "id": 19840,
   "name": "Fern",
-  "models_2": [
-    1613
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1613
+    ]
+  },
   "unknown_17": false,
   "colours": [
     [
       17304,
       16293
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

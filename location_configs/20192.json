@@ -1,12 +1,14 @@
 {
   "id": 20192,
-  "models": [
-    [
-      4,
-      20671
-    ]
-  ],
   "name": "Ten",
+  "object_models_and_types": {
+    "models": [
+      20671
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
   "colours": [
@@ -26,5 +28,8 @@
       5524,
       5532
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

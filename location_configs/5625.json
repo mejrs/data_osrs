@@ -1,15 +1,20 @@
 {
   "id": 5625,
   "name": "Ned's Table",
-  "models_2": [
-    1213,
-    5491
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1213,
+      5491
+    ]
+  },
   "is_transparent": true,
   "textures": {
     "5": 16,
     "22": 16
   },
-  "category": 156
+  "category": 156,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

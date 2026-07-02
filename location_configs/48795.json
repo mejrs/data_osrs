@@ -1,11 +1,13 @@
 {
   "id": 48795,
   "name": "Steps",
-  "models_2": [
-    48766
-  ],
   "dim_x": 3,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      48766
+    ]
+  },
   "unknown_22": true,
   "ambient": 15,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

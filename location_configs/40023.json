@@ -1,9 +1,14 @@
 {
   "id": 40023,
   "name": "Sink",
-  "models_2": [
-    40822
-  ],
+  "object_models": {
+    "models": [
+      40822
+    ]
+  },
   "contrast": 10,
-  "category": 175
+  "category": 175,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

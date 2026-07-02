@@ -1,10 +1,12 @@
 {
   "id": 10582,
   "name": "Banner",
-  "models_2": [
-    10253,
-    10243
-  ],
+  "object_models": {
+    "models": [
+      10253,
+      10243
+    ]
+  },
   "colours": [
     [
       5662,
@@ -18,5 +20,8 @@
       7265,
       7265
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

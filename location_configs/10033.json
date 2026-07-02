@@ -1,14 +1,19 @@
 {
   "id": 10033,
   "name": "Wall support",
-  "models_2": [
-    9680
-  ],
+  "object_models": {
+    "models": [
+      9680
+    ]
+  },
   "actions": [
     "Climb",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

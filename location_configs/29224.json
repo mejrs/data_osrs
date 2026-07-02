@@ -1,11 +1,13 @@
 {
   "id": 29224,
   "name": "Mounted Woodcutting Cape",
-  "models_2": [
-    32201
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32201
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Admire",
@@ -41,5 +43,8 @@
       6819
     ]
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

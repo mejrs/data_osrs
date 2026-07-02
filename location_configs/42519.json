@@ -1,16 +1,16 @@
 {
   "id": 42519,
-  "models": [
-    [
-      0,
-      18595
-    ],
-    [
-      2,
-      35759
-    ]
-  ],
   "name": "Arena",
+  "object_models_and_types": {
+    "models": [
+      18595,
+      35759
+    ],
+    "types": [
+      0,
+      2
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -22,5 +22,8 @@
     "View"
   ],
   "category": 1246,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

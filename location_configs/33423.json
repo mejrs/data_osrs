@@ -1,19 +1,35 @@
 {
   "id": 33423,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    55583,
-    55873
-  ],
-  "dim_x": 2,
-  "dim_y": 2,
+  "name": "Poisonous bile",
+  "object_models": {
+    "models": [
+      56411
+    ]
+  },
+  "unknown_17": false,
   "unknown_19": 1,
-  "unknown_27": false,
-  "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (BLR)",
-    "Remove"
-  ]
+  "colours": [
+    [
+      8150,
+      13239
+    ],
+    [
+      8128,
+      13231
+    ],
+    [
+      8006,
+      13229
+    ],
+    [
+      8018,
+      13235
+    ]
+  ],
+  "category": 2454,
+  "scale_x": 100,
+  "scale_z": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

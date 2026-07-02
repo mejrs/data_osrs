@@ -1,7 +1,12 @@
 {
   "id": 12408,
   "name": "Stool",
-  "models_2": [
-    13482
-  ]
+  "object_models": {
+    "models": [
+      13482
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

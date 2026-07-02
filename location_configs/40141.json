@@ -1,9 +1,11 @@
 {
   "id": 40141,
   "name": "Grandfather Clock",
-  "models_2": [
-    40853
-  ],
+  "object_models": {
+    "models": [
+      40853
+    ]
+  },
   "ambient": 10,
   "actions": [
     null,
@@ -22,5 +24,8 @@
       4502,
       7954
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

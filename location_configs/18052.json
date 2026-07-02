@@ -1,9 +1,11 @@
 {
   "id": 18052,
   "name": "Broken rune case",
-  "models_2": [
-    17883
-  ],
+  "object_models": {
+    "models": [
+      17883
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Search",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

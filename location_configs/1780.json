@@ -1,7 +1,12 @@
 {
   "id": 1780,
   "name": "Sails",
-  "models_2": [
-    1372
-  ]
+  "object_models": {
+    "models": [
+      1372
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

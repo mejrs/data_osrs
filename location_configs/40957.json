@@ -1,10 +1,12 @@
 {
   "id": 40957,
   "name": "Rocks",
-  "models_2": [
-    16893,
-    16894
-  ],
+  "object_models": {
+    "models": [
+      16893,
+      16894
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -37,5 +39,8 @@
       16
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

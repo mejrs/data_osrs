@@ -1,13 +1,15 @@
 {
   "id": 39847,
-  "name": "Herb patch",
-  "models_2": [
-    19148,
-    19152,
-    19144
-  ],
+  "name": "Toadflax",
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      19148,
+      19152,
+      19144
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
@@ -30,5 +32,8 @@
       19992,
       22414
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

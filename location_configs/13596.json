@@ -1,15 +1,20 @@
 {
   "id": 13596,
   "name": "Firebox",
-  "models_2": [
-    14903
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      14903
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 3976,
   "unknown_78": {
     "unknown_1": 2066,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

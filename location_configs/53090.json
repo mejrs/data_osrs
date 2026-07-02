@@ -1,9 +1,14 @@
 {
   "id": 53090,
   "name": "Pile of fake eggs",
-  "models_2": [
-    53051
-  ],
+  "object_models": {
+    "models": [
+      53051
+    ]
+  },
   "ambient": 10,
-  "contrast": 75
+  "contrast": 75,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

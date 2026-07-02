@@ -1,9 +1,11 @@
 {
   "id": 59304,
   "name": "Shifter corpse",
-  "models_2": [
-    57631
-  ],
+  "object_models": {
+    "models": [
+      57631
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Chart",
@@ -14,5 +16,8 @@
   ],
   "contrast": 15,
   "category": 2317,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

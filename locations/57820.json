@@ -27,17 +27,17 @@
     "y": 36,
     "id": 57820,
     "type": 10,
-    "rotation": 2
+    "rotation": 3
   },
   {
     "plane": 0,
     "i": 48,
     "j": 138,
-    "x": 22,
-    "y": 37,
+    "x": 23,
+    "y": 36,
     "id": 57820,
     "type": 10,
-    "rotation": 3
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -77,7 +77,7 @@
     "y": 23,
     "id": 57820,
     "type": 10,
-    "rotation": 2
+    "rotation": 1
   },
   {
     "plane": 0,

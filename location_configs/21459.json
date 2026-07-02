@@ -1,7 +1,12 @@
 {
   "id": 21459,
   "name": "Arch",
-  "models_2": [
-    22063
-  ]
+  "object_models": {
+    "models": [
+      22063
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

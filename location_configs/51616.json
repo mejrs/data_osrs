@@ -1,9 +1,11 @@
 {
   "id": 51616,
   "name": "Guildmaster's chest",
-  "models_2": [
-    52412
-  ],
+  "object_models": {
+    "models": [
+      52412
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -21,5 +23,8 @@
       7768
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

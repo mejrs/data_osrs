@@ -1,9 +1,11 @@
 {
   "id": 36066,
   "name": "Phren Roots",
-  "models_2": [
-    37451
-  ],
+  "object_models": {
+    "models": [
+      37451
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Chop",
@@ -16,5 +18,8 @@
   "category": 1355,
   "scale_x": 104,
   "scale_y": 104,
-  "scale_z": 104
+  "scale_z": 104,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

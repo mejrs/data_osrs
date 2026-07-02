@@ -1,11 +1,13 @@
 {
   "id": 3643,
   "name": "Statue",
-  "models_2": [
-    7708
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7708
+    ]
+  },
   "ambient": 35,
   "colours": [
     [
@@ -28,5 +30,8 @@
   "scale_x": 136,
   "scale_y": 136,
   "scale_z": 136,
-  "translate_x": 18
+  "translate_x": 18,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

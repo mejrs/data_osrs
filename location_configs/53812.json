@@ -1,12 +1,14 @@
 {
   "id": 53812,
-  "models": [
-    [
-      22,
-      53524
-    ]
-  ],
   "name": "Skeletal remains",
+  "object_models_and_types": {
+    "models": [
+      53524
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "colours": [
@@ -14,5 +16,8 @@
       6241,
       8377
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

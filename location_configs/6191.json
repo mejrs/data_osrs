@@ -1,8 +1,13 @@
 {
   "id": 6191,
   "name": "Warhammer",
-  "models_2": [
-    5918,
-    5931
-  ]
+  "object_models": {
+    "models": [
+      5918,
+      5931
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 24501,
   "name": "Short planks",
-  "models_2": [
-    25431
-  ]
+  "object_models": {
+    "models": [
+      25431
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

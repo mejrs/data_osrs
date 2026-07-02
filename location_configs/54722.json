@@ -1,12 +1,14 @@
 {
   "id": 54722,
-  "models": [
-    [
-      22,
-      9235
-    ]
-  ],
   "name": "Loose rocks",
+  "object_models_and_types": {
+    "models": [
+      9235
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -24,5 +26,8 @@
       6689,
       8483
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

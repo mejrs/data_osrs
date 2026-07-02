@@ -1,11 +1,13 @@
 {
   "id": 41651,
   "name": "Piano",
-  "models_2": [
-    25057
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      25057
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Entertain",
@@ -13,5 +15,8 @@
     "Background-music",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 11232,
   "name": "Open chest",
-  "models_2": [
-    11205
-  ],
+  "object_models": {
+    "models": [
+      11205
+    ]
+  },
   "actions": [
     "Plunder",
     null,
@@ -37,5 +39,8 @@
       6930
     ]
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

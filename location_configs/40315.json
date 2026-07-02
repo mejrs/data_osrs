@@ -1,9 +1,11 @@
 {
   "id": 40315,
   "name": "Fallen tree",
-  "models_2": [
-    1633
-  ],
+  "object_models": {
+    "models": [
+      1633
+    ]
+  },
   "colours": [
     [
       5029,
@@ -13,5 +15,8 @@
       4814,
       6684
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

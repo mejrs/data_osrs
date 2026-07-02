@@ -1,12 +1,14 @@
 {
   "id": 45024,
-  "models": [
-    [
-      0,
-      46007
-    ]
-  ],
   "name": "Hole",
+  "object_models_and_types": {
+    "models": [
+      46007
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -34,5 +36,8 @@
       40458,
       40458
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

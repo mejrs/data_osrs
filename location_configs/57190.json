@@ -1,11 +1,16 @@
 {
   "id": 57190,
   "name": "Planks",
-  "models_2": [
-    57006
-  ],
+  "object_models": {
+    "models": [
+      57006
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,8 +1,13 @@
 {
   "id": 16862,
   "name": "Crate",
-  "models_2": [
-    16531
-  ],
-  "category": 529
+  "object_models": {
+    "models": [
+      16531
+    ]
+  },
+  "category": 529,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

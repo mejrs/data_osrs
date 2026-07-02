@@ -1,8 +1,13 @@
 {
   "id": 659,
   "name": "Charred bones",
-  "models_2": [
-    2149
-  ],
-  "unknown_17": false
+  "object_models": {
+    "models": [
+      2149
+    ]
+  },
+  "unknown_17": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

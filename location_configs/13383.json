@@ -1,13 +1,15 @@
 {
   "id": 13383,
   "name": "Weapons Rack",
-  "models_2": [
-    12178,
-    12179,
-    12181,
-    12180
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      12178,
+      12179,
+      12181,
+      12180
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -15,5 +17,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

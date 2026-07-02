@@ -1,12 +1,14 @@
 {
   "id": 13311,
-  "models": [
-    [
-      4,
-      12472
-    ]
-  ],
   "name": "Pipe",
+  "object_models_and_types": {
+    "models": [
+      12472
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 20,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

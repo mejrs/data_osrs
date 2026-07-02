@@ -1,9 +1,11 @@
 {
   "id": 16640,
   "name": "Mast",
-  "models_2": [
-    1868
-  ],
+  "object_models": {
+    "models": [
+      1868
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -24,5 +26,8 @@
       53,
       17583
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

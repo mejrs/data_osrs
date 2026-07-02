@@ -1,8 +1,13 @@
 {
   "id": 8743,
   "name": "Tree",
-  "models_2": [
-    8324
-  ],
-  "dim_y": 4
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      8324
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 48501,
-  "models": [
-    [
-      22,
-      1708
-    ]
-  ],
   "name": "Tendril",
+  "object_models_and_types": {
+    "models": [
+      1708
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -22,5 +24,8 @@
       652
     ]
   ],
-  "category": 1826
+  "category": 1826,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

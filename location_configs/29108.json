@@ -1,9 +1,11 @@
 {
   "id": 29108,
   "name": "Bank Deposit Pot",
-  "models_2": [
-    2199
-  ],
+  "object_models": {
+    "models": [
+      2199
+    ]
+  },
   "actions": [
     "Deposit",
     null,
@@ -20,5 +22,8 @@
       5673,
       5673
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

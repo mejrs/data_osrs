@@ -1,12 +1,14 @@
 {
   "id": 18853,
   "name": "Dead hardy goutweed",
-  "models_2": [
-    19141,
-    19143
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      19141,
+      19143
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "colours": [
@@ -22,5 +24,8 @@
       19992,
       10508
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

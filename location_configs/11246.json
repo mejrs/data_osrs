@@ -1,9 +1,11 @@
 {
   "id": 11246,
   "name": "Repair Locker",
-  "models_2": [
-    11129
-  ],
+  "object_models": {
+    "models": [
+      11129
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -21,5 +23,8 @@
       6806
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

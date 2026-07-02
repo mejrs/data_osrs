@@ -1,11 +1,13 @@
 {
   "id": 47921,
   "name": "Table",
-  "models_2": [
-    48553
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      48553
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -36,5 +38,8 @@
       3470,
       43156
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

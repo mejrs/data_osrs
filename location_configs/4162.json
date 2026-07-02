@@ -1,12 +1,14 @@
 {
   "id": 4162,
-  "models": [
-    [
-      4,
-      4298
-    ]
-  ],
   "name": "Pipe",
+  "object_models_and_types": {
+    "models": [
+      4298
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -41,5 +43,8 @@
       12,
       6020
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 47389,
   "name": "Cabinet",
-  "models_2": [
-    1187
-  ],
+  "object_models": {
+    "models": [
+      1187
+    ]
+  },
   "ambient": 30,
   "contrast": 20,
   "colours": [
@@ -23,5 +25,8 @@
       70,
       49
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

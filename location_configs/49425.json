@@ -1,11 +1,13 @@
 {
   "id": 49425,
   "name": "Crate",
-  "models_2": [
-    49085
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      49085
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 15,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

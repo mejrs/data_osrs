@@ -1,0 +1,34 @@
+{
+  "id": 61188,
+  "name": "Large door",
+  "object_models_and_types": {
+    "models": [
+      3544
+    ],
+    "types": [
+      0
+    ]
+  },
+  "ambient": 30,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6930,
+      7566
+    ]
+  ],
+  "textures": {
+    "16": 5
+  },
+  "category": 2458,
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

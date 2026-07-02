@@ -1,12 +1,14 @@
 {
   "id": 54116,
-  "models": [
-    [
-      22,
-      54200
-    ]
-  ],
   "name": "Rug",
+  "object_models_and_types": {
+    "models": [
+      54200
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "actions": [
@@ -22,5 +24,9 @@
       12
     ]
   ],
-  "category": 206
+  "category": 206,
+  "raise": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

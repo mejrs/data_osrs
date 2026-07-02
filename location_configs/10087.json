@@ -1,9 +1,11 @@
 {
   "id": 10087,
   "name": "Ominous Fishing Spot",
-  "models_2": [
-    1491
-  ],
+  "object_models": {
+    "models": [
+      1491
+    ]
+  },
   "unknown_24": 447,
   "actions": [
     "Lure",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "category": 158
+  "category": 158,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

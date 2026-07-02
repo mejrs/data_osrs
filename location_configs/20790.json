@@ -1,9 +1,11 @@
 {
   "id": 20790,
   "name": "Entrance",
-  "models_2": [
-    15589
-  ],
+  "object_models": {
+    "models": [
+      15589
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "actions": [
@@ -34,5 +36,8 @@
       3974,
       16
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

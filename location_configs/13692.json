@@ -1,11 +1,13 @@
 {
   "id": 13692,
   "name": "Decoration",
-  "models_2": [
-    12585,
-    12586
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      12585,
+      12586
+    ]
+  },
   "actions": [
     null,
     null,
@@ -13,5 +15,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

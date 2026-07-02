@@ -1,10 +1,12 @@
 {
   "id": 30474,
   "name": "Dead Teak",
-  "models_2": [
-    8038,
-    7768
-  ],
+  "object_models": {
+    "models": [
+      8038,
+      7768
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Clear",
@@ -18,5 +20,8 @@
       5665,
       5276
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

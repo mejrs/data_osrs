@@ -1,10 +1,12 @@
 {
   "id": 10136,
   "name": "Wooden Stair",
-  "models_2": [
-    9882
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      9882
+    ]
+  },
   "actions": [
     "Climb-up",
     null,
@@ -13,5 +15,8 @@
     null
   ],
   "unknown_69": 30,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

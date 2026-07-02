@@ -1,12 +1,14 @@
 {
   "id": 33129,
-  "models": [
-    [
-      4,
-      35762
-    ]
-  ],
   "name": "Green banner",
+  "object_models_and_types": {
+    "models": [
+      35762
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 8146,
   "ambient": 15,
@@ -24,5 +26,8 @@
       43800,
       22422
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

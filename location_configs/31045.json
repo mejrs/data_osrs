@@ -1,9 +1,11 @@
 {
   "id": 31045,
   "name": "Large Rock",
-  "models_2": [
-    33529
-  ],
+  "object_models": {
+    "models": [
+      33529
+    ]
+  },
   "unknown_22": true,
   "ambient": 15,
   "actions": [
@@ -17,5 +19,8 @@
   "scale_x": 64,
   "scale_y": 64,
   "scale_z": 64,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

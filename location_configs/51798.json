@@ -1,10 +1,12 @@
 {
   "id": 51798,
-  "models_2": [
-    40772
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      40772
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
@@ -24,5 +26,8 @@
       7746
     ]
   ],
-  "mapscene": 24
+  "mapscene": 24,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

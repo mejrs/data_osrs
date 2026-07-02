@@ -1,10 +1,12 @@
 {
   "id": 49107,
   "name": "Crevice",
-  "models_2": [
-    47045
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      47045
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 0,
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 35,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

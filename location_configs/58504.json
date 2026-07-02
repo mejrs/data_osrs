@@ -1,10 +1,38 @@
 {
   "id": 58504,
-  "models_2": [
-    13733
-  ],
+  "object_models": {
+    "models": [
+      2867
+    ]
+  },
+  "is_transparent": true,
   "unknown_19": 0,
-  "unknown_22": true,
-  "mirror": true,
-  "mapscene": 41
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      54164,
+      6435
+    ],
+    [
+      54174,
+      6443
+    ],
+    [
+      54183,
+      6449
+    ],
+    [
+      54193,
+      6451
+    ],
+    [
+      54203,
+      6453
+    ]
+  ],
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

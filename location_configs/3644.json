@@ -1,10 +1,12 @@
 {
   "id": 3644,
   "name": "Trough",
-  "models_2": [
-    14206
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      14206
+    ]
+  },
   "colours": [
     [
       7587,
@@ -18,5 +20,8 @@
       7954,
       7706
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

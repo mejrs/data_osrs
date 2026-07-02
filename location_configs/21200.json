@@ -1,10 +1,15 @@
 {
   "id": 21200,
   "name": "Snow",
-  "models_2": [
-    21657
-  ],
+  "object_models": {
+    "models": [
+      21657
+    ]
+  },
   "unknown_22": true,
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

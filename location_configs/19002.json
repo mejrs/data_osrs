@@ -1,9 +1,11 @@
 {
   "id": 19002,
   "name": "Rope",
-  "models_2": [
-    15870
-  ],
+  "object_models": {
+    "models": [
+      15870
+    ]
+  },
   "actions": [
     "Climb-down",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

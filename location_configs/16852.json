@@ -1,10 +1,15 @@
 {
   "id": 16852,
   "name": "Dice",
-  "models_2": [
-    16794
-  ],
+  "object_models": {
+    "models": [
+      16794
+    ]
+  },
   "unknown_24": 4361,
   "ambient": 30,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

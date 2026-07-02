@@ -1,9 +1,14 @@
 {
   "id": 5791,
   "name": "Statue",
-  "models_2": [
-    1166
-  ],
+  "object_models": {
+    "models": [
+      1166
+    ]
+  },
   "ambient": 0,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

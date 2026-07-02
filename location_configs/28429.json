@@ -1,10 +1,15 @@
 {
   "id": 28429,
   "name": "Bank booth",
-  "models_2": [
-    30497
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      30497
+    ]
+  },
   "is_transparent": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

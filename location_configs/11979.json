@@ -1,9 +1,11 @@
 {
   "id": 11979,
   "name": "Viewing orb",
-  "models_2": [
-    9298
-  ],
+  "object_models": {
+    "models": [
+      9298
+    ]
+  },
   "unknown_24": 2657,
   "ambient": 60,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

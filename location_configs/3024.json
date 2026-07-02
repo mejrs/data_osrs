@@ -1,7 +1,12 @@
 {
   "id": 3024,
   "name": "Stepladder",
-  "models_2": [
-    24892
-  ]
+  "object_models": {
+    "models": [
+      24892
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

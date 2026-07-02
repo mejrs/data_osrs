@@ -1,12 +1,14 @@
 {
   "id": 12334,
   "name": "General Wartface",
-  "models_2": [
-    24233,
-    24235,
-    24236,
-    24234
-  ],
+  "object_models": {
+    "models": [
+      24233,
+      24235,
+      24236,
+      24234
+    ]
+  },
   "actions": [
     "Inspect",
     null,
@@ -34,5 +36,8 @@
   ],
   "scale_x": 148,
   "scale_y": 148,
-  "scale_z": 148
+  "scale_z": 148,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

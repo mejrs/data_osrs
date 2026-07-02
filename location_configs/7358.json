@@ -1,27 +1,21 @@
 {
   "id": 7358,
-  "models": [
-    [
-      0,
-      7714
-    ],
-    [
-      1,
-      7715
-    ],
-    [
-      2,
-      7716
-    ],
-    [
-      3,
-      7717
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      7714,
+      7715,
+      7716,
+      7717,
       7718
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -34,5 +28,8 @@
       10289,
       8406
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

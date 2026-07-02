@@ -1,17 +1,37 @@
 {
   "id": 29578,
-  "name": "Fairy ring",
-  "models_2": [
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
+  "name": "Diseased harralander",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      7873,
+      7767
+    ]
+  },
+  "ambient": 25,
   "actions": [
+    "Cure",
+    "Inspect",
     null,
-    "Configure",
-    "Last-destination (DIS)",
-    null,
+    "Guide",
     null
-  ]
+  ],
+  "colours": [
+    [
+      20364,
+      11148
+    ],
+    [
+      19988,
+      11026
+    ],
+    [
+      19992,
+      10902
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

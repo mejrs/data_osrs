@@ -1,12 +1,14 @@
 {
   "id": 57677,
-  "models": [
-    [
-      0,
-      57335
-    ]
-  ],
   "name": "Ivy",
+  "object_models_and_types": {
+    "models": [
+      57335
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "occludes_1": false,
@@ -45,5 +47,8 @@
   },
   "scale_x": 128,
   "scale_y": 192,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

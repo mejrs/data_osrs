@@ -1,9 +1,11 @@
 {
   "id": 32968,
   "name": "Mercenary",
-  "models_2": [
-    35406
-  ],
+  "object_models": {
+    "models": [
+      35406
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -13,5 +15,8 @@
       4550,
       4645
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

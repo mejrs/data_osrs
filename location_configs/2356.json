@@ -1,14 +1,19 @@
 {
   "id": 2356,
   "name": "Sacks",
-  "models_2": [
-    1482
-  ],
+  "object_models": {
+    "models": [
+      1482
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

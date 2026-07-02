@@ -1,13 +1,18 @@
 {
   "id": 4038,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       1047
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_21": true,
   "scale_x": 112,
   "scale_y": 112,
-  "scale_z": 112
+  "scale_z": 112,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

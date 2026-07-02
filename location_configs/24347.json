@@ -1,9 +1,11 @@
 {
   "id": 24347,
   "name": "Bank booth",
-  "models_2": [
-    11208
-  ],
+  "object_models": {
+    "models": [
+      11208
+    ]
+  },
   "is_transparent": true,
   "actions": [
     null,
@@ -34,5 +36,8 @@
       7566
     ]
   ],
-  "category": 684
+  "category": 684,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 35861,
   "name": "Mushrooms",
-  "models_2": [
-    3917
-  ],
+  "object_models": {
+    "models": [
+      3917
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "actions": [
@@ -26,5 +28,8 @@
       1742,
       7390
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

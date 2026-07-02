@@ -1,10 +1,15 @@
 {
   "id": 24989,
   "name": "Magic wheat",
-  "models_2": [
-    26342
-  ],
+  "object_models": {
+    "models": [
+      26342
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
-  "unknown_24": 6623
+  "unknown_24": 6623,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

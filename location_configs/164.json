@@ -1,7 +1,12 @@
 {
   "id": 164,
   "name": "Strange machine",
-  "models_2": [
-    1172
-  ]
+  "object_models": {
+    "models": [
+      1172
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

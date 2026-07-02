@@ -1,12 +1,14 @@
 {
   "id": 34840,
-  "models": [
-    [
-      0,
-      609
-    ]
-  ],
   "name": "Grubby Door",
+  "object_models_and_types": {
+    "models": [
+      609
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Pick-lock",
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

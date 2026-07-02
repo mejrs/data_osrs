@@ -1,9 +1,11 @@
 {
   "id": 2932,
   "name": "Barrel",
-  "models_2": [
-    1460
-  ],
+  "object_models": {
+    "models": [
+      1460
+    ]
+  },
   "actions": [
     "Smash",
     null,
@@ -16,5 +18,8 @@
       33,
       677
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

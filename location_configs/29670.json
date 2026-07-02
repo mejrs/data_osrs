@@ -1,10 +1,12 @@
 {
   "id": 29670,
   "name": "Redwood tree",
-  "models_2": [
-    32860
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32860
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": -20,
@@ -17,6 +19,9 @@
   ],
   "contrast": 100,
   "category": 953,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "1545": 1
   }

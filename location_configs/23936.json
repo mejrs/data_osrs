@@ -1,9 +1,11 @@
 {
   "id": 23936,
   "name": "Valve",
-  "models_2": [
-    7777
-  ],
+  "object_models": {
+    "models": [
+      7777
+    ]
+  },
   "is_transparent": true,
   "ambient": 15,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

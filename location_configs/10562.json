@@ -1,9 +1,11 @@
 {
   "id": 10562,
   "name": "Bank chest",
-  "models_2": [
-    5273
-  ],
+  "object_models": {
+    "models": [
+      5273
+    ]
+  },
   "actions": [
     "Use",
     null,
@@ -33,5 +35,8 @@
       16454
     ]
   ],
-  "category": 237
+  "category": 237,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

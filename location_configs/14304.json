@@ -1,12 +1,14 @@
 {
   "id": 14304,
-  "models": [
-    [
-      22,
-      1882
-    ]
-  ],
   "name": "Gangplank",
+  "object_models_and_types": {
+    "models": [
+      1882
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -18,5 +20,8 @@
     null,
     null
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

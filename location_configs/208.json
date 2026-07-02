@@ -1,7 +1,12 @@
 {
   "id": 208,
   "name": "Candles",
-  "models_2": [
-    1941
-  ]
+  "object_models": {
+    "models": [
+      1941
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

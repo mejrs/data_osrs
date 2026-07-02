@@ -1,11 +1,13 @@
 {
   "id": 33499,
   "name": "Power Grid",
-  "models_2": [
-    36236
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      36236
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -18,5 +20,8 @@
     null
   ],
   "contrast": 10,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

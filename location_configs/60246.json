@@ -1,37 +1,17 @@
 {
   "id": 60246,
-  "name": "Basic cargo hold",
-  "models_2": [
-    58157
-  ],
-  "is_transparent": true,
-  "unknown_19": 1,
-  "ambient": 15,
-  "actions": [
-    "Open",
-    "Quick-deposit",
-    null,
-    null,
-    "Modify"
-  ],
-  "contrast": 15,
-  "colours": [
-    [
-      21435,
-      5652
-    ],
-    [
-      21464,
-      5656
-    ],
-    [
-      54203,
-      6573
-    ],
-    [
-      54183,
-      6565
+  "name": "Deadman's chest",
+  "dim_x": 4,
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      34264
     ]
-  ],
-  "category": 2343
+  },
+  "unknown_19": 1,
+  "unknown_24": 7823,
+  "unknown_90": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 1662,
   "name": "Bricks",
-  "models_2": [
-    840
-  ],
+  "object_models": {
+    "models": [
+      840
+    ]
+  },
   "ambient": 25,
   "contrast": 25,
   "colours": [
@@ -14,5 +16,8 @@
   ],
   "textures": {
     "2": 23
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

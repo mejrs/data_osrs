@@ -1,9 +1,11 @@
 {
   "id": 29335,
   "name": "Combat dummy space",
-  "models_2": [
-    32311
-  ],
+  "object_models": {
+    "models": [
+      32311
+    ]
+  },
   "actions": [
     null,
     null,
@@ -11,5 +13,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,19 +1,24 @@
 {
   "id": 33745,
   "name": "Potato cactus",
-  "models_2": [
-    36802,
-    36795,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      36802,
+      36795,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick",
     "Inspect",
     null,
     "Guide",
-    null
-  ]
+    "Clear"
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

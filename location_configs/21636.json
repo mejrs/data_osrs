@@ -1,10 +1,15 @@
 {
   "id": 21636,
   "name": "Standard",
-  "models_2": [
-    22168
-  ],
+  "object_models": {
+    "models": [
+      22168
+    ]
+  },
   "unknown_24": 1730,
   "unknown_27": false,
-  "ambient": 40
+  "ambient": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

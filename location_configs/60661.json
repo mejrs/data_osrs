@@ -1,0 +1,36 @@
+{
+  "id": 60661,
+  "object_models": {
+    "models": [
+      59967
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "colours": [
+    [
+      10638,
+      6550
+    ],
+    [
+      10514,
+      6554
+    ],
+    [
+      10518,
+      6558
+    ],
+    [
+      10394,
+      6430
+    ],
+    [
+      10762,
+      6674
+    ]
+  ],
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

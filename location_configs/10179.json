@@ -1,11 +1,16 @@
 {
   "id": 10179,
   "name": "Standing Torch",
-  "models_2": [
-    9953,
-    9954
-  ],
+  "object_models": {
+    "models": [
+      9953,
+      9954
+    ]
+  },
   "unknown_24": 2870,
   "ambient": 35,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

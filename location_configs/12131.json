@@ -1,15 +1,20 @@
 {
   "id": 12131,
   "name": "Stairs",
-  "models_2": [
-    4593
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      4593
+    ]
+  },
   "colours": [
     [
       61,
       5165
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

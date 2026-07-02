@@ -1,9 +1,14 @@
 {
   "id": 4936,
   "name": "Wall support",
-  "models_2": [
-    4902
-  ],
+  "object_models": {
+    "models": [
+      4902
+    ]
+  },
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 27219,
   "name": "Archery target",
-  "models_2": [
-    30002,
-    29999,
-    30000
-  ],
-  "unknown_27": false
+  "object_models": {
+    "models": [
+      30002,
+      29999,
+      30000
+    ]
+  },
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

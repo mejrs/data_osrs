@@ -1,9 +1,11 @@
 {
   "id": 8739,
   "name": "Ardougne Wall Door",
-  "models_2": [
-    8364
-  ],
+  "object_models": {
+    "models": [
+      8364
+    ]
+  },
   "unknown_21": true,
   "ambient": 25,
   "actions": [
@@ -14,5 +16,8 @@
     null
   ],
   "contrast": 25,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

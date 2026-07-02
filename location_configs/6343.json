@@ -1,27 +1,21 @@
 {
   "id": 6343,
-  "models": [
-    [
-      0,
-      6121
-    ],
-    [
-      1,
-      6122
-    ],
-    [
-      2,
-      6123
-    ],
-    [
-      3,
-      6124
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      6121,
+      6122,
+      6123,
+      6124,
       6125
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -31,5 +25,8 @@
       10436
     ]
   ],
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

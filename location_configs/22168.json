@@ -1,19 +1,17 @@
 {
   "id": 22168,
-  "models": [
-    [
-      0,
-      17857
-    ],
-    [
-      1,
-      17858
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      17857,
+      17858,
       17859
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -41,5 +39,8 @@
       10514
     ]
   ],
-  "scale_y": 160
+  "scale_y": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

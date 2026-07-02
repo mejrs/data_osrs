@@ -1,0 +1,17 @@
+{
+  "id": 61032,
+  "name": "Shelf",
+  "object_models": {
+    "models": [
+      60595
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,11 +1,16 @@
 {
   "id": 24903,
-  "models": [
-    [
-      4,
+  "object_models_and_types": {
+    "models": [
       26251
+    ],
+    "types": [
+      4
     ]
-  ],
+  },
   "ambient": 25,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

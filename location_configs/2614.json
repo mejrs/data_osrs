@@ -1,9 +1,11 @@
 {
   "id": 2614,
   "name": "Dynamite(p)",
-  "models_2": [
-    30180
-  ],
+  "object_models": {
+    "models": [
+      30180
+    ]
+  },
   "unknown_17": false,
   "colours": [
     [
@@ -14,5 +16,8 @@
       9670,
       17205
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

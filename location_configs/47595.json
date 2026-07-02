@@ -1,21 +1,24 @@
 {
   "id": 47595,
-  "models": [
-    [
-      10,
-      48877
-    ],
-    [
-      0,
-      48889
-    ]
-  ],
   "name": "Handholds",
+  "object_models_and_types": {
+    "models": [
+      48877,
+      48889
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 5,
   "contrast": 20,
   "model": false,
-  "scale_y": 75
+  "scale_y": 75,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 48716,
   "name": "Old campfire",
-  "models_2": [
-    20055
-  ],
+  "object_models": {
+    "models": [
+      20055
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     "Hidden",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

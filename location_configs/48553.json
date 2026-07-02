@@ -1,11 +1,13 @@
 {
   "id": 48553,
   "name": "Stangled Plant",
-  "models_2": [
-    1645
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1645
+    ]
+  },
   "is_transparent": true,
   "ambient": 30,
   "contrast": 10,
@@ -23,5 +25,8 @@
       3346
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

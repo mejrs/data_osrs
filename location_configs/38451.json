@@ -1,10 +1,12 @@
 {
   "id": 38451,
   "name": "Magical Obelisk",
-  "models_2": [
-    40547,
-    14777
-  ],
+  "object_models": {
+    "models": [
+      40547,
+      14777
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_24": 3944,
@@ -30,5 +32,8 @@
   "unknown_78": {
     "unknown_1": 4403,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

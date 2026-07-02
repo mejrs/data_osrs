@@ -1,7 +1,12 @@
 {
   "id": 648,
   "name": "Stocks",
-  "models_2": [
-    1238
-  ]
+  "object_models": {
+    "models": [
+      1238
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

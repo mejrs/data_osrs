@@ -1,12 +1,14 @@
 {
   "id": 28672,
-  "models": [
-    [
-      22,
-      3910
-    ]
-  ],
   "name": "Tracks",
+  "object_models_and_types": {
+    "models": [
+      3910
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_21": true,
   "actions": [
@@ -20,5 +22,8 @@
   "model": false,
   "scale_x": 50,
   "scale_y": 50,
-  "scale_z": 50
+  "scale_z": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

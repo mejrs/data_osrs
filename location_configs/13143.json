@@ -1,12 +1,14 @@
 {
   "id": 13143,
-  "models": [
-    [
-      22,
-      12899
-    ]
-  ],
   "name": "Balance beam",
+  "object_models_and_types": {
+    "models": [
+      12899
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -17,5 +19,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

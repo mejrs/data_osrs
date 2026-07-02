@@ -1,8 +1,10 @@
 {
   "id": 60422,
-  "models_2": [
-    59821
-  ],
+  "object_models": {
+    "models": [
+      59821
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_24": 1071,
@@ -11,5 +13,8 @@
   "model": false,
   "translate_x": 45,
   "translate_y": 65516,
-  "translate_z": 45
+  "translate_z": 45,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 3584,
-  "models": [
-    [
-      4,
-      3630
-    ]
-  ],
   "name": "Hand holds",
+  "object_models_and_types": {
+    "models": [
+      3630
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "colours": [
@@ -15,5 +17,8 @@
       6449
     ]
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

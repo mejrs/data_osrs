@@ -1,12 +1,14 @@
 {
   "id": 55892,
   "name": "Waystone",
-  "models_2": [
-    41009,
-    41005
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      41009,
+      41005
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 8791,
   "unknown_27": false,
@@ -83,6 +85,9 @@
     "unknown_2": 5
   },
   "mapscene": 14,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "876": 4
   }

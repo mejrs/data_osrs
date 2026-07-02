@@ -1,13 +1,18 @@
 {
   "id": 25116,
   "name": "Magic door",
-  "models_2": [
-    26553,
-    26554,
-    26556,
-    26557
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      26553,
+      26554,
+      26556,
+      26557
+    ]
+  },
   "unknown_24": 6637,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

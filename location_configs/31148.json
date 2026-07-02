@@ -1,8 +1,13 @@
 {
   "id": 31148,
   "name": "Petrified Pufferfish",
-  "models_2": [
-    33316,
-    33420
-  ]
+  "object_models": {
+    "models": [
+      33316,
+      33420
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

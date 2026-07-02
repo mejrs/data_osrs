@@ -1,9 +1,14 @@
 {
   "id": 8900,
   "name": "Track support",
-  "models_2": [
-    8664
-  ],
+  "object_models": {
+    "models": [
+      8664
+    ]
+  },
   "unknown_21": true,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

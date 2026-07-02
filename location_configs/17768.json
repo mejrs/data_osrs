@@ -1,7 +1,12 @@
 {
   "id": 17768,
   "name": "Right side of a fireplace",
-  "models_2": [
-    17825
-  ]
+  "object_models": {
+    "models": [
+      17825
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

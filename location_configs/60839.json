@@ -1,0 +1,26 @@
+{
+  "id": 60839,
+  "name": "Suit of armour",
+  "object_models": {
+    "models": [
+      4988
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6067,
+      8115
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

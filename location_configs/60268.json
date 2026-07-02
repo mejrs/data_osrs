@@ -1,37 +1,26 @@
 {
   "id": 60268,
-  "name": "Camphor cargo hold",
-  "models_2": [
-    58159
-  ],
-  "is_transparent": true,
-  "unknown_19": 1,
-  "ambient": 15,
-  "actions": [
-    "Open",
-    "Quick-deposit",
-    null,
-    null,
-    "Modify"
-  ],
-  "contrast": 15,
+  "object_models_and_types": {
+    "models": [
+      41247
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
   "colours": [
     [
-      21435,
-      21662
+      7479,
+      20
     ],
     [
-      21464,
-      21665
-    ],
-    [
-      54203,
-      5442
-    ],
-    [
-      54183,
-      5435
+      7488,
+      16
     ]
   ],
-  "category": 2343
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

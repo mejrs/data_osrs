@@ -1,11 +1,13 @@
 {
   "id": 19842,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       19364
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_22": true,
   "ambient": 30,
   "contrast": 30,
@@ -37,5 +39,8 @@
   ],
   "mirror": true,
   "model": false,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 36554,
   "name": "Bell mechanism",
-  "models_2": [
-    37640
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      37640
+    ]
+  },
   "ambient": 10,
-  "contrast": 5
+  "contrast": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 6296,
   "name": "Skeleton",
-  "models_2": [
-    6186
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      6186
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

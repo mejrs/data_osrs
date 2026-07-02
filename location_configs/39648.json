@@ -1,11 +1,13 @@
 {
   "id": 39648,
   "name": "Opening",
-  "models_2": [
-    34134
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      34134
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 15,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 15,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

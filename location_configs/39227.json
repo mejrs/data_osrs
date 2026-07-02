@@ -1,13 +1,19 @@
 {
   "id": 39227,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       40538
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "ambient": 10,
   "contrast": 10,
   "unknown_73": true,
-  "maparea_id": 36
+  "maparea_id": 36,
+  "raise": 8,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

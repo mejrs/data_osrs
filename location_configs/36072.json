@@ -1,9 +1,11 @@
 {
   "id": 36072,
   "name": "Linum Tirinum",
-  "models_2": [
-    37453
-  ],
+  "object_models": {
+    "models": [
+      37453
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Pick",
@@ -16,5 +18,8 @@
   "category": 1360,
   "scale_x": 104,
   "scale_y": 104,
-  "scale_z": 104
+  "scale_z": 104,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

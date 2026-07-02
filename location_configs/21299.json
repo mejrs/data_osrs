@@ -1,14 +1,19 @@
 {
   "id": 21299,
   "name": "Chest",
-  "models_2": [
-    21968
-  ],
+  "object_models": {
+    "models": [
+      21968
+    ]
+  },
   "actions": [
     "Open",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

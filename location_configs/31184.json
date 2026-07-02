@@ -1,8 +1,13 @@
 {
   "id": 31184,
   "name": "Ancient Zygomite",
-  "models_2": [
-    33321,
-    33374
-  ]
+  "object_models": {
+    "models": [
+      33321,
+      33374
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

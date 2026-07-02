@@ -1,16 +1,16 @@
 {
   "id": 1533,
-  "models": [
-    [
-      0,
-      884
-    ],
-    [
-      9,
-      885
-    ]
-  ],
   "name": "Curtain",
+  "object_models_and_types": {
+    "models": [
+      884,
+      885
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -20,5 +20,8 @@
     null
   ],
   "translate_y": 1,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

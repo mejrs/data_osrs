@@ -1,10 +1,12 @@
 {
   "id": 54240,
   "name": "Spider eggs",
-  "models_2": [
-    42847
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      42847
+    ]
+  },
   "unknown_21": true,
   "ambient": -30,
   "contrast": 30,
@@ -34,5 +36,8 @@
       26545
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

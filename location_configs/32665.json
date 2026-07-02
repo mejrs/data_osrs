@@ -1,9 +1,11 @@
 {
   "id": 32665,
   "name": "Bank Deposit Box",
-  "models_2": [
-    27381
-  ],
+  "object_models": {
+    "models": [
+      27381
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Deposit",
@@ -27,5 +29,8 @@
       16
     ]
   ],
-  "category": 276
+  "category": 276,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 13919,
   "name": "Confusing door",
-  "models_2": [
-    14220
-  ],
+  "object_models": {
+    "models": [
+      14220
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Enter",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

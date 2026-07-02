@@ -1,13 +1,18 @@
 {
   "id": 554,
   "name": "Icicle",
-  "models_2": [
-    709
-  ],
+  "object_models": {
+    "models": [
+      709
+    ]
+  },
   "colours": [
     [
       5916,
       119
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

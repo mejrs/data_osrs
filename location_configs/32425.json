@@ -1,10 +1,12 @@
 {
   "id": 32425,
   "name": "Plinth",
-  "models_2": [
-    34781,
-    34791
-  ],
+  "object_models": {
+    "models": [
+      34781,
+      34791
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

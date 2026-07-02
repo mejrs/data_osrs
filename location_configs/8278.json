@@ -1,10 +1,12 @@
 {
   "id": 8278,
   "name": "Diseased Wildblood Hops",
-  "models_2": [
-    8202,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8202,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Cure",
@@ -34,5 +36,8 @@
       13850,
       9754
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

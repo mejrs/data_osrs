@@ -1,15 +1,20 @@
 {
   "id": 3377,
   "name": "Locked Ogre chest",
-  "models_2": [
-    3450
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      3450
+    ]
+  },
   "actions": [
     "Unlock",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

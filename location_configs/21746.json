@@ -1,9 +1,14 @@
 {
   "id": 21746,
   "name": "Corpse",
-  "models_2": [
-    1080
-  ],
   "dim_x": 2,
-  "unknown_17": false
+  "object_models": {
+    "models": [
+      1080
+    ]
+  },
+  "unknown_17": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

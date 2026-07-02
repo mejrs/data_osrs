@@ -1,9 +1,11 @@
 {
   "id": 40179,
   "name": "Broken Mirror",
-  "models_2": [
-    40821
-  ],
+  "object_models": {
+    "models": [
+      40821
+    ]
+  },
   "ambient": 30,
   "actions": [
     null,
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

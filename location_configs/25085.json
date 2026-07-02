@@ -1,12 +1,14 @@
 {
   "id": 25085,
-  "models": [
-    [
-      0,
-      26493
-    ]
-  ],
   "name": "Stalagmites",
+  "object_models_and_types": {
+    "models": [
+      26493
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -37,5 +39,8 @@
       8478,
       6563
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

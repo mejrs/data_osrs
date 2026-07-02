@@ -1,17 +1,24 @@
 {
   "id": 12147,
   "name": "Canoe Station",
-  "models_2": [
-    12001,
-    12010
-  ],
   "dim_x": 5,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12001,
+      12010
+    ]
+  },
+  "ambient": 15,
   "actions": [
     "Float Log",
     null,
     "hidden",
     null,
     null
-  ]
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

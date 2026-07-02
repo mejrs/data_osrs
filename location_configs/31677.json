@@ -1,10 +1,15 @@
 {
   "id": 31677,
   "name": "Dawn",
-  "models_2": [
-    34178
-  ],
   "dim_x": 4,
   "dim_y": 4,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      34178
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

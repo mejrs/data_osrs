@@ -1,9 +1,11 @@
 {
   "id": 10530,
   "name": "Bank Deposit Chest",
-  "models_2": [
-    1226
-  ],
+  "object_models": {
+    "models": [
+      1226
+    ]
+  },
   "actions": [
     "Deposit",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "category": 276
+  "category": 276,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

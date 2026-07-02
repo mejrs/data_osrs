@@ -1,0 +1,16 @@
+{
+  "id": 61950,
+  "name": "Long branched tree",
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      61075
+    ]
+  },
+  "unknown_17": false,
+  "ambient": 10,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

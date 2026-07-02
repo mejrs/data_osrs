@@ -1,10 +1,12 @@
 {
   "id": 27780,
   "name": "Score board",
-  "models_2": [
-    3293
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      3293
+    ]
+  },
   "unknown_19": 1,
   "ambient": 50,
   "actions": [
@@ -17,5 +19,8 @@
   "contrast": 50,
   "scale_x": 50,
   "scale_y": 50,
-  "scale_z": 50
+  "scale_z": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

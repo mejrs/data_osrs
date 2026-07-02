@@ -1,10 +1,12 @@
 {
   "id": 32751,
   "name": "Door",
-  "models_2": [
-    35717
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      35717
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -17,6 +19,9 @@
     null
   ],
   "category": 1233,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 3,
     "430": 1

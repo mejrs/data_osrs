@@ -1,10 +1,12 @@
 {
   "id": 3771,
   "name": "Stronghold",
-  "models_2": [
-    57463
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      57463
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Enter",
@@ -38,5 +40,8 @@
   ],
   "model": false,
   "translate_x": 25,
-  "translate_y": 135
+  "translate_y": 135,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 8975,
   "name": "Dense runestone",
-  "models_2": [
-    30836
-  ],
   "dim_x": 5,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      30836
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "occludes_1": false,
@@ -18,5 +20,8 @@
     null,
     null
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

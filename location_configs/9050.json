@@ -1,10 +1,12 @@
 {
   "id": 9050,
   "name": "Diseased goutweed",
-  "models_2": [
-    7873,
-    10772
-  ],
+  "object_models": {
+    "models": [
+      7873,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Cure",
@@ -26,5 +28,8 @@
       19992,
       10902
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

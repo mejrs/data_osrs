@@ -1,14 +1,19 @@
 {
   "id": 43513,
   "name": "Ruined Pillar",
-  "models_2": [
-    872,
-    44084
-  ],
+  "object_models": {
+    "models": [
+      872,
+      44084
+    ]
+  },
   "ambient": 10,
   "contrast": 25,
   "textures": {
     "11": 95,
     "28": 88
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

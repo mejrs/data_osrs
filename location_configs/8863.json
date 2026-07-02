@@ -1,10 +1,12 @@
 {
   "id": 8863,
   "name": "Kelda Hops Patch",
-  "models_2": [
-    8225,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8225,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Rake",
@@ -18,5 +20,8 @@
       13982,
       4395
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

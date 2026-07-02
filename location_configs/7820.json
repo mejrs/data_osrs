@@ -1,11 +1,13 @@
 {
   "id": 7820,
   "name": "Exit portal",
-  "models_2": [
-    15138,
-    11233
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      15138,
+      11233
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 3174,
   "ambient": 15,
@@ -32,5 +34,8 @@
   "scale_z": 78,
   "unknown_69": 30,
   "translate_z": 65516,
-  "mapscene": 64
+  "mapscene": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

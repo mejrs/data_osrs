@@ -1,10 +1,15 @@
 {
   "id": 36567,
   "name": "Table saw",
-  "models_2": [
-    37878
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      37878
+    ]
+  },
   "ambient": 15,
-  "contrast": 5
+  "contrast": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

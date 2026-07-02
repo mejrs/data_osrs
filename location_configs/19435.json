@@ -1,16 +1,16 @@
 {
   "id": 19435,
-  "models": [
-    [
-      10,
-      1465
-    ],
-    [
-      22,
-      20043
-    ]
-  ],
   "name": "Snow drift",
+  "object_models_and_types": {
+    "models": [
+      1465,
+      20043
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -32,5 +32,8 @@
   "scale_x": 76,
   "scale_y": 48,
   "scale_z": 76,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

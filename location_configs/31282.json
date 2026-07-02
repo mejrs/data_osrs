@@ -1,9 +1,11 @@
 {
   "id": 31282,
   "name": "Medium Fossil Display",
-  "models_2": [
-    33458
-  ],
+  "object_models": {
+    "models": [
+      33458
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Add to",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

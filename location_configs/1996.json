@@ -1,9 +1,11 @@
 {
   "id": 1996,
   "name": "Rock",
-  "models_2": [
-    1805
-  ],
+  "object_models": {
+    "models": [
+      1805
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Swim to",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,24 +1,23 @@
 {
   "id": 14301,
-  "models": [
-    [
-      0,
-      14473
-    ],
-    [
-      1,
-      14474
-    ],
-    [
-      2,
-      14475
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      14473,
+      14474,
+      14475,
       14476
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 5
+  "ambient": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

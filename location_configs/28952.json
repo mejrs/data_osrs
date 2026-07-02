@@ -1,9 +1,11 @@
 {
   "id": 28952,
   "name": "Inconspicuous hole (master)",
-  "models_2": [
-    32058
-  ],
+  "object_models": {
+    "models": [
+      32058
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Build",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

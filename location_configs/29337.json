@@ -1,10 +1,12 @@
 {
   "id": 29337,
   "name": "Undead combat dummy",
-  "models_2": [
-    32307,
-    32310
-  ],
+  "object_models": {
+    "models": [
+      32307,
+      32310
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Attach",
@@ -19,5 +21,8 @@
       27088
     ]
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 18675,
   "name": "Cog",
-  "models_2": [
-    18841
-  ],
+  "object_models": {
+    "models": [
+      18841
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

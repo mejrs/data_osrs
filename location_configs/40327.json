@@ -1,8 +1,10 @@
 {
   "id": 40327,
-  "models_2": [
-    13852
-  ],
+  "object_models": {
+    "models": [
+      13852
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "colours": [
@@ -10,5 +12,8 @@
       28,
       8361
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,14 +1,19 @@
 {
   "id": 2491,
-  "models": [
-    [
-      4,
-      24630
-    ]
-  ],
   "name": "Lamp",
+  "object_models_and_types": {
+    "models": [
+      24630
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 1868,
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

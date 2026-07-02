@@ -1,10 +1,12 @@
 {
   "id": 15566,
   "name": "Warning sign",
-  "models_2": [
-    14651,
-    14652
-  ],
+  "object_models": {
+    "models": [
+      14651,
+      14652
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Read",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 17
+  "contrast": 17,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

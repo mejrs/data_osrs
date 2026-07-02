@@ -1,9 +1,14 @@
 {
   "id": 49605,
   "name": "Human food",
-  "models_2": [
-    49599,
-    49598
-  ],
-  "unknown_24": 10463
+  "object_models": {
+    "models": [
+      49599,
+      49598
+    ]
+  },
+  "unknown_24": 10463,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

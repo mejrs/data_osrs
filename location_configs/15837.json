@@ -1,13 +1,18 @@
 {
   "id": 15837,
   "name": "Bamboo Pipes",
-  "models_2": [
-    15819
-  ],
+  "object_models": {
+    "models": [
+      15819
+    ]
+  },
   "colours": [
     [
       5912,
       2840
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

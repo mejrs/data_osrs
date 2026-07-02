@@ -1,12 +1,14 @@
 {
   "id": 8066,
   "name": "Diseased orange tree",
-  "models_2": [
-    8046,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      8046,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Prune",
@@ -23,5 +25,8 @@
   ],
   "textures": {
     "8": 41
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

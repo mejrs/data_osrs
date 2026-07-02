@@ -1,12 +1,14 @@
 {
   "id": 3576,
-  "models": [
-    [
-      22,
-      3638
-    ]
-  ],
   "name": "Plank",
+  "object_models_and_types": {
+    "models": [
+      3638
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "colours": [
@@ -15,5 +17,8 @@
       6449
     ]
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

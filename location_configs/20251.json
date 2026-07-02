@@ -1,8 +1,13 @@
 {
   "id": 20251,
   "name": "Petrified mushroom",
-  "models_2": [
-    20633
-  ],
-  "unknown_21": true
+  "object_models": {
+    "models": [
+      20633
+    ]
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

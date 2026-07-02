@@ -1,7 +1,12 @@
 {
   "id": 3209,
   "name": "Wood",
-  "models_2": [
-    24723
-  ]
+  "object_models": {
+    "models": [
+      24723
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

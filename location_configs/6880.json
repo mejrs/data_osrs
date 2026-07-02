@@ -1,9 +1,11 @@
 {
   "id": 6880,
   "name": "Ogre barricade",
-  "models_2": [
-    6788
-  ],
+  "object_models": {
+    "models": [
+      6788
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "colours": [
@@ -11,5 +13,8 @@
       9556,
       8514
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 40431,
   "name": "Ornate dragon combat dummy",
-  "models_2": [
-    41144
-  ],
+  "object_models": {
+    "models": [
+      41144
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Attach",
@@ -12,5 +14,8 @@
     "Swap",
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

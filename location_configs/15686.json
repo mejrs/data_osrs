@@ -1,9 +1,11 @@
 {
   "id": 15686,
   "name": "Cooking shelves",
-  "models_2": [
-    1150
-  ],
+  "object_models": {
+    "models": [
+      1150
+    ]
+  },
   "colours": [
     [
       7952,
@@ -13,5 +15,8 @@
       6569,
       4884
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

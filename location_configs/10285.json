@@ -1,15 +1,15 @@
 {
   "id": 10285,
-  "models": [
-    [
-      0,
-      9476
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      9476,
       9477
+    ],
+    "types": [
+      0,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "colours": [
@@ -21,5 +21,8 @@
   "textures": {
     "2": 4
   },
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

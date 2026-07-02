@@ -1,11 +1,13 @@
 {
   "id": 29221,
   "name": "Mounted Strength Cape (t)",
-  "models_2": [
-    32196
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32196
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Admire",
@@ -41,5 +43,8 @@
       26516
     ]
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

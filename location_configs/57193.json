@@ -1,13 +1,18 @@
 {
   "id": 57193,
   "name": "Sawdust",
-  "models_2": [
-    57029
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      57029
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

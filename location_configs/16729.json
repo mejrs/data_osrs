@@ -1,8 +1,13 @@
 {
   "id": 16729,
   "name": "Flowers",
-  "models_2": [
-    16602
-  ],
-  "unknown_24": 4126
+  "object_models": {
+    "models": [
+      16602
+    ]
+  },
+  "unknown_24": 4126,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

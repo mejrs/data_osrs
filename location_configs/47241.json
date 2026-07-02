@@ -1,16 +1,21 @@
 {
   "id": 47241,
   "name": "Tzhaar-Ket-Rak Display",
-  "models_2": [
-    47540
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      47540
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 20,
   "contrast": 10,
   "scale_x": 128,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

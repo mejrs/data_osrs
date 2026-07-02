@@ -1,0 +1,34 @@
+{
+  "id": 61858,
+  "name": "Shed",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61329
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 178,
+      "max": 178,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
+}

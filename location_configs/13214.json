@@ -1,10 +1,12 @@
 {
   "id": 13214,
   "name": "Windchimes",
-  "models_2": [
-    13222
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      13222
+    ]
+  },
   "actions": [
     "Play",
     null,
@@ -13,5 +15,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

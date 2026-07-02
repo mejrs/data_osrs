@@ -1,9 +1,14 @@
 {
   "id": 11910,
   "name": "Creature",
-  "models_2": [
-    11536
-  ],
   "dim_x": 2,
-  "ambient": 10
+  "object_models": {
+    "models": [
+      11536
+    ]
+  },
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

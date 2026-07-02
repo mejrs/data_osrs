@@ -1,11 +1,13 @@
 {
   "id": 15298,
   "name": "Table space",
-  "models_2": [
-    12679
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12679
+    ]
+  },
   "actions": [
     null,
     null,
@@ -14,6 +16,9 @@
     "Build"
   ],
   "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 4,
     "430": 2

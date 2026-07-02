@@ -1,10 +1,12 @@
 {
   "id": 25675,
   "name": "Food trough",
-  "models_2": [
-    14206
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      14206
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "contrast": 15,
@@ -21,5 +23,8 @@
       7587,
       5537
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

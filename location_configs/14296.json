@@ -1,9 +1,11 @@
 {
   "id": 14296,
   "name": "Ladder",
-  "models_2": [
-    14536
-  ],
+  "object_models": {
+    "models": [
+      14536
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Climb",
@@ -33,5 +35,8 @@
       6930,
       6573
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

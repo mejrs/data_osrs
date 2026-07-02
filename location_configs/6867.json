@@ -1,14 +1,19 @@
 {
   "id": 6867,
   "name": "Ogre Drums",
-  "models_2": [
-    6792
-  ],
+  "object_models": {
+    "models": [
+      6792
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
       9556,
       8514
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

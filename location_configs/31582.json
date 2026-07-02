@@ -1,10 +1,12 @@
 {
   "id": 31582,
   "name": "Bank counter",
-  "models_2": [
-    1262
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1262
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -18,5 +20,8 @@
   ],
   "contrast": 25,
   "category": 684,
-  "breakroutefinding": true
+  "breakroutefinding": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

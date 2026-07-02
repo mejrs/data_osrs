@@ -1,7 +1,12 @@
 {
   "id": 21444,
   "name": "Ore stones",
-  "models_2": [
-    22018
-  ]
+  "object_models": {
+    "models": [
+      22018
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

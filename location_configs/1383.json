@@ -1,9 +1,11 @@
 {
   "id": 1383,
   "name": "Dead tree",
-  "models_2": [
-    1719
-  ],
+  "object_models": {
+    "models": [
+      1719
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chop down",
@@ -21,5 +23,8 @@
   ],
   "category": 189,
   "unknown_81": 80,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 22153,
   "name": "Wardrobe",
-  "models_2": [
-    22947
-  ],
+  "object_models": {
+    "models": [
+      22947
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,
@@ -18,5 +20,8 @@
       6817
     ]
   ],
-  "translate_z": 65520
+  "translate_z": 65520,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

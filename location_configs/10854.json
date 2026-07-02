@@ -1,11 +1,13 @@
 {
   "id": 10854,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       1794
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_21": true,
   "ambient": 15,
   "contrast": 20,
@@ -15,5 +17,8 @@
       7481
     ]
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

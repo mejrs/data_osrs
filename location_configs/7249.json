@@ -1,10 +1,12 @@
 {
   "id": 7249,
   "name": "Wall",
-  "models_2": [
-    7577
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      7577
+    ]
+  },
   "unknown_17": false,
   "actions": [
     null,
@@ -34,5 +36,8 @@
       10762,
       3604
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

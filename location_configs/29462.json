@@ -1,18 +1,26 @@
 {
   "id": 29462,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    32111
-  ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
-  "unknown_27": false,
-  "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (CKP)",
-    "Remove"
-  ]
+  "object_models_and_types": {
+    "models": [
+      1105
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_78": {
+    "unknown_1": 10966,
+    "unknown_2": 12
+  },
+  "sound_fade_curve": {
+    "fade_in_curve": 0,
+    "fade_in_duration": 20,
+    "fade_out_curve": 0,
+    "fade_out_duration": 20
+  },
+  "sound_visibility": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

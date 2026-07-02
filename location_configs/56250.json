@@ -1,16 +1,16 @@
 {
   "id": 56250,
-  "models": [
-    [
-      10,
-      1565
-    ],
-    [
-      22,
-      20041
-    ]
-  ],
   "name": "Bush",
+  "object_models_and_types": {
+    "models": [
+      1565,
+      20041
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -18,5 +18,8 @@
   "contrast": 25,
   "scale_x": 112,
   "scale_y": 120,
-  "scale_z": 112
+  "scale_z": 112,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

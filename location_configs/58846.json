@@ -1,10 +1,12 @@
 {
   "id": 58846,
   "name": "Dead Flax",
-  "models_2": [
-    59764,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      59764,
+      7766
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Clear",
@@ -31,5 +33,8 @@
       33354,
       3136
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

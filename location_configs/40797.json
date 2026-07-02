@@ -1,18 +1,23 @@
 {
   "id": 40797,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    41500
-  ],
+  "name": "Darkwood tree",
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_19": 1,
+  "object_models": {
+    "models": [
+      61104
+    ]
+  },
+  "unknown_22": true,
   "unknown_27": false,
-  "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (DIS)",
-    "Remove-decorations"
-  ]
+  "ambient": 10,
+  "contrast": 30,
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "unknown_81": 1,
+  "mapscene": 268,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,30 +1,27 @@
 {
   "id": 57313,
-  "models": [
-    [
-      0,
-      56810
-    ],
-    [
-      1,
-      56812
-    ],
-    [
-      2,
-      56811
-    ],
-    [
-      3,
-      56809
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      56810,
+      56812,
+      56811,
+      56809,
       56808
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "ambient": 10,
   "contrast": 20,
-  "translate_y": 20
+  "translate_y": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

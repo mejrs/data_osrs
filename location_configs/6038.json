@@ -1,9 +1,11 @@
 {
   "id": 6038,
   "name": "Ship's wheel",
-  "models_2": [
-    1890
-  ],
+  "object_models": {
+    "models": [
+      1890
+    ]
+  },
   "colours": [
     [
       5673,
@@ -16,5 +18,8 @@
   ],
   "scale_x": 99,
   "scale_y": 99,
-  "scale_z": 99
+  "scale_z": 99,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

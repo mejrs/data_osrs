@@ -1,12 +1,14 @@
 {
   "id": 2903,
-  "models": [
-    [
-      0,
-      832
-    ]
-  ],
   "name": "Cave entrance",
+  "object_models_and_types": {
+    "models": [
+      832
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

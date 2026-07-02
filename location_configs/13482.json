@@ -1,9 +1,11 @@
 {
   "id": 13482,
   "name": "<col=ff9040>Tekton's journal</col>",
-  "models_2": [
-    2633
-  ],
+  "object_models": {
+    "models": [
+      2633
+    ]
+  },
   "unknown_21": true,
   "actions": [
     null,
@@ -23,5 +25,8 @@
     ]
   ],
   "scale_y": 96,
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

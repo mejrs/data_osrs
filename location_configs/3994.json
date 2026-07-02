@@ -1,7 +1,12 @@
 {
   "id": 3994,
   "name": "Small furnace",
-  "models_2": [
-    3912
-  ]
+  "object_models": {
+    "models": [
+      3912
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

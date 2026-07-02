@@ -1,16 +1,21 @@
 {
   "id": 3520,
   "name": "Grotto",
-  "models_2": [
-    3573
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      3573
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

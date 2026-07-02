@@ -1,9 +1,14 @@
 {
   "id": 30570,
   "name": "Barge controls",
-  "models_2": [
-    33759
-  ],
   "dim_x": 3,
-  "unknown_27": false
+  "object_models": {
+    "models": [
+      33759
+    ]
+  },
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

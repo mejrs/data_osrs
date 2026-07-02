@@ -1,10 +1,12 @@
 {
   "id": 26265,
   "name": "<col=ff9040>Recurrent damage",
-  "models_2": [
-    2317,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      2317,
+      7766
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 502,
@@ -25,5 +27,8 @@
   "unknown_78": {
     "unknown_1": 3141,
     "unknown_2": 2
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

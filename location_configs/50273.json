@@ -1,12 +1,17 @@
 {
   "id": 50273,
   "name": "Stone boat",
-  "models_2": [
-    50250
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      50250
+    ]
+  },
   "unknown_19": 1,
   "ambient": 0,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

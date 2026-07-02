@@ -1,14 +1,19 @@
 {
   "id": 40060,
   "name": "Drawers",
-  "models_2": [
-    40797
-  ],
+  "object_models": {
+    "models": [
+      40797
+    ]
+  },
   "actions": [
     null,
     "Remove",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

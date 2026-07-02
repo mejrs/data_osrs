@@ -1,12 +1,14 @@
 {
   "id": 43803,
-  "models": [
-    [
-      22,
-      43960
-    ]
-  ],
   "name": "Rubble",
+  "object_models_and_types": {
+    "models": [
+      43960
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -20,5 +22,8 @@
       33441
     ]
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

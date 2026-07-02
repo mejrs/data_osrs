@@ -1,10 +1,15 @@
 {
   "id": 36575,
   "name": "Crwys Banner",
-  "models_2": [
-    37930
-  ],
+  "object_models": {
+    "models": [
+      37930
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

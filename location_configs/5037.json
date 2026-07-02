@@ -1,14 +1,19 @@
 {
   "id": 5037,
   "name": "Ice covered boulder",
-  "models_2": [
-    4956
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      4956
+    ]
+  },
   "unknown_21": true,
   "model": false,
   "scale_x": 384,
   "scale_y": 384,
-  "scale_z": 384
+  "scale_z": 384,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

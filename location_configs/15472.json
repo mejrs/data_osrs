@@ -1,8 +1,13 @@
 {
   "id": 15472,
   "name": "Gloves and duster",
-  "models_2": [
-    13277,
-    13278
-  ]
+  "object_models": {
+    "models": [
+      13277,
+      13278
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

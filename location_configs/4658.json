@@ -1,17 +1,22 @@
 {
   "id": 4658,
-  "models": [
-    [
-      4,
-      2111
-    ]
-  ],
   "name": "Plaque",
+  "object_models_and_types": {
+    "models": [
+      2111
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
       6028,
       11200
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 4615,
   "name": "Broken bridge",
-  "models_2": [
-    4556
-  ],
+  "object_models": {
+    "models": [
+      4556
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 21
+  "mapscene": 21,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

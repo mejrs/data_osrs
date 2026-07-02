@@ -1,11 +1,13 @@
 {
   "id": 16899,
   "name": "Wooden table",
-  "models_2": [
-    4290,
-    4291
-  ],
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      4290,
+      4291
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -25,5 +27,8 @@
       5404
     ]
   ],
-  "category": 529
+  "category": 529,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

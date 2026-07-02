@@ -1,13 +1,18 @@
 {
   "id": 51727,
   "name": "Stool",
-  "models_2": [
-    51365
-  ],
+  "object_models": {
+    "models": [
+      51365
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

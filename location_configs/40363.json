@@ -1,10 +1,12 @@
 {
   "id": 40363,
   "name": "Shelves",
-  "models_2": [
-    7392,
-    41105
-  ],
+  "object_models": {
+    "models": [
+      7392,
+      41105
+    ]
+  },
   "ambient": 10,
   "colours": [
     [
@@ -16,5 +18,8 @@
       5417
     ]
   ],
-  "translate_x": 65520
+  "translate_x": 65520,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

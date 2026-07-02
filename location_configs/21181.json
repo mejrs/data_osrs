@@ -1,11 +1,13 @@
 {
   "id": 21181,
   "name": "Snowy bird hide",
-  "models_2": [
-    21574
-  ],
   "dim_x": 3,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      21574
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 25,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

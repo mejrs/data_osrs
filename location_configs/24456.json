@@ -1,7 +1,12 @@
 {
   "id": 24456,
   "name": "Canal barge",
-  "models_2": [
-    25457
-  ]
+  "object_models": {
+    "models": [
+      25457
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

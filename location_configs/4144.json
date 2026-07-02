@@ -1,11 +1,13 @@
 {
   "id": 4144,
   "name": "Golden tree",
-  "models_2": [
-    3597
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      3597
+    ]
+  },
   "ambient": 40,
   "contrast": 40,
   "colours": [
@@ -17,5 +19,8 @@
   "scale_x": 192,
   "scale_y": 192,
   "scale_z": 192,
-  "unknown_81": 80
+  "unknown_81": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

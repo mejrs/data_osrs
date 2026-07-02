@@ -1,10 +1,12 @@
 {
   "id": 53292,
   "name": "Herbs",
-  "models_2": [
-    53301,
-    53303
-  ],
+  "object_models": {
+    "models": [
+      53301,
+      53303
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Pick",
@@ -27,5 +29,8 @@
       19992,
       13212
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

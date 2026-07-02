@@ -1,12 +1,17 @@
 {
   "id": 57325,
   "name": "Mill",
-  "models_2": [
-    57128
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      57128
+    ]
+  },
   "unknown_24": 6493,
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

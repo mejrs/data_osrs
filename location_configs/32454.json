@@ -1,9 +1,11 @@
 {
   "id": 32454,
   "name": "Mushtree",
-  "models_2": [
-    33628
-  ],
+  "object_models": {
+    "models": [
+      33628
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 84
+  "mapscene": 84,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

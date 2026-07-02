@@ -53,5 +53,8 @@
       35931
     ],
     "default": 35932
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 40264,
   "name": "<col=ffff00>Overgrown cat",
-  "models_2": [
-    3010,
-    3006
-  ],
+  "object_models": {
+    "models": [
+      3010,
+      3006
+    ]
+  },
   "unknown_24": 317,
   "colours": [
     [
@@ -22,5 +24,8 @@
   ],
   "scale_x": 85,
   "scale_y": 60,
-  "scale_z": 85
+  "scale_z": 85,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

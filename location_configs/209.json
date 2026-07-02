@@ -1,14 +1,17 @@
 {
   "id": 209,
-  "models": [
-    [
-      10,
-      1201
-    ],
-    [
-      4,
+  "name": "Chandelier",
+  "object_models_and_types": {
+    "models": [
+      1201,
       1272
+    ],
+    "types": [
+      10,
+      4
     ]
-  ],
-  "name": "Chandelier"
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

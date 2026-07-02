@@ -1,7 +1,12 @@
 {
   "id": 709,
   "name": "Bell rope",
-  "models_2": [
-    1280
-  ]
+  "object_models": {
+    "models": [
+      1280
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

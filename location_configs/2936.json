@@ -1,14 +1,19 @@
 {
   "id": 2936,
   "name": "Totem Pole",
-  "models_2": [
-    1759
-  ],
+  "object_models": {
+    "models": [
+      1759
+    ]
+  },
   "actions": [
     "Look",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

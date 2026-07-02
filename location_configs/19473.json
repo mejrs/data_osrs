@@ -1,14 +1,19 @@
 {
   "id": 19473,
   "name": "Stone pedestal",
-  "models_2": [
-    20062
-  ],
+  "object_models": {
+    "models": [
+      20062
+    ]
+  },
   "actions": [
     "Inspect",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

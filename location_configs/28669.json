@@ -1,16 +1,21 @@
 {
   "id": 28669,
   "name": "Gnome table",
-  "models_2": [
-    17144,
-    17146,
-    17147
-  ],
+  "object_models": {
+    "models": [
+      17144,
+      17146,
+      17147
+    ]
+  },
   "actions": [
     "Investigate",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

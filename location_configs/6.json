@@ -1,11 +1,13 @@
 {
   "id": 6,
   "name": "Dwarf multicannon",
-  "models_2": [
-    2328
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      2328
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Fire",
@@ -14,5 +16,8 @@
     "Load X",
     "Hidden"
   ],
-  "category": 1522
+  "category": 1522,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

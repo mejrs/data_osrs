@@ -1,12 +1,14 @@
 {
   "id": 5976,
   "name": "Dwarf MultiCannon",
-  "models_2": [
-    5851,
-    5852
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      5851,
+      5852
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "colours": [
@@ -14,5 +16,8 @@
       43051,
       28
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,16 @@
+{
+  "id": 60738,
+  "name": "Table without a note",
+  "object_models": {
+    "models": [
+      4636
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

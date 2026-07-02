@@ -1,8 +1,13 @@
 {
   "id": 21890,
   "name": "Support",
-  "models_2": [
-    22681
-  ],
-  "ambient": 10
+  "object_models": {
+    "models": [
+      22681
+    ]
+  },
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

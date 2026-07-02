@@ -1,12 +1,17 @@
 {
   "id": 50645,
   "name": "Sacks",
-  "models_2": [
-    1482
-  ],
+  "object_models": {
+    "models": [
+      1482
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 0,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

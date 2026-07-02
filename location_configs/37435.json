@@ -1,7 +1,12 @@
 {
   "id": 37435,
   "name": "Swampy sink",
-  "models_2": [
-    38919
-  ]
+  "object_models": {
+    "models": [
+      38919
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

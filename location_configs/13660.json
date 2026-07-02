@@ -1,9 +1,11 @@
 {
   "id": 13660,
   "name": "Elemental sphere",
-  "models_2": [
-    12951
-  ],
+  "object_models": {
+    "models": [
+      12951
+    ]
+  },
   "unknown_24": 3580,
   "actions": [
     null,
@@ -12,5 +14,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

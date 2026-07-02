@@ -1,7 +1,12 @@
 {
   "id": 31080,
   "name": "Leviathan",
-  "models_2": [
-    33365
-  ]
+  "object_models": {
+    "models": [
+      33365
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

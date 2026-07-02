@@ -1,11 +1,16 @@
 {
   "id": 53981,
   "name": "Display dial",
-  "models_2": [
-    53886
-  ],
+  "object_models": {
+    "models": [
+      53886
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

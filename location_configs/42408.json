@@ -1,11 +1,16 @@
 {
   "id": 42408,
   "name": "Forest Mushrooms",
-  "models_2": [
-    42531
-  ],
+  "object_models": {
+    "models": [
+      42531
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

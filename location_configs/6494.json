@@ -1,11 +1,13 @@
 {
   "id": 6494,
   "name": "Mystical door",
-  "models_2": [
-    6246
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      6246
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -20,5 +22,8 @@
       10434,
       8526
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

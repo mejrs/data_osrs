@@ -1,10 +1,15 @@
 {
   "id": 42631,
   "name": "Web sack",
-  "models_2": [
-    42810
-  ],
+  "object_models": {
+    "models": [
+      42810
+    ]
+  },
   "ambient": 20,
   "contrast": 20,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

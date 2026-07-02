@@ -1,11 +1,13 @@
 {
   "id": 57090,
   "name": "Redwood totem",
-  "models_2": [
-    56991,
-    56996,
-    56995
-  ],
+  "object_models": {
+    "models": [
+      56991,
+      56996,
+      56995
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -39,5 +41,8 @@
       6466,
       4659
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

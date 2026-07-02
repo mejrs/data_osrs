@@ -1,13 +1,15 @@
 {
   "id": 8088,
   "name": "Palm tree",
-  "models_2": [
-    8069,
-    7767,
-    8073
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      8069,
+      7767,
+      8073
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick-coconut",
@@ -25,5 +27,8 @@
       21815,
       19222
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

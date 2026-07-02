@@ -1,13 +1,15 @@
 {
   "id": 7781,
   "name": "Calquat tree",
-  "models_2": [
-    7954,
-    7955,
-    7768
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      7954,
+      7955,
+      7768
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

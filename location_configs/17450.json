@@ -1,16 +1,16 @@
 {
   "id": 17450,
-  "models": [
-    [
-      10,
-      17477
-    ],
-    [
-      4,
-      17479
-    ]
-  ],
   "name": "Dragon head",
+  "object_models_and_types": {
+    "models": [
+      17477,
+      17479
+    ],
+    "types": [
+      10,
+      4
+    ]
+  },
   "ambient": 25,
   "contrast": 25,
   "colours": [
@@ -39,5 +39,8 @@
       43315
     ]
   ],
-  "translate_y": 40
+  "translate_y": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

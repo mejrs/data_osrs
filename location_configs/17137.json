@@ -1,7 +1,12 @@
 {
   "id": 17137,
   "name": "Gnome crate",
-  "models_2": [
-    17139
-  ]
+  "object_models": {
+    "models": [
+      17139
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

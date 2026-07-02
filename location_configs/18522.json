@@ -1,14 +1,19 @@
 {
   "id": 18522,
-  "models": [
-    [
-      22,
-      18591
-    ]
-  ],
   "name": "Lava trough",
+  "object_models_and_types": {
+    "models": [
+      18591
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 40,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

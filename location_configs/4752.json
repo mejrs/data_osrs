@@ -1,11 +1,13 @@
 {
   "id": 4752,
   "name": "Banana tree",
-  "models_2": [
-    1689
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1689
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -27,5 +29,8 @@
       9657
     ]
   ],
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

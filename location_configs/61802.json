@@ -1,0 +1,32 @@
+{
+  "id": 61802,
+  "name": "Chair",
+  "object_models": {
+    "models": [
+      60588
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 178,
+      "max": 178,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
+}

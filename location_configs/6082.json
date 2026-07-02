@@ -1,10 +1,12 @@
 {
   "id": 6082,
   "name": "Bank table",
-  "models_2": [
-    1229
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1229
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -19,5 +21,8 @@
   "category": 154,
   "scale_x": 128,
   "scale_y": 100,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

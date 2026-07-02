@@ -1,18 +1,36 @@
 {
   "id": 40799,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    41500
-  ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
+  "name": "Bloodwood tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      61078
+    ]
+  },
+  "unknown_22": true,
   "unknown_27": false,
+  "ambient": 10,
   "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (DIQ)",
-    "Remove-decorations"
-  ]
+    "Tap",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "unknown_81": 1,
+  "mapscene": 264,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 0,
+      "max": 176,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
 }

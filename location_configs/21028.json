@@ -1,13 +1,18 @@
 {
   "id": 21028,
-  "models": [
-    [
-      22,
-      21646
-    ]
-  ],
   "name": "Flute",
+  "object_models_and_types": {
+    "models": [
+      21646
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

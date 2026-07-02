@@ -1,16 +1,16 @@
 {
   "id": 2339,
-  "models": [
-    [
-      0,
-      9476
-    ],
-    [
-      9,
-      9477
-    ]
-  ],
   "name": "Sturdy door",
+  "object_models_and_types": {
+    "models": [
+      9476,
+      9477
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -44,5 +44,8 @@
       7566,
       5002
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

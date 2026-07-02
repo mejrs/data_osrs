@@ -1,9 +1,11 @@
 {
   "id": 34348,
-  "models_2": [
-    36556
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      36556
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
@@ -17,5 +19,8 @@
       8844,
       10378
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

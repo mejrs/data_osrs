@@ -1,13 +1,15 @@
 {
   "id": 6079,
   "name": "Desk",
-  "models_2": [
-    5938,
-    5939,
-    5940,
-    5941
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      5938,
+      5939,
+      5940,
+      5941
+    ]
+  },
   "colours": [
     [
       21790,
@@ -25,5 +27,8 @@
       21914,
       421
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

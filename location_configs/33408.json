@@ -1,11 +1,13 @@
 {
   "id": 33408,
   "name": "Portal Nexus",
-  "models_2": [
-    36050
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      36050
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 367,
   "ambient": 10,
@@ -22,6 +24,9 @@
     "unknown_1": 3139,
     "unknown_2": 3
   },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 2,
     "430": 2

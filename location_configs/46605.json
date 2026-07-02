@@ -1,10 +1,12 @@
 {
   "id": 46605,
   "name": "Damaged Table",
-  "models_2": [
-    47003
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      47003
+    ]
+  },
   "is_transparent": true,
   "ambient": 0,
   "actions": [
@@ -20,5 +22,8 @@
       6439,
       32867
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

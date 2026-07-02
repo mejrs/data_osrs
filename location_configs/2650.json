@@ -1,12 +1,14 @@
 {
   "id": 2650,
   "name": "Table",
-  "models_2": [
-    27483,
-    27492,
-    27480
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      27483,
+      27492,
+      27480
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Search",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 39898,
   "name": "Broken Cabinet",
-  "models_2": [
-    25064
-  ],
+  "object_models": {
+    "models": [
+      25064
+    ]
+  },
   "actions": [
     null,
     null,
@@ -24,5 +26,8 @@
       5908,
       7830
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

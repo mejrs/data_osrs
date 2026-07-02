@@ -1,9 +1,11 @@
 {
   "id": 15725,
   "name": "Small chest",
-  "models_2": [
-    15566
-  ],
+  "object_models": {
+    "models": [
+      15566
+    ]
+  },
   "colours": [
     [
       6715,
@@ -17,5 +19,8 @@
       10471,
       10279
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

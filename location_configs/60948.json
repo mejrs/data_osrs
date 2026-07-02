@@ -1,0 +1,21 @@
+{
+  "id": 60948,
+  "name": "Table",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      60623,
+      60619
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "category": 154,
+  "translate_x": 65492,
+  "translate_z": 65492,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

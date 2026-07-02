@@ -1,9 +1,11 @@
 {
   "id": 6616,
   "name": "Crate",
-  "models_2": [
-    7699
-  ],
+  "object_models": {
+    "models": [
+      7699
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 80,
@@ -43,5 +45,8 @@
   "category": 209,
   "scale_x": 80,
   "scale_y": 80,
-  "scale_z": 80
+  "scale_z": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

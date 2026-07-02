@@ -1,10 +1,12 @@
 {
   "id": 49574,
   "name": "Cavity",
-  "models_2": [
-    49514,
-    49516
-  ],
+  "object_models": {
+    "models": [
+      49514,
+      49516
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -27,5 +29,8 @@
       61,
       36133
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

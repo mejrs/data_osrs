@@ -1,10 +1,12 @@
 {
   "id": 2591,
   "name": "Bunk bed",
-  "models_2": [
-    20389
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      20389
+    ]
+  },
   "ambient": 5,
   "contrast": 15,
   "colours": [
@@ -33,5 +35,8 @@
       32858
     ]
   ],
-  "scale_x": 100
+  "scale_x": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

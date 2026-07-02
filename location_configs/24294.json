@@ -1,12 +1,14 @@
 {
   "id": 24294,
-  "models": [
-    [
-      0,
-      27606
-    ]
-  ],
   "name": "Locked door",
+  "object_models_and_types": {
+    "models": [
+      27606
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -19,5 +21,8 @@
     null
   ],
   "contrast": 10,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

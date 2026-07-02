@@ -1,9 +1,11 @@
 {
   "id": 50044,
   "name": "Candycane",
-  "models_2": [
-    46872
-  ],
+  "object_models": {
+    "models": [
+      46872
+    ]
+  },
   "ambient": 15,
   "contrast": 10,
   "colours": [
@@ -16,5 +18,8 @@
       39132
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

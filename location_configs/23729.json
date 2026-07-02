@@ -1,15 +1,18 @@
 {
   "id": 23729,
-  "models": [
-    [
-      10,
-      15607
-    ],
-    [
-      0,
-      15608
-    ]
-  ],
   "name": "Portal of Death",
-  "unknown_21": true
+  "object_models_and_types": {
+    "models": [
+      15607,
+      15608
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

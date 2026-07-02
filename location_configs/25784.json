@@ -1,14 +1,19 @@
 {
   "id": 25784,
   "name": "Chair",
-  "models_2": [
-    1273
-  ],
+  "object_models": {
+    "models": [
+      1273
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
       4886,
       6315
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,16 +1,16 @@
 {
   "id": 31561,
-  "models": [
-    [
-      10,
-      34135
-    ],
-    [
-      22,
-      8950
-    ]
-  ],
   "name": "Pillar",
+  "object_models_and_types": {
+    "models": [
+      34135,
+      8950
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -20,5 +20,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

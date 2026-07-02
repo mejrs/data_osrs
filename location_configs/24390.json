@@ -1,12 +1,14 @@
 {
   "id": 24390,
-  "models": [
-    [
-      4,
-      25344
-    ]
-  ],
   "name": "Map",
+  "object_models_and_types": {
+    "models": [
+      25344
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 30,
@@ -17,5 +19,8 @@
     null,
     null
   ],
-  "category": 688
+  "category": 688,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

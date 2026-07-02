@@ -1,26 +1,25 @@
 {
   "id": 53261,
-  "models": [
-    [
-      0,
-      51929
-    ],
-    [
-      1,
-      51912
-    ],
-    [
-      2,
-      51896
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      51929,
+      51912,
+      51896,
       51920
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "ambient": 15,
   "contrast": 30,
-  "translate_y": 65347
+  "translate_y": 65347,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 50267,
   "name": "Mural",
-  "models_2": [
-    50337
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      50337
+    ]
+  },
   "unknown_19": 1,
   "ambient": 0,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

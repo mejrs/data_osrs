@@ -1,9 +1,11 @@
 {
   "id": 33309,
   "name": "Pile of Buckets",
-  "models_2": [
-    35919
-  ],
+  "object_models": {
+    "models": [
+      35919
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

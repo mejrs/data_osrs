@@ -1,9 +1,11 @@
 {
   "id": 37594,
   "name": "Table",
-  "models_2": [
-    4599
-  ],
+  "object_models": {
+    "models": [
+      4599
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 1543
+  "category": 1543,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

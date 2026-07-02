@@ -1,9 +1,11 @@
 {
   "id": 4871,
   "name": "Reinitialisation Panel",
-  "models_2": [
-    4731
-  ],
+  "object_models": {
+    "models": [
+      4731
+    ]
+  },
   "actions": [
     "Operate",
     null,
@@ -16,5 +18,8 @@
       61,
       7566
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

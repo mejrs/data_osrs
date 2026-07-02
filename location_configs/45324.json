@@ -1,10 +1,12 @@
 {
   "id": 45324,
   "name": "Skeleton",
-  "models_2": [
-    1080
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1080
+    ]
+  },
   "is_transparent": true,
   "ambient": 20,
   "contrast": 10,
@@ -14,5 +16,8 @@
       10295
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

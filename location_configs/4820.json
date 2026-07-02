@@ -1,11 +1,13 @@
 {
   "id": 4820,
   "name": "Jungle tree",
-  "models_2": [
-    1702
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1702
+    ]
+  },
   "actions": [
     "Chop-down",
     null,
@@ -14,5 +16,8 @@
     null
   ],
   "category": 189,
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

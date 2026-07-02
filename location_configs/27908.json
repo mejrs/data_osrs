@@ -1,19 +1,22 @@
 {
   "id": 27908,
-  "models": [
-    [
-      10,
-      30667
-    ],
-    [
-      22,
-      30673
-    ]
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models_and_types": {
+    "models": [
+      30667,
+      30673
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_27": false,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

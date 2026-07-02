@@ -1,0 +1,45 @@
+{
+  "id": 60631,
+  "name": "Oak cargo hold",
+  "object_models": {
+    "models": [
+      58160
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    "Deposit-all",
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21435,
+      26
+    ],
+    [
+      21464,
+      30
+    ],
+    [
+      54203,
+      5660
+    ],
+    [
+      54183,
+      5665
+    ]
+  ],
+  "category": 2343,
+  "scale_x": 190,
+  "scale_y": 190,
+  "scale_z": 190,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

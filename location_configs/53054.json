@@ -1,16 +1,16 @@
 {
   "id": 53054,
-  "models": [
-    [
-      4,
-      5262
-    ],
-    [
-      22,
-      5261
-    ]
-  ],
   "name": "Trail of chocolate",
+  "object_models_and_types": {
+    "models": [
+      5262,
+      5261
+    ],
+    "types": [
+      4,
+      22
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -21,5 +21,8 @@
       20797,
       4760
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

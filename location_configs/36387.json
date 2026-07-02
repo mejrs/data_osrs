@@ -1,10 +1,12 @@
 {
   "id": 36387,
   "name": "Crystal Staircase",
-  "models_2": [
-    37721
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      37721
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -15,5 +17,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

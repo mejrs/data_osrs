@@ -1,27 +1,21 @@
 {
   "id": 38708,
-  "models": [
-    [
-      0,
-      39880
-    ],
-    [
-      1,
-      49340
-    ],
-    [
-      2,
-      39875
-    ],
-    [
-      3,
-      39946
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      39880,
+      49340,
+      39875,
+      39946,
       49341
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -37,5 +31,8 @@
       32803
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

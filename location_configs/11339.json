@@ -1,10 +1,12 @@
 {
   "id": 11339,
   "name": "Open chest",
-  "models_2": [
-    5273,
-    11209
-  ],
+  "object_models": {
+    "models": [
+      5273,
+      11209
+    ]
+  },
   "colours": [
     [
       14499,
@@ -26,5 +28,8 @@
       13194,
       4750
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

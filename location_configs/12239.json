@@ -1,9 +1,11 @@
 {
   "id": 12239,
   "name": "Vanilla plant",
-  "models_2": [
-    13843
-  ],
+  "object_models": {
+    "models": [
+      13843
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "mapscene": 9
+  "mapscene": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

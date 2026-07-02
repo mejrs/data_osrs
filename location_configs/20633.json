@@ -1,12 +1,14 @@
 {
   "id": 20633,
-  "models": [
-    [
-      22,
-      21367
-    ]
-  ],
   "name": "Floor",
+  "object_models_and_types": {
+    "models": [
+      21367
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 25,
@@ -19,5 +21,9 @@
   ],
   "contrast": 25,
   "scale_y": 135,
-  "unknown_73": true
+  "unknown_73": true,
+  "raise": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

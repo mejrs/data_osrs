@@ -1,9 +1,14 @@
 {
   "id": 9066,
   "name": "Crate of rune caskets",
-  "models_2": [
-    9008,
-    9010
-  ],
-  "ambient": 35
+  "object_models": {
+    "models": [
+      9008,
+      9010
+    ]
+  },
+  "ambient": 35,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 11695,
   "name": "Dairy churn",
-  "models_2": [
-    9837
-  ],
+  "object_models": {
+    "models": [
+      9837
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -17,5 +19,8 @@
   ],
   "contrast": 10,
   "category": 1175,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

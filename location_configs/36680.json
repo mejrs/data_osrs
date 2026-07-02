@@ -1,13 +1,18 @@
 {
   "id": 36680,
   "name": "Tree stump",
-  "models_2": [
-    37921
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      37921
+    ]
+  },
   "ambient": 15,
   "contrast": 5,
   "unknown_81": 80,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

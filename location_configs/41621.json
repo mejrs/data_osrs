@@ -1,12 +1,14 @@
 {
   "id": 41621,
   "name": "Boat",
-  "models_2": [
-    8694,
-    8695
-  ],
   "dim_x": 6,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      8694,
+      8695
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 2346,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "category": 1547
+  "category": 1547,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

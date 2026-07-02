@@ -1,10 +1,12 @@
 {
   "id": 47931,
   "name": "Rack",
-  "models_2": [
-    49077
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      49077
+    ]
+  },
   "unknown_22": true,
   "ambient": 10,
   "contrast": 20,
@@ -33,5 +35,8 @@
       3470,
       43156
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

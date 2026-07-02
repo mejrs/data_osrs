@@ -1,9 +1,14 @@
 {
   "id": 56966,
   "name": "Archery target",
-  "models_2": [
-    12896,
-    12897
-  ],
-  "ambient": 20
+  "object_models": {
+    "models": [
+      12896,
+      12897
+    ]
+  },
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

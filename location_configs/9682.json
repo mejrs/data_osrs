@@ -1,10 +1,12 @@
 {
   "id": 9682,
   "name": "Range",
-  "models_2": [
-    9561
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      9561
+    ]
+  },
   "actions": [
     "Cook",
     null,
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

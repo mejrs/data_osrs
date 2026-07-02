@@ -1,13 +1,18 @@
 {
   "id": 58544,
   "name": "Mangrove",
-  "models_2": [
-    58679
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58679
+    ]
+  },
   "ambient": 15,
   "contrast": 20,
   "unknown_81": 80,
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

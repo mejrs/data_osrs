@@ -1,11 +1,16 @@
 {
   "id": 39483,
   "name": "Sofa",
-  "models_2": [
-    40284
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      40284
+    ]
+  },
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

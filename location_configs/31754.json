@@ -1,9 +1,14 @@
 {
   "id": 31754,
   "name": "Throne",
-  "models_2": [
-    34316
-  ],
+  "object_models": {
+    "models": [
+      34316
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 15
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

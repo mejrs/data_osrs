@@ -1,9 +1,11 @@
 {
   "id": 13398,
   "name": "Stick",
-  "models_2": [
-    13196
-  ],
+  "object_models": {
+    "models": [
+      13196
+    ]
+  },
   "actions": [
     "Hoop",
     null,
@@ -11,5 +13,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 23709,
   "name": "Box of Health",
-  "models_2": [
-    15885
-  ],
+  "object_models": {
+    "models": [
+      15885
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Open",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

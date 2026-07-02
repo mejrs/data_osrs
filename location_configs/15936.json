@@ -1,7 +1,12 @@
 {
   "id": 15936,
   "name": "Water Pump",
-  "models_2": [
-    15826
-  ]
+  "object_models": {
+    "models": [
+      15826
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

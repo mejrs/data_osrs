@@ -1,11 +1,16 @@
 {
   "id": 51889,
   "name": "Statue of Marhuitz",
-  "models_2": [
-    52327
-  ],
+  "object_models": {
+    "models": [
+      52327
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 10,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

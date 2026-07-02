@@ -1,15 +1,20 @@
 {
   "id": 44763,
   "name": "Belt system",
-  "models_2": [
-    44815
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      44815
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 9446,
   "contrast": 120,
   "model": false,
   "translate_x": 15,
-  "translate_y": 20
+  "translate_y": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

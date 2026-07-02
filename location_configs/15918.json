@@ -1,7 +1,12 @@
 {
   "id": 15918,
   "name": "middle section",
-  "models_2": [
-    15825
-  ]
+  "object_models": {
+    "models": [
+      15825
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

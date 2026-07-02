@@ -1,10 +1,12 @@
 {
   "id": 57212,
   "name": "<col=ffff00>Dairy Buffalo</col>",
-  "models_2": [
-    52519
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      52519
+    ]
+  },
   "unknown_24": 5855,
   "ambient": 20,
   "actions": [
@@ -17,6 +19,9 @@
   "contrast": 20,
   "category": 2218,
   "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

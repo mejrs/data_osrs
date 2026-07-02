@@ -1,12 +1,14 @@
 {
   "id": 8097,
   "name": "Diseased palm tree",
-  "models_2": [
-    8069,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      8069,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Prune",
@@ -28,5 +30,8 @@
       9110,
       16801
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

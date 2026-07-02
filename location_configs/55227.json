@@ -1,13 +1,18 @@
 {
   "id": 55227,
   "name": "Melee brazier",
-  "models_2": [
-    54963,
-    54967
-  ],
+  "object_models": {
+    "models": [
+      54963,
+      54967
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 20,
   "contrast": 30,
-  "category": 2083
+  "category": 2083,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

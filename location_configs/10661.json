@@ -1,9 +1,11 @@
 {
   "id": 10661,
   "name": "Chest",
-  "models_2": [
-    5273
-  ],
+  "object_models": {
+    "models": [
+      5273
+    ]
+  },
   "actions": [
     "Deposit",
     null,
@@ -34,5 +36,8 @@
     ]
   ],
   "category": 276,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

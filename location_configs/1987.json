@@ -1,15 +1,20 @@
 {
   "id": 1987,
   "name": "Log raft",
-  "models_2": [
-    1461
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1461
+    ]
+  },
   "actions": [
     "Board",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

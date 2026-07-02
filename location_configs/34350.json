@@ -1,9 +1,14 @@
 {
   "id": 34350,
   "name": "Barrel of Mud",
-  "models_2": [
-    36557
-  ],
+  "object_models": {
+    "models": [
+      36557
+    ]
+  },
   "ambient": 10,
-  "contrast": 5
+  "contrast": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

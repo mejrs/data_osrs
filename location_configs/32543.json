@@ -1,12 +1,14 @@
 {
   "id": 32543,
   "name": "Rope",
-  "models_2": [
-    1487,
-    13908,
-    13909
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1487,
+      13908,
+      13909
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -19,5 +21,8 @@
     null
   ],
   "category": 1220,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

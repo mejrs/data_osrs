@@ -1,8 +1,13 @@
 {
   "id": 28422,
   "name": "Shelf",
-  "models_2": [
-    30512
-  ],
-  "unknown_27": false
+  "object_models": {
+    "models": [
+      30512
+    ]
+  },
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

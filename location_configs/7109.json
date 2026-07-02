@@ -1,12 +1,14 @@
 {
   "id": 7109,
-  "models": [
-    [
-      22,
-      13994
-    ]
-  ],
   "name": "Paper",
+  "object_models_and_types": {
+    "models": [
+      13994
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "colours": [
@@ -22,5 +24,8 @@
       8472,
       2452
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

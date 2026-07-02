@@ -1,0 +1,57 @@
+{
+  "id": 60774,
+  "name": "Trollheim Portal",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      11231,
+      55509
+    ]
+  },
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      50072,
+      7326
+    ],
+    [
+      49948,
+      7331
+    ],
+    [
+      49953,
+      7335
+    ],
+    [
+      49829,
+      7343
+    ],
+    [
+      49705,
+      7349
+    ]
+  ],
+  "category": 206,
+  "scale_x": 117,
+  "scale_y": 117,
+  "scale_z": 117,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
+  "params": {
+    "429": 2,
+    "430": 1
+  }
+}

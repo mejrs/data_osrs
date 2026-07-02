@@ -1,9 +1,11 @@
 {
   "id": 33312,
   "name": "Little boulder",
-  "models_2": [
-    7766
-  ],
+  "object_models": {
+    "models": [
+      7766
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -16,5 +18,8 @@
     null
   ],
   "model": false,
-  "mapscene": 11
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

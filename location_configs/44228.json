@@ -1,9 +1,11 @@
 {
   "id": 44228,
   "name": "Bush",
-  "models_2": [
-    1640
-  ],
+  "object_models": {
+    "models": [
+      1640
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -17,5 +19,8 @@
   "scale_z": 100,
   "translate_x": 25,
   "translate_z": 25,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

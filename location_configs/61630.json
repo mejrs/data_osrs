@@ -1,0 +1,26 @@
+{
+  "id": 61630,
+  "name": "Throne",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60592
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2465,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,16 +1,16 @@
 {
   "id": 40889,
-  "models": [
-    [
-      0,
-      789
-    ],
-    [
-      9,
-      790
-    ]
-  ],
   "name": "Crevice",
+  "object_models_and_types": {
+    "models": [
+      789,
+      790
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -33,5 +33,8 @@
       43123
     ]
   ],
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

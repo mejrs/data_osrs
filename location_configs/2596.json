@@ -1,16 +1,16 @@
 {
   "id": 2596,
-  "models": [
-    [
-      0,
-      9476
-    ],
-    [
-      9,
-      9477
-    ]
-  ],
   "name": "Red door",
+  "object_models_and_types": {
+    "models": [
+      9476,
+      9477
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -37,5 +37,8 @@
       1940
     ]
   ],
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

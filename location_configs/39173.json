@@ -1,9 +1,11 @@
 {
   "id": 39173,
   "name": "Wall",
-  "models_2": [
-    40302
-  ],
+  "object_models": {
+    "models": [
+      40302
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Climb-up",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

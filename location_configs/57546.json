@@ -1,12 +1,17 @@
 {
   "id": 57546,
   "name": "Plants",
-  "models_2": [
-    56556
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      56556
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

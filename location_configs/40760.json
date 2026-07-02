@@ -1,11 +1,13 @@
 {
   "id": 40760,
   "name": "Mahogany tree",
-  "models_2": [
-    37874
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      37874
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chop down",
@@ -17,5 +19,8 @@
   "contrast": 20,
   "category": 164,
   "unknown_81": 80,
-  "mapscene": 132
+  "mapscene": 132,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

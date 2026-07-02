@@ -1,11 +1,13 @@
 {
   "id": 10831,
   "name": "Willow tree",
-  "models_2": [
-    5528
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5528
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chop down",
@@ -24,5 +26,8 @@
   "category": 286,
   "mirror": true,
   "unknown_81": 80,
-  "mapscene": 3
+  "mapscene": 3,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

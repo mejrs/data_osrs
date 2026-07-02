@@ -1,10 +1,12 @@
 {
   "id": 59321,
   "name": "Ominous sea light",
-  "models_2": [
-    57592
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      57592
+    ]
+  },
   "unknown_24": 13192,
   "ambient": 10,
   "actions": [
@@ -16,5 +18,8 @@
   ],
   "contrast": 40,
   "category": 2317,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

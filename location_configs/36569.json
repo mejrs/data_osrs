@@ -1,16 +1,21 @@
 {
   "id": 36569,
   "name": "Silk stall",
-  "models_2": [
-    37885
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37885
+    ]
+  },
   "actions": [
     null,
     "Steal-from",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,18 @@
 {
   "id": 57673,
   "name": "Zip line",
-  "models_2": [
-    5137
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      5137
+    ]
+  },
   "unknown_21": true,
   "ambient": 10,
   "contrast": 10,
   "mirror": true,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 190,
   "name": "Gate",
-  "models_2": [
-    1321
-  ],
   "dim_x": 5,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1321
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

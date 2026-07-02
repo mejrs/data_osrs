@@ -1,20 +1,21 @@
 {
   "id": 23776,
-  "models": [
-    [
-      0,
-      24665
-    ],
-    [
-      1,
-      24666
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      24665,
+      24666,
       24667
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "ambient": 25,
   "contrast": 25,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

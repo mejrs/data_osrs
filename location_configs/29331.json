@@ -1,9 +1,14 @@
 {
   "id": 29331,
   "name": "Golden Gnome",
-  "models_2": [
-    32303
-  ],
+  "object_models": {
+    "models": [
+      32303
+    ]
+  },
   "unknown_27": false,
-  "mapscene": 77
+  "mapscene": 77,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

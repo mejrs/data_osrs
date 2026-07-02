@@ -1,16 +1,19 @@
 {
   "id": 22545,
-  "models": [
-    [
-      10,
-      23855
-    ],
-    [
-      4,
-      23857
-    ]
-  ],
   "name": "Molanisk",
+  "object_models_and_types": {
+    "models": [
+      23855,
+      23857
+    ],
+    "types": [
+      10,
+      4
+    ]
+  },
   "unknown_19": 1,
-  "unknown_24": 6015
+  "unknown_24": 6015,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

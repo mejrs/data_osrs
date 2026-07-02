@@ -1,9 +1,11 @@
 {
   "id": 13659,
   "name": "Crystal ball",
-  "models_2": [
-    12952
-  ],
+  "object_models": {
+    "models": [
+      12952
+    ]
+  },
   "actions": [
     null,
     null,
@@ -11,5 +13,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

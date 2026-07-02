@@ -1,11 +1,13 @@
 {
   "id": 14939,
   "name": "Tree",
-  "models_2": [
-    16238
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      16238
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -20,5 +22,8 @@
   "scale_y": 256,
   "scale_z": 256,
   "translate_y": 65476,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

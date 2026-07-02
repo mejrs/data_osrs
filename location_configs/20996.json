@@ -1,16 +1,21 @@
 {
   "id": 20996,
   "name": "Table",
-  "models_2": [
-    21785,
-    21787,
-    21786
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      21785,
+      21787,
+      21786
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 5742,
   "ambient": 35,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 30006,
   "name": "Herb patch",
-  "models_2": [
-    32645,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      32645,
+      7766
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -24,5 +26,8 @@
       48088
     ]
   ],
-  "category": 997
+  "category": 997,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

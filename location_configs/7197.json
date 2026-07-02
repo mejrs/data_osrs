@@ -1,9 +1,11 @@
 {
   "id": 7197,
   "name": "Wardrobe",
-  "models_2": [
-    11125
-  ],
+  "object_models": {
+    "models": [
+      11125
+    ]
+  },
   "ambient": 25,
   "colours": [
     [
@@ -15,5 +17,8 @@
       7582
     ]
   ],
-  "scale_y": 120
+  "scale_y": 120,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

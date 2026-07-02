@@ -1,9 +1,11 @@
 {
   "id": 16062,
   "name": "Tropical tree",
-  "models_2": [
-    1676
-  ],
+  "object_models": {
+    "models": [
+      1676
+    ]
+  },
   "actions": [
     "Climb-down",
     null,
@@ -25,5 +27,8 @@
       14876
     ]
   ],
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

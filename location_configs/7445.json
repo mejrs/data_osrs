@@ -1,9 +1,14 @@
 {
   "id": 7445,
   "name": "Piano stool",
-  "models_2": [
-    25058
-  ],
   "dim_x": 2,
-  "ambient": 25
+  "object_models": {
+    "models": [
+      25058
+    ]
+  },
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

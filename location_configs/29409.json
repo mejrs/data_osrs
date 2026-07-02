@@ -1,18 +1,40 @@
 {
   "id": 29409,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
+  "object_models_and_types": {
+    "models": [
+      7385
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 10,
+  "contrast": 40,
+  "colours": [
+    [
+      5563,
+      7504
+    ],
+    [
+      5665,
+      7485
+    ],
+    [
+      5440,
+      7481
+    ],
+    [
+      5559,
+      7483
+    ],
+    [
+      5555,
+      7479
+    ]
   ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (BIQ)",
-    null,
-    "Remove"
-  ]
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

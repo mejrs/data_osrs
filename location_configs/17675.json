@@ -1,9 +1,14 @@
 {
   "id": 17675,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       17931
+    ],
+    "types": [
+      22
     ]
-  ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

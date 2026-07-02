@@ -1,14 +1,19 @@
 {
   "id": 22352,
   "name": "Statue",
-  "models_2": [
-    22919,
-    22918
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      22919,
+      22918
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 20,
   "contrast": 20,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

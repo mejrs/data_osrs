@@ -1,11 +1,13 @@
 {
   "id": 2217,
   "name": "Mound of earth",
-  "models_2": [
-    57465
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      57465
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Look-at",
@@ -42,5 +44,8 @@
   ],
   "scale_x": 192,
   "scale_z": 192,
-  "mapscene": 11
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

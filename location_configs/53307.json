@@ -1,9 +1,11 @@
 {
   "id": 53307,
   "name": "Drawers",
-  "models_2": [
-    53584
-  ],
+  "object_models": {
+    "models": [
+      53584
+    ]
+  },
   "actions": [
     null,
     "Search",
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

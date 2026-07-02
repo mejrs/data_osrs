@@ -1,8 +1,13 @@
 {
   "id": 6950,
   "name": "Boulder",
-  "models_2": [
-    6880
-  ],
-  "breakroutefinding": true
+  "object_models": {
+    "models": [
+      6880
+    ]
+  },
+  "breakroutefinding": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

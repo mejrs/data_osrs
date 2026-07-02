@@ -1,12 +1,14 @@
 {
   "id": 12462,
-  "models": [
-    [
-      0,
-      13744
-    ]
-  ],
   "name": "Underwater Cavern Entrance",
+  "object_models_and_types": {
+    "models": [
+      13744
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -42,5 +44,8 @@
       7335,
       9542
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

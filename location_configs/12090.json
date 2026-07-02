@@ -1,9 +1,14 @@
 {
   "id": 12090,
   "name": "Fairy Queen",
-  "models_2": [
-    11947,
-    11948
-  ],
-  "ambient": 20
+  "object_models": {
+    "models": [
+      11947,
+      11948
+    ]
+  },
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

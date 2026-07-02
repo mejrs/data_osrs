@@ -1,12 +1,17 @@
 {
   "id": 55019,
   "name": "Costume rack",
-  "models_2": [
-    54890
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      54890
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 25,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 2377,
-  "models": [
-    [
-      22,
-      12126
-    ]
-  ],
   "name": "Soil",
+  "object_models_and_types": {
+    "models": [
+      12126
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
@@ -28,5 +30,8 @@
       7050
     ]
   ],
-  "category": 537
+  "category": 537,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

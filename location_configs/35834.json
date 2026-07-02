@@ -1,12 +1,14 @@
 {
   "id": 35834,
   "name": "Herb",
-  "models_2": [
-    7875,
-    7766
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7875,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Inspect",
@@ -28,5 +30,8 @@
       19988,
       37650
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 40331,
   "name": "Blockage",
-  "models_2": [
-    40882
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      40882
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

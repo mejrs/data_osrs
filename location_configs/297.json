@@ -1,7 +1,12 @@
 {
   "id": 297,
   "name": "Scarecrow",
-  "models_2": [
-    1443
-  ]
+  "object_models": {
+    "models": [
+      1443
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

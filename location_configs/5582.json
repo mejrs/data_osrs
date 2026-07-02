@@ -1,10 +1,15 @@
 {
   "id": 5582,
   "name": "Logs",
-  "models_2": [
-    5496
-  ],
+  "object_models": {
+    "models": [
+      5496
+    ]
+  },
   "is_transparent": true,
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

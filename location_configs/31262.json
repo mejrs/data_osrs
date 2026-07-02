@@ -1,8 +1,13 @@
 {
   "id": 31262,
   "name": "Shark Beast",
-  "models_2": [
-    33320,
-    33471
-  ]
+  "object_models": {
+    "models": [
+      33320,
+      33471
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

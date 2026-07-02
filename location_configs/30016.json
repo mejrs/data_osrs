@@ -1,9 +1,11 @@
 {
   "id": 30016,
   "name": "Crystal",
-  "models_2": [
-    32763
-  ],
+  "object_models": {
+    "models": [
+      32763
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "occludes_1": false,
@@ -11,5 +13,8 @@
   "scale_x": 64,
   "scale_y": 96,
   "scale_z": 64,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

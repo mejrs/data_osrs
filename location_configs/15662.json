@@ -1,7 +1,12 @@
 {
   "id": 15662,
   "name": "Keg",
-  "models_2": [
-    15386
-  ]
+  "object_models": {
+    "models": [
+      15386
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

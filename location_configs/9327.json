@@ -1,13 +1,18 @@
 {
   "id": 9327,
-  "models": [
-    [
-      4,
-      27084
-    ]
-  ],
   "name": "Work board",
+  "object_models_and_types": {
+    "models": [
+      27084
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 40,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

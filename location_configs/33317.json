@@ -1,9 +1,11 @@
 {
   "id": 33317,
   "name": "Old fire pit",
-  "models_2": [
-    35939
-  ],
+  "object_models": {
+    "models": [
+      35939
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 8170,
   "ambient": 35,
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 70,
-  "translate_y": 65532
+  "translate_y": 65532,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,17 @@
 {
   "id": 16978,
-  "models": [
-    [
-      22,
-      7382
-    ]
-  ],
   "name": "Chart",
+  "object_models_and_types": {
+    "models": [
+      7382
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
-  "unknown_19": 1
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

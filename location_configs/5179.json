@@ -1,9 +1,14 @@
 {
   "id": 5179,
   "name": "Fireplace surround",
-  "models_2": [
-    5171
-  ],
+  "object_models": {
+    "models": [
+      5171
+    ]
+  },
   "unknown_24": 1630,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

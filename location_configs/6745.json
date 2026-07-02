@@ -1,9 +1,11 @@
 {
   "id": 6745,
   "name": "Hedge",
-  "models_2": [
-    13176
-  ],
+  "object_models": {
+    "models": [
+      13176
+    ]
+  },
   "is_transparent": true,
   "actions": [
     null,
@@ -13,5 +15,8 @@
     "Remove"
   ],
   "contrast": 20,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

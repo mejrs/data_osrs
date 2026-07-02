@@ -1,12 +1,14 @@
 {
   "id": 26663,
-  "models": [
-    [
-      0,
-      28466
-    ]
-  ],
   "name": "Ore vein",
+  "object_models_and_types": {
+    "models": [
+      28466
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 20,
@@ -29,5 +31,8 @@
     ]
   ],
   "category": 751,
-  "scale_y": 170
+  "scale_y": 170,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

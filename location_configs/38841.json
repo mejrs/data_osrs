@@ -1,12 +1,14 @@
 {
   "id": 38841,
-  "models": [
-    [
-      0,
-      4874
-    ]
-  ],
   "name": "Holy Barrier",
+  "object_models_and_types": {
+    "models": [
+      4874
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "ambient": 100,
   "contrast": 100,
@@ -15,5 +17,8 @@
       61,
       8148
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

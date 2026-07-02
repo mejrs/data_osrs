@@ -1,29 +1,26 @@
 {
   "id": 16761,
-  "models": [
-    [
-      0,
-      16608
-    ],
-    [
-      1,
-      16609
-    ],
-    [
-      2,
-      16610
-    ],
-    [
-      3,
-      16611
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      16608,
+      16609,
+      16610,
+      16611,
       16612
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

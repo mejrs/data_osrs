@@ -1,16 +1,16 @@
 {
   "id": 5155,
-  "models": [
-    [
-      0,
-      13158
-    ],
-    [
-      2,
-      13160
-    ]
-  ],
   "name": "Iron railings",
+  "object_models_and_types": {
+    "models": [
+      13158,
+      13160
+    ],
+    "types": [
+      0,
+      2
+    ]
+  },
   "is_transparent": true,
   "actions": [
     null,
@@ -19,5 +19,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

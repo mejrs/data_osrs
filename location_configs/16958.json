@@ -1,11 +1,13 @@
 {
   "id": 16958,
   "name": "Row boat",
-  "models_2": [
-    9535
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      9535
+    ]
+  },
   "colours": [
     [
       5784,
@@ -27,5 +29,8 @@
       5541,
       5285
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

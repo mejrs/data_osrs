@@ -1,8 +1,13 @@
 {
   "id": 15518,
   "name": "Mouse hole",
-  "models_2": [
-    2068
-  ],
-  "translate_x": 65534
+  "object_models": {
+    "models": [
+      2068
+    ]
+  },
+  "translate_x": 65534,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

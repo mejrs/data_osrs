@@ -1,11 +1,13 @@
 {
   "id": 6844,
   "name": "Ogre Coffin",
-  "models_2": [
-    6786
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      6786
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Search",
@@ -24,5 +26,8 @@
       6558
     ]
   ],
-  "mapscene": 34
+  "mapscene": 34,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

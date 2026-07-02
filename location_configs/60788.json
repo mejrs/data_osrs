@@ -1,0 +1,25 @@
+{
+  "id": 60788,
+  "name": "Dairy cow",
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      23891
+    ]
+  },
+  "unknown_24": 5855,
+  "ambient": 20,
+  "actions": [
+    "Milk",
+    "Steal-cowbell",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 2409,
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

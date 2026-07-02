@@ -1,9 +1,11 @@
 {
   "id": 51545,
   "name": "Shelves",
-  "models_2": [
-    2134
-  ],
+  "object_models": {
+    "models": [
+      2134
+    ]
+  },
   "ambient": 5,
   "contrast": 25,
   "colours": [
@@ -20,5 +22,8 @@
       7442
     ]
   ],
-  "scale_y": 100
+  "scale_y": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

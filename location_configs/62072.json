@@ -1,0 +1,25 @@
+{
+  "id": 62072,
+  "name": "Cupboard",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      40387
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 27,
+  "translate_x": 65472,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,12 +1,14 @@
 {
   "id": 53943,
   "name": "Treasure pile",
-  "models_2": [
-    53691,
-    53693,
-    53692
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      53691,
+      53693,
+      53692
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 11166,
   "ambient": 25,
@@ -18,5 +20,8 @@
     null
   ],
   "contrast": 15,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

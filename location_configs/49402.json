@@ -1,17 +1,22 @@
 {
   "id": 49402,
-  "models": [
-    [
-      22,
-      48718
-    ]
-  ],
   "name": "Crimson Vein",
+  "object_models_and_types": {
+    "models": [
+      48718
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 30,
   "contrast": 20,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

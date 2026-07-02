@@ -1,8 +1,13 @@
 {
   "id": 27540,
   "name": "Cupboard",
-  "models_2": [
-    30232
-  ],
-  "unknown_27": false
+  "object_models": {
+    "models": [
+      30232
+    ]
+  },
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

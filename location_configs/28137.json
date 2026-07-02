@@ -1,11 +1,13 @@
 {
   "id": 28137,
   "name": "Bookshelf",
-  "models_2": [
-    30774,
-    30780,
-    30776
-  ],
+  "object_models": {
+    "models": [
+      30774,
+      30780,
+      30776
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -38,5 +40,8 @@
       46040
     ]
   ],
-  "category": 907
+  "category": 907,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

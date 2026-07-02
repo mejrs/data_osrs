@@ -1,16 +1,16 @@
 {
   "id": 13322,
-  "models": [
-    [
-      0,
-      12433
-    ],
-    [
-      2,
-      12434
-    ]
-  ],
   "name": "Cage",
+  "object_models_and_types": {
+    "models": [
+      12433,
+      12434
+    ],
+    "types": [
+      0,
+      2
+    ]
+  },
   "is_transparent": true,
   "actions": [
     null,
@@ -19,5 +19,8 @@
     "Build-in",
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 15697,
   "name": "Crate",
-  "models_2": [
-    15520
-  ],
   "dim_x": 2,
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      15520
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 26421,
   "name": "Broken pillar",
-  "models_2": [
-    27826
-  ],
+  "object_models": {
+    "models": [
+      27826
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

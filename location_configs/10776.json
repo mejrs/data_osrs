@@ -1,10 +1,12 @@
 {
   "id": 10776,
   "name": "Stairs",
-  "models_2": [
-    10611
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      10611
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -21,5 +23,8 @@
   "scale_x": 128,
   "scale_y": 192,
   "scale_z": 128,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

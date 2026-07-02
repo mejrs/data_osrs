@@ -1,9 +1,11 @@
 {
   "id": 7312,
   "name": "Statue",
-  "models_2": [
-    7711
-  ],
+  "object_models": {
+    "models": [
+      7711
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Touch",
@@ -30,5 +32,8 @@
       6720
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

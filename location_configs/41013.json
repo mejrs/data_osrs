@@ -1,10 +1,12 @@
 {
   "id": 41013,
   "name": "Scoreboard",
-  "models_2": [
-    41572
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      41572
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -15,5 +17,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

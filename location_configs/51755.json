@@ -1,13 +1,18 @@
 {
   "id": 51755,
   "name": "Empty basket",
-  "models_2": [
-    52375
-  ],
+  "object_models": {
+    "models": [
+      52375
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

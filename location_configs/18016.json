@@ -1,10 +1,12 @@
 {
   "id": 18016,
   "name": "Broken counter",
-  "models_2": [
-    17660
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      17660
+    ]
+  },
   "is_transparent": true,
   "ambient": 15,
   "colours": [
@@ -32,5 +34,8 @@
       6443,
       8472
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

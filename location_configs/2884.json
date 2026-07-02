@@ -1,9 +1,14 @@
 {
   "id": 2884,
   "name": "Carrot scraps",
-  "models_2": [
-    4244
-  ],
+  "object_models": {
+    "models": [
+      4244
+    ]
+  },
   "unknown_17": false,
-  "unknown_19": 1
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

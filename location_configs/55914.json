@@ -1,12 +1,14 @@
 {
   "id": 55914,
   "name": "Tree",
-  "models_2": [
-    1570,
-    55836
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1570,
+      55836
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Chop down",
@@ -44,5 +46,8 @@
   },
   "category": 189,
   "unknown_81": 80,
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

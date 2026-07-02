@@ -1,13 +1,18 @@
 {
   "id": 24803,
-  "models": [
-    [
-      4,
-      26013
-    ]
-  ],
   "name": "Lock",
+  "object_models_and_types": {
+    "models": [
+      26013
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

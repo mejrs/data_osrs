@@ -1,9 +1,14 @@
 {
   "id": 52691,
   "name": "Empty display",
-  "models_2": [
-    52363
-  ],
+  "object_models": {
+    "models": [
+      52363
+    ]
+  },
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

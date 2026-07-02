@@ -1,14 +1,19 @@
 {
   "id": 30535,
   "name": "Smelly mushroom",
-  "models_2": [
-    33841
-  ],
+  "object_models": {
+    "models": [
+      33841
+    ]
+  },
   "actions": [
     "Inspect",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

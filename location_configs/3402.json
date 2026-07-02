@@ -1,10 +1,12 @@
 {
   "id": 3402,
   "name": "Workbench",
-  "models_2": [
-    18586
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      18586
+    ]
+  },
   "actions": [
     "Smith",
     null,
@@ -17,5 +19,8 @@
       61,
       7566
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

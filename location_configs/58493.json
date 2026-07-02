@@ -1,12 +1,14 @@
 {
   "id": 58493,
   "name": "Display",
-  "models_2": [
-    58826,
-    58828,
-    58829
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      58826,
+      58828,
+      58829
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Inspect",
@@ -19,5 +21,8 @@
   "scale_x": 120,
   "scale_y": 120,
   "scale_z": 120,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

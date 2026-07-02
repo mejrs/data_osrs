@@ -1,8 +1,13 @@
 {
   "id": 14013,
   "name": "Massive ribs",
-  "models_2": [
-    13327
-  ],
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      13327
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,14 +1,19 @@
 {
   "id": 39937,
   "name": "Shelves",
-  "models_2": [
-    40833
-  ],
+  "object_models": {
+    "models": [
+      40833
+    ]
+  },
   "actions": [
     null,
     "Remove",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

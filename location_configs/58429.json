@@ -1,11 +1,13 @@
 {
   "id": 58429,
   "name": "Broken fish stall",
-  "models_2": [
-    58840,
-    58848
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      58840,
+      58848
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 20,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

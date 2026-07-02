@@ -1,11 +1,13 @@
 {
   "id": 14048,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       11818
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_17": false,
   "colours": [
     [
@@ -16,5 +18,9 @@
       7580,
       40099
     ]
-  ]
+  ],
+  "raise": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

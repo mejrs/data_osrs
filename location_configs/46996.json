@@ -1,10 +1,12 @@
 {
   "id": 46996,
   "name": "Memorial",
-  "models_2": [
-    5169
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      5169
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 9985,
@@ -37,5 +39,8 @@
       37
     ]
   ],
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

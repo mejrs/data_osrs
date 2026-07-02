@@ -1,12 +1,17 @@
 {
   "id": 57612,
   "name": "Gemstone rock",
-  "models_2": [
-    56648
-  ],
+  "object_models": {
+    "models": [
+      56648
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 20,
   "contrast": 10,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

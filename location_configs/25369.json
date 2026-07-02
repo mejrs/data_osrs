@@ -1,12 +1,14 @@
 {
   "id": 25369,
-  "models": [
-    [
-      22,
-      31282
-    ]
-  ],
   "name": "Holding area",
+  "object_models_and_types": {
+    "models": [
+      31282
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -16,5 +18,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

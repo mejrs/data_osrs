@@ -1,19 +1,22 @@
 {
   "id": 43457,
-  "models": [
-    [
-      3,
-      43603
-    ],
-    [
-      9,
-      43617
-    ]
-  ],
   "name": "Prison door",
+  "object_models_and_types": {
+    "models": [
+      43603,
+      43617
+    ],
+    "types": [
+      3,
+      9
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 30,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

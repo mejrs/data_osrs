@@ -1,10 +1,12 @@
 {
   "id": 6772,
   "name": "Scroll rack",
-  "models_2": [
-    12413,
-    12411
-  ],
+  "object_models": {
+    "models": [
+      12413,
+      12411
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -13,5 +15,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,14 +1,19 @@
 {
   "id": 10038,
   "name": "Rope",
-  "models_2": [
-    9709
-  ],
+  "object_models": {
+    "models": [
+      9709
+    ]
+  },
   "actions": [
     "Climb-up",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

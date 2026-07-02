@@ -1,9 +1,11 @@
 {
   "id": 20148,
   "name": "Winch",
-  "models_2": [
-    20689
-  ],
+  "object_models": {
+    "models": [
+      20689
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 10,
@@ -28,5 +30,8 @@
       7050,
       5904
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

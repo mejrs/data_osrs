@@ -1,17 +1,22 @@
 {
   "id": 2675,
-  "models": [
-    [
-      0,
-      639
-    ]
-  ],
   "name": "Mine door entrance",
+  "object_models_and_types": {
+    "models": [
+      639
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Open",
     "Watch",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 702,
   "name": "Large bone",
-  "models_2": [
-    1821
-  ]
+  "object_models": {
+    "models": [
+      1821
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

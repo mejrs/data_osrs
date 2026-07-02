@@ -1,13 +1,18 @@
 {
   "id": 51389,
   "name": "Ancient gate",
-  "models_2": [
-    2294
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      2294
+    ]
+  },
   "unknown_17": false,
   "scale_x": 192,
   "scale_z": 192,
-  "translate_y": 65280
+  "translate_y": 65280,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

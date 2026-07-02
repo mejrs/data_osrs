@@ -1,10 +1,12 @@
 {
   "id": 8544,
   "name": "Diseased cabbages",
-  "models_2": [
-    8192,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8192,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Cure",
@@ -30,5 +32,8 @@
       17300,
       11150
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

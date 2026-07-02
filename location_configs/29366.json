@@ -1,18 +1,47 @@
 {
   "id": 29366,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
+  "name": "Runestone basalt",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      43389
+    ]
+  },
+  "unknown_21": true,
+  "unknown_24": 9228,
   "unknown_27": false,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (AKP)",
-    null,
-    "Remove"
-  ]
+  "ambient": 20,
+  "contrast": -100,
+  "colours": [
+    [
+      29656,
+      815
+    ],
+    [
+      40103,
+      28
+    ],
+    [
+      40094,
+      20
+    ],
+    [
+      40210,
+      16
+    ],
+    [
+      40458,
+      8
+    ],
+    [
+      21662,
+      268
+    ]
+  ],
+  "model": false,
+  "mapscene": 95,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

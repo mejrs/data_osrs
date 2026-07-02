@@ -1,7 +1,12 @@
 {
   "id": 21933,
   "name": "Retorts",
-  "models_2": [
-    22677
-  ]
+  "object_models": {
+    "models": [
+      22677
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

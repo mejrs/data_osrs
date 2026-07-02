@@ -1,8 +1,13 @@
 {
   "id": 15201,
   "name": "Hole",
-  "models_2": [
-    15049
-  ],
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      15049
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

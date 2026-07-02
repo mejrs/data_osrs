@@ -1,12 +1,14 @@
 {
   "id": 59326,
   "name": "Wreck of the Soul Searcher",
-  "models_2": [
-    58889,
-    57639
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58889,
+      57639
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 13605,
@@ -21,5 +23,8 @@
   "contrast": 25,
   "category": 2317,
   "model": false,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

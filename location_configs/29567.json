@@ -1,17 +1,13 @@
 {
   "id": 29567,
-  "name": "Fairy ring",
-  "models_2": [
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
-  "actions": [
-    null,
-    "Configure",
-    "Last-destination (ALR)",
-    null,
-    null
-  ]
+  "name": "Throne",
+  "object_models": {
+    "models": [
+      596
+    ]
+  },
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

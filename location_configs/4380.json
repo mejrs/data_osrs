@@ -1,9 +1,14 @@
 {
   "id": 4380,
   "name": "Iron ladder",
-  "models_2": [
-    4567
-  ],
+  "object_models": {
+    "models": [
+      4567
+    ]
+  },
   "unknown_22": true,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 9106,
   "name": "Gear box",
-  "models_2": [
-    9066
-  ],
   "dim_x": 2,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      9066
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 24556,
   "name": "Specimen table",
-  "models_2": [
-    25355
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      25355
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Clean",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 691
+  "category": 691,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

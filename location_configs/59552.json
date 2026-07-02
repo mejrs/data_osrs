@@ -1,0 +1,69 @@
+{
+  "id": 59552,
+  "name": "Crevice",
+  "object_models": {
+    "models": [
+      59842
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "colours": [
+    [
+      7463,
+      43034
+    ],
+    [
+      7587,
+      43038
+    ],
+    [
+      7585,
+      43043
+    ],
+    [
+      7580,
+      43045
+    ],
+    [
+      7704,
+      43047
+    ],
+    [
+      6554,
+      43049
+    ],
+    [
+      6550,
+      43045
+    ],
+    [
+      6674,
+      43038
+    ],
+    [
+      6430,
+      43055
+    ]
+  ],
+  "category": 2342,
+  "scale_y": 164,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
+  "params": {
+    "2291": 1,
+    "2294": 2,
+    "2295": 1
+  }
+}

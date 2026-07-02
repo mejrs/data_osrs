@@ -1,11 +1,13 @@
 {
   "id": 60111,
   "name": "Ancient Furnace",
-  "models_2": [
-    58391
-  ],
   "dim_x": 4,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      58391
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 8933,
@@ -23,6 +25,9 @@
     "unknown_1": 2210,
     "unknown_2": 3
   },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2509": 1
   }

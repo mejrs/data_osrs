@@ -1,18 +1,16 @@
 {
   "id": 29410,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
+  "name": "Gibbet",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60212
+    ]
+  },
   "unknown_27": false,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (BLP)",
-    null,
-    "Remove"
-  ]
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

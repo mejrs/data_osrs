@@ -1,9 +1,11 @@
 {
   "id": 58648,
   "name": "Spinning wheel space",
-  "models_2": [
-    58761
-  ],
+  "object_models": {
+    "models": [
+      58761
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 10,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

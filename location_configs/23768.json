@@ -1,25 +1,24 @@
 {
   "id": 23768,
-  "models": [
-    [
-      12,
-      25224
-    ],
-    [
-      14,
-      25225
-    ],
-    [
-      17,
-      25226
-    ],
-    [
-      18,
+  "object_models_and_types": {
+    "models": [
+      25224,
+      25225,
+      25226,
       25227
+    ],
+    "types": [
+      12,
+      14,
+      17,
+      18
     ]
-  ],
+  },
   "unknown_22": true,
   "ambient": 30,
   "contrast": 30,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

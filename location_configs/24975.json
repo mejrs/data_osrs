@@ -1,13 +1,15 @@
 {
   "id": 24975,
-  "models": [
-    [
-      4,
-      7455
-    ]
-  ],
   "name": "Nature rift",
   "dim_x": 2,
+  "object_models_and_types": {
+    "models": [
+      7455
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 2178,
   "ambient": 50,
@@ -18,5 +20,8 @@
     null,
     null
   ],
-  "contrast": 50
+  "contrast": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

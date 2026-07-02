@@ -1,14 +1,19 @@
 {
   "id": 2835,
   "name": "Rock",
-  "models_2": [
-    1390
-  ],
+  "object_models": {
+    "models": [
+      1390
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 17031,
   "name": "Crossbow stall",
-  "models_2": [
-    5879,
-    16890
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5879,
+      16890
+    ]
+  },
   "actions": [
     null,
     "Steal-from",
@@ -16,5 +18,8 @@
   ],
   "scale_x": 88,
   "scale_y": 88,
-  "scale_z": 88
+  "scale_z": 88,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

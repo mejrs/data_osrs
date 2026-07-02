@@ -1,8 +1,13 @@
 {
   "id": 31298,
   "name": "Lava Monster",
-  "models_2": [
-    33313,
-    33303
-  ]
+  "object_models": {
+    "models": [
+      33313,
+      33303
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,27 +1,21 @@
 {
   "id": 3435,
-  "models": [
-    [
-      0,
-      3526
-    ],
-    [
-      1,
-      3527
-    ],
-    [
-      2,
-      3528
-    ],
-    [
-      3,
-      3529
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      3526,
+      3527,
+      3528,
+      3529,
       3530
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "occludes_1": false,
@@ -34,5 +28,8 @@
   ],
   "textures": {
     "16": 5
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 11319,
   "name": "Ship hull",
-  "models_2": [
-    11173
-  ],
+  "object_models": {
+    "models": [
+      11173
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -26,5 +28,8 @@
       12818,
       6930
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

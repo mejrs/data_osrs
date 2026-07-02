@@ -1,12 +1,14 @@
 {
   "id": 43819,
   "name": "Guardian of Nature",
-  "models_2": [
-    43995,
-    43994
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      43995,
+      43994
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 9362,
   "unknown_27": false,
@@ -18,5 +20,8 @@
       22430
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,17 @@
 {
   "id": 34896,
-  "models": [
-    [
-      4,
-      12471
-    ]
-  ],
   "name": "Blood",
+  "object_models_and_types": {
+    "models": [
+      12471
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 100
+  "ambient": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

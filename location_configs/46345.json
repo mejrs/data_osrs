@@ -1,9 +1,11 @@
 {
   "id": 46345,
   "name": "Huge Mushroom",
-  "models_2": [
-    4093
-  ],
+  "object_models": {
+    "models": [
+      4093
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,16 +1,16 @@
 {
   "id": 30126,
-  "models": [
-    [
-      10,
-      32347
-    ],
-    [
-      4,
-      32350
-    ]
-  ],
   "name": "Painting",
+  "object_models_and_types": {
+    "models": [
+      32347,
+      32350
+    ],
+    "types": [
+      10,
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 5,
   "actions": [
@@ -19,5 +19,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,15 +1,15 @@
 {
   "id": 7226,
-  "models": [
-    [
-      10,
-      7579
-    ],
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
+      7579,
       7580
+    ],
+    "types": [
+      10,
+      22
     ]
-  ],
+  },
   "unknown_19": 0,
   "colours": [
     [
@@ -33,5 +33,8 @@
       3604
     ]
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

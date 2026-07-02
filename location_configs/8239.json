@@ -1,10 +1,12 @@
 {
   "id": 8239,
   "name": "Jute",
-  "models_2": [
-    7877,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      7877,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -26,5 +28,8 @@
       15822,
       15810
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 15078,
   "name": "Flax",
-  "models_2": [
-    15107,
-    7766
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      15107,
+      7766
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 6881,
   "name": "Crushed barricade",
-  "models_2": [
-    6789
-  ],
+  "object_models": {
+    "models": [
+      6789
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "actions": [
@@ -18,5 +20,8 @@
       9556,
       8514
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

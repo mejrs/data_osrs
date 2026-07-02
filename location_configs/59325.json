@@ -1,11 +1,13 @@
 {
   "id": 59325,
   "name": "Old camp",
-  "models_2": [
-    57595
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      57595
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 15,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 25,
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

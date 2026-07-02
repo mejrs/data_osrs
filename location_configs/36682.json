@@ -1,12 +1,17 @@
 {
   "id": 36682,
   "name": "Maple tree",
-  "models_2": [
-    37834
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37834
+    ]
+  },
   "ambient": 15,
   "contrast": 5,
-  "mapscene": 2
+  "mapscene": 2,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,43 @@
+{
+  "id": 61424,
+  "name": "Distillation kit",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      48568,
+      48563
+    ]
+  },
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 25,
+  "colours": [
+    [
+      43038,
+      24
+    ],
+    [
+      43043,
+      30
+    ],
+    [
+      8865,
+      57748
+    ],
+    [
+      3350,
+      284
+    ],
+    [
+      3346,
+      278
+    ],
+    [
+      3470,
+      398
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

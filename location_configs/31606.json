@@ -1,11 +1,13 @@
 {
   "id": 31606,
   "name": "Cave entrance",
-  "models_2": [
-    34382
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      34382
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Enter",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

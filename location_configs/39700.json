@@ -1,17 +1,20 @@
 {
   "id": 39700,
-  "models": [
-    [
-      10,
-      40719
-    ],
-    [
-      22,
-      40718
-    ]
-  ],
   "name": "Flowers",
+  "object_models_and_types": {
+    "models": [
+      40719,
+      40718
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_17": false,
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

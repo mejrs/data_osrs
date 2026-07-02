@@ -1,12 +1,14 @@
 {
   "id": 7766,
   "name": "Dead cactus",
-  "models_2": [
-    7829,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7829,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Clear",
@@ -24,5 +26,8 @@
       17296,
       10514
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

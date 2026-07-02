@@ -1,9 +1,11 @@
 {
   "id": 34478,
   "name": "Rope ladder",
-  "models_2": [
-    32859
-  ],
+  "object_models": {
+    "models": [
+      32859
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

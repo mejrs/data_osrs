@@ -1,12 +1,14 @@
 {
   "id": 22863,
-  "models": [
-    [
-      0,
-      23719
-    ]
-  ],
   "name": "Water",
+  "object_models_and_types": {
+    "models": [
+      23719
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 6024,
   "ambient": 35,
@@ -14,5 +16,8 @@
     "unknown_1": 2149,
     "unknown_2": 5
   },
-  "mapscene": 75
+  "mapscene": 75,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

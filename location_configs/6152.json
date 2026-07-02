@@ -1,8 +1,13 @@
 {
   "id": 6152,
   "name": "Bar",
-  "models_2": [
-    5922
-  ],
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      5922
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

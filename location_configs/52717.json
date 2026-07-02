@@ -1,15 +1,20 @@
 {
   "id": 52717,
   "name": "Statue of Queen Zyanyi",
-  "models_2": [
-    52316
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      52316
+    ]
+  },
   "ambient": 5,
   "contrast": 30,
   "model": false,
   "scale_x": 230,
   "scale_y": 230,
-  "scale_z": 230
+  "scale_z": 230,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

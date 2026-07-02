@@ -1,9 +1,11 @@
 {
   "id": 46592,
   "name": "Chest",
-  "models_2": [
-    5272
-  ],
+  "object_models": {
+    "models": [
+      5272
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Picklock",
@@ -34,5 +36,8 @@
       7954
     ]
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

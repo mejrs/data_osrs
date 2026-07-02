@@ -1,8 +1,13 @@
 {
   "id": 40140,
   "name": "Hat stand",
-  "models_2": [
-    40828
-  ],
-  "ambient": 25
+  "object_models": {
+    "models": [
+      40828
+    ]
+  },
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 53189,
   "name": "Tree stump",
-  "models_2": [
-    4837
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      4837
+    ]
+  },
   "ambient": 15,
   "contrast": 15,
   "colours": [
@@ -22,5 +24,8 @@
       4626
     ]
   ],
-  "mapscene": 191
+  "mapscene": 191,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

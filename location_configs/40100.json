@@ -1,9 +1,11 @@
 {
   "id": 40100,
   "name": "Broken Sink",
-  "models_2": [
-    40824
-  ],
+  "object_models": {
+    "models": [
+      40824
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -11,5 +13,8 @@
     "Repair",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

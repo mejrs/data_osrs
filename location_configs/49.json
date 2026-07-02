@@ -1,11 +1,16 @@
 {
   "id": 49,
-  "models": [
-    [
-      0,
-      14353
-    ]
-  ],
   "name": "Gate",
-  "unknown_19": 1
+  "object_models_and_types": {
+    "models": [
+      14353
+    ],
+    "types": [
+      0
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

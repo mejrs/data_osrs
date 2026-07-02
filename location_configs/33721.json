@@ -1,12 +1,14 @@
 {
   "id": 33721,
   "name": "Celastrus tree stump",
-  "models_2": [
-    36811,
-    7768
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      36811,
+      7768
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Clear",
@@ -14,5 +16,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

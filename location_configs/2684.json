@@ -1,14 +1,19 @@
 {
   "id": 2684,
   "name": "Mine Cart",
-  "models_2": [
-    1398
-  ],
+  "object_models": {
+    "models": [
+      1398
+    ]
+  },
   "actions": [
     "Look at",
     "Search",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

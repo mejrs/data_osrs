@@ -1,10 +1,15 @@
 {
   "id": 9335,
   "name": "Empty desk",
-  "models_2": [
-    27081
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "model": false
+  "object_models": {
+    "models": [
+      27081
+    ]
+  },
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

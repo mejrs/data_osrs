@@ -1,9 +1,11 @@
 {
   "id": 15420,
   "name": "Lectern space",
-  "models_2": [
-    12715
-  ],
+  "object_models": {
+    "models": [
+      12715
+    ]
+  },
   "actions": [
     null,
     null,
@@ -11,5 +13,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

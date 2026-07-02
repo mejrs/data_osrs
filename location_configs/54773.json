@@ -1,9 +1,11 @@
 {
   "id": 54773,
   "name": "Chest",
-  "models_2": [
-    52412
-  ],
+  "object_models": {
+    "models": [
+      52412
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Picklock",
@@ -47,5 +49,8 @@
       6839
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

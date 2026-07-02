@@ -1,15 +1,18 @@
 {
   "id": 30574,
-  "models": [
-    [
-      0,
-      33777
-    ],
-    [
-      1,
+  "object_models_and_types": {
+    "models": [
+      33777,
       33757
+    ],
+    "types": [
+      0,
+      1
     ]
-  ],
+  },
   "unknown_19": 0,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

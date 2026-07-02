@@ -1,0 +1,16 @@
+{
+  "id": 61229,
+  "name": "Dead juvenile",
+  "object_models": {
+    "models": [
+      61194
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

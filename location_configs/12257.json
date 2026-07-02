@@ -1,13 +1,18 @@
 {
   "id": 12257,
   "name": "Dragon egg",
-  "models_2": [
-    1758
-  ],
+  "object_models": {
+    "models": [
+      1758
+    ]
+  },
   "colours": [
     [
       43125,
       43047
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

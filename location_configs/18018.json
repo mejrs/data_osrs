@@ -1,9 +1,11 @@
 {
   "id": 18018,
   "name": "Counter",
-  "models_2": [
-    17728
-  ],
+  "object_models": {
+    "models": [
+      17728
+    ]
+  },
   "is_transparent": true,
   "ambient": 15,
   "colours": [
@@ -27,5 +29,8 @@
       6682,
       21526
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

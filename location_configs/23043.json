@@ -1,12 +1,14 @@
 {
   "id": 23043,
-  "models": [
-    [
-      4,
-      23884
-    ]
-  ],
   "name": "Tools",
+  "object_models_and_types": {
+    "models": [
+      23884
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 40,
   "actions": [
@@ -26,5 +28,8 @@
       5908
     ]
   ],
-  "category": 661
+  "category": 661,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

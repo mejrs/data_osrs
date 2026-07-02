@@ -1,13 +1,18 @@
 {
   "id": 16239,
-  "models": [
-    [
-      4,
-      16102
-    ]
-  ],
   "name": "First aid box",
+  "object_models_and_types": {
+    "models": [
+      16102
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 40,
-  "translate_x": 65524
+  "translate_x": 65524,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

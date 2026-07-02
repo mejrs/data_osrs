@@ -1,9 +1,11 @@
 {
   "id": 9236,
   "name": "Vine patch",
-  "models_2": [
-    9209
-  ],
+  "object_models": {
+    "models": [
+      9209
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Rake",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

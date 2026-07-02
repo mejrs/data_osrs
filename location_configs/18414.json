@@ -1,9 +1,11 @@
 {
   "id": 18414,
   "name": "Imposing Doors",
-  "models_2": [
-    18383
-  ],
+  "object_models": {
+    "models": [
+      18383
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "breakroutefinding": true
+  "breakroutefinding": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 46485,
   "name": "Mysterious Stairs",
-  "models_2": [
-    42224
-  ],
+  "object_models": {
+    "models": [
+      42224
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

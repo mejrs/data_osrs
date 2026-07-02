@@ -1,12 +1,14 @@
 {
   "id": 4352,
-  "models": [
-    [
-      22,
-      1055
-    ]
-  ],
   "name": "Bowl",
+  "object_models_and_types": {
+    "models": [
+      1055
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -27,5 +29,8 @@
       7075,
       4382
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

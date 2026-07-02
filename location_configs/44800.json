@@ -1,15 +1,20 @@
 {
   "id": 44800,
-  "models_2": [
-    45420
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      45420
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
   "ambient": -20,
   "contrast": 30,
   "mirror": true,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

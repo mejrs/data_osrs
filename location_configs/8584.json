@@ -1,10 +1,12 @@
 {
   "id": 8584,
   "name": "Onion",
-  "models_2": [
-    8211,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8211,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Harvest",
@@ -26,5 +28,8 @@
       12616,
       4535
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,8 +1,13 @@
 {
   "id": 31208,
   "name": "Ancient cave painting",
-  "models_2": [
-    33316,
-    33491
-  ]
+  "object_models": {
+    "models": [
+      33316,
+      33491
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 57352,
   "name": "Half-made rug",
-  "models_2": [
-    57011
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      57011
+    ]
+  },
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 21936,
   "name": "Experiment table",
-  "models_2": [
-    22645,
-    22646
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      22645,
+      22646
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

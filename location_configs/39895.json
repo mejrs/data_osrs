@@ -1,14 +1,19 @@
 {
   "id": 39895,
   "name": "Teak table",
-  "models_2": [
-    12492
-  ],
+  "object_models": {
+    "models": [
+      12492
+    ]
+  },
   "actions": [
     null,
     "Remove",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 3494,
   "name": "Monument",
-  "models_2": [
-    3554
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      3554
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 1072,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "category": 169
+  "category": 169,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

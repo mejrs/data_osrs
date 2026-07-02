@@ -1,10 +1,15 @@
 {
   "id": 27530,
   "name": "Bench",
-  "models_2": [
-    30223
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      30223
+    ]
+  },
   "is_transparent": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,15 +1,21 @@
 {
   "id": 110,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       1029
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "colours": [
     [
       6554,
       7690
     ]
-  ]
+  ],
+  "raise": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 41222,
   "name": "Altar",
-  "models_2": [
-    41772
-  ],
   "dim_x": 2,
   "dim_y": 3,
-  "ambient": 20
+  "object_models": {
+    "models": [
+      41772
+    ]
+  },
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

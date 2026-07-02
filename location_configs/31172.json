@@ -1,8 +1,13 @@
 {
   "id": 31172,
   "name": "Fossil fuel",
-  "models_2": [
-    33316,
-    33383
-  ]
+  "object_models": {
+    "models": [
+      33316,
+      33383
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

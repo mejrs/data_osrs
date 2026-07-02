@@ -1,10 +1,12 @@
 {
   "id": 55775,
   "name": "Mural",
-  "models_2": [
-    55476
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      55476
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -36,5 +38,8 @@
       8617,
       7461
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

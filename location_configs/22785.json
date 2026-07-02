@@ -1,11 +1,16 @@
 {
   "id": 22785,
   "name": "Play blocks",
-  "models_2": [
-    23501
-  ],
+  "object_models": {
+    "models": [
+      23501
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

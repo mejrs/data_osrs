@@ -1,10 +1,12 @@
 {
   "id": 17429,
   "name": "Rusty key",
-  "models_2": [
-    17468,
-    17471
-  ],
+  "object_models": {
+    "models": [
+      17468,
+      17471
+    ]
+  },
   "actions": [
     "Take",
     null,
@@ -15,5 +17,8 @@
   "scale_x": 85,
   "scale_y": 85,
   "scale_z": 85,
-  "translate_y": 65534
+  "translate_y": 65534,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

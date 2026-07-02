@@ -1,10 +1,12 @@
 {
   "id": 56083,
   "name": "Table",
-  "models_2": [
-    56030
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      56030
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -28,20 +30,23 @@
     ],
     [
       43026,
-      8
+      7741
     ],
     [
       43146,
-      0
+      7727
     ],
     [
       55215,
-      8128
+      7872
     ],
     [
       931,
-      8
+      1569
     ]
   ],
-  "category": 2155
+  "category": 2155,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

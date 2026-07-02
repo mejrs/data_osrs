@@ -1,9 +1,11 @@
 {
   "id": 49439,
   "name": "Fleshy growth",
-  "models_2": [
-    49266
-  ],
+  "object_models": {
+    "models": [
+      49266
+    ]
+  },
   "is_transparent": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

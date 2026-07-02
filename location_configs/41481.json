@@ -1,11 +1,13 @@
 {
   "id": 41481,
   "name": "Sacred Forge",
-  "models_2": [
-    42106
-  ],
   "dim_x": 4,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      42106
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 8933,
@@ -13,5 +15,8 @@
   "unknown_78": {
     "unknown_1": 2066,
     "unknown_2": 4
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

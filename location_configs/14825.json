@@ -1,9 +1,14 @@
 {
   "id": 14825,
   "name": "Obelisk",
-  "models_2": [
-    14776,
-    14777
-  ],
-  "unknown_24": 3944
+  "object_models": {
+    "models": [
+      14776,
+      14777
+    ]
+  },
+  "unknown_24": 3944,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,16 +1,21 @@
 {
   "id": 2230,
   "name": "Travel cart",
-  "models_2": [
-    1480
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1480
+    ]
+  },
   "actions": [
     null,
     "Board",
     "Pay-fare",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

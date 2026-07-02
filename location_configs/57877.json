@@ -1,9 +1,14 @@
 {
   "id": 57877,
   "name": "Water storage",
-  "models_2": [
-    58859
-  ],
+  "object_models": {
+    "models": [
+      58859
+    ]
+  },
   "ambient": 10,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

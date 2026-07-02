@@ -1,9 +1,14 @@
 {
   "id": 13439,
   "name": "Table blockade",
-  "models_2": [
-    31089
-  ],
   "dim_x": 3,
-  "dim_y": 3
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      31089
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

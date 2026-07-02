@@ -1,9 +1,14 @@
 {
   "id": 566,
   "name": "Statue of a warrior",
-  "models_2": [
-    1467
-  ],
+  "object_models": {
+    "models": [
+      1467
+    ]
+  },
   "ambient": 10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

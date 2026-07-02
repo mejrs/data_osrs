@@ -1,11 +1,16 @@
 {
   "id": 48933,
   "name": "Vault Door",
-  "models_2": [
-    47073
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      47073
+    ]
+  },
   "unknown_22": true,
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

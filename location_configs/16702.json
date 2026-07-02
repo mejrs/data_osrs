@@ -1,9 +1,11 @@
 {
   "id": 16702,
   "name": "Cooker",
-  "models_2": [
-    16675
-  ],
+  "object_models": {
+    "models": [
+      16675
+    ]
+  },
   "actions": [
     "Cook",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "category": 687
+  "category": 687,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

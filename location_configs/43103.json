@@ -1,11 +1,13 @@
 {
   "id": 43103,
   "name": "Rock wall",
-  "models_2": [
-    43517
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      43517
+    ]
+  },
   "ambient": 10,
   "colours": [
     [
@@ -16,5 +18,8 @@
       26896,
       10258
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

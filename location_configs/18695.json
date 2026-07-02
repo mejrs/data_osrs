@@ -1,9 +1,11 @@
 {
   "id": 18695,
   "name": "Extractor gun",
-  "models_2": [
-    18775
-  ],
+  "object_models": {
+    "models": [
+      18775
+    ]
+  },
   "unknown_24": 4897,
   "actions": [
     "Take-from",
@@ -17,5 +19,8 @@
       50087,
       4046
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

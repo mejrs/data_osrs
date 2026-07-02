@@ -1,11 +1,13 @@
 {
   "id": 41546,
   "name": "Altar",
-  "models_2": [
-    42043
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      42043
+    ]
+  },
   "unknown_27": false,
   "ambient": 60,
   "actions": [
@@ -18,5 +20,8 @@
   "contrast": 20,
   "scale_x": 224,
   "scale_y": 224,
-  "scale_z": 224
+  "scale_z": 224,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

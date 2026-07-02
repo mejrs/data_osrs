@@ -1,9 +1,14 @@
 {
   "id": 30583,
-  "models_2": [
-    33772
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      33772
+    ]
+  },
   "unknown_19": 0,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

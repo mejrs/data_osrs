@@ -1,30 +1,27 @@
 {
   "id": 1416,
-  "models": [
-    [
-      0,
-      886
-    ],
-    [
-      1,
-      887
-    ],
-    [
-      2,
-      888
-    ],
-    [
-      3,
-      889
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      886,
+      887,
+      888,
+      889,
       890
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "ambient": 20,
   "contrast": 25,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

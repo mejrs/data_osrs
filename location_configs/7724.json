@@ -1,13 +1,15 @@
 {
   "id": 7724,
   "name": "Whiteberry bush",
-  "models_2": [
-    7826,
-    7814,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7826,
+      7814,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick-from",
@@ -15,5 +17,8 @@
     null,
     "Guide",
     "Clear"
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

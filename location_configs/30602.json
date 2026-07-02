@@ -1,11 +1,13 @@
 {
   "id": 30602,
   "name": "Sulliuscep",
-  "models_2": [
-    33700
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      33700
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

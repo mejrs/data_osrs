@@ -1,9 +1,11 @@
 {
   "id": 37980,
   "name": "Barrel",
-  "models_2": [
-    8232
-  ],
+  "object_models": {
+    "models": [
+      8232
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 10,
@@ -38,5 +40,8 @@
   ],
   "scale_x": 142,
   "scale_y": 142,
-  "scale_z": 142
+  "scale_z": 142,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

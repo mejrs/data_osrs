@@ -1,9 +1,11 @@
 {
   "id": 35944,
   "name": "<col=ff9040>Orb of light</col>",
-  "models_2": [
-    3176
-  ],
+  "object_models": {
+    "models": [
+      3176
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Take",
@@ -13,6 +15,9 @@
     null
   ],
   "mapscene": 81,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 11
   }

@@ -1,9 +1,14 @@
 {
   "id": 28394,
   "name": "Vials",
-  "models_2": [
-    30510
-  ],
+  "object_models": {
+    "models": [
+      30510
+    ]
+  },
   "is_transparent": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

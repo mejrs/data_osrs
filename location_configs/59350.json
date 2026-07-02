@@ -1,9 +1,11 @@
 {
   "id": 59350,
   "name": "Dead magical plant",
-  "models_2": [
-    58540
-  ],
+  "object_models": {
+    "models": [
+      58540
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Chart",
@@ -13,5 +15,8 @@
     null
   ],
   "contrast": 15,
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

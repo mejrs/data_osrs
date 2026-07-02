@@ -1,12 +1,14 @@
 {
   "id": 53607,
-  "models": [
-    [
-      0,
-      53429
-    ]
-  ],
   "name": "Ice wall",
+  "object_models_and_types": {
+    "models": [
+      53429
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -19,5 +21,8 @@
     null
   ],
   "contrast": 15,
-  "translate_y": 120
+  "translate_y": 120,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

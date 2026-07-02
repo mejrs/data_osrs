@@ -1,9 +1,11 @@
 {
   "id": 40318,
   "name": "Dead sourhog",
-  "models_2": [
-    40897
-  ],
+  "object_models": {
+    "models": [
+      40897
+    ]
+  },
   "actions": [
     "Cut-foot",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "contrast": 60
+  "contrast": 60,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

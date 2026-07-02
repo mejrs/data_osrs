@@ -1,10 +1,12 @@
 {
   "id": 49166,
   "name": "Cabinet",
-  "models_2": [
-    48562
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      48562
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

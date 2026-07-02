@@ -1,9 +1,14 @@
 {
   "id": 9684,
   "name": "Sink",
-  "models_2": [
-    9589
-  ],
   "dim_y": 2,
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      9589
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

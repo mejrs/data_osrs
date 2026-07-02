@@ -1,10 +1,12 @@
 {
   "id": 4902,
   "name": "Saradomin Standard",
-  "models_2": [
-    4445,
-    4416
-  ],
+  "object_models": {
+    "models": [
+      4445,
+      4416
+    ]
+  },
   "unknown_24": 1430,
   "actions": [
     "Capture",
@@ -22,5 +24,8 @@
   "textures": {
     "23": 35
   },
-  "mapscene": 28
+  "mapscene": 28,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

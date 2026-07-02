@@ -1,9 +1,11 @@
 {
   "id": 13491,
   "name": "Mithril armour",
-  "models_2": [
-    12382
-  ],
+  "object_models": {
+    "models": [
+      12382
+    ]
+  },
   "actions": [
     null,
     null,
@@ -21,5 +23,8 @@
       43282
     ]
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

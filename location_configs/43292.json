@@ -1,17 +1,20 @@
 {
   "id": 43292,
-  "models": [
-    [
-      0,
-      43649
-    ],
-    [
-      1,
+  "object_models_and_types": {
+    "models": [
+      43649,
       43646
+    ],
+    "types": [
+      0,
+      1
     ]
-  ],
+  },
   "unknown_19": 0,
   "ambient": 30,
   "contrast": 30,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

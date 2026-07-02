@@ -23,5 +23,8 @@
       31971
     ],
     "default": 32511
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

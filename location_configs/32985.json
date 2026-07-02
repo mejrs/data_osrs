@@ -1,11 +1,13 @@
 {
   "id": 32985,
   "name": "Vyre well",
-  "models_2": [
-    35726
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      35726
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -14,5 +16,8 @@
     "Check",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

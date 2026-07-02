@@ -1,11 +1,16 @@
 {
   "id": 27215,
   "name": "Training dummy",
-  "models_2": [
-    30003,
-    30001
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      30003,
+      30001
+    ]
+  },
   "unknown_27": false,
-  "category": 900
+  "category": 900,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

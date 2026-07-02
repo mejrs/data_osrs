@@ -1,9 +1,11 @@
 {
   "id": 56592,
   "name": "Shelves",
-  "models_2": [
-    24890
-  ],
+  "object_models": {
+    "models": [
+      24890
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 20,
@@ -25,5 +27,8 @@
       7954,
       5404
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

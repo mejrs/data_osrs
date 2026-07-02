@@ -1,10 +1,12 @@
 {
   "id": 17978,
   "name": "Stairs down",
-  "models_2": [
-    17687
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      17687
+    ]
+  },
   "actions": [
     "Climb-down",
     null,
@@ -15,5 +17,8 @@
   "scale_x": 128,
   "scale_y": 160,
   "scale_z": 128,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

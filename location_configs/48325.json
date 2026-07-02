@@ -1,17 +1,17 @@
 {
   "id": 48325,
-  "models": [
-    [
-      10,
-      5512
-    ],
-    [
-      22,
-      5513
-    ]
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models_and_types": {
+    "models": [
+      5512,
+      5513
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_19": 0,
   "unknown_24": 10408,
   "ambient": 50,
@@ -26,5 +26,8 @@
   "scale_x": 256,
   "scale_y": 256,
   "scale_z": 256,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

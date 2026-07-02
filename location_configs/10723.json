@@ -1,10 +1,12 @@
 {
   "id": 10723,
   "name": "Old Bookshelf",
-  "models_2": [
-    7396,
-    7397
-  ],
+  "object_models": {
+    "models": [
+      7396,
+      7397
+    ]
+  },
   "colours": [
     [
       7834,
@@ -14,5 +16,8 @@
       7958,
       21526
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

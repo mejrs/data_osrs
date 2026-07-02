@@ -1,13 +1,18 @@
 {
   "id": 51909,
-  "models_2": [
-    52479
-  ],
   "dim_x": 5,
   "dim_y": 10,
+  "object_models": {
+    "models": [
+      52479
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 15,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

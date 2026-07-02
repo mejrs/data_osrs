@@ -1,9 +1,11 @@
 {
   "id": 36552,
   "name": "Singing bowl",
-  "models_2": [
-    37459
-  ],
+  "object_models": {
+    "models": [
+      37459
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8413,
@@ -15,5 +17,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

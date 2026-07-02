@@ -1,10 +1,15 @@
 {
   "id": 42821,
   "name": "Plants",
-  "models_2": [
-    42970
-  ],
+  "object_models": {
+    "models": [
+      42970
+    ]
+  },
   "unknown_27": false,
   "ambient": 25,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

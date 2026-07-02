@@ -1,8 +1,13 @@
 {
   "id": 53225,
   "name": "Spikes",
-  "models_2": [
-    1745
-  ],
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      1745
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

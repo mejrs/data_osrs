@@ -1,0 +1,57 @@
+{
+  "id": 60780,
+  "name": "Port Khazard Portal",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      11231,
+      55509
+    ]
+  },
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      50072,
+      39331
+    ],
+    [
+      49948,
+      39341
+    ],
+    [
+      49953,
+      39349
+    ],
+    [
+      49829,
+      39360
+    ],
+    [
+      49705,
+      39370
+    ]
+  ],
+  "category": 206,
+  "scale_x": 117,
+  "scale_y": 117,
+  "scale_z": 117,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
+  "params": {
+    "429": 2,
+    "430": 1
+  }
+}

@@ -1,13 +1,18 @@
 {
   "id": 21166,
-  "models": [
-    [
-      0,
-      21759
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      21759
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

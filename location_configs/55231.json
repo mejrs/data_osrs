@@ -1,15 +1,20 @@
 {
   "id": 55231,
-  "models": [
-    [
-      4,
-      54921
-    ]
-  ],
   "name": "Melee engraving",
+  "object_models_and_types": {
+    "models": [
+      54921
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 60,
   "contrast": 60,
-  "category": 2083
+  "category": 2083,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

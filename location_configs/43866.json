@@ -1,11 +1,13 @@
 {
   "id": 43866,
   "name": "Big chest",
-  "models_2": [
-    44907
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      44907
+    ]
+  },
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 30,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 10,
-  "category": 237
+  "category": 237,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

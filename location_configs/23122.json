@@ -1,10 +1,12 @@
 {
   "id": 23122,
   "name": "Rope swing",
-  "models_2": [
-    2279
-  ],
   "dim_y": 6,
+  "object_models": {
+    "models": [
+      2279
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Swing-on",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

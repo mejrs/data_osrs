@@ -1,10 +1,15 @@
 {
   "id": 28613,
   "name": "Platform support",
-  "models_2": [
-    31435
-  ],
+  "object_models": {
+    "models": [
+      31435
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

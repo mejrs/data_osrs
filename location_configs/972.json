@@ -1,11 +1,16 @@
 {
   "id": 972,
-  "models": [
-    [
-      4,
-      2029
-    ]
-  ],
   "name": "Arrows",
-  "unknown_19": 1
+  "object_models_and_types": {
+    "models": [
+      2029
+    ],
+    "types": [
+      4
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

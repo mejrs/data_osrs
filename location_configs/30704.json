@@ -1,11 +1,16 @@
 {
   "id": 30704,
   "name": "Hook briar",
-  "models_2": [
-    33951
-  ],
+  "object_models": {
+    "models": [
+      33951
+    ]
+  },
   "unknown_22": true,
   "ambient": 10,
   "contrast": 10,
-  "mapscene": 27
+  "mapscene": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

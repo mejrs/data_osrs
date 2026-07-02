@@ -1,10 +1,12 @@
 {
   "id": 22423,
-  "models_2": [
-    5573
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5573
+    ]
+  },
   "unknown_19": 0,
   "unknown_24": 1731,
   "colours": [
@@ -16,5 +18,8 @@
       6808,
       6817
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

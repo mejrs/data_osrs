@@ -1,12 +1,14 @@
 {
   "id": 12989,
-  "models": [
-    [
-      0,
-      7371
-    ]
-  ],
   "name": "Gate",
+  "object_models_and_types": {
+    "models": [
+      7371
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Close",
@@ -25,5 +27,8 @@
       5904
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

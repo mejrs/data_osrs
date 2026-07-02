@@ -1,9 +1,11 @@
 {
   "id": 48762,
   "name": "Stone chest",
-  "models_2": [
-    49326
-  ],
+  "object_models": {
+    "models": [
+      49326
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -19,5 +21,8 @@
   "scale_x": 72,
   "scale_y": 72,
   "scale_z": 72,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

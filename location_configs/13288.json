@@ -1,9 +1,11 @@
 {
   "id": 13288,
   "name": "Teak chest",
-  "models_2": [
-    12151
-  ],
+  "object_models": {
+    "models": [
+      12151
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

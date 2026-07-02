@@ -1,10 +1,12 @@
 {
   "id": 16244,
   "name": "Medical table",
-  "models_2": [
-    16104,
-    9590
-  ],
+  "object_models": {
+    "models": [
+      16104,
+      9590
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 20,
@@ -25,5 +27,8 @@
       6563,
       32819
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 55913,
   "name": "Oak tree",
-  "models_2": [
-    1571,
-    55838
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1571,
+      55838
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Chop down",
@@ -44,5 +46,8 @@
   },
   "category": 279,
   "unknown_81": 80,
-  "mapscene": 128
+  "mapscene": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

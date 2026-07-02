@@ -1,12 +1,14 @@
 {
   "id": 58741,
   "name": "Dead Camphor",
-  "models_2": [
-    58639,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58639,
+      7767
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Clear",
@@ -15,5 +17,8 @@
     "Guide",
     null
   ],
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

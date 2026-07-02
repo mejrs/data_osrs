@@ -1,7 +1,12 @@
 {
   "id": 31713,
   "name": "Throne",
-  "models_2": [
-    12595
-  ]
+  "object_models": {
+    "models": [
+      12595
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

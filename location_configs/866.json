@@ -1,9 +1,14 @@
 {
   "id": 866,
   "name": "Standard",
-  "models_2": [
-    1430
-  ],
+  "object_models": {
+    "models": [
+      1430
+    ]
+  },
   "ambient": 10,
-  "contrast": 100
+  "contrast": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

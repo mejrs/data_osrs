@@ -1,11 +1,16 @@
 {
   "id": 4052,
   "name": "Tree",
-  "models_2": [
-    4079
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      4079
+    ]
+  },
   "unknown_81": 80,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

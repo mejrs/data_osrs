@@ -1,8 +1,13 @@
 {
   "id": 11073,
   "name": "Ruins",
-  "models_2": [
-    10880
-  ],
-  "unknown_21": true
+  "object_models": {
+    "models": [
+      10880
+    ]
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

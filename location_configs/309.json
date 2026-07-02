@@ -1,9 +1,14 @@
 {
   "id": 309,
   "name": "Log pile",
-  "models_2": [
-    1468
-  ],
+  "object_models": {
+    "models": [
+      1468
+    ]
+  },
   "ambient": 10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

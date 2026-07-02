@@ -1,11 +1,13 @@
 {
   "id": 9746,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       9741
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 30,
@@ -37,5 +39,8 @@
   ],
   "scale_x": 128,
   "scale_y": 256,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

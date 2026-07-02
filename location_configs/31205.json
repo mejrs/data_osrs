@@ -1,15 +1,20 @@
 {
   "id": 31205,
   "name": "Small Fossil Display",
-  "models_2": [
-    33316,
-    33490
-  ],
+  "object_models": {
+    "models": [
+      33316,
+      33490
+    ]
+  },
   "actions": [
     "Add to",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

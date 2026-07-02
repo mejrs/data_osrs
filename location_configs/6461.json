@@ -1,11 +1,13 @@
 {
   "id": 6461,
   "name": "Ice gate",
-  "models_2": [
-    4960
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      4960
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Go-through",
@@ -16,5 +18,8 @@
   ],
   "scale_x": 86,
   "scale_y": 86,
-  "scale_z": 86
+  "scale_z": 86,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

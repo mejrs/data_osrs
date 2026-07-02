@@ -1,9 +1,11 @@
 {
   "id": 2373,
   "name": "Cupboard",
-  "models_2": [
-    2247
-  ],
+  "object_models": {
+    "models": [
+      2247
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

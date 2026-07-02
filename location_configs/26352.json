@@ -1,12 +1,17 @@
 {
   "id": 26352,
   "name": "Frozen warrior",
-  "models_2": [
-    27804
-  ],
+  "object_models": {
+    "models": [
+      27804
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

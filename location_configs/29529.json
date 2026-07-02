@@ -1,18 +1,33 @@
 {
   "id": 29529,
-  "name": "Fairy ring",
-  "models_2": [
-    47197
-  ],
+  "name": "Sails",
+  "object_models": {
+    "models": [
+      60466
+    ]
+  },
+  "unknown_17": false,
   "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
-  "ambient": 60,
+  "unknown_24": 13893,
+  "ambient": 15,
   "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (CIS)",
+    "Trim",
+    "Set",
     null,
-    null
-  ]
+    null,
+    "Un-set"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4510,
+      12
+    ]
+  ],
+  "category": 2322,
+  "unknown_89": false,
+  "unknown_90": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

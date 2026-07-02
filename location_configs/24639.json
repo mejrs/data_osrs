@@ -1,9 +1,11 @@
 {
   "id": 24639,
   "name": "Display case",
-  "models_2": [
-    25611
-  ],
+  "object_models": {
+    "models": [
+      25611
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 690
+  "category": 690,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 54540,
   "name": "Wall",
-  "models_2": [
-    54617
-  ],
+  "object_models": {
+    "models": [
+      54617
+    ]
+  },
   "unknown_22": true,
   "ambient": 30,
   "actions": [
@@ -15,5 +17,8 @@
   ],
   "contrast": 50,
   "unknown_69": 23,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

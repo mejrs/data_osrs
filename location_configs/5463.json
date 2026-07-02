@@ -1,15 +1,20 @@
 {
   "id": 5463,
-  "models_2": [
-    5333
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5333
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_24": 1643,
   "ambient": 90,
   "contrast": 50,
-  "category": 533
+  "category": 533,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

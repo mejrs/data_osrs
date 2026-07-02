@@ -1,11 +1,13 @@
 {
   "id": 19088,
   "name": "Compost Bin",
-  "models_2": [
-    7838,
-    7845,
-    7842
-  ],
+  "object_models": {
+    "models": [
+      7838,
+      7845,
+      7842
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Take",
@@ -13,5 +15,8 @@
     null,
     null,
     "Dump"
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

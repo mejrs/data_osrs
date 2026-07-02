@@ -1,0 +1,36 @@
+{
+  "id": 60829,
+  "name": "Table",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      14827,
+      25196
+    ]
+  },
+  "is_transparent": true,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      6451,
+      7587
+    ],
+    [
+      6443,
+      7582
+    ],
+    [
+      6439,
+      7706
+    ],
+    [
+      6563,
+      7830
+    ]
+  ],
+  "category": 156,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

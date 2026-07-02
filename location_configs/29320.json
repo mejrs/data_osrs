@@ -1,10 +1,12 @@
 {
   "id": 29320,
   "name": "Crate",
-  "models_2": [
-    32249,
-    32267
-  ],
+  "object_models": {
+    "models": [
+      32249,
+      32267
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Take-concoction",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

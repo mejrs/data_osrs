@@ -1,12 +1,14 @@
 {
   "id": 7638,
   "name": "Jangerberry bush",
-  "models_2": [
-    7824,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7824,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -24,5 +26,8 @@
       8722,
       9878
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 26458,
   "name": "Gold Sink",
-  "models_2": [
-    43039,
-    43041
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      43039,
+      43041
+    ]
+  },
   "is_transparent": true,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

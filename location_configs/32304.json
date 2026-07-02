@@ -1,9 +1,14 @@
 {
   "id": 32304,
   "name": "Mast",
-  "models_2": [
-    34900
-  ],
+  "object_models": {
+    "models": [
+      34900
+    ]
+  },
   "unknown_19": 1,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

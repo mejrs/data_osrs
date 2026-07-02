@@ -1,24 +1,20 @@
 {
   "id": 11393,
-  "models": [
-    [
-      10,
-      33169
-    ],
-    [
-      0,
-      33168
-    ],
-    [
-      1,
-      33163
-    ],
-    [
-      9,
-      33170
-    ]
-  ],
   "name": "Empty wall",
+  "object_models_and_types": {
+    "models": [
+      33169,
+      33168,
+      33163,
+      33170
+    ],
+    "types": [
+      10,
+      0,
+      1,
+      9
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -28,5 +24,8 @@
     null,
     null
   ],
-  "category": 1134
+  "category": 1134,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 24362,
   "name": "Tanning line",
-  "models_2": [
-    1296
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      1296
+    ]
+  },
   "ambient": 25,
   "contrast": 25,
   "colours": [
@@ -12,5 +14,8 @@
       4517,
       7566
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

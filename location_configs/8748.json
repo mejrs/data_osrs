@@ -1,9 +1,11 @@
 {
   "id": 8748,
   "name": "Spinning wheel",
-  "models_2": [
-    2248
-  ],
+  "object_models": {
+    "models": [
+      2248
+    ]
+  },
   "actions": [
     null,
     "Spin",
@@ -22,5 +24,8 @@
     ]
   ],
   "category": 971,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

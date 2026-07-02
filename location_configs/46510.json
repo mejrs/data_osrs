@@ -1,11 +1,13 @@
 {
   "id": 46510,
   "name": "Evergreen tree",
-  "models_2": [
-    1614
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1614
+    ]
+  },
   "ambient": 20,
   "contrast": 20,
   "colours": [
@@ -17,5 +19,8 @@
   "scale_x": 85,
   "scale_y": 85,
   "scale_z": 85,
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

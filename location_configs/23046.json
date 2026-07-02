@@ -1,15 +1,20 @@
 {
   "id": 23046,
-  "models": [
-    [
-      22,
-      23880
-    ]
-  ],
   "name": "Fire",
+  "object_models_and_types": {
+    "models": [
+      23880
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 3105,
   "unknown_27": false,
   "ambient": 60,
-  "contrast": 60
+  "contrast": 60,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

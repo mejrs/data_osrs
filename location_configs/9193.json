@@ -1,9 +1,14 @@
 {
   "id": 9193,
   "name": "Rose bush",
-  "models_2": [
-    9166,
-    7767
-  ],
-  "ambient": 25
+  "object_models": {
+    "models": [
+      9166,
+      7767
+    ]
+  },
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 59703,
   "name": "Crystal extractor",
-  "models_2": [
-    58192
-  ],
+  "object_models": {
+    "models": [
+      58192
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 13174,
   "unknown_27": false,
@@ -13,5 +15,9 @@
     null,
     null,
     "Modify"
-  ]
+  ],
+  "category": 2397,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

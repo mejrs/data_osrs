@@ -1,12 +1,14 @@
 {
   "id": 17963,
-  "models": [
-    [
-      4,
-      17579
-    ]
-  ],
   "name": "Daeyalt rocks",
+  "object_models_and_types": {
+    "models": [
+      17579
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "category": 544
+  "category": 544,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

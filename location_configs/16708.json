@@ -1,9 +1,11 @@
 {
   "id": 16708,
   "name": "Tall mirror",
-  "models_2": [
-    12512
-  ],
+  "object_models": {
+    "models": [
+      12512
+    ]
+  },
   "actions": [
     "Admire",
     null,
@@ -20,5 +22,8 @@
       7952,
       6930
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

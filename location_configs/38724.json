@@ -1,11 +1,16 @@
 {
   "id": 38724,
-  "models_2": [
-    39794
-  ],
+  "object_models": {
+    "models": [
+      39794
+    ]
+  },
   "unknown_19": 0,
   "unknown_24": 5598,
   "unknown_27": false,
   "ambient": 50,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

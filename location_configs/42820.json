@@ -1,9 +1,11 @@
 {
   "id": 42820,
   "name": "Portal",
-  "models_2": [
-    42962
-  ],
+  "object_models": {
+    "models": [
+      42962
+    ]
+  },
   "unknown_24": 9016,
   "ambient": 10,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

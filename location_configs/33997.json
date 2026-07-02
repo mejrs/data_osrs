@@ -1,12 +1,14 @@
 {
   "id": 33997,
   "name": "Dead Attas plant",
-  "models_2": [
-    36889,
-    7768
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      36889,
+      7768
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Clear",
@@ -14,5 +16,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

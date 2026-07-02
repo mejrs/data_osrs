@@ -1,27 +1,21 @@
 {
   "id": 17083,
-  "models": [
-    [
-      0,
-      16925
-    ],
-    [
-      1,
-      16926
-    ],
-    [
-      2,
-      16927
-    ],
-    [
-      3,
-      16928
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      16925,
+      16926,
+      16927,
+      16928,
       16929
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "ambient": 20,
   "colours": [
     [
@@ -45,5 +39,8 @@
       8076
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

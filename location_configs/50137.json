@@ -1,12 +1,17 @@
 {
   "id": 50137,
   "name": "Church pew",
-  "models_2": [
-    50666
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      50666
+    ]
+  },
   "is_transparent": true,
   "ambient": 25,
   "contrast": 5,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

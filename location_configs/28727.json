@@ -1,9 +1,11 @@
 {
   "id": 28727,
   "name": "Monkeybars",
-  "models_2": [
-    13583
-  ],
+  "object_models": {
+    "models": [
+      13583
+    ]
+  },
   "unknown_17": false,
   "unknown_21": true,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

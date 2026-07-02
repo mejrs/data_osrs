@@ -1,10 +1,12 @@
 {
   "id": 55139,
-  "models_2": [
-    54514
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      54514
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -12,5 +14,8 @@
   "ambient": 15,
   "contrast": 30,
   "model": false,
-  "mapscene": 189
+  "mapscene": 189,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

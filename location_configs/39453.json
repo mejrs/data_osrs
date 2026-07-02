@@ -1,9 +1,11 @@
 {
   "id": 39453,
   "name": "Hat stand",
-  "models_2": [
-    15264
-  ],
+  "object_models": {
+    "models": [
+      15264
+    ]
+  },
   "colours": [
     [
       6674,
@@ -21,5 +23,8 @@
       5652,
       20
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

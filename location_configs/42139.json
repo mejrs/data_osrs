@@ -1,14 +1,19 @@
 {
   "id": 42139,
-  "models": [
-    [
-      4,
-      42483
-    ]
-  ],
   "name": "Lantern",
+  "object_models_and_types": {
+    "models": [
+      42483
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 9089,
   "ambient": 40,
-  "contrast": 60
+  "contrast": 60,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

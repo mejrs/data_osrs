@@ -1,12 +1,14 @@
 {
   "id": 4035,
-  "models": [
-    [
-      9,
-      4070
-    ]
-  ],
   "name": "Druid's robes",
+  "object_models_and_types": {
+    "models": [
+      4070
+    ],
+    "types": [
+      9
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 35,
@@ -17,5 +19,8 @@
       74
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

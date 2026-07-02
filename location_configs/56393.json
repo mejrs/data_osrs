@@ -1,12 +1,14 @@
 {
   "id": 56393,
-  "models": [
-    [
-      22,
-      56970
-    ]
-  ],
   "name": "Inactive Rune",
+  "object_models_and_types": {
+    "models": [
+      56970
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
@@ -37,5 +39,8 @@
       40483
     ]
   ],
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

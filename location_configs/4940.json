@@ -1,10 +1,12 @@
 {
   "id": 4940,
   "name": "Lift",
-  "models_2": [
-    21234
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      21234
+    ]
+  },
   "unknown_22": true,
   "ambient": 20,
   "actions": [
@@ -21,5 +23,8 @@
       7851
     ]
   ],
-  "scale_y": 153
+  "scale_y": 153,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

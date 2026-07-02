@@ -1,7 +1,12 @@
 {
   "id": 15236,
   "name": "Scaffold",
-  "models_2": [
-    15090
-  ]
+  "object_models": {
+    "models": [
+      15090
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

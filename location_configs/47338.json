@@ -1,10 +1,15 @@
 {
   "id": 47338,
   "name": "Theatre of Blood",
-  "models_2": [
-    35439
-  ],
   "dim_x": 3,
   "dim_y": 3,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      35439
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

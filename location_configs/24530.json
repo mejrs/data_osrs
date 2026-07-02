@@ -1,9 +1,14 @@
 {
   "id": 24530,
   "name": "Canal barge",
-  "models_2": [
-    25413
-  ],
+  "object_models": {
+    "models": [
+      25413
+    ]
+  },
   "mirror": true,
-  "translate_y": 240
+  "translate_y": 240,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

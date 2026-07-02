@@ -1,14 +1,19 @@
 {
   "id": 46609,
   "name": "Barrel",
-  "models_2": [
-    11578
-  ],
+  "object_models": {
+    "models": [
+      11578
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

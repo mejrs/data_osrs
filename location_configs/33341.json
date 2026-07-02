@@ -1,9 +1,11 @@
 {
   "id": 33341,
   "name": "Pile of rubble",
-  "models_2": [
-    5370
-  ],
+  "object_models": {
+    "models": [
+      5370
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -28,5 +30,8 @@
       8617,
       7595
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

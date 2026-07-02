@@ -1,0 +1,21 @@
+{
+  "id": 62168,
+  "name": "Energy barrier",
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      60639
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_24": 14083,
+  "unknown_75": 0,
+  "unknown_78": {
+    "unknown_1": 3139,
+    "unknown_2": 3
+  },
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

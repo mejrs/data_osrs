@@ -1,16 +1,21 @@
 {
   "id": 36572,
   "name": "Spice stall",
-  "models_2": [
-    37924
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37924
+    ]
+  },
   "actions": [
     null,
     "Steal-from",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 60465,
   "name": "Small shipwreck",
-  "models_2": [
-    58883
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      58883
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -15,5 +17,8 @@
   "category": 2348,
   "model": false,
   "unknown_89": false,
-  "unknown_90": true
+  "unknown_90": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

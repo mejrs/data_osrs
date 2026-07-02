@@ -1,28 +1,25 @@
 {
   "id": 1696,
-  "models": [
-    [
-      0,
-      922
-    ],
-    [
-      1,
-      923
-    ],
-    [
-      2,
-      924
-    ],
-    [
-      3,
-      925
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      922,
+      923,
+      924,
+      925,
       926
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
-  "occludes_1": false
+  "occludes_1": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

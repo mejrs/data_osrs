@@ -1,10 +1,15 @@
 {
   "id": 3681,
   "name": "Signpost",
-  "models_2": [
-    1402
-  ],
+  "object_models": {
+    "models": [
+      1402
+    ]
+  },
   "is_transparent": true,
   "ambient": 40,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

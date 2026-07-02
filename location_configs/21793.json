@@ -1,8 +1,13 @@
 {
   "id": 21793,
   "name": "Table",
-  "models_2": [
-    22303
-  ],
-  "category": 155
+  "object_models": {
+    "models": [
+      22303
+    ]
+  },
+  "category": 155,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

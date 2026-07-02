@@ -1,10 +1,12 @@
 {
   "id": 5167,
   "name": "Memorial",
-  "models_2": [
-    5169
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      5169
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Push",
@@ -14,5 +16,8 @@
     null
   ],
   "unknown_69": 23,
-  "mapscene": 34
+  "mapscene": 34,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

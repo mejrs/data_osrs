@@ -1,12 +1,14 @@
 {
   "id": 8145,
   "name": "Diseased herbs",
-  "models_2": [
-    7873,
-    10772
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7873,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Cure",
@@ -28,5 +30,8 @@
       19992,
       10902
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

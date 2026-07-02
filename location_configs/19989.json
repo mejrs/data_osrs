@@ -1,10 +1,12 @@
 {
   "id": 19989,
   "name": "Tall vine",
-  "models_2": [
-    20076
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      20076
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Climb",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,19 @@
+{
+  "id": 62140,
+  "name": "Plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61037
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

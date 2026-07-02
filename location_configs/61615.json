@@ -1,0 +1,20 @@
+{
+  "id": 61615,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "category": 2462,
+  "morphs_2": {
+    "varbit": 15525,
+    "ids": [
+      61616,
+      61616,
+      61618
+    ],
+    "default": 61616
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

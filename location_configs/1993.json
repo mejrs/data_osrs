@@ -1,15 +1,20 @@
 {
   "id": 1993,
   "name": "Glarial's Tomb",
-  "models_2": [
-    1364
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1364
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 6905,
-  "models": [
-    [
-      4,
-      6914
-    ]
-  ],
   "name": "Hole",
+  "object_models_and_types": {
+    "models": [
+      6914
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Squeeze-through",
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

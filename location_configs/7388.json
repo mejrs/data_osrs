@@ -1,10 +1,15 @@
 {
   "id": 7388,
   "name": "Bench",
-  "models_2": [
-    7719
-  ],
+  "object_models": {
+    "models": [
+      7719
+    ]
+  },
   "is_transparent": true,
   "ambient": 25,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

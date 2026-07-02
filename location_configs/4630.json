@@ -1,12 +1,14 @@
 {
   "id": 4630,
-  "models": [
-    [
-      0,
-      4602
-    ]
-  ],
   "name": "Large door",
+  "object_models_and_types": {
+    "models": [
+      4602
+    ],
+    "types": [
+      0
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Close",
@@ -18,5 +20,8 @@
   "contrast": 25,
   "mirror": true,
   "translate_y": 1,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

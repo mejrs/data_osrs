@@ -1,10 +1,15 @@
 {
   "id": 31904,
   "name": "Armadyl armour display case",
-  "models_2": [
-    34556,
-    34567
-  ],
+  "object_models": {
+    "models": [
+      34556,
+      34567
+    ]
+  },
   "unknown_27": false,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,30 @@
+{
+  "id": 61120,
+  "name": "Rubble",
+  "object_models": {
+    "models": [
+      60991
+    ]
+  },
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 0,
+      "max": 176,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
+}

@@ -1,12 +1,14 @@
 {
   "id": 13520,
-  "models": [
-    [
-      4,
-      12167
-    ]
-  ],
   "name": "Darklight",
+  "object_models_and_types": {
+    "models": [
+      12167
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -26,5 +28,8 @@
       24
     ]
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

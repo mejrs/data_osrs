@@ -1,11 +1,13 @@
 {
   "id": 59170,
   "name": "Balloon toad pile",
-  "models_2": [
-    58815
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58815
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Collect-from",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

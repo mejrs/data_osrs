@@ -1,9 +1,11 @@
 {
   "id": 44278,
   "name": "Little tent",
-  "models_2": [
-    44464
-  ],
+  "object_models": {
+    "models": [
+      44464
+    ]
+  },
   "colours": [
     [
       309,
@@ -13,5 +15,8 @@
       8501,
       8363
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

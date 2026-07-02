@@ -1,14 +1,19 @@
 {
   "id": 34512,
-  "models": [
-    [
-      22,
-      36159
-    ]
-  ],
   "name": "Chemical pool",
+  "object_models_and_types": {
+    "models": [
+      36159
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 8067,
-  "translate_y": 65534
+  "translate_y": 65534,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

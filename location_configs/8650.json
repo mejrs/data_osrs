@@ -1,10 +1,12 @@
 {
   "id": 8650,
   "name": "Diseased tomato plant",
-  "models_2": [
-    8218,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8218,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Cure",
@@ -26,5 +28,8 @@
       20135,
       10667
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

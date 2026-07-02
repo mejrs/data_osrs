@@ -1,10 +1,12 @@
 {
   "id": 3376,
   "name": "Ogre bench",
-  "models_2": [
-    723
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      723
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -15,5 +17,8 @@
   "category": 156,
   "scale_x": 110,
   "scale_y": 74,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 9144,
   "name": "Candelabrum",
-  "models_2": [
-    3496,
-    9107
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      3496,
+      9107
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

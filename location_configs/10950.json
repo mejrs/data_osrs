@@ -1,11 +1,13 @@
 {
   "id": 10950,
   "name": "Sand pile",
-  "models_2": [
-    10953
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      10953
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 15,
@@ -33,5 +35,8 @@
       8745,
       8644
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

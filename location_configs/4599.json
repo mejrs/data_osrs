@@ -1,15 +1,20 @@
 {
   "id": 4599,
-  "models_2": [
-    4525
-  ],
   "dim_x": 10,
   "dim_y": 10,
+  "object_models": {
+    "models": [
+      4525
+    ]
+  },
   "unknown_19": 0,
   "occludes_1": false,
   "unknown_27": false,
   "ambient": 20,
   "scale_x": 128,
   "scale_y": 128,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

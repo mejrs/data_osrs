@@ -1,8 +1,13 @@
 {
   "id": 2479,
   "name": "Trawler net",
-  "models_2": [
-    1905
-  ],
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      1905
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

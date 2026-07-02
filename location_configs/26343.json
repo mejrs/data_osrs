@@ -1,9 +1,14 @@
 {
   "id": 26343,
   "name": "Skullshield",
-  "models_2": [
-    27894
-  ],
+  "object_models": {
+    "models": [
+      27894
+    ]
+  },
   "unknown_21": true,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

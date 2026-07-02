@@ -1,11 +1,13 @@
 {
   "id": 54715,
   "name": "Backstage entrance",
-  "models_2": [
-    54929
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      54929
+    ]
+  },
   "unknown_27": false,
   "ambient": 30,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 25,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

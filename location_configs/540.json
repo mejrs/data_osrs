@@ -1,9 +1,11 @@
 {
   "id": 540,
   "name": "<col=ff9040>Red spice (4)</col>",
-  "models_2": [
-    13443
-  ],
+  "object_models": {
+    "models": [
+      13443
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -30,6 +32,9 @@
   "translate_x": 10,
   "translate_z": 5,
   "mapscene": 81,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 11
   }

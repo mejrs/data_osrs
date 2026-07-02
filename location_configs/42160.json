@@ -1,9 +1,14 @@
 {
   "id": 42160,
   "name": "Cat Shrine",
-  "models_2": [
-    12568
-  ],
+  "object_models": {
+    "models": [
+      12568
+    ]
+  },
   "ambient": 15,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

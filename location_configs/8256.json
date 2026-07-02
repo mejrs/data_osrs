@@ -1,10 +1,12 @@
 {
   "id": 8256,
   "name": "Dead Jute",
-  "models_2": [
-    7880,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      7880,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Clear",
@@ -26,5 +28,8 @@
       15822,
       10407
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

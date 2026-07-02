@@ -1,10 +1,12 @@
 {
   "id": 13013,
-  "models_2": [
-    12191
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      12191
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "colours": [
@@ -20,5 +22,8 @@
   "textures": {
     "6": 18
   },
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

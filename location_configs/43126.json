@@ -1,9 +1,11 @@
 {
   "id": 43126,
   "name": "Grave",
-  "models_2": [
-    43852
-  ],
+  "object_models": {
+    "models": [
+      43852
+    ]
+  },
   "unknown_24": 5598,
   "ambient": 10,
   "actions": [
@@ -14,5 +16,8 @@
     null
   ],
   "contrast": 10,
-  "category": 1604
+  "category": 1604,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

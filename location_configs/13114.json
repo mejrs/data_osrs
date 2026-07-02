@@ -1,10 +1,12 @@
 {
   "id": 13114,
   "name": "Ornament",
-  "models_2": [
-    1301,
-    17237
-  ],
+  "object_models": {
+    "models": [
+      1301,
+      17237
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

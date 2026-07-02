@@ -1,12 +1,17 @@
 {
   "id": 16938,
   "name": "Cannon",
-  "models_2": [
-    16538
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      16538
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "contrast": 20,
-  "category": 529
+  "category": 529,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,17 @@
 {
   "id": 57103,
   "name": "Buffalo totem",
-  "models_2": [
-    56989
-  ],
+  "object_models": {
+    "models": [
+      56989
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

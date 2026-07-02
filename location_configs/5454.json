@@ -1,12 +1,14 @@
 {
   "id": 5454,
-  "models": [
-    [
-      0,
-      5363
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      5363
+    ],
+    "types": [
+      0
+    ]
+  },
   "ambient": 50,
   "actions": [
     "Open",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

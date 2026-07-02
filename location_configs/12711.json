@@ -1,20 +1,21 @@
 {
   "id": 12711,
-  "models": [
-    [
-      0,
-      22239
-    ],
-    [
-      1,
-      22240
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      22239,
+      22240,
       22241
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_22": true,
   "ambient": 30,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

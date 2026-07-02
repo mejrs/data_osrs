@@ -1,10 +1,12 @@
 {
   "id": 14883,
   "name": "Candles",
-  "models_2": [
-    25763,
-    25764
-  ],
+  "object_models": {
+    "models": [
+      25763,
+      25764
+    ]
+  },
   "unknown_24": 2564,
   "ambient": 25,
   "colours": [
@@ -15,5 +17,8 @@
   ],
   "scale_x": 200,
   "scale_y": 200,
-  "scale_z": 200
+  "scale_z": 200,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

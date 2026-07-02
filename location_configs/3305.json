@@ -1,11 +1,13 @@
 {
   "id": 3305,
   "name": "Well",
-  "models_2": [
-    695
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      695
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -34,5 +36,8 @@
       3350,
       3594
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

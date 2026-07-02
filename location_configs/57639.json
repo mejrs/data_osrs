@@ -1,27 +1,24 @@
 {
   "id": 57639,
-  "models": [
-    [
-      0,
-      56941
-    ],
-    [
-      1,
-      56940
-    ],
-    [
-      2,
-      56943
-    ],
-    [
-      3,
-      56939
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      56941,
+      56940,
+      56943,
+      56939,
       56942
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "ambient": 15,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

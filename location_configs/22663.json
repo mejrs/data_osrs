@@ -1,11 +1,16 @@
 {
   "id": 22663,
   "name": "Pylon",
-  "models_2": [
-    23311
-  ],
   "dim_y": 9,
+  "object_models": {
+    "models": [
+      23311
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
-  "unknown_24": 6069
+  "unknown_24": 6069,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

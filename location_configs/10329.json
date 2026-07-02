@@ -1,27 +1,21 @@
 {
   "id": 10329,
-  "models": [
-    [
-      10,
-      16340
-    ],
-    [
-      0,
-      612
-    ],
-    [
-      1,
-      613
-    ],
-    [
-      2,
-      614
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      16340,
+      612,
+      613,
+      614,
       615
+    ],
+    "types": [
+      10,
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -35,5 +29,8 @@
   "textures": {
     "2": 23
   },
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

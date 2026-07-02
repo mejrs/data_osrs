@@ -1,9 +1,11 @@
 {
   "id": 43967,
   "name": "Lever",
-  "models_2": [
-    44635
-  ],
+  "object_models": {
+    "models": [
+      44635
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Pull",
@@ -16,5 +18,8 @@
   "scale_x": 144,
   "scale_y": 144,
   "scale_z": 144,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

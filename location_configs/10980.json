@@ -1,9 +1,14 @@
 {
   "id": 10980,
   "name": "Fallen statue",
-  "models_2": [
-    10916,
-    10914,
-    10921
-  ]
+  "object_models": {
+    "models": [
+      10916,
+      10914,
+      10921
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

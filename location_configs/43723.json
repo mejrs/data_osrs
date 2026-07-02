@@ -1,11 +1,13 @@
 {
   "id": 43723,
   "name": "Essence pile (catalytic)",
-  "models_2": [
-    44067
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      44067
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -20,5 +22,8 @@
     null
   ],
   "contrast": 30,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

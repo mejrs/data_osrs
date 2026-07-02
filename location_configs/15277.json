@@ -1,16 +1,16 @@
 {
   "id": 15277,
-  "models": [
-    [
-      0,
-      12675
-    ],
-    [
-      3,
-      12676
-    ]
-  ],
   "name": "Combat ring space",
+  "object_models_and_types": {
+    "models": [
+      12675,
+      12676
+    ],
+    "types": [
+      0,
+      3
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "actions": [
@@ -20,5 +20,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

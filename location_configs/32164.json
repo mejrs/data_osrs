@@ -1,14 +1,19 @@
 {
   "id": 32164,
-  "models": [
-    [
-      0,
-      34684
-    ]
-  ],
   "name": "Wall",
+  "object_models_and_types": {
+    "models": [
+      34684
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
-  "ambient": 30
+  "ambient": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

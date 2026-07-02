@@ -1,12 +1,14 @@
 {
   "id": 15758,
-  "models": [
-    [
-      0,
-      12367
-    ]
-  ],
   "name": "Large door",
+  "object_models_and_types": {
+    "models": [
+      12367
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Listen-at",
     null,
@@ -15,5 +17,8 @@
     null
   ],
   "mirror": true,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

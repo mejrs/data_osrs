@@ -1,9 +1,11 @@
 {
   "id": 37545,
   "name": "Ornate Jewellery Box",
-  "models_2": [
-    32158
-  ],
+  "object_models": {
+    "models": [
+      32158
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     null,
@@ -13,5 +15,8 @@
     "Remove"
   ],
   "category": 206,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

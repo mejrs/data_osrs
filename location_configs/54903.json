@@ -1,9 +1,11 @@
 {
   "id": 54903,
   "name": "Hopper",
-  "models_2": [
-    54859
-  ],
+  "object_models": {
+    "models": [
+      54859
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 25,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

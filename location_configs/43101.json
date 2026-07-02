@@ -1,11 +1,13 @@
 {
   "id": 43101,
   "name": "Machine",
-  "models_2": [
-    43518
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      43518
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 9336,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

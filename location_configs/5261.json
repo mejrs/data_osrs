@@ -1,9 +1,11 @@
 {
   "id": 5261,
   "name": "Tropical tree",
-  "models_2": [
-    1562
-  ],
+  "object_models": {
+    "models": [
+      1562
+    ]
+  },
   "colours": [
     [
       6707,
@@ -22,5 +24,8 @@
       9765
     ]
   ],
-  "mapscene": 23
+  "mapscene": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

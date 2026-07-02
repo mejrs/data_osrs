@@ -1,20 +1,25 @@
 {
   "id": 33444,
   "name": "Portal",
-  "models_2": [
-    36084
-  ],
+  "object_models": {
+    "models": [
+      36084
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 8148,
   "ambient": 20,
   "actions": [
     "Enter",
-    null,
+    "Ferox Enclave",
     null,
     null,
     null
   ],
   "contrast": 10,
   "unknown_69": 30,
-  "mapscene": 64
+  "mapscene": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

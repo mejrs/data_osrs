@@ -1,11 +1,13 @@
 {
   "id": 30852,
   "name": "Burnt tree",
-  "models_2": [
-    33650
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      33650
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Chop down",
@@ -15,5 +17,8 @@
     null
   ],
   "category": 189,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

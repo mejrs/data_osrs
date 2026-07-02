@@ -1,11 +1,13 @@
 {
   "id": 2947,
   "name": "Dead Yommi sapling",
-  "models_2": [
-    1818
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1818
+    ]
+  },
   "unknown_17": false,
   "colours": [
     [
@@ -19,5 +21,8 @@
   ],
   "scale_x": 32,
   "scale_y": 32,
-  "scale_z": 32
+  "scale_z": 32,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

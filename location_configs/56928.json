@@ -1,9 +1,11 @@
 {
   "id": 56928,
   "name": "Eggs",
-  "models_2": [
-    56638
-  ],
+  "object_models": {
+    "models": [
+      56638
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -11,5 +13,8 @@
   "contrast": 20,
   "scale_x": 96,
   "scale_y": 96,
-  "scale_z": 96
+  "scale_z": 96,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

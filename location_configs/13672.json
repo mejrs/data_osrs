@@ -1,9 +1,11 @@
 {
   "id": 13672,
   "name": "Lever",
-  "models_2": [
-    13124
-  ],
+  "object_models": {
+    "models": [
+      13124
+    ]
+  },
   "actions": [
     "Pull",
     "Challenge-mode",
@@ -11,5 +13,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 54699,
   "name": "Tools",
-  "models_2": [
-    54552
-  ],
+  "object_models": {
+    "models": [
+      54552
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,23 +1,19 @@
 {
   "id": 452,
-  "models": [
-    [
-      0,
-      25096
-    ],
-    [
-      1,
-      25097
-    ],
-    [
-      2,
-      25098
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      25096,
+      25097,
+      25098,
       25099
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "ambient": 25,
   "contrast": 25,
   "colours": [
@@ -34,5 +30,8 @@
       7954
     ]
   ],
-  "translate_y": 28
+  "translate_y": 28,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

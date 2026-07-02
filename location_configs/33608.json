@@ -1,8 +1,13 @@
 {
   "id": 33608,
   "name": "Machinery",
-  "models_2": [
-    36583
-  ],
-  "unknown_22": true
+  "object_models": {
+    "models": [
+      36583
+    ]
+  },
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

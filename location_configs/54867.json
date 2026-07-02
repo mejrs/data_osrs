@@ -1,12 +1,14 @@
 {
   "id": 54867,
-  "models": [
-    [
-      4,
-      54868
-    ]
-  ],
   "name": "Aga lever",
+  "object_models_and_types": {
+    "models": [
+      54868
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_24": 11620,
   "unknown_27": false,
   "ambient": 30,
@@ -19,5 +21,8 @@
   ],
   "contrast": 25,
   "category": 2079,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

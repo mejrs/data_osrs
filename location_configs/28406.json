@@ -1,9 +1,14 @@
 {
   "id": 28406,
   "name": "Spirit pump",
-  "models_2": [
-    30506
-  ],
+  "object_models": {
+    "models": [
+      30506
+    ]
+  },
   "is_transparent": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

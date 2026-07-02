@@ -1,9 +1,14 @@
 {
   "id": 9255,
   "name": "Grapevines",
-  "models_2": [
-    9182
-  ],
+  "object_models": {
+    "models": [
+      9182
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

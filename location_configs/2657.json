@@ -1,9 +1,11 @@
 {
   "id": 2657,
   "name": "Bob's barrel",
-  "models_2": [
-    8232
-  ],
+  "object_models": {
+    "models": [
+      8232
+    ]
+  },
   "ambient": 20,
   "actions": [
     null,
@@ -38,5 +40,8 @@
       5904,
       5532
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

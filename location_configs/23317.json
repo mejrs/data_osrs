@@ -1,11 +1,16 @@
 {
   "id": 23317,
   "name": "Crowd of dwarves",
-  "models_2": [
-    24262
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      24262
+    ]
+  },
   "unknown_24": 6166,
-  "ambient": 30
+  "ambient": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

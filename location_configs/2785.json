@@ -1,9 +1,14 @@
 {
   "id": 2785,
   "name": "Sword in stone",
-  "models_2": [
-    25185
-  ],
+  "object_models": {
+    "models": [
+      25185
+    ]
+  },
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 9088,
   "name": "Coke",
-  "models_2": [
-    9038
-  ],
+  "object_models": {
+    "models": [
+      9038
+    ]
+  },
   "actions": [
     "Collect",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

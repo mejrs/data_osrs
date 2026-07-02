@@ -1,13 +1,18 @@
 {
   "id": 30837,
   "name": "Fallen Tree",
-  "models_2": [
-    33644
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      33644
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "mapscene": 27
+  "mapscene": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

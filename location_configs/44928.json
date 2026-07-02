@@ -1,11 +1,13 @@
 {
   "id": 44928,
   "name": "Staging area supplies",
-  "models_2": [
-    45092
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      45092
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -22,5 +24,8 @@
   "scale_x": 180,
   "scale_y": 180,
   "scale_z": 180,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

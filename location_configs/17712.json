@@ -1,10 +1,15 @@
 {
   "id": 17712,
   "name": "Floor",
-  "models_2": [
-    17930
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      17930
+    ]
+  },
   "unknown_21": true,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 29261,
   "name": "Volcanic theme",
-  "models_2": [
-    9295
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      9295
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -25,5 +27,8 @@
   "category": 206,
   "scale_x": 160,
   "scale_y": 128,
-  "scale_z": 160
+  "scale_z": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

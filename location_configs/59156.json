@@ -1,9 +1,11 @@
 {
   "id": 59156,
   "name": "Outcrop",
-  "models_2": [
-    57674
-  ],
+  "object_models": {
+    "models": [
+      57674
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Launch-toad-at",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

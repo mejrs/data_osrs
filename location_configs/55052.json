@@ -1,9 +1,11 @@
 {
   "id": 55052,
   "name": "Chandelier",
-  "models_2": [
-    24846
-  ],
+  "object_models": {
+    "models": [
+      24846
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
   "contrast": 30,
@@ -35,5 +37,8 @@
   ],
   "model": false,
   "scale_y": 64,
-  "translate_y": 35
+  "translate_y": 35,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,36 @@
+{
+  "id": 61961,
+  "name": "Stump",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61087,
+      61088
+    ]
+  },
+  "is_transparent": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Take-axe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      61,
+      5652
+    ]
+  ],
+  "unknown_69": 29,
+  "unknown_81": 1,
+  "mapscene": 264,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,17 +1,22 @@
 {
   "id": 28756,
-  "models": [
-    [
-      4,
-      31407
-    ]
-  ],
   "name": "Wall support",
+  "object_models_and_types": {
+    "models": [
+      31407
+    ],
+    "types": [
+      4
+    ]
+  },
   "actions": [
     "Climb",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

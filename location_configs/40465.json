@@ -1,11 +1,13 @@
 {
   "id": 40465,
   "name": "Barricade table",
-  "models_2": [
-    7906,
-    41250
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      7906,
+      41250
+    ]
+  },
   "actions": [
     "Take-from",
     null,
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 1484
+  "category": 1484,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

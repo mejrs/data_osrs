@@ -1,12 +1,14 @@
 {
   "id": 37621,
-  "models": [
-    [
-      4,
-      39141
-    ]
-  ],
   "name": "Spice Rack",
+  "object_models_and_types": {
+    "models": [
+      39141
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
@@ -17,5 +19,8 @@
     "Remove"
   ],
   "contrast": 25,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 695,
   "name": "Clothes model",
-  "models_2": [
-    1142
-  ]
+  "object_models": {
+    "models": [
+      1142
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

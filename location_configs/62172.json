@@ -1,0 +1,23 @@
+{
+  "id": 62172,
+  "name": "Staircase",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      1237
+    ]
+  },
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

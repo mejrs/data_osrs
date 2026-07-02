@@ -1,14 +1,19 @@
 {
   "id": 29887,
   "name": "Crystalline structure",
-  "models_2": [
-    32516,
-    32517
-  ],
   "dim_x": 5,
   "dim_y": 8,
+  "object_models": {
+    "models": [
+      32516,
+      32517
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 7351,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,21 +1,24 @@
 {
   "id": 34859,
-  "models": [
-    [
-      10,
-      2131
-    ],
-    [
-      0,
-      25625
-    ]
-  ],
   "name": "Thick Web",
+  "object_models_and_types": {
+    "models": [
+      2131,
+      25625
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
   "actions": [
     "Exit",
     "Quick-Exit",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

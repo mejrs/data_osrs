@@ -1,9 +1,11 @@
 {
   "id": 51770,
   "name": "Stonepine tree",
-  "models_2": [
-    52425
-  ],
+  "object_models": {
+    "models": [
+      52425
+    ]
+  },
   "unknown_19": 1,
   "ambient": 80,
   "contrast": 50,
@@ -24,5 +26,8 @@
   "scale_x": 160,
   "scale_y": 332,
   "scale_z": 160,
-  "mapscene": 133
+  "mapscene": 133,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

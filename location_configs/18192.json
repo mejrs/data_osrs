@@ -1,12 +1,17 @@
 {
   "id": 18192,
   "name": "Broken boat",
-  "models_2": [
-    18349
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      18349
+    ]
+  },
   "ambient": 20,
   "contrast": 20,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

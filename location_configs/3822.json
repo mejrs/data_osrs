@@ -1,9 +1,11 @@
 {
   "id": 3822,
   "name": "Goutweed Crate",
-  "models_2": [
-    3819
-  ],
+  "object_models": {
+    "models": [
+      3819
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Search",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

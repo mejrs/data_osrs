@@ -1,10 +1,12 @@
 {
   "id": 48424,
   "name": "Pillar",
-  "models_2": [
-    48463,
-    48454
-  ],
+  "object_models": {
+    "models": [
+      48463,
+      48454
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 10,
@@ -16,5 +18,8 @@
     ]
   ],
   "unknown_73": true,
-  "mapscene": 111
+  "mapscene": 111,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

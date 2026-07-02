@@ -1,10 +1,12 @@
 {
   "id": 39948,
   "name": "Dresser",
-  "models_2": [
-    12468,
-    40790
-  ],
+  "object_models": {
+    "models": [
+      12468,
+      40790
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -30,5 +32,8 @@
       5660,
       7830
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

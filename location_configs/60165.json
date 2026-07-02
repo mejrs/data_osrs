@@ -1,11 +1,13 @@
 {
   "id": 60165,
   "name": "Mine cart",
-  "models_2": [
-    17558,
-    17577,
-    17557
-  ],
+  "object_models": {
+    "models": [
+      17558,
+      17577,
+      17557
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,
@@ -21,5 +23,8 @@
   ],
   "scale_x": 128,
   "scale_y": 160,
-  "scale_z": 160
+  "scale_z": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

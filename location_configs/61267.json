@@ -1,0 +1,25 @@
+{
+  "id": 61267,
+  "name": "Fence",
+  "object_models_and_types": {
+    "models": [
+      5389
+    ],
+    "types": [
+      0
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      5404,
+      12818
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,9 +1,11 @@
 {
   "id": 2194,
   "name": "Chest",
-  "models_2": [
-    5273
-  ],
+  "object_models": {
+    "models": [
+      5273
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Search",
@@ -34,5 +36,8 @@
       6930
     ]
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

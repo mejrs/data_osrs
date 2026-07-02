@@ -1,9 +1,11 @@
 {
   "id": 53132,
   "name": "Candles",
-  "models_2": [
-    14204
-  ],
+  "object_models": {
+    "models": [
+      14204
+    ]
+  },
   "ambient": 40,
   "contrast": 20,
   "colours": [
@@ -11,5 +13,8 @@
       127,
       6494
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

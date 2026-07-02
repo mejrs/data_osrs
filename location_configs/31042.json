@@ -1,12 +1,17 @@
 {
   "id": 31042,
   "name": "Heat",
-  "models_2": [
-    33544
-  ],
+  "object_models": {
+    "models": [
+      33544
+    ]
+  },
   "unknown_17": false,
   "unknown_22": true,
   "unknown_24": 7681,
   "ambient": 15,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

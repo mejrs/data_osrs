@@ -1,9 +1,11 @@
 {
   "id": 5253,
   "name": "Nettles",
-  "models_2": [
-    5406
-  ],
+  "object_models": {
+    "models": [
+      5406
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Pick",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

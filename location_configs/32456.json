@@ -1,10 +1,12 @@
 {
   "id": 32456,
   "name": "Rowboat",
-  "models_2": [
-    30279,
-    30349
-  ],
+  "object_models": {
+    "models": [
+      30279,
+      30349
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Travel",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

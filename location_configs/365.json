@@ -1,9 +1,11 @@
 {
   "id": 365,
   "name": "Sacks",
-  "models_2": [
-    1482
-  ],
+  "object_models": {
+    "models": [
+      1482
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "category": 220
+  "category": 220,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

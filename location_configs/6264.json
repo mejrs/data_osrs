@@ -1,7 +1,12 @@
 {
   "id": 6264,
   "name": "Bird cage stand",
-  "models_2": [
-    6023
-  ]
+  "object_models": {
+    "models": [
+      6023
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

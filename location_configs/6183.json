@@ -1,8 +1,13 @@
 {
   "id": 6183,
   "name": "Bed",
-  "models_2": [
-    14191
-  ],
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      14191
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

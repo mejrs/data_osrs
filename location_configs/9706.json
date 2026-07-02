@@ -1,14 +1,19 @@
 {
   "id": 9706,
   "name": "Lever",
-  "models_2": [
-    9615
-  ],
+  "object_models": {
+    "models": [
+      9615
+    ]
+  },
   "actions": [
     "Pull",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

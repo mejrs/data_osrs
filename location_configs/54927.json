@@ -1,9 +1,11 @@
 {
   "id": 54927,
   "name": "Mixing vessel (Megalite liquid)",
-  "models_2": [
-    54865
-  ],
+  "object_models": {
+    "models": [
+      54865
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 11628,
@@ -47,5 +49,8 @@
       46261
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 55931,
   "name": "Candy cane fence",
-  "models_2": [
-    46895
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      46895
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 15,
@@ -19,5 +21,8 @@
       94
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

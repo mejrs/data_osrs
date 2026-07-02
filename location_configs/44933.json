@@ -1,9 +1,11 @@
 {
   "id": 44933,
   "name": "Telescope",
-  "models_2": [
-    13135
-  ],
+  "object_models": {
+    "models": [
+      13135
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

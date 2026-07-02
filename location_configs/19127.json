@@ -1,10 +1,12 @@
 {
   "id": 19127,
   "name": "Candles",
-  "models_2": [
-    11874,
-    9230
-  ],
+  "object_models": {
+    "models": [
+      11874,
+      9230
+    ]
+  },
   "unknown_24": 2564,
   "actions": [
     "Steal",
@@ -15,5 +17,8 @@
   ],
   "scale_x": 200,
   "scale_y": 200,
-  "scale_z": 200
+  "scale_z": 200,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

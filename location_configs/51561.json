@@ -1,12 +1,14 @@
 {
   "id": 51561,
   "name": "Pickaxe stall",
-  "models_2": [
-    5879,
-    53128
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5879,
+      53128
+    ]
+  },
   "contrast": 20,
   "colours": [
     [
@@ -25,5 +27,8 @@
   "model": false,
   "scale_x": 88,
   "scale_y": 88,
-  "scale_z": 88
+  "scale_z": 88,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

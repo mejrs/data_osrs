@@ -1,11 +1,16 @@
 {
   "id": 48167,
   "name": "Cupboard",
-  "models_2": [
-    48561
-  ],
+  "object_models": {
+    "models": [
+      48561
+    ]
+  },
   "ambient": 30,
   "contrast": 20,
   "scale_x": 96,
-  "scale_z": 96
+  "scale_z": 96,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 18014,
   "name": "Table and till",
-  "models_2": [
-    4326,
-    17735
-  ],
+  "object_models": {
+    "models": [
+      4326,
+      17735
+    ]
+  },
   "ambient": 12,
   "colours": [
     [
@@ -28,5 +30,8 @@
       24
     ]
   ],
-  "category": 155
+  "category": 155,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

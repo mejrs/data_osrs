@@ -1,9 +1,11 @@
 {
   "id": 46082,
   "name": "Rewards Niche",
-  "models_2": [
-    46020
-  ],
+  "object_models": {
+    "models": [
+      46020
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -35,5 +37,8 @@
       8282,
       40090
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

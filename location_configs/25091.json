@@ -1,8 +1,13 @@
 {
   "id": 25091,
   "name": "Shield",
-  "models_2": [
-    26469
-  ],
-  "unknown_17": false
+  "object_models": {
+    "models": [
+      26469
+    ]
+  },
+  "unknown_17": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

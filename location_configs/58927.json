@@ -1,11 +1,13 @@
 {
   "id": 58927,
   "name": "Scoreboard",
-  "models_2": [
-    58793
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58793
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 13563,
@@ -20,6 +22,9 @@
   "contrast": 15,
   "category": 2313,
   "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2442": 7244
   }

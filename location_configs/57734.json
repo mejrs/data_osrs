@@ -1,9 +1,11 @@
 {
   "id": 57734,
   "name": "Incense burner",
-  "models_2": [
-    57445
-  ],
+  "object_models": {
+    "models": [
+      57445
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Light",
@@ -13,5 +15,8 @@
     "Remove"
   ],
   "contrast": 20,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

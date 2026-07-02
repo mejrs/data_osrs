@@ -1,16 +1,16 @@
 {
   "id": 19430,
-  "models": [
-    [
-      10,
-      1465
-    ],
-    [
-      22,
-      20043
-    ]
-  ],
   "name": "Disturbed sand",
+  "object_models_and_types": {
+    "models": [
+      1465,
+      20043
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -30,5 +30,8 @@
   "scale_x": 96,
   "scale_y": 16,
   "scale_z": 96,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

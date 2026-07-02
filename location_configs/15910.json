@@ -1,11 +1,16 @@
 {
   "id": 15910,
   "name": "Boiler",
-  "models_2": [
-    15801,
-    15799,
-    15817
-  ],
   "dim_x": 2,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      15801,
+      15799,
+      15817
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

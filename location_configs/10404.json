@@ -1,10 +1,15 @@
 {
   "id": 10404,
   "name": "Water Channel",
-  "models_2": [
-    10194,
-    10203
-  ],
+  "object_models": {
+    "models": [
+      10194,
+      10203
+    ]
+  },
   "unknown_21": true,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

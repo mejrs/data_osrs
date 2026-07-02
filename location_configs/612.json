@@ -1,10 +1,15 @@
 {
   "id": 612,
   "name": "Counter",
-  "models_2": [
-    1148
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1148
+    ]
+  },
   "is_transparent": true,
-  "category": 156
+  "category": 156,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

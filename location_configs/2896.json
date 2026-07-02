@@ -1,12 +1,14 @@
 {
   "id": 2896,
-  "models": [
-    [
-      0,
-      593
-    ]
-  ],
   "name": "Legends Guild door",
+  "object_models_and_types": {
+    "models": [
+      593
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -28,5 +30,8 @@
       9137,
       41191
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

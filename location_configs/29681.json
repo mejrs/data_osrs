@@ -1,11 +1,13 @@
 {
   "id": 29681,
   "name": "Carved redwood",
-  "models_2": [
-    32865
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32865
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": -20,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 100,
-  "category": 1044
+  "category": 1044,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

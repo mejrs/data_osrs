@@ -1,12 +1,14 @@
 {
   "id": 26769,
-  "models": [
-    [
-      0,
-      28319
-    ]
-  ],
   "name": "Crevice",
+  "object_models_and_types": {
+    "models": [
+      28319
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

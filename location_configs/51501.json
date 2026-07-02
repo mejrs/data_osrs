@@ -1,9 +1,11 @@
 {
   "id": 51501,
   "name": "Anvil",
-  "models_2": [
-    42119
-  ],
+  "object_models": {
+    "models": [
+      42119
+    ]
+  },
   "ambient": 40,
   "actions": [
     "Smith",
@@ -13,5 +15,8 @@
     null
   ],
   "contrast": 25,
-  "category": 772
+  "category": 772,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

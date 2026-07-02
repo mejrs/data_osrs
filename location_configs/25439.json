@@ -1,12 +1,14 @@
 {
   "id": 25439,
   "name": "Telescope",
-  "models_2": [
-    26938,
-    26942
-  ],
   "dim_x": 2,
   "dim_y": 6,
+  "object_models": {
+    "models": [
+      26938,
+      26942
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
@@ -17,5 +19,8 @@
     null
   ],
   "mirror": true,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

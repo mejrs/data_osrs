@@ -1,10 +1,15 @@
 {
   "id": 22402,
   "name": "Granary roof",
-  "models_2": [
-    22815
-  ],
+  "object_models": {
+    "models": [
+      22815
+    ]
+  },
   "unknown_22": true,
   "ambient": 35,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

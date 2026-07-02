@@ -1,9 +1,14 @@
 {
   "id": 10292,
   "name": "Rat trap",
-  "models_2": [
-    10052,
-    10053
-  ],
-  "unknown_24": 2897
+  "object_models": {
+    "models": [
+      10052,
+      10053
+    ]
+  },
+  "unknown_24": 2897,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

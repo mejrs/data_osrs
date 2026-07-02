@@ -1,18 +1,15 @@
 {
   "id": 29548,
-  "name": "Fairy ring",
-  "models_2": [
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
-  "ambient": 60,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (BLP)",
-    null,
-    null
-  ]
+  "object_models": {
+    "models": [
+      36072
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 0,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 51498,
   "name": "Workbench",
-  "models_2": [
-    42038
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      42038
+    ]
+  },
   "contrast": 10,
   "colours": [
     [
@@ -28,5 +30,8 @@
       52550,
       38181
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

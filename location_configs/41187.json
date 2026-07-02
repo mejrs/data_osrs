@@ -1,9 +1,11 @@
 {
   "id": 41187,
   "name": "Ancient brazier",
-  "models_2": [
-    41097
-  ],
+  "object_models": {
+    "models": [
+      41097
+    ]
+  },
   "ambient": 25,
   "contrast": 10,
   "colours": [
@@ -11,5 +13,8 @@
       908,
       43672
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

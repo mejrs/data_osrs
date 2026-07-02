@@ -1,11 +1,13 @@
 {
   "id": 9293,
   "name": "Cave Exit",
-  "models_2": [
-    14971
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      14971
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Exit",
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

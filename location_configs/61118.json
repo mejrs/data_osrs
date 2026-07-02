@@ -1,0 +1,17 @@
+{
+  "id": 61118,
+  "name": "Pillar",
+  "object_models": {
+    "models": [
+      60519
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 30,
+  "translate_y": 520,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

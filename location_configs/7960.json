@@ -1,12 +1,14 @@
 {
   "id": 7960,
   "name": "Dead apple tree",
-  "models_2": [
-    7921,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7921,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Clear",
@@ -20,5 +22,8 @@
       7068,
       10508
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

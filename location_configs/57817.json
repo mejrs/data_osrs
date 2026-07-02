@@ -1,12 +1,17 @@
 {
   "id": 57817,
   "name": "Tropical palm",
-  "models_2": [
-    58692
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      58692
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

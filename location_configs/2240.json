@@ -1,17 +1,17 @@
 {
   "id": 2240,
-  "models": [
-    [
-      10,
-      611
-    ],
-    [
-      1,
-      607
-    ]
-  ],
   "name": "Carved doors",
   "dim_x": 2,
+  "object_models_and_types": {
+    "models": [
+      611,
+      607
+    ],
+    "types": [
+      10,
+      1
+    ]
+  },
   "actions": [
     "Open",
     "Search",
@@ -20,5 +20,8 @@
     null
   ],
   "translate_y": 65436,
-  "translate_z": 75
+  "translate_z": 75,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

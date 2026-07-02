@@ -1,13 +1,18 @@
 {
   "id": 49563,
   "name": "Boss Spawn",
-  "models_2": [
-    49488
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      49488
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 10423,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

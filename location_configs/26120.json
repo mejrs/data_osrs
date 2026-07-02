@@ -1,16 +1,21 @@
 {
   "id": 26120,
   "name": "Sinclair family compost heap",
-  "models_2": [
-    27537
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      27537
+    ]
+  },
   "actions": [
     null,
     "Investigate",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

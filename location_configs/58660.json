@@ -1,11 +1,13 @@
 {
   "id": 58660,
   "name": "Furnace space",
-  "models_2": [
-    58767
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      58767
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -18,5 +20,8 @@
     null
   ],
   "contrast": 10,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

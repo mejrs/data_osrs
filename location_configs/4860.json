@@ -1,15 +1,20 @@
 {
   "id": 4860,
   "name": "Gorilla Statue",
-  "models_2": [
-    4739
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      4739
+    ]
+  },
   "colours": [
     [
       8514,
       7646
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

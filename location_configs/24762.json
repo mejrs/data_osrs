@@ -1,15 +1,20 @@
 {
   "id": 24762,
-  "models_2": [
-    26051,
-    26052,
-    26054
-  ],
   "dim_x": 7,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      26051,
+      26052,
+      26054
+    ]
+  },
   "unknown_19": 0,
   "unknown_27": false,
   "ambient": 20,
   "contrast": 10,
-  "scale_y": 105
+  "scale_y": 105,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

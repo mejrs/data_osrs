@@ -1,14 +1,19 @@
 {
   "id": 40075,
   "name": "Wardrobe space",
-  "models_2": [
-    40829
-  ],
+  "object_models": {
+    "models": [
+      40829
+    ]
+  },
   "actions": [
     null,
     null,
     null,
     "Build",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

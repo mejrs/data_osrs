@@ -1,12 +1,17 @@
 {
   "id": 44585,
   "name": "Warp",
-  "models_2": [
-    44750
-  ],
+  "object_models": {
+    "models": [
+      44750
+    ]
+  },
   "unknown_17": false,
   "unknown_22": true,
   "unknown_24": 7681,
   "ambient": 15,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

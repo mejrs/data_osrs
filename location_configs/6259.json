@@ -1,9 +1,11 @@
 {
   "id": 6259,
   "name": "Dung",
-  "models_2": [
-    6048
-  ],
+  "object_models": {
+    "models": [
+      6048
+    ]
+  },
   "unknown_17": false,
   "unknown_24": 1881,
   "actions": [
@@ -18,5 +20,8 @@
       61,
       13852
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

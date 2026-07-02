@@ -1,9 +1,11 @@
 {
   "id": 14355,
   "name": "Pile of bricks",
-  "models_2": [
-    4476
-  ],
+  "object_models": {
+    "models": [
+      4476
+    ]
+  },
   "unknown_17": false,
   "ambient": 20,
   "colours": [
@@ -31,5 +33,8 @@
       21642,
       3243
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 3983,
   "name": "Tent",
-  "models_2": [
-    1970
-  ],
+  "object_models": {
+    "models": [
+      1970
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "colours": [
@@ -11,5 +13,8 @@
       103,
       7364
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

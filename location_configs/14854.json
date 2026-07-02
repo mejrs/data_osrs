@@ -1,9 +1,11 @@
 {
   "id": 14854,
   "name": "Chest",
-  "models_2": [
-    24729
-  ],
+  "object_models": {
+    "models": [
+      24729
+    ]
+  },
   "colours": [
     [
       7706,
@@ -17,5 +19,8 @@
       5784,
       7830
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

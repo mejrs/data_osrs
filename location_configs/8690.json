@@ -1,7 +1,12 @@
 {
   "id": 8690,
   "name": "Milk Urns",
-  "models_2": [
-    8249
-  ]
+  "object_models": {
+    "models": [
+      8249
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

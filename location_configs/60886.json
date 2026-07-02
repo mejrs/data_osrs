@@ -1,0 +1,25 @@
+{
+  "id": 60886,
+  "name": "Shelter remains",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      61293,
+      61294
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30,
+  "colours": [
+    [
+      272,
+      902
+    ]
+  ],
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

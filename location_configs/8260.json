@@ -1,10 +1,12 @@
 {
   "id": 8260,
   "name": "Wildblood Hops",
-  "models_2": [
-    8200,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8200,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -26,5 +28,8 @@
       13095,
       2477
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,41 @@
+{
+  "id": 61280,
+  "name": "Stained glass window",
+  "object_models_and_types": {
+    "models": [
+      60779
+    ],
+    "types": [
+      4
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 100,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 0,
+      "max": 36,
+      "text": ""
+    },
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 40,
+      "max": 178,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
+}

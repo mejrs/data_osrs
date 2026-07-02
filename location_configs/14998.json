@@ -1,12 +1,17 @@
 {
   "id": 14998,
   "name": "Water Source",
-  "models_2": [
-    16660
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      16660
+    ]
+  },
   "unknown_19": 1,
   "ambient": 8,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

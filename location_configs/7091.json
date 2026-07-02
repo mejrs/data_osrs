@@ -1,10 +1,12 @@
 {
   "id": 7091,
   "name": "Study Desk",
-  "models_2": [
-    7399
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      7399
+    ]
+  },
   "colours": [
     [
       5656,
@@ -14,5 +16,8 @@
       7452,
       6430
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

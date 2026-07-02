@@ -1,10 +1,12 @@
 {
   "id": 58859,
   "name": "Dead Hemp",
-  "models_2": [
-    59769,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      59769,
+      7766
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Clear",
@@ -31,5 +33,8 @@
       21788,
       7452
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

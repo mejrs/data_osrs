@@ -1,9 +1,11 @@
 {
   "id": 5884,
   "name": "Swamp",
-  "models_2": [
-    2259
-  ],
+  "object_models": {
+    "models": [
+      2259
+    ]
+  },
   "unknown_24": 480,
   "colours": [
     [
@@ -11,5 +13,8 @@
       127
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

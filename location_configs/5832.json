@@ -1,9 +1,11 @@
 {
   "id": 5832,
-  "models_2": [
-    5648,
-    3338
-  ],
+  "object_models": {
+    "models": [
+      5648,
+      3338
+    ]
+  },
   "unknown_19": 0,
   "colours": [
     [
@@ -30,5 +32,8 @@
   "textures": {
     "16": 22
   },
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

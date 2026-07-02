@@ -1,15 +1,20 @@
 {
   "id": 46535,
-  "models": [
-    [
-      0,
-      41498
-    ]
-  ],
   "name": "Locked Door",
+  "object_models_and_types": {
+    "models": [
+      41498
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 25,
   "contrast": 25,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

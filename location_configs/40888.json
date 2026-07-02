@@ -1,11 +1,13 @@
 {
   "id": 40888,
   "name": "Cave exit",
-  "models_2": [
-    731
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      731
+    ]
+  },
   "actions": [
     "Exit",
     null,
@@ -38,5 +40,8 @@
   "unknown_69": 27,
   "translate_x": 0,
   "translate_y": 80,
-  "translate_z": 0
+  "translate_z": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

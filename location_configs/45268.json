@@ -1,10 +1,12 @@
 {
   "id": 45268,
   "name": "Pots",
-  "models_2": [
-    46140,
-    46137
-  ],
+  "object_models": {
+    "models": [
+      46140,
+      46137
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": -10,
@@ -18,5 +20,8 @@
       23865,
       46369
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

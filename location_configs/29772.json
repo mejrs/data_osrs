@@ -1,11 +1,13 @@
 {
   "id": 29772,
   "name": "Gourd tree",
-  "models_2": [
-    32487
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32487
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

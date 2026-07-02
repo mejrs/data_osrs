@@ -1,12 +1,14 @@
 {
   "id": 43991,
   "name": "Chemistry Table",
-  "models_2": [
-    25075,
-    25049,
-    25051
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      25075,
+      25049,
+      25051
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 40,
@@ -35,5 +37,8 @@
       5541
     ]
   ],
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

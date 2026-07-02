@@ -1,10 +1,15 @@
 {
   "id": 15950,
   "name": "Jungle tree",
-  "models_2": [
-    15809
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 30
+  "object_models": {
+    "models": [
+      15809
+    ]
+  },
+  "ambient": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

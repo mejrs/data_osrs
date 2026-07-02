@@ -1,11 +1,13 @@
 {
   "id": 30922,
   "name": "Magic Mushtree",
-  "models_2": [
-    33668
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      33668
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Use",
@@ -15,5 +17,8 @@
     null
   ],
   "category": 1156,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

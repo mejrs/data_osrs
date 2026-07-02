@@ -1,12 +1,14 @@
 {
   "id": 37404,
   "name": "Fish stall",
-  "models_2": [
-    4292,
-    1421
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      4292,
+      1421
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -33,5 +35,8 @@
       103,
       5214
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

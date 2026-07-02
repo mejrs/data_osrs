@@ -1,9 +1,11 @@
 {
   "id": 59698,
   "name": "Keg of horizon's lure",
-  "models_2": [
-    58229
-  ],
+  "object_models": {
+    "models": [
+      58229
+    ]
+  },
   "is_transparent": true,
   "ambient": 5,
   "actions": [
@@ -21,5 +23,8 @@
     ]
   ],
   "category": 2331,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

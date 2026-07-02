@@ -1,7 +1,12 @@
 {
   "id": 5267,
   "name": "Leaves",
-  "models_2": [
-    15634
-  ]
+  "object_models": {
+    "models": [
+      15634
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

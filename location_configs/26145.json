@@ -1,10 +1,15 @@
 {
   "id": 26145,
   "name": "Boil",
-  "models_2": [
-    7433
-  ],
   "dim_x": 3,
   "dim_y": 2,
-  "unknown_69": 27
+  "object_models": {
+    "models": [
+      7433
+    ]
+  },
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

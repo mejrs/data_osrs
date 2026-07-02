@@ -1,0 +1,22 @@
+{
+  "id": 62160,
+  "name": "Crate of hammers",
+  "object_models": {
+    "models": [
+      61212,
+      61216
+    ]
+  },
+  "ambient": 20,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

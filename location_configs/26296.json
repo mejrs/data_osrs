@@ -1,11 +1,13 @@
 {
   "id": 26296,
   "name": "Pet house space",
-  "models_2": [
-    28942
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      28942
+    ]
+  },
   "actions": [
     null,
     null,
@@ -14,6 +16,9 @@
     "Build"
   ],
   "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 2,
     "430": 2

@@ -1,9 +1,11 @@
 {
   "id": 16250,
   "name": "Crate",
-  "models_2": [
-    7704
-  ],
+  "object_models": {
+    "models": [
+      7704
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Search",
@@ -37,5 +39,8 @@
       6806,
       32939
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

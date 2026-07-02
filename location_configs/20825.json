@@ -1,9 +1,14 @@
 {
   "id": 20825,
   "name": "Junk",
-  "models_2": [
-    14880
-  ],
+  "object_models": {
+    "models": [
+      14880
+    ]
+  },
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

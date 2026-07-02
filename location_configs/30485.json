@@ -1,12 +1,14 @@
 {
   "id": 30485,
   "name": "Seaweed patch",
-  "models_2": [
-    7800,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7800,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Rake",
@@ -24,5 +26,8 @@
       14230,
       14990
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

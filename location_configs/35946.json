@@ -1,9 +1,11 @@
 {
   "id": 35946,
   "name": "Cauldron",
-  "models_2": [
-    2241
-  ],
+  "object_models": {
+    "models": [
+      2241
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 479,
   "colours": [
@@ -15,5 +17,8 @@
       22420,
       6695
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

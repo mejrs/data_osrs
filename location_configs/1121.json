@@ -1,10 +1,15 @@
 {
   "id": 1121,
   "name": "Bush",
-  "models_2": [
-    1672
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1672
+    ]
+  },
   "is_transparent": true,
-  "mapscene": 9
+  "mapscene": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

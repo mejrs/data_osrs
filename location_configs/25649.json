@@ -1,11 +1,13 @@
 {
   "id": 25649,
   "name": "Rack",
-  "models_2": [
-    25041
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      25041
+    ]
+  },
   "colours": [
     [
       7463,
@@ -23,5 +25,8 @@
       6550,
       6024
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 26329,
   "name": "Spikes",
-  "models_2": [
-    27919
-  ],
+  "object_models": {
+    "models": [
+      27919
+    ]
+  },
   "unknown_21": true,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

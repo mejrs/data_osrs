@@ -1,11 +1,13 @@
 {
   "id": 13297,
   "name": "Teak table",
-  "models_2": [
-    12455
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12455
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     null,
@@ -14,5 +16,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

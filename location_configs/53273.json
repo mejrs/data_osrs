@@ -1,16 +1,16 @@
 {
   "id": 53273,
-  "models": [
-    [
-      10,
-      53541
-    ],
-    [
-      22,
-      53536
-    ]
-  ],
   "name": "Pit",
+  "object_models_and_types": {
+    "models": [
+      53541,
+      53536
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "actions": [
@@ -21,5 +21,8 @@
     null
   ],
   "contrast": 25,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

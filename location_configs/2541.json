@@ -1,9 +1,11 @@
 {
   "id": 2541,
   "name": "Sewer pipe",
-  "models_2": [
-    11450
-  ],
+  "object_models": {
+    "models": [
+      11450
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

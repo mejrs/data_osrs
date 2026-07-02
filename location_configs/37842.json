@@ -1,11 +1,13 @@
 {
   "id": 37842,
   "name": "Statue",
-  "models_2": [
-    39438
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      39438
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -28,5 +30,8 @@
       43146,
       11142
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

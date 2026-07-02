@@ -1,11 +1,13 @@
 {
   "id": 26297,
   "name": "Oak house",
-  "models_2": [
-    28948
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      28948
+    ]
+  },
   "actions": [
     "View",
     null,
@@ -13,5 +15,8 @@
     "Upgrade",
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

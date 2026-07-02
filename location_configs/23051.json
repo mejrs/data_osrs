@@ -1,9 +1,14 @@
 {
   "id": 23051,
-  "models_2": [
-    15486
-  ],
+  "object_models": {
+    "models": [
+      15486
+    ]
+  },
   "unknown_19": 0,
   "ambient": 35,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

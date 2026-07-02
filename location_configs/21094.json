@@ -1,14 +1,19 @@
 {
   "id": 21094,
   "name": "Crazy penguin",
-  "models_2": [
-    21621,
-    21619,
-    21620,
-    21618
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      21621,
+      21619,
+      21620,
+      21618
+    ]
+  },
   "unknown_24": 5729,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

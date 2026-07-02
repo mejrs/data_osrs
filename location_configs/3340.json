@@ -1,9 +1,11 @@
 {
   "id": 3340,
   "name": "Guide rope",
-  "models_2": [
-    755
-  ],
+  "object_models": {
+    "models": [
+      755
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Fire-at",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

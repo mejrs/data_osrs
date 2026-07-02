@@ -1,9 +1,11 @@
 {
   "id": 52009,
   "name": "Wardrobe",
-  "models_2": [
-    51371
-  ],
+  "object_models": {
+    "models": [
+      51371
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 15,
@@ -26,5 +28,8 @@
     ]
   ],
   "category": 1936,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

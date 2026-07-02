@@ -1,9 +1,11 @@
 {
   "id": 6605,
   "name": "Water",
-  "models_2": [
-    3951
-  ],
+  "object_models": {
+    "models": [
+      3951
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

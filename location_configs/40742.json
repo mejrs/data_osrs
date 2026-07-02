@@ -1,9 +1,11 @@
 {
   "id": 40742,
   "name": "Dark Chest",
-  "models_2": [
-    41390
-  ],
+  "object_models": {
+    "models": [
+      41390
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -14,5 +16,8 @@
     null
   ],
   "contrast": 10,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 4378,
   "name": "Standard Stand",
-  "models_2": [
-    4416
-  ],
+  "object_models": {
+    "models": [
+      4416
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Capture",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

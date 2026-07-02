@@ -1,9 +1,11 @@
 {
   "id": 29993,
   "name": "Steps",
-  "models_2": [
-    7766
-  ],
+  "object_models": {
+    "models": [
+      7766
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

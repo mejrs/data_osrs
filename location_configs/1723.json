@@ -1,11 +1,13 @@
 {
   "id": 1723,
   "name": "Odd looking wall",
-  "models_2": [
-    598
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      598
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Push",
@@ -27,5 +29,8 @@
   "textures": {
     "2": 23
   },
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,24 @@
+{
+  "id": 62076,
+  "name": "Crate",
+  "object_models": {
+    "models": [
+      61213,
+      61215
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

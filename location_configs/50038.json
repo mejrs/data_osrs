@@ -1,28 +1,25 @@
 {
   "id": 50038,
-  "models": [
-    [
-      0,
-      50086
-    ],
-    [
-      1,
-      50087
-    ],
-    [
-      2,
-      50085
-    ],
-    [
-      3,
-      50083
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      50086,
+      50087,
+      50085,
+      50083,
       50084
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

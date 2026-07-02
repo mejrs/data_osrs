@@ -1,10 +1,15 @@
 {
   "id": 12005,
   "name": "Mushroom torch",
-  "models_2": [
-    56323
-  ],
+  "object_models": {
+    "models": [
+      56323
+    ]
+  },
   "ambient": 30,
   "model": false,
-  "translate_y": 65534
+  "translate_y": 65534,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

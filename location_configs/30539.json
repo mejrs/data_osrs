@@ -1,14 +1,19 @@
 {
   "id": 30539,
   "name": "Mushroom",
-  "models_2": [
-    33846
-  ],
+  "object_models": {
+    "models": [
+      33846
+    ]
+  },
   "actions": [
     "Inspect",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

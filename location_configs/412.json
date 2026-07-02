@@ -1,10 +1,12 @@
 {
   "id": 412,
   "name": "Chaos altar",
-  "models_2": [
-    1216
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1216
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Pray-at",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

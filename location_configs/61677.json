@@ -1,0 +1,38 @@
+{
+  "id": 61677,
+  "name": "Display case",
+  "dim_x": 3,
+  "object_models": {
+    "models": [
+      61219,
+      61222,
+      61223
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2465,
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 166,
+      "max": 178,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
+}

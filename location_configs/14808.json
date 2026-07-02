@@ -1,7 +1,12 @@
 {
   "id": 14808,
   "name": "Creeper",
-  "models_2": [
-    14753
-  ]
+  "object_models": {
+    "models": [
+      14753
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

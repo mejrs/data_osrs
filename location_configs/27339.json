@@ -1,9 +1,14 @@
 {
   "id": 27339,
   "name": "Bed",
-  "models_2": [
-    29946
-  ],
   "dim_y": 2,
-  "unknown_27": false
+  "object_models": {
+    "models": [
+      29946
+    ]
+  },
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

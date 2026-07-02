@@ -1,15 +1,15 @@
 {
   "id": 12375,
-  "models": [
-    [
-      16,
-      13462
-    ],
-    [
-      21,
+  "object_models_and_types": {
+    "models": [
+      13462,
       13465
+    ],
+    "types": [
+      16,
+      21
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "colours": [
@@ -26,5 +26,8 @@
       12
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

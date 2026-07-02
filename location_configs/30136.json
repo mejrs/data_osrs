@@ -1,10 +1,12 @@
 {
   "id": 30136,
   "name": "Fireplace",
-  "models_2": [
-    32335
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      32335
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -19,5 +21,8 @@
       9141,
       4769
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

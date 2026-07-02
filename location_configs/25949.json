@@ -1,7 +1,12 @@
 {
   "id": 25949,
   "name": "The jury",
-  "models_2": [
-    27520
-  ]
+  "object_models": {
+    "models": [
+      27520
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

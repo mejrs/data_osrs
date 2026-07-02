@@ -1,9 +1,11 @@
 {
   "id": 41408,
   "name": "Bailing buckets",
-  "models_2": [
-    41534
-  ],
+  "object_models": {
+    "models": [
+      41534
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Take",
@@ -12,5 +14,8 @@
     "Take-X",
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

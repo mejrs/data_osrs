@@ -1,11 +1,13 @@
 {
   "id": 3348,
   "name": "Iban's Throne",
-  "models_2": [
-    717
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      717
+    ]
+  },
   "unknown_17": false,
   "unknown_22": true,
   "colours": [
@@ -17,5 +19,8 @@
       5916,
       8076
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

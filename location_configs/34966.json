@@ -1,9 +1,11 @@
 {
   "id": 34966,
   "name": "Pillar",
-  "models_2": [
-    1404
-  ],
+  "object_models": {
+    "models": [
+      1404
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Inspect",
@@ -14,5 +16,8 @@
   ],
   "scale_x": 50,
   "scale_y": 50,
-  "scale_z": 50
+  "scale_z": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

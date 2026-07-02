@@ -1,12 +1,14 @@
 {
   "id": 9434,
   "name": "Table",
-  "models_2": [
-    1213,
-    9411,
-    9410
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1213,
+      9411,
+      9410
+    ]
+  },
   "is_transparent": true,
   "ambient": 25,
   "actions": [
@@ -30,5 +32,8 @@
       937,
       7060
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

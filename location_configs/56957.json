@@ -1,9 +1,14 @@
 {
   "id": 56957,
   "name": "Beehive",
-  "models_2": [
-    57068
-  ],
+  "object_models": {
+    "models": [
+      57068
+    ]
+  },
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

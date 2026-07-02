@@ -1,9 +1,11 @@
 {
   "id": 29146,
   "name": "Tip jar",
-  "models_2": [
-    32086
-  ],
+  "object_models": {
+    "models": [
+      32086
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -15,5 +17,8 @@
   ],
   "category": 206,
   "translate_y": 65535,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

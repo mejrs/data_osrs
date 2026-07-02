@@ -1,0 +1,30 @@
+{
+  "id": 61859,
+  "name": "Anvil",
+  "object_models": {
+    "models": [
+      1251
+    ]
+  },
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      16,
+      12
+    ],
+    [
+      28,
+      24
+    ]
+  ],
+  "category": 772,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

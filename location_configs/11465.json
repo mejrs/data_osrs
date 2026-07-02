@@ -1,31 +1,28 @@
 {
   "id": 11465,
-  "models": [
-    [
-      12,
-      11516
-    ],
-    [
-      13,
-      11520
-    ],
-    [
-      15,
-      11517
-    ],
-    [
-      16,
-      11518
-    ],
-    [
-      17,
+  "object_models_and_types": {
+    "models": [
+      11516,
+      11520,
+      11517,
+      11518,
       11519
+    ],
+    "types": [
+      12,
+      13,
+      15,
+      16,
+      17
     ]
-  ],
+  },
   "unknown_22": true,
   "textures": {
     "2": 23,
     "6": 44
   },
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

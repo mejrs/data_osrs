@@ -1,15 +1,20 @@
 {
   "id": 40072,
   "name": "Table space",
-  "models_2": [
-    40803
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      40803
+    ]
+  },
   "actions": [
     null,
     null,
     null,
     "Build",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

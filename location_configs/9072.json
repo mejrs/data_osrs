@@ -1,9 +1,11 @@
 {
   "id": 9072,
   "name": "rune casket",
-  "models_2": [
-    8984
-  ],
+  "object_models": {
+    "models": [
+      8984
+    ]
+  },
   "colours": [
     [
       11187,
@@ -16,5 +18,8 @@
   ],
   "scale_x": 100,
   "scale_y": 100,
-  "scale_z": 100
+  "scale_z": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

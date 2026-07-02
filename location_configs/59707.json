@@ -1,9 +1,11 @@
 {
   "id": 59707,
   "name": "Eternal brazier",
-  "models_2": [
-    58146
-  ],
+  "object_models": {
+    "models": [
+      58146
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 13306,
@@ -51,5 +53,8 @@
       9176,
       6096
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

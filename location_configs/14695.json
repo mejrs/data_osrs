@@ -1,9 +1,11 @@
 {
   "id": 14695,
   "name": "Tree",
-  "models_2": [
-    14752
-  ],
+  "object_models": {
+    "models": [
+      14752
+    ]
+  },
   "unknown_21": true,
   "colours": [
     [
@@ -31,5 +33,8 @@
       7690
     ]
   ],
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

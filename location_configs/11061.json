@@ -1,10 +1,12 @@
 {
   "id": 11061,
   "name": "Pedestal",
-  "models_2": [
-    10897,
-    10895
-  ],
+  "object_models": {
+    "models": [
+      10897,
+      10895
+    ]
+  },
   "actions": [
     "Take-sigil",
     null,
@@ -21,5 +23,8 @@
       8617,
       7595
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

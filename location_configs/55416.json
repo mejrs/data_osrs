@@ -1,12 +1,14 @@
 {
   "id": 55416,
   "name": "Reward Cart",
-  "models_2": [
-    55342,
-    55344
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      55342,
+      55344
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Search",
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 20,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 48177,
   "name": "Chest",
-  "models_2": [
-    5272
-  ],
+  "object_models": {
+    "models": [
+      5272
+    ]
+  },
   "ambient": 10,
   "contrast": 25,
   "colours": [
@@ -27,5 +29,8 @@
       16536,
       32811
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

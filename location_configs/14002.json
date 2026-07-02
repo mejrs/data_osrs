@@ -1,14 +1,19 @@
 {
   "id": 14002,
   "name": "Warning sign",
-  "models_2": [
-    14276
-  ],
+  "object_models": {
+    "models": [
+      14276
+    ]
+  },
   "actions": [
     "Read",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

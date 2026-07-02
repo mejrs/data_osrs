@@ -1,13 +1,18 @@
 {
   "id": 3988,
-  "models_2": [
-    1998
-  ],
+  "object_models": {
+    "models": [
+      1998
+    ]
+  },
   "unknown_19": 0,
   "colours": [
     [
       5010,
       6449
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

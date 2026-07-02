@@ -1,10 +1,12 @@
 {
   "id": 16254,
   "name": "Tactical map frame",
-  "models_2": [
-    16111
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      16111
+    ]
+  },
   "unknown_19": 1,
   "ambient": 40,
   "colours": [
@@ -24,5 +26,8 @@
       7704,
       33063
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

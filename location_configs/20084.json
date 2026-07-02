@@ -1,9 +1,11 @@
 {
   "id": 20084,
   "name": "Castle wall",
-  "models_2": [
-    9233
-  ],
+  "object_models": {
+    "models": [
+      9233
+    ]
+  },
   "unknown_22": true,
   "occludes_1": false,
   "unknown_28": 32,
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

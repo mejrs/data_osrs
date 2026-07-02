@@ -1,12 +1,14 @@
 {
   "id": 38823,
-  "models": [
-    [
-      22,
-      40187
-    ]
-  ],
   "name": "Tile",
+  "object_models_and_types": {
+    "models": [
+      40187
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 30,
@@ -16,5 +18,9 @@
       39473,
       15405
     ]
-  ]
+  ],
+  "raise": 8,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 6778,
-  "models": [
-    [
-      4,
-      12172
-    ]
-  ],
   "name": "Wall decoration",
+  "object_models_and_types": {
+    "models": [
+      12172
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

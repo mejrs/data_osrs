@@ -1,9 +1,11 @@
 {
   "id": 34655,
   "name": "Mysterious pipe",
-  "models_2": [
-    15279
-  ],
+  "object_models": {
+    "models": [
+      15279
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Enter",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

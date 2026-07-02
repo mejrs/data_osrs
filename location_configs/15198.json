@@ -1,8 +1,13 @@
 {
   "id": 15198,
   "name": "Rock",
-  "models_2": [
-    15057
-  ],
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      15057
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

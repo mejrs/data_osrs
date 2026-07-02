@@ -1,10 +1,12 @@
 {
   "id": 388,
   "name": "Wardrobe",
-  "models_2": [
-    1951,
-    5531
-  ],
+  "object_models": {
+    "models": [
+      1951,
+      5531
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Open",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 30663,
   "name": "Spine mushroom",
-  "models_2": [
-    33705
-  ],
   "dim_x": 3,
-  "dim_y": 4
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      33705
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

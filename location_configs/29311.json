@@ -1,11 +1,13 @@
 {
   "id": 29311,
   "name": "Bruma roots",
-  "models_2": [
-    32261
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32261
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Chop",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

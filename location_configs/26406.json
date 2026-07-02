@@ -1,12 +1,14 @@
 {
   "id": 26406,
-  "models": [
-    [
-      22,
-      1784
-    ]
-  ],
   "name": "Rocky handholds",
+  "object_models_and_types": {
+    "models": [
+      1784
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "actions": [
@@ -23,5 +25,8 @@
     ]
   ],
   "unknown_73": true,
-  "mapscene": 11
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

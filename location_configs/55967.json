@@ -1,9 +1,11 @@
 {
   "id": 55967,
   "name": "Broken candy canes",
-  "models_2": [
-    55841
-  ],
+  "object_models": {
+    "models": [
+      55841
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,
@@ -18,5 +20,8 @@
       94
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 33344,
-  "models": [
-    [
-      0,
-      36019
-    ]
-  ],
   "name": "Broken wall",
+  "object_models_and_types": {
+    "models": [
+      36019
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -28,5 +30,8 @@
       57,
       5409
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

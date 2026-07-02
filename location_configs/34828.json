@@ -1,9 +1,11 @@
 {
   "id": 34828,
   "name": "Larran's small chest",
-  "models_2": [
-    6616
-  ],
+  "object_models": {
+    "models": [
+      6616
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "contrast": 5,
@@ -35,5 +37,8 @@
   ],
   "scale_x": 56,
   "scale_y": 56,
-  "scale_z": 56
+  "scale_z": 56,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

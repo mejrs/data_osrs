@@ -1,16 +1,16 @@
 {
   "id": 15352,
-  "models": [
-    [
-      0,
-      12656
-    ],
-    [
-      2,
-      12657
-    ]
-  ],
   "name": "Prison space",
+  "object_models_and_types": {
+    "models": [
+      12656,
+      12657
+    ],
+    "types": [
+      0,
+      2
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "actions": [
@@ -20,5 +20,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 1353,
   "name": "Tree stump",
-  "models_2": [
-    1685
-  ],
+  "object_models": {
+    "models": [
+      1685
+    ]
+  },
   "ambient": 15,
   "contrast": 20,
   "colours": [
@@ -16,5 +18,8 @@
       5388
     ]
   ],
-  "unknown_81": 80
+  "unknown_81": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

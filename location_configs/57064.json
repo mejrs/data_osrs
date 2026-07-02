@@ -1,9 +1,11 @@
 {
   "id": 57064,
   "name": "Totem site",
-  "models_2": [
-    56991
-  ],
+  "object_models": {
+    "models": [
+      56991
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 15,
-  "translate_y": 0
+  "translate_y": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

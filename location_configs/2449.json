@@ -1,13 +1,18 @@
 {
   "id": 2449,
   "name": "Daconia rocks",
-  "models_2": [
-    1390
-  ],
+  "object_models": {
+    "models": [
+      1390
+    ]
+  },
   "colours": [
     [
       24,
       41240
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

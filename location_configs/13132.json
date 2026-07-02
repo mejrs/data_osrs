@@ -1,16 +1,16 @@
 {
   "id": 13132,
-  "models": [
-    [
-      0,
-      12909
-    ],
-    [
-      3,
-      12910
-    ]
-  ],
   "name": "Boxing ring",
+  "object_models_and_types": {
+    "models": [
+      12909,
+      12910
+    ],
+    "types": [
+      0,
+      3
+    ]
+  },
   "actions": [
     "Climb-over",
     null,
@@ -24,5 +24,8 @@
       43955
     ]
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

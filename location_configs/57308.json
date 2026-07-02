@@ -1,11 +1,16 @@
 {
   "id": 57308,
   "name": "Corn basket",
-  "models_2": [
-    57039
-  ],
+  "object_models": {
+    "models": [
+      57039
+    ]
+  },
   "unknown_22": true,
   "ambient": 15,
   "contrast": 30,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

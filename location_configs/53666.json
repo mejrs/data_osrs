@@ -1,11 +1,13 @@
 {
   "id": 53666,
   "name": "Stone table",
-  "models_2": [
-    53686
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      53686
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 25,
-  "category": 2020
+  "category": 2020,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

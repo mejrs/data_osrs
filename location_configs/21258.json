@@ -1,12 +1,14 @@
 {
   "id": 21258,
   "name": "Sarcophagus",
-  "models_2": [
-    16406,
-    16407
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      16406,
+      16407
+    ]
+  },
   "unknown_24": 4336,
   "ambient": 10,
   "colours": [
@@ -35,5 +37,8 @@
       61962
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

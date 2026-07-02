@@ -1,11 +1,13 @@
 {
   "id": 26083,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       27467
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_19": 0,
   "actions": [
     "Close",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

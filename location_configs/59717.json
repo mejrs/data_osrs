@@ -1,13 +1,18 @@
 {
   "id": 59717,
-  "models": [
-    [
-      22,
-      57647
-    ]
-  ],
   "dim_x": 8,
   "dim_y": 8,
+  "object_models_and_types": {
+    "models": [
+      57647
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 0,
-  "ambient": 8
+  "ambient": 8,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

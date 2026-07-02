@@ -1,13 +1,18 @@
 {
   "id": 52433,
-  "models": [
-    [
-      22,
-      52333
-    ]
-  ],
   "name": "Boardgame",
+  "object_models_and_types": {
+    "models": [
+      52333
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,17 +1,19 @@
 {
   "id": 26645,
   "name": "Free-for-all portal",
-  "models_2": [
-    10734,
-    40773
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      10734,
+      40773
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 3174,
   "ambient": 40,
   "actions": [
     "Enter",
-    null,
+    "Disable-XP",
     null,
     null,
     null
@@ -28,5 +30,8 @@
     ]
   ],
   "scale_x": 64,
-  "mapscene": 64
+  "mapscene": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

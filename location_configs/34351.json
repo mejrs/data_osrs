@@ -1,9 +1,14 @@
 {
   "id": 34351,
   "name": "Barrel of Spears",
-  "models_2": [
-    36533
-  ],
+  "object_models": {
+    "models": [
+      36533
+    ]
+  },
   "ambient": 10,
-  "contrast": 5
+  "contrast": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

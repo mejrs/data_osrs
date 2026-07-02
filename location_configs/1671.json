@@ -1,26 +1,23 @@
 {
   "id": 1671,
-  "models": [
-    [
-      12,
-      1987
-    ],
-    [
-      13,
-      1991
-    ],
-    [
-      14,
-      1988
-    ],
-    [
-      15,
-      1989
-    ],
-    [
-      16,
+  "object_models_and_types": {
+    "models": [
+      1987,
+      1991,
+      1988,
+      1989,
       1990
+    ],
+    "types": [
+      12,
+      13,
+      14,
+      15,
+      16
     ]
-  ],
-  "unknown_22": true
+  },
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

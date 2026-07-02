@@ -1,37 +1,16 @@
 {
   "id": 60265,
-  "name": "Mahogany cargo hold",
-  "models_2": [
-    58158
-  ],
   "is_transparent": true,
   "unknown_19": 1,
-  "ambient": 15,
-  "actions": [
-    "Open",
-    "Quick-deposit",
-    null,
-    null,
-    "Modify"
-  ],
-  "contrast": 15,
-  "colours": [
-    [
-      21435,
-      43294
-    ],
-    [
-      21464,
-      43301
-    ],
-    [
-      54203,
-      4519
-    ],
-    [
-      54183,
-      4515
+  "category": 2343,
+  "morphs_1": {
+    "varbit": 19134,
+    "ids": [
+      60621,
+      60622
     ]
-  ],
-  "category": 2343
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

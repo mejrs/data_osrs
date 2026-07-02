@@ -1,11 +1,13 @@
 {
   "id": 4868,
   "name": "Teleportation Device",
-  "models_2": [
-    4733
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      4733
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Operate",
@@ -19,5 +21,8 @@
       61,
       7566
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

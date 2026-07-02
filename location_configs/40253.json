@@ -1,8 +1,13 @@
 {
   "id": 40253,
   "name": "<col=ffff00>Tangleroot",
-  "models_2": [
-    32202
-  ],
-  "unknown_24": 7312
+  "object_models": {
+    "models": [
+      32202
+    ]
+  },
+  "unknown_24": 7312,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

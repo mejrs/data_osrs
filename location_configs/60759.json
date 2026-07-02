@@ -1,0 +1,20 @@
+{
+  "id": 60759,
+  "name": "Web",
+  "object_models_and_types": {
+    "models": [
+      2131,
+      25625
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
+  "unknown_22": true,
+  "unknown_27": false,
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

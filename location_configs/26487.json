@@ -1,14 +1,19 @@
 {
   "id": 26487,
-  "models_2": [
-    27612
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      27612
+    ]
+  },
   "unknown_19": 0,
   "unknown_24": 3743,
   "ambient": 25,
   "contrast": 25,
   "model": false,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

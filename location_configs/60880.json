@@ -1,0 +1,22 @@
+{
+  "id": 60880,
+  "name": "Thorns",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61043,
+      61025
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 15,
+  "mapscene": 269,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,10 +1,12 @@
 {
   "id": 45497,
   "name": "Hammers",
-  "models_2": [
-    46268,
-    34968
-  ],
+  "object_models": {
+    "models": [
+      46268,
+      34968
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Take",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

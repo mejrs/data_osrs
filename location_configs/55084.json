@@ -1,12 +1,17 @@
 {
   "id": 55084,
   "name": "Tin bath",
-  "models_2": [
-    30318
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      30318
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 0,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

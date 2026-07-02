@@ -1,12 +1,17 @@
 {
   "id": 27879,
   "name": "Dark crystal",
-  "models_2": [
-    30695
-  ],
   "dim_x": 5,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      30695
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
-  "mapscene": 80
+  "mapscene": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

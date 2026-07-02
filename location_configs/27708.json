@@ -1,11 +1,13 @@
 {
   "id": 27708,
   "name": "Sink",
-  "models_2": [
-    30342,
-    30333
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      30342,
+      30333
+    ]
+  },
   "colours": [
     [
       6707,
@@ -16,5 +18,8 @@
       6430
     ]
   ],
-  "category": 175
+  "category": 175,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

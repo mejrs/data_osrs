@@ -1,9 +1,11 @@
 {
   "id": 11372,
   "name": "Mithril rocks",
-  "models_2": [
-    1390
-  ],
+  "object_models": {
+    "models": [
+      1390
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "ambient": 10,
@@ -22,5 +24,8 @@
     ]
   ],
   "category": 252,
-  "mapscene": 148
+  "mapscene": 148,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

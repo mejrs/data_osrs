@@ -1,11 +1,13 @@
 {
   "id": 8873,
   "name": "Fermenting Vat",
-  "models_2": [
-    7778,
-    7781,
-    7782
-  ],
+  "object_models": {
+    "models": [
+      7778,
+      7781,
+      7782
+    ]
+  },
   "is_transparent": true,
   "ambient": 15,
   "colours": [
@@ -13,5 +15,8 @@
       13518,
       41156
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

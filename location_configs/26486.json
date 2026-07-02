@@ -1,13 +1,18 @@
 {
   "id": 26486,
-  "models_2": [
-    27757
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      27757
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "ambient": 25,
   "contrast": 25,
-  "mapscene": 11
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 16492,
   "name": "Gate",
-  "models_2": [
-    9782
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      9782
+    ]
+  },
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,14 @@
 {
   "id": 59349,
   "name": "Magical wards",
-  "models_2": [
-    59521
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      59521
+    ]
+  },
+  "unknown_17": false,
   "unknown_24": 4324,
   "ambient": 35,
   "actions": [
@@ -23,5 +26,8 @@
     ]
   ],
   "category": 2317,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

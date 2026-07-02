@@ -1,11 +1,13 @@
 {
   "id": 50112,
   "name": "Guard",
-  "models_2": [
-    50676
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      50676
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 25,
@@ -31,5 +33,8 @@
       11200,
       8115
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

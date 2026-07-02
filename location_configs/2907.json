@@ -1,16 +1,21 @@
 {
   "id": 2907,
   "name": "Bed",
-  "models_2": [
-    1239
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1239
+    ]
+  },
   "actions": [
     null,
     "Search",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

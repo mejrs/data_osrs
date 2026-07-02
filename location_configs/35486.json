@@ -1,19 +1,17 @@
 {
   "id": 35486,
-  "models": [
-    [
-      10,
-      38344
-    ],
-    [
-      2,
-      38340
-    ],
-    [
-      3,
+  "object_models_and_types": {
+    "models": [
+      38344,
+      38340,
       38349
+    ],
+    "types": [
+      10,
+      2,
+      3
     ]
-  ],
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "ambient": 60,
@@ -25,5 +23,8 @@
     ]
   ],
   "model": false,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

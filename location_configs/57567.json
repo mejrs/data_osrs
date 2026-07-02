@@ -1,12 +1,17 @@
 {
   "id": 57567,
   "name": "Signpost",
-  "models_2": [
-    57025
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      57025
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

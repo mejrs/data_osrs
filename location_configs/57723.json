@@ -1,9 +1,11 @@
 {
   "id": 57723,
   "name": "Energy Barrier",
-  "models_2": [
-    5397
-  ],
+  "object_models": {
+    "models": [
+      5397
+    ]
+  },
   "ambient": 100,
   "actions": [
     null,
@@ -18,5 +20,8 @@
       61,
       20797
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

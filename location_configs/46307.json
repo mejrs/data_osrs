@@ -1,10 +1,15 @@
 {
   "id": 46307,
   "name": "Spooky Stocks",
-  "models_2": [
-    46695
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      46695
+    ]
+  },
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

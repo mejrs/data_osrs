@@ -1,10 +1,15 @@
 {
   "id": 35435,
   "name": "Books",
-  "models_2": [
-    38523
-  ],
+  "object_models": {
+    "models": [
+      38523
+    ]
+  },
   "ambient": 10,
   "contrast": 44,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

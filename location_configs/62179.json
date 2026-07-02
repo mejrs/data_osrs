@@ -1,0 +1,40 @@
+{
+  "id": 62179,
+  "name": "Stairs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      51306
+    ]
+  },
+  "ambient": 30,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      7349,
+      61
+    ],
+    [
+      7341,
+      53
+    ],
+    [
+      7333,
+      45
+    ]
+  ],
+  "mirror": true,
+  "scale_y": 192,
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

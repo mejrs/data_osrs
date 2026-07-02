@@ -1,12 +1,14 @@
 {
   "id": 48403,
   "name": "Strangled Tree",
-  "models_2": [
-    49131,
-    49152
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      49131,
+      49152
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
   "contrast": 10,
@@ -23,5 +25,8 @@
   "scale_x": 192,
   "scale_y": 192,
   "scale_z": 192,
-  "mapscene": 108
+  "mapscene": 108,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

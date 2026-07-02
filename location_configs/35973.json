@@ -1,9 +1,11 @@
 {
   "id": 35973,
   "name": "Corrupt Grym Root",
-  "models_2": [
-    37611
-  ],
+  "object_models": {
+    "models": [
+      37611
+    ]
+  },
   "ambient": 90,
   "actions": [
     "Pick",
@@ -16,5 +18,8 @@
   "category": 1338,
   "scale_x": 112,
   "scale_y": 112,
-  "scale_z": 112
+  "scale_z": 112,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

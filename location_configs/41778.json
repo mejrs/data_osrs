@@ -1,9 +1,11 @@
 {
   "id": 41778,
   "name": "Roses",
-  "models_2": [
-    36495
-  ],
+  "object_models": {
+    "models": [
+      36495
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "category": 1561
+  "category": 1561,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

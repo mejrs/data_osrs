@@ -1,11 +1,13 @@
 {
   "id": 33980,
   "name": "Anima patch",
-  "models_2": [
-    7793
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      7793
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -13,5 +15,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

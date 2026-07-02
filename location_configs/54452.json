@@ -1,10 +1,12 @@
 {
   "id": 54452,
   "name": "Door",
-  "models_2": [
-    54928
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      54928
+    ]
+  },
   "ambient": 0,
   "actions": [
     "Pass-through",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 35
+  "contrast": 35,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

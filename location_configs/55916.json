@@ -1,16 +1,16 @@
 {
   "id": 55916,
-  "models": [
-    [
-      10,
-      43047
-    ],
-    [
-      22,
-      43056
-    ]
-  ],
   "name": "Snowy Bush",
+  "object_models_and_types": {
+    "models": [
+      43047,
+      43056
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 25,
@@ -37,5 +37,8 @@
     "8": 127,
     "60": 128
   },
-  "mapscene": 9
+  "mapscene": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

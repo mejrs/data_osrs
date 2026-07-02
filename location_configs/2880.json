@@ -1,12 +1,14 @@
 {
   "id": 2880,
-  "models": [
-    [
-      0,
-      2161
-    ]
-  ],
   "name": "Mystic portal",
+  "object_models_and_types": {
+    "models": [
+      2161
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "ambient": 100,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "contrast": 100
+  "contrast": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

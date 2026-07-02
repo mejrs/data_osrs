@@ -1,19 +1,17 @@
 {
   "id": 43274,
-  "models": [
-    [
-      0,
-      43766
-    ],
-    [
-      1,
-      43765
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      43766,
+      43765,
       43763
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "ambient": 10,
   "contrast": 10,
@@ -38,5 +36,8 @@
       8722,
       10388
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

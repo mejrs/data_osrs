@@ -1,11 +1,13 @@
 {
   "id": 47366,
   "name": "Rockslide",
-  "models_2": [
-    818
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      818
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "ambient": 10,
@@ -16,5 +18,8 @@
       43127
     ]
   ],
-  "mapscene": 118
+  "mapscene": 118,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

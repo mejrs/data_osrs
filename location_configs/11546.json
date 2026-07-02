@@ -1,10 +1,15 @@
 {
   "id": 11546,
   "name": "Strange machine",
-  "models_2": [
-    11243,
-    11250
-  ],
+  "object_models": {
+    "models": [
+      11243,
+      11250
+    ]
+  },
   "ambient": 12,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

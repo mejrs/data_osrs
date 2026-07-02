@@ -1,14 +1,19 @@
 {
   "id": 40314,
   "name": "Damaged cart",
-  "models_2": [
-    40876
-  ],
+  "object_models": {
+    "models": [
+      40876
+    ]
+  },
   "actions": [
     "Investigate",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

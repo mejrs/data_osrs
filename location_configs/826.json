@@ -1,9 +1,14 @@
 {
   "id": 826,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       1314
+    ],
+    "types": [
+      22
     ]
-  ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

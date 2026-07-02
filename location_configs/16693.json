@@ -1,8 +1,13 @@
 {
   "id": 16693,
   "name": "Clothes rack",
-  "models_2": [
-    16671
-  ],
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      16671
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

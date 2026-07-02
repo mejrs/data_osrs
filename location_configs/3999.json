@@ -1,11 +1,13 @@
 {
   "id": 3999,
   "name": "Dense forest",
-  "models_2": [
-    3969
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      3969
+    ]
+  },
   "actions": [
     "Enter",
     null,
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 70
+  "mapscene": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

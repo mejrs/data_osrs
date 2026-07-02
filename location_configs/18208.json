@@ -1,10 +1,12 @@
 {
   "id": 18208,
   "name": "Barrel",
-  "models_2": [
-    14828,
-    14829
-  ],
+  "object_models": {
+    "models": [
+      14828,
+      14829
+    ]
+  },
   "is_transparent": true,
   "ambient": 15,
   "colours": [
@@ -32,5 +34,8 @@
       6443,
       7463
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

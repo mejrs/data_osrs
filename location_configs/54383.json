@@ -1,9 +1,11 @@
 {
   "id": 54383,
   "name": "Empty medical box",
-  "models_2": [
-    52395
-  ],
+  "object_models": {
+    "models": [
+      52395
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 10,
@@ -37,5 +39,8 @@
   "category": 2074,
   "scale_x": 100,
   "scale_y": 100,
-  "scale_z": 100
+  "scale_z": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

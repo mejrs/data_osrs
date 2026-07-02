@@ -1,13 +1,18 @@
 {
   "id": 26954,
   "name": "Vent",
-  "models_2": [
-    29430
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      29430
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

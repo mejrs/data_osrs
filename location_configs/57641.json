@@ -1,11 +1,13 @@
 {
   "id": 57641,
   "name": "Cave",
-  "models_2": [
-    731
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      731
+    ]
+  },
   "ambient": 10,
   "contrast": 20,
   "colours": [
@@ -30,5 +32,8 @@
       8070
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

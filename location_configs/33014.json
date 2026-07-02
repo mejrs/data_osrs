@@ -1,11 +1,13 @@
 {
   "id": 33014,
   "name": "Strategy table",
-  "models_2": [
-    35445
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      35445
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "category": 1247
+  "category": 1247,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

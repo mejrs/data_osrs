@@ -1,12 +1,14 @@
 {
   "id": 50352,
-  "models": [
-    [
-      22,
-      50277
-    ]
-  ],
   "name": "Skeleton",
+  "object_models_and_types": {
+    "models": [
+      50277
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 0,
@@ -19,5 +21,8 @@
   ],
   "contrast": 40,
   "category": 1904,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

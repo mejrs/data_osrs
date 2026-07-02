@@ -1,11 +1,13 @@
 {
   "id": 44633,
   "name": "Preform storage",
-  "models_2": [
-    44827
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      44827
+    ]
+  },
   "unknown_21": true,
   "ambient": 15,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

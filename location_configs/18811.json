@@ -1,10 +1,12 @@
 {
   "id": 18811,
   "name": "Magic wardrobe space",
-  "models_2": [
-    19020
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      19020
+    ]
+  },
   "actions": [
     null,
     null,
@@ -14,6 +16,9 @@
   ],
   "category": 207,
   "translate_z": 65531,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "430": 3
   }

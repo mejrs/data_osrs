@@ -1,12 +1,14 @@
 {
   "id": 17041,
   "name": "Strong Yew",
-  "models_2": [
-    16914,
-    16903
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      16914,
+      16903
+    ]
+  },
   "ambient": 40,
   "colours": [
     [
@@ -21,5 +23,8 @@
       5904,
       43288
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

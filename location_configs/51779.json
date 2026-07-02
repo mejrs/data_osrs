@@ -1,8 +1,10 @@
 {
   "id": 51779,
-  "models_2": [
-    19352
-  ],
+  "object_models": {
+    "models": [
+      19352
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -18,5 +20,8 @@
     "8": 30
   },
   "mirror": true,
-  "mapscene": 20
+  "mapscene": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

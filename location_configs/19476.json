@@ -1,10 +1,12 @@
 {
   "id": 19476,
   "name": "Stone pedestal",
-  "models_2": [
-    20062,
-    20061
-  ],
+  "object_models": {
+    "models": [
+      20062,
+      20061
+    ]
+  },
   "actions": [
     "Take-from",
     null,
@@ -21,5 +23,8 @@
       32999,
       43121
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

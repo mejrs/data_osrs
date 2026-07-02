@@ -1,21 +1,22 @@
 {
   "id": 10059,
-  "models": [
-    [
-      0,
-      10502
-    ],
-    [
-      1,
-      10489
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      10502,
+      10489,
       10490
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_27": false,
-  "breakroutefinding": true
+  "breakroutefinding": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

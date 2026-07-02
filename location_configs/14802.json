@@ -1,15 +1,20 @@
 {
   "id": 14802,
   "name": "Tree",
-  "models_2": [
-    14740
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      14740
+    ]
+  },
   "colours": [
     [
       11148,
       9104
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

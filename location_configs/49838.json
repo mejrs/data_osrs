@@ -1,8 +1,10 @@
 {
   "id": 49838,
-  "models_2": [
-    49648
-  ],
+  "object_models": {
+    "models": [
+      49648
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "ambient": 25,
@@ -33,5 +35,8 @@
       6439
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

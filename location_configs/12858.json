@@ -1,8 +1,10 @@
 {
   "id": 12858,
-  "models_2": [
-    14022
-  ],
+  "object_models": {
+    "models": [
+      14022
+    ]
+  },
   "unknown_19": 0,
   "colours": [
     [
@@ -30,5 +32,8 @@
       11144
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

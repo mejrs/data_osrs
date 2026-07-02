@@ -1,9 +1,11 @@
 {
   "id": 23166,
   "name": "Cave entrance",
-  "models_2": [
-    24061
-  ],
+  "object_models": {
+    "models": [
+      24061
+    ]
+  },
   "unknown_22": true,
   "ambient": 10,
   "colours": [
@@ -23,5 +25,8 @@
       12,
       10378
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

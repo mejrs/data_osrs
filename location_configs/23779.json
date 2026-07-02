@@ -1,25 +1,24 @@
 {
   "id": 23779,
-  "models": [
-    [
-      0,
-      24671
-    ],
-    [
-      1,
-      24672
-    ],
-    [
-      2,
-      24673
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      24671,
+      24672,
+      24673,
       24674
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_28": 32,
   "ambient": 25,
   "contrast": 25,
-  "scale_y": 130
+  "scale_y": 130,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

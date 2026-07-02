@@ -1,9 +1,11 @@
 {
   "id": 41004,
   "name": "Water pump",
-  "models_2": [
-    41870
-  ],
+  "object_models": {
+    "models": [
+      41870
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Fill-bucket",
@@ -13,5 +15,8 @@
     null
   ],
   "contrast": 20,
-  "category": 1508
+  "category": 1508,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

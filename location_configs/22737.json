@@ -1,9 +1,14 @@
 {
   "id": 22737,
   "name": "Zapper",
-  "models_2": [
-    23475
-  ],
+  "object_models": {
+    "models": [
+      23475
+    ]
+  },
   "unknown_24": 6034,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,26 +1,23 @@
 {
   "id": 2637,
-  "models": [
-    [
-      0,
-      634
-    ],
-    [
-      1,
-      635
-    ],
-    [
-      2,
-      574
-    ],
-    [
-      3,
-      575
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      634,
+      635,
+      574,
+      575,
       576
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
-  "is_transparent": true
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

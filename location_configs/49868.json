@@ -1,9 +1,11 @@
 {
   "id": 49868,
   "name": "Sewer entrance",
-  "models_2": [
-    49657
-  ],
+  "object_models": {
+    "models": [
+      49657
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 25,
@@ -41,5 +43,8 @@
       6439
     ]
   ],
-  "category": 1874
+  "category": 1874,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

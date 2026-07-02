@@ -1,8 +1,13 @@
 {
   "id": 31124,
   "name": "Skroom",
-  "models_2": [
-    33312,
-    33372
-  ]
+  "object_models": {
+    "models": [
+      33312,
+      33372
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

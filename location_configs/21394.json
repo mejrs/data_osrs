@@ -1,14 +1,19 @@
 {
   "id": 21394,
   "name": "Bell",
-  "models_2": [
-    21995
-  ],
+  "object_models": {
+    "models": [
+      21995
+    ]
+  },
   "actions": [
     "Ring-bell",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

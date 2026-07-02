@@ -1,7 +1,12 @@
 {
   "id": 10160,
   "name": "Crates",
-  "models_2": [
-    7700
-  ]
+  "object_models": {
+    "models": [
+      7700
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

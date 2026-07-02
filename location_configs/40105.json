@@ -1,9 +1,11 @@
 {
   "id": 40105,
   "name": "Table",
-  "models_2": [
-    40810
-  ],
+  "object_models": {
+    "models": [
+      40810
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

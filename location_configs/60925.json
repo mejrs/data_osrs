@@ -1,0 +1,50 @@
+{
+  "id": 60925,
+  "name": "Rocks",
+  "object_models_and_types": {
+    "models": [
+      9235
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_21": true,
+  "ambient": 30,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 45,
+  "colours": [
+    [
+      6689,
+      268
+    ]
+  ],
+  "category": 2206,
+  "scale_x": 128,
+  "scale_y": 64,
+  "scale_z": 128,
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 0,
+      "max": 176,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": [],
+  "params": {
+    "2291": 61,
+    "2294": 6,
+    "2295": 1
+  }
+}

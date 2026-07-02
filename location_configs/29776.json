@@ -1,12 +1,14 @@
 {
   "id": 29776,
-  "models": [
-    [
-      4,
-      9557
-    ]
-  ],
   "name": "Recruiting board",
+  "object_models_and_types": {
+    "models": [
+      9557
+    ],
+    "types": [
+      4
+    ]
+  },
   "actions": [
     "Read",
     null,
@@ -40,5 +42,8 @@
       41
     ]
   ],
-  "translate_y": 15
+  "translate_y": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

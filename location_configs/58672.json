@@ -1,9 +1,11 @@
 {
   "id": 58672,
   "name": "Mounted huge halibut",
-  "models_2": [
-    59503
-  ],
+  "object_models": {
+    "models": [
+      59503
+    ]
+  },
   "unknown_17": false,
   "ambient": 25,
   "actions": [
@@ -14,5 +16,8 @@
     "Remove"
   ],
   "contrast": 25,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

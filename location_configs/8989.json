@@ -1,9 +1,11 @@
 {
   "id": 8989,
   "name": "Young tree",
-  "models_2": [
-    19930
-  ],
+  "object_models": {
+    "models": [
+      19930
+    ]
+  },
   "unknown_24": 5267,
   "actions": [
     "Dismantle",
@@ -19,5 +21,8 @@
     ]
   ],
   "category": 191,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

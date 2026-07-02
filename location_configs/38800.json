@@ -1,11 +1,16 @@
 {
   "id": 38800,
   "name": "Saradomin Brazier",
-  "models_2": [
-    39796
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      39796
+    ]
+  },
   "unknown_22": true,
   "ambient": 30,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,29 +1,26 @@
 {
   "id": 9040,
-  "models": [
-    [
-      10,
-      2192
-    ],
-    [
-      0,
-      2202
-    ],
-    [
-      2,
-      2203
-    ],
-    [
-      3,
-      2204
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      2192,
+      2202,
+      2203,
+      2204,
       2205
+    ],
+    "types": [
+      10,
+      0,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "occludes_1": false,
   "ambient": 10,
-  "contrast": 100
+  "contrast": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

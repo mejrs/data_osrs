@@ -1,9 +1,14 @@
 {
   "id": 30274,
   "name": "Haar-Tok",
-  "models_2": [
-    33128
-  ],
+  "object_models": {
+    "models": [
+      33128
+    ]
+  },
   "unknown_19": 1,
-  "unknown_21": true
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

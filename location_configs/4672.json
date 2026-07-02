@@ -1,16 +1,16 @@
 {
   "id": 4672,
-  "models": [
-    [
-      0,
-      14930
-    ],
-    [
-      9,
-      14931
-    ]
-  ],
   "name": "Throne Room Door",
+  "object_models_and_types": {
+    "models": [
+      14930,
+      14931
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -18,5 +18,8 @@
     null,
     null
   ],
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

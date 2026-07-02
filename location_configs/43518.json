@@ -1,12 +1,17 @@
 {
   "id": 43518,
   "name": "Rubble",
-  "models_2": [
-    867
-  ],
+  "object_models": {
+    "models": [
+      867
+    ]
+  },
   "ambient": 10,
   "contrast": 25,
   "textures": {
     "11": 95
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

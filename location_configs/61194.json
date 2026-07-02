@@ -1,0 +1,24 @@
+{
+  "id": 61194,
+  "name": "Blockage",
+  "object_models": {
+    "models": [
+      61577
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Mine-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

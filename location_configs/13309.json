@@ -1,9 +1,11 @@
 {
   "id": 13309,
   "name": "Posh bell-pull",
-  "models_2": [
-    12904
-  ],
+  "object_models": {
+    "models": [
+      12904
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Ring",
@@ -12,5 +14,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

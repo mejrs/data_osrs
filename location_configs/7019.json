@@ -1,7 +1,12 @@
 {
   "id": 7019,
   "name": "Cabinet",
-  "models_2": [
-    7105
-  ]
+  "object_models": {
+    "models": [
+      7105
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

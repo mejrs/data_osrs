@@ -1,11 +1,13 @@
 {
   "id": 42908,
   "name": "Dead Oak",
-  "models_2": [
-    23908
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      23908
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chop down",
@@ -30,5 +32,8 @@
   "scale_y": 190,
   "scale_z": 190,
   "unknown_81": 80,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

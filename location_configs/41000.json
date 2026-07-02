@@ -1,16 +1,16 @@
 {
   "id": 41000,
-  "models": [
-    [
-      10,
-      41823
-    ],
-    [
-      1,
-      41843
-    ]
-  ],
   "name": "Water pump",
+  "object_models_and_types": {
+    "models": [
+      41823,
+      41843
+    ],
+    "types": [
+      10,
+      1
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 20,
@@ -23,5 +23,8 @@
   ],
   "contrast": 20,
   "category": 1508,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

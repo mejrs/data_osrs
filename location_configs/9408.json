@@ -1,8 +1,13 @@
 {
   "id": 9408,
   "name": "Potatoes",
-  "models_2": [
-    8216
-  ],
-  "ambient": 25
+  "object_models": {
+    "models": [
+      8216
+    ]
+  },
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

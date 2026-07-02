@@ -1,7 +1,12 @@
 {
   "id": 5621,
   "name": "Big vase",
-  "models_2": [
-    5562
-  ]
+  "object_models": {
+    "models": [
+      5562
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

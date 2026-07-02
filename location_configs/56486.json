@@ -1,12 +1,14 @@
 {
   "id": 56486,
-  "models": [
-    [
-      0,
-      56767
-    ]
-  ],
   "name": "Hole",
+  "object_models_and_types": {
+    "models": [
+      56767
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Climb-through",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

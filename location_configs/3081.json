@@ -1,16 +1,21 @@
 {
   "id": 3081,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       3236
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "ambient": 30,
   "contrast": 30,
   "mirror": true,
   "unknown_73": true,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

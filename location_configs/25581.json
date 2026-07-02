@@ -1,12 +1,14 @@
 {
   "id": 25581,
-  "models": [
-    [
-      4,
-      27022
-    ]
-  ],
   "name": "Star chart",
+  "object_models_and_types": {
+    "models": [
+      27022
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Look-at",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

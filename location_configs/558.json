@@ -1,11 +1,13 @@
 {
   "id": 558,
   "name": "Cave entrance",
-  "models_2": [
-    731
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      731
+    ]
+  },
   "colours": [
     [
       6036,
@@ -27,5 +29,8 @@
       900,
       16
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

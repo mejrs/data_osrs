@@ -1,12 +1,17 @@
 {
   "id": 12722,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       14883
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_22": true,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

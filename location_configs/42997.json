@@ -1,16 +1,21 @@
 {
   "id": 42997,
   "name": "Runestone basalt",
-  "models_2": [
-    43389
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      43389
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 9228,
   "unknown_27": false,
   "ambient": 10,
   "contrast": -100,
   "model": false,
-  "mapscene": 95
+  "mapscene": 95,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 39693,
   "name": "Wood",
-  "models_2": [
-    24723
-  ],
+  "object_models": {
+    "models": [
+      24723
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 26829,
-  "name": "Herbs",
-  "models_2": [
-    7871,
-    10772
-  ],
+  "name": "Marrentill",
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7871,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -28,5 +30,8 @@
       19992,
       22433
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

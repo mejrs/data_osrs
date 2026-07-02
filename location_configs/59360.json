@@ -1,9 +1,11 @@
 {
   "id": 59360,
   "name": "Seagull Nest",
-  "models_2": [
-    57615
-  ],
+  "object_models": {
+    "models": [
+      57615
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chart",
@@ -13,5 +15,8 @@
     null
   ],
   "contrast": 25,
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

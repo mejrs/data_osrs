@@ -1,23 +1,19 @@
 {
   "id": 51016,
-  "models": [
-    [
-      0,
-      5957
-    ],
-    [
-      1,
-      5958
-    ],
-    [
-      2,
-      5959
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      5957,
+      5958,
+      5959,
       5960
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
@@ -32,5 +28,8 @@
   ],
   "scale_x": 128,
   "scale_y": 165,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

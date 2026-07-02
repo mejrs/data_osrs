@@ -1,12 +1,17 @@
 {
   "id": 57227,
   "name": "Roots",
-  "models_2": [
-    56589
-  ],
+  "object_models": {
+    "models": [
+      56589
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 0,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,17 @@
 {
   "id": 18404,
   "name": "Bottle",
-  "models_2": [
-    18484,
-    18483
-  ],
+  "object_models": {
+    "models": [
+      18484,
+      18483
+    ]
+  },
   "unknown_24": 3743,
   "ambient": 20,
   "contrast": 10,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

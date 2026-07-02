@@ -1,7 +1,12 @@
 {
   "id": 6524,
   "name": "Crack",
-  "models_2": [
-    6318
-  ]
+  "object_models": {
+    "models": [
+      6318
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

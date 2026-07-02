@@ -1,0 +1,27 @@
+{
+  "id": 61704,
+  "name": "Basin",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      60600
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2467,
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

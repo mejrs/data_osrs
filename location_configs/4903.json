@@ -1,10 +1,12 @@
 {
   "id": 4903,
   "name": "Zamorak Standard",
-  "models_2": [
-    4446,
-    4416
-  ],
+  "object_models": {
+    "models": [
+      4446,
+      4416
+    ]
+  },
   "unknown_24": 1430,
   "actions": [
     "Capture",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 29
+  "mapscene": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

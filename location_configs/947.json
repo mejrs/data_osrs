@@ -1,9 +1,17 @@
 {
   "id": 947,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       1062
+    ],
+    "types": [
+      22
     ]
-  ]
+  },
+  "unknown_21": true,
+  "translate_y": 65533,
+  "raise": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

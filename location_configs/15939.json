@@ -1,13 +1,18 @@
 {
   "id": 15939,
   "name": "Red Flowers",
-  "models_2": [
-    15806
-  ],
+  "object_models": {
+    "models": [
+      15806
+    ]
+  },
   "colours": [
     [
       0,
       960
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 53136,
   "name": "Easter tree",
-  "models_2": [
-    37895
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      37895
+    ]
+  },
   "unknown_27": false,
   "ambient": 0,
   "contrast": 15,
@@ -20,5 +22,8 @@
     ]
   ],
   "category": 288,
-  "mapscene": 3
+  "mapscene": 3,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

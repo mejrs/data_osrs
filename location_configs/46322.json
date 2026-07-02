@@ -1,11 +1,13 @@
 {
   "id": 46322,
   "name": "Soldier",
-  "models_2": [
-    46784
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      46784
+    ]
+  },
   "unknown_27": false,
   "ambient": 25,
   "contrast": 25,
@@ -34,5 +36,8 @@
       4550,
       6806
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

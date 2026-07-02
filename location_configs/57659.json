@@ -1,11 +1,16 @@
 {
   "id": 57659,
-  "models": [
-    [
-      4,
+  "object_models_and_types": {
+    "models": [
       18517
+    ],
+    "types": [
+      4
     ]
-  ],
+  },
   "ambient": 50,
-  "translate_x": 65533
+  "translate_x": 65533,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

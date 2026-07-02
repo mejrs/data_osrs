@@ -1,7 +1,12 @@
 {
   "id": 396,
   "name": "Pots",
-  "models_2": [
-    2182
-  ]
+  "object_models": {
+    "models": [
+      2182
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

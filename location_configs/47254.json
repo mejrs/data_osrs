@@ -1,11 +1,13 @@
 {
   "id": 47254,
   "name": "Group Ironman Display",
-  "models_2": [
-    47539
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      47539
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -13,5 +15,8 @@
   "contrast": 10,
   "scale_x": 160,
   "scale_y": 160,
-  "scale_z": 160
+  "scale_z": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

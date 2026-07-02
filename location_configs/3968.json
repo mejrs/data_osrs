@@ -1,9 +1,11 @@
 {
   "id": 3968,
   "name": "Tree",
-  "models_2": [
-    3941
-  ],
+  "object_models": {
+    "models": [
+      3941
+    ]
+  },
   "colours": [
     [
       7471,
@@ -16,5 +18,8 @@
   ],
   "scale_x": 80,
   "scale_y": 100,
-  "scale_z": 80
+  "scale_z": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 615,
   "name": "Small table",
-  "models_2": [
-    902
-  ],
+  "object_models": {
+    "models": [
+      902
+    ]
+  },
   "is_transparent": true,
-  "category": 155
+  "category": 155,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

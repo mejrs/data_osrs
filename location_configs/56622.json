@@ -1,10 +1,12 @@
 {
   "id": 56622,
   "name": "Glowing symbol",
-  "models_2": [
-    57034
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      57034
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -20,5 +22,8 @@
   ],
   "contrast": 50,
   "category": 2192,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

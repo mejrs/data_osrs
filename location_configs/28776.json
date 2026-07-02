@@ -1,10 +1,12 @@
 {
   "id": 28776,
   "name": "Tripwire",
-  "models_2": [
-    3983
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      3983
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Step-over",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

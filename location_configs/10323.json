@@ -1,12 +1,14 @@
 {
   "id": 10323,
-  "models": [
-    [
-      4,
-      10071
-    ]
-  ],
   "name": "Trellis",
+  "object_models_and_types": {
+    "models": [
+      10071
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 5,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "contrast": 5
+  "contrast": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

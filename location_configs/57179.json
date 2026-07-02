@@ -1,22 +1,25 @@
 {
   "id": 57179,
-  "models": [
-    [
-      10,
-      56635
-    ],
-    [
-      22,
-      56634
-    ]
-  ],
   "name": "Mushroom",
   "dim_x": 2,
   "dim_y": 2,
+  "object_models_and_types": {
+    "models": [
+      56635,
+      56634
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_21": true,
   "ambient": 15,
   "contrast": 30,
   "scale_x": 190,
   "scale_y": 190,
-  "scale_z": 190
+  "scale_z": 190,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

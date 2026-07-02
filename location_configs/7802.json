@@ -1,12 +1,14 @@
 {
   "id": 7802,
   "name": "Dead Calquat",
-  "models_2": [
-    7953,
-    7768
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      7953,
+      7768
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Clear",
@@ -24,5 +26,8 @@
       6709,
       10401
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

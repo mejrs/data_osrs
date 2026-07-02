@@ -1,10 +1,12 @@
 {
   "id": 48718,
   "name": "Desk",
-  "models_2": [
-    1291
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1291
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "actions": [
@@ -19,5 +21,8 @@
       5656,
       4502
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

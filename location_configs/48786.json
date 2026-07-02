@@ -1,9 +1,11 @@
 {
   "id": 48786,
   "name": "Torch",
-  "models_2": [
-    49391
-  ],
+  "object_models": {
+    "models": [
+      49391
+    ]
+  },
   "unknown_22": true,
   "unknown_24": 481,
   "unknown_27": false,
@@ -30,5 +32,8 @@
       40090,
       7727
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

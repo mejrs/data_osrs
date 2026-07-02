@@ -1,11 +1,13 @@
 {
   "id": 58451,
   "name": "Plant",
-  "models_2": [
-    1645
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1645
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 20,
@@ -26,5 +28,8 @@
   ],
   "category": 2301,
   "model": false,
-  "mapscene": 9
+  "mapscene": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

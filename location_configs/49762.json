@@ -1,13 +1,18 @@
 {
   "id": 49762,
   "name": "Gas jet",
-  "models_2": [
-    43845
-  ],
+  "object_models": {
+    "models": [
+      43845
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 10431,
   "unknown_27": false,
   "ambient": 25,
   "contrast": 25,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

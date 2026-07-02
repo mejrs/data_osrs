@@ -1,12 +1,14 @@
 {
   "id": 46600,
-  "models": [
-    [
-      0,
-      47020
-    ]
-  ],
   "name": "Gate",
+  "object_models_and_types": {
+    "models": [
+      47020
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "ambient": 0,
   "actions": [
@@ -18,5 +20,8 @@
   ],
   "contrast": 35,
   "model": false,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

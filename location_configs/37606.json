@@ -1,11 +1,16 @@
 {
   "id": 37606,
   "name": "Table",
-  "models_2": [
-    42194
-  ],
+  "object_models": {
+    "models": [
+      42194
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

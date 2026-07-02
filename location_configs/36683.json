@@ -1,11 +1,13 @@
 {
   "id": 36683,
   "name": "Yew tree",
-  "models_2": [
-    37895
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      37895
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chop down",
@@ -16,5 +18,8 @@
   ],
   "contrast": 5,
   "category": 288,
-  "mapscene": 129
+  "mapscene": 129,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

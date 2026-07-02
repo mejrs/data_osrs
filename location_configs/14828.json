@@ -1,9 +1,11 @@
 {
   "id": 14828,
   "name": "Obelisk",
-  "models_2": [
-    14776
-  ],
+  "object_models": {
+    "models": [
+      14776
+    ]
+  },
   "actions": [
     "Activate",
     "Teleport to Destination",
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "category": 166
+  "category": 166,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

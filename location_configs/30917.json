@@ -1,12 +1,14 @@
 {
   "id": 30917,
-  "models": [
-    [
-      22,
-      33494
-    ]
-  ],
   "name": "Rope anchor",
+  "object_models_and_types": {
+    "models": [
+      33494
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -20,5 +22,8 @@
     null
   ],
   "contrast": 20,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

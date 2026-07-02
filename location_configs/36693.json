@@ -1,9 +1,11 @@
 {
   "id": 36693,
   "name": "Tight Gap",
-  "models_2": [
-    37842
-  ],
+  "object_models": {
+    "models": [
+      37842
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

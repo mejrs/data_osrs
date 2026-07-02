@@ -1,9 +1,11 @@
 {
   "id": 1995,
   "name": "Chest",
-  "models_2": [
-    1226
-  ],
+  "object_models": {
+    "models": [
+      1226
+    ]
+  },
   "actions": [
     "Search",
     "Shut",
@@ -17,5 +19,8 @@
       11173
     ]
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

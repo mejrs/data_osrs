@@ -1,13 +1,18 @@
 {
   "id": 204,
   "name": "Candles",
-  "models_2": [
-    14204
-  ],
+  "object_models": {
+    "models": [
+      14204
+    ]
+  },
   "colours": [
     [
       6695,
       18
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

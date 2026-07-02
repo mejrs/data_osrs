@@ -1,7 +1,12 @@
 {
   "id": 712,
   "name": "Crystal cluster",
-  "models_2": [
-    2169
-  ]
+  "object_models": {
+    "models": [
+      2169
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

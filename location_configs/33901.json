@@ -1,13 +1,15 @@
 {
   "id": 33901,
   "name": "Big Compost Bin",
-  "models_2": [
-    7838,
-    7845,
-    7843
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7838,
+      7845,
+      7843
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Close",
@@ -24,5 +26,8 @@
   ],
   "scale_x": 181,
   "scale_z": 181,
-  "translate_x": 65506
+  "translate_x": 65506,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,18 @@
 {
   "id": 18644,
   "name": "Steam press",
-  "models_2": [
-    18784
-  ],
+  "object_models": {
+    "models": [
+      18784
+    ]
+  },
   "colours": [
     [
       7062,
       50087
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

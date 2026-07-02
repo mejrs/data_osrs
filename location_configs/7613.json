@@ -1,13 +1,15 @@
 {
   "id": 7613,
   "name": "Dwellberry bush",
-  "models_2": [
-    7826,
-    7767,
-    7816
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7826,
+      7767,
+      7816
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick-from",
@@ -29,5 +31,8 @@
       6364,
       41401
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

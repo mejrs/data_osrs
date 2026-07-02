@@ -1,12 +1,17 @@
 {
   "id": 19169,
-  "models_2": [
-    3715
-  ],
+  "object_models": {
+    "models": [
+      3715
+    ]
+  },
   "unknown_19": 0,
   "ambient": 20,
   "contrast": 20,
   "textures": {
     "2": 23
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

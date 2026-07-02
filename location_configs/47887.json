@@ -1,12 +1,17 @@
 {
   "id": 47887,
   "name": "Church Brazier",
-  "models_2": [
-    49106
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      49106
+    ]
+  },
   "unknown_22": true,
   "ambient": -15,
-  "contrast": 45
+  "contrast": 45,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

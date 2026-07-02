@@ -1,10 +1,12 @@
 {
   "id": 48736,
   "name": "Argian bush",
-  "models_2": [
-    7826,
-    7814
-  ],
+  "object_models": {
+    "models": [
+      7826,
+      7814
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -33,5 +35,8 @@
   "scale_x": 66,
   "scale_y": 66,
   "scale_z": 66,
-  "mapscene": 9
+  "mapscene": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

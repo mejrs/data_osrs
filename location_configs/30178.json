@@ -1,12 +1,14 @@
 {
   "id": 30178,
-  "models": [
-    [
-      0,
-      9247
-    ]
-  ],
   "name": "Cave Exit",
+  "object_models_and_types": {
+    "models": [
+      9247
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Leave",
@@ -40,5 +42,8 @@
       7442,
       10762
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

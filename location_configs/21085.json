@@ -1,12 +1,14 @@
 {
   "id": 21085,
-  "models": [
-    [
-      4,
-      21784
-    ]
-  ],
   "name": "Spinning light",
+  "object_models_and_types": {
+    "models": [
+      21784
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 5738,
   "ambient": 80,
@@ -14,5 +16,8 @@
   "unknown_78": {
     "unknown_1": 3368,
     "unknown_2": 5
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

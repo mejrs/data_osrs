@@ -1,10 +1,12 @@
 {
   "id": 32630,
   "name": "Altar of Zamorak",
-  "models_2": [
-    35298
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      35298
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Pray-at",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 897
+  "category": 897,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

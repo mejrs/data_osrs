@@ -1,16 +1,21 @@
 {
   "id": 30376,
   "name": "Row boat",
-  "models_2": [
-    1737
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1737
+    ]
+  },
   "actions": [
     "Travel to platform",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

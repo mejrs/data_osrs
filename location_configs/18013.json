@@ -1,11 +1,13 @@
 {
   "id": 18013,
   "name": "Stacked crates",
-  "models_2": [
-    16532,
-    16529
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      16532,
+      16529
+    ]
+  },
   "colours": [
     [
       6439,
@@ -31,5 +33,8 @@
       6443,
       24
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 16866,
   "name": "Sack pile",
-  "models_2": [
-    16526,
-    13903
-  ],
-  "category": 529
+  "object_models": {
+    "models": [
+      16526,
+      13903
+    ]
+  },
+  "category": 529,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

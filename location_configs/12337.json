@@ -1,11 +1,13 @@
 {
   "id": 12337,
   "name": "Pirate Pete",
-  "models_2": [
-    13671,
-    13688,
-    13687
-  ],
+  "object_models": {
+    "models": [
+      13671,
+      13688,
+      13687
+    ]
+  },
   "actions": [
     "Inspect",
     null,
@@ -34,5 +36,8 @@
       8741,
       10902
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 20242,
   "name": "Defender item machine",
-  "models_2": [
-    20694
-  ],
+  "object_models": {
+    "models": [
+      20694
+    ]
+  },
   "ambient": 45,
   "actions": [
     "Stock-Up",
@@ -11,5 +13,8 @@
     "Take-Tofu",
     "Take-Worms",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

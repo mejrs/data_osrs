@@ -1,9 +1,11 @@
 {
   "id": 5351,
   "name": "Bar",
-  "models_2": [
-    5281
-  ],
+  "object_models": {
+    "models": [
+      5281
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -30,5 +32,8 @@
       5786,
       11144
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

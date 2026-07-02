@@ -1,11 +1,13 @@
 {
   "id": 12253,
   "name": "Tunnel entrance",
-  "models_2": [
-    3824
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      3824
+    ]
+  },
   "colours": [
     [
       9678,
@@ -31,5 +33,8 @@
       9110,
       7580
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

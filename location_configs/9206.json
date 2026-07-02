@@ -1,11 +1,13 @@
 {
   "id": 9206,
   "name": "Yellow orchids",
-  "models_2": [
-    9159,
-    9160,
-    9155
-  ],
+  "object_models": {
+    "models": [
+      9159,
+      9160,
+      9155
+    ]
+  },
   "ambient": 25,
   "colours": [
     [
@@ -28,5 +30,8 @@
       54715,
       7766
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

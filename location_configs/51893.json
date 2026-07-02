@@ -1,16 +1,21 @@
 {
   "id": 51893,
   "name": "Statue of Dizana",
-  "models_2": [
-    52318
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      52318
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 10,
   "contrast": 25,
   "scale_x": 190,
   "scale_y": 190,
-  "scale_z": 190
+  "scale_z": 190,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

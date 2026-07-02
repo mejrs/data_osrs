@@ -1,18 +1,19 @@
 {
   "id": 12044,
-  "models": [
-    [
-      0,
-      11959
-    ],
-    [
-      1,
-      11960
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      11959,
+      11960,
       11961
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
-  "unknown_21": true
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 24299,
   "name": "Hole",
-  "models_2": [
-    15368
-  ]
+  "object_models": {
+    "models": [
+      15368
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

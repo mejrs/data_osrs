@@ -1,12 +1,14 @@
 {
   "id": 34853,
-  "models": [
-    [
-      0,
-      37327
-    ]
-  ],
   "name": "Passage",
+  "object_models_and_types": {
+    "models": [
+      37327
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -43,5 +45,8 @@
       21642,
       8
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

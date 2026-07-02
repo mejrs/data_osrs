@@ -1,12 +1,14 @@
 {
   "id": 1281,
-  "models": [
-    [
-      0,
-      31260
-    ]
-  ],
   "name": "Cage door",
+  "object_models_and_types": {
+    "models": [
+      31260
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

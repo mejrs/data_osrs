@@ -1,11 +1,13 @@
 {
   "id": 31692,
   "name": "Tunnel entrance",
-  "models_2": [
-    3825
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      3825
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "translate_y": 65535,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

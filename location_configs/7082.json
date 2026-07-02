@@ -1,10 +1,12 @@
 {
   "id": 7082,
   "name": "Old Bookshelf",
-  "models_2": [
-    7387,
-    7390
-  ],
+  "object_models": {
+    "models": [
+      7387,
+      7390
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -13,5 +15,8 @@
     null
   ],
   "category": 205,
-  "translate_z": 65520
+  "translate_z": 65520,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

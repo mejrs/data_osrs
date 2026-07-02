@@ -1,10 +1,15 @@
 {
   "id": 8842,
   "name": "Apple Tree",
-  "models_2": [
-    7921
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "mapscene": 0
+  "object_models": {
+    "models": [
+      7921
+    ]
+  },
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 50733,
   "name": "Sand pit",
-  "models_2": [
-    10722
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      10722
+    ]
+  },
   "colours": [
     [
       5010,
@@ -23,5 +25,8 @@
       6618,
       6730
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

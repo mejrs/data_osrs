@@ -1,9 +1,14 @@
 {
   "id": 21920,
   "name": "Spinning pipe",
-  "models_2": [
-    22724
-  ],
+  "object_models": {
+    "models": [
+      22724
+    ]
+  },
   "unknown_24": 5825,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

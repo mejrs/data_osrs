@@ -1,7 +1,12 @@
 {
   "id": 3242,
   "name": "Lever",
-  "models_2": [
-    1796
-  ]
+  "object_models": {
+    "models": [
+      1796
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

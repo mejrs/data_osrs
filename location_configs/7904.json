@@ -1,13 +1,15 @@
 {
   "id": 7904,
   "name": "Rosemary",
-  "models_2": [
-    7861,
-    7767,
-    7783
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7861,
+      7767,
+      7783
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

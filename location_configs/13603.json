@@ -1,9 +1,11 @@
 {
   "id": 13603,
   "name": "Large Barrel",
-  "models_2": [
-    7775
-  ],
+  "object_models": {
+    "models": [
+      7775
+    ]
+  },
   "colours": [
     [
       5409,
@@ -29,5 +31,8 @@
       3346,
       5161
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 58873,
   "name": "Diseased Cotton",
-  "models_2": [
-    59753,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      59753,
+      7766
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Cure",
@@ -31,5 +33,8 @@
       8542,
       10782
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

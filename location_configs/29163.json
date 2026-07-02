@@ -1,11 +1,13 @@
 {
   "id": 29163,
   "name": "Skotizo display",
-  "models_2": [
-    32163
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      32163
+    ]
+  },
   "actions": [
     "Configure",
     "Jars",
@@ -17,5 +19,8 @@
   "scale_x": 112,
   "scale_y": 112,
   "scale_z": 112,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

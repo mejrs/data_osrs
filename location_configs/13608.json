@@ -1,10 +1,15 @@
 {
   "id": 13608,
   "name": "Net",
-  "models_2": [
-    14898
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_21": true
+  "object_models": {
+    "models": [
+      14898
+    ]
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

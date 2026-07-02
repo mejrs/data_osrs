@@ -1,40 +1,38 @@
 {
   "id": 47184,
-  "models": [
-    [
-      0,
-      47461
-    ],
-    [
-      2,
-      47454
-    ],
-    [
-      3,
-      47455
+  "object_models": {
+    "models": [
+      3852
     ]
-  ],
+  },
+  "is_transparent": true,
   "unknown_19": 0,
-  "unknown_21": true,
-  "ambient": 20,
-  "contrast": 10,
+  "ambient": 15,
+  "contrast": 15,
   "colours": [
     [
-      8747,
-      43090
+      54164,
+      6558
     ],
     [
-      8741,
-      43069
+      54174,
+      6563
     ],
     [
-      677,
-      40627
+      54183,
+      6565
     ],
     [
-      668,
-      40611
+      54193,
+      6569
+    ],
+    [
+      54203,
+      6573
     ]
   ],
-  "mirror": true
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

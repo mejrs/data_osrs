@@ -1,9 +1,11 @@
 {
   "id": 46453,
   "name": "Golden snowball",
-  "models_2": [
-    2846
-  ],
+  "object_models": {
+    "models": [
+      2846
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -24,5 +26,8 @@
   "model": false,
   "scale_x": 18,
   "scale_y": 18,
-  "scale_z": 18
+  "scale_z": 18,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

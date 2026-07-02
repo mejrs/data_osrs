@@ -1,10 +1,12 @@
 {
   "id": 18790,
   "name": "Magic wardrobe",
-  "models_2": [
-    19019
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      19019
+    ]
+  },
   "ambient": 35,
   "actions": [
     "Open",
@@ -15,5 +17,8 @@
   ],
   "category": 206,
   "unknown_69": 29,
-  "translate_z": 65531
+  "translate_z": 65531,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

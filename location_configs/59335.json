@@ -1,9 +1,11 @@
 {
   "id": 59335,
   "name": "Elven river mine",
-  "models_2": [
-    57607
-  ],
+  "object_models": {
+    "models": [
+      57607
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Chart",
@@ -13,5 +15,8 @@
     null
   ],
   "category": 2317,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

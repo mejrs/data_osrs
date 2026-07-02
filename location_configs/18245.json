@@ -1,10 +1,15 @@
 {
   "id": 18245,
   "name": "Lectern",
-  "models_2": [
-    18233
-  ],
+  "object_models": {
+    "models": [
+      18233
+    ]
+  },
   "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "1862": 1
   }

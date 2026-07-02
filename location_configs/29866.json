@@ -1,11 +1,16 @@
 {
   "id": 29866,
   "name": "Carving",
-  "models_2": [
-    32506
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      32506
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

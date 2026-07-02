@@ -1,11 +1,16 @@
 {
   "id": 27429,
   "name": "Fruit cart",
-  "models_2": [
-    30131
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      30131
+    ]
+  },
   "is_transparent": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

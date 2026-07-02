@@ -1,9 +1,11 @@
 {
   "id": 30650,
   "name": "Vines",
-  "models_2": [
-    33746
-  ],
+  "object_models": {
+    "models": [
+      33746
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -17,5 +19,8 @@
     null
   ],
   "category": 1153,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

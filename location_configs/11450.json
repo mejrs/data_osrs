@@ -1,9 +1,11 @@
 {
   "id": 11450,
   "name": "Door",
-  "models_2": [
-    11813
-  ],
+  "object_models": {
+    "models": [
+      11813
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

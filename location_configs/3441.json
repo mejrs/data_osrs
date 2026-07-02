@@ -1,14 +1,19 @@
 {
   "id": 3441,
   "name": "Stairs",
-  "models_2": [
-    3488
-  ],
+  "object_models": {
+    "models": [
+      3488
+    ]
+  },
   "actions": [
     "Use",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,14 +1,19 @@
 {
   "id": 18841,
   "name": "Dolphin",
-  "models_2": [
-    19127,
-    19126
-  ],
   "dim_x": 3,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      19127,
+      19126
+    ]
+  },
   "unknown_24": 5012,
   "scale_x": 100,
   "scale_y": 100,
-  "scale_z": 100
+  "scale_z": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

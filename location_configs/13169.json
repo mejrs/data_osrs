@@ -1,9 +1,11 @@
 {
   "id": 13169,
   "name": "Clock",
-  "models_2": [
-    12974
-  ],
+  "object_models": {
+    "models": [
+      12974
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 3511,
   "ambient": 25,
@@ -19,5 +21,8 @@
   "unknown_78": {
     "unknown_1": 3120,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

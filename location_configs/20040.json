@@ -1,14 +1,19 @@
 {
   "id": 20040,
   "name": "Machine",
-  "models_2": [
-    20341,
-    20342,
-    20344,
-    20345
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      20341,
+      20342,
+      20344,
+      20345
+    ]
+  },
   "unknown_24": 5351,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

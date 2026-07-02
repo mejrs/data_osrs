@@ -1,14 +1,17 @@
 {
   "id": 16717,
-  "models": [
-    [
-      4,
-      16688
-    ],
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
+      16688,
       16687
+    ],
+    "types": [
+      4,
+      22
     ]
-  ],
-  "translate_y": 65535
+  },
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

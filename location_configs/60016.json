@@ -1,10 +1,15 @@
 {
   "id": 60016,
   "name": "Cave",
-  "models_2": [
-    59520
-  ],
   "dim_x": 4,
   "dim_y": 3,
-  "unknown_69": 23
+  "object_models": {
+    "models": [
+      59520
+    ]
+  },
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

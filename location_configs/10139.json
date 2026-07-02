@@ -1,12 +1,14 @@
 {
   "id": 10139,
   "name": "Palm tree",
-  "models_2": [
-    8069,
-    8075
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      8069,
+      8075
+    ]
+  },
   "colours": [
     [
       9110,
@@ -25,5 +27,8 @@
       26506
     ]
   ],
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

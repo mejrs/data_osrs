@@ -1,9 +1,11 @@
 {
   "id": 31679,
   "name": "Energy Sphere",
-  "models_2": [
-    34253
-  ],
+  "object_models": {
+    "models": [
+      34253
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Absorb",
@@ -20,5 +22,8 @@
   ],
   "scale_x": 100,
   "scale_y": 100,
-  "scale_z": 100
+  "scale_z": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

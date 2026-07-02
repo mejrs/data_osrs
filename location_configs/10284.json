@@ -1,9 +1,11 @@
 {
   "id": 10284,
   "name": "Ladder",
-  "models_2": [
-    4566
-  ],
+  "object_models": {
+    "models": [
+      4566
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -15,5 +17,8 @@
     ]
   ],
   "scale_y": 178,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 2343,
   "name": "Brick",
-  "models_2": [
-    1399
-  ]
+  "object_models": {
+    "models": [
+      1399
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

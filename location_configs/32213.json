@@ -1,13 +1,18 @@
 {
   "id": 32213,
   "name": "Dragon head",
-  "models_2": [
-    34816
-  ],
   "dim_x": 2,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      34816
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
-  "ambient": 30
+  "ambient": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

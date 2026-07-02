@@ -1,10 +1,12 @@
 {
   "id": 31715,
   "name": "Lancalliums",
-  "models_2": [
-    24919,
-    24918
-  ],
+  "object_models": {
+    "models": [
+      24919,
+      24918
+    ]
+  },
   "is_transparent": true,
   "ambient": 15,
   "colours": [
@@ -16,5 +18,8 @@
       17694,
       18343
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

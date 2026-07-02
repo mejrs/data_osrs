@@ -1,9 +1,14 @@
 {
   "id": 36661,
   "name": "Books",
-  "models_2": [
-    38523
-  ],
+  "object_models": {
+    "models": [
+      38523
+    ]
+  },
   "ambient": 30,
-  "contrast": 44
+  "contrast": 44,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

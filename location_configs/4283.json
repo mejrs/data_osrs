@@ -1,15 +1,20 @@
 {
   "id": 4283,
-  "models": [
-    [
-      22,
-      4306
-    ]
-  ],
   "name": "Drain",
+  "object_models_and_types": {
+    "models": [
+      4306
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "scale_x": 108,
   "scale_y": 108,
-  "scale_z": 108
+  "scale_z": 108,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

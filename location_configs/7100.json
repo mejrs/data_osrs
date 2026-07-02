@@ -1,10 +1,15 @@
 {
   "id": 7100,
   "name": "Suit of armour",
-  "models_2": [
-    7400
-  ],
+  "object_models": {
+    "models": [
+      7400
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

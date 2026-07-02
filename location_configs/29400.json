@@ -1,18 +1,18 @@
 {
   "id": 29400,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
+  "name": "Rubble",
+  "object_models_and_types": {
+    "models": [
+      60209
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (CKR)",
-    null,
-    "Remove"
-  ]
+  "ambient": 10,
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,15 +1,20 @@
 {
   "id": 26137,
-  "models": [
-    [
-      4,
-      27554
-    ]
-  ],
   "name": "Fly paper",
+  "object_models_and_types": {
+    "models": [
+      27554
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 6931,
   "unknown_27": false,
   "ambient": 25,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

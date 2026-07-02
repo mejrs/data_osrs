@@ -1,12 +1,18 @@
 {
   "id": 53122,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       53074
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_22": true,
   "ambient": 45,
-  "contrast": 30
+  "contrast": 30,
+  "raise": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

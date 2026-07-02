@@ -1,9 +1,11 @@
 {
   "id": 55095,
   "name": "Pillows",
-  "models_2": [
-    51366
-  ],
+  "object_models": {
+    "models": [
+      51366
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -34,5 +36,8 @@
       677,
       2599
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

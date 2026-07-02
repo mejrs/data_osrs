@@ -1,13 +1,18 @@
 {
   "id": 59515,
-  "models_2": [
-    58716
-  ],
   "dim_x": 8,
   "dim_y": 7,
+  "object_models": {
+    "models": [
+      58716
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "ambient": 15,
   "contrast": 15,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

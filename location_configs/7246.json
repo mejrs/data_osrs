@@ -1,17 +1,22 @@
 {
   "id": 7246,
-  "models": [
-    [
-      0,
-      7563
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      7563
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Pick-lock",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

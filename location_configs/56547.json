@@ -1,10 +1,12 @@
 {
   "id": 56547,
   "name": "Bookcase",
-  "models_2": [
-    7392,
-    7393
-  ],
+  "object_models": {
+    "models": [
+      7392,
+      7393
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "contrast": 20,
@@ -34,5 +36,8 @@
       10448
     ]
   ],
-  "category": 2186
+  "category": 2186,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

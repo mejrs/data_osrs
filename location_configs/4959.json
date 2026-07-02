@@ -1,9 +1,11 @@
 {
   "id": 4959,
   "name": "Lever",
-  "models_2": [
-    1774
-  ],
+  "object_models": {
+    "models": [
+      1774
+    ]
+  },
   "actions": [
     "Pull",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "category": 1475
+  "category": 1475,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

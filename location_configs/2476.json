@@ -1,14 +1,19 @@
 {
   "id": 2476,
   "name": "Barrel",
-  "models_2": [
-    1884
-  ],
+  "object_models": {
+    "models": [
+      1884
+    ]
+  },
   "actions": [
     "Climb-on",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

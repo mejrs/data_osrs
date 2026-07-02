@@ -1,11 +1,13 @@
 {
   "id": 39547,
   "name": "Death's Domain",
-  "models_2": [
-    1362
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1362
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -21,5 +23,8 @@
       5772
     ]
   ],
-  "category": 1457
+  "category": 1457,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,15 @@
 {
   "id": 39814,
-  "name": "Herbs",
-  "models_2": [
-    19148,
-    19152,
-    19143
-  ],
+  "name": "Guam leaf",
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      19148,
+      19152,
+      19143
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
@@ -30,5 +32,8 @@
       19992,
       22428
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

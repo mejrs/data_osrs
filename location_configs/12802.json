@@ -1,10 +1,12 @@
 {
   "id": 12802,
   "name": "Coffin",
-  "models_2": [
-    13960
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      13960
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 15,
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

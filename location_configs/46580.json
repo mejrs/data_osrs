@@ -1,11 +1,13 @@
 {
   "id": 46580,
   "name": "Fallen tree",
-  "models_2": [
-    1633
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1633
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Inspect",
@@ -24,5 +26,8 @@
       6684
     ]
   ],
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

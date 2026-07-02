@@ -1,10 +1,12 @@
 {
   "id": 41956,
   "name": "Broken Cart",
-  "models_2": [
-    42576
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      42576
+    ]
+  },
   "ambient": 20,
   "colours": [
     [
@@ -19,5 +21,8 @@
       33,
       11026
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

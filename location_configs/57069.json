@@ -1,9 +1,11 @@
 {
   "id": 57069,
   "name": "Oak totem",
-  "models_2": [
-    57001
-  ],
+  "object_models": {
+    "models": [
+      57001
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

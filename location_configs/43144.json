@@ -1,9 +1,11 @@
 {
   "id": 43144,
   "name": "Tendrils",
-  "models_2": [
-    7459
-  ],
+  "object_models": {
+    "models": [
+      7459
+    ]
+  },
   "unknown_24": 2173,
   "ambient": 25,
   "contrast": 15,
@@ -32,5 +34,8 @@
       908,
       15145
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 5658,
-  "models": [
-    [
-      18,
+  "object_models_and_types": {
+    "models": [
       595
+    ],
+    "types": [
+      18
     ]
-  ],
-  "unknown_22": true
+  },
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

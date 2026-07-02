@@ -1,9 +1,11 @@
 {
   "id": 15929,
   "name": "Steam Pump",
-  "models_2": [
-    15832
-  ],
+  "object_models": {
+    "models": [
+      15832
+    ]
+  },
   "unknown_24": 4242,
   "actions": [
     "hidden",
@@ -11,5 +13,8 @@
     "hidden",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

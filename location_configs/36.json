@@ -1,12 +1,14 @@
 {
   "id": 36,
-  "models": [
-    [
-      4,
-      2077
-    ]
-  ],
   "name": "Lever",
+  "object_models_and_types": {
+    "models": [
+      2077
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Pull",
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

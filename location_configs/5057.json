@@ -1,10 +1,12 @@
 {
   "id": 5057,
   "name": "Wooden doors",
-  "models_2": [
-    4965
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      4965
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

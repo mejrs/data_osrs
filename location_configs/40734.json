@@ -1,9 +1,11 @@
 {
   "id": 40734,
   "name": "Broken Spinning Wheel",
-  "models_2": [
-    41388
-  ],
+  "object_models": {
+    "models": [
+      41388
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Repair",
@@ -13,5 +15,8 @@
     null
   ],
   "category": 971,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

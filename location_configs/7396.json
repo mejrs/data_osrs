@@ -1,10 +1,15 @@
 {
   "id": 7396,
   "name": "Carpet Exhibit",
-  "models_2": [
-    944,
-    7746
-  ],
   "dim_x": 2,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      944,
+      7746
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

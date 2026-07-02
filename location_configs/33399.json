@@ -1,19 +1,15 @@
 {
   "id": 33399,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    55583,
-    55873
-  ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
-  "unknown_27": false,
-  "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (CJS)",
-    "Remove"
-  ]
+  "unknown_17": false,
+  "morphs_1": {
+    "varbit": 15408,
+    "ids": [
+      null,
+      33405,
+      33406
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

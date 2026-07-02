@@ -1,9 +1,11 @@
 {
   "id": 10809,
   "name": "Waste Paper Bin",
-  "models_2": [
-    10719
-  ],
+  "object_models": {
+    "models": [
+      10719
+    ]
+  },
   "ambient": 20,
   "colours": [
     [
@@ -29,5 +31,8 @@
   ],
   "scale_x": 80,
   "scale_y": 80,
-  "scale_z": 80
+  "scale_z": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

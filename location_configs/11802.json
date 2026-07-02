@@ -1,9 +1,11 @@
 {
   "id": 11802,
   "name": "Ladder",
-  "models_2": [
-    25032
-  ],
+  "object_models": {
+    "models": [
+      25032
+    ]
+  },
   "unknown_22": true,
   "ambient": 25,
   "actions": [
@@ -15,5 +17,8 @@
   ],
   "category": 553,
   "unknown_69": 30,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

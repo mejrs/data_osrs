@@ -1,11 +1,13 @@
 {
   "id": 50856,
   "name": "Building Supplies",
-  "models_2": [
-    52395,
-    52394,
-    52396
-  ],
+  "object_models": {
+    "models": [
+      52395,
+      52394,
+      52396
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -18,5 +20,8 @@
     null
   ],
   "contrast": 10,
-  "category": 1926
+  "category": 1926,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

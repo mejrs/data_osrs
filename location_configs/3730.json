@@ -1,10 +1,12 @@
 {
   "id": 3730,
   "name": "Stile",
-  "models_2": [
-    982
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      982
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "actions": [
@@ -24,5 +26,8 @@
       5409
     ]
   ],
-  "category": 211
+  "category": 211,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

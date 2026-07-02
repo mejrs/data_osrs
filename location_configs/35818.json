@@ -1,9 +1,11 @@
 {
   "id": 35818,
   "name": "<col=ffff00>Man</col>",
-  "models_2": [
-    37998
-  ],
+  "object_models": {
+    "models": [
+      37998
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8050,
@@ -25,6 +27,9 @@
   ],
   "model": false,
   "mapscene": 82,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

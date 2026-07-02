@@ -1,19 +1,17 @@
 {
   "id": 10755,
-  "models": [
-    [
-      0,
-      10672
-    ],
-    [
-      1,
-      10673
-    ],
-    [
-      2,
+  "object_models_and_types": {
+    "models": [
+      10672,
+      10673,
       10674
+    ],
+    "types": [
+      0,
+      1,
+      2
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
@@ -22,5 +20,8 @@
   "contrast": 30,
   "scale_x": 128,
   "scale_y": 128,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

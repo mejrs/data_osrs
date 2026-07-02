@@ -1,17 +1,22 @@
 {
   "id": 23545,
-  "models": [
-    [
-      4,
-      2103
-    ]
-  ],
   "name": "Climbing rocks",
+  "object_models_and_types": {
+    "models": [
+      2103
+    ],
+    "types": [
+      4
+    ]
+  },
   "actions": [
     "Climb-up",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

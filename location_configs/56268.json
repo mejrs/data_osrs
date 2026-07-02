@@ -1,11 +1,13 @@
 {
   "id": 56268,
   "name": "Market stall",
-  "models_2": [
-    2920
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      2920
+    ]
+  },
   "ambient": 15,
   "contrast": 25,
   "colours": [
@@ -25,5 +27,8 @@
       5772,
       7700
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 34925,
   "name": "Ladder",
-  "models_2": [
-    1208
-  ],
+  "object_models": {
+    "models": [
+      1208
+    ]
+  },
   "unknown_19": 1,
   "scale_y": 113,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

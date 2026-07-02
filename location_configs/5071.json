@@ -1,8 +1,13 @@
 {
   "id": 5071,
-  "models_2": [
-    5017
-  ],
+  "object_models": {
+    "models": [
+      5017
+    ]
+  },
   "unknown_19": 0,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

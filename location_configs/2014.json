@@ -1,16 +1,21 @@
 {
   "id": 2014,
   "name": "Chalice",
-  "models_2": [
-    1814
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1814
+    ]
+  },
   "actions": [
     "Take treasure",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

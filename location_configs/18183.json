@@ -1,9 +1,11 @@
 {
   "id": 18183,
   "name": "Bucket",
-  "models_2": [
-    2397
-  ],
+  "object_models": {
+    "models": [
+      2397
+    ]
+  },
   "colours": [
     [
       7054,
@@ -17,5 +19,8 @@
       6695,
       7582
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

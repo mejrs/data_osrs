@@ -1,0 +1,19 @@
+{
+  "id": 61435,
+  "name": "Booth",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61149
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "translate_z": 65446,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,9 +1,11 @@
 {
   "id": 33515,
   "name": "Cupboard",
-  "models_2": [
-    36265
-  ],
+  "object_models": {
+    "models": [
+      36265
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Search",
@@ -14,5 +16,8 @@
   ],
   "contrast": 5,
   "scale_y": 112,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

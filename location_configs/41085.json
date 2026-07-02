@@ -1,12 +1,14 @@
 {
   "id": 41085,
   "name": "Ornate trophy pedestal",
-  "models_2": [
-    41709,
-    41715
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      41709,
+      41715
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -40,6 +42,9 @@
     ]
   ],
   "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 2,
     "430": 2

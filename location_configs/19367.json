@@ -1,9 +1,11 @@
 {
   "id": 19367,
   "name": "Plant",
-  "models_2": [
-    1645
-  ],
+  "object_models": {
+    "models": [
+      1645
+    ]
+  },
   "is_transparent": true,
   "ambient": 40,
   "actions": [
@@ -29,5 +31,8 @@
   ],
   "scale_x": 64,
   "scale_y": 64,
-  "scale_z": 64
+  "scale_z": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

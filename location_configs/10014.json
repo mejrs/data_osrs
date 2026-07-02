@@ -1,12 +1,17 @@
 {
   "id": 10014,
   "name": "Crystal",
-  "models_2": [
-    9722
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      9722
+    ]
+  },
   "unknown_24": 2744,
   "ambient": 40,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

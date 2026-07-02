@@ -1,0 +1,39 @@
+{
+  "id": 61295,
+  "name": "Plinth",
+  "object_models": {
+    "models": [
+      61279
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 0,
+      "max": 36,
+      "text": ""
+    },
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 40,
+      "max": 178,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
+}

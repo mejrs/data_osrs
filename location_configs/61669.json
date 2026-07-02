@@ -1,0 +1,14 @@
+{
+  "id": 61669,
+  "unknown_19": 0,
+  "morphs_2": {
+    "varbit": 15535,
+    "ids": [
+      61670
+    ],
+    "default": 61671
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

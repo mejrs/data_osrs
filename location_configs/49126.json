@@ -1,12 +1,14 @@
 {
   "id": 49126,
-  "models": [
-    [
-      0,
-      48742
-    ]
-  ],
   "name": "Ruby Gate",
+  "object_models_and_types": {
+    "models": [
+      48742
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "ambient": 0,
   "actions": [
@@ -40,5 +42,8 @@
     ]
   ],
   "model": false,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

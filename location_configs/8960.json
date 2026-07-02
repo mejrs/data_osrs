@@ -1,10 +1,12 @@
 {
   "id": 8960,
   "name": "Door",
-  "models_2": [
-    11871
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      11871
+    ]
+  },
   "unknown_24": 2349,
   "unknown_27": false,
   "actions": [
@@ -35,5 +37,8 @@
       32815,
       32803
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

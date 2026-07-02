@@ -1,16 +1,19 @@
 {
   "id": 25199,
-  "models": [
-    [
-      10,
-      26484
-    ],
-    [
-      22,
-      26485
-    ]
-  ],
   "name": "Circle",
+  "object_models_and_types": {
+    "models": [
+      26484,
+      26485
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_21": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

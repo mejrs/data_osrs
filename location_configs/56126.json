@@ -1,9 +1,11 @@
 {
   "id": 56126,
   "name": "KBD heads",
-  "models_2": [
-    56054
-  ],
+  "object_models": {
+    "models": [
+      56054
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Talk-to",
@@ -20,5 +22,8 @@
     ]
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

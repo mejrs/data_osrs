@@ -1,13 +1,18 @@
 {
   "id": 6265,
   "name": "Cage",
-  "models_2": [
-    1213,
-    6066
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1213,
+      6066
+    ]
+  },
   "textures": {
     "5": 16,
     "22": 16
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 55059,
   "name": "Vanity",
-  "models_2": [
-    12466
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      12466
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "contrast": 20,
@@ -26,5 +28,8 @@
       36961
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

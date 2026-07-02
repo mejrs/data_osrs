@@ -1,11 +1,13 @@
 {
   "id": 13655,
   "name": "Large orrery",
-  "models_2": [
-    12970
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      12970
+    ]
+  },
   "unknown_24": 3579,
   "actions": [
     null,
@@ -14,5 +16,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

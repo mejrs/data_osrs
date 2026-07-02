@@ -1,16 +1,16 @@
 {
   "id": 31040,
-  "models": [
-    [
-      10,
-      33543
-    ],
-    [
-      22,
-      33545
-    ]
-  ],
   "name": "Volcanic vent",
+  "object_models_and_types": {
+    "models": [
+      33543,
+      33545
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -33,5 +33,8 @@
       3055
     ]
   },
-  "mapscene": 65
+  "mapscene": 65,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

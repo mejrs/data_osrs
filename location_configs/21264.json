@@ -1,10 +1,12 @@
 {
   "id": 21264,
   "name": "Urn",
-  "models_2": [
-    16421,
-    16416
-  ],
+  "object_models": {
+    "models": [
+      16421,
+      16416
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 4335,
   "ambient": 10,
@@ -33,5 +35,8 @@
       8082,
       5002
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

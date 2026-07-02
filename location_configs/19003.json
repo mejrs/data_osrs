@@ -1,16 +1,16 @@
 {
   "id": 19003,
-  "models": [
-    [
-      10,
-      15868
-    ],
-    [
-      14,
-      15869
-    ]
-  ],
   "name": "Ladder",
+  "object_models_and_types": {
+    "models": [
+      15868,
+      15869
+    ],
+    "types": [
+      10,
+      14
+    ]
+  },
   "actions": [
     "Climb-up",
     null,
@@ -18,5 +18,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

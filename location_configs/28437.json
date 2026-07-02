@@ -1,9 +1,14 @@
 {
   "id": 28437,
   "name": "Grave",
-  "models_2": [
-    30507
-  ],
+  "object_models": {
+    "models": [
+      30507
+    ]
+  },
   "unknown_27": false,
-  "mapscene": 34
+  "mapscene": 34,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

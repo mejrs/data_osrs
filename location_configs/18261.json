@@ -1,9 +1,11 @@
 {
   "id": 18261,
   "name": "Pillar",
-  "models_2": [
-    18247
-  ],
+  "object_models": {
+    "models": [
+      18247
+    ]
+  },
   "ambient": 25,
   "colours": [
     [
@@ -30,5 +32,8 @@
       7483,
       8598
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

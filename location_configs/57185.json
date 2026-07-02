@@ -1,12 +1,17 @@
 {
   "id": 57185,
   "name": "Logs",
-  "models_2": [
-    57012
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      57012
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 43535,
   "name": "Cart",
-  "models_2": [
-    10146,
-    10148
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      10146,
+      10148
+    ]
+  },
   "ambient": 15,
   "contrast": 25,
   "colours": [
@@ -14,5 +16,8 @@
       7481,
       5169
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

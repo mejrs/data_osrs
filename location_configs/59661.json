@@ -1,9 +1,11 @@
 {
   "id": 59661,
   "name": "Facility hotspot",
-  "models_2": [
-    58760
-  ],
+  "object_models": {
+    "models": [
+      58760
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 10,
@@ -16,5 +18,8 @@
   ],
   "contrast": 30,
   "category": 2325,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

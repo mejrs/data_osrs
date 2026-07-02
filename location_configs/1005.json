@@ -1,10 +1,15 @@
 {
   "id": 1005,
   "name": "Broken Railing",
-  "models_2": [
-    1023
-  ],
+  "object_models": {
+    "models": [
+      1023
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

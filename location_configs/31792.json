@@ -1,11 +1,13 @@
 {
   "id": 31792,
   "name": "Roots",
-  "models_2": [
-    2152
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      2152
+    ]
+  },
   "unknown_21": true,
   "colours": [
     [
@@ -13,5 +15,8 @@
       7442
     ]
   ],
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

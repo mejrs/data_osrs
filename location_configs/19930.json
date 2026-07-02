@@ -1,9 +1,11 @@
 {
   "id": 19930,
   "name": "Leftovers",
-  "models_2": [
-    971
-  ],
+  "object_models": {
+    "models": [
+      971
+    ]
+  },
   "ambient": 10,
   "contrast": 10,
   "colours": [
@@ -15,5 +17,8 @@
       5006,
       5305
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

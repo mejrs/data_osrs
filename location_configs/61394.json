@@ -1,0 +1,21 @@
+{
+  "id": 61394,
+  "name": "Coffin",
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      61166
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "model": false,
+  "scale_x": 168,
+  "scale_y": 168,
+  "scale_z": 168,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,10 +1,12 @@
 {
   "id": 47149,
   "name": "Exit",
-  "models_2": [
-    1487,
-    13909
-  ],
+  "object_models": {
+    "models": [
+      1487,
+      13909
+    ]
+  },
   "unknown_27": false,
   "ambient": 10,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

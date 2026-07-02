@@ -1,12 +1,17 @@
 {
   "id": 56916,
   "name": "Pedestal",
-  "models_2": [
-    57027
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      57027
+    ]
+  },
   "unknown_19": 1,
   "ambient": 5,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

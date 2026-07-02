@@ -1,9 +1,11 @@
 {
   "id": 54536,
   "name": "Ledge",
-  "models_2": [
-    54482
-  ],
+  "object_models": {
+    "models": [
+      54482
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Jump-to",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

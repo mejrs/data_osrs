@@ -1,9 +1,11 @@
 {
   "id": 40114,
   "name": "Broken Cupboard",
-  "models_2": [
-    40837
-  ],
+  "object_models": {
+    "models": [
+      40837
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -11,5 +13,8 @@
     "Repair",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

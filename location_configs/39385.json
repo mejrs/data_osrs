@@ -1,35 +1,30 @@
 {
   "id": 39385,
-  "models": [
-    [
-      10,
-      40362
-    ],
-    [
-      0,
-      40364
-    ],
-    [
-      1,
-      40379
-    ],
-    [
-      2,
-      40373
-    ],
-    [
-      3,
-      40380
-    ],
-    [
-      9,
-      40372
-    ]
-  ],
   "dim_x": 5,
+  "object_models_and_types": {
+    "models": [
+      40362,
+      40364,
+      40379,
+      40373,
+      40380,
+      40372
+    ],
+    "types": [
+      10,
+      0,
+      1,
+      2,
+      3,
+      9
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

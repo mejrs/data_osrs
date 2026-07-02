@@ -1,12 +1,14 @@
 {
   "id": 20229,
-  "models": [
-    [
-      4,
-      15340
-    ]
-  ],
   "name": "Information scroll",
+  "object_models_and_types": {
+    "models": [
+      15340
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 40,
   "actions": [
     "Read",
@@ -20,5 +22,8 @@
       7587,
       5413
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

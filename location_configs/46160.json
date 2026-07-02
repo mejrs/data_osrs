@@ -1,16 +1,21 @@
 {
   "id": 46160,
   "name": "Path of Apmeken",
-  "models_2": [
-    45366
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      45366
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 10,
   "contrast": 10,
   "category": 1680,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

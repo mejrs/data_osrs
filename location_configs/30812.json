@@ -1,11 +1,16 @@
 {
   "id": 30812,
   "name": "Reinforced crate",
-  "models_2": [
-    33920
-  ],
+  "object_models": {
+    "models": [
+      33920
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,18 +1,22 @@
 {
   "id": 40783,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    41500
-  ],
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_27": false,
-  "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (AIQ)",
-    "Remove-decorations"
-  ]
+  "ambient": 20,
+  "contrast": 25,
+  "category": 2456,
+  "morphs_2": {
+    "varbit": 15440,
+    "ids": [
+      33429,
+      33428
+    ],
+    "default": 33429
+  },
+  "mapscene": 265,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 29336,
   "name": "Combat dummy",
-  "models_2": [
-    32307
-  ],
+  "object_models": {
+    "models": [
+      32307
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Attach",
@@ -12,5 +14,8 @@
     "Upgrade",
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

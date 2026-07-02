@@ -1,12 +1,14 @@
 {
   "id": 6840,
-  "models": [
-    [
-      4,
-      57467
-    ]
-  ],
   "name": "Fungus pattern",
+  "object_models_and_types": {
+    "models": [
+      57467
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 50,
   "actions": [
@@ -22,5 +24,8 @@
       6689,
       7070
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

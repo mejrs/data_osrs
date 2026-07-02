@@ -1,11 +1,13 @@
 {
   "id": 50940,
   "name": "Burrow hole",
-  "models_2": [
-    57324
-  ],
   "dim_x": 5,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      57324
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 2755,
   "unknown_27": false,
@@ -19,5 +21,8 @@
   "category": 2262,
   "scale_x": 150,
   "scale_z": 150,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 51516,
   "name": "Bank table",
-  "models_2": [
-    51393,
-    51380
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      51393,
+      51380
+    ]
+  },
   "is_transparent": true,
   "ambient": 10,
   "actions": [
@@ -35,5 +37,8 @@
     ]
   ],
   "category": 684,
-  "scale_y": 96
+  "scale_y": 96,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 29074,
   "name": "Drawers",
-  "models_2": [
-    25881
-  ],
+  "object_models": {
+    "models": [
+      25881
+    ]
+  },
   "colours": [
     [
       7706,
@@ -14,5 +16,8 @@
       6674
     ]
   ],
-  "category": 963
+  "category": 963,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

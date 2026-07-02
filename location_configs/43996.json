@@ -1,8 +1,13 @@
 {
   "id": 43996,
   "name": "Pillar",
-  "models_2": [
-    44201
-  ],
-  "ambient": 10
+  "object_models": {
+    "models": [
+      44201
+    ]
+  },
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

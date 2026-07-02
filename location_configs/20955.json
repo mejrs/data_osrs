@@ -1,9 +1,14 @@
 {
   "id": 20955,
   "name": "Obelisk",
-  "models_2": [
-    16389
-  ],
+  "object_models": {
+    "models": [
+      16389
+    ]
+  },
   "ambient": 30,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

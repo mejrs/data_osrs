@@ -1,20 +1,21 @@
 {
   "id": 991,
-  "models": [
-    [
-      0,
-      994
-    ],
-    [
-      2,
-      997
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      994,
+      997,
       1000
+    ],
+    "types": [
+      0,
+      2,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

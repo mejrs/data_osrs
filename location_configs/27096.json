@@ -1,9 +1,11 @@
 {
   "id": 27096,
   "name": "Exit portal",
-  "models_2": [
-    2318
-  ],
+  "object_models": {
+    "models": [
+      2318
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_24": 504,
@@ -28,5 +30,8 @@
     "unknown_1": 3139,
     "unknown_2": 3
   },
-  "mapscene": 64
+  "mapscene": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

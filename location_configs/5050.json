@@ -1,9 +1,11 @@
 {
   "id": 5050,
   "name": "Stalagmite",
-  "models_2": [
-    4973
-  ],
+  "object_models": {
+    "models": [
+      4973
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Look",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

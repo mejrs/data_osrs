@@ -1,9 +1,14 @@
 {
   "id": 22532,
   "name": "Empty clothes",
-  "models_2": [
-    23205
-  ],
   "dim_x": 2,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      23205
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

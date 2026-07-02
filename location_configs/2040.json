@@ -1,13 +1,16 @@
 {
   "id": 2040,
-  "models": [
-    [
-      0,
-      1509
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      1509,
       1511
+    ],
+    "types": [
+      0,
+      9
     ]
-  ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

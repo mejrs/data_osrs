@@ -1,38 +1,31 @@
 {
   "id": 13697,
-  "models": [
-    [
-      0,
-      2214
-    ],
-    [
-      1,
-      46749
-    ],
-    [
-      2,
-      4873
-    ],
-    [
-      3,
-      46750
-    ],
-    [
-      4,
-      16239
-    ],
-    [
-      9,
-      2215
-    ],
-    [
-      22,
-      16238
-    ]
-  ],
   "name": "Nothing",
+  "object_models_and_types": {
+    "models": [
+      2214,
+      46749,
+      4873,
+      46750,
+      16239,
+      2215,
+      16238
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      9,
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "model": false,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

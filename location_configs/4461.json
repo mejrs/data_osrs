@@ -1,16 +1,21 @@
 {
   "id": 4461,
   "name": "Table",
-  "models_2": [
-    1213,
-    4417
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1213,
+      4417
+    ]
+  },
   "actions": [
     "Take-from",
     "Take-5",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

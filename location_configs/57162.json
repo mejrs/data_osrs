@@ -1,13 +1,15 @@
 {
   "id": 57162,
   "name": "Pine tree",
-  "models_2": [
-    42498,
-    42501,
-    42515
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      42498,
+      42501,
+      42515
+    ]
+  },
   "unknown_21": true,
   "ambient": 15,
   "contrast": 20,
@@ -70,5 +72,8 @@
     ]
   ],
   "scale_y": 96,
-  "mapscene": 103
+  "mapscene": 103,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,56 @@
+{
+  "id": 61815,
+  "name": "Barrel",
+  "object_models": {
+    "models": [
+      61143
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      43043,
+      154
+    ],
+    [
+      43038,
+      152
+    ],
+    [
+      43034,
+      22
+    ],
+    [
+      3350,
+      280
+    ],
+    [
+      3346,
+      404
+    ],
+    [
+      3470,
+      274
+    ],
+    [
+      3594,
+      262
+    ]
+  ],
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

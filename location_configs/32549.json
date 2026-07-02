@@ -1,9 +1,11 @@
 {
   "id": 32549,
   "name": "Rubble",
-  "models_2": [
-    34873
-  ],
+  "object_models": {
+    "models": [
+      34873
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Climb-up",
@@ -21,5 +23,8 @@
       37982,
       20
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

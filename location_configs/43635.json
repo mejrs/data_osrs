@@ -1,19 +1,22 @@
 {
   "id": 43635,
-  "models": [
-    [
-      10,
-      44045
-    ],
-    [
-      22,
-      44049
-    ]
-  ],
   "name": "Dark lace",
+  "object_models_and_types": {
+    "models": [
+      44045,
+      44049
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 5,
   "contrast": 25,
-  "mapscene": 26
+  "mapscene": 26,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

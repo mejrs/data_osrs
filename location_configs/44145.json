@@ -1,11 +1,16 @@
 {
   "id": 44145,
   "name": "Bush",
-  "models_2": [
-    44710
-  ],
+  "object_models": {
+    "models": [
+      44710
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
   "contrast": 20,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

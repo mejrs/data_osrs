@@ -1,13 +1,16 @@
 {
   "id": 58707,
   "name": "Dead coral",
-  "models_2": [
-    59747,
-    7766,
-    59745
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      59747,
+      7766,
+      59745
+    ]
+  },
+  "ambient": 10,
   "actions": [
     "Clear",
     "Inspect",
@@ -15,6 +18,7 @@
     "Guide",
     null
   ],
+  "contrast": 20,
   "colours": [
     [
       427,
@@ -44,5 +48,8 @@
       43171,
       43026
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

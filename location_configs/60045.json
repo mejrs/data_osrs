@@ -1,16 +1,21 @@
 {
   "id": 60045,
-  "models": [
-    [
-      4,
+  "object_models_and_types": {
+    "models": [
       42806
+    ],
+    "types": [
+      4
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "ambient": 20,
   "contrast": 20,
   "model": false,
   "translate_y": 65486,
-  "translate_z": 65466
+  "translate_z": 65466,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 46323,
   "name": "Spooky cauldron",
-  "models_2": [
-    46789
-  ],
+  "object_models": {
+    "models": [
+      46789
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Rummage",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 15723,
   "name": "Small chest",
-  "models_2": [
-    15567
-  ],
+  "object_models": {
+    "models": [
+      15567
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -24,5 +26,8 @@
       10471,
       10279
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

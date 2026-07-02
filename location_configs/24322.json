@@ -1,9 +1,11 @@
 {
   "id": 24322,
   "name": "Barstool",
-  "models_2": [
-    1161
-  ],
+  "object_models": {
+    "models": [
+      1161
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 15,
@@ -23,5 +25,8 @@
   ],
   "scale_x": 120,
   "scale_y": 135,
-  "scale_z": 120
+  "scale_z": 120,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

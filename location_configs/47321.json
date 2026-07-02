@@ -1,27 +1,32 @@
 {
   "id": 47321,
   "name": "Banner",
-  "models_2": [
-    47520
-  ],
   "dim_y": 6,
+  "object_models": {
+    "models": [
+      47520
+    ]
+  },
   "unknown_17": false,
   "ambient": 20,
   "contrast": 20,
   "colours": [
     [
       6969,
-      8128
+      7741
     ],
     [
       565,
-      8
+      1569
     ],
     [
       557,
-      0
+      7727
     ]
   ],
   "translate_y": 65526,
-  "translate_z": 65526
+  "translate_z": 65526,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

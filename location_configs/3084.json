@@ -1,23 +1,24 @@
 {
   "id": 3084,
-  "models": [
-    [
-      0,
-      3286
-    ],
-    [
-      1,
-      3287
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      3286,
+      3287,
       3288
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "ambient": 30,
   "contrast": 30,
   "unknown_73": true,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

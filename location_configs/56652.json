@@ -1,11 +1,13 @@
 {
   "id": 56652,
   "name": "Pit",
-  "models_2": [
-    54811
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      54811
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -61,5 +63,8 @@
       12820
     ]
   ],
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

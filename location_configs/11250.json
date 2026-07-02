@@ -1,9 +1,11 @@
 {
   "id": 11250,
-  "models_2": [
-    11172
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      11172
+    ]
+  },
   "unknown_19": 0,
   "colours": [
     [
@@ -26,5 +28,8 @@
       12818,
       6930
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

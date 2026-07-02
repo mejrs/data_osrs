@@ -1,14 +1,19 @@
 {
   "id": 45880,
-  "models_2": [
-    45638
-  ],
   "dim_x": 4,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      45638
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "ambient": 0,
   "contrast": 10,
   "model": false,
-  "scale_y": 80
+  "scale_y": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

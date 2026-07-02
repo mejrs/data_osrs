@@ -1,11 +1,13 @@
 {
   "id": 12324,
   "name": "Lumbridge Guide",
-  "models_2": [
-    13671,
-    13681,
-    13680
-  ],
+  "object_models": {
+    "models": [
+      13671,
+      13681,
+      13680
+    ]
+  },
   "colours": [
     [
       6466,
@@ -27,5 +29,8 @@
       6798,
       54397
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

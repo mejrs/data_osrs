@@ -1,9 +1,11 @@
 {
   "id": 46450,
   "name": "Gingerbread",
-  "models_2": [
-    46906
-  ],
+  "object_models": {
+    "models": [
+      46906
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Pickup",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "category": 1745
+  "category": 1745,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

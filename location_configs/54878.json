@@ -1,9 +1,11 @@
 {
   "id": 54878,
   "name": "Retort",
-  "models_2": [
-    54874
-  ],
+  "object_models": {
+    "models": [
+      54874
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 11643,
   "unknown_27": false,
@@ -46,5 +48,8 @@
       16679
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 16889,
   "name": "Wooden chest",
-  "models_2": [
-    12148
-  ],
+  "object_models": {
+    "models": [
+      12148
+    ]
+  },
   "colours": [
     [
       6558,
@@ -18,5 +20,8 @@
       6930
     ]
   ],
-  "category": 529
+  "category": 529,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

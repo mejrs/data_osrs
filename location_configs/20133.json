@@ -1,12 +1,14 @@
 {
   "id": 20133,
-  "models": [
-    [
-      22,
-      20656
-    ]
-  ],
   "name": "Egg launcher",
+  "object_models_and_types": {
+    "models": [
+      20656
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 5430,
@@ -20,5 +22,8 @@
     null
   ],
   "unknown_69": 30,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

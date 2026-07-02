@@ -1,7 +1,12 @@
 {
   "id": 24967,
   "name": "Hopper controls",
-  "models_2": [
-    1382
-  ]
+  "object_models": {
+    "models": [
+      1382
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

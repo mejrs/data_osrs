@@ -1,11 +1,13 @@
 {
   "id": 37966,
   "name": "Tree",
-  "models_2": [
-    1570
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1570
+    ]
+  },
   "actions": [
     null,
     null,
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 91
+  "mapscene": 91,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

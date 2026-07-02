@@ -1,0 +1,29 @@
+{
+  "id": 61739,
+  "name": "Banner",
+  "object_models_and_types": {
+    "models": [
+      61113
+    ],
+    "types": [
+      4
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2467,
+  "translate_x": 65520,
+  "translate_y": 65436,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

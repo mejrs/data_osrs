@@ -1,11 +1,13 @@
 {
   "id": 26762,
   "name": "Cavern",
-  "models_2": [
-    731
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      731
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Enter",
@@ -37,5 +39,8 @@
     ]
   ],
   "unknown_69": 27,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

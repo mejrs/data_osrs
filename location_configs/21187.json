@@ -1,12 +1,14 @@
 {
   "id": 21187,
-  "models": [
-    [
-      0,
-      21675
-    ]
-  ],
   "name": "Chasm",
+  "object_models_and_types": {
+    "models": [
+      21675
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_22": true,
   "ambient": 20,
   "actions": [
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 20,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

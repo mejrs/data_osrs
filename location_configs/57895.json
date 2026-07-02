@@ -1,12 +1,17 @@
 {
   "id": 57895,
   "name": "Farming rack",
-  "models_2": [
-    58866
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58866
+    ]
+  },
   "unknown_21": true,
   "ambient": 10,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

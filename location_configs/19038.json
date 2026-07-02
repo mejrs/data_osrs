@@ -1,12 +1,14 @@
 {
   "id": 19038,
   "name": "Wintumber tree",
-  "models_2": [
-    20491,
-    20492,
-    20493,
-    20494
-  ],
+  "object_models": {
+    "models": [
+      20491,
+      20492,
+      20493,
+      20494
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 5058,
   "unknown_27": false,
@@ -19,5 +21,8 @@
     null
   ],
   "contrast": 30,
-  "category": 570
+  "category": 570,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

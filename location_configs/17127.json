@@ -1,11 +1,16 @@
 {
   "id": 17127,
   "name": "Gnome table",
-  "models_2": [
-    17144,
-    17133,
-    17145
-  ],
+  "object_models": {
+    "models": [
+      17144,
+      17133,
+      17145
+    ]
+  },
   "is_transparent": true,
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

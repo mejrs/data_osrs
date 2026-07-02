@@ -1,7 +1,12 @@
 {
   "id": 4002,
   "name": "Tent pole",
-  "models_2": [
-    3939
-  ]
+  "object_models": {
+    "models": [
+      3939
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

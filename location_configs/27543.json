@@ -1,8 +1,13 @@
 {
   "id": 27543,
   "name": "Pots",
-  "models_2": [
-    30210
-  ],
-  "unknown_27": false
+  "object_models": {
+    "models": [
+      30210
+    ]
+  },
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

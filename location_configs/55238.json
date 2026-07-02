@@ -1,20 +1,18 @@
 {
   "id": 55238,
-  "models": [
-    [
-      10,
-      54927
-    ],
-    [
-      4,
-      54908
-    ],
-    [
-      22,
-      54907
-    ]
-  ],
   "name": "Pillar",
+  "object_models_and_types": {
+    "models": [
+      54927,
+      54908,
+      54907
+    ],
+    "types": [
+      10,
+      4,
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 11692,
   "ambient": 20,
@@ -28,5 +26,8 @@
       968,
       39880
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

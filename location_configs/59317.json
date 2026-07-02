@@ -1,13 +1,15 @@
 {
   "id": 59317,
   "name": "Crab apple tree",
-  "models_2": [
-    7921,
-    7767,
-    7928
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7921,
+      7767,
+      7928
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Chart",
@@ -22,5 +24,8 @@
       3891
     ]
   ],
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

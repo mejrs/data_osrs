@@ -1,9 +1,11 @@
 {
   "id": 31791,
   "name": "Hole",
-  "models_2": [
-    34394
-  ],
+  "object_models": {
+    "models": [
+      34394
+    ]
+  },
   "is_transparent": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

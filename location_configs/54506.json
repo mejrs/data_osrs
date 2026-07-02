@@ -1,12 +1,14 @@
 {
   "id": 54506,
-  "models": [
-    [
-      4,
-      54843
-    ]
-  ],
   "name": "Lever",
+  "object_models_and_types": {
+    "models": [
+      54843
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 60,
-  "scale_y": 241
+  "scale_y": 241,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

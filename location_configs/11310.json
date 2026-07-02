@@ -1,9 +1,11 @@
 {
   "id": 11310,
   "name": "Climbing net",
-  "models_2": [
-    11154
-  ],
+  "object_models": {
+    "models": [
+      11154
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Climb",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 27430,
   "name": "Seed table",
-  "models_2": [
-    30132
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      30132
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

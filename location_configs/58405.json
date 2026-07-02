@@ -1,9 +1,11 @@
 {
   "id": 58405,
   "name": "Sealed crate",
-  "models_2": [
-    5256
-  ],
+  "object_models": {
+    "models": [
+      5256
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 35,
@@ -39,5 +41,8 @@
       5652,
       5660
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

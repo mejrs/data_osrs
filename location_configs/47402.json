@@ -1,10 +1,12 @@
 {
   "id": 47402,
   "name": "Fabric rolls",
-  "models_2": [
-    24802
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      24802
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -35,5 +37,8 @@
       13865,
       6563
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 20873,
-  "models": [
-    [
-      0,
-      6756
-    ]
-  ],
   "name": "Cage",
+  "object_models_and_types": {
+    "models": [
+      6756
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_22": true,
@@ -18,5 +20,8 @@
     null,
     null
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

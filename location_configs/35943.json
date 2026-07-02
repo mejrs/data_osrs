@@ -1,14 +1,19 @@
 {
   "id": 35943,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       1804
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
   "unknown_73": true,
-  "mapscene": 43
+  "mapscene": 43,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

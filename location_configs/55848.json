@@ -1,12 +1,14 @@
 {
   "id": 55848,
   "name": "Trophy pedestal",
-  "models_2": [
-    41707,
-    41704
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      41707,
+      41704
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -40,6 +42,9 @@
     ]
   ],
   "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 2,
     "430": 2

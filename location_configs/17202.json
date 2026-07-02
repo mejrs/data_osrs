@@ -1,13 +1,18 @@
 {
   "id": 17202,
   "name": "Gnome crowd",
-  "models_2": [
-    17042,
-    17044,
-    17040,
-    17041
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      17042,
+      17044,
+      17040,
+      17041
+    ]
+  },
   "unknown_24": 4567,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

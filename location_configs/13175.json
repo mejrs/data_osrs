@@ -1,10 +1,12 @@
 {
   "id": 13175,
   "name": "Icon of Saradomin",
-  "models_2": [
-    12489
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      12489
+    ]
+  },
   "actions": [
     null,
     null,
@@ -12,5 +14,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 35164,
   "name": "Pillar of Light",
-  "models_2": [
-    38354,
-    38347
-  ],
+  "object_models": {
+    "models": [
+      38354,
+      38347
+    ]
+  },
   "ambient": 40,
   "actions": [
     "Search",
@@ -19,5 +21,8 @@
       36133,
       953
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,14 +1,19 @@
 {
   "id": 22576,
-  "models": [
-    [
-      22,
-      23271
-    ]
-  ],
   "name": "Cable",
+  "object_models_and_types": {
+    "models": [
+      23271
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

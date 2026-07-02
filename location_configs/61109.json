@@ -1,0 +1,53 @@
+{
+  "id": 61109,
+  "name": "Fountain",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      452
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_24": 14008,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 30,
+  "colours": [
+    [
+      12,
+      274
+    ],
+    [
+      16,
+      274
+    ],
+    [
+      24,
+      274
+    ],
+    [
+      28,
+      278
+    ],
+    [
+      33,
+      280
+    ],
+    [
+      45,
+      284
+    ],
+    [
+      41,
+      284
+    ]
+  ],
+  "category": 1448,
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

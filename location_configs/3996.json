@@ -1,12 +1,14 @@
 {
   "id": 3996,
-  "models": [
-    [
-      0,
-      3974
-    ]
-  ],
   "name": "Tent flap",
+  "object_models_and_types": {
+    "models": [
+      3974
+    ],
+    "types": [
+      0
+    ]
+  },
   "ambient": 50,
   "actions": [
     "Enter",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

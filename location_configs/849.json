@@ -1,9 +1,14 @@
 {
   "id": 849,
   "name": "Spear wall",
-  "models_2": [
-    642
-  ],
+  "object_models": {
+    "models": [
+      642
+    ]
+  },
   "is_transparent": true,
-  "unknown_21": true
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

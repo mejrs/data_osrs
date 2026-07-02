@@ -1,11 +1,16 @@
 {
   "id": 30853,
   "name": "Burnt tree",
-  "models_2": [
-    33658
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      33658
+    ]
+  },
   "unknown_27": false,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

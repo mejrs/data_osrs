@@ -1,12 +1,14 @@
 {
   "id": 20135,
-  "models": [
-    [
-      22,
-      20681
-    ]
-  ],
   "name": "Runner trap(2)",
+  "object_models_and_types": {
+    "models": [
+      20681
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 10,
@@ -32,5 +34,8 @@
       5904
     ]
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

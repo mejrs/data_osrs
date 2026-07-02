@@ -1,21 +1,22 @@
 {
   "id": 17609,
-  "models": [
-    [
-      0,
-      17695
-    ],
-    [
-      2,
-      17696
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      17695,
+      17696,
       17697
+    ],
+    "types": [
+      0,
+      2,
+      9
     ]
-  ],
+  },
   "ambient": 10,
   "scale_x": 128,
   "scale_y": 160,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

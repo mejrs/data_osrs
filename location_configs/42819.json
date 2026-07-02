@@ -1,10 +1,12 @@
 {
   "id": 42819,
   "name": "Portal",
-  "models_2": [
-    42962
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      42962
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 9016,
   "ambient": 10,
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

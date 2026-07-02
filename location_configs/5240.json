@@ -1,19 +1,17 @@
 {
   "id": 5240,
-  "models": [
-    [
-      0,
-      4334
-    ],
-    [
-      2,
-      11452
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      4334,
+      11452,
       4335
+    ],
+    "types": [
+      0,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "colours": [
@@ -42,5 +40,8 @@
       11144
     ]
   ],
-  "scale_y": 120
+  "scale_y": 120,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

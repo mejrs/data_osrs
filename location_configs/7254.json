@@ -1,13 +1,18 @@
 {
   "id": 7254,
-  "models": [
-    [
-      0,
-      7566
-    ]
-  ],
   "name": "Grill",
+  "object_models_and_types": {
+    "models": [
+      7566
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,19 +1,29 @@
 {
   "id": 33427,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    55583,
-    55873
-  ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
+  "name": "Pile of makeshift spears",
+  "object_models": {
+    "models": [
+      5153
+    ]
+  },
   "unknown_27": false,
   "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (BKR)",
-    "Remove"
-  ]
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 0,
+      "max": 176,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 59346,
   "name": "Polite notice",
-  "models_2": [
-    57642
-  ],
+  "object_models": {
+    "models": [
+      57642
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Chart",
@@ -13,5 +15,8 @@
     null
   ],
   "contrast": 10,
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

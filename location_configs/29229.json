@@ -1,77 +1,545 @@
 {
   "id": 29229,
+  "name": "Spiritual Fairy Tree",
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32111
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
+  "actions": [
+    "Tree",
+    "Ring-Zanaris",
+    "Ring-configure",
+    "Ring-last-destination",
+    "Remove"
+  ],
   "category": 206,
-  "morphs_1": {
-    "varbit": 5374,
-    "ids": [
-      29422,
-      29423,
-      29424,
-      29425,
-      29426,
-      29427,
-      29428,
-      29429,
-      29430,
-      29431,
-      29432,
-      29433,
-      29434,
-      29435,
-      29436,
-      29437,
-      29438,
-      29439,
-      29440,
-      29441,
-      29442,
-      29443,
-      29444,
-      29445,
-      29446,
-      29447,
-      29448,
-      29449,
-      29450,
-      29451,
-      29452,
-      29453,
-      29454,
-      29455,
-      29456,
-      29457,
-      29458,
-      29459,
-      29460,
-      29461,
-      29462,
-      29463,
-      29464,
-      29465,
-      29466,
-      29467,
-      29468,
-      29469,
-      29470,
-      29471,
-      29472,
-      29473,
-      29474,
-      29475,
-      29476,
-      29477,
-      29478,
-      29479,
-      29480,
-      29481,
-      29482,
-      29483,
-      29484,
-      29485
-    ]
-  }
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 0,
+      "max": 63,
+      "text": ""
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 64,
+      "max": 64,
+      "text": "Ring-last-destination (AIP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 65,
+      "max": 65,
+      "text": "Ring-last-destination (AIS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 66,
+      "max": 66,
+      "text": "Ring-last-destination (AIR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 67,
+      "max": 67,
+      "text": "Ring-last-destination (AIQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 68,
+      "max": 68,
+      "text": "Ring-last-destination (ALP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 69,
+      "max": 69,
+      "text": "Ring-last-destination (ALS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 70,
+      "max": 70,
+      "text": "Ring-last-destination (ALR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 71,
+      "max": 71,
+      "text": "Ring-last-destination (ALQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 72,
+      "max": 72,
+      "text": "Ring-last-destination (AKP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 73,
+      "max": 73,
+      "text": "Ring-last-destination (AKS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 74,
+      "max": 74,
+      "text": "Ring-last-destination (AKR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 75,
+      "max": 75,
+      "text": "Ring-last-destination (AKQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 76,
+      "max": 76,
+      "text": "Ring-last-destination (AJP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 77,
+      "max": 77,
+      "text": "Ring-last-destination (AJS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 78,
+      "max": 78,
+      "text": "Ring-last-destination (AJR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 79,
+      "max": 79,
+      "text": "Ring-last-destination (AJQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 80,
+      "max": 80,
+      "text": "Ring-last-destination (DIP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 81,
+      "max": 81,
+      "text": "Ring-last-destination (DIS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 82,
+      "max": 82,
+      "text": "Ring-last-destination (DIR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 83,
+      "max": 83,
+      "text": "Ring-last-destination (DIQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 84,
+      "max": 84,
+      "text": "Ring-last-destination (DLP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 85,
+      "max": 85,
+      "text": "Ring-last-destination (DLS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 86,
+      "max": 86,
+      "text": "Ring-last-destination (DLR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 87,
+      "max": 87,
+      "text": "Ring-last-destination (DLQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 88,
+      "max": 88,
+      "text": "Ring-last-destination (DKP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 89,
+      "max": 89,
+      "text": "Ring-last-destination (DKS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 90,
+      "max": 90,
+      "text": "Ring-last-destination (DKR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 91,
+      "max": 91,
+      "text": "Ring-last-destination (DKQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 92,
+      "max": 92,
+      "text": "Ring-last-destination (DJP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 93,
+      "max": 93,
+      "text": "Ring-last-destination (DJS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 94,
+      "max": 94,
+      "text": "Ring-last-destination (DJR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 95,
+      "max": 95,
+      "text": "Ring-last-destination (DJQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 96,
+      "max": 96,
+      "text": "Ring-last-destination (CIP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 97,
+      "max": 97,
+      "text": "Ring-last-destination (CIS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 98,
+      "max": 98,
+      "text": "Ring-last-destination (CIR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 99,
+      "max": 99,
+      "text": "Ring-last-destination (CIQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 100,
+      "max": 100,
+      "text": "Ring-last-destination (CLP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 101,
+      "max": 101,
+      "text": "Ring-last-destination (CLS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 102,
+      "max": 102,
+      "text": "Ring-last-destination (CLR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 103,
+      "max": 103,
+      "text": "Ring-last-destination (CLQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 104,
+      "max": 104,
+      "text": "Ring-last-destination (CKP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 105,
+      "max": 105,
+      "text": "Ring-last-destination (CKS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 106,
+      "max": 106,
+      "text": "Ring-last-destination (CKR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 107,
+      "max": 107,
+      "text": "Ring-last-destination (CKQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 108,
+      "max": 108,
+      "text": "Ring-last-destination (CJP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 109,
+      "max": 109,
+      "text": "Ring-last-destination (CJS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 110,
+      "max": 110,
+      "text": "Ring-last-destination (CJR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 111,
+      "max": 111,
+      "text": "Ring-last-destination (CJQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 112,
+      "max": 112,
+      "text": "Ring-last-destination (BIP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 113,
+      "max": 113,
+      "text": "Ring-last-destination (BIS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 114,
+      "max": 114,
+      "text": "Ring-last-destination (BIR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 115,
+      "max": 115,
+      "text": "Ring-last-destination (BIQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 116,
+      "max": 116,
+      "text": "Ring-last-destination (BLP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 117,
+      "max": 117,
+      "text": "Ring-last-destination (BLS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 118,
+      "max": 118,
+      "text": "Ring-last-destination (BLR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 119,
+      "max": 119,
+      "text": "Ring-last-destination (BLQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 120,
+      "max": 120,
+      "text": "Ring-last-destination (BKP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 121,
+      "max": 121,
+      "text": "Ring-last-destination (BKS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 122,
+      "max": 122,
+      "text": "Ring-last-destination (BKR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 123,
+      "max": 123,
+      "text": "Ring-last-destination (BKQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 124,
+      "max": 124,
+      "text": "Ring-last-destination (BJP)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 125,
+      "max": 125,
+      "text": "Ring-last-destination (BJS)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 126,
+      "max": 126,
+      "text": "Ring-last-destination (BJR)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 127,
+      "max": 127,
+      "text": "Ring-last-destination (BJQ)"
+    }
+  ],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,24 @@
+{
+  "id": 60722,
+  "name": "Ballistic attractor",
+  "object_models": {
+    "models": [
+      2865
+    ]
+  },
+  "is_transparent": true,
+  "unknown_24": 1177,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Modify"
+  ],
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

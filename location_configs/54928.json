@@ -1,9 +1,11 @@
 {
   "id": 54928,
   "name": "Mixing vessel (Mixalot)",
-  "models_2": [
-    54865
-  ],
+  "object_models": {
+    "models": [
+      54865
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 11628,
@@ -47,5 +49,8 @@
       21671
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

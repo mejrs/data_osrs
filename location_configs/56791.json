@@ -1,10 +1,15 @@
 {
   "id": 56791,
   "name": "Carcasses",
-  "models_2": [
-    57076
-  ],
+  "object_models": {
+    "models": [
+      57076
+    ]
+  },
   "unknown_21": true,
   "ambient": 30,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

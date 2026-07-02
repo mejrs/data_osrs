@@ -1,10 +1,15 @@
 {
   "id": 12386,
   "name": "Table",
-  "models_2": [
-    13484
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "category": 157
+  "object_models": {
+    "models": [
+      13484
+    ]
+  },
+  "category": 157,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

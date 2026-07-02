@@ -1,12 +1,14 @@
 {
   "id": 4307,
-  "models": [
-    [
-      4,
-      2125
-    ]
-  ],
   "name": "Blacksmith's tools",
+  "object_models_and_types": {
+    "models": [
+      2125
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -32,5 +34,8 @@
   ],
   "textures": {
     "16": 22
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

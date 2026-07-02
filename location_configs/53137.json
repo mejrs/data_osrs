@@ -1,9 +1,11 @@
 {
   "id": 53137,
   "name": "Bush",
-  "models_2": [
-    36589
-  ],
+  "object_models": {
+    "models": [
+      36589
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 0,
@@ -22,5 +24,8 @@
       27152
     ]
   ],
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

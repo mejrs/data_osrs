@@ -1,0 +1,31 @@
+{
+  "id": 61701,
+  "name": "Altar",
+  "dim_x": 4,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60553
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2465,
+  "scale_x": 144,
+  "scale_y": 144,
+  "scale_z": 144,
+  "translate_z": 8,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

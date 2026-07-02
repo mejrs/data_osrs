@@ -1,9 +1,11 @@
 {
   "id": 16707,
   "name": "Bookcase",
-  "models_2": [
-    12415
-  ],
+  "object_models": {
+    "models": [
+      12415
+    ]
+  },
   "colours": [
     [
       6565,
@@ -25,5 +27,8 @@
       7952,
       6930
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

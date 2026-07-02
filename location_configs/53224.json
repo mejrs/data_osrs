@@ -1,9 +1,11 @@
 {
   "id": 53224,
   "name": "Agility dispenser",
-  "models_2": [
-    53109
-  ],
+  "object_models": {
+    "models": [
+      53109
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 10,
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 20,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

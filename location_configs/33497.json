@@ -1,9 +1,11 @@
 {
   "id": 33497,
   "name": "Crates",
-  "models_2": [
-    36280
-  ],
+  "object_models": {
+    "models": [
+      36280
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Search",
@@ -16,5 +18,8 @@
   "category": 209,
   "scale_x": 88,
   "scale_y": 88,
-  "scale_z": 88
+  "scale_z": 88,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

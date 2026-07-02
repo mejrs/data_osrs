@@ -1,12 +1,14 @@
 {
   "id": 18516,
   "name": "Bellows",
-  "models_2": [
-    18865,
-    18864
-  ],
   "dim_x": 3,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      18865,
+      18864
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Fix",
@@ -24,5 +26,8 @@
       61,
       7566
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,18 @@
 {
   "id": 10960,
   "name": "Icthlarin's statue",
-  "models_2": [
-    10905,
-    10901
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      10905,
+      10901
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

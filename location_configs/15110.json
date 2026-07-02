@@ -1,9 +1,11 @@
 {
   "id": 15110,
   "name": "Warehouse shelves",
-  "models_2": [
-    2132
-  ],
+  "object_models": {
+    "models": [
+      2132
+    ]
+  },
   "colours": [
     [
       7700,
@@ -17,5 +19,8 @@
       8076,
       8722
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

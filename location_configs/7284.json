@@ -1,9 +1,11 @@
 {
   "id": 7284,
   "name": "Grain",
-  "models_2": [
-    7702
-  ],
+  "object_models": {
+    "models": [
+      7702
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Pick-up",
@@ -14,5 +16,8 @@
   ],
   "scale_x": 99,
   "scale_y": 99,
-  "scale_z": 99
+  "scale_z": 99,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

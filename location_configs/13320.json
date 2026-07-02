@@ -1,12 +1,14 @@
 {
   "id": 13320,
-  "models": [
-    [
-      0,
-      12440
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      12440
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Open",
@@ -16,5 +18,8 @@
     "Remove"
   ],
   "category": 206,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 12553,
   "name": "Old tree",
-  "models_2": [
-    13720
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      13720
+    ]
+  },
   "unknown_21": true,
   "model": false,
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

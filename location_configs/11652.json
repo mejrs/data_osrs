@@ -1,14 +1,19 @@
 {
   "id": 11652,
   "name": "Goal",
-  "models_2": [
-    5140
-  ],
+  "object_models": {
+    "models": [
+      5140
+    ]
+  },
   "unknown_21": true,
   "colours": [
     [
       5231,
       6340
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

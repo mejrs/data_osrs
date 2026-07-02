@@ -1,11 +1,13 @@
 {
   "id": 43204,
   "name": "Crater",
-  "models_2": [
-    43531
-  ],
   "dim_x": 5,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      43531
+    ]
+  },
   "unknown_22": true,
   "colours": [
     [
@@ -21,5 +23,8 @@
       14490
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

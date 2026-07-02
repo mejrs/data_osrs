@@ -1,10 +1,12 @@
 {
   "id": 49409,
   "name": "Fleshy Strand",
-  "models_2": [
-    42518
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      42518
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Exit",
@@ -29,5 +31,8 @@
   ],
   "category": 1833,
   "scale_y": 96,
-  "translate_y": 65436
+  "translate_y": 65436,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

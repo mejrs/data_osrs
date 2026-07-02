@@ -1,8 +1,13 @@
 {
   "id": 23177,
   "name": "Table",
-  "models_2": [
-    24085
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      24085
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

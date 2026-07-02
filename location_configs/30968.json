@@ -1,10 +1,12 @@
 {
   "id": 30968,
   "name": "Pile of Fishbowls",
-  "models_2": [
-    33822
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      33822
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -15,5 +17,8 @@
     "Pick up",
     "Deposit",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 18799,
   "name": "Toy box",
-  "models_2": [
-    19035
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      19035
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Search",
@@ -14,5 +16,8 @@
     null
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

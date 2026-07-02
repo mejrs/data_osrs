@@ -1,10 +1,12 @@
 {
   "id": 60317,
   "name": "Crate",
-  "models_2": [
-    58809,
-    58810
-  ],
+  "object_models": {
+    "models": [
+      58809,
+      58810
+    ]
+  },
   "ambient": 10,
   "contrast": 15,
   "colours": [
@@ -12,5 +14,8 @@
       16681,
       10508
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 58850,
   "name": "Hemp",
-  "models_2": [
-    59773,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      59773,
+      7766
+    ]
+  },
   "ambient": 10,
   "actions": [
     null,
@@ -13,5 +15,8 @@
     "Guide",
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

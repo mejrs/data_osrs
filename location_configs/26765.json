@@ -1,16 +1,23 @@
 {
   "id": 26765,
   "name": "Chaos rift",
-  "models_2": [
-    28259
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      28259
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
-  "ambient": 35,
-  "unknown_73": true
+  "ambient": 0,
+  "contrast": 50,
+  "model": false,
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

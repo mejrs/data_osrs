@@ -1,7 +1,12 @@
 {
   "id": 24156,
   "name": "Heater",
-  "models_2": [
-    11597
-  ]
+  "object_models": {
+    "models": [
+      11597
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

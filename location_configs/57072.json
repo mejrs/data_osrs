@@ -1,9 +1,11 @@
 {
   "id": 57072,
   "name": "Willow totem",
-  "models_2": [
-    56987
-  ],
+  "object_models": {
+    "models": [
+      56987
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -37,5 +39,8 @@
       6466,
       9643
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

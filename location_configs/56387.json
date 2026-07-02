@@ -1,14 +1,19 @@
 {
   "id": 56387,
-  "models": [
-    [
-      4,
-      42463
-    ]
-  ],
   "name": "Banner",
+  "object_models_and_types": {
+    "models": [
+      42463
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "contrast": 10,
-  "translate_x": 30
+  "translate_x": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

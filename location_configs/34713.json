@@ -1,12 +1,14 @@
 {
   "id": 34713,
   "name": "Dungeon entrance",
-  "models_2": [
-    4998,
-    4999
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      4998,
+      4999
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "actions": [
@@ -19,5 +21,8 @@
   "scale_x": 95,
   "scale_y": 110,
   "scale_z": 95,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

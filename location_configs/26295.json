@@ -1,9 +1,11 @@
 {
   "id": 26295,
   "name": "Bear droppings",
-  "models_2": [
-    6048
-  ],
+  "object_models": {
+    "models": [
+      6048
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_24": 1881,
@@ -16,5 +18,8 @@
   ],
   "scale_x": 136,
   "scale_y": 148,
-  "scale_z": 136
+  "scale_z": 136,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

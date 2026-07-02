@@ -1,11 +1,13 @@
 {
   "id": 2634,
   "name": "Rock slide",
-  "models_2": [
-    818
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      818
+    ]
+  },
   "actions": [
     "Investigate",
     "Mine",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

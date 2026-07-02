@@ -1,11 +1,13 @@
 {
   "id": 3245,
   "name": "Platform",
-  "models_2": [
-    757
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      757
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "colours": [
@@ -13,5 +15,8 @@
       6689,
       7952
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,8 +1,13 @@
 {
   "id": 1202,
   "name": "Jungle flower",
-  "models_2": [
-    1675
-  ],
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      1675
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

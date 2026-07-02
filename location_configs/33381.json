@@ -1,19 +1,26 @@
 {
   "id": 33381,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    55583,
-    55873
-  ],
+  "name": "Corpse cart",
   "dim_x": 2,
-  "dim_y": 2,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      40351
+    ]
+  },
   "unknown_19": 1,
+  "unknown_21": true,
   "unknown_27": false,
+  "ambient": 10,
   "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (DKQ)",
-    "Remove"
-  ]
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

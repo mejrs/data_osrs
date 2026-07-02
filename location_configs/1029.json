@@ -1,7 +1,12 @@
 {
   "id": 1029,
   "name": "Vat",
-  "models_2": [
-    1285
-  ]
+  "object_models": {
+    "models": [
+      1285
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

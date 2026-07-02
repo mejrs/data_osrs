@@ -1,11 +1,13 @@
 {
   "id": 4526,
   "name": "Rock",
-  "models_2": [
-    12917
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12917
+    ]
+  },
   "is_transparent": true,
   "actions": [
     null,
@@ -14,5 +16,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

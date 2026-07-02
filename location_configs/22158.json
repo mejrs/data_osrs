@@ -1,9 +1,11 @@
 {
   "id": 22158,
   "name": "Bench",
-  "models_2": [
-    12406
-  ],
+  "object_models": {
+    "models": [
+      12406
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,
@@ -17,5 +19,8 @@
       5545,
       6817
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

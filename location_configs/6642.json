@@ -1,13 +1,18 @@
 {
   "id": 6642,
-  "models": [
-    [
-      0,
-      6452
-    ]
-  ],
   "name": "Wall",
+  "object_models_and_types": {
+    "models": [
+      6452
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
-  "unknown_24": 1998
+  "unknown_24": 1998,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

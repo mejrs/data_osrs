@@ -1,8 +1,13 @@
 {
   "id": 2095,
   "name": "Gold",
-  "models_2": [
-    24838
-  ],
-  "ambient": 30
+  "object_models": {
+    "models": [
+      24838
+    ]
+  },
+  "ambient": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

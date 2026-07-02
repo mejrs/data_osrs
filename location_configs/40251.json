@@ -1,13 +1,18 @@
 {
   "id": 40251,
   "name": "<col=ffff00>Chompy chick",
-  "models_2": [
-    26861
-  ],
+  "object_models": {
+    "models": [
+      26861
+    ]
+  },
   "unknown_24": 6764,
   "ambient": 30,
   "contrast": 30,
   "scale_x": 83,
   "scale_y": 83,
-  "scale_z": 83
+  "scale_z": 83,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

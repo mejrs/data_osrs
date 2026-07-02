@@ -1,9 +1,11 @@
 {
   "id": 25430,
-  "models_2": [
-    26914
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      26914
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "ambient": 10,
@@ -35,5 +37,8 @@
     ]
   ],
   "mirror": true,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

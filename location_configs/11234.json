@@ -1,9 +1,11 @@
 {
   "id": 11234,
   "name": "Barrel",
-  "models_2": [
-    8232
-  ],
+  "object_models": {
+    "models": [
+      8232
+    ]
+  },
   "actions": [
     "Ransack",
     null,
@@ -28,5 +30,8 @@
       5784,
       6806
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

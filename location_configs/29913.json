@@ -50,5 +50,8 @@
     ],
     "default": 32449
   },
-  "mapscene": 86
+  "mapscene": 86,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

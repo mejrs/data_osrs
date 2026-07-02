@@ -1,0 +1,16 @@
+{
+  "id": 61943,
+  "name": "Vampyre dust",
+  "object_models": {
+    "models": [
+      61176
+    ]
+  },
+  "unknown_17": false,
+  "ambient": 10,
+  "contrast": 20,
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

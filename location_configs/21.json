@@ -1,9 +1,14 @@
 {
   "id": 21,
   "name": "Mysterious statue",
-  "models_2": [
-    1729
-  ],
   "dim_x": 4,
-  "dim_y": 4
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      1729
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

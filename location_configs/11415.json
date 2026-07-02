@@ -1,12 +1,17 @@
 {
   "id": 11415,
-  "models": [
-    [
-      22,
-      11440
-    ]
-  ],
   "name": "Rope",
+  "object_models_and_types": {
+    "models": [
+      11440
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 46230,
   "name": "Strange Chest",
-  "models_2": [
-    37312
-  ],
+  "object_models": {
+    "models": [
+      37312
+    ]
+  },
   "ambient": 20,
   "colours": [
     [
@@ -27,5 +29,8 @@
       5392
     ]
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

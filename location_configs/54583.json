@@ -1,9 +1,11 @@
 {
   "id": 54583,
   "name": "Ice chunks",
-  "models_2": [
-    6333
-  ],
+  "object_models": {
+    "models": [
+      6333
+    ]
+  },
   "unknown_17": false,
   "unknown_21": true,
   "ambient": 30,
@@ -14,5 +16,8 @@
       37214
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

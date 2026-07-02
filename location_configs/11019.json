@@ -1,10 +1,12 @@
 {
   "id": 11019,
   "name": "Brazier",
-  "models_2": [
-    10991,
-    10993
-  ],
+  "object_models": {
+    "models": [
+      10991,
+      10993
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Investigate",
@@ -18,5 +20,8 @@
       898,
       29786
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

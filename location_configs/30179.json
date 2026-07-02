@@ -1,10 +1,12 @@
 {
   "id": 30179,
   "name": "Hole",
-  "models_2": [
-    15049,
-    15052
-  ],
+  "object_models": {
+    "models": [
+      15049,
+      15052
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Climb-down",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

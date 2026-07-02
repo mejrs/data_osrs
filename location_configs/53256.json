@@ -1,12 +1,14 @@
 {
   "id": 53256,
-  "models": [
-    [
-      0,
-      53137
-    ]
-  ],
   "name": "Dry stone wall",
+  "object_models_and_types": {
+    "models": [
+      53137
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_22": true,
@@ -16,5 +18,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

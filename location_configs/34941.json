@@ -1,7 +1,12 @@
 {
   "id": 34941,
   "name": "Chest",
-  "models_2": [
-    1249
-  ]
+  "object_models": {
+    "models": [
+      1249
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

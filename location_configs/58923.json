@@ -1,9 +1,11 @@
 {
   "id": 58923,
   "name": "Nickel rocks",
-  "models_2": [
-    58569
-  ],
+  "object_models": {
+    "models": [
+      58569
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "ambient": 10,
@@ -16,5 +18,8 @@
   ],
   "contrast": 20,
   "category": 2312,
-  "mapscene": 199
+  "mapscene": 199,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

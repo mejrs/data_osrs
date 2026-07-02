@@ -1,12 +1,14 @@
 {
   "id": 24098,
-  "models": [
-    [
-      4,
-      9558
-    ]
-  ],
   "name": "Notice board",
+  "object_models_and_types": {
+    "models": [
+      9558
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Read",
@@ -24,5 +26,8 @@
       9152,
       6684
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

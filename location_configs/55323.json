@@ -1,11 +1,13 @@
 {
   "id": 55323,
   "name": "Gate",
-  "models_2": [
-    51272
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      51272
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Pass-through",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

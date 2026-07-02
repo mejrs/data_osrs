@@ -1,9 +1,14 @@
 {
   "id": 31972,
   "name": "Ivory table",
-  "models_2": [
-    29949
-  ],
+  "object_models": {
+    "models": [
+      29949
+    ]
+  },
   "unknown_19": 1,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

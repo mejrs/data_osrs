@@ -1,15 +1,20 @@
 {
   "id": 55406,
-  "models": [
-    [
-      4,
-      55337
-    ]
-  ],
   "name": "Shelves",
+  "object_models_and_types": {
+    "models": [
+      55337
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 25,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

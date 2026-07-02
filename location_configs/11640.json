@@ -1,10 +1,12 @@
 {
   "id": 11640,
   "name": "Hurdle",
-  "models_2": [
-    5128
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      5128
+    ]
+  },
   "actions": [
     "Jump",
     null,
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

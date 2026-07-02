@@ -1,9 +1,11 @@
 {
   "id": 6635,
   "name": "Canopic Jar",
-  "models_2": [
-    6445
-  ],
+  "object_models": {
+    "models": [
+      6445
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Take",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

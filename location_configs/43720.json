@@ -1,11 +1,13 @@
 {
   "id": 43720,
   "name": "Huge guardian remains",
-  "models_2": [
-    44028
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      44028
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -21,5 +23,8 @@
   "category": 1617,
   "scale_x": 192,
   "scale_y": 192,
-  "scale_z": 192
+  "scale_z": 192,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

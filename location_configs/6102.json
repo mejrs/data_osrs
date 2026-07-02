@@ -1,12 +1,14 @@
 {
   "id": 6102,
-  "models": [
-    [
-      0,
-      5913
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      5913
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -20,5 +22,8 @@
       43043,
       5404
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

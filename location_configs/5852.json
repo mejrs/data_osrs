@@ -1,12 +1,17 @@
 {
   "id": 5852,
-  "models": [
-    [
-      22,
-      5700
-    ]
-  ],
   "name": "Flat stone",
+  "object_models_and_types": {
+    "models": [
+      5700
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

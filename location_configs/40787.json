@@ -1,18 +1,30 @@
 {
   "id": 40787,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    41500
-  ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
-  "unknown_27": false,
+  "name": "Bush",
+  "object_models": {
+    "models": [
+      61011
+    ]
+  },
+  "ambient": 20,
   "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (ALQ)",
-    "Remove-decorations"
-  ]
+    "Crawl-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 0,
+      "max": 176,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 26110,
-  "models": [
-    [
-      0,
-      27297
-    ]
-  ],
   "name": "Smashed window",
+  "object_models_and_types": {
+    "models": [
+      27297
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -30,5 +32,8 @@
     ]
   ],
   "scale_y": 105,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

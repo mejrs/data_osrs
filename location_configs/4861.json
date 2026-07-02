@@ -1,13 +1,18 @@
 {
   "id": 4861,
   "name": "Monkey Statue",
-  "models_2": [
-    4753
-  ],
+  "object_models": {
+    "models": [
+      4753
+    ]
+  },
   "colours": [
     [
       8514,
       7646
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

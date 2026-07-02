@@ -1,10 +1,15 @@
 {
   "id": 10299,
   "name": "Rat lever",
-  "models_2": [
-    10059
-  ],
+  "object_models": {
+    "models": [
+      10059
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 2899,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

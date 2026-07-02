@@ -1,9 +1,11 @@
 {
   "id": 31684,
   "name": "The Cloister Bell",
-  "models_2": [
-    34193
-  ],
+  "object_models": {
+    "models": [
+      34193
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Ring",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 3235,
   "name": "Pipe",
-  "models_2": [
-    813
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      813
+    ]
+  },
   "actions": [
     "Squeeze-through",
     null,
@@ -17,5 +19,8 @@
       6689,
       7952
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

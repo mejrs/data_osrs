@@ -1,16 +1,21 @@
 {
   "id": 2483,
   "name": "Trawler net",
-  "models_2": [
-    1866
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1866
+    ]
+  },
   "actions": [
     "Inspect",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

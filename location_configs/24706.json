@@ -1,10 +1,15 @@
 {
   "id": 24706,
   "name": "Skeleton",
-  "models_2": [
-    1078
-  ],
+  "object_models": {
+    "models": [
+      1078
+    ]
+  },
   "unknown_17": false,
   "ambient": 30,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

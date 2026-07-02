@@ -1,11 +1,13 @@
 {
   "id": 20724,
   "name": "Chest",
-  "models_2": [
-    6616
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      6616
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Search",
@@ -20,5 +22,8 @@
       11173
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

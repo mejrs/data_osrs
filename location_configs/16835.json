@@ -1,12 +1,14 @@
 {
   "id": 16835,
-  "models": [
-    [
-      22,
-      16762
-    ]
-  ],
   "name": "Transport platform",
+  "object_models_and_types": {
+    "models": [
+      16762
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Step-on",
@@ -28,5 +30,8 @@
       48606,
       35294
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

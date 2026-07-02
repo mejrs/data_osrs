@@ -1,10 +1,15 @@
 {
   "id": 1720,
-  "models_2": [
-    1549
-  ],
+  "object_models": {
+    "models": [
+      1549
+    ]
+  },
   "unknown_19": 0,
   "textures": {
     "2": 23
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

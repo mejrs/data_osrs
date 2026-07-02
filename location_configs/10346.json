@@ -1,14 +1,19 @@
 {
   "id": 10346,
-  "models": [
-    [
-      4,
-      10051
-    ]
-  ],
   "name": "Rat hole",
+  "object_models_and_types": {
+    "models": [
+      10051
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
   "contrast": 25,
-  "category": 685
+  "category": 685,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

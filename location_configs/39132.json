@@ -1,9 +1,11 @@
 {
   "id": 39132,
   "name": "Table",
-  "models_2": [
-    42008
-  ],
+  "object_models": {
+    "models": [
+      42008
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 10,
@@ -33,5 +35,8 @@
       34999
     ]
   ],
-  "category": 1544
+  "category": 1544,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

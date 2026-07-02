@@ -1,9 +1,11 @@
 {
   "id": 22118,
   "name": "Door",
-  "models_2": [
-    23059
-  ],
+  "object_models": {
+    "models": [
+      23059
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 30,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,26 @@
+{
+  "id": 62073,
+  "name": "Workbench",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      60614,
+      60613
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

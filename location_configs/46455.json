@@ -1,11 +1,13 @@
 {
   "id": 46455,
   "name": "Large Magical Snow",
-  "models_2": [
-    20483
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      20483
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 15,
@@ -32,5 +34,8 @@
   "model": false,
   "scale_x": 256,
   "scale_y": 256,
-  "scale_z": 256
+  "scale_z": 256,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

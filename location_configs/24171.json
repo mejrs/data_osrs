@@ -1,10 +1,12 @@
 {
   "id": 24171,
   "name": "Work bench",
-  "models_2": [
-    11564
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      11564
+    ]
+  },
   "colours": [
     [
       6466,
@@ -14,5 +16,8 @@
       5545,
       4515
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

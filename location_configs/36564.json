@@ -1,7 +1,12 @@
 {
   "id": 36564,
   "name": "Table",
-  "models_2": [
-    37880
-  ]
+  "object_models": {
+    "models": [
+      37880
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

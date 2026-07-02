@@ -1,8 +1,13 @@
 {
   "id": 1706,
-  "models_2": [
-    1305
-  ],
+  "object_models": {
+    "models": [
+      1305
+    ]
+  },
   "unknown_19": 0,
-  "mapscene": 47
+  "mapscene": 47,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,15 +1,20 @@
 {
   "id": 1967,
   "name": "Tree Door",
-  "models_2": [
-    1350
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1350
+    ]
+  },
   "actions": [
     "Open",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

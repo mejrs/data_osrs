@@ -1,37 +1,24 @@
 {
   "id": 60248,
-  "name": "Oak cargo hold",
-  "models_2": [
-    58157
-  ],
-  "is_transparent": true,
-  "unknown_19": 1,
-  "ambient": 15,
-  "actions": [
-    "Open",
-    "Quick-deposit",
-    null,
-    null,
-    "Modify"
-  ],
-  "contrast": 15,
-  "colours": [
-    [
-      21435,
-      26
-    ],
-    [
-      21464,
-      30
-    ],
-    [
-      54203,
-      5660
-    ],
-    [
-      54183,
-      5665
+  "name": "Deadman's chest",
+  "dim_x": 4,
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      34264
     ]
+  },
+  "unknown_19": 1,
+  "unknown_24": 7824,
+  "actions": [
+    "Loot",
+    null,
+    null,
+    null,
+    null
   ],
-  "category": 2343
+  "unknown_90": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

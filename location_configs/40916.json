@@ -1,9 +1,11 @@
 {
   "id": 40916,
   "name": "Statue",
-  "models_2": [
-    41648
-  ],
+  "object_models": {
+    "models": [
+      41648
+    ]
+  },
   "actions": [
     null,
     null,
@@ -11,5 +13,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

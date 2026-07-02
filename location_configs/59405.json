@@ -15,5 +15,8 @@
       60352
     ]
   },
-  "mapscene": 196
+  "mapscene": 196,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

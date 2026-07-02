@@ -1,11 +1,16 @@
 {
   "id": 39574,
   "name": "<col=ff9040>Death's scythe</col>",
-  "models_2": [
-    40614
-  ],
+  "object_models": {
+    "models": [
+      40614
+    ]
+  },
   "ambient": 10,
   "contrast": 10,
   "translate_y": 65535,
-  "mapscene": 81
+  "mapscene": 81,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

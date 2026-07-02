@@ -1,11 +1,13 @@
 {
   "id": 43800,
   "name": "Guardian remains",
-  "models_2": [
-    44025
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      44025
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -13,5 +15,8 @@
   "contrast": 10,
   "scale_x": 192,
   "scale_y": 192,
-  "scale_z": 192
+  "scale_z": 192,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

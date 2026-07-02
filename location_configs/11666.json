@@ -1,9 +1,11 @@
 {
   "id": 11666,
   "name": "ladder",
-  "models_2": [
-    5187
-  ],
+  "object_models": {
+    "models": [
+      5187
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Climb-up",
@@ -26,5 +28,8 @@
       8724
     ]
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

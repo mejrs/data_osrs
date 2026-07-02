@@ -1,10 +1,12 @@
 {
   "id": 39485,
   "name": "Table",
-  "models_2": [
-    40285
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      40285
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Search",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

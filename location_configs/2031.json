@@ -1,9 +1,11 @@
 {
   "id": 2031,
   "name": "Anvil",
-  "models_2": [
-    1251
-  ],
+  "object_models": {
+    "models": [
+      1251
+    ]
+  },
   "actions": [
     "Smith",
     null,
@@ -12,5 +14,8 @@
     null
   ],
   "category": 772,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

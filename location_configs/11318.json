@@ -1,10 +1,12 @@
 {
   "id": 11318,
   "name": "Ship hull",
-  "models_2": [
-    11185
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      11185
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 464,
   "actions": [
@@ -39,5 +41,8 @@
   "unknown_78": {
     "unknown_1": 3082,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

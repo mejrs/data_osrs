@@ -1,14 +1,19 @@
 {
   "id": 4875,
   "name": "Food Stall",
-  "models_2": [
-    4759
-  ],
+  "object_models": {
+    "models": [
+      4759
+    ]
+  },
   "actions": [
     null,
     "Steal from",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

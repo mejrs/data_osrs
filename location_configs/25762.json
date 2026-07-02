@@ -1,10 +1,12 @@
 {
   "id": 25762,
   "name": "Sign",
-  "models_2": [
-    25207,
-    25208
-  ],
+  "object_models": {
+    "models": [
+      25207,
+      25208
+    ]
+  },
   "unknown_24": 4128,
   "ambient": 30,
   "contrast": 25,
@@ -29,5 +31,8 @@
       2225,
       6323
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

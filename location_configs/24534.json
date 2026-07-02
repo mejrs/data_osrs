@@ -1,9 +1,11 @@
 {
   "id": 24534,
   "name": "Storage crate",
-  "models_2": [
-    13975
-  ],
+  "object_models": {
+    "models": [
+      13975
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 25,
@@ -39,5 +41,8 @@
       14216,
       6674
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

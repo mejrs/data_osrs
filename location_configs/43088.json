@@ -1,11 +1,13 @@
 {
   "id": 43088,
   "name": "Door",
-  "models_2": [
-    43509,
-    43506
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      43509,
+      43506
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 9329,
   "ambient": 30,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

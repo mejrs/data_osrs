@@ -1,12 +1,17 @@
 {
   "id": 24907,
-  "models": [
-    [
-      4,
-      2066
-    ]
-  ],
   "name": "Clothes equipment",
+  "object_models_and_types": {
+    "models": [
+      2066
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 30
+  "ambient": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

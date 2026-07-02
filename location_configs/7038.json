@@ -1,10 +1,15 @@
 {
   "id": 7038,
   "name": "Giant Dwarf",
-  "models_2": [
-    7090
-  ],
   "dim_x": 4,
   "dim_y": 4,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      7090
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

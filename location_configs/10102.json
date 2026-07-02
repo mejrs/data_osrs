@@ -1,15 +1,20 @@
 {
   "id": 10102,
   "name": "Blindweed Patch",
-  "models_2": [
-    9870,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      9870,
+      7767
+    ]
+  },
   "actions": [
     "Pick",
     "Inspect",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

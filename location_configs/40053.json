@@ -1,11 +1,13 @@
 {
   "id": 40053,
   "name": "Bed",
-  "models_2": [
-    12396
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12396
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -19,5 +21,8 @@
       926,
       16796
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

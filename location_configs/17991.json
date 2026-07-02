@@ -1,7 +1,12 @@
 {
   "id": 17991,
   "name": "Bush",
-  "models_2": [
-    17667
-  ]
+  "object_models": {
+    "models": [
+      17667
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

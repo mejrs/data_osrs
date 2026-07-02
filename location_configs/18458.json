@@ -1,9 +1,14 @@
 {
   "id": 18458,
   "name": "Child's bed",
-  "models_2": [
-    18215
-  ],
   "dim_x": 2,
-  "ambient": 20
+  "object_models": {
+    "models": [
+      18215
+    ]
+  },
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

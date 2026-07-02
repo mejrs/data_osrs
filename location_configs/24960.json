@@ -1,10 +1,12 @@
 {
   "id": 24960,
   "name": "Hopper",
-  "models_2": [
-    1379
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1379
+    ]
+  },
   "actions": [
     "Fill",
     null,
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "category": 513
+  "category": 513,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

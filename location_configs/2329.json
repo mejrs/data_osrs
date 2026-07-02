@@ -1,11 +1,13 @@
 {
   "id": 2329,
-  "models_2": [
-    25131,
-    25133,
-    25153,
-    22175
-  ],
+  "object_models": {
+    "models": [
+      25131,
+      25133,
+      25153,
+      22175
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_22": true,
@@ -28,5 +30,8 @@
       6674,
       7954
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 54737,
   "name": "Fancy chest",
-  "models_2": [
-    52411
-  ],
+  "object_models": {
+    "models": [
+      52411
+    ]
+  },
   "colours": [
     [
       97,
@@ -13,5 +15,8 @@
       99,
       7768
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

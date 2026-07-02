@@ -1,14 +1,19 @@
 {
   "id": 58043,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       58277
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_22": true,
   "ambient": 10,
   "contrast": 15,
   "unknown_73": true,
-  "maparea_id": 13
+  "maparea_id": 13,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

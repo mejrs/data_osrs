@@ -1,9 +1,14 @@
 {
   "id": 10795,
   "name": "Overhanging rock",
-  "models_2": [
-    724
-  ],
   "dim_x": 2,
-  "dim_y": 4
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      724
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

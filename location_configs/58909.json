@@ -1,10 +1,12 @@
 {
   "id": 58909,
   "name": "Crab trap (full)",
-  "models_2": [
-    59783,
-    59786
-  ],
+  "object_models": {
+    "models": [
+      59783,
+      59786
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -71,5 +73,8 @@
       44727
     ]
   ],
-  "category": 2309
+  "category": 2309,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 51562,
   "name": "Bar",
-  "models_2": [
-    5922
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5922
+    ]
+  },
   "ambient": 10,
   "contrast": 20,
   "colours": [
@@ -24,5 +26,8 @@
       41,
       5532
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

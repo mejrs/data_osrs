@@ -1,9 +1,11 @@
 {
   "id": 27047,
   "name": "<col=ff9040>Overseer's book</col>",
-  "models_2": [
-    29599
-  ],
+  "object_models": {
+    "models": [
+      29599
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

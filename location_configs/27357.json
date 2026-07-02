@@ -1,12 +1,17 @@
 {
   "id": 27357,
   "name": "Table",
-  "models_2": [
-    29939,
-    29952
-  ],
   "dim_x": 5,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      29939,
+      29952
+    ]
+  },
   "unknown_27": false,
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

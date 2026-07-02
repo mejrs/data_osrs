@@ -1,9 +1,11 @@
 {
   "id": 3962,
   "name": "Sulphur",
-  "models_2": [
-    3927
-  ],
+  "object_models": {
+    "models": [
+      3927
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Take",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

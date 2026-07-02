@@ -1,10 +1,12 @@
 {
   "id": 45131,
   "name": "Entry",
-  "models_2": [
-    45376
-  ],
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      45376
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -18,5 +20,8 @@
   ],
   "contrast": 30,
   "category": 1660,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 28892,
   "name": "Crack",
-  "models_2": [
-    31601
-  ],
+  "object_models": {
+    "models": [
+      31601
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

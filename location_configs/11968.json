@@ -1,12 +1,17 @@
 {
   "id": 11968,
   "name": "TzHaar statue",
-  "models_2": [
-    9268
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      9268
+    ]
+  },
   "ambient": 35,
   "contrast": 15,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

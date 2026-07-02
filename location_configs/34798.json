@@ -1,7 +1,12 @@
 {
   "id": 34798,
   "name": "Ruined Pillar",
-  "models_2": [
-    874
-  ]
+  "object_models": {
+    "models": [
+      874
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

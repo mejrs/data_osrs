@@ -1,12 +1,14 @@
 {
   "id": 52463,
   "name": "Table",
-  "models_2": [
-    51376,
-    51387
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      51376,
+      51387
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -37,5 +39,8 @@
   ],
   "category": 157,
   "scale_x": 112,
-  "scale_z": 112
+  "scale_z": 112,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

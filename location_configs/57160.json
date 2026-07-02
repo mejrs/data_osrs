@@ -1,27 +1,21 @@
 {
   "id": 57160,
-  "models": [
-    [
-      0,
-      51892
-    ],
-    [
-      1,
-      51844
-    ],
-    [
-      2,
-      51859
-    ],
-    [
-      3,
-      51839
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      51892,
+      51844,
+      51859,
+      51839,
       51886
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
@@ -59,5 +53,8 @@
       148
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

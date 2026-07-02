@@ -1,10 +1,12 @@
 {
   "id": 8685,
   "name": "Dead watermelons",
-  "models_2": [
-    8183,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8183,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Clear",
@@ -34,5 +36,8 @@
       10155,
       3369
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

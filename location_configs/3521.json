@@ -1,11 +1,13 @@
 {
   "id": 3521,
   "name": "Altar of nature",
-  "models_2": [
-    3571
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      3571
+    ]
+  },
   "actions": [
     "Pray-at",
     null,
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 8
+  "mapscene": 8,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

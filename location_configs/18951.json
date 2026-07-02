@@ -1,14 +1,19 @@
 {
   "id": 18951,
   "name": "Winch bucket",
-  "models_2": [
-    19310
-  ],
+  "object_models": {
+    "models": [
+      19310
+    ]
+  },
   "actions": [
     "Look at",
     "Use",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 1946,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       666
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "unknown_27": false,
@@ -14,5 +16,8 @@
   "textures": {
     "2": 23
   },
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

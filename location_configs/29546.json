@@ -1,18 +1,37 @@
 {
   "id": 29546,
-  "name": "Fairy ring",
-  "models_2": [
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
+  "object_models_and_types": {
+    "models": [
+      38722,
+      38721,
+      38701,
+      38707,
+      38726
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
   "unknown_27": false,
-  "ambient": 60,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (BIR)",
-    null,
-    null
-  ]
+  "ambient": 30,
+  "contrast": 30,
+  "colours": [
+    [
+      43096,
+      43038
+    ]
+  ],
+  "model": false,
+  "scale_y": 32,
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

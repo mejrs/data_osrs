@@ -1,7 +1,12 @@
 {
   "id": 12453,
   "name": "Skulls",
-  "models_2": [
-    13474
-  ]
+  "object_models": {
+    "models": [
+      13474
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

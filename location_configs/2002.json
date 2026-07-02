@@ -1,28 +1,22 @@
 {
   "id": 2002,
-  "models": [
-    [
-      0,
-      634
-    ],
-    [
-      1,
-      635
-    ],
-    [
-      2,
-      574
-    ],
-    [
-      3,
-      575
-    ],
-    [
-      9,
-      576
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      634,
+      635,
+      574,
+      575,
+      576
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -38,5 +32,8 @@
   ],
   "textures": {
     "2": 4
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

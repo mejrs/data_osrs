@@ -1,9 +1,11 @@
 {
   "id": 33583,
   "name": "Tree stump",
-  "models_2": [
-    1629
-  ],
+  "object_models": {
+    "models": [
+      1629
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Inspect",
@@ -19,5 +21,8 @@
     ]
   ],
   "category": 1297,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

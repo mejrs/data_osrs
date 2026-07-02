@@ -1,11 +1,16 @@
 {
   "id": 4285,
-  "models": [
-    [
-      4,
-      4327
-    ]
-  ],
   "name": "Tap",
-  "unknown_19": 1
+  "object_models_and_types": {
+    "models": [
+      4327
+    ],
+    "types": [
+      4
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

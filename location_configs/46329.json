@@ -1,9 +1,11 @@
 {
   "id": 46329,
   "name": "Hole",
-  "models_2": [
-    57461
-  ],
+  "object_models": {
+    "models": [
+      57461
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -17,5 +19,8 @@
   "scale_y": 64,
   "scale_z": 64,
   "unknown_69": 29,
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

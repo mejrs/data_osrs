@@ -1,11 +1,13 @@
 {
   "id": 11398,
   "name": "Our lives",
-  "models_2": [
-    16788
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      16788
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 4354,
   "unknown_27": false,
@@ -19,5 +21,8 @@
   ],
   "contrast": 40,
   "model": false,
-  "mapscene": 66
+  "mapscene": 66,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

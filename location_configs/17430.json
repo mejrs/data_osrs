@@ -1,11 +1,16 @@
 {
   "id": 17430,
   "name": "Mud",
-  "models_2": [
-    17468
-  ],
+  "object_models": {
+    "models": [
+      17468
+    ]
+  },
   "scale_x": 85,
   "scale_y": 85,
   "scale_z": 85,
-  "translate_y": 65534
+  "translate_y": 65534,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

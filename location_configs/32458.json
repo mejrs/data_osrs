@@ -1,11 +1,13 @@
 {
   "id": 32458,
   "name": "History",
-  "models_2": [
-    16788
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      16788
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 4354,
   "unknown_27": false,
@@ -22,5 +24,8 @@
   "scale_x": 160,
   "scale_y": 160,
   "scale_z": 160,
-  "mapscene": 66
+  "mapscene": 66,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

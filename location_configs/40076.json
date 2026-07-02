@@ -1,15 +1,20 @@
 {
   "id": 40076,
   "name": "Dresser space",
-  "models_2": [
-    40792
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      40792
+    ]
+  },
   "actions": [
     null,
     null,
     null,
     "Build",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

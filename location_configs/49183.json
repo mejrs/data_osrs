@@ -1,9 +1,11 @@
 {
   "id": 49183,
   "name": "Nerve Ending (Air)",
-  "models_2": [
-    49013
-  ],
+  "object_models": {
+    "models": [
+      49013
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -26,5 +28,8 @@
       7244
     ]
   ],
-  "category": 1807
+  "category": 1807,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

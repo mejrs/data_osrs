@@ -1,10 +1,12 @@
 {
   "id": 40260,
   "name": "<col=ffff00>Hellcat",
-  "models_2": [
-    13409,
-    13405
-  ],
+  "object_models": {
+    "models": [
+      13409,
+      13405
+    ]
+  },
   "unknown_24": 317,
   "ambient": 40,
   "colours": [
@@ -15,5 +17,8 @@
   ],
   "scale_x": 60,
   "scale_y": 60,
-  "scale_z": 60
+  "scale_z": 60,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

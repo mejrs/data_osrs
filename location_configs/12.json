@@ -1,9 +1,11 @@
 {
   "id": 12,
   "name": "Rock pile",
-  "models_2": [
-    1391
-  ],
+  "object_models": {
+    "models": [
+      1391
+    ]
+  },
   "actions": [
     "Climb-over",
     null,
@@ -16,5 +18,8 @@
       24,
       7721
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

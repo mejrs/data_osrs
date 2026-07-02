@@ -1,10 +1,12 @@
 {
   "id": 53951,
   "name": "Bed chest",
-  "models_2": [
-    53938
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      53938
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 25,
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 15,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

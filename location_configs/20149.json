@@ -1,11 +1,13 @@
 {
   "id": 20149,
   "name": "Scroll table",
-  "models_2": [
-    4325,
-    20650
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      4325,
+      20650
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Take-from",
@@ -31,5 +33,8 @@
       5799,
       5662
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

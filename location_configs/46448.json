@@ -1,9 +1,11 @@
 {
   "id": 46448,
   "name": "Gingerbread hopper",
-  "models_2": [
-    46907
-  ],
+  "object_models": {
+    "models": [
+      46907
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Fill",
@@ -13,5 +15,8 @@
     null
   ],
   "contrast": 20,
-  "category": 1744
+  "category": 1744,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

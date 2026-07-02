@@ -1,11 +1,13 @@
 {
   "id": 13560,
   "name": "Pump and drain",
-  "models_2": [
-    13219,
-    13218
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      13219,
+      13218
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 3720,
   "actions": [
@@ -20,5 +22,8 @@
   "unknown_78": {
     "unknown_1": 2150,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

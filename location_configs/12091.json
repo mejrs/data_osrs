@@ -1,9 +1,14 @@
 {
   "id": 12091,
   "name": "Fairy Queen throne",
-  "models_2": [
-    11943
-  ],
+  "object_models": {
+    "models": [
+      11943
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

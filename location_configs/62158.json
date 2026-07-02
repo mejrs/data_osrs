@@ -1,0 +1,27 @@
+{
+  "id": 62158,
+  "name": "Damaged window",
+  "object_models_and_types": {
+    "models": [
+      60917
+    ],
+    "types": [
+      0
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

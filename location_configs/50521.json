@@ -1,9 +1,11 @@
 {
   "id": 50521,
   "name": "Human detection spell",
-  "models_2": [
-    50440
-  ],
+  "object_models": {
+    "models": [
+      50440
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 10744,
   "ambient": 90,
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": -56
+  "contrast": -56,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

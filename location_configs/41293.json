@@ -1,12 +1,14 @@
 {
   "id": 41293,
   "name": "Debris",
-  "models_2": [
-    18300,
-    18328
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      18300,
+      18328
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 3743,
@@ -14,5 +16,8 @@
   "contrast": 10,
   "category": 1511,
   "model": false,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

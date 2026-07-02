@@ -1,9 +1,11 @@
 {
   "id": 50722,
   "name": "Young tree",
-  "models_2": [
-    19930
-  ],
+  "object_models": {
+    "models": [
+      19930
+    ]
+  },
   "colours": [
     [
       6682,
@@ -12,5 +14,8 @@
   ],
   "unknown_69": 30,
   "unknown_75": 0,
-  "mapscene": 68
+  "mapscene": 68,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

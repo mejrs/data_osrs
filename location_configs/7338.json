@@ -1,10 +1,12 @@
 {
   "id": 7338,
   "name": "Shelves",
-  "models_2": [
-    7392,
-    7681
-  ],
+  "object_models": {
+    "models": [
+      7392,
+      7681
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Search",
@@ -38,5 +40,8 @@
       5400,
       5417
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

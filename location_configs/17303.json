@@ -1,10 +1,12 @@
 {
   "id": 17303,
   "name": "Cupboard",
-  "models_2": [
-    2244
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      2244
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Close",
@@ -27,5 +29,8 @@
       6430
     ]
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

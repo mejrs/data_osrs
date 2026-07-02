@@ -1,9 +1,11 @@
 {
   "id": 44628,
   "name": "Mould jig (Cooling metal)",
-  "models_2": [
-    44834
-  ],
+  "object_models": {
+    "models": [
+      44834
+    ]
+  },
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 0,
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 30,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 13217,
-  "models": [
-    [
-      0,
-      12202
-    ]
-  ],
   "name": "Shuttered window",
+  "object_models_and_types": {
+    "models": [
+      12202
+    ],
+    "types": [
+      0
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -17,5 +19,8 @@
   ],
   "contrast": 25,
   "category": 206,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

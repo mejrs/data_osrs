@@ -1,10 +1,12 @@
 {
   "id": 15448,
   "name": "Repair space",
-  "models_2": [
-    12733
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      12733
+    ]
+  },
   "actions": [
     null,
     null,
@@ -13,6 +15,9 @@
     "Build"
   ],
   "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 2
   }

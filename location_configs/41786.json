@@ -1,10 +1,12 @@
 {
   "id": 41786,
   "name": "Bathtub",
-  "models_2": [
-    11535
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      11535
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Search",
@@ -19,5 +21,8 @@
       10341
     ]
   ],
-  "category": 1561
+  "category": 1561,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

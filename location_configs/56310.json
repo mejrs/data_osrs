@@ -1,11 +1,16 @@
 {
   "id": 56310,
   "name": "Carrot Pin",
-  "models_2": [
-    4245
-  ],
+  "object_models": {
+    "models": [
+      4245
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 12087,
   "ambient": 10,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 15872,
   "name": "Blue flowers",
-  "models_2": [
-    15806
-  ],
+  "object_models": {
+    "models": [
+      15806
+    ]
+  },
   "actions": [
     "Pick",
     null,
@@ -16,5 +18,8 @@
       0,
       43829
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

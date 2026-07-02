@@ -1,11 +1,13 @@
 {
   "id": 55560,
   "name": "Scarecrow",
-  "models_2": [
-    55407,
-    55402,
-    55400
-  ],
+  "object_models": {
+    "models": [
+      55407,
+      55402,
+      55400
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Dig-up",
@@ -44,5 +46,8 @@
       5409,
       9511
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

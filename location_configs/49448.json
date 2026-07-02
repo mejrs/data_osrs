@@ -1,9 +1,11 @@
 {
   "id": 49448,
   "name": "Lava Nerve Ending (Broken)",
-  "models_2": [
-    49009
-  ],
+  "object_models": {
+    "models": [
+      49009
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -17,5 +19,8 @@
   ],
   "contrast": 20,
   "category": 1839,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

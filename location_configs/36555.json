@@ -1,9 +1,11 @@
 {
   "id": 36555,
   "name": "Furnace",
-  "models_2": [
-    37938
-  ],
+  "object_models": {
+    "models": [
+      37938
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 10,
@@ -19,5 +21,8 @@
   "unknown_78": {
     "unknown_1": 2209,
     "unknown_2": 5
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

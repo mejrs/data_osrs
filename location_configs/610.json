@@ -1,14 +1,21 @@
 {
   "id": 610,
   "name": "Workbench",
-  "models_2": [
-    2147
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      2147
+    ]
+  },
   "is_transparent": true,
+  "ambient": 10,
+  "contrast": 15,
   "textures": {
     "22": 16,
     "29": 16
   },
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

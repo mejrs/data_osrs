@@ -1,9 +1,11 @@
 {
   "id": 5252,
   "name": "Fire remains",
-  "models_2": [
-    5200
-  ],
+  "object_models": {
+    "models": [
+      5200
+    ]
+  },
   "unknown_24": 475,
   "actions": [
     "Search",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

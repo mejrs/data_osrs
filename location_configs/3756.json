@@ -1,7 +1,12 @@
 {
   "id": 3756,
   "name": "Slab",
-  "models_2": [
-    15619
-  ]
+  "object_models": {
+    "models": [
+      15619
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

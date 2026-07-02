@@ -1,10 +1,12 @@
 {
   "id": 42203,
   "name": "Bathtub",
-  "models_2": [
-    11535
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      11535
+    ]
+  },
   "ambient": 0,
   "contrast": 10,
   "colours": [
@@ -12,5 +14,8 @@
       43123,
       10341
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

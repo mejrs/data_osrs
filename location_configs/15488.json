@@ -1,10 +1,12 @@
 {
   "id": 15488,
   "name": "Tropical tree",
-  "models_2": [
-    13579
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      13579
+    ]
+  },
   "ambient": 25,
   "colours": [
     [
@@ -19,5 +21,8 @@
       15919,
       14876
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

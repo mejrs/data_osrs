@@ -1,11 +1,16 @@
 {
   "id": 33307,
   "name": "Old Shrine",
-  "models_2": [
-    35871
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      35871
+    ]
+  },
   "unknown_27": false,
-  "ambient": 15
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

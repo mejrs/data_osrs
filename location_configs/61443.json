@@ -1,0 +1,23 @@
+{
+  "id": 61443,
+  "object_models": {
+    "models": [
+      18821
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 15,
+  "contrast": 25,
+  "colours": [
+    [
+      6682,
+      24
+    ]
+  ],
+  "model": false,
+  "scale_y": 205,
+  "translate_z": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

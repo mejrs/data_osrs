@@ -1,11 +1,13 @@
 {
   "id": 52709,
   "name": "Fang of the Colossal Wyrm",
-  "models_2": [
-    52356
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      52356
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Inspect",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

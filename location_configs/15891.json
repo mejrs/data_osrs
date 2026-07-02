@@ -1,9 +1,11 @@
 {
   "id": 15891,
   "name": "Bamboo Ladder",
-  "models_2": [
-    15746
-  ],
+  "object_models": {
+    "models": [
+      15746
+    ]
+  },
   "colours": [
     [
       6585,
@@ -16,5 +18,8 @@
   ],
   "mirror": true,
   "unknown_69": 29,
-  "translate_x": 64
+  "translate_x": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 47587,
   "name": "Broken Pillar",
-  "models_2": [
-    48474
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      48474
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -13,5 +15,8 @@
   "contrast": 30,
   "scale_x": 108,
   "scale_y": 108,
-  "scale_z": 108
+  "scale_z": 108,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

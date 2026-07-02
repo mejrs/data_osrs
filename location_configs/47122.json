@@ -1,11 +1,13 @@
 {
   "id": 47122,
   "name": "Cave",
-  "models_2": [
-    47345
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      47345
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 70,
@@ -18,5 +20,8 @@
   ],
   "contrast": 50,
   "unknown_69": 23,
-  "mapscene": 70
+  "mapscene": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

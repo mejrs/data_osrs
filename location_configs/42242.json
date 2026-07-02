@@ -1,9 +1,11 @@
 {
   "id": 42242,
   "name": "Hay bale",
-  "models_2": [
-    8247
-  ],
+  "object_models": {
+    "models": [
+      8247
+    ]
+  },
   "ambient": 15,
   "contrast": 10,
   "colours": [
@@ -31,5 +33,8 @@
       4387,
       929
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

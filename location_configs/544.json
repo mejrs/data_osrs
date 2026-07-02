@@ -1,10 +1,12 @@
 {
   "id": 544,
   "name": "Broken Fence",
-  "models_2": [
-    31222
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      31222
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "mapscene": 51
+  "mapscene": 51,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

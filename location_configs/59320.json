@@ -1,9 +1,11 @@
 {
   "id": 59320,
   "name": "Dragon scales",
-  "models_2": [
-    58880
-  ],
+  "object_models": {
+    "models": [
+      58880
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chart",
@@ -39,5 +41,8 @@
       3974
     ]
   ],
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

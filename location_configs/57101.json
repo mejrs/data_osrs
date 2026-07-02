@@ -1,13 +1,18 @@
 {
   "id": 57101,
   "name": "Spirit offerings",
-  "models_2": [
-    56604
-  ],
+  "object_models": {
+    "models": [
+      56604
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,
   "contrast": 15,
-  "category": 2214
+  "category": 2214,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

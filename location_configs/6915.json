@@ -1,8 +1,13 @@
 {
   "id": 6915,
   "name": "Rubble",
-  "models_2": [
-    6895
-  ],
-  "dim_x": 3
+  "dim_x": 3,
+  "object_models": {
+    "models": [
+      6895
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

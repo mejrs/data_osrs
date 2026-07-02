@@ -1,20 +1,18 @@
 {
   "id": 21319,
-  "models": [
-    [
-      0,
-      22104
-    ],
-    [
-      3,
-      22105
-    ],
-    [
-      22,
-      22103
-    ]
-  ],
   "name": "Rope bridge",
+  "object_models_and_types": {
+    "models": [
+      22104,
+      22105,
+      22103
+    ],
+    "types": [
+      0,
+      3,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -30,5 +28,8 @@
   "contrast": 20,
   "unknown_73": true,
   "breakroutefinding": true,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

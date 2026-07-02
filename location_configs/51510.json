@@ -1,10 +1,12 @@
 {
   "id": 51510,
   "name": "Dispenser",
-  "models_2": [
-    9073
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      9073
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "contrast": 30,
@@ -29,5 +31,8 @@
       24,
       5524
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

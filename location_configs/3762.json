@@ -1,10 +1,12 @@
 {
   "id": 3762,
   "name": "Secret Door",
-  "models_2": [
-    3806
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      3806
+    ]
+  },
   "unknown_21": true,
   "ambient": 40,
   "actions": [
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 40,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

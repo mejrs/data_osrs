@@ -1,16 +1,21 @@
 {
   "id": 60227,
-  "models": [
-    [
-      0,
-      58427
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      58427
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "ambient": 10,
   "contrast": 25,
   "mirror": true,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

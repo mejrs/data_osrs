@@ -1,9 +1,11 @@
 {
   "id": 20026,
   "name": "Pillar",
-  "models_2": [
-    20339
-  ],
+  "object_models": {
+    "models": [
+      20339
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 5350,
@@ -13,5 +15,8 @@
       18522,
       10167
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,27 +1,24 @@
 {
   "id": 9139,
-  "models": [
-    [
-      0,
-      9076
-    ],
-    [
-      1,
-      9077
-    ],
-    [
-      2,
-      9078
-    ],
-    [
-      3,
-      9079
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      9076,
+      9077,
+      9078,
+      9079,
       9080
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

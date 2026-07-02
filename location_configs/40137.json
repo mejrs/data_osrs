@@ -1,9 +1,11 @@
 {
   "id": 40137,
   "name": "Old Bookshelf",
-  "models_2": [
-    40799
-  ],
+  "object_models": {
+    "models": [
+      40799
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,23 +1,19 @@
 {
   "id": 14558,
-  "models": [
-    [
-      0,
-      14783
-    ],
-    [
-      1,
-      14784
-    ],
-    [
-      2,
-      14785
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      14783,
+      14784,
+      14785,
       14786
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 15,
@@ -47,5 +43,8 @@
       12
     ]
   ],
-  "translate_y": 2
+  "translate_y": 2,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

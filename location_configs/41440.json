@@ -1,13 +1,18 @@
 {
   "id": 41440,
   "name": "Ruins Entrance",
-  "models_2": [
-    42026
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      42026
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
   "contrast": 10,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

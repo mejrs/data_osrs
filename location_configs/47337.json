@@ -1,10 +1,15 @@
 {
   "id": 47337,
   "name": "Tombs of Amascut",
-  "models_2": [
-    46285
-  ],
+  "object_models": {
+    "models": [
+      46285
+    ]
+  },
   "unknown_19": 1,
   "ambient": 40,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

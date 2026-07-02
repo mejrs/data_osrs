@@ -1,12 +1,17 @@
 {
   "id": 30085,
   "name": "Bucket of Blood",
-  "models_2": [
-    32751
-  ],
+  "object_models": {
+    "models": [
+      32751
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
-  "occludes_1": false
+  "occludes_1": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

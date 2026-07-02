@@ -1,12 +1,17 @@
 {
   "id": 42989,
   "name": "REPLACE ME",
-  "models_2": [
-    43371
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      43371
+    ]
+  },
   "unknown_27": false,
   "ambient": 10,
   "contrast": -100,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

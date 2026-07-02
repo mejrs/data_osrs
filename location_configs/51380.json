@@ -1,10 +1,15 @@
 {
   "id": 51380,
   "name": "Blood Mural",
-  "models_2": [
-    52399
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      52399
+    ]
+  },
   "ambient": 50,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

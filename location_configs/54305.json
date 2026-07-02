@@ -1,27 +1,21 @@
 {
   "id": 54305,
-  "models": [
-    [
-      10,
-      51675
-    ],
-    [
-      0,
-      51716
-    ],
-    [
-      1,
-      51723
-    ],
-    [
-      2,
-      51702
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      51675,
+      51716,
+      51723,
+      51702,
       51720
+    ],
+    "types": [
+      10,
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -90,5 +84,8 @@
       40210
     ]
   ],
-  "scale_y": 241
+  "scale_y": 241,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,20 @@
+{
+  "id": 61083,
+  "dim_x": 2,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      60794
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 5,
+  "mirror": true,
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,23 +1,19 @@
 {
   "id": 26060,
-  "models": [
-    [
-      0,
-      27280
-    ],
-    [
-      1,
-      27283
-    ],
-    [
-      2,
-      27284
-    ],
-    [
-      3,
+  "object_models_and_types": {
+    "models": [
+      27280,
+      27283,
+      27284,
       27285
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3
     ]
-  ],
+  },
   "unknown_22": true,
   "unknown_27": false,
   "unknown_28": 16,
@@ -34,5 +30,8 @@
     ]
   ],
   "scale_y": 105,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

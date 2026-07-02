@@ -1,9 +1,11 @@
 {
   "id": 59691,
   "name": "Keg (empty)",
-  "models_2": [
-    58229
-  ],
+  "object_models": {
+    "models": [
+      58229
+    ]
+  },
   "is_transparent": true,
   "ambient": 5,
   "actions": [
@@ -20,5 +22,8 @@
       55
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

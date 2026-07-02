@@ -1,8 +1,13 @@
 {
   "id": 3303,
   "name": "Portcullis",
-  "models_2": [
-    2294
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      2294
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

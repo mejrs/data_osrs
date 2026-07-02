@@ -1,9 +1,11 @@
 {
   "id": 18201,
   "name": "A barrel of rainwater",
-  "models_2": [
-    10145
-  ],
+  "object_models": {
+    "models": [
+      10145
+    ]
+  },
   "colours": [
     [
       5784,
@@ -25,5 +27,8 @@
       38344,
       38205
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

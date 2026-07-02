@@ -1,9 +1,11 @@
 {
   "id": 11245,
   "name": "Powder Barrel",
-  "models_2": [
-    11169
-  ],
+  "object_models": {
+    "models": [
+      11169
+    ]
+  },
   "actions": [
     "Take-powder",
     null,
@@ -28,5 +30,8 @@
       5784,
       6806
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

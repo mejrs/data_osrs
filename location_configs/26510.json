@@ -1,15 +1,20 @@
 {
   "id": 26510,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       27732
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 25,
   "contrast": 25,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

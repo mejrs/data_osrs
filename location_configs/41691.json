@@ -1,12 +1,14 @@
 {
   "id": 41691,
-  "models": [
-    [
-      4,
-      42257
-    ]
-  ],
   "name": "Clan banner",
+  "object_models_and_types": {
+    "models": [
+      42257
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "contrast": 10,
@@ -20,5 +22,8 @@
       38102
     ]
   ],
-  "translate_y": 65466
+  "translate_y": 65466,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

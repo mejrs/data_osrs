@@ -1,10 +1,15 @@
 {
   "id": 11862,
   "name": "Dwarf bath",
-  "models_2": [
-    11604
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      11604
+    ]
+  },
   "is_transparent": true,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

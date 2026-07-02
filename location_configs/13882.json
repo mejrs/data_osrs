@@ -1,10 +1,12 @@
 {
   "id": 13882,
   "name": "Exit",
-  "models_2": [
-    14237
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      14237
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 40,
@@ -40,5 +42,8 @@
       33666,
       900
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

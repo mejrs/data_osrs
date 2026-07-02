@@ -1,9 +1,11 @@
 {
   "id": 881,
   "name": "Manhole",
-  "models_2": [
-    25033
-  ],
+  "object_models": {
+    "models": [
+      25033
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

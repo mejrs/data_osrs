@@ -1,11 +1,16 @@
 {
   "id": 10034,
   "name": "Trap",
-  "models_2": [
-    9737
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      9737
+    ]
+  },
   "unknown_17": false,
-  "unknown_24": 2209
+  "unknown_24": 2209,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

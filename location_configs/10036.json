@@ -1,9 +1,11 @@
 {
   "id": 10036,
   "name": "Rock",
-  "models_2": [
-    9707
-  ],
+  "object_models": {
+    "models": [
+      9707
+    ]
+  },
   "actions": [
     "Climb-down",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

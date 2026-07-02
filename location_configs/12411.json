@@ -1,7 +1,12 @@
 {
   "id": 12411,
   "name": "Saucepan",
-  "models_2": [
-    13478
-  ]
+  "object_models": {
+    "models": [
+      13478
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

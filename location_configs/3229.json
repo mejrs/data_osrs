@@ -1,8 +1,13 @@
 {
   "id": 3229,
   "name": "Trap",
-  "models_2": [
-    2324
-  ],
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      2324
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

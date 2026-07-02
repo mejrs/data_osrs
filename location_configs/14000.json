@@ -1,8 +1,10 @@
 {
   "id": 14000,
-  "models_2": [
-    1433
-  ],
+  "object_models": {
+    "models": [
+      1433
+    ]
+  },
   "unknown_19": 0,
   "actions": [
     "Climb-down",
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

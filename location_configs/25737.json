@@ -1,12 +1,14 @@
 {
   "id": 25737,
-  "models": [
-    [
-      4,
-      2046
-    ]
-  ],
   "name": "Shelf",
+  "object_models_and_types": {
+    "models": [
+      2046
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 50,
   "colours": [
@@ -14,5 +16,8 @@
       6028,
       5532
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

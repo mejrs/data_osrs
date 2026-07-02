@@ -1,10 +1,12 @@
 {
   "id": 41883,
   "name": "Hanging hand",
-  "models_2": [
-    35560,
-    35555
-  ],
+  "object_models": {
+    "models": [
+      35560,
+      35555
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8087,
@@ -13,5 +15,8 @@
   "contrast": -100,
   "scale_x": 64,
   "scale_y": 64,
-  "scale_z": 80
+  "scale_z": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

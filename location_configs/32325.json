@@ -1,9 +1,11 @@
 {
   "id": 32325,
   "name": "Ship",
-  "models_2": [
-    5306
-  ],
+  "object_models": {
+    "models": [
+      5306
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_22": true,
@@ -35,5 +37,8 @@
       12818,
       5673
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

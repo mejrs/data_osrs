@@ -1,16 +1,16 @@
 {
   "id": 26862,
-  "models": [
-    [
-      0,
-      28919
-    ],
-    [
-      3,
-      28917
-    ]
-  ],
   "name": "Arena",
+  "object_models_and_types": {
+    "models": [
+      28919,
+      28917
+    ],
+    "types": [
+      0,
+      3
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -20,5 +20,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

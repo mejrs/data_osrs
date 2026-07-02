@@ -1,9 +1,11 @@
 {
   "id": 13202,
   "name": "Torch",
-  "models_2": [
-    11321
-  ],
+  "object_models": {
+    "models": [
+      11321
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Light",
@@ -13,5 +15,8 @@
     "Remove"
   ],
   "contrast": 20,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,15 @@
 {
   "id": 13998,
   "name": "Weapon rack",
-  "models_2": [
-    5924,
-    6382,
-    6047,
-    5909
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5924,
+      6382,
+      6047,
+      5909
+    ]
+  },
   "actions": [
     "Take-from",
     null,
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "translate_x": 65496
+  "translate_x": 65496,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

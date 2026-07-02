@@ -1,11 +1,16 @@
 {
   "id": 28521,
   "name": "Sleeping bag",
-  "models_2": [
-    30919
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      30919
+    ]
+  },
   "is_transparent": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

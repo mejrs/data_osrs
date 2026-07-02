@@ -1,9 +1,11 @@
 {
   "id": 10079,
   "name": "Copper rocks",
-  "models_2": [
-    1390
-  ],
+  "object_models": {
+    "models": [
+      1390
+    ]
+  },
   "actions": [
     "Mine",
     null,
@@ -16,5 +18,8 @@
       24,
       4510
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

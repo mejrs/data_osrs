@@ -1,12 +1,14 @@
 {
   "id": 15967,
   "name": "Bitternut Tree",
-  "models_2": [
-    15789,
-    15788
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      15789,
+      15788
+    ]
+  },
   "unknown_24": 4245,
   "ambient": 30,
   "colours": [
@@ -16,5 +18,8 @@
     ]
   ],
   "unknown_69": 23,
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

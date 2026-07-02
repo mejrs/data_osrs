@@ -1,7 +1,12 @@
 {
   "id": 583,
   "name": "Vase",
-  "models_2": [
-    918
-  ]
+  "object_models": {
+    "models": [
+      918
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

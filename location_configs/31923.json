@@ -1,10 +1,15 @@
 {
   "id": 31923,
   "name": "Altar of the Occult",
-  "models_2": [
-    32160
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_24": 7303
+  "object_models": {
+    "models": [
+      32160
+    ]
+  },
+  "unknown_24": 7303,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,18 @@
+{
+  "id": 60893,
+  "name": "Well",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      61348
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30,
+  "category": 245,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

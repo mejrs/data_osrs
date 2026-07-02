@@ -1,27 +1,24 @@
 {
   "id": 1806,
-  "models": [
-    [
-      0,
-      837
-    ],
-    [
-      1,
-      838
-    ],
-    [
-      2,
-      766
-    ],
-    [
-      3,
-      767
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      837,
+      838,
+      766,
+      767,
       768
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_22": true,
-  "occludes_1": false
+  "occludes_1": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

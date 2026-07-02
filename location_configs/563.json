@@ -1,9 +1,14 @@
 {
   "id": 563,
   "name": "Statue of a king",
-  "models_2": [
-    1527
-  ],
+  "object_models": {
+    "models": [
+      1527
+    ]
+  },
   "ambient": 10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

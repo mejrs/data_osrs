@@ -1,12 +1,17 @@
 {
   "id": 23950,
   "name": "Catapult",
-  "models_2": [
-    15359,
-    15360,
-    15361,
-    15355
-  ],
   "dim_x": 5,
-  "dim_y": 5
+  "dim_y": 5,
+  "object_models": {
+    "models": [
+      15359,
+      15360,
+      15361,
+      15355
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

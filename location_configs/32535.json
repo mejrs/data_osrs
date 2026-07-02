@@ -1,11 +1,13 @@
 {
   "id": 32535,
   "name": "Rock Pile",
-  "models_2": [
-    3921
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      3921
+    ]
+  },
   "actions": [
     "Clamber",
     null,
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 11
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

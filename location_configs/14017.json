@@ -1,7 +1,12 @@
 {
   "id": 14017,
   "name": "Box of bones",
-  "models_2": [
-    13324
-  ]
+  "object_models": {
+    "models": [
+      13324
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

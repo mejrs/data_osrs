@@ -1,7 +1,12 @@
 {
   "id": 17766,
   "name": "The middle of a fireplace",
-  "models_2": [
-    17824
-  ]
+  "object_models": {
+    "models": [
+      17824
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

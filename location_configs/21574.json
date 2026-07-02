@@ -1,13 +1,18 @@
 {
   "id": 21574,
   "name": "Boulders",
-  "models_2": [
-    15624
-  ],
+  "object_models": {
+    "models": [
+      15624
+    ]
+  },
   "colours": [
     [
       30,
       10266
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

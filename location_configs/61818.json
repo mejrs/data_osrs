@@ -1,0 +1,35 @@
+{
+  "id": 61818,
+  "name": "Bookshelf",
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60579,
+      60573
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 178,
+      "max": 178,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
+}

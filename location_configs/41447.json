@@ -1,10 +1,15 @@
 {
   "id": 41447,
   "name": "Ruins Exit",
-  "models_2": [
-    42028
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      42028
+    ]
+  },
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

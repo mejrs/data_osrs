@@ -1,0 +1,29 @@
+{
+  "id": 61829,
+  "name": "Myrmel door",
+  "object_models_and_types": {
+    "models": [
+      60962
+    ],
+    "types": [
+      0
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2470,
+  "mirror": true,
+  "translate_y": 1,
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

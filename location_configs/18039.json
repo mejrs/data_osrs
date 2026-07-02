@@ -1,9 +1,11 @@
 {
   "id": 18039,
   "name": "Fireplace",
-  "models_2": [
-    17638
-  ],
+  "object_models": {
+    "models": [
+      17638
+    ]
+  },
   "actions": [
     "Look-at",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "scale_y": 160
+  "scale_y": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

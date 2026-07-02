@@ -1,9 +1,14 @@
 {
   "id": 20807,
   "name": "Hay Bales",
-  "models_2": [
-    1459
-  ],
   "dim_x": 2,
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      1459
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

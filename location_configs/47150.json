@@ -1,10 +1,15 @@
 {
   "id": 47150,
-  "models_2": [
-    13908
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      13908
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 0,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

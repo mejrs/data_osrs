@@ -1,15 +1,21 @@
 {
   "id": 52815,
   "name": "Landing Site",
-  "models_2": [
-    52305
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      52305
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 15,
   "contrast": 25,
-  "model": false
+  "model": false,
+  "scale_y": 90,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

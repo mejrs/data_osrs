@@ -1,7 +1,12 @@
 {
   "id": 707,
   "name": "Bell",
-  "models_2": [
-    1266
-  ]
+  "object_models": {
+    "models": [
+      1266
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

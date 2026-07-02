@@ -1,9 +1,11 @@
 {
   "id": 4900,
   "name": "Saradomin Standard",
-  "models_2": [
-    4445
-  ],
+  "object_models": {
+    "models": [
+      4445
+    ]
+  },
   "unknown_24": 1430,
   "actions": [
     "Take",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "mapscene": 28
+  "mapscene": 28,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

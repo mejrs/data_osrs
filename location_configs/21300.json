@@ -1,14 +1,19 @@
 {
   "id": 21300,
   "name": "Chest",
-  "models_2": [
-    21969
-  ],
+  "object_models": {
+    "models": [
+      21969
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

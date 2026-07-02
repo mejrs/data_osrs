@@ -1,11 +1,13 @@
 {
   "id": 5127,
   "name": "Magic tree",
-  "models_2": [
-    12926
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12926
+    ]
+  },
   "actions": [
     null,
     null,
@@ -16,5 +18,8 @@
   "category": 206,
   "scale_x": 118,
   "scale_y": 118,
-  "scale_z": 118
+  "scale_z": 118,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

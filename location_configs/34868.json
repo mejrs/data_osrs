@@ -1,10 +1,15 @@
 {
   "id": 34868,
   "name": "Empty sac",
-  "models_2": [
-    37301
-  ],
+  "object_models": {
+    "models": [
+      37301
+    ]
+  },
   "unknown_27": false,
   "ambient": 40,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

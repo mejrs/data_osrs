@@ -1,9 +1,11 @@
 {
   "id": 52011,
   "name": "Jewellery case",
-  "models_2": [
-    51385
-  ],
+  "object_models": {
+    "models": [
+      51385
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -40,5 +42,8 @@
     ]
   ],
   "category": 1936,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

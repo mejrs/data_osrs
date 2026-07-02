@@ -1,11 +1,13 @@
 {
   "id": 42603,
   "name": "Egg Sac",
-  "models_2": [
-    42845
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      42845
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

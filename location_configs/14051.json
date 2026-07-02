@@ -1,9 +1,11 @@
 {
   "id": 14051,
   "name": "Small Table",
-  "models_2": [
-    9590
-  ],
+  "object_models": {
+    "models": [
+      9590
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -23,5 +25,8 @@
       4643
     ]
   ],
-  "category": 155
+  "category": 155,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

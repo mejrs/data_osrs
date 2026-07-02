@@ -1,12 +1,14 @@
 {
   "id": 60018,
-  "models": [
-    [
-      0,
-      4528
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      4528
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "occludes_1": false,
@@ -22,5 +24,8 @@
   "contrast": 0,
   "scale_x": 128,
   "scale_y": 256,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

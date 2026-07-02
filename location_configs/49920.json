@@ -1,10 +1,12 @@
 {
   "id": 49920,
   "name": "Essence orifice",
-  "models_2": [
-    49790
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      49790
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
@@ -20,5 +22,8 @@
   "contrast": 20,
   "model": false,
   "scale_y": 166,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

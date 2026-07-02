@@ -1,11 +1,13 @@
 {
   "id": 31032,
   "name": "Exit",
-  "models_2": [
-    33496
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      33496
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Climb-up",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "mapscene": 69
+  "mapscene": 69,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

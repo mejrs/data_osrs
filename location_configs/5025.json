@@ -1,16 +1,16 @@
 {
   "id": 5025,
-  "models": [
-    [
-      0,
-      789
-    ],
-    [
-      9,
-      790
-    ]
-  ],
   "name": "Crevasse",
+  "object_models_and_types": {
+    "models": [
+      789,
+      790
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -29,5 +29,8 @@
       6808,
       43123
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

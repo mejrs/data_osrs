@@ -1,11 +1,13 @@
 {
   "id": 38532,
   "name": "Wolf Statue",
-  "models_2": [
-    40041
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      40041
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
   "contrast": 10,
@@ -21,5 +23,8 @@
   ],
   "scale_x": 224,
   "scale_y": 224,
-  "scale_z": 224
+  "scale_z": 224,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

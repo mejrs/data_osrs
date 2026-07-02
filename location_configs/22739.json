@@ -1,12 +1,17 @@
 {
   "id": 22739,
   "name": "Lamppost",
-  "models_2": [
-    23255,
-    23256
-  ],
+  "object_models": {
+    "models": [
+      23255,
+      23256
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

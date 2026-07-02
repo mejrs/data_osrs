@@ -1,19 +1,22 @@
 {
   "id": 42164,
-  "models": [
-    [
-      10,
-      42360
-    ],
-    [
-      22,
-      42358
-    ]
-  ],
   "name": "Ceremonial Pillow",
+  "object_models_and_types": {
+    "models": [
+      42360,
+      42358
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

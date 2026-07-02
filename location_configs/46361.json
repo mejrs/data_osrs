@@ -1,9 +1,11 @@
 {
   "id": 46361,
   "name": "Stone table",
-  "models_2": [
-    46817
-  ],
+  "object_models": {
+    "models": [
+      46817
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -12,5 +14,8 @@
   "category": 155,
   "scale_x": 64,
   "scale_z": 64,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

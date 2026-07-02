@@ -1,11 +1,16 @@
 {
   "id": 54005,
   "name": "Books",
-  "models_2": [
-    53654
-  ],
+  "object_models": {
+    "models": [
+      53654
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

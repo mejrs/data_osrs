@@ -1,9 +1,11 @@
 {
   "id": 18771,
   "name": "Magic cape rack",
-  "models_2": [
-    19002
-  ],
+  "object_models": {
+    "models": [
+      19002
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Search",
@@ -12,5 +14,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

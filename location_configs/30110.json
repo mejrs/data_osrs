@@ -1,12 +1,14 @@
 {
   "id": 30110,
-  "models": [
-    [
-      0,
-      11472
-    ]
-  ],
   "name": "Large door",
+  "object_models_and_types": {
+    "models": [
+      11472
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -15,5 +17,8 @@
     null
   ],
   "category": 1036,
-  "scale_y": 170
+  "scale_y": 170,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

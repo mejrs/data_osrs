@@ -1,10 +1,12 @@
 {
   "id": 59291,
   "name": "Corpse",
-  "models_2": [
-    57609
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      57609
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "actions": [
@@ -17,5 +19,8 @@
   "contrast": 25,
   "category": 2317,
   "model": false,
-  "mapscene": 11
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 47288,
-  "models_2": [
-    47557
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      47557
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_27": false,
@@ -12,5 +14,8 @@
   "contrast": 10,
   "scale_x": 92,
   "scale_y": 92,
-  "scale_z": 92
+  "scale_z": 92,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

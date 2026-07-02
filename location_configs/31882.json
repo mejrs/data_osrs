@@ -1,9 +1,14 @@
 {
   "id": 31882,
   "name": "Table",
-  "models_2": [
-    34536
-  ],
+  "object_models": {
+    "models": [
+      34536
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 15
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

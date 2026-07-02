@@ -1,0 +1,16 @@
+{
+  "id": 62169,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      60639
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 14082,
+  "unknown_75": 0,
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

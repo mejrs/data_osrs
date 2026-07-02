@@ -1,9 +1,11 @@
 {
   "id": 46444,
   "name": "Pile of coal",
-  "models_2": [
-    46899
-  ],
+  "object_models": {
+    "models": [
+      46899
+    ]
+  },
   "unknown_27": false,
   "ambient": 10,
   "actions": [
@@ -14,5 +16,8 @@
     null
   ],
   "contrast": 20,
-  "category": 1743
+  "category": 1743,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

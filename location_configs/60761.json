@@ -1,0 +1,22 @@
+{
+  "id": 60761,
+  "name": "Gate",
+  "object_models_and_types": {
+    "models": [
+      966,
+      967,
+      968
+    ],
+    "types": [
+      0,
+      1,
+      9
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

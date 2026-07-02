@@ -1,11 +1,13 @@
 {
   "id": 30750,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       15995
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_22": true,
   "colours": [
@@ -19,5 +21,8 @@
     ]
   ],
   "unknown_73": true,
-  "mapscene": 46
+  "mapscene": 46,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

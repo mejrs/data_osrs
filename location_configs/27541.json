@@ -1,9 +1,14 @@
 {
   "id": 27541,
   "name": "Piano",
-  "models_2": [
-    30208
-  ],
   "dim_x": 3,
-  "unknown_27": false
+  "object_models": {
+    "models": [
+      30208
+    ]
+  },
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

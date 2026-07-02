@@ -1,16 +1,16 @@
 {
   "id": 2259,
-  "models": [
-    [
-      0,
-      1509
-    ],
-    [
-      9,
-      1511
-    ]
-  ],
   "name": "Metal gate",
+  "object_models_and_types": {
+    "models": [
+      1509,
+      1511
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Open",
@@ -18,5 +18,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

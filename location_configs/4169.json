@@ -1,9 +1,11 @@
 {
   "id": 4169,
   "name": "Frozen table",
-  "models_2": [
-    4302
-  ],
+  "object_models": {
+    "models": [
+      4302
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -18,5 +20,8 @@
       5675,
       5557
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

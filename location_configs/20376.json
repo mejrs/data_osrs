@@ -1,14 +1,19 @@
 {
   "id": 20376,
   "name": "Clothes",
-  "models_2": [
-    1141
-  ],
+  "object_models": {
+    "models": [
+      1141
+    ]
+  },
   "ambient": 30,
   "colours": [
     [
       5912,
       6589
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 55064,
   "name": "Nest",
-  "models_2": [
-    13846
-  ],
   "dim_x": 3,
   "dim_y": 3,
-  "unknown_24": 3343
+  "object_models": {
+    "models": [
+      13846
+    ]
+  },
+  "unknown_24": 3343,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

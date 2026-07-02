@@ -1,10 +1,12 @@
 {
   "id": 41701,
   "name": "Church pew",
-  "models_2": [
-    25060
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      25060
+    ]
+  },
   "ambient": 25,
   "contrast": 5,
   "colours": [
@@ -20,5 +22,8 @@
       8078,
       7706
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

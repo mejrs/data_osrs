@@ -1,9 +1,11 @@
 {
   "id": 8879,
   "name": "Box",
-  "models_2": [
-    8660
-  ],
+  "object_models": {
+    "models": [
+      8660
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

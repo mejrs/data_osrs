@@ -1,0 +1,15 @@
+{
+  "id": 60769,
+  "name": "Warning Sign",
+  "object_models": {
+    "models": [
+      60097
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

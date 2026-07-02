@@ -1,9 +1,11 @@
 {
   "id": 54539,
   "name": "Frozen platform",
-  "models_2": [
-    54482
-  ],
+  "object_models": {
+    "models": [
+      54482
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

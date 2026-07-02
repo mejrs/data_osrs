@@ -1,11 +1,16 @@
 {
   "id": 35807,
   "name": "Mourner",
-  "models_2": [
-    9672
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      9672
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

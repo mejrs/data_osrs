@@ -1,11 +1,13 @@
 {
   "id": 35466,
   "name": "Seal of Trahaearn",
-  "models_2": [
-    38333,
-    38334
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      38333,
+      38334
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 44
+  "contrast": 44,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 24107,
   "name": "Picnic table",
-  "models_2": [
-    1453
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1453
+    ]
+  },
   "is_transparent": true,
   "ambient": 10,
   "colours": [
@@ -22,5 +24,8 @@
       6565
     ]
   ],
-  "category": 157
+  "category": 157,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 3239,
   "name": "Bridge",
-  "models_2": [
-    2293
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      2293
+    ]
+  },
   "is_transparent": true,
-  "unknown_19": 1
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

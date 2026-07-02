@@ -1,12 +1,14 @@
 {
   "id": 4800,
-  "models": [
-    [
-      0,
-      4723
-    ]
-  ],
   "name": "Jail Door",
+  "object_models_and_types": {
+    "models": [
+      4723
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "ambient": 10,
   "actions": [
@@ -26,5 +28,8 @@
       5673,
       5673
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

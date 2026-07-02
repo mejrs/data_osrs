@@ -1,9 +1,11 @@
 {
   "id": 27117,
   "name": "Flowers",
-  "models_2": [
-    1658
-  ],
+  "object_models": {
+    "models": [
+      1658
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "colours": [
@@ -31,5 +33,8 @@
       842,
       55114
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

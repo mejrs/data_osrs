@@ -1,10 +1,12 @@
 {
   "id": 26272,
   "name": "Dominic's coffer",
-  "models_2": [
-    7509,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      7509,
+      7766
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -33,5 +35,8 @@
       6036
     ]
   ],
-  "translate_y": 65466
+  "translate_y": 65466,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

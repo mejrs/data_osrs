@@ -1,9 +1,11 @@
 {
   "id": 2695,
   "name": "Rock",
-  "models_2": [
-    1388
-  ],
+  "object_models": {
+    "models": [
+      1388
+    ]
+  },
   "is_transparent": true,
   "actions": [
     null,
@@ -17,5 +19,8 @@
       24,
       7721
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

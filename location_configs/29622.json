@@ -1,17 +1,54 @@
 {
   "id": 29622,
-  "name": "Fairy ring",
-  "models_2": [
-    47197
+  "dim_x": 4,
+  "object_models": {
+    "models": [
+      40224
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      33,
+      158
+    ],
+    [
+      24,
+      148
+    ],
+    [
+      20,
+      142
+    ],
+    [
+      26,
+      142
+    ],
+    [
+      18,
+      142
+    ],
+    [
+      22,
+      148
+    ],
+    [
+      28,
+      152
+    ],
+    [
+      35,
+      163
+    ],
+    [
+      30,
+      152
+    ]
   ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
-  "actions": [
-    null,
-    "Configure",
-    "Last-destination (BJS)",
-    null,
-    null
-  ]
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

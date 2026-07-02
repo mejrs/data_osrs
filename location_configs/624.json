@@ -1,9 +1,11 @@
 {
   "id": 624,
   "name": "Table",
-  "models_2": [
-    1213
-  ],
+  "object_models": {
+    "models": [
+      1213
+    ]
+  },
   "is_transparent": true,
   "textures": {
     "5": 16,
@@ -12,5 +14,8 @@
   "category": 155,
   "scale_x": 40,
   "scale_y": 100,
-  "scale_z": 100
+  "scale_z": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

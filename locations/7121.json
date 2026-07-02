@@ -1707,7 +1707,7 @@
     "y": 49,
     "id": 7121,
     "type": 22,
-    "rotation": 1
+    "rotation": 3
   },
   {
     "plane": 0,
@@ -1717,7 +1717,7 @@
     "y": 51,
     "id": 7121,
     "type": 22,
-    "rotation": 3
+    "rotation": 1
   },
   {
     "plane": 0,

@@ -1,11 +1,13 @@
 {
   "id": 300,
   "name": "Haystack",
-  "models_2": [
-    1455
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1455
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Search",
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

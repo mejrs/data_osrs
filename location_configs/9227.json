@@ -1,10 +1,12 @@
 {
   "id": 9227,
   "name": "Snowdrop patch",
-  "models_2": [
-    9201,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      9201,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Rake",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

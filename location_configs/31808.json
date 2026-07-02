@@ -1,12 +1,14 @@
 {
   "id": 31808,
-  "models": [
-    [
-      0,
-      4874
-    ]
-  ],
   "name": "Magical Barrier",
+  "object_models_and_types": {
+    "models": [
+      4874
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_24": 1433,
   "actions": [
     "Pass",
@@ -21,5 +23,8 @@
       41913
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

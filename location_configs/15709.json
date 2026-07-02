@@ -1,10 +1,15 @@
 {
   "id": 15709,
   "name": "Zanik",
-  "models_2": [
-    23885
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      23885
+    ]
+  },
   "unknown_24": 4220,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

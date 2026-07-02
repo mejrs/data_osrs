@@ -1,9 +1,11 @@
 {
   "id": 5849,
   "name": "Clump of rocks",
-  "models_2": [
-    3722
-  ],
+  "object_models": {
+    "models": [
+      3722
+    ]
+  },
   "actions": [
     "Jump-across",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

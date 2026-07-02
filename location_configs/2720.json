@@ -1,13 +1,18 @@
 {
   "id": 2720,
-  "models": [
-    [
-      4,
-      25080
-    ]
-  ],
   "name": "Herbs",
+  "object_models_and_types": {
+    "models": [
+      25080
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

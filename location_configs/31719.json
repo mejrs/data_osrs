@@ -1,16 +1,16 @@
 {
   "id": 31719,
-  "models": [
-    [
-      10,
-      1465
-    ],
-    [
-      22,
-      20043
-    ]
-  ],
   "name": "Sand",
+  "object_models_and_types": {
+    "models": [
+      1465,
+      20043
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -24,5 +24,8 @@
   "scale_x": 48,
   "scale_y": 32,
   "scale_z": 48,
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

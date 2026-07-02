@@ -1,9 +1,11 @@
 {
   "id": 32553,
   "name": "Roof",
-  "models_2": [
-    35235
-  ],
+  "object_models": {
+    "models": [
+      35235
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

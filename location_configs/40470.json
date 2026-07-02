@@ -1,27 +1,26 @@
 {
   "id": 40470,
-  "models": [
-    [
-      10,
-      41766
-    ],
-    [
-      0,
-      41765
-    ],
-    [
-      1,
-      41767
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      41766,
+      41765,
+      41767,
       41764
+    ],
+    "types": [
+      10,
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 30,
   "contrast": 10,
-  "scale_y": 160
+  "scale_y": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

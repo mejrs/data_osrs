@@ -1,11 +1,13 @@
 {
   "id": 30258,
   "name": "Lift",
-  "models_2": [
-    32948
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32948
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "actions": [
@@ -17,5 +19,8 @@
   ],
   "model": false,
   "unknown_69": 23,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

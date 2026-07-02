@@ -1,10 +1,15 @@
 {
   "id": 14507,
   "name": "Wilderness Sign",
-  "models_2": [
-    14651,
-    14655
-  ],
+  "object_models": {
+    "models": [
+      14651,
+      14655
+    ]
+  },
   "ambient": 17,
-  "contrast": 17
+  "contrast": 17,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

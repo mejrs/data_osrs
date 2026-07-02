@@ -1,9 +1,11 @@
 {
   "id": 12815,
   "name": "Rubble",
-  "models_2": [
-    14034
-  ],
+  "object_models": {
+    "models": [
+      14034
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Remove",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

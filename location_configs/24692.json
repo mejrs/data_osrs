@@ -1,9 +1,11 @@
 {
   "id": 24692,
   "name": "Boxes",
-  "models_2": [
-    5283
-  ],
+  "object_models": {
+    "models": [
+      5283
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -38,5 +40,8 @@
       6798
     ]
   ],
-  "category": 242
+  "category": 242,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

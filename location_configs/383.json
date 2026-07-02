@@ -1,7 +1,12 @@
 {
   "id": 383,
   "name": "Basket",
-  "models_2": [
-    881
-  ]
+  "object_models": {
+    "models": [
+      881
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

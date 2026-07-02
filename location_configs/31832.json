@@ -1,11 +1,13 @@
 {
   "id": 31832,
   "name": "Mahogany birdhouse",
-  "models_2": [
-    33646,
-    33629,
-    33660
-  ],
+  "object_models": {
+    "models": [
+      33646,
+      33629,
+      33660
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 20,
@@ -37,5 +39,8 @@
       5652,
       2576
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

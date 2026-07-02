@@ -1,9 +1,11 @@
 {
   "id": 25349,
   "name": "Barbarian anvil",
-  "models_2": [
-    26734
-  ],
+  "object_models": {
+    "models": [
+      26734
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Smith",
@@ -37,5 +39,8 @@
       5904,
       7566
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 47752,
   "name": "Large Vial",
-  "models_2": [
-    48567
-  ],
+  "object_models": {
+    "models": [
+      48567
+    ]
+  },
   "unknown_22": true,
   "ambient": 10,
   "contrast": 20,
@@ -24,5 +26,8 @@
       8865,
       20930
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

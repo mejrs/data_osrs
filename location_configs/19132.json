@@ -1,10 +1,15 @@
 {
   "id": 19132,
   "name": "Basket",
-  "models_2": [
-    19492
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 25
+  "object_models": {
+    "models": [
+      19492
+    ]
+  },
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 53633,
-  "models": [
-    [
-      4,
-      53775
-    ]
-  ],
   "name": "Cavity",
+  "object_models_and_types": {
+    "models": [
+      53775
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Enter",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "category": 2018
+  "category": 2018,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

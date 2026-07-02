@@ -1,11 +1,13 @@
 {
   "id": 31034,
   "name": "Giant Boulder",
-  "models_2": [
-    33540
-  ],
   "dim_x": 8,
   "dim_y": 8,
+  "object_models": {
+    "models": [
+      33540
+    ]
+  },
   "is_transparent": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -19,6 +21,9 @@
   ],
   "contrast": 10,
   "category": 1162,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "430": 8
   }

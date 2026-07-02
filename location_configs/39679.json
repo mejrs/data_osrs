@@ -1,11 +1,13 @@
 {
   "id": 39679,
   "name": "Tree",
-  "models_2": [
-    14740
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      14740
+    ]
+  },
   "unknown_21": true,
   "ambient": 10,
   "contrast": 5,
@@ -26,5 +28,8 @@
   "scale_x": 160,
   "scale_y": 190,
   "scale_z": 160,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 27027,
   "name": "Appendage",
-  "models_2": [
-    16036
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      16036
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

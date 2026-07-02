@@ -1,11 +1,13 @@
 {
   "id": 40365,
   "name": "Rocks",
-  "models_2": [
-    10974,
-    11003
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      10974,
+      11003
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Take-pickaxe",
@@ -35,5 +37,8 @@
       7463,
       6024
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

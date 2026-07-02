@@ -1,9 +1,11 @@
 {
   "id": 2580,
   "name": "Scorched earth",
-  "models_2": [
-    1065
-  ],
+  "object_models": {
+    "models": [
+      1065
+    ]
+  },
   "unknown_21": true,
   "colours": [
     [
@@ -15,5 +17,8 @@
       7056
     ]
   ],
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 29769,
   "name": "Tiny storage unit",
-  "models_2": [
-    42297
-  ],
+  "object_models": {
+    "models": [
+      42297
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -14,5 +16,8 @@
     "Build"
   ],
   "category": 972,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

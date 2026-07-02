@@ -1,0 +1,19 @@
+{
+  "id": 61421,
+  "name": "Lab table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60607
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 30,
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

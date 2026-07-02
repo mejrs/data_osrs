@@ -1,13 +1,18 @@
 {
   "id": 54054,
-  "models": [
-    [
-      0,
-      14355
-    ]
-  ],
   "name": "Loose Railing",
+  "object_models_and_types": {
+    "models": [
+      14355
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

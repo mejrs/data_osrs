@@ -1,9 +1,11 @@
 {
   "id": 22443,
   "name": "Rock wall",
-  "models_2": [
-    23107
-  ],
+  "object_models": {
+    "models": [
+      23107
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 35,
@@ -16,5 +18,8 @@
       39,
       10258
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

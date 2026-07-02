@@ -1,13 +1,18 @@
 {
   "id": 11307,
   "name": "Anchor",
-  "models_2": [
-    1840
-  ],
+  "object_models": {
+    "models": [
+      1840
+    ]
+  },
   "colours": [
     [
       5673,
       5904
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

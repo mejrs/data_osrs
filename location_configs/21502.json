@@ -1,19 +1,17 @@
 {
   "id": 21502,
-  "models": [
-    [
-      0,
-      22085
-    ],
-    [
-      1,
-      22086
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      22085,
+      22086,
       22087
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_27": false,
@@ -27,5 +25,8 @@
   ],
   "contrast": 20,
   "category": 630,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

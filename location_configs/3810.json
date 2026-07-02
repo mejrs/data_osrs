@@ -1,17 +1,22 @@
 {
   "id": 3810,
-  "models": [
-    [
-      0,
-      3802
-    ]
-  ],
   "name": "Storeroom Door",
+  "object_models_and_types": {
+    "models": [
+      3802
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Open",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

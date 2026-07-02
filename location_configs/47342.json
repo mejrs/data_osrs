@@ -1,11 +1,13 @@
 {
   "id": 47342,
   "name": "Arena",
-  "models_2": [
-    47954
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      47954
+    ]
+  },
   "unknown_22": true,
   "unknown_27": false,
   "ambient": -20,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 55,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

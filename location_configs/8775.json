@@ -1,12 +1,14 @@
 {
   "id": 8775,
-  "models": [
-    [
-      4,
-      2029
-    ]
-  ],
   "name": "Arrows",
+  "object_models_and_types": {
+    "models": [
+      2029
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -21,5 +23,8 @@
       6798,
       6569
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

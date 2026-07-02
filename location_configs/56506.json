@@ -1,12 +1,14 @@
 {
   "id": 56506,
-  "models": [
-    [
-      0,
-      52079
-    ]
-  ],
   "name": "Window",
+  "object_models_and_types": {
+    "models": [
+      52079
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -19,5 +21,8 @@
     null,
     null
   ],
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

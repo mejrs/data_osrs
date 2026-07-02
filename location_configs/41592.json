@@ -1,15 +1,15 @@
 {
   "id": 41592,
-  "models": [
-    [
-      0,
-      39374
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      39374,
       39387
+    ],
+    "types": [
+      0,
+      9
     ]
-  ],
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
@@ -43,5 +43,8 @@
     ]
   ],
   "model": false,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 27556,
   "name": "Fishing Crane",
-  "models_2": [
-    30350
-  ],
   "dim_x": 2,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      30350
+    ]
+  },
   "unknown_19": 1,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

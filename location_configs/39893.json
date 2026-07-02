@@ -1,14 +1,19 @@
 {
   "id": 39893,
   "name": "Wooden table",
-  "models_2": [
-    12493
-  ],
+  "object_models": {
+    "models": [
+      12493
+    ]
+  },
   "actions": [
     null,
     "Remove",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

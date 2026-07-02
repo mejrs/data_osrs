@@ -1,11 +1,13 @@
 {
   "id": 6277,
   "name": "Cactus",
-  "models_2": [
-    1598
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1598
+    ]
+  },
   "actions": [
     "Hide-behind",
     null,
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mapscene": 4
+  "mapscene": 4,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

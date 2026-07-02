@@ -1,12 +1,17 @@
 {
   "id": 60110,
   "name": "Restraint table",
-  "models_2": [
-    39806,
-    39799
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      39806,
+      39799
+    ]
+  },
   "unknown_19": 1,
   "ambient": -20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

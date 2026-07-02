@@ -1,11 +1,13 @@
 {
   "id": 59373,
   "name": "Prop shipwreck",
-  "models_2": [
-    58895
-  ],
   "dim_x": 5,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      58895
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 13624,
   "actions": [
@@ -17,5 +19,8 @@
   ],
   "category": 2317,
   "model": false,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

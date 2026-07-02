@@ -1,15 +1,20 @@
 {
   "id": 54134,
-  "models": [
-    [
-      17,
+  "object_models_and_types": {
+    "models": [
       29247
+    ],
+    "types": [
+      17
     ]
-  ],
+  },
   "unknown_22": true,
   "ambient": 25,
   "contrast": 25,
   "textures": {
     "6": 16
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

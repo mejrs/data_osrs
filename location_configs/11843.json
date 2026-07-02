@@ -1,9 +1,11 @@
 {
   "id": 11843,
   "name": "Open hot vent door",
-  "models_2": [
-    9291
-  ],
+  "object_models": {
+    "models": [
+      9291
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 2598,
   "unknown_27": false,
@@ -13,5 +15,8 @@
       0
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

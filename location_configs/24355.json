@@ -1,10 +1,12 @@
 {
   "id": 24355,
   "name": "Table",
-  "models_2": [
-    9559
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      9559
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -24,5 +26,8 @@
       7446
     ]
   ],
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

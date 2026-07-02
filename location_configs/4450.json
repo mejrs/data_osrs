@@ -1,10 +1,12 @@
 {
   "id": 4450,
   "name": "Staircase",
-  "models_2": [
-    4428
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      4428
+    ]
+  },
   "unknown_22": true,
   "colours": [
     [
@@ -16,5 +18,8 @@
     "23": 35
   },
   "mirror": true,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 18172,
   "name": "Hammock",
-  "models_2": [
-    17275
-  ],
   "dim_x": 2,
-  "unknown_24": 4431
+  "object_models": {
+    "models": [
+      17275
+    ]
+  },
+  "unknown_24": 4431,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 57217,
   "name": "Sweetcorn",
-  "models_2": [
-    8176,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8176,
+      7766
+    ]
+  },
   "ambient": 15,
   "contrast": 25,
   "colours": [
@@ -26,5 +28,8 @@
     ]
   ],
   "category": 1934,
-  "mapscene": 124
+  "mapscene": 124,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

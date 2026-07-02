@@ -1,12 +1,14 @@
 {
   "id": 31986,
-  "models": [
-    [
-      4,
-      35098
-    ]
-  ],
   "name": "Mythical cape",
+  "object_models_and_types": {
+    "models": [
+      35098
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Teleport",
@@ -16,5 +18,8 @@
     "Remove"
   ],
   "contrast": 25,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

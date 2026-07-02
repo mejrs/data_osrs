@@ -1,15 +1,20 @@
 {
   "id": 53797,
-  "models": [
-    [
-      22,
-      53758
-    ]
-  ],
   "name": "Dead vine",
+  "object_models_and_types": {
+    "models": [
+      53758
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "contrast": 15,
-  "category": 2025
+  "category": 2025,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

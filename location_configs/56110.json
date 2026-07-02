@@ -1,9 +1,11 @@
 {
   "id": 56110,
   "name": "Teak display",
-  "models_2": [
-    56053
-  ],
+  "object_models": {
+    "models": [
+      56053
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -24,5 +26,8 @@
     ]
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

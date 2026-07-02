@@ -1,11 +1,13 @@
 {
   "id": 30157,
   "name": "Furnace",
-  "models_2": [
-    11546
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      11546
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -29,5 +31,8 @@
       898
     ]
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

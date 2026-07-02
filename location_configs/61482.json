@@ -1,0 +1,19 @@
+{
+  "id": 61482,
+  "name": "Mortuary table",
+  "dim_x": 2,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      60609
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 30,
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

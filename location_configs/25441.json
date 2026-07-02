@@ -1,11 +1,13 @@
 {
   "id": 25441,
   "name": "Goblin stove",
-  "models_2": [
-    26908,
-    26903
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      26908,
+      26903
+    ]
+  },
   "unknown_24": 3105,
   "ambient": 5,
   "actions": [
@@ -45,5 +47,8 @@
   "unknown_78": {
     "unknown_1": 2199,
     "unknown_2": 5
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

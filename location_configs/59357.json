@@ -1,9 +1,11 @@
 {
   "id": 59357,
   "name": "Bird nest",
-  "models_2": [
-    49903
-  ],
+  "object_models": {
+    "models": [
+      49903
+    ]
+  },
   "unknown_21": true,
   "ambient": 10,
   "actions": [
@@ -40,5 +42,8 @@
       5281
     ]
   ],
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

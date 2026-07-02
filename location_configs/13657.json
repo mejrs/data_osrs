@@ -1,9 +1,11 @@
 {
   "id": 13657,
   "name": "Telescope",
-  "models_2": [
-    13136
-  ],
+  "object_models": {
+    "models": [
+      13136
+    ]
+  },
   "actions": [
     "Observe",
     null,
@@ -12,5 +14,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

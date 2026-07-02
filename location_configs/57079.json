@@ -1,9 +1,11 @@
 {
   "id": 57079,
   "name": "Maple totem",
-  "models_2": [
-    57001
-  ],
+  "object_models": {
+    "models": [
+      57001
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -37,5 +39,8 @@
       6466,
       3877
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

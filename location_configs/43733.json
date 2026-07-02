@@ -1,11 +1,13 @@
 {
   "id": 43733,
   "name": "Weak cells",
-  "models_2": [
-    43952
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      43952
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 15,
@@ -22,5 +24,8 @@
       960,
       127
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

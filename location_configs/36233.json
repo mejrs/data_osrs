@@ -1,14 +1,19 @@
 {
   "id": 36233,
   "name": "Rope bridge",
-  "models_2": [
-    37827
-  ],
+  "object_models": {
+    "models": [
+      37827
+    ]
+  },
   "actions": [
     "Cross",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

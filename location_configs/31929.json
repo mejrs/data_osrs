@@ -1,12 +1,17 @@
 {
   "id": 31929,
   "name": "Deadman display",
-  "models_2": [
-    34563
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      34563
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

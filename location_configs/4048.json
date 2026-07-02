@@ -1,10 +1,15 @@
 {
   "id": 4048,
   "name": "Tree",
-  "models_2": [
-    4080
-  ],
+  "object_models": {
+    "models": [
+      4080
+    ]
+  },
   "unknown_22": true,
   "unknown_81": 80,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

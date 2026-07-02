@@ -1,14 +1,19 @@
 {
   "id": 4983,
   "name": "Corpse",
-  "models_2": [
-    1079
-  ],
+  "object_models": {
+    "models": [
+      1079
+    ]
+  },
   "unknown_17": false,
   "colours": [
     [
       6241,
       17459
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

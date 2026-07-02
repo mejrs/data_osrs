@@ -1,16 +1,16 @@
 {
   "id": 19207,
-  "models": [
-    [
-      10,
-      15613
-    ],
-    [
-      0,
-      15614
-    ]
-  ],
   "name": "Gate of War",
+  "object_models_and_types": {
+    "models": [
+      15613,
+      15614
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 4284,
@@ -21,5 +21,8 @@
     null,
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

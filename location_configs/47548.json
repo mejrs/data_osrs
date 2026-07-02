@@ -1,11 +1,13 @@
 {
   "id": 47548,
   "name": "<col=ffff00>Extremity</col>",
-  "models_2": [
-    48761
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      48761
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 10185,
@@ -22,6 +24,9 @@
     ]
   ],
   "category": 1813,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

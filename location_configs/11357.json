@@ -1,8 +1,13 @@
 {
   "id": 11357,
   "name": "Portal machine",
-  "models_2": [
-    11248
-  ],
-  "unknown_24": 3173
+  "object_models": {
+    "models": [
+      11248
+    ]
+  },
+  "unknown_24": 3173,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

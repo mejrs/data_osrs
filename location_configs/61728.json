@@ -1,0 +1,28 @@
+{
+  "id": 61728,
+  "name": "Venator corpse",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61210,
+      61209
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2465,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

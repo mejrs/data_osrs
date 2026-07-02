@@ -1,11 +1,16 @@
 {
   "id": 36593,
   "name": "Cenotaph",
-  "models_2": [
-    37830
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37830
+    ]
+  },
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

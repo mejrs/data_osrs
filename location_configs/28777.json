@@ -1,9 +1,11 @@
 {
   "id": 28777,
   "name": "Floor spikes",
-  "models_2": [
-    3645
-  ],
+  "object_models": {
+    "models": [
+      3645
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 1112,
@@ -16,5 +18,8 @@
     null
   ],
   "translate_y": 65535,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

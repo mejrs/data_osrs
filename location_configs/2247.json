@@ -1,12 +1,14 @@
 {
   "id": 2247,
-  "models": [
-    [
-      0,
-      1762
-    ]
-  ],
   "name": "Tomb doors",
+  "object_models_and_types": {
+    "models": [
+      1762
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Open",
     "Search",
@@ -24,5 +26,8 @@
       5231
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

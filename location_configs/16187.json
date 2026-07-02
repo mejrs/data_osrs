@@ -1,20 +1,18 @@
 {
   "id": 16187,
-  "models": [
-    [
-      0,
-      16163
-    ],
-    [
-      1,
-      16164
-    ],
-    [
-      9,
-      16165
-    ]
-  ],
   "name": "Cloud bank",
+  "object_models_and_types": {
+    "models": [
+      16163,
+      16164,
+      16165
+    ],
+    "types": [
+      0,
+      1,
+      9
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -25,5 +23,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

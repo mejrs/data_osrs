@@ -1,9 +1,11 @@
 {
   "id": 3679,
   "name": "Standard",
-  "models_2": [
-    1499
-  ],
+  "object_models": {
+    "models": [
+      1499
+    ]
+  },
   "colours": [
     [
       43957,
@@ -13,5 +15,8 @@
       115,
       86
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

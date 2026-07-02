@@ -1,0 +1,14 @@
+{
+  "id": 61121,
+  "name": "Solid ground",
+  "object_models": {
+    "models": [
+      60989
+    ]
+  },
+  "ambient": 20,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

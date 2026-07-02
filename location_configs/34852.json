@@ -1,10 +1,12 @@
 {
   "id": 34852,
   "name": "Stone Relief",
-  "models_2": [
-    37331
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      37331
+    ]
+  },
   "ambient": 40,
   "actions": [
     "Travel",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

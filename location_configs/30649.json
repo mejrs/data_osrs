@@ -1,11 +1,13 @@
 {
   "id": 30649,
   "name": "Stump",
-  "models_2": [
-    33724
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      33724
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -18,5 +20,8 @@
     null,
     null
   ],
-  "category": 1154
+  "category": 1154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

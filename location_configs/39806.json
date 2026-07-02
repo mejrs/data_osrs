@@ -1,12 +1,14 @@
 {
   "id": 39806,
-  "name": "Herbs",
-  "models_2": [
-    7875,
-    10772
-  ],
+  "name": "Torstol",
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7875,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick",
@@ -28,5 +30,8 @@
       19992,
       22422
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,38 @@
 {
   "id": 47196,
-  "models": [
+  "object_models": {
+    "models": [
+      2867
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
     [
-      22,
-      47462
+      54164,
+      5652
+    ],
+    [
+      54174,
+      5656
+    ],
+    [
+      54183,
+      5660
+    ],
+    [
+      54193,
+      5662
+    ],
+    [
+      54203,
+      5665
     ]
   ],
-  "unknown_19": 0,
-  "ambient": 20,
-  "contrast": 20
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

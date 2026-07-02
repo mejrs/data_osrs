@@ -1,9 +1,11 @@
 {
   "id": 51371,
   "name": "Supply crates",
-  "models_2": [
-    29965
-  ],
+  "object_models": {
+    "models": [
+      29965
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 10,
@@ -40,5 +42,8 @@
       5904,
       148
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

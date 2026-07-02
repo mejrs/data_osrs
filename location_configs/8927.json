@@ -1,11 +1,13 @@
 {
   "id": 8927,
   "name": "Well",
-  "models_2": [
-    1410
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1410
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -33,5 +35,8 @@
       10275
     ]
   ],
-  "category": 245
+  "category": 245,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,20 +1,18 @@
 {
   "id": 12737,
-  "models": [
-    [
-      0,
-      4468
-    ],
-    [
-      3,
-      4469
-    ],
-    [
-      9,
-      4470
-    ]
-  ],
   "name": "Broken wall",
+  "object_models_and_types": {
+    "models": [
+      4468,
+      4469,
+      4470
+    ],
+    "types": [
+      0,
+      3,
+      9
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Climb-over",
@@ -49,5 +47,8 @@
       13592
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

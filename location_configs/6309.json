@@ -1,13 +1,18 @@
 {
   "id": 6309,
-  "models": [
-    [
-      4,
-      6159
-    ]
-  ],
   "name": "Alcove",
+  "object_models_and_types": {
+    "models": [
+      6159
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

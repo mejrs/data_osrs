@@ -1,0 +1,17 @@
+{
+  "id": 60894,
+  "name": "Creature remains",
+  "object_models": {
+    "models": [
+      61177
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30,
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

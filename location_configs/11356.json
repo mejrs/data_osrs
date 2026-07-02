@@ -1,10 +1,12 @@
 {
   "id": 11356,
   "name": "Portal Home",
-  "models_2": [
-    11231
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      11231
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 3174,
   "ambient": 10,
@@ -38,5 +40,8 @@
       119
     ]
   ],
-  "mapscene": 64
+  "mapscene": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

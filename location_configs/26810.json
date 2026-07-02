@@ -1,10 +1,12 @@
 {
   "id": 26810,
   "name": "Poll booth",
-  "models_2": [
-    28901,
-    28902
-  ],
+  "object_models": {
+    "models": [
+      28901,
+      28902
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 7156,
   "unknown_27": false,
@@ -40,5 +42,8 @@
   "scale_y": 78,
   "scale_z": 78,
   "unknown_69": 29,
-  "translate_z": 65520
+  "translate_z": 65520,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

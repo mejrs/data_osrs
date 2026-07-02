@@ -1,8 +1,13 @@
 {
   "id": 3041,
   "name": "Workbench",
-  "models_2": [
-    24713
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      24713
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

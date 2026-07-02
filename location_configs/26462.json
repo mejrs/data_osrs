@@ -1,9 +1,11 @@
 {
   "id": 26462,
   "name": "Barrel",
-  "models_2": [
-    25200
-  ],
+  "object_models": {
+    "models": [
+      25200
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Claim-staves",
@@ -33,5 +35,8 @@
       5904,
       7954
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 54926,
   "name": "Mixing vessel (Anti-leech lotion)",
-  "models_2": [
-    54865
-  ],
+  "object_models": {
+    "models": [
+      54865
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 11628,
@@ -47,5 +49,8 @@
       16679
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

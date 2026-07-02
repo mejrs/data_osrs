@@ -1,0 +1,24 @@
+{
+  "id": 61605,
+  "name": "Stairs",
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      47381
+    ]
+  },
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 2463,
+  "unknown_69": 29,
+  "translate_y": 1,
+  "mapscene": 69,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

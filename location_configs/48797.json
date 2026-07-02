@@ -1,18 +1,18 @@
 {
   "id": 48797,
-  "models": [
-    [
-      10,
-      47599
-    ],
-    [
-      22,
-      56548
-    ]
-  ],
   "name": "Steps",
   "dim_x": 5,
   "dim_y": 5,
+  "object_models_and_types": {
+    "models": [
+      47599,
+      56548
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -25,5 +25,8 @@
   ],
   "scale_x": 608,
   "scale_y": 64,
-  "scale_z": 608
+  "scale_z": 608,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

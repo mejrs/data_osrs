@@ -1,8 +1,13 @@
 {
   "id": 1208,
   "name": "Vine",
-  "models_2": [
-    1608
-  ],
-  "unknown_21": true
+  "object_models": {
+    "models": [
+      1608
+    ]
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

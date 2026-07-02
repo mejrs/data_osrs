@@ -1,7 +1,12 @@
 {
   "id": 13590,
   "name": "Junk",
-  "models_2": [
-    14880
-  ]
+  "object_models": {
+    "models": [
+      14880
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

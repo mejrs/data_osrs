@@ -1,12 +1,14 @@
 {
   "id": 11621,
-  "models": [
-    [
-      0,
-      639
-    ]
-  ],
   "name": "Longhall door",
+  "object_models_and_types": {
+    "models": [
+      639
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -40,5 +42,8 @@
       5910
     ]
   ],
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

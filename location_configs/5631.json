@@ -1,16 +1,16 @@
 {
   "id": 5631,
-  "models": [
-    [
-      0,
-      13154
-    ],
-    [
-      2,
-      13155
-    ]
-  ],
   "name": "Picket fence",
+  "object_models_and_types": {
+    "models": [
+      13154,
+      13155
+    ],
+    "types": [
+      0,
+      2
+    ]
+  },
   "is_transparent": true,
   "actions": [
     null,
@@ -19,5 +19,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

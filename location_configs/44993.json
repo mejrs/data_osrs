@@ -1,11 +1,16 @@
 {
   "id": 44993,
   "name": "Pot",
-  "models_2": [
-    46160
-  ],
+  "object_models": {
+    "models": [
+      46160
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

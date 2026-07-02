@@ -1,14 +1,19 @@
 {
   "id": 45640,
   "name": "Pillar",
-  "models_2": [
-    45516
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      45516
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 9712,
   "ambient": -20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 16649,
   "name": "Ectofuntus",
-  "models_2": [
-    14304,
-    14305
-  ],
+  "object_models": {
+    "models": [
+      14304,
+      14305
+    ]
+  },
   "unknown_24": 1657,
   "ambient": 70,
   "contrast": 30,
@@ -36,5 +38,8 @@
   ],
   "scale_x": 48,
   "scale_y": 48,
-  "scale_z": 48
+  "scale_z": 48,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

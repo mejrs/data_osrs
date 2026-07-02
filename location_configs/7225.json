@@ -1,18 +1,18 @@
 {
   "id": 7225,
-  "models": [
-    [
-      10,
-      7579
-    ],
-    [
-      22,
-      7580
-    ]
-  ],
   "name": "Wall",
   "dim_x": 2,
   "dim_y": 3,
+  "object_models_and_types": {
+    "models": [
+      7579,
+      7580
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_24": 2198,
   "colours": [
@@ -37,5 +37,8 @@
       3604
     ]
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

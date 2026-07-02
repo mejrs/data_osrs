@@ -1,10 +1,15 @@
 {
   "id": 3645,
   "name": "Plough",
-  "models_2": [
-    25301
-  ],
   "dim_x": 3,
   "dim_y": 2,
-  "ambient": 15
+  "object_models": {
+    "models": [
+      25301
+    ]
+  },
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 11832,
   "name": "Cave entrance",
-  "models_2": [
-    9288
-  ],
   "dim_x": 3,
   "dim_y": 2,
-  "unknown_21": true
+  "object_models": {
+    "models": [
+      9288
+    ]
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

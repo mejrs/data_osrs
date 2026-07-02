@@ -1,10 +1,12 @@
 {
   "id": 23960,
   "name": "Dummy",
-  "models_2": [
-    15365,
-    15368
-  ],
+  "object_models": {
+    "models": [
+      15365,
+      15368
+    ]
+  },
   "unknown_24": 4163,
   "actions": [
     "Hit",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 394
+  "category": 394,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

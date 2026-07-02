@@ -1,8 +1,10 @@
 {
   "id": 9478,
-  "models_2": [
-    5469
-  ],
+  "object_models": {
+    "models": [
+      5469
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "textures": {
@@ -10,5 +12,8 @@
   },
   "translate_x": 0,
   "translate_y": 65440,
-  "translate_z": 0
+  "translate_z": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

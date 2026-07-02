@@ -1,11 +1,13 @@
 {
   "id": 26259,
   "name": "Spirit tree",
-  "models_2": [
-    2851
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      2851
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 332,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

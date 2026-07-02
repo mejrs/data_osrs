@@ -1,18 +1,52 @@
 {
   "id": 29423,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    32111
-  ],
+  "name": "Ornate trophy pedestal",
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      41709,
+      41705
+    ]
+  },
   "unknown_19": 1,
-  "unknown_27": false,
+  "ambient": 20,
   "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (AIS)",
-    "Remove"
-  ]
+    null,
+    "Inspect",
+    "Remove-trophy",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      48476,
+      6075
+    ],
+    [
+      48941,
+      801
+    ],
+    [
+      48918,
+      138
+    ],
+    [
+      52160,
+      924
+    ],
+    [
+      51887,
+      916
+    ]
+  ],
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
+  "params": {
+    "429": 2,
+    "430": 2
+  }
 }

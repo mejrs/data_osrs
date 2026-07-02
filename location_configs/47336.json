@@ -1,9 +1,11 @@
 {
   "id": 47336,
   "name": "Barrier",
-  "models_2": [
-    35730
-  ],
+  "object_models": {
+    "models": [
+      35730
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 7929,
   "unknown_27": false,
@@ -18,5 +20,8 @@
   "contrast": 20,
   "category": 1766,
   "model": false,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

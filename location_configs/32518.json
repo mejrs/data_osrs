@@ -1,9 +1,14 @@
 {
   "id": 32518,
   "name": "Broken Plantpot",
-  "models_2": [
-    16352
-  ],
+  "object_models": {
+    "models": [
+      16352
+    ]
+  },
   "unknown_19": 1,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

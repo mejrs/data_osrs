@@ -1,9 +1,14 @@
 {
   "id": 16475,
   "name": "Coal",
-  "models_2": [
-    29101
-  ],
+  "object_models": {
+    "models": [
+      29101
+    ]
+  },
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,18 +1,18 @@
 {
   "id": 28922,
-  "models": [
-    [
-      10,
-      31600
-    ],
-    [
-      13,
-      31657
-    ]
-  ],
   "name": "Inanimate Altar",
   "dim_x": 2,
   "dim_y": 2,
+  "object_models_and_types": {
+    "models": [
+      31600,
+      31657
+    ],
+    "types": [
+      10,
+      13
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -20,5 +20,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

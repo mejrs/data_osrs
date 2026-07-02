@@ -1,9 +1,11 @@
 {
   "id": 27722,
   "name": "Destroyed furniture",
-  "models_2": [
-    30300
-  ],
+  "object_models": {
+    "models": [
+      30300
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "colours": [
@@ -15,5 +17,8 @@
       7585,
       6430
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

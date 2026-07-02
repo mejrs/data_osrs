@@ -1,10 +1,15 @@
 {
   "id": 6438,
   "name": "Vampyre tomb",
-  "models_2": [
-    6357
-  ],
   "dim_x": 5,
   "dim_y": 3,
-  "unknown_24": 1915
+  "object_models": {
+    "models": [
+      6357
+    ]
+  },
+  "unknown_24": 1915,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

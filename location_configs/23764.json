@@ -1,12 +1,17 @@
 {
   "id": 23764,
-  "models": [
-    [
-      12,
+  "object_models_and_types": {
+    "models": [
       25230
+    ],
+    "types": [
+      12
     ]
-  ],
+  },
   "unknown_22": true,
   "ambient": 30,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

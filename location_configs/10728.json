@@ -1,9 +1,11 @@
 {
   "id": 10728,
   "name": "Bones",
-  "models_2": [
-    10595
-  ],
+  "object_models": {
+    "models": [
+      10595
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

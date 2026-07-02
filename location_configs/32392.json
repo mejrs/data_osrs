@@ -1,13 +1,18 @@
 {
   "id": 32392,
   "name": "Tomb",
-  "models_2": [
-    34794
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      34794
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 7937,
   "ambient": 15,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

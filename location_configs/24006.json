@@ -1,8 +1,13 @@
 {
   "id": 24006,
   "name": "Cabinet",
-  "models_2": [
-    11553
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      11553
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

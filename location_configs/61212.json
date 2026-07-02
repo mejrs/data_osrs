@@ -1,0 +1,34 @@
+{
+  "id": 61212,
+  "name": "Front door",
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      60815
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 100,
+  "colours": [
+    [
+      284,
+      5404
+    ],
+    [
+      278,
+      5400
+    ],
+    [
+      274,
+      5392
+    ]
+  ],
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

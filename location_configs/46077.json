@@ -1,9 +1,11 @@
 {
   "id": 46077,
   "name": "Sack",
-  "models_2": [
-    5494
-  ],
+  "object_models": {
+    "models": [
+      5494
+    ]
+  },
   "ambient": 40,
   "actions": [
     "Search",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "category": 220
+  "category": 220,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

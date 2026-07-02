@@ -1,8 +1,13 @@
 {
   "id": 2270,
   "name": "Plant",
-  "models_2": [
-    1617
-  ],
-  "mapscene": 5
+  "object_models": {
+    "models": [
+      1617
+    ]
+  },
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

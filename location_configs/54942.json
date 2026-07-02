@@ -1,10 +1,12 @@
 {
   "id": 54942,
   "name": "Mature digweed",
-  "models_2": [
-    54489,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      54489,
+      7766
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
   "actions": [
@@ -20,5 +22,8 @@
       21799,
       21801
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 30988,
   "name": "Fossil Storage",
-  "models_2": [
-    33917
-  ],
+  "object_models": {
+    "models": [
+      33917
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "category": 1161
+  "category": 1161,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

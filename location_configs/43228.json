@@ -1,8 +1,10 @@
 {
   "id": 43228,
-  "models_2": [
-    43558
-  ],
+  "object_models": {
+    "models": [
+      43558
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
@@ -24,5 +26,8 @@
   ],
   "mirror": true,
   "scale_y": 64,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

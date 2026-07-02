@@ -1,9 +1,11 @@
 {
   "id": 49179,
   "name": "Abyssal Tether",
-  "models_2": [
-    49010
-  ],
+  "object_models": {
+    "models": [
+      49010
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -25,5 +27,8 @@
       39382,
       39366
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 1617,
-  "models_2": [
-    2193
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      2193
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
-  "occludes_1": false
+  "occludes_1": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 627,
-  "models_2": [
-    1247
-  ],
+  "object_models": {
+    "models": [
+      1247
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_22": true,
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

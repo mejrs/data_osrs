@@ -1,12 +1,14 @@
 {
   "id": 14874,
-  "models": [
-    [
-      4,
-      5973
-    ]
-  ],
   "name": "Hanging meat",
+  "object_models_and_types": {
+    "models": [
+      5973
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 50,
   "colours": [
@@ -18,5 +20,8 @@
       6697,
       5541
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

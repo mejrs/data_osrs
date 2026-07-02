@@ -1,11 +1,13 @@
 {
   "id": 43689,
   "name": "Fountain",
-  "models_2": [
-    452
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      452
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 5771,
   "unknown_27": false,
@@ -14,5 +16,8 @@
   "unknown_78": {
     "unknown_1": 2150,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

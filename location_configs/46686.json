@@ -1,9 +1,11 @@
 {
   "id": 46686,
   "name": "Lever",
-  "models_2": [
-    47101
-  ],
+  "object_models": {
+    "models": [
+      47101
+    ]
+  },
   "unknown_27": false,
   "ambient": 0,
   "actions": [
@@ -14,5 +16,8 @@
     null
   ],
   "contrast": 35,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 21882,
   "name": "Pipe",
-  "models_2": [
-    22637
-  ],
+  "object_models": {
+    "models": [
+      22637
+    ]
+  },
   "ambient": 25,
   "contrast": 25,
-  "translate_y": 11
+  "translate_y": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

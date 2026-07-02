@@ -1,9 +1,14 @@
 {
   "id": 16470,
   "name": "Whetstone",
-  "models_2": [
-    29104
-  ],
+  "object_models": {
+    "models": [
+      29104
+    ]
+  },
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

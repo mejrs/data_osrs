@@ -1,13 +1,18 @@
 {
   "id": 34708,
-  "models_2": [
-    8040
-  ],
   "dim_x": 5,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      8040
+    ]
+  },
   "unknown_19": 0,
   "ambient": 25,
   "scale_x": 96,
   "scale_y": 112,
-  "scale_z": 96
+  "scale_z": 96,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

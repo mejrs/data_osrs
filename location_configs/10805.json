@@ -1,15 +1,20 @@
 {
   "id": 10805,
   "name": "Sandy's Desk",
-  "models_2": [
-    10715
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      10715
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

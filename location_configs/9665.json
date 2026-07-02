@@ -1,9 +1,11 @@
 {
   "id": 9665,
   "name": "Roots",
-  "models_2": [
-    2173
-  ],
+  "object_models": {
+    "models": [
+      2173
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -11,5 +13,8 @@
       5665
     ]
   ],
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

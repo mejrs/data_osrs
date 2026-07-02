@@ -1,0 +1,23 @@
+{
+  "id": 61970,
+  "name": "Dead venator",
+  "dim_x": 5,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      61557
+    ]
+  },
+  "ambient": 10,
+  "actions": [
+    "Harvest-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

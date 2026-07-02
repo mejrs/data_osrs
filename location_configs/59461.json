@@ -1,10 +1,12 @@
 {
   "id": 59461,
   "name": "Small brazier",
-  "models_2": [
-    11323,
-    11320
-  ],
+  "object_models": {
+    "models": [
+      11323,
+      11320
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 3105,
   "unknown_27": false,
@@ -17,5 +19,8 @@
     "Settings"
   ],
   "contrast": 20,
-  "category": 2320
+  "category": 2320,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

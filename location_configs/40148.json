@@ -1,9 +1,11 @@
 {
   "id": 40148,
   "name": "Broken Range",
-  "models_2": [
-    40825
-  ],
+  "object_models": {
+    "models": [
+      40825
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
@@ -12,5 +14,8 @@
     "Repair",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

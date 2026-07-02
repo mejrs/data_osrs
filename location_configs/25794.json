@@ -1,9 +1,11 @@
 {
   "id": 25794,
   "name": "Open chest",
-  "models_2": [
-    5273
-  ],
+  "object_models": {
+    "models": [
+      5273
+    ]
+  },
   "actions": [
     null,
     "Search",
@@ -33,5 +35,8 @@
       7050
     ]
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

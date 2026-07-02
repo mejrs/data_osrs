@@ -1,12 +1,14 @@
 {
   "id": 13680,
-  "models": [
-    [
-      22,
-      12603
-    ]
-  ],
   "name": "Mahogany trapdoor",
+  "object_models_and_types": {
+    "models": [
+      12603
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Go-down",
@@ -15,5 +17,8 @@
     "Remove-room",
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

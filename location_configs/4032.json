@@ -1,12 +1,17 @@
 {
   "id": 4032,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       4049
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_73": true,
-  "mapscene": 49
+  "mapscene": 49,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

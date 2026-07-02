@@ -1,13 +1,18 @@
 {
   "id": 3568,
-  "models": [
-    [
-      22,
-      3652
-    ]
-  ],
   "name": "Blade",
+  "object_models_and_types": {
+    "models": [
+      3652
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

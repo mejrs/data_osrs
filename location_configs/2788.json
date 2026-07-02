@@ -1,12 +1,14 @@
 {
   "id": 2788,
-  "models": [
-    [
-      0,
-      20319
-    ]
-  ],
   "name": "City gate",
+  "object_models_and_types": {
+    "models": [
+      20319
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -28,5 +30,8 @@
       7566
     ]
   ],
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

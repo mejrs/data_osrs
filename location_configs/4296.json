@@ -1,11 +1,13 @@
 {
   "id": 4296,
   "name": "Abandoned Cart",
-  "models_2": [
-    1500
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1500
+    ]
+  },
   "colours": [
     [
       6049,
@@ -14,5 +16,8 @@
   ],
   "textures": {
     "3": 22
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

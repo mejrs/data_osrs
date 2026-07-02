@@ -1,10 +1,12 @@
 {
   "id": 32457,
   "name": "Energy Barrier",
-  "models_2": [
-    34622
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      34622
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 1433,
   "ambient": 100,
@@ -27,5 +29,8 @@
     "unknown_1": 3139,
     "unknown_2": 3
   },
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

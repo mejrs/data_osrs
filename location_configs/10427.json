@@ -1,12 +1,14 @@
 {
   "id": 10427,
-  "models": [
-    [
-      0,
-      10174
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      10174
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -19,5 +21,8 @@
       5541,
       4667
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

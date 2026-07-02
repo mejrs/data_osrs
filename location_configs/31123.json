@@ -1,15 +1,20 @@
 {
   "id": 31123,
   "name": "Plant Fossil Display",
-  "models_2": [
-    33312,
-    33369
-  ],
+  "object_models": {
+    "models": [
+      33312,
+      33369
+    ]
+  },
   "actions": [
     "Add to",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

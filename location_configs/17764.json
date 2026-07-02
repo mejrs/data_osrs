@@ -1,9 +1,11 @@
 {
   "id": 17764,
   "name": "Bench",
-  "models_2": [
-    12401
-  ],
+  "object_models": {
+    "models": [
+      12401
+    ]
+  },
   "colours": [
     [
       5545,
@@ -13,5 +15,8 @@
       6466,
       10512
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

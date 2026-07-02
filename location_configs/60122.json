@@ -1,10 +1,12 @@
 {
   "id": 60122,
   "name": "Plinth",
-  "models_2": [
-    59517
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      59517
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -36,5 +38,8 @@
   "scale_x": 148,
   "scale_y": 148,
   "scale_z": 148,
-  "translate_y": 65532
+  "translate_y": 65532,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

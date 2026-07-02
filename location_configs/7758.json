@@ -1,13 +1,15 @@
 {
   "id": 7758,
   "name": "Cactus",
-  "models_2": [
-    7834,
-    7837,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7834,
+      7837,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Check-health",
@@ -15,5 +17,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

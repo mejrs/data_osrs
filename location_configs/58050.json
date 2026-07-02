@@ -1,31 +1,28 @@
 {
   "id": 58050,
-  "models": [
-    [
-      0,
-      58396
-    ],
-    [
-      1,
-      58397
-    ],
-    [
-      2,
-      58398
-    ],
-    [
-      3,
-      58399
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      58396,
+      58397,
+      58398,
+      58399,
       58400
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 10,
   "contrast": 15,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

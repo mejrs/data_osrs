@@ -1,12 +1,17 @@
 {
   "id": 60022,
-  "models_2": [
-    4546
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      4546
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "occludes_1": false,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

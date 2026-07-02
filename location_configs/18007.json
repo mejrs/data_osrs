@@ -1,8 +1,13 @@
 {
   "id": 18007,
   "name": "Corner Table",
-  "models_2": [
-    17737
-  ],
-  "ambient": 15
+  "object_models": {
+    "models": [
+      17737
+    ]
+  },
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

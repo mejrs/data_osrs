@@ -1,14 +1,19 @@
 {
   "id": 39571,
   "name": "<col=ffff00>Muncher</col>",
-  "models_2": [
-    40635
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      40635
+    ]
+  },
   "unknown_24": 8749,
   "ambient": 10,
   "contrast": 10,
   "translate_y": 65534,
-  "mapscene": 82
+  "mapscene": 82,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

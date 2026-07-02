@@ -1,9 +1,11 @@
 {
   "id": 14813,
   "name": "Creeper",
-  "models_2": [
-    14758
-  ],
+  "object_models": {
+    "models": [
+      14758
+    ]
+  },
   "colours": [
     [
       11148,
@@ -21,5 +23,8 @@
       11144,
       11140
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

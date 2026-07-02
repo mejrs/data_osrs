@@ -1,11 +1,13 @@
 {
   "id": 27045,
   "name": "Slimy residue",
-  "models_2": [
-    5263
-  ],
   "dim_x": 6,
   "dim_y": 6,
+  "object_models": {
+    "models": [
+      5263
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -23,5 +25,8 @@
   ],
   "scale_x": 256,
   "scale_z": 256,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

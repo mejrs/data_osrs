@@ -1,12 +1,14 @@
 {
   "id": 20722,
   "name": "Sarcophagus",
-  "models_2": [
-    6609,
-    6607
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      6609,
+      6607
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -35,5 +37,8 @@
       10394,
       64018
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

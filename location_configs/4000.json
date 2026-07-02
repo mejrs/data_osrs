@@ -1,9 +1,11 @@
 {
   "id": 4000,
   "name": "Tent roof",
-  "models_2": [
-    3957
-  ],
+  "object_models": {
+    "models": [
+      3957
+    ]
+  },
   "colours": [
     [
       103,
@@ -13,5 +15,8 @@
       17686,
       7364
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

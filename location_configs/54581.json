@@ -1,11 +1,13 @@
 {
   "id": 54581,
   "name": "Ice chunks",
-  "models_2": [
-    6331
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      6331
+    ]
+  },
   "unknown_21": true,
   "ambient": 30,
   "contrast": 30,
@@ -16,5 +18,8 @@
     ]
   ],
   "model": false,
-  "mapscene": 118
+  "mapscene": 118,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

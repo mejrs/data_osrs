@@ -1,11 +1,13 @@
 {
   "id": 59352,
   "name": "Wreck of the Fearless Fremennik",
-  "models_2": [
-    58894
-  ],
   "dim_x": 5,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      58894
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 13624,
   "ambient": 20,
@@ -44,5 +46,8 @@
     ]
   ],
   "category": 2317,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

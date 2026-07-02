@@ -1,12 +1,17 @@
 {
   "id": 48117,
   "name": "Barricade",
-  "models_2": [
-    48371
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      48371
+    ]
+  },
   "unknown_22": true,
   "ambient": -25,
-  "contrast": 45
+  "contrast": 45,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

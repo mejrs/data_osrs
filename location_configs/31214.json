@@ -1,8 +1,13 @@
 {
   "id": 31214,
   "name": "Biclopse",
-  "models_2": [
-    33319,
-    33408
-  ]
+  "object_models": {
+    "models": [
+      33319,
+      33408
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

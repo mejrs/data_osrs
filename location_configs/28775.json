@@ -1,15 +1,20 @@
 {
   "id": 28775,
   "name": "Rope",
-  "models_2": [
-    31341
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      31341
+    ]
+  },
   "actions": [
     "Climb-up",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

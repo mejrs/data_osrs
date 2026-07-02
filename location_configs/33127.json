@@ -1,12 +1,14 @@
 {
   "id": 33127,
-  "models": [
-    [
-      4,
-      35762
-    ]
-  ],
   "name": "Red banner",
+  "object_models_and_types": {
+    "models": [
+      35762
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 8146,
   "ambient": 15,
@@ -24,5 +26,8 @@
       43800,
       918
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

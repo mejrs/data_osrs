@@ -1,9 +1,14 @@
 {
   "id": 22855,
   "name": "Bookshelf",
-  "models_2": [
-    23385,
-    23384
-  ],
-  "ambient": 20
+  "object_models": {
+    "models": [
+      23385,
+      23384
+    ]
+  },
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 22534,
-  "models": [
-    [
-      22,
-      23189
-    ]
-  ],
   "name": "Slightly broken bridge",
+  "object_models_and_types": {
+    "models": [
+      23189
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -28,5 +30,8 @@
   ],
   "category": 649,
   "unknown_73": true,
-  "mapscene": 46
+  "mapscene": 46,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

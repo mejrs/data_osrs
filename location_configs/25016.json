@@ -1,12 +1,14 @@
 {
   "id": 25016,
-  "models": [
-    [
-      22,
-      26345
-    ]
-  ],
   "name": "Magical wheat",
+  "object_models_and_types": {
+    "models": [
+      26345
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "ambient": 50,
   "actions": [
@@ -41,5 +43,8 @@
   ],
   "category": 703,
   "unknown_73": true,
-  "mapscene": 31
+  "mapscene": 31,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

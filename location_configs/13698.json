@@ -1,13 +1,18 @@
 {
   "id": 13698,
   "name": "Throne",
-  "models_2": [
-    12593
-  ],
+  "object_models": {
+    "models": [
+      12593
+    ]
+  },
   "colours": [
     [
       926,
       43131
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

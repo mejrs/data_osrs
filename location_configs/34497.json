@@ -1,8 +1,13 @@
 {
   "id": 34497,
   "name": "Tall Reeds",
-  "models_2": [
-    36497
-  ],
-  "unknown_17": false
+  "object_models": {
+    "models": [
+      36497
+    ]
+  },
+  "unknown_17": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,15 +1,20 @@
 {
   "id": 40017,
   "name": "Table",
-  "models_2": [
-    40848,
-    40790
-  ],
+  "object_models": {
+    "models": [
+      40848,
+      40790
+    ]
+  },
   "actions": [
     null,
     "Remove",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

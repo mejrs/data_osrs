@@ -1,0 +1,16 @@
+{
+  "id": 61004,
+  "name": "Lever",
+  "object_models": {
+    "models": [
+      61246
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

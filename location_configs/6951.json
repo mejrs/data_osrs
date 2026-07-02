@@ -1,12 +1,17 @@
 {
   "id": 6951,
-  "models": [
-    [
-      4,
-      6511
-    ]
-  ],
   "name": "Nothing",
+  "object_models_and_types": {
+    "models": [
+      6511
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "breakroutefinding": true
+  "breakroutefinding": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

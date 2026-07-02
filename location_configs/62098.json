@@ -1,0 +1,41 @@
+{
+  "id": 62098,
+  "name": "Throne",
+  "dim_x": 3,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60592
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 30,
+  "colours": [
+    [
+      410,
+      280
+    ],
+    [
+      404,
+      274
+    ],
+    [
+      7983,
+      5400
+    ],
+    [
+      1959,
+      1556
+    ],
+    [
+      43080,
+      43061
+    ]
+  ],
+  "translate_z": 48,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

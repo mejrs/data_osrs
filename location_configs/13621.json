@@ -1,18 +1,46 @@
 {
   "id": 13621,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
+  "name": "Stone",
+  "object_models_and_types": {
+    "models": [
+      52468,
+      17016
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
+  "unknown_17": false,
   "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
   "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (AIS)",
+    "Jump",
     null,
-    "Remove"
-  ]
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5388,
+      4
+    ],
+    [
+      5656,
+      2962
+    ],
+    [
+      5931,
+      2977
+    ]
+  ],
+  "unknown_73": true,
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

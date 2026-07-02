@@ -1,8 +1,13 @@
 {
   "id": 10509,
   "name": "Table",
-  "models_2": [
-    4326,
-    10165
-  ]
+  "object_models": {
+    "models": [
+      4326,
+      10165
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

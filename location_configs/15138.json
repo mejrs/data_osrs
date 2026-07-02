@@ -1,9 +1,11 @@
 {
   "id": 15138,
   "name": "Dye pots",
-  "models_2": [
-    15055
-  ],
+  "object_models": {
+    "models": [
+      15055
+    ]
+  },
   "colours": [
     [
       8121,
@@ -25,5 +27,8 @@
       21933,
       32819
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

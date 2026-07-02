@@ -1,13 +1,18 @@
 {
   "id": 28588,
   "name": "Shattered rockface",
-  "models_2": [
-    30181
-  ],
+  "object_models": {
+    "models": [
+      30181
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
   "ambient": 5,
   "contrast": 30,
-  "category": 917
+  "category": 917,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 13395,
   "name": "Elemental balance",
-  "models_2": [
-    12960
-  ],
+  "object_models": {
+    "models": [
+      12960
+    ]
+  },
   "unknown_24": 3582,
   "actions": [
     "Activate",
@@ -15,5 +17,8 @@
   "category": 206,
   "scale_x": 70,
   "scale_y": 70,
-  "scale_z": 70
+  "scale_z": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

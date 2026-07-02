@@ -1,9 +1,11 @@
 {
   "id": 12813,
   "name": "Rubble",
-  "models_2": [
-    14032
-  ],
+  "object_models": {
+    "models": [
+      14032
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Mine",
@@ -13,5 +15,8 @@
     null
   ],
   "category": 221,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

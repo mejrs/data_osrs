@@ -1,0 +1,27 @@
+{
+  "id": 61048,
+  "name": "Darkwood trees",
+  "dim_x": 4,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      61098
+    ]
+  },
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "unknown_81": 1,
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

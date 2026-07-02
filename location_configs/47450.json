@@ -1,10 +1,12 @@
 {
   "id": 47450,
   "name": "Crane",
-  "models_2": [
-    9534
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      9534
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "contrast": 30,
@@ -24,5 +26,8 @@
   ],
   "scale_x": 80,
   "scale_y": 80,
-  "scale_z": 80
+  "scale_z": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

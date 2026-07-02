@@ -1,10 +1,12 @@
 {
   "id": 40133,
   "name": "Broken Old Bookshelf",
-  "models_2": [
-    7392,
-    7393
-  ],
+  "object_models": {
+    "models": [
+      7392,
+      7393
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -12,5 +14,8 @@
     "Repair",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

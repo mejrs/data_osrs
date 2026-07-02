@@ -1,12 +1,14 @@
 {
   "id": 17423,
-  "models": [
-    [
-      4,
-      17485
-    ]
-  ],
   "name": "Drain",
+  "object_models_and_types": {
+    "models": [
+      17485
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Search",
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

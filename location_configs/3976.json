@@ -1,9 +1,14 @@
 {
   "id": 3976,
   "name": "Catapult",
-  "models_2": [
-    3961
-  ],
   "dim_y": 5,
-  "unknown_24": 1223
+  "object_models": {
+    "models": [
+      3961
+    ]
+  },
+  "unknown_24": 1223,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

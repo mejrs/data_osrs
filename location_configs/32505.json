@@ -1,10 +1,15 @@
 {
   "id": 32505,
   "name": "Boulder",
-  "models_2": [
-    16373
-  ],
   "dim_x": 3,
   "dim_y": 3,
-  "mapscene": 11
+  "object_models": {
+    "models": [
+      16373
+    ]
+  },
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

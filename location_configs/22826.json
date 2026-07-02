@@ -1,12 +1,17 @@
 {
   "id": 22826,
   "name": "Magic ball",
-  "models_2": [
-    23513
-  ],
+  "object_models": {
+    "models": [
+      23513
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 6028,
   "unknown_27": false,
-  "ambient": 40
+  "ambient": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

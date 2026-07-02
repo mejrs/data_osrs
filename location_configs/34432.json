@@ -1,9 +1,11 @@
 {
   "id": 34432,
   "name": "Mystical barrier",
-  "models_2": [
-    32750
-  ],
+  "object_models": {
+    "models": [
+      32750
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 60,
@@ -18,5 +20,8 @@
   "scale_x": 64,
   "scale_y": 64,
   "scale_z": 64,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

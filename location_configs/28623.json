@@ -1,11 +1,13 @@
 {
   "id": 28623,
   "name": "Compromised floorboards",
-  "models_2": [
-    31443
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      31443
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Investigate",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "category": 937
+  "category": 937,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 55262,
   "name": "Exposed altar",
-  "models_2": [
-    51398
-  ],
   "dim_x": 17,
   "dim_y": 17,
+  "object_models": {
+    "models": [
+      51398
+    ]
+  },
   "is_transparent": true,
   "ambient": 30,
   "contrast": 30,
@@ -46,5 +48,8 @@
   "model": false,
   "scale_x": 358,
   "scale_y": 18,
-  "scale_z": 358
+  "scale_z": 358,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

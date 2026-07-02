@@ -1,10 +1,12 @@
 {
   "id": 18510,
   "name": "Water controls",
-  "models_2": [
-    1746,
-    18582
-  ],
+  "object_models": {
+    "models": [
+      1746,
+      18582
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Turn",
@@ -18,5 +20,8 @@
       21543,
       7566
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

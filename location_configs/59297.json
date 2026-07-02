@@ -1,10 +1,12 @@
 {
   "id": 59297,
   "name": "Wreck of the Shelled Snail",
-  "models_2": [
-    58883
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      58883
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_24": 4781,
@@ -20,5 +22,8 @@
   "contrast": 20,
   "category": 2317,
   "model": false,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

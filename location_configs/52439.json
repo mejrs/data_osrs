@@ -1,9 +1,14 @@
 {
   "id": 52439,
   "name": "Suit of Armour",
-  "models_2": [
-    52360
-  ],
+  "object_models": {
+    "models": [
+      52360
+    ]
+  },
   "ambient": 30,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

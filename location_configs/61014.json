@@ -1,0 +1,17 @@
+{
+  "id": 61014,
+  "name": "Hanging rack",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61228
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

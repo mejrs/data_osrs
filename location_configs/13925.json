@@ -1,12 +1,17 @@
 {
   "id": 13925,
   "name": "Hole",
-  "models_2": [
-    14271
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      14271
+    ]
+  },
   "unknown_17": false,
   "unknown_21": true,
-  "unknown_24": 3835
+  "unknown_24": 3835,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

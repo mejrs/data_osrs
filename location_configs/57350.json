@@ -1,9 +1,14 @@
 {
   "id": 57350,
   "name": "Stack of reeds",
-  "models_2": [
-    57010
-  ],
+  "object_models": {
+    "models": [
+      57010
+    ]
+  },
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

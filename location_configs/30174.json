@@ -1,12 +1,14 @@
 {
   "id": 30174,
-  "models": [
-    [
-      0,
-      17063
-    ]
-  ],
   "name": "Tunnel",
+  "object_models_and_types": {
+    "models": [
+      17063
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -41,5 +43,8 @@
       11138
     ]
   ],
-  "category": 858
+  "category": 858,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 50317,
   "name": "Broken chair",
-  "models_2": [
-    50365
-  ],
+  "object_models": {
+    "models": [
+      50365
+    ]
+  },
   "unknown_19": 1,
   "ambient": 0,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

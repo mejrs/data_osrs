@@ -1,9 +1,11 @@
 {
   "id": 42803,
   "name": "Skulls",
-  "models_2": [
-    13474
-  ],
+  "object_models": {
+    "models": [
+      13474
+    ]
+  },
   "ambient": 10,
   "contrast": 10,
   "colours": [
@@ -15,5 +17,8 @@
       24,
       10392
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

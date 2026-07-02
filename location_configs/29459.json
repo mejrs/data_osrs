@@ -1,18 +1,22 @@
 {
   "id": 29459,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    32111
-  ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
-  "unknown_27": false,
+  "name": "Throne",
+  "object_models": {
+    "models": [
+      60386
+    ]
+  },
+  "ambient": 35,
   "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (CLS)",
+    "Sit-on",
+    null,
+    null,
+    null,
     "Remove"
-  ]
+  ],
+  "category": 206,
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,26 @@
+{
+  "id": 61941,
+  "name": "Shelter remains",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      61291,
+      61292
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    "Take-supplies",
+    "Deposit",
+    null,
+    null
+  ],
+  "contrast": 30,
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

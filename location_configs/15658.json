@@ -1,16 +1,16 @@
 {
   "id": 15658,
-  "models": [
-    [
-      10,
-      15380
-    ],
-    [
-      0,
-      15379
-    ]
-  ],
   "name": "Heavy door",
+  "object_models_and_types": {
+    "models": [
+      15380,
+      15379
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -18,5 +18,8 @@
     null,
     null
   ],
-  "translate_y": 3
+  "translate_y": 3,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

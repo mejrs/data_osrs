@@ -1,12 +1,14 @@
 {
   "id": 23055,
   "name": "Broken cart",
-  "models_2": [
-    23976,
-    23974
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      23976,
+      23974
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Search",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

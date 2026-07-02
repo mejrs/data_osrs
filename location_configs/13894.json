@@ -1,10 +1,12 @@
 {
   "id": 13894,
   "name": "Dark hole",
-  "models_2": [
-    14236
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      14236
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 20,
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

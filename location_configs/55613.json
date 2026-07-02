@@ -1,12 +1,14 @@
 {
   "id": 55613,
-  "models": [
-    [
-      22,
-      55386
-    ]
-  ],
   "name": "Powder grey pumpkins",
+  "object_models_and_types": {
+    "models": [
+      55386
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "ambient": 10,
   "actions": [
@@ -41,5 +43,8 @@
   ],
   "category": 2130,
   "unknown_73": true,
-  "mapscene": 149
+  "mapscene": 149,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

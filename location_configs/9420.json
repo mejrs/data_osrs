@@ -1,22 +1,23 @@
 {
   "id": 9420,
-  "models": [
-    [
-      0,
-      9399
-    ],
-    [
-      1,
-      9400
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      9399,
+      9400,
       9401
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "scale_x": 128,
   "scale_y": 256,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

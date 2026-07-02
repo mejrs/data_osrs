@@ -1,14 +1,17 @@
 {
   "id": 11324,
-  "models": [
-    [
-      10,
-      11160
-    ],
-    [
-      1,
+  "name": "Ancient Pillar",
+  "object_models_and_types": {
+    "models": [
+      11160,
       48315
+    ],
+    "types": [
+      10,
+      1
     ]
-  ],
-  "name": "Ancient Pillar"
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

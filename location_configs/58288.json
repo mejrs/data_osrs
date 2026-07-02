@@ -1,12 +1,17 @@
 {
   "id": 58288,
-  "models": [
-    [
-      22,
-      59654
-    ]
-  ],
   "name": "Bed",
+  "object_models_and_types": {
+    "models": [
+      59654
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

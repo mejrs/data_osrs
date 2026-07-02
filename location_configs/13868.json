@@ -1,12 +1,14 @@
 {
   "id": 13868,
-  "models": [
-    [
-      22,
-      1124
-    ]
-  ],
   "name": "Path",
+  "object_models_and_types": {
+    "models": [
+      1124
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
@@ -30,5 +32,8 @@
       5921,
       10518
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

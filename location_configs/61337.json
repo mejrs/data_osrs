@@ -1,0 +1,26 @@
+{
+  "id": 61337,
+  "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      60817
+    ],
+    "types": [
+      0
+    ]
+  },
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "mirror": true,
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

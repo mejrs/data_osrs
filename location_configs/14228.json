@@ -1,12 +1,14 @@
 {
   "id": 14228,
-  "models": [
-    [
-      9,
-      14452
-    ]
-  ],
   "name": "Barricade",
+  "object_models_and_types": {
+    "models": [
+      14452
+    ],
+    "types": [
+      9
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -20,5 +22,8 @@
     null
   ],
   "category": 182,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 53626,
   "name": "Mechanism",
-  "models_2": [
-    53842
-  ],
+  "object_models": {
+    "models": [
+      53842
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -74,5 +76,8 @@
       10270
     ]
   ],
-  "category": 2017
+  "category": 2017,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

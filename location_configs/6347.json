@@ -1,19 +1,17 @@
 {
   "id": 6347,
-  "models": [
-    [
-      10,
-      6115
-    ],
-    [
-      0,
-      6116
-    ],
-    [
-      3,
+  "object_models_and_types": {
+    "models": [
+      6115,
+      6116,
       8971
+    ],
+    "types": [
+      10,
+      0,
+      3
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -24,5 +22,8 @@
     ]
   ],
   "mirror": true,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 60318,
   "name": "Barrel of fish",
-  "models_2": [
-    58756
-  ],
+  "object_models": {
+    "models": [
+      58756
+    ]
+  },
   "ambient": 10,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

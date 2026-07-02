@@ -1,9 +1,11 @@
 {
   "id": 16590,
   "name": "Log pile",
-  "models_2": [
-    16772
-  ],
+  "object_models": {
+    "models": [
+      16772
+    ]
+  },
   "unknown_19": 1,
   "ambient": 40,
   "actions": [
@@ -14,5 +16,8 @@
     null
   ],
   "contrast": 40,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

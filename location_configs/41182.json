@@ -1,16 +1,16 @@
 {
   "id": 41182,
-  "models": [
-    [
-      10,
-      41690
-    ],
-    [
-      4,
-      41688
-    ]
-  ],
   "name": "League Accomplishment Scroll",
+  "object_models_and_types": {
+    "models": [
+      41690,
+      41688
+    ],
+    "types": [
+      10,
+      4
+    ]
+  },
   "ambient": 20,
   "actions": [
     "League-statistics",
@@ -21,5 +21,8 @@
   ],
   "contrast": 20,
   "category": 206,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

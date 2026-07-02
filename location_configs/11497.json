@@ -1,16 +1,21 @@
 {
   "id": 11497,
-  "models": [
-    [
-      4,
-      11469
-    ]
-  ],
   "name": "Spooky picture",
+  "object_models_and_types": {
+    "models": [
+      11469
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 3219,
   "ambient": 50,
   "translate_x": 0,
   "translate_y": 65476,
-  "translate_z": 0
+  "translate_z": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

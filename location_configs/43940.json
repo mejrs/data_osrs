@@ -1,11 +1,16 @@
 {
   "id": 43940,
   "name": "Statue",
-  "models_2": [
-    44646
-  ],
+  "object_models": {
+    "models": [
+      44646
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
-  "contrast": 50
+  "contrast": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

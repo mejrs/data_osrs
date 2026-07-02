@@ -1,9 +1,11 @@
 {
   "id": 48244,
   "name": "Remnant",
-  "models_2": [
-    44057
-  ],
+  "object_models": {
+    "models": [
+      44057
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 9400,
@@ -26,5 +28,8 @@
   "category": 1822,
   "model": false,
   "scale_x": 120,
-  "scale_z": 120
+  "scale_z": 120,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

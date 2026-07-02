@@ -1,11 +1,13 @@
 {
   "id": 46242,
   "name": "Sacrificial boat",
-  "models_2": [
-    5280
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      5280
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": -10,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "contrast": 5
+  "contrast": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

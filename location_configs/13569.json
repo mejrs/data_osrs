@@ -1,9 +1,11 @@
 {
   "id": 13569,
   "name": "Cider barrel",
-  "models_2": [
-    12389
-  ],
+  "object_models": {
+    "models": [
+      12389
+    ]
+  },
   "actions": [
     null,
     null,
@@ -12,5 +14,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

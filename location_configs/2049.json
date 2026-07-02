@@ -1,9 +1,11 @@
 {
   "id": 2049,
   "name": "Door",
-  "models_2": [
-    570
-  ],
+  "object_models": {
+    "models": [
+      570
+    ]
+  },
   "unknown_22": true,
   "occludes_1": false,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

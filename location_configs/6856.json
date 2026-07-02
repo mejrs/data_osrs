@@ -1,9 +1,11 @@
 {
   "id": 6856,
   "name": "Barricade",
-  "models_2": [
-    6788
-  ],
+  "object_models": {
+    "models": [
+      6788
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "colours": [
@@ -12,5 +14,8 @@
       8514
     ]
   ],
-  "mapscene": 51
+  "mapscene": 51,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

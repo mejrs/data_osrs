@@ -1,8 +1,13 @@
 {
   "id": 824,
   "name": "Wooden defence",
-  "models_2": [
-    1334
-  ],
-  "unknown_27": false
+  "object_models": {
+    "models": [
+      1334
+    ]
+  },
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

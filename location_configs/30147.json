@@ -1,9 +1,11 @@
 {
   "id": 30147,
   "name": "<col=ff9040>Bucket</col>",
-  "models_2": [
-    2397
-  ],
+  "object_models": {
+    "models": [
+      2397
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Take",
@@ -12,6 +14,9 @@
     null,
     null
   ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 11
   }

@@ -1,10 +1,15 @@
 {
   "id": 39511,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       9480
+    ],
+    "types": [
+      0
     ]
-  ],
-  "is_transparent": true
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

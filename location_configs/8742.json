@@ -1,10 +1,12 @@
 {
   "id": 8742,
   "name": "Tree",
-  "models_2": [
-    8324
-  ],
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      8324
+    ]
+  },
   "unknown_24": 2313,
   "actions": [
     "Pass",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

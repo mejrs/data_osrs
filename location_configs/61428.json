@@ -1,0 +1,41 @@
+{
+  "id": 61428,
+  "name": "Bowl",
+  "object_models": {
+    "models": [
+      49052
+    ]
+  },
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 25,
+  "colours": [
+    [
+      43038,
+      24
+    ],
+    [
+      43043,
+      28
+    ],
+    [
+      43034,
+      20
+    ],
+    [
+      38156,
+      914
+    ],
+    [
+      40334,
+      910
+    ],
+    [
+      40214,
+      24
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

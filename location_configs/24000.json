@@ -1,8 +1,13 @@
 {
   "id": 24000,
   "name": "Rack",
-  "models_2": [
-    11579
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      11579
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

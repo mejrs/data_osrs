@@ -1,9 +1,11 @@
 {
   "id": 4795,
   "name": "Pots",
-  "models_2": [
-    2182
-  ],
+  "object_models": {
+    "models": [
+      2182
+    ]
+  },
   "colours": [
     [
       6585,
@@ -13,5 +15,8 @@
       5673,
       5673
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

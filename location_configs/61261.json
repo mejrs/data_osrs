@@ -1,0 +1,21 @@
+{
+  "id": 61261,
+  "name": "Blood",
+  "object_models_and_types": {
+    "models": [
+      45068,
+      45070
+    ],
+    "types": [
+      4,
+      22
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

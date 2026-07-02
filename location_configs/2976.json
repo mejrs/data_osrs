@@ -1,8 +1,13 @@
 {
   "id": 2976,
   "name": "Leafy Palm Tree",
-  "models_2": [
-    1676
-  ],
-  "mapscene": 0
+  "object_models": {
+    "models": [
+      1676
+    ]
+  },
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

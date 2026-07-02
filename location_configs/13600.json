@@ -1,9 +1,11 @@
 {
   "id": 13600,
-  "models_2": [
-    8232,
-    9530
-  ],
+  "object_models": {
+    "models": [
+      8232,
+      9530
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "ambient": 15,
@@ -28,5 +30,8 @@
       5904,
       9096
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,8 +1,10 @@
 {
   "id": 55260,
-  "models_2": [
-    54503
-  ],
+  "object_models": {
+    "models": [
+      54503
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
@@ -10,5 +12,8 @@
   "ambient": 0,
   "contrast": 30,
   "model": false,
-  "scale_y": 80
+  "scale_y": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

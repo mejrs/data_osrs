@@ -1,24 +1,20 @@
 {
   "id": 10318,
-  "models": [
-    [
-      0,
-      3531
-    ],
-    [
-      2,
-      3532
-    ],
-    [
-      3,
-      3533
-    ],
-    [
-      9,
-      3534
-    ]
-  ],
   "name": "Gates",
+  "object_models_and_types": {
+    "models": [
+      3531,
+      3532,
+      3533,
+      3534
+    ],
+    "types": [
+      0,
+      2,
+      3,
+      9
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -29,5 +25,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

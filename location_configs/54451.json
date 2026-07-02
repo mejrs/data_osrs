@@ -1,10 +1,12 @@
 {
   "id": 54451,
   "name": "Frozen door",
-  "models_2": [
-    54930
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      54930
+    ]
+  },
   "ambient": 0,
   "actions": [
     "Inspect",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 35
+  "contrast": 35,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

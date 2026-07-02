@@ -1,16 +1,16 @@
 {
   "id": 31613,
-  "models": [
-    [
-      10,
-      34376
-    ],
-    [
-      22,
-      34372
-    ]
-  ],
   "name": "Ladder",
+  "object_models_and_types": {
+    "models": [
+      34376,
+      34372
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "actions": [
@@ -22,5 +22,8 @@
   ],
   "category": 553,
   "unknown_69": 27,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

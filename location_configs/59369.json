@@ -1,11 +1,13 @@
 {
   "id": 59369,
   "name": "Charred remains of a table",
-  "models_2": [
-    13485
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      13485
+    ]
+  },
   "is_transparent": true,
   "ambient": 15,
   "actions": [
@@ -34,5 +36,8 @@
       10382
     ]
   ],
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

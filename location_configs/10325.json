@@ -1,28 +1,22 @@
 {
   "id": 10325,
-  "models": [
-    [
-      0,
-      634
-    ],
-    [
-      1,
-      635
-    ],
-    [
-      2,
-      574
-    ],
-    [
-      3,
-      575
-    ],
-    [
-      9,
-      576
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      634,
+      635,
+      574,
+      575,
+      576
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -40,5 +34,9 @@
   "textures": {
     "2": 4
   },
-  "unknown_75": 0
+  "translate_y": 1,
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

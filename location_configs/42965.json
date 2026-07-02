@@ -1,11 +1,13 @@
 {
   "id": 42965,
   "name": "Altar",
-  "models_2": [
-    43181
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      43181
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Pray",
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 20,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

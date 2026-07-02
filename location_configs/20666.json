@@ -1,9 +1,11 @@
 {
   "id": 20666,
   "name": "Warning sign",
-  "models_2": [
-    1402
-  ],
+  "object_models": {
+    "models": [
+      1402
+    ]
+  },
   "colours": [
     [
       7715,
@@ -17,5 +19,8 @@
       7952,
       14098
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

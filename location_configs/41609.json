@@ -1,31 +1,28 @@
 {
   "id": 41609,
-  "models": [
-    [
-      0,
-      42001
-    ],
-    [
-      1,
-      42187
-    ],
-    [
-      2,
-      42191
-    ],
-    [
-      3,
-      42195
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      42001,
+      42187,
+      42191,
+      42195,
       42186
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

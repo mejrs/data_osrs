@@ -1,37 +1,42 @@
 {
   "id": 60284,
-  "name": "Ironwood cargo hold",
-  "models_2": [
-    58161
-  ],
-  "is_transparent": true,
-  "unknown_19": 1,
-  "ambient": 15,
-  "actions": [
-    "Open",
-    "Quick-deposit",
-    null,
-    null,
-    "Modify"
-  ],
-  "contrast": 15,
+  "object_models_and_types": {
+    "models": [
+      12245,
+      12246
+    ],
+    "types": [
+      0,
+      2
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_28": 32,
   "colours": [
     [
-      21435,
-      36139
+      10638,
+      6550
     ],
     [
-      21464,
-      36145
+      10514,
+      6554
     ],
     [
-      54203,
-      2229
+      10518,
+      6558
     ],
     [
-      54183,
-      2223
+      10394,
+      6430
+    ],
+    [
+      10762,
+      6674
     ]
   ],
-  "category": 2343
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

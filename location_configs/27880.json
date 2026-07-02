@@ -1,12 +1,17 @@
 {
   "id": 27880,
   "name": "Blood crystal",
-  "models_2": [
-    30688
-  ],
   "dim_x": 5,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      30688
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
-  "mapscene": 79
+  "mapscene": 79,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

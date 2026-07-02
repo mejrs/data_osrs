@@ -1,10 +1,15 @@
 {
   "id": 16491,
   "name": "Container",
-  "models_2": [
-    9793
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      9793
+    ]
+  },
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 34483,
   "name": "Marigold",
-  "models_2": [
-    36491
-  ]
+  "object_models": {
+    "models": [
+      36491
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 17077,
   "name": "Strong Tree",
-  "models_2": [
-    16896,
-    16904
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      16896,
+      16904
+    ]
+  },
   "ambient": 40,
   "actions": [
     "Grapple",
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

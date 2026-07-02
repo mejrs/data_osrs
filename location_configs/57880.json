@@ -1,10 +1,15 @@
 {
   "id": 57880,
   "name": "Table",
-  "models_2": [
-    58875
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      58875
+    ]
+  },
   "ambient": 10,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

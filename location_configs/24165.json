@@ -1,8 +1,13 @@
 {
   "id": 24165,
-  "models_2": [
-    11574
-  ],
+  "object_models": {
+    "models": [
+      11574
+    ]
+  },
   "unknown_19": 0,
-  "ambient": 15
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

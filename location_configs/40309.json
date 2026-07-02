@@ -1,16 +1,21 @@
 {
   "id": 40309,
   "name": "Strange hole",
-  "models_2": [
-    40880
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      40880
+    ]
+  },
   "actions": [
     "Climb-down",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

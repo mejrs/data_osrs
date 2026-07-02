@@ -1,10 +1,15 @@
 {
   "id": 36573,
   "name": "Amlodd Banner",
-  "models_2": [
-    37937
-  ],
+  "object_models": {
+    "models": [
+      37937
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

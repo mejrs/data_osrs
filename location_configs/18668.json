@@ -1,12 +1,14 @@
 {
   "id": 18668,
-  "models": [
-    [
-      4,
-      18855
-    ]
-  ],
   "name": "Cog",
+  "object_models_and_types": {
+    "models": [
+      18855
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 4896,
   "ambient": 50,
@@ -17,5 +19,8 @@
     null,
     null
   ],
-  "contrast": 50
+  "contrast": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

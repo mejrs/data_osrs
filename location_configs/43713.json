@@ -1,10 +1,12 @@
 {
   "id": 43713,
   "name": "Abyssal Rift",
-  "models_2": [
-    44082
-  ],
   "dim_x": 7,
+  "object_models": {
+    "models": [
+      44082
+    ]
+  },
   "unknown_17": false,
   "unknown_24": 9355,
   "ambient": 60,
@@ -12,5 +14,8 @@
   "scale_x": 360,
   "scale_y": 360,
   "scale_z": 360,
-  "translate_y": 200
+  "translate_y": 200,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

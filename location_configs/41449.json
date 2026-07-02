@@ -1,9 +1,11 @@
 {
   "id": 41449,
   "name": "Willow's bag",
-  "models_2": [
-    14145
-  ],
+  "object_models": {
+    "models": [
+      14145
+    ]
+  },
   "colours": [
     [
       24,
@@ -17,5 +19,8 @@
       16536,
       280
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

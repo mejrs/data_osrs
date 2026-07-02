@@ -1,9 +1,14 @@
 {
   "id": 1108,
   "name": "Throne",
-  "models_2": [
-    931
-  ],
   "dim_x": 2,
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      931
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

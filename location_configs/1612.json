@@ -1,10 +1,15 @@
 {
   "id": 1612,
   "name": "Scaffold",
-  "models_2": [
-    2180
-  ],
+  "object_models": {
+    "models": [
+      2180
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
-  "translate_y": 2
+  "translate_y": 2,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

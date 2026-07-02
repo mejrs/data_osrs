@@ -1,10 +1,12 @@
 {
   "id": 30280,
   "name": "Shop Counter",
-  "models_2": [
-    33119
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      33119
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     null,
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

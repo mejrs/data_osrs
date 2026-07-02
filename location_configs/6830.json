@@ -1,12 +1,14 @@
 {
   "id": 6830,
   "name": "Statue",
-  "models_2": [
-    4451,
-    4457
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      4451,
+      4457
+    ]
+  },
   "colours": [
     [
       61,
@@ -17,5 +19,8 @@
       10396
     ]
   ],
-  "mapscene": 11
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

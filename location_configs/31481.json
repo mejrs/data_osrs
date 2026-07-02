@@ -1,11 +1,13 @@
 {
   "id": 31481,
   "name": "Hole",
-  "models_2": [
-    34027
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      34027
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

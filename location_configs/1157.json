@@ -1,14 +1,19 @@
 {
   "id": 1157,
   "name": "Potted flower",
-  "models_2": [
-    1680
-  ],
+  "object_models": {
+    "models": [
+      1680
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
       43968,
       939
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 19337,
   "name": "Rabbit hole",
-  "models_2": [
-    19356
-  ],
+  "object_models": {
+    "models": [
+      19356
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Flush",
@@ -35,5 +37,8 @@
     ]
   ],
   "unknown_69": 27,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

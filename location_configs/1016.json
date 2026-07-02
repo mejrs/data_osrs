@@ -1,7 +1,12 @@
 {
   "id": 1016,
   "name": "Shelves",
-  "models_2": [
-    2133
-  ]
+  "object_models": {
+    "models": [
+      2133
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

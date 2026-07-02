@@ -1,10 +1,12 @@
 {
   "id": 55694,
   "name": "Scarecrow",
-  "models_2": [
-    55407,
-    55408
-  ],
+  "object_models": {
+    "models": [
+      55407,
+      55408
+    ]
+  },
   "ambient": 15,
   "contrast": 25,
   "colours": [
@@ -36,5 +38,8 @@
       5409,
       27524
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

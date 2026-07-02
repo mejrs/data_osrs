@@ -1,10 +1,12 @@
 {
   "id": 21270,
   "name": "Urn",
-  "models_2": [
-    16420,
-    16418
-  ],
+  "object_models": {
+    "models": [
+      16420,
+      16418
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 4335,
   "ambient": 10,
@@ -14,5 +16,8 @@
     "Charm Snake",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

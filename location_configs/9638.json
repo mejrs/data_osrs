@@ -1,9 +1,11 @@
 {
   "id": 9638,
-  "models_2": [
-    9568
-  ],
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      9568
+    ]
+  },
   "unknown_19": 0,
   "colours": [
     [
@@ -26,5 +28,8 @@
       7704,
       6936
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

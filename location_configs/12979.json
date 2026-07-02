@@ -1,9 +1,11 @@
 {
   "id": 12979,
   "name": "Rocking chair",
-  "models_2": [
-    12448
-  ],
+  "object_models": {
+    "models": [
+      12448
+    ]
+  },
   "colours": [
     [
       6707,
@@ -17,5 +19,8 @@
       7952,
       5665
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 29328,
   "name": "Coffer",
-  "models_2": [
-    6072
-  ],
+  "object_models": {
+    "models": [
+      6072
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -35,5 +37,8 @@
       7095,
       22404
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

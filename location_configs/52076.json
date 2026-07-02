@@ -1,27 +1,21 @@
 {
   "id": 52076,
-  "models": [
-    [
-      0,
-      48827
-    ],
-    [
-      1,
-      48824
-    ],
-    [
-      2,
-      48823
-    ],
-    [
-      3,
-      48850
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      48827,
+      48824,
+      48823,
+      48850,
       48856
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
@@ -55,5 +49,8 @@
       7331
     ]
   ],
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

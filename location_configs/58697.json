@@ -1,13 +1,16 @@
 {
   "id": 58697,
   "name": "Diseased pillar coral",
-  "models_2": [
-    59743,
-    7766,
-    59745
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      59743,
+      7766,
+      59745
+    ]
+  },
+  "ambient": 10,
   "actions": [
     "Prune",
     "Inspect",
@@ -15,6 +18,7 @@
     "Guide",
     null
   ],
+  "contrast": 20,
   "colours": [
     [
       1839,
@@ -28,5 +32,8 @@
       3895,
       43102
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 19221,
   "name": "Occupied perch",
-  "models_2": [
-    19973,
-    19974
-  ],
+  "object_models": {
+    "models": [
+      19973,
+      19974
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 5203,
   "unknown_27": false,
@@ -18,5 +20,8 @@
   "scale_x": 76,
   "scale_y": 76,
   "scale_z": 76,
-  "mapscene": 9
+  "mapscene": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 35387,
   "name": "Stairs",
-  "models_2": [
-    1860
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1860
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Climb-up",
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 44,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 41652,
   "name": "Dummy",
-  "models_2": [
-    25177
-  ],
+  "object_models": {
+    "models": [
+      25177
+    ]
+  },
   "unknown_24": 6481,
   "ambient": 25,
   "actions": [
@@ -24,5 +26,8 @@
     ]
   ],
   "category": 1549,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

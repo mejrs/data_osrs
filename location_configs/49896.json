@@ -1,8 +1,13 @@
 {
   "id": 49896,
   "name": "Pipe",
-  "models_2": [
-    49616
-  ],
-  "unknown_24": 10442
+  "object_models": {
+    "models": [
+      49616
+    ]
+  },
+  "unknown_24": 10442,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

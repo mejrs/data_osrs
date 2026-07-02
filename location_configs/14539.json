@@ -1,9 +1,11 @@
 {
   "id": 14539,
   "name": "Mushroom",
-  "models_2": [
-    14699
-  ],
+  "object_models": {
+    "models": [
+      14699
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -18,5 +20,8 @@
       7442,
       22
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

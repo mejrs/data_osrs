@@ -1,13 +1,18 @@
 {
   "id": 2445,
-  "models": [
-    [
-      22,
-      1259
-    ]
-  ],
   "name": "Trapdoor",
+  "object_models_and_types": {
+    "models": [
+      1259
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
-  "mapscene": 43
+  "mapscene": 43,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

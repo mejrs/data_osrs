@@ -1,16 +1,16 @@
 {
   "id": 11275,
-  "models": [
-    [
-      10,
-      1899
-    ],
-    [
-      12,
-      5659
-    ]
-  ],
   "dim_x": 8,
+  "object_models_and_types": {
+    "models": [
+      1899,
+      5659
+    ],
+    "types": [
+      10,
+      12
+    ]
+  },
   "unknown_19": 0,
   "colours": [
     [
@@ -21,5 +21,8 @@
       5673,
       5904
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

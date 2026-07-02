@@ -1,15 +1,15 @@
 {
   "id": 27905,
-  "models": [
-    [
-      10,
-      30666
-    ],
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
+      30666,
       30669
+    ],
+    "types": [
+      10,
+      22
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_27": false,
@@ -31,5 +31,8 @@
       26797
     ]
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

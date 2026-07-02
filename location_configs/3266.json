@@ -1,21 +1,24 @@
 {
   "id": 3266,
-  "models": [
-    [
-      0,
-      969
-    ],
-    [
-      9,
-      970
-    ]
-  ],
   "name": "Gate",
+  "object_models_and_types": {
+    "models": [
+      969,
+      970
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "actions": [
     "Picklock",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

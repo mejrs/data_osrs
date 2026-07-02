@@ -1,7 +1,12 @@
 {
   "id": 17207,
   "name": "A Goblin standard",
-  "models_2": [
-    17039
-  ]
+  "object_models": {
+    "models": [
+      17039
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

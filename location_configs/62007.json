@@ -1,0 +1,63 @@
+{
+  "id": 62007,
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      20803
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": -10,
+  "contrast": 25,
+  "colours": [
+    [
+      2213,
+      171
+    ],
+    [
+      2337,
+      165
+    ],
+    [
+      2332,
+      161
+    ],
+    [
+      2328,
+      154
+    ],
+    [
+      3350,
+      152
+    ],
+    [
+      3346,
+      148
+    ],
+    [
+      3470,
+      142
+    ],
+    [
+      3594,
+      272
+    ],
+    [
+      3974,
+      268
+    ],
+    [
+      2700,
+      398
+    ]
+  ],
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

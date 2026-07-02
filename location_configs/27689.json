@@ -1,11 +1,13 @@
 {
   "id": 27689,
   "name": "Table",
-  "models_2": [
-    30282
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      30282
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "colours": [
@@ -30,5 +32,8 @@
       24
     ]
   ],
-  "category": 157
+  "category": 157,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

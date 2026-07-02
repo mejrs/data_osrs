@@ -1,9 +1,11 @@
 {
   "id": 54711,
   "name": "Small box",
-  "models_2": [
-    29973
-  ],
+  "object_models": {
+    "models": [
+      29973
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -44,5 +46,8 @@
   ],
   "scale_x": 64,
   "scale_y": 64,
-  "scale_z": 64
+  "scale_z": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

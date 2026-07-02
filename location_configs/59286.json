@@ -1,9 +1,11 @@
 {
   "id": 59286,
   "name": "Stone tablet",
-  "models_2": [
-    57645
-  ],
+  "object_models": {
+    "models": [
+      57645
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -14,5 +16,8 @@
     null
   ],
   "contrast": 25,
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

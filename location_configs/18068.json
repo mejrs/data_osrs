@@ -1,9 +1,11 @@
 {
   "id": 18068,
   "name": "Broken ladder",
-  "models_2": [
-    17744
-  ],
+  "object_models": {
+    "models": [
+      17744
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Search",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

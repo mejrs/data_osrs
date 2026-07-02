@@ -1,11 +1,16 @@
 {
   "id": 18102,
   "name": "Falling door",
-  "models_2": [
-    17752
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      17752
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
-  "unknown_24": 4744
+  "unknown_24": 4744,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

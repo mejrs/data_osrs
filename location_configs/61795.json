@@ -1,0 +1,31 @@
+{
+  "id": 61795,
+  "object_models_and_types": {
+    "models": [
+      39393,
+      39337,
+      39340,
+      39399,
+      39372
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "translate_y": 65535,
+  "translate_z": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

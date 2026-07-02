@@ -1,9 +1,11 @@
 {
   "id": 56264,
   "name": "Flames",
-  "models_2": [
-    2298
-  ],
+  "object_models": {
+    "models": [
+      2298
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 494,
   "unknown_27": false,
@@ -17,5 +19,8 @@
   ],
   "contrast": 25,
   "model": false,
-  "mapscene": 75
+  "mapscene": 75,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

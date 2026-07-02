@@ -1,9 +1,14 @@
 {
   "id": 23634,
   "name": "Display case",
-  "models_2": [
-    25777
-  ],
+  "object_models": {
+    "models": [
+      25777
+    ]
+  },
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 15392,
-  "models": [
-    [
-      4,
-      12731
-    ]
-  ],
   "name": "Portrait space",
+  "object_models_and_types": {
+    "models": [
+      12731
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 100,
@@ -17,5 +19,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

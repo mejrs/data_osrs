@@ -1,12 +1,14 @@
 {
   "id": 18225,
-  "models": [
-    [
-      4,
-      18321
-    ]
-  ],
   "name": "Painting",
+  "object_models_and_types": {
+    "models": [
+      18321
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 35,
   "colours": [
@@ -18,5 +20,8 @@
       2458,
       7463
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

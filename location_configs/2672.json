@@ -1,14 +1,19 @@
 {
   "id": 2672,
   "name": "An experimental anvil",
-  "models_2": [
-    1251
-  ],
+  "object_models": {
+    "models": [
+      1251
+    ]
+  },
   "actions": [
     "Use",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

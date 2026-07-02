@@ -1,9 +1,11 @@
 {
   "id": 59558,
   "name": "Helm",
-  "models_2": [
-    58197
-  ],
+  "object_models": {
+    "models": [
+      58197
+    ]
+  },
   "unknown_17": false,
   "unknown_22": true,
   "ambient": 15,
@@ -24,5 +26,8 @@
       54183,
       5662
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 26578,
   "name": "Fire",
-  "models_2": [
-    5504
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_24": 1732
+  "object_models": {
+    "models": [
+      5504
+    ]
+  },
+  "unknown_24": 1732,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

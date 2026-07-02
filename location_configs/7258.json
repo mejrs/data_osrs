@@ -1,12 +1,14 @@
 {
   "id": 7258,
-  "models": [
-    [
-      0,
-      7590
-    ]
-  ],
   "name": "Passageway",
+  "object_models_and_types": {
+    "models": [
+      7590
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

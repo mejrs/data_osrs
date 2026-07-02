@@ -1,10 +1,15 @@
 {
   "id": 31903,
   "name": "Bandos armour display case",
-  "models_2": [
-    34556,
-    34553
-  ],
+  "object_models": {
+    "models": [
+      34556,
+      34553
+    ]
+  },
   "unknown_27": false,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

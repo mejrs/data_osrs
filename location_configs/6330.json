@@ -1,9 +1,14 @@
 {
   "id": 6330,
   "name": "Broken kiln",
-  "models_2": [
-    6173
-  ],
   "dim_x": 2,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      6173
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

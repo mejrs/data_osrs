@@ -1,19 +1,17 @@
 {
   "id": 16317,
-  "models": [
-    [
-      0,
-      16332
-    ],
-    [
-      1,
-      16333
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      16332,
+      16333,
       16334
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 30,
@@ -26,5 +24,8 @@
   ],
   "scale_x": 128,
   "scale_y": 64,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

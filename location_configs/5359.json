@@ -1,14 +1,19 @@
 {
   "id": 5359,
   "name": "Skeleton",
-  "models_2": [
-    1079
-  ],
+  "object_models": {
+    "models": [
+      1079
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
       6241,
       17587
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 48967,
   "name": "Wheelchair",
-  "models_2": [
-    47107
-  ],
+  "object_models": {
+    "models": [
+      47107
+    ]
+  },
   "ambient": 0,
-  "contrast": 35
+  "contrast": 35,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

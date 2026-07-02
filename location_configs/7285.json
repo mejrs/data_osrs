@@ -1,9 +1,11 @@
 {
   "id": 7285,
   "name": "Empty Sack",
-  "models_2": [
-    7701
-  ],
+  "object_models": {
+    "models": [
+      7701
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Pick-up",
@@ -14,5 +16,8 @@
   ],
   "scale_x": 99,
   "scale_y": 99,
-  "scale_z": 99
+  "scale_z": 99,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

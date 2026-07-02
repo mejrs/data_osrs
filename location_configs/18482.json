@@ -1,7 +1,12 @@
 {
   "id": 18482,
   "name": "Big fish",
-  "models_2": [
-    18502
-  ]
+  "object_models": {
+    "models": [
+      18502
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

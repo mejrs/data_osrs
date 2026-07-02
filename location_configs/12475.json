@@ -1,9 +1,11 @@
 {
   "id": 12475,
   "name": "Anchor",
-  "models_2": [
-    13733
-  ],
+  "object_models": {
+    "models": [
+      13733
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Climb",
@@ -13,5 +15,8 @@
     null
   ],
   "mirror": true,
-  "mapscene": 41
+  "mapscene": 41,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

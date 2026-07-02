@@ -1,20 +1,18 @@
 {
   "id": 10342,
-  "models": [
-    [
-      0,
-      10067
-    ],
-    [
-      1,
-      10068
-    ],
-    [
-      9,
-      10069
-    ]
-  ],
   "name": "Rat Wall",
+  "object_models_and_types": {
+    "models": [
+      10067,
+      10068,
+      10069
+    ],
+    "types": [
+      0,
+      1,
+      9
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -50,5 +48,8 @@
     ]
   ],
   "category": 225,
-  "scale_y": 90
+  "scale_y": 90,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

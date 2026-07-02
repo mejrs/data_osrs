@@ -1,19 +1,17 @@
 {
   "id": 44723,
-  "models": [
-    [
-      0,
-      44879
-    ],
-    [
-      1,
-      44883
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      44879,
+      44883,
       44884
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -46,5 +44,8 @@
     ]
   ],
   "model": false,
-  "scale_y": 64
+  "scale_y": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

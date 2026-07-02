@@ -1,12 +1,14 @@
 {
   "id": 37434,
-  "models": [
-    [
-      4,
-      9557
-    ]
-  ],
   "name": "Streak info",
+  "object_models_and_types": {
+    "models": [
+      9557
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Read",
@@ -40,5 +42,8 @@
       7498,
       8650
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,15 @@
 {
   "id": 41624,
   "name": "Cart",
-  "models_2": [
-    19275,
-    19274,
-    19277
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      19275,
+      19274,
+      19277
+    ]
+  },
   "actions": [
     "Exit",
     null,
@@ -16,5 +18,8 @@
     null
   ],
   "category": 1547,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

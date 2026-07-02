@@ -1,11 +1,13 @@
 {
   "id": 27434,
   "name": "Saltpetre",
-  "models_2": [
-    30082
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      30082
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -20,5 +22,8 @@
   "scale_x": 100,
   "scale_y": 100,
   "scale_z": 100,
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

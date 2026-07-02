@@ -1,10 +1,15 @@
 {
   "id": 39495,
   "name": "Planter",
-  "models_2": [
-    40282
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      40282
+    ]
+  },
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 50522,
   "name": "Fire trap",
-  "models_2": [
-    50376
-  ],
   "dim_x": 6,
+  "object_models": {
+    "models": [
+      50376
+    ]
+  },
   "unknown_24": 10748,
   "ambient": 90,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": -56
+  "contrast": -56,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

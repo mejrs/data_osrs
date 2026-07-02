@@ -1,9 +1,14 @@
 {
   "id": 5862,
   "name": "Burial mound",
-  "models_2": [
-    5694
-  ],
   "dim_y": 2,
-  "unknown_21": true
+  "object_models": {
+    "models": [
+      5694
+    ]
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

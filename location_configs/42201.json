@@ -1,14 +1,19 @@
 {
   "id": 42201,
-  "models": [
-    [
-      4,
-      25191
-    ]
-  ],
   "name": "Poster",
+  "object_models_and_types": {
+    "models": [
+      25191
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": -5,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

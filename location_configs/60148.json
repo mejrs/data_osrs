@@ -1,9 +1,14 @@
 {
   "id": 60148,
   "name": "Machinery",
-  "models_2": [
-    58839
-  ],
+  "object_models": {
+    "models": [
+      58839
+    ]
+  },
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

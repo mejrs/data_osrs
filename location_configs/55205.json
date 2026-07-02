@@ -1,11 +1,13 @@
 {
   "id": 55205,
   "name": "Rockslide (private)",
-  "models_2": [
-    818
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      818
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
   "actions": [
@@ -21,5 +23,8 @@
       6689,
       47
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

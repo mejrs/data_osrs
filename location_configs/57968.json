@@ -1,14 +1,19 @@
 {
   "id": 57968,
-  "models": [
-    [
-      22,
-      58509
-    ]
-  ],
   "name": "Gryphon feathers",
+  "object_models_and_types": {
+    "models": [
+      58509
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

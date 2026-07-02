@@ -1,17 +1,22 @@
 {
   "id": 41,
-  "models": [
-    [
-      4,
-      2063
-    ]
-  ],
   "name": "Wall Pipe",
+  "object_models_and_types": {
+    "models": [
+      2063
+    ],
+    "types": [
+      4
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

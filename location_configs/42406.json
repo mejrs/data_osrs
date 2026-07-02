@@ -1,9 +1,11 @@
 {
   "id": 42406,
   "name": "Hollow log",
-  "models_2": [
-    1659
-  ],
+  "object_models": {
+    "models": [
+      1659
+    ]
+  },
   "ambient": 20,
   "contrast": 10,
   "colours": [
@@ -15,5 +17,8 @@
       4531,
       3470
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

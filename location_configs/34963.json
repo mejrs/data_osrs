@@ -1,14 +1,19 @@
 {
   "id": 34963,
   "name": "Guard",
-  "models_2": [
-    9671
-  ],
+  "object_models": {
+    "models": [
+      9671
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 34947,
   "name": "Portal",
-  "models_2": [
-    38744
-  ],
   "dim_x": 5,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      38744
+    ]
+  },
   "unknown_24": 3174,
   "ambient": 10,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "category": 486,
-  "mapscene": 64
+  "mapscene": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 49394,
   "name": "Abyssal Stem",
-  "models_2": [
-    49013
-  ],
+  "object_models": {
+    "models": [
+      49013
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -25,5 +27,8 @@
       7244,
       40386
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

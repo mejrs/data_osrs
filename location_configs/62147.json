@@ -1,0 +1,26 @@
+{
+  "id": 62147,
+  "name": "Doors",
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      60524
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,7 +1,12 @@
 {
   "id": 855,
   "name": "Standard",
-  "models_2": [
-    1538
-  ]
+  "object_models": {
+    "models": [
+      1538
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

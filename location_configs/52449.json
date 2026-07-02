@@ -1,13 +1,18 @@
 {
   "id": 52449,
   "name": "Cypress Tree",
-  "models_2": [
-    52421
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      52421
+    ]
+  },
   "ambient": 20,
   "contrast": 15,
   "scale_y": 128,
-  "mapscene": 139
+  "mapscene": 139,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

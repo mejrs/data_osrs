@@ -1,9 +1,11 @@
 {
   "id": 43484,
   "name": "Loot Chest",
-  "models_2": [
-    40630
-  ],
+  "object_models": {
+    "models": [
+      40630
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Loot",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

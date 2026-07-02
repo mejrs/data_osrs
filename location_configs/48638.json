@@ -1,12 +1,14 @@
 {
   "id": 48638,
-  "models": [
-    [
-      0,
-      5378
-    ]
-  ],
   "name": "Surface",
+  "object_models_and_types": {
+    "models": [
+      5378
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -38,5 +40,8 @@
       8493,
       5268
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

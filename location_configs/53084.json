@@ -1,9 +1,14 @@
 {
   "id": 53084,
   "name": "Giant egg",
-  "models_2": [
-    53077
-  ],
+  "object_models": {
+    "models": [
+      53077
+    ]
+  },
   "ambient": 10,
-  "contrast": 75
+  "contrast": 75,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

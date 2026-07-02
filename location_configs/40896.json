@@ -1,11 +1,16 @@
 {
   "id": 40896,
   "name": "Pebbles",
-  "models_2": [
-    41479
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      41479
+    ]
+  },
   "unknown_19": 1,
-  "unknown_21": true
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

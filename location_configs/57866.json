@@ -1,9 +1,14 @@
 {
   "id": 57866,
   "name": "Cabinet",
-  "models_2": [
-    57682
-  ],
+  "object_models": {
+    "models": [
+      57682
+    ]
+  },
   "ambient": 10,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

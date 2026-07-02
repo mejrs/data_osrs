@@ -1,9 +1,11 @@
 {
   "id": 7221,
   "name": "Ladder",
-  "models_2": [
-    1203
-  ],
+  "object_models": {
+    "models": [
+      1203
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Leave-area",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

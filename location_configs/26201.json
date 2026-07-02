@@ -1,8 +1,13 @@
 {
   "id": 26201,
   "name": "Table",
-  "models_2": [
-    4642
-  ],
-  "unknown_22": true
+  "object_models": {
+    "models": [
+      4642
+    ]
+  },
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

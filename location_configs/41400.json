@@ -1,20 +1,18 @@
 {
   "id": 41400,
-  "models": [
-    [
-      0,
-      5314
-    ],
-    [
-      1,
-      5315
-    ],
-    [
-      9,
-      5316
-    ]
-  ],
   "name": "Rail",
+  "object_models_and_types": {
+    "models": [
+      5314,
+      5315,
+      5316
+    ],
+    "types": [
+      0,
+      1,
+      9
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -30,5 +28,8 @@
       5673,
       5553
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

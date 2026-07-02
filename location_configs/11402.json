@@ -1,15 +1,20 @@
 {
   "id": 11402,
-  "models": [
-    [
-      0,
-      16242
-    ]
-  ],
   "name": "Sign",
+  "object_models_and_types": {
+    "models": [
+      16242
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,8 +1,13 @@
 {
   "id": 20324,
   "name": "Private bank booth",
-  "models_2": [
-    20799
-  ],
-  "ambient": 15
+  "object_models": {
+    "models": [
+      20799
+    ]
+  },
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

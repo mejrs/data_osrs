@@ -1,11 +1,13 @@
 {
   "id": 11287,
   "name": "Figurehead",
-  "models_2": [
-    5290,
-    9593
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      5290,
+      9593
+    ]
+  },
   "unknown_22": true,
   "colours": [
     [
@@ -28,5 +30,8 @@
       12818,
       6930
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

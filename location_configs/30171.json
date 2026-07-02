@@ -1,9 +1,11 @@
 {
   "id": 30171,
-  "models_2": [
-    4325
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      4325
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "ambient": -5,
@@ -36,5 +38,8 @@
   "scale_x": 112,
   "scale_y": 112,
   "scale_z": 112,
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

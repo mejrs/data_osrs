@@ -1,12 +1,14 @@
 {
   "id": 8358,
   "name": "Diseased Spirit Tree",
-  "models_2": [
-    7991,
-    7768
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      7991,
+      7768
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Prune",
@@ -23,5 +25,8 @@
   ],
   "textures": {
     "8": 41
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

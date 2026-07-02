@@ -1,11 +1,13 @@
 {
   "id": 55640,
   "name": "Storage bin",
-  "models_2": [
-    7838,
-    7845,
-    55412
-  ],
+  "object_models": {
+    "models": [
+      7838,
+      7845,
+      55412
+    ]
+  },
   "unknown_17": false,
   "ambient": 10,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

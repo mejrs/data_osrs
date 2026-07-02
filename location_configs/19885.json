@@ -1,7 +1,12 @@
 {
   "id": 19885,
   "name": "Books",
-  "models_2": [
-    19996
-  ]
+  "object_models": {
+    "models": [
+      19996
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

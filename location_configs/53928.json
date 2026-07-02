@@ -1,9 +1,11 @@
 {
   "id": 53928,
   "name": "Statue",
-  "models_2": [
-    53562
-  ],
+  "object_models": {
+    "models": [
+      53562
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

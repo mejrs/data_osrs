@@ -1,9 +1,11 @@
 {
   "id": 23607,
   "name": "Stalagmites",
-  "models_2": [
-    12041
-  ],
+  "object_models": {
+    "models": [
+      12041
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -33,5 +35,8 @@
       8478,
       7479
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

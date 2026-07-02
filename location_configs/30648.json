@@ -1,11 +1,13 @@
 {
   "id": 30648,
   "name": "Thick vines",
-  "models_2": [
-    33718
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      33718
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -19,5 +21,8 @@
     null
   ],
   "category": 1154,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

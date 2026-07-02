@@ -1,11 +1,13 @@
 {
   "id": 33201,
   "name": "<col=ffff00>Boulder</col>",
-  "models_2": [
-    35833
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      35833
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 8154,
   "unknown_27": false,
@@ -35,6 +37,9 @@
   "scale_y": 96,
   "scale_z": 96,
   "mapscene": 82,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

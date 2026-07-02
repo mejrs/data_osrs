@@ -1,13 +1,15 @@
 {
   "id": 8062,
   "name": "Orange tree",
-  "models_2": [
-    8060,
-    7767,
-    8051
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      8060,
+      7767,
+      8051
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick-orange",
@@ -15,5 +17,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

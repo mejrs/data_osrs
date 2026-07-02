@@ -1,7 +1,12 @@
 {
   "id": 12783,
   "name": "Repaired Roof",
-  "models_2": [
-    13987
-  ]
+  "object_models": {
+    "models": [
+      13987
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

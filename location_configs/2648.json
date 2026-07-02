@@ -1,12 +1,17 @@
 {
   "id": 2648,
-  "models": [
-    [
-      4,
-      25162
-    ]
-  ],
   "name": "Picture",
+  "object_models_and_types": {
+    "models": [
+      25162
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 30
+  "ambient": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 7236,
-  "models": [
-    [
-      4,
-      7597
-    ]
-  ],
   "name": "Wall safe",
+  "object_models_and_types": {
+    "models": [
+      7597
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "actions": [
@@ -37,5 +39,8 @@
       10762,
       3604
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

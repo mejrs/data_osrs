@@ -1,0 +1,17 @@
+{
+  "id": 60979,
+  "name": "Display case",
+  "object_models": {
+    "models": [
+      61220
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "translate_x": 65516,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

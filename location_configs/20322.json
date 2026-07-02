@@ -1,10 +1,12 @@
 {
   "id": 20322,
   "name": "Vault",
-  "models_2": [
-    16840
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      16840
+    ]
+  },
   "colours": [
     [
       43072,
@@ -31,5 +33,8 @@
       8737
     ]
   ],
-  "scale_y": 133
+  "scale_y": 133,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

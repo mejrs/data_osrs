@@ -1,9 +1,11 @@
 {
   "id": 6756,
   "name": "Chair",
-  "models_2": [
-    12447
-  ],
+  "object_models": {
+    "models": [
+      12447
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Sit-on",
@@ -13,5 +15,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

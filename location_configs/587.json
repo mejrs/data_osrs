@@ -1,7 +1,12 @@
 {
   "id": 587,
   "name": "Statue of Zamorak",
-  "models_2": [
-    1400
-  ]
+  "object_models": {
+    "models": [
+      1400
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

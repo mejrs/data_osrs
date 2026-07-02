@@ -1,26 +1,25 @@
 {
   "id": 30990,
-  "models": [
-    [
-      0,
-      33550
-    ],
-    [
-      1,
-      33557
-    ],
-    [
-      2,
-      33560
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      33550,
+      33557,
+      33560,
       33556
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 15,
   "contrast": 15,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

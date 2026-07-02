@@ -1,10 +1,12 @@
 {
   "id": 19923,
   "name": "Rocky outcrop",
-  "models_2": [
-    20056
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      20056
+    ]
+  },
   "actions": [
     null,
     "Inspect",
@@ -13,5 +15,8 @@
     null
   ],
   "translate_y": 95,
-  "translate_z": 64
+  "translate_z": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

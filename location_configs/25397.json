@@ -1,9 +1,11 @@
 {
   "id": 25397,
   "name": "Signpost",
-  "models_2": [
-    1402
-  ],
+  "object_models": {
+    "models": [
+      1402
+    ]
+  },
   "actions": [
     "Read",
     null,
@@ -24,5 +26,8 @@
       7715,
       6447
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

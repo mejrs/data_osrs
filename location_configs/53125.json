@@ -1,11 +1,13 @@
 {
   "id": 53125,
   "name": "Pillar",
-  "models_2": [
-    42355
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      42355
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_28": 32,
@@ -13,5 +15,8 @@
   "contrast": 25,
   "scale_x": 192,
   "scale_y": 256,
-  "scale_z": 192
+  "scale_z": 192,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

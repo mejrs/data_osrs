@@ -1,23 +1,19 @@
 {
   "id": 55328,
-  "models": [
-    [
-      0,
-      54743
-    ],
-    [
-      1,
-      54741
-    ],
-    [
-      2,
-      54742
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      54743,
+      54741,
+      54742,
       54750
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -33,5 +29,8 @@
       1321
     ]
   ],
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

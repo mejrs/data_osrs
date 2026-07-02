@@ -1,9 +1,11 @@
 {
   "id": 16894,
   "name": "Extra anchor",
-  "models_2": [
-    9529
-  ],
+  "object_models": {
+    "models": [
+      9529
+    ]
+  },
   "colours": [
     [
       5285,
@@ -22,5 +24,8 @@
       5157
     ]
   ],
-  "category": 529
+  "category": 529,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

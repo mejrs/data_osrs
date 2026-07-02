@@ -1,10 +1,15 @@
 {
   "id": 25151,
   "name": "Wall",
-  "models_2": [
-    26531
-  ],
+  "object_models": {
+    "models": [
+      26531
+    ]
+  },
   "unknown_22": true,
   "ambient": 15,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

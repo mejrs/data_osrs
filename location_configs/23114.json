@@ -1,14 +1,19 @@
 {
   "id": 23114,
   "name": "Fishing spot",
-  "models_2": [
-    1491
-  ],
+  "object_models": {
+    "models": [
+      1491
+    ]
+  },
   "actions": [
     "Net",
     "hidden",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

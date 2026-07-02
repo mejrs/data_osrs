@@ -1,10 +1,12 @@
 {
   "id": 21893,
   "name": "Symbol of life",
-  "models_2": [
-    22686
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      22686
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 5844,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

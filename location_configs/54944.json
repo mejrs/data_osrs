@@ -1,10 +1,12 @@
 {
   "id": 54944,
   "name": "Lab books",
-  "models_2": [
-    7392,
-    7394
-  ],
+  "object_models": {
+    "models": [
+      7392,
+      7394
+    ]
+  },
   "ambient": 20,
   "contrast": 30,
   "colours": [
@@ -34,5 +36,8 @@
     ]
   ],
   "category": 205,
-  "scale_z": 148
+  "scale_z": 148,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 11314,
   "name": "Cannon",
-  "models_2": [
-    11153
-  ],
   "dim_y": 2,
-  "unknown_27": false
+  "object_models": {
+    "models": [
+      11153
+    ]
+  },
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

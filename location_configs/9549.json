@@ -1,10 +1,15 @@
 {
   "id": 9549,
   "name": "Hot Coals",
-  "models_2": [
-    9523
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      9523
+    ]
+  },
   "unknown_24": 2708,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

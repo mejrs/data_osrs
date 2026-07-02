@@ -1,7 +1,12 @@
 {
   "id": 872,
   "name": "Large sewer pipe",
-  "models_2": [
-    1476
-  ]
+  "object_models": {
+    "models": [
+      1476
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

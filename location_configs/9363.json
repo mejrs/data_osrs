@@ -1,9 +1,11 @@
 {
   "id": 9363,
   "name": "Gravestone",
-  "models_2": [
-    13378
-  ],
+  "object_models": {
+    "models": [
+      13378
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Read",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "category": 1471
+  "category": 1471,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

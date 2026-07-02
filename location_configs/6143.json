@@ -1,17 +1,20 @@
 {
   "id": 6143,
-  "models": [
-    [
-      0,
-      5895
-    ],
-    [
-      3,
+  "object_models_and_types": {
+    "models": [
+      5895,
       5896
+    ],
+    "types": [
+      0,
+      3
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

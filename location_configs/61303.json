@@ -1,0 +1,24 @@
+{
+  "id": 61303,
+  "name": "Bookcase",
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      1263
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 29,
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

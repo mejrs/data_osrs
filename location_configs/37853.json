@@ -1,10 +1,15 @@
 {
   "id": 37853,
   "name": "Chains",
-  "models_2": [
-    39447
-  ],
+  "object_models": {
+    "models": [
+      39447
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
-  "translate_y": 65533
+  "translate_y": 65533,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

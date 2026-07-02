@@ -1,12 +1,14 @@
 {
   "id": 41434,
-  "models": [
-    [
-      4,
-      42014
-    ]
-  ],
   "name": "S.T.A.S.H chart",
+  "object_models_and_types": {
+    "models": [
+      42014
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 30,
   "actions": [
     "View",
@@ -16,5 +18,8 @@
     "Remove"
   ],
   "contrast": 20,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

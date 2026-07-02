@@ -1,10 +1,12 @@
 {
   "id": 4094,
   "name": "Basic Pyre",
-  "models_2": [
-    4138
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      4138
+    ]
+  },
   "unknown_24": 1304,
   "actions": [
     "Use",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 2051
+  "category": 2051,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

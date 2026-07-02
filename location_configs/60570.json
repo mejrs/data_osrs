@@ -1,11 +1,16 @@
 {
   "id": 60570,
   "name": "Cursed remains",
-  "models_2": [
-    59832
-  ],
+  "object_models": {
+    "models": [
+      59832
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 475,
   "ambient": 10,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

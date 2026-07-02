@@ -1,8 +1,13 @@
 {
   "id": 12258,
   "name": "Dragonfire",
-  "models_2": [
-    13844
-  ],
-  "unknown_24": 3347
+  "object_models": {
+    "models": [
+      13844
+    ]
+  },
+  "unknown_24": 3347,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

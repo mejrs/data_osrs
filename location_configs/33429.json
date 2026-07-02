@@ -1,19 +1,31 @@
 {
   "id": 33429,
-  "name": "Spiritual Fairy Tree",
-  "models_2": [
-    55583,
-    55873
-  ],
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
-  "unknown_27": false,
+  "name": "Stymphike tree",
+  "object_models": {
+    "models": [
+      61105
+    ]
+  },
+  "ambient": 20,
   "actions": [
-    "Tree",
-    "Ring-Zanaris",
-    "Ring-configure",
-    "Ring-last-destination (BJP)",
-    "Remove"
-  ]
+    "Bait",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mapscene": 265,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15464,
+      "min": 0,
+      "max": 176,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
 }

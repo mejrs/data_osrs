@@ -1,25 +1,26 @@
 {
   "id": 21509,
-  "models": [
-    [
-      0,
-      22104
-    ],
-    [
-      3,
-      22105
-    ],
-    [
-      22,
-      22103
-    ]
-  ],
   "name": "Rope bridge",
+  "object_models_and_types": {
+    "models": [
+      22104,
+      22105,
+      22103
+    ],
+    "types": [
+      0,
+      3,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 20,
   "contrast": 20,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

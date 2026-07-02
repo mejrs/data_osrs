@@ -1,11 +1,16 @@
 {
   "id": 20039,
   "name": "Switch",
-  "models_2": [
-    20335
-  ],
+  "object_models": {
+    "models": [
+      20335
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

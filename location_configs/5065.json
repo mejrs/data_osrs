@@ -1,14 +1,19 @@
 {
   "id": 5065,
-  "models_2": [
-    5016
-  ],
   "dim_y": 6,
+  "object_models": {
+    "models": [
+      5016
+    ]
+  },
   "unknown_19": 0,
   "colours": [
     [
       61,
       6449
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

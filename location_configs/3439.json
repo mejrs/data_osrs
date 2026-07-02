@@ -1,23 +1,19 @@
 {
   "id": 3439,
-  "models": [
-    [
-      0,
-      3539
-    ],
-    [
-      2,
-      3540
-    ],
-    [
-      3,
-      3541
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      3539,
+      3540,
+      3541,
       3542
+    ],
+    "types": [
+      0,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "colours": [
@@ -28,5 +24,8 @@
   ],
   "textures": {
     "16": 5
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

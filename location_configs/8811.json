@@ -1,20 +1,18 @@
 {
   "id": 8811,
-  "models": [
-    [
-      0,
-      966
-    ],
-    [
-      1,
-      967
-    ],
-    [
-      9,
-      968
-    ]
-  ],
   "name": "Gate",
+  "object_models_and_types": {
+    "models": [
+      966,
+      967,
+      968
+    ],
+    "types": [
+      0,
+      1,
+      9
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "actions": [
@@ -25,5 +23,8 @@
     null
   ],
   "mirror": true,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

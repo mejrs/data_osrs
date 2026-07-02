@@ -1,9 +1,11 @@
 {
   "id": 42204,
   "name": "<col=ffff00>Cat</col>",
-  "models_2": [
-    42559
-  ],
+  "object_models": {
+    "models": [
+      42559
+    ]
+  },
   "unknown_24": 8231,
   "ambient": 15,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

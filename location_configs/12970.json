@@ -1,10 +1,12 @@
 {
   "id": 12970,
   "name": "Bed",
-  "models_2": [
-    5192
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5192
+    ]
+  },
   "colours": [
     [
       7952,
@@ -14,5 +16,8 @@
       6707,
       5541
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,8 +1,13 @@
 {
   "id": 35803,
   "name": "Fishing net",
-  "models_2": [
-    38731
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      38731
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

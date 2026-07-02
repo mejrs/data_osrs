@@ -1,8 +1,13 @@
 {
   "id": 12122,
   "name": "Water Trough",
-  "models_2": [
-    11949
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      11949
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,15 @@
 {
   "id": 7946,
   "name": "Apple tree",
-  "models_2": [
-    7927,
-    7767,
-    7921
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7927,
+      7767,
+      7921
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick-apple",
@@ -15,5 +17,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

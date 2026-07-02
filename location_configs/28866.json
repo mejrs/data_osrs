@@ -1,10 +1,12 @@
 {
   "id": 28866,
   "name": "Redwood Pyre",
-  "models_2": [
-    4138
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      4138
+    ]
+  },
   "actions": [
     "Light",
     null,
@@ -12,5 +14,8 @@
     "Hidden",
     null
   ],
-  "category": 2052
+  "category": 2052,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 42103,
   "name": "Broken altar",
-  "models_2": [
-    37300
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      37300
+    ]
+  },
   "unknown_27": false,
   "ambient": 5,
   "actions": [
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 5,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

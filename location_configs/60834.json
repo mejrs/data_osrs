@@ -1,0 +1,21 @@
+{
+  "id": 60834,
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 19226,
+    "ids": [
+      60835,
+      60836
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

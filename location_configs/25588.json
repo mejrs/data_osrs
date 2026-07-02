@@ -1,10 +1,12 @@
 {
   "id": 25588,
   "name": "Stone arch",
-  "models_2": [
-    27014
-  ],
   "dim_x": 5,
+  "object_models": {
+    "models": [
+      27014
+    ]
+  },
   "ambient": 5,
   "contrast": 5,
   "colours": [
@@ -16,5 +18,8 @@
       11142,
       5392
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

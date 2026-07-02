@@ -1,9 +1,11 @@
 {
   "id": 15345,
   "name": "Elemental balance space",
-  "models_2": [
-    12697
-  ],
+  "object_models": {
+    "models": [
+      12697
+    ]
+  },
   "actions": [
     null,
     null,
@@ -11,5 +13,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

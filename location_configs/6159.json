@@ -1,10 +1,12 @@
 {
   "id": 6159,
   "name": "Red fungi",
-  "models_2": [
-    5917,
-    5916
-  ],
+  "object_models": {
+    "models": [
+      5917,
+      5916
+    ]
+  },
   "unknown_17": false,
   "colours": [
     [
@@ -26,5 +28,8 @@
   ],
   "scale_x": 100,
   "scale_y": 100,
-  "scale_z": 100
+  "scale_z": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

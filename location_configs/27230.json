@@ -1,12 +1,14 @@
 {
   "id": 27230,
-  "models": [
-    [
-      4,
-      9557
-    ]
-  ],
   "name": "Information",
+  "object_models_and_types": {
+    "models": [
+      9557
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Check",
@@ -40,5 +42,8 @@
       3623,
       41
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

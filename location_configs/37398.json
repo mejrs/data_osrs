@@ -1,9 +1,11 @@
 {
   "id": 37398,
   "name": "Boxes",
-  "models_2": [
-    2139
-  ],
+  "object_models": {
+    "models": [
+      2139
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
@@ -15,5 +17,8 @@
   ],
   "textures": {
     "16": 22
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

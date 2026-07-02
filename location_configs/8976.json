@@ -1,11 +1,13 @@
 {
   "id": 8976,
   "name": "Depleted runestone",
-  "models_2": [
-    31000
-  ],
   "dim_x": 5,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      31000
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "occludes_1": false,
@@ -28,5 +30,8 @@
       33
     ]
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

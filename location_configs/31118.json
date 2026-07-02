@@ -1,8 +1,13 @@
 {
   "id": 31118,
   "name": "Petrified Pitcher",
-  "models_2": [
-    33312,
-    33417
-  ]
+  "object_models": {
+    "models": [
+      33312,
+      33417
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

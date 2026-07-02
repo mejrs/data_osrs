@@ -1,8 +1,13 @@
 {
   "id": 9530,
   "name": "Fungus",
-  "models_2": [
-    1609
-  ],
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      1609
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 10787,
   "name": "Rock",
-  "models_2": [
-    1517
-  ],
+  "object_models": {
+    "models": [
+      1517
+    ]
+  },
   "is_transparent": true,
-  "mapscene": 11
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

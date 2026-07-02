@@ -1,20 +1,18 @@
 {
   "id": 60177,
-  "models": [
-    [
-      0,
-      39347
-    ],
-    [
-      1,
-      39410
-    ],
-    [
-      9,
-      39361
-    ]
-  ],
   "name": "minotaurs_rest_cave_wall_upper",
+  "object_models_and_types": {
+    "models": [
+      39347,
+      39410,
+      39361
+    ],
+    "types": [
+      0,
+      1,
+      9
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -46,5 +44,8 @@
       898
     ]
   ],
-  "scale_y": 200
+  "scale_y": 200,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

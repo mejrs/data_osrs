@@ -1,10 +1,12 @@
 {
   "id": 49206,
   "name": "Closed Passage",
-  "models_2": [
-    48879
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      48879
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -12,5 +14,8 @@
   "ambient": 5,
   "contrast": 20,
   "model": false,
-  "scale_y": 166
+  "scale_y": 166,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 27697,
   "name": "Beer barrels",
-  "models_2": [
-    30328,
-    30286
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      30328,
+      30286
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "colours": [
@@ -18,5 +20,8 @@
       6430
     ]
   ],
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

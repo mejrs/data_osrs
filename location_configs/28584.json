@@ -1,10 +1,12 @@
 {
   "id": 28584,
   "name": "Pot of dynamite",
-  "models_2": [
-    30186,
-    30184
-  ],
+  "object_models": {
+    "models": [
+      30186,
+      30184
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 30,
-  "category": 915
+  "category": 915,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

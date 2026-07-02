@@ -1,9 +1,11 @@
 {
   "id": 2592,
   "name": "Ladder",
-  "models_2": [
-    58311
-  ],
+  "object_models": {
+    "models": [
+      58311
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

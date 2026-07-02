@@ -1,7 +1,12 @@
 {
   "id": 6927,
   "name": "Big, big boulder...",
-  "models_2": [
-    6880
-  ]
+  "object_models": {
+    "models": [
+      6880
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

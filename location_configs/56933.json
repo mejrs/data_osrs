@@ -1,9 +1,11 @@
 {
   "id": 56933,
   "name": "Eggs",
-  "models_2": [
-    56636
-  ],
+  "object_models": {
+    "models": [
+      56636
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -25,5 +27,8 @@
       6945,
       6707
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

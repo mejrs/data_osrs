@@ -1,9 +1,11 @@
 {
   "id": 14896,
   "name": "Flax",
-  "models_2": [
-    1668
-  ],
+  "object_models": {
+    "models": [
+      1668
+    ]
+  },
   "unknown_17": false,
   "actions": [
     null,
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "mapscene": 32
+  "mapscene": 32,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

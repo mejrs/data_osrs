@@ -1,8 +1,13 @@
 {
   "id": 23130,
   "name": "Ropeswing",
-  "models_2": [
-    2278
-  ],
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      2278
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 46711,
   "name": "Chest",
-  "models_2": [
-    47123
-  ],
+  "object_models": {
+    "models": [
+      47123
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "contrast": 10,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

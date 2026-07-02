@@ -1,11 +1,13 @@
 {
   "id": 29141,
   "name": "Adventure log space",
-  "models_2": [
-    32155
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32155
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -17,6 +19,9 @@
   ],
   "category": 207,
   "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 2,
     "430": 2

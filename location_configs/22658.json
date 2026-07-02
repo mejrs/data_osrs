@@ -1,9 +1,14 @@
 {
   "id": 22658,
   "name": "Open gate",
-  "models_2": [
-    23278
-  ],
+  "object_models": {
+    "models": [
+      23278
+    ]
+  },
   "unknown_19": 1,
-  "unknown_21": true
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

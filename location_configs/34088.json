@@ -1,11 +1,13 @@
 {
   "id": 34088,
   "name": "Dead Redwood tree",
-  "models_2": [
-    36694
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      36694
+    ]
+  },
   "unknown_19": 1,
   "ambient": -20,
   "contrast": 100,
@@ -34,5 +36,8 @@
       10508,
       38049
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

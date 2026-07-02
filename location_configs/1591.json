@@ -1,18 +1,21 @@
 {
   "id": 1591,
-  "models": [
-    [
-      10,
-      653
-    ],
-    [
-      0,
-      644
-    ]
-  ],
   "name": "Doorway",
+  "object_models_and_types": {
+    "models": [
+      653,
+      644
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
   "unknown_22": true,
   "ambient": 25,
   "contrast": 25,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

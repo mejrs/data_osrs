@@ -1,10 +1,12 @@
 {
   "id": 17627,
   "name": "Washing Line",
-  "models_2": [
-    18174
-  ],
   "dim_x": 5,
+  "object_models": {
+    "models": [
+      18174
+    ]
+  },
   "unknown_24": 4778,
   "ambient": 10,
   "contrast": 10,
@@ -35,5 +37,8 @@
     ]
   ],
   "scale_x": 140,
-  "translate_y": 65443
+  "translate_y": 65443,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 6921,
-  "models": [
-    [
-      4,
-      6891
-    ]
-  ],
   "name": "Symbol",
+  "object_models_and_types": {
+    "models": [
+      6891
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "actions": [
@@ -26,5 +28,8 @@
       10258
     ]
   ],
-  "mapscene": 36
+  "mapscene": 36,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

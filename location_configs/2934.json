@@ -1,11 +1,13 @@
 {
   "id": 2934,
   "name": "Winch",
-  "models_2": [
-    1795
-  ],
   "dim_x": 4,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      1795
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -15,5 +17,8 @@
   ],
   "scale_x": 300,
   "scale_y": 300,
-  "scale_z": 300
+  "scale_z": 300,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

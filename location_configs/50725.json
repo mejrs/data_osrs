@@ -1,13 +1,15 @@
 {
   "id": 50725,
   "name": "Deadfall",
-  "models_2": [
-    52616,
-    52615,
-    52617,
-    52618
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      52616,
+      52615,
+      52617,
+      52618
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 10789,
   "colours": [
@@ -37,5 +39,8 @@
     ]
   ],
   "category": 393,
-  "mapscene": 71
+  "mapscene": 71,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 56993,
-  "models": [
-    [
-      22,
-      1024
-    ]
-  ],
   "name": "Log balance",
+  "object_models_and_types": {
+    "models": [
+      1024
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -18,5 +20,8 @@
       5014,
       3470
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

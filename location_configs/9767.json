@@ -1,15 +1,20 @@
 {
   "id": 9767,
   "name": "Slave",
-  "models_2": [
-    9675
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      9675
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

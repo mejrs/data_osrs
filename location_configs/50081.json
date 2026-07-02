@@ -1,13 +1,15 @@
 {
   "id": 50081,
   "name": "White Tree patch",
-  "models_2": [
-    9221,
-    9216,
-    9214
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      9221,
+      9216,
+      9214
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 25,
@@ -28,5 +30,8 @@
       5338,
       5198
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

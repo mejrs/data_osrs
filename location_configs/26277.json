@@ -1,9 +1,11 @@
 {
   "id": 26277,
   "name": "Super ranging potion",
-  "models_2": [
-    12388
-  ],
+  "object_models": {
+    "models": [
+      12388
+    ]
+  },
   "actions": [
     "Check",
     "Take",
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

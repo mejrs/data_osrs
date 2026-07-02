@@ -1,11 +1,13 @@
 {
   "id": 31584,
   "name": "Mysterious ruins",
-  "models_2": [
-    9625
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      9625
+    ]
+  },
   "actions": [
     "Enter",
     null,
@@ -22,5 +24,8 @@
       36824,
       33715
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

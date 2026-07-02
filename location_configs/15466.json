@@ -1,8 +1,13 @@
 {
   "id": 15466,
   "name": "Stone crusher",
-  "models_2": [
-    13280
-  ],
-  "unknown_24": 3699
+  "object_models": {
+    "models": [
+      13280
+    ]
+  },
+  "unknown_24": 3699,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

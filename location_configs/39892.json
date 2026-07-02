@@ -1,10 +1,12 @@
 {
   "id": 39892,
   "name": "Teak table",
-  "models_2": [
-    12492,
-    40791
-  ],
+  "object_models": {
+    "models": [
+      12492,
+      40791
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

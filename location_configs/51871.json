@@ -1,13 +1,18 @@
 {
   "id": 51871,
   "name": "Shrine",
-  "models_2": [
-    52292
-  ],
   "dim_x": 5,
+  "object_models": {
+    "models": [
+      52292
+    ]
+  },
   "ambient": 10,
   "contrast": 25,
   "scale_x": 192,
   "scale_y": 192,
-  "scale_z": 192
+  "scale_z": 192,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

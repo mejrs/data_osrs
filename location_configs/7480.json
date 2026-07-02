@@ -1,11 +1,13 @@
 {
   "id": 7480,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       11820
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "colours": [
@@ -18,5 +20,9 @@
       14511
     ]
   ],
-  "scale_y": 32
+  "scale_y": 32,
+  "raise": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

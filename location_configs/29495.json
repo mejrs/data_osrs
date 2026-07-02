@@ -1,79 +1,6466 @@
 {
   "id": 29495,
+  "name": "Fairy ring",
+  "object_models": {
+    "models": [
+      47197
+    ]
+  },
+  "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 9845,
   "unknown_27": false,
   "ambient": 60,
+  "actions": [
+    "Zanaris",
+    "Configure",
+    "Last-destination",
+    "Favourites",
+    null
+  ],
   "category": 522,
-  "morphs_1": {
-    "varbit": 5374,
-    "ids": [
-      29496,
-      29497,
-      29498,
-      29499,
-      29500,
-      29501,
-      29502,
-      29503,
-      29504,
-      29505,
-      29506,
-      29507,
-      29508,
-      29509,
-      29510,
-      29511,
-      29512,
-      29513,
-      29514,
-      29515,
-      29516,
-      29517,
-      29518,
-      29519,
-      29520,
-      29521,
-      29522,
-      29523,
-      29524,
-      29525,
-      29526,
-      29527,
-      29528,
-      29529,
-      29530,
-      29531,
-      29532,
-      29533,
-      29534,
-      29535,
-      29536,
-      29537,
-      29538,
-      29539,
-      29540,
-      29541,
-      29542,
-      29543,
-      29544,
-      29545,
-      29546,
-      29547,
-      29548,
-      29549,
-      29550,
-      29551,
-      29552,
-      29553,
-      29554,
-      29555,
-      29556,
-      29557,
-      29558,
-      29559
-    ]
-  },
+  "sub_op": [
+    {
+      "index": 3,
+      "sub_id": 1,
+      "text": "Favourite 1"
+    },
+    {
+      "index": 3,
+      "sub_id": 2,
+      "text": "Favourite 2"
+    },
+    {
+      "index": 3,
+      "sub_id": 3,
+      "text": "Favourite 3"
+    },
+    {
+      "index": 3,
+      "sub_id": 4,
+      "text": "Favourite 4"
+    },
+    {
+      "index": 3,
+      "sub_id": 5,
+      "text": "Favourite 5"
+    },
+    {
+      "index": 3,
+      "sub_id": 6,
+      "text": "Favourite 6"
+    },
+    {
+      "index": 3,
+      "sub_id": 7,
+      "text": "Favourite 7"
+    },
+    {
+      "index": 3,
+      "sub_id": 8,
+      "text": "Favourite 8"
+    },
+    {
+      "index": 3,
+      "sub_id": 9,
+      "text": "Favourite 9"
+    },
+    {
+      "index": 3,
+      "sub_id": 10,
+      "text": "Favourite 10"
+    }
+  ],
+  "conditional_op": [
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 0,
+      "max": 63,
+      "text": ""
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 64,
+      "max": 64,
+      "text": "Last-destination (AIP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 65,
+      "max": 65,
+      "text": "Last-destination (AIS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 66,
+      "max": 66,
+      "text": "Last-destination (AIR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 67,
+      "max": 67,
+      "text": "Last-destination (AIQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 68,
+      "max": 68,
+      "text": "Last-destination (ALP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 69,
+      "max": 69,
+      "text": "Last-destination (ALS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 70,
+      "max": 70,
+      "text": "Last-destination (ALR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 71,
+      "max": 71,
+      "text": "Last-destination (ALQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 72,
+      "max": 72,
+      "text": "Last-destination (AKP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 73,
+      "max": 73,
+      "text": "Last-destination (AKS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 74,
+      "max": 74,
+      "text": "Last-destination (AKR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 75,
+      "max": 75,
+      "text": "Last-destination (AKQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 76,
+      "max": 76,
+      "text": "Last-destination (AJP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 77,
+      "max": 77,
+      "text": "Last-destination (AJS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 78,
+      "max": 78,
+      "text": "Last-destination (AJR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 79,
+      "max": 79,
+      "text": "Last-destination (AJQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 80,
+      "max": 80,
+      "text": "Last-destination (DIP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 81,
+      "max": 81,
+      "text": "Last-destination (DIS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 82,
+      "max": 82,
+      "text": "Last-destination (DIR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 83,
+      "max": 83,
+      "text": "Last-destination (DIQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 84,
+      "max": 84,
+      "text": "Last-destination (DLP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 85,
+      "max": 85,
+      "text": "Last-destination (DLS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 86,
+      "max": 86,
+      "text": "Last-destination (DLR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 87,
+      "max": 87,
+      "text": "Last-destination (DLQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 88,
+      "max": 88,
+      "text": "Last-destination (DKP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 89,
+      "max": 89,
+      "text": "Last-destination (DKS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 90,
+      "max": 90,
+      "text": "Last-destination (DKR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 91,
+      "max": 91,
+      "text": "Last-destination (DKQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 92,
+      "max": 92,
+      "text": "Last-destination (DJP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 93,
+      "max": 93,
+      "text": "Last-destination (DJS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 94,
+      "max": 94,
+      "text": "Last-destination (DJR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 95,
+      "max": 95,
+      "text": "Last-destination (DJQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 96,
+      "max": 96,
+      "text": "Last-destination (CIP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 97,
+      "max": 97,
+      "text": "Last-destination (CIS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 98,
+      "max": 98,
+      "text": "Last-destination (CIR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 99,
+      "max": 99,
+      "text": "Last-destination (CIQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 100,
+      "max": 100,
+      "text": "Last-destination (CLP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 101,
+      "max": 101,
+      "text": "Last-destination (CLS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 102,
+      "max": 102,
+      "text": "Last-destination (CLR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 103,
+      "max": 103,
+      "text": "Last-destination (CLQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 104,
+      "max": 104,
+      "text": "Last-destination (CKP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 105,
+      "max": 105,
+      "text": "Last-destination (CKS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 106,
+      "max": 106,
+      "text": "Last-destination (CKR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 107,
+      "max": 107,
+      "text": "Last-destination (CKQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 108,
+      "max": 108,
+      "text": "Last-destination (CJP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 109,
+      "max": 109,
+      "text": "Last-destination (CJS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 110,
+      "max": 110,
+      "text": "Last-destination (CJR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 111,
+      "max": 111,
+      "text": "Last-destination (CJQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 112,
+      "max": 112,
+      "text": "Last-destination (BIP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 113,
+      "max": 113,
+      "text": "Last-destination (BIS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 114,
+      "max": 114,
+      "text": "Last-destination (BIR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 115,
+      "max": 115,
+      "text": "Last-destination (BIQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 116,
+      "max": 116,
+      "text": "Last-destination (BLP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 117,
+      "max": 117,
+      "text": "Last-destination (BLS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 118,
+      "max": 118,
+      "text": "Last-destination (BLR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 119,
+      "max": 119,
+      "text": "Last-destination (BLQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 120,
+      "max": 120,
+      "text": "Last-destination (BKP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 121,
+      "max": 121,
+      "text": "Last-destination (BKS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 122,
+      "max": 122,
+      "text": "Last-destination (BKR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 123,
+      "max": 123,
+      "text": "Last-destination (BKQ)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 124,
+      "max": 124,
+      "text": "Last-destination (BJP)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 125,
+      "max": 125,
+      "text": "Last-destination (BJS)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 126,
+      "max": 126,
+      "text": "Last-destination (BJR)"
+    },
+    {
+      "index": 2,
+      "varp": 65535,
+      "varb": 20251,
+      "min": 127,
+      "max": 127,
+      "text": "Last-destination (BJQ)"
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20239,
+      "min": 0,
+      "max": 0,
+      "text": ""
+    },
+    {
+      "index": 3,
+      "varp": 65535,
+      "varb": 20239,
+      "min": 1,
+      "max": 4095,
+      "text": "Favourites"
+    }
+  ],
+  "conditional_sub_op": [
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 0,
+      "text": "?"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1073741824,
+      "text": "@AIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1090519040,
+      "text": "AAIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1107296256,
+      "text": "BAIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1124073472,
+      "text": "CAIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1140850688,
+      "text": "DALP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1157627904,
+      "text": "EALS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1174405120,
+      "text": "FALR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1191182336,
+      "text": "GALQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1207959552,
+      "text": "HAKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1224736768,
+      "text": "IAKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1241513984,
+      "text": "JAKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1258291200,
+      "text": "KAKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1275068416,
+      "text": "LAJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1291845632,
+      "text": "MAJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1308622848,
+      "text": "NAJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1325400064,
+      "text": "OAJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1342177280,
+      "text": "PDIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1358954496,
+      "text": "QDIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1375731712,
+      "text": "RDIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1392508928,
+      "text": "SDIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1409286144,
+      "text": "TDLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1426063360,
+      "text": "UDLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1442840576,
+      "text": "VDLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1459617792,
+      "text": "WDLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1476395008,
+      "text": "XDKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1493172224,
+      "text": "YDKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1509949440,
+      "text": "ZDKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1526726656,
+      "text": "[DKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1543503872,
+      "text": "\\DJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1560281088,
+      "text": "]DJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1577058304,
+      "text": "^DJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1593835520,
+      "text": "_DJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1610612736,
+      "text": "`CIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1627389952,
+      "text": "aCIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1644167168,
+      "text": "bCIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1660944384,
+      "text": "cCIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1677721600,
+      "text": "dCLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1694498816,
+      "text": "eCLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1711276032,
+      "text": "fCLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1728053248,
+      "text": "gCLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1744830464,
+      "text": "hCKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1761607680,
+      "text": "iCKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1778384896,
+      "text": "jCKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1795162112,
+      "text": "kCKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1811939328,
+      "text": "lCJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1828716544,
+      "text": "mCJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1845493760,
+      "text": "nCJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1862270976,
+      "text": "oCJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1879048192,
+      "text": "pBIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1895825408,
+      "text": "qBIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1912602624,
+      "text": "rBIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1929379840,
+      "text": "sBIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1946157056,
+      "text": "tBLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1962934272,
+      "text": "uBLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1979711488,
+      "text": "vBLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 1996488704,
+      "text": "wBLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 2013265920,
+      "text": "xBKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 2030043136,
+      "text": "yBKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 2046820352,
+      "text": "zBKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 2063597568,
+      "text": "{BKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 2080374784,
+      "text": "|BJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 2097152000,
+      "text": "}BJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 2113929216,
+      "text": "~BJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 511,
+      "varb": 65359,
+      "min": 268435456,
+      "max": 2130706432,
+      "text": "BJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 0,
+      "text": "?"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1073741824,
+      "text": "@AIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1090519040,
+      "text": "AAIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1107296256,
+      "text": "BAIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1124073472,
+      "text": "CAIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1140850688,
+      "text": "DALP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1157627904,
+      "text": "EALS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1174405120,
+      "text": "FALR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1191182336,
+      "text": "GALQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1207959552,
+      "text": "HAKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1224736768,
+      "text": "IAKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1241513984,
+      "text": "JAKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1258291200,
+      "text": "KAKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1275068416,
+      "text": "LAJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1291845632,
+      "text": "MAJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1308622848,
+      "text": "NAJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1325400064,
+      "text": "OAJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1342177280,
+      "text": "PDIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1358954496,
+      "text": "QDIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1375731712,
+      "text": "RDIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1392508928,
+      "text": "SDIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1409286144,
+      "text": "TDLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1426063360,
+      "text": "UDLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1442840576,
+      "text": "VDLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1459617792,
+      "text": "WDLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1476395008,
+      "text": "XDKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1493172224,
+      "text": "YDKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1509949440,
+      "text": "ZDKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1526726656,
+      "text": "[DKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1543503872,
+      "text": "\\DJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1560281088,
+      "text": "]DJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1577058304,
+      "text": "^DJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1593835520,
+      "text": "_DJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1610612736,
+      "text": "`CIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1627389952,
+      "text": "aCIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1644167168,
+      "text": "bCIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1660944384,
+      "text": "cCIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1677721600,
+      "text": "dCLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1694498816,
+      "text": "eCLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1711276032,
+      "text": "fCLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1728053248,
+      "text": "gCLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1744830464,
+      "text": "hCKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1761607680,
+      "text": "iCKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1778384896,
+      "text": "jCKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1795162112,
+      "text": "kCKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1811939328,
+      "text": "lCJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1828716544,
+      "text": "mCJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1845493760,
+      "text": "nCJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1862270976,
+      "text": "oCJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1879048192,
+      "text": "pBIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1895825408,
+      "text": "qBIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1912602624,
+      "text": "rBIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1929379840,
+      "text": "sBIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1946157056,
+      "text": "tBLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1962934272,
+      "text": "uBLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1979711488,
+      "text": "vBLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 1996488704,
+      "text": "wBLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 2013265920,
+      "text": "xBKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 2030043136,
+      "text": "yBKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 2046820352,
+      "text": "zBKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 2063597568,
+      "text": "{BKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 2080374784,
+      "text": "|BJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 2097152000,
+      "text": "}BJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 2113929216,
+      "text": "~BJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 767,
+      "varb": 65359,
+      "min": 285212672,
+      "max": 2130706432,
+      "text": "BJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 0,
+      "text": "?"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1073741824,
+      "text": "@AIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1090519040,
+      "text": "AAIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1107296256,
+      "text": "BAIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1124073472,
+      "text": "CAIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1140850688,
+      "text": "DALP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1157627904,
+      "text": "EALS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1174405120,
+      "text": "FALR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1191182336,
+      "text": "GALQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1207959552,
+      "text": "HAKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1224736768,
+      "text": "IAKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1241513984,
+      "text": "JAKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1258291200,
+      "text": "KAKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1275068416,
+      "text": "LAJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1291845632,
+      "text": "MAJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1308622848,
+      "text": "NAJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1325400064,
+      "text": "OAJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1342177280,
+      "text": "PDIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1358954496,
+      "text": "QDIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1375731712,
+      "text": "RDIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1392508928,
+      "text": "SDIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1409286144,
+      "text": "TDLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1426063360,
+      "text": "UDLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1442840576,
+      "text": "VDLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1459617792,
+      "text": "WDLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1476395008,
+      "text": "XDKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1493172224,
+      "text": "YDKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1509949440,
+      "text": "ZDKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1526726656,
+      "text": "[DKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1543503872,
+      "text": "\\DJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1560281088,
+      "text": "]DJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1577058304,
+      "text": "^DJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1593835520,
+      "text": "_DJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1610612736,
+      "text": "`CIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1627389952,
+      "text": "aCIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1644167168,
+      "text": "bCIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1660944384,
+      "text": "cCIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1677721600,
+      "text": "dCLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1694498816,
+      "text": "eCLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1711276032,
+      "text": "fCLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1728053248,
+      "text": "gCLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1744830464,
+      "text": "hCKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1761607680,
+      "text": "iCKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1778384896,
+      "text": "jCKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1795162112,
+      "text": "kCKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1811939328,
+      "text": "lCJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1828716544,
+      "text": "mCJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1845493760,
+      "text": "nCJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1862270976,
+      "text": "oCJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1879048192,
+      "text": "pBIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1895825408,
+      "text": "qBIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1912602624,
+      "text": "rBIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1929379840,
+      "text": "sBIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1946157056,
+      "text": "tBLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1962934272,
+      "text": "uBLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1979711488,
+      "text": "vBLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 1996488704,
+      "text": "wBLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 2013265920,
+      "text": "xBKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 2030043136,
+      "text": "yBKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 2046820352,
+      "text": "zBKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 2063597568,
+      "text": "{BKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 2080374784,
+      "text": "|BJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 2097152000,
+      "text": "}BJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 2113929216,
+      "text": "~BJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1023,
+      "varb": 65359,
+      "min": 301989888,
+      "max": 2130706432,
+      "text": "BJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 0,
+      "text": "?"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1073741824,
+      "text": "@AIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1090519040,
+      "text": "AAIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1107296256,
+      "text": "BAIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1124073472,
+      "text": "CAIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1140850688,
+      "text": "DALP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1157627904,
+      "text": "EALS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1174405120,
+      "text": "FALR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1191182336,
+      "text": "GALQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1207959552,
+      "text": "HAKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1224736768,
+      "text": "IAKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1241513984,
+      "text": "JAKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1258291200,
+      "text": "KAKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1275068416,
+      "text": "LAJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1291845632,
+      "text": "MAJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1308622848,
+      "text": "NAJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1325400064,
+      "text": "OAJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1342177280,
+      "text": "PDIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1358954496,
+      "text": "QDIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1375731712,
+      "text": "RDIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1392508928,
+      "text": "SDIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1409286144,
+      "text": "TDLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1426063360,
+      "text": "UDLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1442840576,
+      "text": "VDLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1459617792,
+      "text": "WDLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1476395008,
+      "text": "XDKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1493172224,
+      "text": "YDKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1509949440,
+      "text": "ZDKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1526726656,
+      "text": "[DKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1543503872,
+      "text": "\\DJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1560281088,
+      "text": "]DJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1577058304,
+      "text": "^DJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1593835520,
+      "text": "_DJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1610612736,
+      "text": "`CIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1627389952,
+      "text": "aCIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1644167168,
+      "text": "bCIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1660944384,
+      "text": "cCIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1677721600,
+      "text": "dCLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1694498816,
+      "text": "eCLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1711276032,
+      "text": "fCLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1728053248,
+      "text": "gCLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1744830464,
+      "text": "hCKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1761607680,
+      "text": "iCKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1778384896,
+      "text": "jCKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1795162112,
+      "text": "kCKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1811939328,
+      "text": "lCJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1828716544,
+      "text": "mCJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1845493760,
+      "text": "nCJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1862270976,
+      "text": "oCJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1879048192,
+      "text": "pBIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1895825408,
+      "text": "qBIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1912602624,
+      "text": "rBIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1929379840,
+      "text": "sBIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1946157056,
+      "text": "tBLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1962934272,
+      "text": "uBLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1979711488,
+      "text": "vBLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 1996488704,
+      "text": "wBLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 2013265920,
+      "text": "xBKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 2030043136,
+      "text": "yBKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 2046820352,
+      "text": "zBKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 2063597568,
+      "text": "{BKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 2080374784,
+      "text": "|BJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 2097152000,
+      "text": "}BJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 2113929216,
+      "text": "~BJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1279,
+      "varb": 65359,
+      "min": 318767104,
+      "max": 2130706432,
+      "text": "BJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 0,
+      "text": "?"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1073741824,
+      "text": "@AIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1090519040,
+      "text": "AAIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1107296256,
+      "text": "BAIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1124073472,
+      "text": "CAIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1140850688,
+      "text": "DALP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1157627904,
+      "text": "EALS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1174405120,
+      "text": "FALR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1191182336,
+      "text": "GALQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1207959552,
+      "text": "HAKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1224736768,
+      "text": "IAKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1241513984,
+      "text": "JAKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1258291200,
+      "text": "KAKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1275068416,
+      "text": "LAJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1291845632,
+      "text": "MAJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1308622848,
+      "text": "NAJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1325400064,
+      "text": "OAJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1342177280,
+      "text": "PDIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1358954496,
+      "text": "QDIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1375731712,
+      "text": "RDIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1392508928,
+      "text": "SDIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1409286144,
+      "text": "TDLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1426063360,
+      "text": "UDLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1442840576,
+      "text": "VDLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1459617792,
+      "text": "WDLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1476395008,
+      "text": "XDKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1493172224,
+      "text": "YDKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1509949440,
+      "text": "ZDKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1526726656,
+      "text": "[DKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1543503872,
+      "text": "\\DJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1560281088,
+      "text": "]DJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1577058304,
+      "text": "^DJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1593835520,
+      "text": "_DJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1610612736,
+      "text": "`CIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1627389952,
+      "text": "aCIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1644167168,
+      "text": "bCIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1660944384,
+      "text": "cCIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1677721600,
+      "text": "dCLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1694498816,
+      "text": "eCLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1711276032,
+      "text": "fCLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1728053248,
+      "text": "gCLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1744830464,
+      "text": "hCKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1761607680,
+      "text": "iCKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1778384896,
+      "text": "jCKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1795162112,
+      "text": "kCKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1811939328,
+      "text": "lCJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1828716544,
+      "text": "mCJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1845493760,
+      "text": "nCJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1862270976,
+      "text": "oCJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1879048192,
+      "text": "pBIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1895825408,
+      "text": "qBIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1912602624,
+      "text": "rBIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1929379840,
+      "text": "sBIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1946157056,
+      "text": "tBLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1962934272,
+      "text": "uBLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1979711488,
+      "text": "vBLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 1996488704,
+      "text": "wBLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 2013265920,
+      "text": "xBKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 2030043136,
+      "text": "yBKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 2046820352,
+      "text": "zBKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 2063597568,
+      "text": "{BKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 2080374784,
+      "text": "|BJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 2097152000,
+      "text": "}BJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 2113929216,
+      "text": "~BJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1535,
+      "varb": 65359,
+      "min": 335544320,
+      "max": 2130706432,
+      "text": "BJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 0,
+      "text": "?"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1073741824,
+      "text": "@AIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1090519040,
+      "text": "AAIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1107296256,
+      "text": "BAIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1124073472,
+      "text": "CAIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1140850688,
+      "text": "DALP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1157627904,
+      "text": "EALS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1174405120,
+      "text": "FALR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1191182336,
+      "text": "GALQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1207959552,
+      "text": "HAKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1224736768,
+      "text": "IAKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1241513984,
+      "text": "JAKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1258291200,
+      "text": "KAKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1275068416,
+      "text": "LAJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1291845632,
+      "text": "MAJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1308622848,
+      "text": "NAJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1325400064,
+      "text": "OAJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1342177280,
+      "text": "PDIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1358954496,
+      "text": "QDIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1375731712,
+      "text": "RDIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1392508928,
+      "text": "SDIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1409286144,
+      "text": "TDLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1426063360,
+      "text": "UDLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1442840576,
+      "text": "VDLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1459617792,
+      "text": "WDLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1476395008,
+      "text": "XDKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1493172224,
+      "text": "YDKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1509949440,
+      "text": "ZDKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1526726656,
+      "text": "[DKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1543503872,
+      "text": "\\DJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1560281088,
+      "text": "]DJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1577058304,
+      "text": "^DJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1593835520,
+      "text": "_DJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1610612736,
+      "text": "`CIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1627389952,
+      "text": "aCIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1644167168,
+      "text": "bCIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1660944384,
+      "text": "cCIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1677721600,
+      "text": "dCLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1694498816,
+      "text": "eCLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1711276032,
+      "text": "fCLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1728053248,
+      "text": "gCLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1744830464,
+      "text": "hCKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1761607680,
+      "text": "iCKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1778384896,
+      "text": "jCKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1795162112,
+      "text": "kCKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1811939328,
+      "text": "lCJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1828716544,
+      "text": "mCJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1845493760,
+      "text": "nCJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1862270976,
+      "text": "oCJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1879048192,
+      "text": "pBIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1895825408,
+      "text": "qBIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1912602624,
+      "text": "rBIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1929379840,
+      "text": "sBIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1946157056,
+      "text": "tBLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1962934272,
+      "text": "uBLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1979711488,
+      "text": "vBLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 1996488704,
+      "text": "wBLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 2013265920,
+      "text": "xBKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 2030043136,
+      "text": "yBKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 2046820352,
+      "text": "zBKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 2063597568,
+      "text": "{BKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 2080374784,
+      "text": "|BJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 2097152000,
+      "text": "}BJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 2113929216,
+      "text": "~BJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 1791,
+      "varb": 65359,
+      "min": 352321536,
+      "max": 2130706432,
+      "text": "BJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 0,
+      "text": "?"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1073741824,
+      "text": "@AIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1090519040,
+      "text": "AAIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1107296256,
+      "text": "BAIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1124073472,
+      "text": "CAIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1140850688,
+      "text": "DALP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1157627904,
+      "text": "EALS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1174405120,
+      "text": "FALR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1191182336,
+      "text": "GALQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1207959552,
+      "text": "HAKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1224736768,
+      "text": "IAKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1241513984,
+      "text": "JAKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1258291200,
+      "text": "KAKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1275068416,
+      "text": "LAJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1291845632,
+      "text": "MAJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1308622848,
+      "text": "NAJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1325400064,
+      "text": "OAJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1342177280,
+      "text": "PDIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1358954496,
+      "text": "QDIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1375731712,
+      "text": "RDIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1392508928,
+      "text": "SDIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1409286144,
+      "text": "TDLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1426063360,
+      "text": "UDLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1442840576,
+      "text": "VDLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1459617792,
+      "text": "WDLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1476395008,
+      "text": "XDKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1493172224,
+      "text": "YDKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1509949440,
+      "text": "ZDKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1526726656,
+      "text": "[DKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1543503872,
+      "text": "\\DJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1560281088,
+      "text": "]DJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1577058304,
+      "text": "^DJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1593835520,
+      "text": "_DJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1610612736,
+      "text": "`CIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1627389952,
+      "text": "aCIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1644167168,
+      "text": "bCIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1660944384,
+      "text": "cCIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1677721600,
+      "text": "dCLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1694498816,
+      "text": "eCLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1711276032,
+      "text": "fCLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1728053248,
+      "text": "gCLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1744830464,
+      "text": "hCKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1761607680,
+      "text": "iCKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1778384896,
+      "text": "jCKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1795162112,
+      "text": "kCKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1811939328,
+      "text": "lCJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1828716544,
+      "text": "mCJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1845493760,
+      "text": "nCJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1862270976,
+      "text": "oCJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1879048192,
+      "text": "pBIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1895825408,
+      "text": "qBIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1912602624,
+      "text": "rBIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1929379840,
+      "text": "sBIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1946157056,
+      "text": "tBLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1962934272,
+      "text": "uBLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1979711488,
+      "text": "vBLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 1996488704,
+      "text": "wBLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 2013265920,
+      "text": "xBKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 2030043136,
+      "text": "yBKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 2046820352,
+      "text": "zBKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 2063597568,
+      "text": "{BKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 2080374784,
+      "text": "|BJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 2097152000,
+      "text": "}BJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 2113929216,
+      "text": "~BJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2047,
+      "varb": 65359,
+      "min": 369098752,
+      "max": 2130706432,
+      "text": "BJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 0,
+      "text": "?"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1073741824,
+      "text": "@AIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1090519040,
+      "text": "AAIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1107296256,
+      "text": "BAIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1124073472,
+      "text": "CAIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1140850688,
+      "text": "DALP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1157627904,
+      "text": "EALS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1174405120,
+      "text": "FALR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1191182336,
+      "text": "GALQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1207959552,
+      "text": "HAKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1224736768,
+      "text": "IAKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1241513984,
+      "text": "JAKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1258291200,
+      "text": "KAKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1275068416,
+      "text": "LAJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1291845632,
+      "text": "MAJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1308622848,
+      "text": "NAJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1325400064,
+      "text": "OAJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1342177280,
+      "text": "PDIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1358954496,
+      "text": "QDIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1375731712,
+      "text": "RDIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1392508928,
+      "text": "SDIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1409286144,
+      "text": "TDLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1426063360,
+      "text": "UDLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1442840576,
+      "text": "VDLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1459617792,
+      "text": "WDLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1476395008,
+      "text": "XDKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1493172224,
+      "text": "YDKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1509949440,
+      "text": "ZDKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1526726656,
+      "text": "[DKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1543503872,
+      "text": "\\DJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1560281088,
+      "text": "]DJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1577058304,
+      "text": "^DJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1593835520,
+      "text": "_DJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1610612736,
+      "text": "`CIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1627389952,
+      "text": "aCIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1644167168,
+      "text": "bCIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1660944384,
+      "text": "cCIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1677721600,
+      "text": "dCLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1694498816,
+      "text": "eCLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1711276032,
+      "text": "fCLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1728053248,
+      "text": "gCLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1744830464,
+      "text": "hCKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1761607680,
+      "text": "iCKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1778384896,
+      "text": "jCKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1795162112,
+      "text": "kCKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1811939328,
+      "text": "lCJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1828716544,
+      "text": "mCJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1845493760,
+      "text": "nCJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1862270976,
+      "text": "oCJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1879048192,
+      "text": "pBIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1895825408,
+      "text": "qBIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1912602624,
+      "text": "rBIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1929379840,
+      "text": "sBIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1946157056,
+      "text": "tBLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1962934272,
+      "text": "uBLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1979711488,
+      "text": "vBLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 1996488704,
+      "text": "wBLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 2013265920,
+      "text": "xBKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 2030043136,
+      "text": "yBKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 2046820352,
+      "text": "zBKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 2063597568,
+      "text": "{BKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 2080374784,
+      "text": "|BJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 2097152000,
+      "text": "}BJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 2113929216,
+      "text": "~BJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2303,
+      "varb": 65359,
+      "min": 385875968,
+      "max": 2130706432,
+      "text": "BJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 0,
+      "text": "?"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1073741824,
+      "text": "@AIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1090519040,
+      "text": "AAIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1107296256,
+      "text": "BAIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1124073472,
+      "text": "CAIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1140850688,
+      "text": "DALP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1157627904,
+      "text": "EALS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1174405120,
+      "text": "FALR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1191182336,
+      "text": "GALQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1207959552,
+      "text": "HAKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1224736768,
+      "text": "IAKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1241513984,
+      "text": "JAKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1258291200,
+      "text": "KAKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1275068416,
+      "text": "LAJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1291845632,
+      "text": "MAJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1308622848,
+      "text": "NAJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1325400064,
+      "text": "OAJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1342177280,
+      "text": "PDIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1358954496,
+      "text": "QDIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1375731712,
+      "text": "RDIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1392508928,
+      "text": "SDIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1409286144,
+      "text": "TDLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1426063360,
+      "text": "UDLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1442840576,
+      "text": "VDLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1459617792,
+      "text": "WDLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1476395008,
+      "text": "XDKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1493172224,
+      "text": "YDKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1509949440,
+      "text": "ZDKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1526726656,
+      "text": "[DKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1543503872,
+      "text": "\\DJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1560281088,
+      "text": "]DJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1577058304,
+      "text": "^DJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1593835520,
+      "text": "_DJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1610612736,
+      "text": "`CIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1627389952,
+      "text": "aCIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1644167168,
+      "text": "bCIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1660944384,
+      "text": "cCIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1677721600,
+      "text": "dCLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1694498816,
+      "text": "eCLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1711276032,
+      "text": "fCLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1728053248,
+      "text": "gCLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1744830464,
+      "text": "hCKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1761607680,
+      "text": "iCKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1778384896,
+      "text": "jCKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1795162112,
+      "text": "kCKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1811939328,
+      "text": "lCJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1828716544,
+      "text": "mCJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1845493760,
+      "text": "nCJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1862270976,
+      "text": "oCJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1879048192,
+      "text": "pBIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1895825408,
+      "text": "qBIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1912602624,
+      "text": "rBIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1929379840,
+      "text": "sBIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1946157056,
+      "text": "tBLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1962934272,
+      "text": "uBLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1979711488,
+      "text": "vBLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 1996488704,
+      "text": "wBLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 2013265920,
+      "text": "xBKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 2030043136,
+      "text": "yBKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 2046820352,
+      "text": "zBKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 2063597568,
+      "text": "{BKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 2080374784,
+      "text": "|BJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 2097152000,
+      "text": "}BJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 2113929216,
+      "text": "~BJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2559,
+      "varb": 65359,
+      "min": 402653184,
+      "max": 2130706432,
+      "text": "BJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 0,
+      "text": "?"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1073741824,
+      "text": "@AIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1090519040,
+      "text": "AAIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1107296256,
+      "text": "BAIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1124073472,
+      "text": "CAIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1140850688,
+      "text": "DALP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1157627904,
+      "text": "EALS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1174405120,
+      "text": "FALR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1191182336,
+      "text": "GALQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1207959552,
+      "text": "HAKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1224736768,
+      "text": "IAKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1241513984,
+      "text": "JAKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1258291200,
+      "text": "KAKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1275068416,
+      "text": "LAJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1291845632,
+      "text": "MAJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1308622848,
+      "text": "NAJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1325400064,
+      "text": "OAJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1342177280,
+      "text": "PDIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1358954496,
+      "text": "QDIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1375731712,
+      "text": "RDIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1392508928,
+      "text": "SDIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1409286144,
+      "text": "TDLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1426063360,
+      "text": "UDLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1442840576,
+      "text": "VDLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1459617792,
+      "text": "WDLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1476395008,
+      "text": "XDKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1493172224,
+      "text": "YDKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1509949440,
+      "text": "ZDKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1526726656,
+      "text": "[DKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1543503872,
+      "text": "\\DJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1560281088,
+      "text": "]DJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1577058304,
+      "text": "^DJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1593835520,
+      "text": "_DJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1610612736,
+      "text": "`CIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1627389952,
+      "text": "aCIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1644167168,
+      "text": "bCIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1660944384,
+      "text": "cCIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1677721600,
+      "text": "dCLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1694498816,
+      "text": "eCLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1711276032,
+      "text": "fCLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1728053248,
+      "text": "gCLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1744830464,
+      "text": "hCKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1761607680,
+      "text": "iCKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1778384896,
+      "text": "jCKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1795162112,
+      "text": "kCKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1811939328,
+      "text": "lCJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1828716544,
+      "text": "mCJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1845493760,
+      "text": "nCJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1862270976,
+      "text": "oCJQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1879048192,
+      "text": "pBIP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1895825408,
+      "text": "qBIS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1912602624,
+      "text": "rBIR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1929379840,
+      "text": "sBIQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1946157056,
+      "text": "tBLP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1962934272,
+      "text": "uBLS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1979711488,
+      "text": "vBLR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 1996488704,
+      "text": "wBLQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 2013265920,
+      "text": "xBKP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 2030043136,
+      "text": "yBKS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 2046820352,
+      "text": "zBKR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 2063597568,
+      "text": "{BKQ"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 2080374784,
+      "text": "|BJP"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 2097152000,
+      "text": "}BJS"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 2113929216,
+      "text": "~BJR"
+    },
+    {
+      "index": 3,
+      "sub_id": 0,
+      "varp": 2815,
+      "varb": 65359,
+      "min": 419430400,
+      "max": 2130706432,
+      "text": "BJQ"
+    }
+  ],
   "params": {
     "1612": 1
   }

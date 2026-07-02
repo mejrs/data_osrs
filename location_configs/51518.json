@@ -1,10 +1,12 @@
 {
   "id": 51518,
   "name": "Vanity dresser",
-  "models_2": [
-    47762
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      47762
+    ]
+  },
   "ambient": 5,
   "contrast": 15,
   "colours": [
@@ -37,5 +39,8 @@
       5904
     ]
   ],
-  "scale_y": 100
+  "scale_y": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

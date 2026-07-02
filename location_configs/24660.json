@@ -1,11 +1,13 @@
 {
   "id": 24660,
   "name": "Display case",
-  "models_2": [
-    25788
-  ],
   "dim_x": 3,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      25788
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "category": 690
+  "category": 690,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

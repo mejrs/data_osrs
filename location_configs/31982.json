@@ -1,11 +1,13 @@
 {
   "id": 31982,
   "name": "Mounted Max Cape",
-  "models_2": [
-    29673
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      29673
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Admire",
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 5,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

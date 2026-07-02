@@ -1,10 +1,15 @@
 {
   "id": 44291,
   "name": "Cushion",
-  "models_2": [
-    44456
-  ],
+  "object_models": {
+    "models": [
+      44456
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

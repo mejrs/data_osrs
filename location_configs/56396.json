@@ -1,9 +1,11 @@
 {
   "id": 56396,
   "name": "Lectern",
-  "models_2": [
-    3138
-  ],
+  "object_models": {
+    "models": [
+      3138
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -19,6 +21,9 @@
       49990
     ]
   ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "1862": 1
   }

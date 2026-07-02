@@ -1,12 +1,14 @@
 {
   "id": 33258,
-  "models": [
-    [
-      0,
-      3802
-    ]
-  ],
   "name": "Cell door",
+  "object_models_and_types": {
+    "models": [
+      3802
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "category": 1279
+  "category": 1279,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

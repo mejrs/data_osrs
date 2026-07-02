@@ -1,9 +1,11 @@
 {
   "id": 15243,
   "name": "Crate",
-  "models_2": [
-    7699
-  ],
+  "object_models": {
+    "models": [
+      7699
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Take-Beam",
@@ -37,5 +39,8 @@
       6806,
       14858
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

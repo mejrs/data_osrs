@@ -1,11 +1,16 @@
 {
   "id": 20339,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       4474
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_21": true,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

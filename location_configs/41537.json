@@ -1,10 +1,12 @@
 {
   "id": 41537,
   "name": "Vault Door",
-  "models_2": [
-    42032
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      42032
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "scale_y": 133
+  "scale_y": 133,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

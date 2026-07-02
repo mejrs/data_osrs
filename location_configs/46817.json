@@ -1,12 +1,14 @@
 {
   "id": 46817,
-  "models": [
-    [
-      0,
-      47195
-    ]
-  ],
   "name": "Broken fence",
+  "object_models_and_types": {
+    "models": [
+      47195
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 7,
@@ -18,5 +20,8 @@
     null
   ],
   "contrast": 7,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

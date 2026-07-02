@@ -1,9 +1,11 @@
 {
   "id": 7012,
   "name": "Plant",
-  "models_2": [
-    7119
-  ],
+  "object_models": {
+    "models": [
+      7119
+    ]
+  },
   "colours": [
     [
       12833,
@@ -12,5 +14,8 @@
   ],
   "scale_x": 70,
   "scale_y": 74,
-  "scale_z": 70
+  "scale_z": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

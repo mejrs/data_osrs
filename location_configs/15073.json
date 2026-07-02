@@ -1,10 +1,15 @@
 {
   "id": 15073,
   "name": "Barren patch",
-  "models_2": [
-    1065,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      1065,
+      7766
+    ]
+  },
   "unknown_19": 1,
-  "category": 479
+  "category": 479,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

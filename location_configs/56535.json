@@ -1,9 +1,11 @@
 {
   "id": 56535,
   "name": "Bed",
-  "models_2": [
-    12394
-  ],
+  "object_models": {
+    "models": [
+      12394
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
   "actions": [
@@ -33,5 +35,8 @@
     ]
   ],
   "scale_x": 180,
-  "scale_z": 180
+  "scale_z": 180,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

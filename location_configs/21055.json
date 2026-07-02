@@ -1,9 +1,11 @@
 {
   "id": 21055,
   "name": "Control panel",
-  "models_2": [
-    21747
-  ],
+  "object_models": {
+    "models": [
+      21747
+    ]
+  },
   "unknown_22": true,
   "ambient": 20,
   "actions": [
@@ -15,5 +17,8 @@
   ],
   "contrast": 20,
   "model": false,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

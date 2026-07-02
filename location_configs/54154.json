@@ -1,14 +1,19 @@
 {
   "id": 54154,
   "name": "Web tunnel",
-  "models_2": [
-    42834
-  ],
   "dim_x": 3,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      42834
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 20,
   "contrast": 50,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

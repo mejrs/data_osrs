@@ -1,10 +1,12 @@
 {
   "id": 18400,
   "name": "Ice cube",
-  "models_2": [
-    17741
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      17741
+    ]
+  },
   "ambient": 30,
   "contrast": 10,
   "colours": [
@@ -32,5 +34,8 @@
       32840,
       38119
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

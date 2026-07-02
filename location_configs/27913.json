@@ -1,17 +1,17 @@
 {
   "id": 27913,
-  "models": [
-    [
-      10,
-      30677
-    ],
-    [
-      22,
-      30663
-    ]
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models_and_types": {
+    "models": [
+      30677,
+      30663
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_27": false,
@@ -33,5 +33,8 @@
       26797
     ]
   ],
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

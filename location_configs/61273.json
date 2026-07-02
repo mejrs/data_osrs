@@ -1,0 +1,33 @@
+{
+  "id": 61273,
+  "name": "Table",
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      7712
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "colours": [
+    [
+      6451,
+      13477
+    ],
+    [
+      6443,
+      13596
+    ],
+    [
+      6439,
+      13716
+    ],
+    [
+      6563,
+      10768
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

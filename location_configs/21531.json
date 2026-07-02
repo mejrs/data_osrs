@@ -1,9 +1,11 @@
 {
   "id": 21531,
   "name": "Rift",
-  "models_2": [
-    22031
-  ],
+  "object_models": {
+    "models": [
+      22031
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "colours": [
@@ -29,5 +31,8 @@
     ]
   ],
   "mirror": true,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

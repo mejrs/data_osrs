@@ -1,9 +1,11 @@
 {
   "id": 18621,
   "name": "An old lever",
-  "models_2": [
-    18783
-  ],
+  "object_models": {
+    "models": [
+      18783
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Pull",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

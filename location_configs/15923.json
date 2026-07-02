@@ -1,8 +1,13 @@
 {
   "id": 15923,
   "name": "Bottle machine",
-  "models_2": [
-    15790
-  ],
-  "unknown_24": 4260
+  "object_models": {
+    "models": [
+      15790
+    ]
+  },
+  "unknown_24": 4260,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

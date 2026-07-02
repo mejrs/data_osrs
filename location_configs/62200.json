@@ -1,0 +1,44 @@
+{
+  "id": 62200,
+  "name": "Box trap",
+  "object_models": {
+    "models": [
+      61507,
+      61506
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 14272,
+  "colours": [
+    [
+      5169,
+      43292
+    ],
+    [
+      7343,
+      43305
+    ],
+    [
+      7335,
+      43406
+    ],
+    [
+      7339,
+      43437
+    ],
+    [
+      7343,
+      43445
+    ],
+    [
+      5165,
+      43449
+    ]
+  ],
+  "category": 194,
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

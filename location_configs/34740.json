@@ -1,10 +1,12 @@
 {
   "id": 34740,
-  "models_2": [
-    1642
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1642
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "ambient": 40,
@@ -30,5 +32,8 @@
       11140
     ]
   ],
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

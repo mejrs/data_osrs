@@ -1,9 +1,11 @@
 {
   "id": 33520,
   "name": "Table",
-  "models_2": [
-    36238
-  ],
+  "object_models": {
+    "models": [
+      36238
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Take-from",
@@ -15,5 +17,8 @@
   "scale_x": 102,
   "scale_y": 102,
   "scale_z": 102,
-  "translate_z": 65516
+  "translate_z": 65516,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

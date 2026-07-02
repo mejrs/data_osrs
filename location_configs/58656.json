@@ -1,9 +1,11 @@
 {
   "id": 58656,
   "name": "Anvil space",
-  "models_2": [
-    58761
-  ],
+  "object_models": {
+    "models": [
+      58761
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

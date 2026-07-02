@@ -1,12 +1,14 @@
 {
   "id": 51574,
-  "models": [
-    [
-      4,
-      52353
-    ]
-  ],
   "name": "Pickaxe of the Lost",
+  "object_models_and_types": {
+    "models": [
+      52353
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "contrast": 20,
@@ -15,5 +17,8 @@
       61,
       12
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

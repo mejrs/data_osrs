@@ -1,16 +1,16 @@
 {
   "id": 5907,
-  "models": [
-    [
-      0,
-      13163
-    ],
-    [
-      2,
-      13164
-    ]
-  ],
   "name": "Marble wall",
+  "object_models_and_types": {
+    "models": [
+      13163,
+      13164
+    ],
+    "types": [
+      0,
+      2
+    ]
+  },
   "is_transparent": true,
   "actions": [
     null,
@@ -19,5 +19,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

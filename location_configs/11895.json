@@ -1,9 +1,14 @@
 {
   "id": 11895,
   "name": "Thorns",
-  "models_2": [
-    11712
-  ],
   "dim_y": 2,
-  "unknown_21": true
+  "object_models": {
+    "models": [
+      11712
+    ]
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

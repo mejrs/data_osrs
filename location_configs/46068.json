@@ -1,11 +1,13 @@
 {
   "id": 46068,
   "name": "Grouping Obelisk",
-  "models_2": [
-    46201
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      46201
+    ]
+  },
   "unknown_21": true,
   "ambient": 30,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 50,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

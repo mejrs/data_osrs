@@ -1,10 +1,15 @@
 {
   "id": 14262,
   "name": "Lander boat",
-  "models_2": [
-    14506
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      14506
+    ]
+  },
   "unknown_22": true,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

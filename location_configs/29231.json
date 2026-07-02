@@ -1,11 +1,13 @@
 {
   "id": 29231,
   "name": "Kraken Topiary",
-  "models_2": [
-    32106
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32106
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -18,5 +20,8 @@
   "category": 206,
   "scale_x": 96,
   "scale_y": 96,
-  "scale_z": 96
+  "scale_z": 96,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 8809,
   "name": "Rotten Apple Pile",
-  "models_2": [
-    8287
-  ],
+  "object_models": {
+    "models": [
+      8287
+    ]
+  },
   "actions": [
     "Take-from",
     null,
@@ -28,5 +30,8 @@
       18347,
       3742
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

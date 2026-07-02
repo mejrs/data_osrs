@@ -1,16 +1,21 @@
 {
   "id": 34421,
   "name": "Light",
-  "models_2": [
-    36373
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      36373
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 60,
   "contrast": 60,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

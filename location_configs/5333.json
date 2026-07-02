@@ -1,11 +1,13 @@
 {
   "id": 5333,
   "name": "Plant",
-  "models_2": [
-    1645
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1645
+    ]
+  },
   "is_transparent": true,
   "ambient": 40,
   "colours": [
@@ -22,5 +24,8 @@
       11144
     ]
   ],
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

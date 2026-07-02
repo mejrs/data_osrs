@@ -1,0 +1,18 @@
+{
+  "id": 61474,
+  "object_models_and_types": {
+    "models": [
+      61272
+    ],
+    "types": [
+      4
+    ]
+  },
+  "ambient": 5,
+  "contrast": 30,
+  "translate_y": 65456,
+  "translate_z": 65522,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

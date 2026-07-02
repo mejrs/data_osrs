@@ -1,0 +1,42 @@
+{
+  "id": 61039,
+  "name": "Waterfall",
+  "dim_x": 2,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      44922
+    ]
+  },
+  "unknown_22": true,
+  "unknown_24": 7024,
+  "ambient": 0,
+  "contrast": 30,
+  "colours": [
+    [
+      34260,
+      904
+    ],
+    [
+      34012,
+      404
+    ],
+    [
+      38036,
+      268
+    ],
+    [
+      38040,
+      268
+    ]
+  ],
+  "model": false,
+  "scale_x": 96,
+  "unknown_78": {
+    "unknown_1": 2172,
+    "unknown_2": 20
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

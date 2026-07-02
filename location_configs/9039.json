@@ -1,28 +1,22 @@
 {
   "id": 9039,
-  "models": [
-    [
-      10,
-      2192
-    ],
-    [
-      0,
-      2202
-    ],
-    [
-      2,
-      2203
-    ],
-    [
-      3,
-      2204
-    ],
-    [
-      9,
-      2205
-    ]
-  ],
   "name": "Hardwood Grove Doors",
+  "object_models_and_types": {
+    "models": [
+      2192,
+      2202,
+      2203,
+      2204,
+      2205
+    ],
+    "types": [
+      10,
+      0,
+      2,
+      3,
+      9
+    ]
+  },
   "occludes_1": false,
   "ambient": 10,
   "actions": [
@@ -33,5 +27,8 @@
     null
   ],
   "contrast": 100,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

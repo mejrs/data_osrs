@@ -1,11 +1,13 @@
 {
   "id": 9624,
   "name": "Plough",
-  "models_2": [
-    1520
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1520
+    ]
+  },
   "colours": [
     [
       8084,
@@ -15,5 +17,8 @@
       37,
       5157
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 20824,
   "name": "Cogs",
-  "models_2": [
-    14879
-  ],
+  "object_models": {
+    "models": [
+      14879
+    ]
+  },
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

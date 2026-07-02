@@ -1,10 +1,12 @@
 {
   "id": 6801,
   "name": "Whetstone",
-  "models_2": [
-    10388
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      10388
+    ]
+  },
   "actions": [
     null,
     null,
@@ -19,5 +21,8 @@
     ]
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

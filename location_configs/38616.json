@@ -1,11 +1,13 @@
 {
   "id": 38616,
   "name": "Statue",
-  "models_2": [
-    40574
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      40574
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 30,
@@ -22,5 +24,8 @@
   ],
   "scale_x": 180,
   "scale_y": 180,
-  "scale_z": 180
+  "scale_z": 180,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

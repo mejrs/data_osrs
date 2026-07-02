@@ -1,10 +1,12 @@
 {
   "id": 9215,
   "name": "White Tree patch",
-  "models_2": [
-    9218,
-    7768
-  ],
+  "object_models": {
+    "models": [
+      9218,
+      7768
+    ]
+  },
   "ambient": 25,
   "colours": [
     [
@@ -23,5 +25,8 @@
       5338,
       5198
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

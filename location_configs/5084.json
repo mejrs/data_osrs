@@ -1,12 +1,17 @@
 {
   "id": 5084,
-  "models": [
-    [
-      4,
-      25172
-    ]
-  ],
   "name": "Painting",
+  "object_models_and_types": {
+    "models": [
+      25172
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 35
+  "ambient": 35,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

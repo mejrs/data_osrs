@@ -1,10 +1,12 @@
 {
   "id": 28929,
   "name": "<col=ffff00>Juna</col>",
-  "models_2": [
-    6536
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      6536
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -14,6 +16,9 @@
     null,
     null
   ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

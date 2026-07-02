@@ -1,9 +1,14 @@
 {
   "id": 46268,
   "name": "Jack-O-Lantern",
-  "models_2": [
-    46673
-  ],
+  "object_models": {
+    "models": [
+      46673
+    ]
+  },
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

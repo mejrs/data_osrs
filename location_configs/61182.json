@@ -1,0 +1,24 @@
+{
+  "id": 61182,
+  "name": "Castle Gates",
+  "dim_y": 5,
+  "object_models": {
+    "models": [
+      40212
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Escape",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

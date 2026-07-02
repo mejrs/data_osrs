@@ -1,27 +1,21 @@
 {
   "id": 25922,
-  "models": [
-    [
-      12,
-      27357
-    ],
-    [
-      13,
-      27354
-    ],
-    [
-      14,
-      27360
-    ],
-    [
-      16,
-      27355
-    ],
-    [
-      17,
+  "object_models_and_types": {
+    "models": [
+      27357,
+      27354,
+      27360,
+      27355,
       27358
+    ],
+    "types": [
+      12,
+      13,
+      14,
+      16,
+      17
     ]
-  ],
+  },
   "unknown_22": true,
   "ambient": 30,
   "contrast": 25,
@@ -35,5 +29,8 @@
       6315
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,17 @@
 {
   "id": 16955,
-  "models": [
-    [
-      4,
-      16580
-    ]
-  ],
   "name": "Wall chart",
+  "object_models_and_types": {
+    "models": [
+      16580
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 60
+  "ambient": 60,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

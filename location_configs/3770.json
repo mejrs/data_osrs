@@ -1,16 +1,16 @@
 {
   "id": 3770,
-  "models": [
-    [
-      0,
-      3808
-    ],
-    [
-      22,
-      3807
-    ]
-  ],
   "name": "Window",
+  "object_models_and_types": {
+    "models": [
+      3808,
+      3807
+    ],
+    "types": [
+      0,
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -42,5 +42,8 @@
       898,
       7269
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

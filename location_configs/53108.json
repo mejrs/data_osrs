@@ -1,11 +1,13 @@
 {
   "id": 53108,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       53054
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_28": 32,
   "ambient": 15,
   "contrast": 40,
@@ -19,5 +21,8 @@
       5157
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

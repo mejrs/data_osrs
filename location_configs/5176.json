@@ -1,11 +1,13 @@
 {
   "id": 5176,
   "name": "Lightning conductor",
-  "models_2": [
-    5173
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5173
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Repair",
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

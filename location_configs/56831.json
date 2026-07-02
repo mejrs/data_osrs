@@ -1,8 +1,10 @@
 {
   "id": 56831,
-  "models_2": [
-    2298
-  ],
+  "object_models": {
+    "models": [
+      2298
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_24": 494,
@@ -18,5 +20,8 @@
   "scale_x": 96,
   "scale_z": 96,
   "translate_x": 65486,
-  "translate_z": 25
+  "translate_z": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

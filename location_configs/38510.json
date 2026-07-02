@@ -1,15 +1,20 @@
 {
   "id": 38510,
-  "models_2": [
-    40181
-  ],
   "dim_x": 7,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      40181
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "ambient": 30,
   "contrast": 10,
   "scale_x": 256,
   "scale_y": 256,
-  "scale_z": 256
+  "scale_z": 256,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

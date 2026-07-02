@@ -1,9 +1,11 @@
 {
   "id": 11651,
   "name": "Goal",
-  "models_2": [
-    5141
-  ],
+  "object_models": {
+    "models": [
+      5141
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 1600,
   "colours": [
@@ -12,5 +14,8 @@
       6340
     ]
   ],
-  "mapscene": 35
+  "mapscene": 35,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

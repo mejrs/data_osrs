@@ -1,7 +1,12 @@
 {
   "id": 2979,
   "name": "Sword case",
-  "models_2": [
-    25178
-  ]
+  "object_models": {
+    "models": [
+      25178
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

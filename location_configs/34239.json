@@ -1,11 +1,13 @@
 {
   "id": 34239,
   "name": "Redwood tree",
-  "models_2": [
-    36766
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      36766
+    ]
+  },
   "ambient": -20,
   "actions": [
     null,
@@ -14,5 +16,8 @@
     "Guide",
     null
   ],
-  "contrast": 100
+  "contrast": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

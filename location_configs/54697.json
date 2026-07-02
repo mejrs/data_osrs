@@ -1,10 +1,12 @@
 {
   "id": 54697,
   "name": "Crate",
-  "models_2": [
-    7685,
-    16950
-  ],
+  "object_models": {
+    "models": [
+      7685,
+      16950
+    ]
+  },
   "is_transparent": true,
   "ambient": 20,
   "actions": [
@@ -40,5 +42,8 @@
       8078
     ]
   ],
-  "category": 2078
+  "category": 2078,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

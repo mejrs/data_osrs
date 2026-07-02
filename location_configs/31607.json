@@ -1,11 +1,13 @@
 {
   "id": 31607,
   "name": "Mysterious ruins",
-  "models_2": [
-    9625
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      9625
+    ]
+  },
   "colours": [
     [
       38860,
@@ -19,5 +21,8 @@
       38860,
       58483
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 46055,
   "name": "Exit",
-  "models_2": [
-    45383
-  ],
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      45383
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -16,5 +18,8 @@
   ],
   "contrast": 10,
   "category": 1657,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

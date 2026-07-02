@@ -1,10 +1,12 @@
 {
   "id": 26276,
   "name": "<col=ff9040>Potion",
-  "models_2": [
-    16732,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      16732,
+      7766
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 20,
-  "translate_y": 65466
+  "translate_y": 65466,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

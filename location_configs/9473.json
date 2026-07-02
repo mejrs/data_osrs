@@ -1,30 +1,27 @@
 {
   "id": 9473,
-  "models": [
-    [
-      0,
-      9483
-    ],
-    [
-      1,
-      9484
-    ],
-    [
-      2,
-      9485
-    ],
-    [
-      3,
-      9486
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      9483,
+      9484,
+      9485,
+      9486,
       9487
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_22": true,
   "occludes_1": false,
   "ambient": 25,
   "contrast": 25,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

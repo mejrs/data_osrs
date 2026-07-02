@@ -1,12 +1,14 @@
 {
   "id": 50525,
-  "models": [
-    [
-      0,
-      50207
-    ]
-  ],
   "name": "Pipe",
+  "object_models_and_types": {
+    "models": [
+      50207
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -18,5 +20,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 22123,
   "name": "Stand",
-  "models_2": [
-    22942
-  ],
+  "object_models": {
+    "models": [
+      22942
+    ]
+  },
   "unknown_24": 5906,
   "unknown_27": false,
   "ambient": 25,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

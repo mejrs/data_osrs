@@ -1,9 +1,11 @@
 {
   "id": 48636,
   "name": "Entry",
-  "models_2": [
-    36368
-  ],
+  "object_models": {
+    "models": [
+      36368
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -34,5 +36,8 @@
   "scale_x": 64,
   "scale_y": 64,
   "scale_z": 64,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

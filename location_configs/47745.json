@@ -1,10 +1,15 @@
 {
   "id": 47745,
   "name": "Bellows",
-  "models_2": [
-    49053
-  ],
+  "object_models": {
+    "models": [
+      49053
+    ]
+  },
   "unknown_22": true,
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

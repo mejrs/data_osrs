@@ -1,12 +1,14 @@
 {
   "id": 232,
-  "models": [
-    [
-      0,
-      5302
-    ]
-  ],
   "dim_x": 2,
+  "object_models_and_types": {
+    "models": [
+      5302
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "colours": [
@@ -30,5 +32,8 @@
       12818,
       5553
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

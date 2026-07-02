@@ -1,12 +1,17 @@
 {
   "id": 13099,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       13264
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_27": false,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

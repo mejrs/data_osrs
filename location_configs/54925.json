@@ -1,9 +1,11 @@
 {
   "id": 54925,
   "name": "Mixing vessel (Liplack liquor)",
-  "models_2": [
-    54865
-  ],
+  "object_models": {
+    "models": [
+      54865
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 11628,
@@ -47,5 +49,8 @@
       64066
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

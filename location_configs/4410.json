@@ -1,30 +1,27 @@
 {
   "id": 4410,
-  "models": [
-    [
-      0,
-      669
-    ],
-    [
-      1,
-      670
-    ],
-    [
-      2,
-      671
-    ],
-    [
-      3,
-      672
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      669,
+      670,
+      671,
+      672,
       673
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_22": true,
   "textures": {
     "2": 35
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

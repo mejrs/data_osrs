@@ -1,12 +1,14 @@
 {
   "id": 13343,
-  "models": [
-    [
-      4,
-      12609
-    ]
-  ],
   "name": "Skull",
+  "object_models_and_types": {
+    "models": [
+      12609
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_24": 3107,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

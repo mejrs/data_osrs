@@ -1,0 +1,38 @@
+{
+  "id": 60712,
+  "object_models": {
+    "models": [
+      2867
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      54164,
+      1556
+    ],
+    [
+      54174,
+      1436
+    ],
+    [
+      54183,
+      1441
+    ],
+    [
+      54193,
+      1445
+    ],
+    [
+      54203,
+      1447
+    ]
+  ],
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

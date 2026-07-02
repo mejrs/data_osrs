@@ -1,14 +1,19 @@
 {
   "id": 57342,
-  "models": [
-    [
-      4,
-      56976
-    ]
-  ],
   "name": "Hanging pots",
+  "object_models_and_types": {
+    "models": [
+      56976
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 25,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

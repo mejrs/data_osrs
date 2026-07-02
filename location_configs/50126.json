@@ -1,8 +1,13 @@
 {
   "id": 50126,
   "name": "Statue of a king",
-  "models_2": [
-    50680
-  ],
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      50680
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

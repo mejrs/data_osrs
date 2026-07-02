@@ -1,10 +1,12 @@
 {
   "id": 15610,
   "name": "Gap",
-  "models_2": [
-    16238
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      16238
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null
   ],
   "scale_z": 256,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

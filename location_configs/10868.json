@@ -1,12 +1,14 @@
 {
   "id": 10868,
-  "models": [
-    [
-      22,
-      43038
-    ]
-  ],
   "name": "Plank",
+  "object_models_and_types": {
+    "models": [
+      43038
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_22": true,
   "ambient": 15,
@@ -17,5 +19,9 @@
     null,
     null
   ],
-  "contrast": 20
+  "contrast": 20,
+  "raise": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

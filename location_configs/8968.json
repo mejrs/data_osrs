@@ -1,9 +1,14 @@
 {
   "id": 8968,
   "name": "Broken mace trap",
-  "models_2": [
-    31100
-  ],
   "dim_x": 3,
-  "dim_y": 3
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      31100
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

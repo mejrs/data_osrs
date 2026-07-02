@@ -1,9 +1,11 @@
 {
   "id": 46500,
   "name": "<col=ffff00>Cosy Cat</col>",
-  "models_2": [
-    42559
-  ],
+  "object_models": {
+    "models": [
+      42559
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 8231,
   "ambient": 15,
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

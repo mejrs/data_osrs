@@ -1,11 +1,43 @@
 {
   "id": 42650,
-  "models": [
+  "object_models_and_types": {
+    "models": [
+      60063
+    ],
+    "types": [
+      0
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 35,
+  "colours": [
     [
-      22,
-      1105
+      37945,
+      10287
+    ],
+    [
+      37941,
+      10283
+    ],
+    [
+      37937,
+      10279
+    ],
+    [
+      37933,
+      10275
+    ],
+    [
+      37929,
+      10270
+    ],
+    [
+      37925,
+      10266
     ]
   ],
-  "unknown_73": true,
-  "maparea_id": 700
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

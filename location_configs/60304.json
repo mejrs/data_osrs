@@ -1,10 +1,12 @@
 {
   "id": 60304,
   "name": "Notice board",
-  "models_2": [
-    58749
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      58749
+    ]
+  },
   "unknown_27": false,
   "ambient": 10,
   "actions": [
@@ -16,5 +18,8 @@
   ],
   "contrast": 10,
   "category": 2344,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

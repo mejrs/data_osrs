@@ -1,0 +1,18 @@
+{
+  "id": 62002,
+  "name": "Weapons",
+  "object_models": {
+    "models": [
+      61345
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "model": false,
+  "translate_x": 65528,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,10 +1,12 @@
 {
   "id": 16509,
   "name": "Obstacle pipe",
-  "models_2": [
-    774
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      774
+    ]
+  },
   "actions": [
     "Squeeze-through",
     null,
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

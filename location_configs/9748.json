@@ -1,16 +1,16 @@
 {
   "id": 9748,
-  "models": [
-    [
-      0,
-      9735
-    ],
-    [
-      4,
-      9734
-    ]
-  ],
   "name": "Crystal dispenser",
+  "object_models_and_types": {
+    "models": [
+      9735,
+      9734
+    ],
+    "types": [
+      0,
+      4
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Collect",
@@ -18,5 +18,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

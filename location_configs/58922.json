@@ -1,18 +1,30 @@
 {
   "id": 58922,
   "name": "Rocks",
-  "models_2": [
-    58572
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58572
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
   "contrast": 20,
   "category": 227,
   "scale_x": 256,
   "scale_y": 192,
   "scale_z": 256,
-  "mapscene": 198
+  "mapscene": 198,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

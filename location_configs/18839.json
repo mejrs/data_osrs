@@ -1,12 +1,17 @@
 {
   "id": 18839,
   "name": "Fish",
-  "models_2": [
-    19129,
-    19131
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      19129,
+      19131
+    ]
+  },
   "is_transparent": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

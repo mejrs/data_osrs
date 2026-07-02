@@ -1,12 +1,14 @@
 {
   "id": 4484,
-  "models": [
-    [
-      4,
-      4439
-    ]
-  ],
   "name": "Scoreboard",
+  "object_models_and_types": {
+    "models": [
+      4439
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 50,
   "actions": [
@@ -15,5 +17,8 @@
     "View Stats",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

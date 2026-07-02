@@ -1,15 +1,20 @@
 {
   "id": 5778,
-  "models": [
-    [
-      18,
+  "object_models_and_types": {
+    "models": [
       5475
+    ],
+    "types": [
+      18
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "textures": {
     "2": 23,
     "6": 18
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

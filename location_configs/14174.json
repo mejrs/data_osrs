@@ -1,12 +1,17 @@
 {
   "id": 14174,
   "name": "Driftwood",
-  "models_2": [
-    24175,
-    18328
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      24175,
+      18328
+    ]
+  },
   "unknown_24": 3743,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

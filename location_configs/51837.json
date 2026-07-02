@@ -1,9 +1,11 @@
 {
   "id": 51837,
   "name": "Onion",
-  "models_2": [
-    8210
-  ],
+  "object_models": {
+    "models": [
+      8210
+    ]
+  },
   "unknown_17": false,
   "actions": [
     null,
@@ -13,5 +15,8 @@
     null
   ],
   "category": 234,
-  "mapscene": 33
+  "mapscene": 33,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

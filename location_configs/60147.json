@@ -1,9 +1,14 @@
 {
   "id": 60147,
   "name": "Bunkbed",
-  "models_2": [
-    24741
-  ],
   "dim_x": 2,
-  "ambient": 20
+  "object_models": {
+    "models": [
+      24741
+    ]
+  },
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

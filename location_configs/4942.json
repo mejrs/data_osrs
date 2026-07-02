@@ -1,14 +1,19 @@
 {
   "id": 4942,
   "name": "Lift",
-  "models_2": [
-    4897
-  ],
+  "object_models": {
+    "models": [
+      4897
+    ]
+  },
   "actions": [
     "Go-up",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

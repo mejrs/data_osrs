@@ -1,8 +1,13 @@
 {
   "id": 12043,
   "name": "A wall",
-  "models_2": [
-    11915
-  ],
-  "unknown_21": true
+  "object_models": {
+    "models": [
+      11915
+    ]
+  },
+  "unknown_21": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

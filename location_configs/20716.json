@@ -1,9 +1,11 @@
 {
   "id": 20716,
   "name": "Standing torch",
-  "models_2": [
-    5439
-  ],
+  "object_models": {
+    "models": [
+      5439
+    ]
+  },
   "colours": [
     [
       5669,
@@ -17,5 +19,8 @@
       5788,
       9096
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

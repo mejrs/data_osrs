@@ -1,9 +1,14 @@
 {
   "id": 36568,
   "name": "Market stall",
-  "models_2": [
-    37889
-  ],
   "dim_x": 2,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      37889
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

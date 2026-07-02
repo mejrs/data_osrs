@@ -1,8 +1,13 @@
 {
   "id": 15921,
   "name": "middle section",
-  "models_2": [
-    15798
-  ],
-  "mirror": true
+  "object_models": {
+    "models": [
+      15798
+    ]
+  },
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

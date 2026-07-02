@@ -1,22 +1,25 @@
 {
   "id": 2253,
-  "models": [
-    [
-      10,
-      611
-    ],
-    [
-      1,
-      607
-    ]
-  ],
   "name": "Tomb exit",
   "dim_y": 2,
+  "object_models_and_types": {
+    "models": [
+      611,
+      607
+    ],
+    "types": [
+      10,
+      1
+    ]
+  },
   "actions": [
     "Open",
     "Search",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

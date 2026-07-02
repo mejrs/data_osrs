@@ -1,18 +1,88 @@
 {
   "id": 29378,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
+  "name": "Archway",
+  "dim_x": 4,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      41002,
+      41008,
+      41025
+    ]
+  },
+  "unknown_21": true,
+  "unknown_24": 8790,
   "unknown_27": false,
+  "ambient": 40,
   "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (DLP)",
+    "Pass",
     null,
-    "Remove"
-  ]
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      33740,
+      1953
+    ],
+    [
+      5444,
+      35
+    ],
+    [
+      5435,
+      28
+    ],
+    [
+      5429,
+      20
+    ],
+    [
+      5541,
+      16
+    ],
+    [
+      7463,
+      16
+    ],
+    [
+      8472,
+      12
+    ],
+    [
+      10650,
+      12
+    ],
+    [
+      10638,
+      8
+    ],
+    [
+      16532,
+      8
+    ],
+    [
+      10768,
+      274
+    ],
+    [
+      10892,
+      268
+    ],
+    [
+      10760,
+      268
+    ],
+    [
+      15238,
+      262
+    ]
+  ],
+  "category": 2143,
+  "mapscene": 14,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

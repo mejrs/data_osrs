@@ -1,10 +1,12 @@
 {
   "id": 2542,
   "name": "Pipe",
-  "models_2": [
-    11447
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      11447
+    ]
+  },
   "actions": [
     "Climb-up",
     null,
@@ -20,5 +22,8 @@
   ],
   "textures": {
     "2": 23
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

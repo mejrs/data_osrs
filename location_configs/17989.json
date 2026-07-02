@@ -1,14 +1,19 @@
 {
   "id": 17989,
   "name": "Bush",
-  "models_2": [
-    17668
-  ],
+  "object_models": {
+    "models": [
+      17668
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

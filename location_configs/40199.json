@@ -1,11 +1,13 @@
 {
   "id": 40199,
   "name": "Broken Bed",
-  "models_2": [
-    12393
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12393
+    ]
+  },
   "actions": [
     null,
     null,
@@ -22,5 +24,8 @@
       4502,
       7587
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

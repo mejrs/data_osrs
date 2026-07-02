@@ -1,10 +1,12 @@
 {
   "id": 9625,
   "name": "Wheelbarrow",
-  "models_2": [
-    9592
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      9592
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Search",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

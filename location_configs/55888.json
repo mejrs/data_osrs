@@ -1,13 +1,15 @@
 {
   "id": 55888,
   "name": "Archway",
-  "models_2": [
-    41002,
-    41011,
-    41007
-  ],
   "dim_x": 4,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      41002,
+      41011,
+      41007
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 8790,
   "unknown_27": false,
@@ -79,5 +81,8 @@
     ]
   ],
   "category": 2146,
-  "mapscene": 14
+  "mapscene": 14,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

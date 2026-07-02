@@ -1,11 +1,13 @@
 {
   "id": 32300,
   "name": "<col=ffff00>Fremennik warrior</col>",
-  "models_2": [
-    34985,
-    34983
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      34985,
+      34983
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 7930,
@@ -18,6 +20,9 @@
     null
   ],
   "category": 1204,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

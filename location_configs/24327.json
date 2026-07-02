@@ -1,12 +1,14 @@
 {
   "id": 24327,
   "name": "Bar",
-  "models_2": [
-    25142,
-    22174,
-    25134,
-    25148
-  ],
+  "object_models": {
+    "models": [
+      25142,
+      22174,
+      25134,
+      25148
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_22": true,
@@ -29,5 +31,8 @@
       7690
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

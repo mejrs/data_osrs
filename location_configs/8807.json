@@ -1,8 +1,13 @@
 {
   "id": 8807,
   "name": "Apple Press",
-  "models_2": [
-    8290
-  ],
-  "is_transparent": true
+  "object_models": {
+    "models": [
+      8290
+    ]
+  },
+  "is_transparent": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 10047,
   "name": "Dark tunnel",
-  "models_2": [
-    28467
-  ],
+  "object_models": {
+    "models": [
+      28467
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -14,5 +16,8 @@
     null
   ],
   "scale_y": 170,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

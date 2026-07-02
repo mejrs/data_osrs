@@ -1,10 +1,12 @@
 {
   "id": 30646,
   "name": "Thick vine",
-  "models_2": [
-    33734
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      33734
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -18,5 +20,8 @@
     null
   ],
   "category": 1154,
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

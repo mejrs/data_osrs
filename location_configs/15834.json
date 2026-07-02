@@ -1,10 +1,15 @@
 {
   "id": 15834,
   "name": "Entrance",
-  "models_2": [
-    21291
-  ],
+  "object_models": {
+    "models": [
+      21291
+    ]
+  },
   "ambient": 20,
   "contrast": 20,
-  "scale_y": 135
+  "scale_y": 135,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

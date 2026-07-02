@@ -1,13 +1,18 @@
 {
   "id": 16601,
   "name": "Note",
-  "models_2": [
-    16743
-  ],
+  "object_models": {
+    "models": [
+      16743
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 4357,
   "unknown_27": false,
   "ambient": 50,
   "contrast": 40,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

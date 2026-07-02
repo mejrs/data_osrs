@@ -1,9 +1,11 @@
 {
   "id": 18100,
   "name": "Washing line",
-  "models_2": [
-    17749
-  ],
+  "object_models": {
+    "models": [
+      17749
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_21": true,
@@ -42,5 +44,8 @@
     ]
   ],
   "mirror": true,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 59356,
   "name": "Boat shaped ice",
-  "models_2": [
-    57633
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      57633
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Chart",
@@ -15,5 +17,8 @@
     null
   ],
   "category": 2317,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

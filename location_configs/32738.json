@@ -1,11 +1,13 @@
 {
   "id": 32738,
   "name": "Treasure room",
-  "models_2": [
-    35337
-  ],
   "dim_x": 3,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      35337
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "model": false,
-  "translate_z": 65472
+  "translate_z": 65472,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

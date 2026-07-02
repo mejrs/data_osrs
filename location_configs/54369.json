@@ -1,11 +1,13 @@
 {
   "id": 54369,
   "name": "Staircase",
-  "models_2": [
-    51306
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      51306
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Climb-up",
@@ -30,5 +32,8 @@
   ],
   "category": 2072,
   "scale_y": 192,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

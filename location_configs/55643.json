@@ -1,12 +1,14 @@
 {
   "id": 55643,
   "name": "Pumpkin carving table",
-  "models_2": [
-    8246,
-    55390,
-    55388
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      8246,
+      55390,
+      55388
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Carve-pumpkin",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

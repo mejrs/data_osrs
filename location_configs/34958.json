@@ -1,10 +1,15 @@
 {
   "id": 34958,
   "name": "Elven lamp",
-  "models_2": [
-    3952
-  ],
+  "object_models": {
+    "models": [
+      3952
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
-  "unknown_24": 1212
+  "unknown_24": 1212,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,14 +1,19 @@
 {
   "id": 33314,
   "name": "New farming patch",
-  "models_2": [
-    19148,
-    19152
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      19148,
+      19152
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

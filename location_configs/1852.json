@@ -1,8 +1,13 @@
 {
   "id": 1852,
   "name": "Bay window",
-  "models_2": [
-    2144
-  ],
-  "dim_y": 3
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      2144
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

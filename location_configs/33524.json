@@ -1,14 +1,19 @@
 {
   "id": 33524,
   "name": "Runic Altar",
-  "models_2": [
-    36229
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      36229
+    ]
+  },
   "ambient": 10,
   "contrast": 5,
   "scale_x": 112,
   "scale_y": 112,
   "scale_z": 112,
-  "translate_z": 16
+  "translate_z": 16,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

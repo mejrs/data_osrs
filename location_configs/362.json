@@ -1,9 +1,14 @@
 {
   "id": 362,
   "name": "Barrel",
-  "models_2": [
-    1460
-  ],
+  "object_models": {
+    "models": [
+      1460
+    ]
+  },
   "ambient": 25,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 50046,
   "name": "Snowman",
-  "models_2": [
-    43074
-  ],
+  "object_models": {
+    "models": [
+      43074
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,
@@ -34,5 +36,8 @@
       39591
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

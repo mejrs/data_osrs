@@ -1,9 +1,11 @@
 {
   "id": 43019,
   "name": "Ferox Enclave Waystone",
-  "models_2": [
-    43391
-  ],
+  "object_models": {
+    "models": [
+      43391
+    ]
+  },
   "unknown_21": true,
   "ambient": 25,
   "actions": [
@@ -17,5 +19,8 @@
   "scale_x": 240,
   "scale_y": 240,
   "scale_z": 240,
-  "mapscene": 14
+  "mapscene": 14,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

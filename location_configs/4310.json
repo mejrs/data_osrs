@@ -1,9 +1,11 @@
 {
   "id": 4310,
   "name": "Potter's Wheel",
-  "models_2": [
-    1179
-  ],
+  "object_models": {
+    "models": [
+      1179
+    ]
+  },
   "actions": [
     "Use",
     null,
@@ -12,5 +14,8 @@
     null
   ],
   "category": 377,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

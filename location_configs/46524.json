@@ -1,9 +1,11 @@
 {
   "id": 46524,
   "name": "Snow",
-  "models_2": [
-    20485
-  ],
+  "object_models": {
+    "models": [
+      20485
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -27,5 +29,8 @@
       37982
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

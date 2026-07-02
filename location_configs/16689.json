@@ -1,9 +1,11 @@
 {
   "id": 16689,
   "name": "Tanning Barrel",
-  "models_2": [
-    7761
-  ],
+  "object_models": {
+    "models": [
+      7761
+    ]
+  },
   "colours": [
     [
       5409,
@@ -25,5 +27,8 @@
       3346,
       5652
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,30 @@
+{
+  "id": 61575,
+  "name": "Solid door",
+  "object_models_and_types": {
+    "models": [
+      60808
+    ],
+    "types": [
+      0
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "category": 2462,
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

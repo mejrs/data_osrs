@@ -1,15 +1,20 @@
 {
   "id": 33200,
   "name": "<col=ffff00>Don't Know What</col>",
-  "models_2": [
-    35831
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      35831
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 8156,
   "unknown_27": false,
   "mapscene": 82,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2312": 9
   }

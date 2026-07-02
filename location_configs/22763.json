@@ -1,9 +1,11 @@
 {
   "id": 22763,
   "name": "Empty lamp",
-  "models_2": [
-    23459
-  ],
+  "object_models": {
+    "models": [
+      23459
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 6031,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 100,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

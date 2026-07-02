@@ -1,12 +1,17 @@
 {
   "id": 50036,
   "name": "Snow shark",
-  "models_2": [
-    50066
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      50066
+    ]
+  },
   "unknown_17": false,
   "ambient": 60,
-  "contrast": 60
+  "contrast": 60,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 10836,
   "name": "Coal Truck",
-  "models_2": [
-    1398
-  ],
+  "object_models": {
+    "models": [
+      1398
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 16655,
   "name": "Bone grinder",
-  "models_2": [
-    11022
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      11022
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Wind",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 8569,
   "name": "Diseased potatoes",
-  "models_2": [
-    8215,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8215,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Cure",
@@ -22,5 +24,8 @@
       15774,
       9630
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

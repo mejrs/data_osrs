@@ -1,10 +1,12 @@
 {
   "id": 42249,
   "name": "Strange passage",
-  "models_2": [
-    42429
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      42429
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 20,
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

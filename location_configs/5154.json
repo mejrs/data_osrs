@@ -1,16 +1,16 @@
 {
   "id": 5154,
-  "models": [
-    [
-      0,
-      13156
-    ],
-    [
-      2,
-      13157
-    ]
-  ],
   "name": "Stone wall",
+  "object_models_and_types": {
+    "models": [
+      13156,
+      13157
+    ],
+    "types": [
+      0,
+      2
+    ]
+  },
   "is_transparent": true,
   "actions": [
     null,
@@ -19,5 +19,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

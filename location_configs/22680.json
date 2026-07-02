@@ -1,11 +1,13 @@
 {
   "id": 22680,
   "name": "Bed",
-  "models_2": [
-    23362
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      23362
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -27,5 +29,8 @@
       32807,
       5272
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

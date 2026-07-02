@@ -1,9 +1,11 @@
 {
   "id": 49942,
   "name": "Beehive",
-  "models_2": [
-    49925
-  ],
+  "object_models": {
+    "models": [
+      49925
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -14,5 +16,8 @@
     "Remove"
   ],
   "contrast": 10,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

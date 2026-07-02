@@ -1,9 +1,11 @@
 {
   "id": 6267,
   "name": "Golden cage",
-  "models_2": [
-    6023
-  ],
+  "object_models": {
+    "models": [
+      6023
+    ]
+  },
   "colours": [
     [
       10285,
@@ -13,5 +15,8 @@
       45,
       7995
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

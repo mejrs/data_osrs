@@ -1,11 +1,13 @@
 {
   "id": 49221,
   "name": "Tent",
-  "models_2": [
-    48569
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      48569
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 30,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 15,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

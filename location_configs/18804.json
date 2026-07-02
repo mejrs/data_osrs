@@ -1,10 +1,12 @@
 {
   "id": 18804,
   "name": "Treasure chest",
-  "models_2": [
-    19042
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      19042
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Open",
@@ -14,5 +16,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

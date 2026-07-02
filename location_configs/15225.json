@@ -1,9 +1,11 @@
 {
   "id": 15225,
   "name": "Platform",
-  "models_2": [
-    15080
-  ],
+  "object_models": {
+    "models": [
+      15080
+    ]
+  },
   "actions": [
     "Use-Lift",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 18224,
   "name": "Study desk",
-  "models_2": [
-    18238,
-    18239
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      18238,
+      18239
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Search",
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

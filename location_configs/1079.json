@@ -1,7 +1,12 @@
 {
   "id": 1079,
   "name": "Signpost",
-  "models_2": [
-    1402
-  ]
+  "object_models": {
+    "models": [
+      1402
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

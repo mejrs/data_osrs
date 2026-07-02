@@ -1,8 +1,10 @@
 {
   "id": 1936,
-  "models_2": [
-    573
-  ],
+  "object_models": {
+    "models": [
+      573
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "occludes_1": false,
@@ -11,5 +13,8 @@
   "textures": {
     "2": 23
   },
-  "mapscene": 21
+  "mapscene": 21,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

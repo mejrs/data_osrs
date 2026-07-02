@@ -1,8 +1,13 @@
 {
   "id": 2348,
   "name": "Brick",
-  "models_2": [
-    1466
-  ],
-  "dim_x": 3
+  "dim_x": 3,
+  "object_models": {
+    "models": [
+      1466
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

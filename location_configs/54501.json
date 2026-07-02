@@ -1,11 +1,13 @@
 {
   "id": 54501,
   "name": "Rocks",
-  "models_2": [
-    54628
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      54628
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Mine",
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 40,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

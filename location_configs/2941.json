@@ -1,9 +1,11 @@
 {
   "id": 2941,
   "name": "Sacred water",
-  "models_2": [
-    1491
-  ],
+  "object_models": {
+    "models": [
+      1491
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Look",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

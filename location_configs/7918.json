@@ -1,13 +1,15 @@
 {
   "id": 7918,
   "name": "Scarecrow",
-  "models_2": [
-    7801,
-    7812,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7801,
+      7812,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Rake",
@@ -15,5 +17,8 @@
     null,
     "Guide",
     "Remove"
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

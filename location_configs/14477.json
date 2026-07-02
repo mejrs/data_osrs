@@ -1,7 +1,12 @@
 {
   "id": 14477,
   "name": "Skeleton",
-  "models_2": [
-    14660
-  ]
+  "object_models": {
+    "models": [
+      14660
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

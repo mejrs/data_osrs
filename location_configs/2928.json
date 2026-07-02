@@ -1,9 +1,11 @@
 {
   "id": 2928,
   "name": "Carved rock",
-  "models_2": [
-    693
-  ],
+  "object_models": {
+    "models": [
+      693
+    ]
+  },
   "actions": [
     "Look",
     "Search",
@@ -16,5 +18,8 @@
       5916,
       7952
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

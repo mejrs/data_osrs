@@ -1,0 +1,37 @@
+{
+  "id": 61488,
+  "name": "Vanity",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      12466
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 20,
+  "colours": [
+    [
+      4502,
+      272
+    ],
+    [
+      4510,
+      268
+    ],
+    [
+      8128,
+      280
+    ],
+    [
+      35949,
+      56417
+    ]
+  ],
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,24 +1,25 @@
 {
   "id": 4765,
-  "models": [
-    [
-      0,
-      4794
-    ],
-    [
-      1,
-      4795
-    ],
-    [
-      2,
-      4796
-    ]
-  ],
   "name": "Wall of flame",
+  "object_models_and_types": {
+    "models": [
+      4794,
+      4795,
+      4796
+    ],
+    "types": [
+      0,
+      1,
+      2
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 476,
   "ambient": 100,
   "contrast": 100,
   "scale_y": 512,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

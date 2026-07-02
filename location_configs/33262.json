@@ -1,12 +1,14 @@
 {
   "id": 33262,
-  "models": [
-    [
-      22,
-      47193
-    ]
-  ],
   "name": "Smelly hole",
+  "object_models_and_types": {
+    "models": [
+      47193
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -18,5 +20,8 @@
     null,
     null
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

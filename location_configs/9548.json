@@ -1,7 +1,12 @@
 {
   "id": 9548,
   "name": "Hot Coals",
-  "models_2": [
-    9522
-  ]
+  "object_models": {
+    "models": [
+      9522
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

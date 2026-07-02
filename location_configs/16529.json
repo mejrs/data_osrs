@@ -1,9 +1,11 @@
 {
   "id": 16529,
   "name": "Underwall tunnel",
-  "models_2": [
-    420
-  ],
+  "object_models": {
+    "models": [
+      420
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Climb-into",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

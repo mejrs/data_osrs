@@ -1,9 +1,11 @@
 {
   "id": 59358,
   "name": "Golem corpse",
-  "models_2": [
-    57613
-  ],
+  "object_models": {
+    "models": [
+      57613
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Chart",
@@ -13,5 +15,8 @@
     null
   ],
   "contrast": 25,
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

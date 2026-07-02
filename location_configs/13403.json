@@ -1,10 +1,12 @@
 {
   "id": 13403,
   "name": "Archery target",
-  "models_2": [
-    12896,
-    12897
-  ],
+  "object_models": {
+    "models": [
+      12896,
+      12897
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Shoot-at",
@@ -13,5 +15,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

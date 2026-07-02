@@ -1,19 +1,17 @@
 {
   "id": 57694,
-  "models": [
-    [
-      12,
-      57372
-    ],
-    [
-      16,
-      57365
-    ],
-    [
-      18,
+  "object_models_and_types": {
+    "models": [
+      57372,
+      57365,
       57367
+    ],
+    "types": [
+      12,
+      16,
+      18
     ]
-  ],
+  },
   "unknown_22": true,
   "ambient": 20,
   "contrast": 15,
@@ -29,5 +27,8 @@
   ],
   "textures": {
     "44": 6
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

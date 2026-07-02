@@ -1,9 +1,11 @@
 {
   "id": 46992,
   "name": "Signpost",
-  "models_2": [
-    47363
-  ],
+  "object_models": {
+    "models": [
+      47363
+    ]
+  },
   "unknown_21": true,
   "contrast": -90,
   "colours": [
@@ -27,5 +29,8 @@
       8369,
       148
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

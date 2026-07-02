@@ -1,15 +1,20 @@
 {
   "id": 56624,
   "name": "Keystone",
-  "models_2": [
-    52330
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      52330
+    ]
+  },
   "unknown_24": 11053,
   "ambient": 20,
   "contrast": 50,
   "scale_x": 112,
   "scale_y": 112,
-  "scale_z": 112
+  "scale_z": 112,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 59328,
   "name": "Diseased coral",
-  "models_2": [
-    57598
-  ],
+  "object_models": {
+    "models": [
+      57598
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 25,
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

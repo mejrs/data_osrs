@@ -1,0 +1,20 @@
+{
+  "id": 61944,
+  "name": "Darkwood tree stump",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61091,
+      61028
+    ]
+  },
+  "ambient": 10,
+  "contrast": 30,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

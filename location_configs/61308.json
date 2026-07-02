@@ -1,0 +1,31 @@
+{
+  "id": 61308,
+  "object_models_and_types": {
+    "models": [
+      47288
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -30,
+  "contrast": 20,
+  "colours": [
+    [
+      18,
+      18
+    ],
+    [
+      12,
+      12
+    ]
+  ],
+  "translate_y": 65535,
+  "maparea_id": 58,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

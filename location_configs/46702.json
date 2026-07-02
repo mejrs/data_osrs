@@ -1,9 +1,11 @@
 {
   "id": 46702,
   "name": "Wall",
-  "models_2": [
-    47050
-  ],
+  "object_models": {
+    "models": [
+      47050
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 0,
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 35,
-  "category": 227
+  "category": 227,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

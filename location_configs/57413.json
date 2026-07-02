@@ -1,28 +1,27 @@
 {
   "id": 57413,
-  "models": [
-    [
-      10,
-      4375
-    ],
-    [
-      12,
-      4377
-    ],
-    [
-      17,
-      4379
-    ],
-    [
-      18,
-      4380
-    ]
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models_and_types": {
+    "models": [
+      4375,
+      4377,
+      4379,
+      4380
+    ],
+    "types": [
+      10,
+      12,
+      17,
+      18
+    ]
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "textures": {
     "18": 129
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

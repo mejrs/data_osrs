@@ -1,9 +1,11 @@
 {
   "id": 10992,
   "name": "Pedestal",
-  "models_2": [
-    10893
-  ],
+  "object_models": {
+    "models": [
+      10893
+    ]
+  },
   "colours": [
     [
       7481,
@@ -17,5 +19,8 @@
       8503,
       10262
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

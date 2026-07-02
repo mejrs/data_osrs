@@ -1,9 +1,11 @@
 {
   "id": 2996,
   "name": "Closed chest",
-  "models_2": [
-    1249
-  ],
+  "object_models": {
+    "models": [
+      1249
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -16,5 +18,8 @@
       41,
       11173
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

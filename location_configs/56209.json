@@ -1,11 +1,16 @@
 {
   "id": 56209,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       1105
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_73": true,
-  "maparea_id": 1016
+  "maparea_id": 1016,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

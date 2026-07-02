@@ -1,10 +1,12 @@
 {
   "id": 33613,
   "name": "Occupied Cormorant perch",
-  "models_2": [
-    19973,
-    36206
-  ],
+  "object_models": {
+    "models": [
+      19973,
+      36206
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 5203,
   "unknown_27": false,
@@ -15,5 +17,8 @@
     null,
     "hidden"
   ],
-  "mapscene": 9
+  "mapscene": 9,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 59365,
   "name": "Sign",
-  "models_2": [
-    57616
-  ],
   "dim_x": 4,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      57616
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chart",
@@ -38,5 +40,8 @@
     ]
   ],
   "category": 2317,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

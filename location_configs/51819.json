@@ -1,10 +1,15 @@
 {
   "id": 51819,
   "name": "Spikey bush",
-  "models_2": [
-    52455
-  ],
+  "object_models": {
+    "models": [
+      52455
+    ]
+  },
   "ambient": 15,
   "contrast": 15,
-  "mapscene": 109
+  "mapscene": 109,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

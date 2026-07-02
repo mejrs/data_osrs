@@ -1,9 +1,11 @@
 {
   "id": 6249,
   "name": "Well",
-  "models_2": [
-    1525
-  ],
+  "object_models": {
+    "models": [
+      1525
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -18,5 +20,8 @@
       5012,
       1808
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 3344,
   "name": "Brew Barrel",
-  "models_2": [
-    1495
-  ],
+  "object_models": {
+    "models": [
+      1495
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

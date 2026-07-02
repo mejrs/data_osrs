@@ -1,10 +1,15 @@
 {
   "id": 28721,
   "name": "Boulder",
-  "models_2": [
-    31364
-  ],
   "dim_x": 6,
   "dim_y": 2,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      31364
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

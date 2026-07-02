@@ -1,11 +1,13 @@
 {
   "id": 12345,
   "name": "Sir Amik Varze",
-  "models_2": [
-    13671,
-    13690,
-    13689
-  ],
+  "object_models": {
+    "models": [
+      13671,
+      13690,
+      13689
+    ]
+  },
   "actions": [
     "Inspect",
     null,
@@ -38,5 +40,8 @@
       57,
       99
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

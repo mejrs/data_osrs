@@ -1,9 +1,11 @@
 {
   "id": 41448,
   "name": "Willow's bag",
-  "models_2": [
-    14145
-  ],
+  "object_models": {
+    "models": [
+      14145
+    ]
+  },
   "actions": [
     "Investigate",
     null,
@@ -24,5 +26,8 @@
       16536,
       280
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

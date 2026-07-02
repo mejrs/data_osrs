@@ -1,10 +1,12 @@
 {
   "id": 8243,
   "name": "Jute",
-  "models_2": [
-    7881,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      7881,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Harvest",
@@ -26,5 +28,8 @@
       15822,
       15810
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

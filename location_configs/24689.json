@@ -1,9 +1,11 @@
 {
   "id": 24689,
   "name": "Experiment tube",
-  "models_2": [
-    17878
-  ],
+  "object_models": {
+    "models": [
+      17878
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,
@@ -25,5 +27,8 @@
       8472,
       6550
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

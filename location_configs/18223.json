@@ -1,11 +1,16 @@
 {
   "id": 18223,
   "name": "Pillar",
-  "models_2": [
-    18240
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      18240
+    ]
+  },
   "ambient": 10,
   "contrast": 5,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

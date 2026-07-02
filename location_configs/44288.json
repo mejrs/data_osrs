@@ -1,10 +1,15 @@
 {
   "id": 44288,
   "name": "Rolled up rug",
-  "models_2": [
-    7737
-  ],
+  "object_models": {
+    "models": [
+      7737
+    ]
+  },
   "ambient": 25,
   "contrast": 25,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

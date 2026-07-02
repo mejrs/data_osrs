@@ -1,14 +1,19 @@
 {
   "id": 15668,
   "name": "Keg",
-  "models_2": [
-    15385
-  ],
+  "object_models": {
+    "models": [
+      15385
+    ]
+  },
   "actions": [
     "Pick-up",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

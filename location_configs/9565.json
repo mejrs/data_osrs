@@ -1,17 +1,22 @@
 {
   "id": 9565,
-  "models": [
-    [
-      0,
-      9480
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      9480
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Open",
     null,
     null,
     "Hidden",
     "Pick-lock"
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

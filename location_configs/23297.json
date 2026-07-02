@@ -1,13 +1,18 @@
 {
   "id": 23297,
-  "models": [
-    [
-      22,
-      24248
-    ]
-  ],
   "name": "Artefact",
+  "object_models_and_types": {
+    "models": [
+      24248
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

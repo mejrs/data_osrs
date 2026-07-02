@@ -1,0 +1,35 @@
+{
+  "id": 61161,
+  "name": "Bookcase",
+  "object_models": {
+    "models": [
+      9500
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5665,
+      8078
+    ],
+    [
+      5660,
+      8076
+    ],
+    [
+      5784,
+      7050
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

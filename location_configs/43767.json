@@ -1,9 +1,11 @@
 {
   "id": 43767,
   "name": "Portal",
-  "models_2": [
-    44082
-  ],
+  "object_models": {
+    "models": [
+      44082
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 8750,
@@ -26,5 +28,8 @@
   ],
   "scale_x": 80,
   "scale_y": 80,
-  "scale_z": 80
+  "scale_z": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

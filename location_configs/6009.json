@@ -1,9 +1,11 @@
 {
   "id": 6009,
   "name": "Blue Fire",
-  "models_2": [
-    6022
-  ],
+  "object_models": {
+    "models": [
+      6022
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 476,
@@ -38,5 +40,8 @@
   "unknown_78": {
     "unknown_1": 2065,
     "unknown_2": 3
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 11097,
   "name": "Rock",
-  "models_2": [
-    10974,
-    11003
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      10974,
+      11003
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Take-axe",
@@ -27,5 +29,8 @@
       61,
       5652
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

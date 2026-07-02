@@ -1,0 +1,45 @@
+{
+  "id": 61535,
+  "name": "Statue",
+  "object_models": {
+    "models": [
+      61313
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "colours": [
+    [
+      284,
+      28
+    ],
+    [
+      280,
+      24
+    ],
+    [
+      278,
+      22
+    ],
+    [
+      274,
+      18
+    ],
+    [
+      272,
+      16
+    ],
+    [
+      268,
+      12
+    ]
+  ],
+  "mirror": true,
+  "scale_x": 144,
+  "scale_y": 144,
+  "scale_z": 144,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

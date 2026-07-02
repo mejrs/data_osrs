@@ -1,12 +1,14 @@
 {
   "id": 13839,
-  "models": [
-    [
-      22,
-      14143
-    ]
-  ],
   "name": "Bog",
+  "object_models_and_types": {
+    "models": [
+      14143
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Stand-on",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "category": 186
+  "category": 186,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 10834,
   "name": "Magic tree",
-  "models_2": [
-    7978
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7978
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chop down",
@@ -21,5 +23,8 @@
     "unknown_2": 5
   },
   "unknown_81": 80,
-  "mapscene": 130
+  "mapscene": 130,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

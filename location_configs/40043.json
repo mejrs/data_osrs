@@ -1,15 +1,20 @@
 {
   "id": 40043,
   "name": "Bed",
-  "models_2": [
-    30214,
-    40789
-  ],
+  "object_models": {
+    "models": [
+      30214,
+      40789
+    ]
+  },
   "actions": [
     null,
     "Remove",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,17 +1,20 @@
 {
   "id": 53012,
-  "models": [
-    [
-      10,
-      51367
-    ],
-    [
-      22,
-      51368
-    ]
-  ],
   "name": "Cat bed",
+  "object_models_and_types": {
+    "models": [
+      51367,
+      51368
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

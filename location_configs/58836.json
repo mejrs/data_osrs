@@ -1,10 +1,12 @@
 {
   "id": 58836,
   "name": "Flax",
-  "models_2": [
-    59761,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      59761,
+      7766
+    ]
+  },
   "ambient": 10,
   "actions": [
     null,
@@ -27,5 +29,8 @@
       15822,
       15810
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

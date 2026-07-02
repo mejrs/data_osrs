@@ -1,10 +1,12 @@
 {
   "id": 33002,
   "name": "Grand bookshelf",
-  "models_2": [
-    35415
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      35415
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "category": 1236
+  "category": 1236,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

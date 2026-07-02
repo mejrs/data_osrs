@@ -1,9 +1,11 @@
 {
   "id": 8703,
   "name": "Water barrel",
-  "models_2": [
-    5499
-  ],
+  "object_models": {
+    "models": [
+      5499
+    ]
+  },
   "colours": [
     [
       6932,
@@ -17,5 +19,8 @@
   "category": 241,
   "scale_x": 95,
   "scale_y": 95,
-  "scale_z": 95
+  "scale_z": 95,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

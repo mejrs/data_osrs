@@ -1,18 +1,21 @@
 {
   "id": 58279,
-  "models": [
-    [
-      10,
-      59664
-    ],
-    [
-      4,
-      59665
-    ]
-  ],
   "name": "Pipes",
+  "object_models_and_types": {
+    "models": [
+      59664,
+      59665
+    ],
+    "types": [
+      10,
+      4
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 25,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

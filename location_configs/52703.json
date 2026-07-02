@@ -1,10 +1,12 @@
 {
   "id": 52703,
   "name": "Icon of Ralos",
-  "models_2": [
-    52368
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      52368
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Inspect",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

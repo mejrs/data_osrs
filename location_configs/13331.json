@@ -1,12 +1,14 @@
 {
   "id": 13331,
-  "models": [
-    [
-      22,
-      12515
-    ]
-  ],
   "name": "Slimy water",
+  "object_models_and_types": {
+    "models": [
+      12515
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

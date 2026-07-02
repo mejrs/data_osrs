@@ -1,11 +1,13 @@
 {
   "id": 13649,
   "name": "Globe",
-  "models_2": [
-    12485
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      12485
+    ]
+  },
   "actions": [
     null,
     null,
@@ -13,5 +15,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

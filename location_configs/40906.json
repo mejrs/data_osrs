@@ -1,13 +1,18 @@
 {
   "id": 40906,
-  "models": [
-    [
-      22,
-      41483
-    ]
-  ],
   "name": "Rocks",
+  "object_models_and_types": {
+    "models": [
+      41483
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

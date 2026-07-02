@@ -1,11 +1,13 @@
 {
   "id": 15655,
   "name": "Staircase",
-  "models_2": [
-    1222
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1222
+    ]
+  },
   "actions": [
     "Climb-down",
     null,
@@ -14,5 +16,8 @@
     null
   ],
   "unknown_69": 30,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

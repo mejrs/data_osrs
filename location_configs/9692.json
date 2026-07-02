@@ -1,15 +1,15 @@
 {
   "id": 9692,
-  "models": [
-    [
-      4,
-      5264
-    ],
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
+      5264,
       5263
+    ],
+    "types": [
+      4,
+      22
     ]
-  ],
+  },
   "unknown_19": 0,
   "ambient": 15,
   "colours": [
@@ -25,5 +25,8 @@
   "scale_x": 69,
   "scale_y": 69,
   "scale_z": 69,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

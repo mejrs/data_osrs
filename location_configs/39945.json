@@ -1,11 +1,13 @@
 {
   "id": 39945,
   "name": "Bed",
-  "models_2": [
-    12396
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12396
+    ]
+  },
   "actions": [
     null,
     "Remove",
@@ -18,5 +20,8 @@
       926,
       8115
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

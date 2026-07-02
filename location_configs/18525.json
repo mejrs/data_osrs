@@ -1,10 +1,15 @@
 {
   "id": 18525,
   "name": "Furnace",
-  "models_2": [
-    18872
-  ],
   "dim_x": 2,
   "dim_y": 3,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      18872
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

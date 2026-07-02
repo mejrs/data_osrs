@@ -1,9 +1,14 @@
 {
   "id": 600,
   "name": "Table",
-  "models_2": [
-    1307
-  ],
+  "object_models": {
+    "models": [
+      1307
+    ]
+  },
   "is_transparent": true,
-  "category": 154
+  "category": 154,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

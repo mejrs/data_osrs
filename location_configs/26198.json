@@ -1,11 +1,13 @@
 {
   "id": 26198,
   "name": "Birthday cake",
-  "models_2": [
-    50168
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      50168
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
@@ -18,27 +20,34 @@
   "colours": [
     [
       36682,
-      8128
+      7741
     ],
     [
       36653,
-      6969
+      7872
     ],
     [
       40615,
-      8
+      1569
     ],
     [
       40627,
-      0
+      1569
     ],
     [
       55215,
-      8128
+      7741
     ],
     [
       931,
-      8
+      1569
+    ],
+    [
+      9152,
+      7872
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

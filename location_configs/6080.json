@@ -1,9 +1,14 @@
 {
   "id": 6080,
   "name": "Spinning Machine",
-  "models_2": [
-    5963
-  ],
   "dim_y": 2,
-  "unknown_69": 23
+  "object_models": {
+    "models": [
+      5963
+    ]
+  },
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

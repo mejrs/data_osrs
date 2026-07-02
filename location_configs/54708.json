@@ -1,9 +1,11 @@
 {
   "id": 54708,
   "name": "Jug",
-  "models_2": [
-    50373
-  ],
+  "object_models": {
+    "models": [
+      50373
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -25,5 +27,8 @@
       417,
       62992
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

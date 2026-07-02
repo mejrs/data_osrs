@@ -1,11 +1,16 @@
 {
   "id": 45297,
   "name": "Broken Pot",
-  "models_2": [
-    46150
-  ],
+  "object_models": {
+    "models": [
+      46150
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": -10,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

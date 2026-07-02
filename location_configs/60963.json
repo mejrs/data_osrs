@@ -1,0 +1,17 @@
+{
+  "id": 60963,
+  "name": "Bookshelf",
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60579,
+      60572
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

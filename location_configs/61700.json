@@ -1,0 +1,27 @@
+{
+  "id": 61700,
+  "name": "Mounted shield",
+  "object_models_and_types": {
+    "models": [
+      61274
+    ],
+    "types": [
+      4
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2465,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

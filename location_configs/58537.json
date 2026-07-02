@@ -1,27 +1,26 @@
 {
   "id": 58537,
-  "models": [
-    [
-      0,
-      44469
-    ],
-    [
-      1,
-      44470
-    ],
-    [
-      2,
-      44474
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      44469,
+      44470,
+      44474,
       44468
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
     ]
-  ],
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 20,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 56710,
   "name": "Brazier",
-  "models_2": [
-    57321
-  ],
+  "object_models": {
+    "models": [
+      57321
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 6646,
   "unknown_27": false,
@@ -15,5 +17,8 @@
     "unknown_1": 2065,
     "unknown_2": 3
   },
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

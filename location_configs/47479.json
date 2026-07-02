@@ -1,10 +1,15 @@
 {
   "id": 47479,
   "name": "Table",
-  "models_2": [
-    48128
-  ],
+  "object_models": {
+    "models": [
+      48128
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
-  "ambient": 15
+  "ambient": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

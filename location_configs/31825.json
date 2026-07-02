@@ -1,9 +1,11 @@
 {
   "id": 31825,
   "name": "Pool of Dreams",
-  "models_2": [
-    34438
-  ],
+  "object_models": {
+    "models": [
+      34438
+    ]
+  },
   "unknown_24": 2686,
   "ambient": 15,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 54712,
   "name": "Broken stool",
-  "models_2": [
-    24082
-  ],
+  "object_models": {
+    "models": [
+      24082
+    ]
+  },
   "is_transparent": true,
   "ambient": 30,
   "actions": [
@@ -23,5 +25,8 @@
       7333,
       5532
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

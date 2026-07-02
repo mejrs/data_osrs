@@ -1,10 +1,12 @@
 {
   "id": 16884,
   "name": "Barrel",
-  "models_2": [
-    7761,
-    16514
-  ],
+  "object_models": {
+    "models": [
+      7761,
+      16514
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Take-from",
@@ -35,5 +37,8 @@
       2595
     ]
   ],
-  "category": 529
+  "category": 529,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

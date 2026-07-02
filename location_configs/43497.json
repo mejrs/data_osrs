@@ -1,9 +1,11 @@
 {
   "id": 43497,
   "name": "Group storage",
-  "models_2": [
-    29746
-  ],
+  "object_models": {
+    "models": [
+      29746
+    ]
+  },
   "actions": [
     "Open",
     null,
@@ -25,5 +27,8 @@
       6697
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

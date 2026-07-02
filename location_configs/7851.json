@@ -1,12 +1,14 @@
 {
   "id": 7851,
   "name": "Limpwurt plant",
-  "models_2": [
-    7847,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7847,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -36,5 +38,8 @@
       65453,
       3759
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

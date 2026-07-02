@@ -1,7 +1,12 @@
 {
   "id": 37729,
   "name": "Telescope",
-  "models_2": [
-    13135
-  ]
+  "object_models": {
+    "models": [
+      13135
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

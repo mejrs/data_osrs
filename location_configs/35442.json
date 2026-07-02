@@ -1,11 +1,16 @@
 {
   "id": 35442,
   "name": "Bust",
-  "models_2": [
-    38537,
-    38541,
-    38544
-  ],
+  "object_models": {
+    "models": [
+      38537,
+      38541,
+      38544
+    ]
+  },
   "ambient": 10,
-  "contrast": 44
+  "contrast": 44,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

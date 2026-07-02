@@ -1,17 +1,24 @@
 {
   "id": 29613,
-  "name": "Fairy ring",
-  "models_2": [
-    47197
-  ],
+  "name": "Castle Gates",
+  "dim_y": 5,
+  "object_models": {
+    "models": [
+      40217
+    ]
+  },
   "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
+  "unknown_22": true,
+  "ambient": 10,
   "actions": [
+    "Enter",
     null,
-    "Configure",
-    "Last-destination (BLP)",
+    null,
     null,
     null
-  ]
+  ],
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

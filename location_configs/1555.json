@@ -1,12 +1,17 @@
 {
   "id": 1555,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       665
+    ],
+    "types": [
+      0
     ]
-  ],
+  },
   "is_transparent": true,
   "mirror": true,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

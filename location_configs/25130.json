@@ -1,10 +1,15 @@
 {
   "id": 25130,
   "name": "Vines",
-  "models_2": [
-    26570
-  ],
+  "object_models": {
+    "models": [
+      26570
+    ]
+  },
   "unknown_17": false,
   "unknown_21": true,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 12555,
   "name": "Roots",
-  "models_2": [
-    13722
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      13722
+    ]
+  },
   "unknown_21": true,
   "model": false,
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,18 +1,28 @@
 {
   "id": 29559,
-  "name": "Fairy ring",
-  "models_2": [
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
+  "name": "<col=ffff00>Death</col>",
+  "dim_x": 2,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      40588,
+      40585
+    ]
+  },
+  "unknown_24": 9146,
   "ambient": 60,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (BJQ)",
-    null,
-    null
-  ]
+  "contrast": 20,
+  "colours": [
+    [
+      5388,
+      8883
+    ],
+    [
+      8070,
+      8867
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

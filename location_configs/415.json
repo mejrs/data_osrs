@@ -1,14 +1,19 @@
 {
   "id": 415,
   "name": "Coffin",
-  "models_2": [
-    912
-  ],
+  "object_models": {
+    "models": [
+      912
+    ]
+  },
   "actions": [
     "Open",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

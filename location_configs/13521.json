@@ -1,12 +1,14 @@
 {
   "id": 13521,
-  "models": [
-    [
-      4,
-      12166
-    ]
-  ],
   "name": "Excalibur",
+  "object_models_and_types": {
+    "models": [
+      12166
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -16,5 +18,8 @@
     "Remove"
   ],
   "contrast": 25,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

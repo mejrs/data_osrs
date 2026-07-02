@@ -1,10 +1,12 @@
 {
   "id": 12684,
   "name": "Bridge",
-  "models_2": [
-    13534,
-    13535
-  ],
+  "object_models": {
+    "models": [
+      13534,
+      13535
+    ]
+  },
   "unknown_21": true,
   "ambient": 20,
   "contrast": 30,
@@ -35,5 +37,8 @@
     ]
   ],
   "mirror": true,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

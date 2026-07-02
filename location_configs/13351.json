@@ -1,12 +1,14 @@
 {
   "id": 13351,
-  "models": [
-    [
-      0,
-      12209
-    ]
-  ],
   "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      12209
+    ],
+    "types": [
+      0
+    ]
+  },
   "actions": [
     "Close",
     null,
@@ -15,5 +17,8 @@
     null
   ],
   "category": 206,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

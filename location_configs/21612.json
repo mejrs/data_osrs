@@ -1,9 +1,14 @@
 {
   "id": 21612,
   "name": "Crate",
-  "models_2": [
-    22001,
-    22007
-  ],
-  "ambient": 10
+  "object_models": {
+    "models": [
+      22001,
+      22007
+    ]
+  },
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

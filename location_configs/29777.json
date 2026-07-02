@@ -1,10 +1,12 @@
 {
   "id": 29777,
   "name": "Chambers of Xeric",
-  "models_2": [
-    32384
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      32384
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_22": true,
@@ -17,5 +19,8 @@
     null
   ],
   "unknown_69": 30,
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

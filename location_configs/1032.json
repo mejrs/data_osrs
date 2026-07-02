@@ -1,9 +1,14 @@
 {
   "id": 1032,
   "name": "Danger sign",
-  "models_2": [
-    1552
-  ],
+  "object_models": {
+    "models": [
+      1552
+    ]
+  },
   "ambient": 17,
-  "contrast": 17
+  "contrast": 17,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

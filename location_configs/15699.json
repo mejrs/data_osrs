@@ -1,10 +1,15 @@
 {
   "id": 15699,
   "name": "Box cart",
-  "models_2": [
-    15503,
-    15504
-  ],
   "dim_x": 3,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      15503,
+      15504
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

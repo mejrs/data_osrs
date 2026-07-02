@@ -1,9 +1,11 @@
 {
   "id": 21731,
   "name": "Vines",
-  "models_2": [
-    5007
-  ],
+  "object_models": {
+    "models": [
+      5007
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Chop-down",
@@ -11,5 +13,8 @@
     "hidden",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 17672,
   "name": "Locker",
-  "models_2": [
-    17853,
-    17855
-  ],
+  "object_models": {
+    "models": [
+      17853,
+      17855
+    ]
+  },
   "unknown_27": false,
   "ambient": 10,
   "colours": [
@@ -32,5 +34,8 @@
       6806,
       8844
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

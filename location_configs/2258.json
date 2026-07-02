@@ -1,16 +1,21 @@
 {
   "id": 2258,
   "name": "Tomb dolmen",
-  "models_2": [
-    1470
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1470
+    ]
+  },
   "actions": [
     "Look-at",
     "Search",
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 55221,
-  "models": [
-    [
-      4,
-      54914
-    ]
-  ],
   "name": "Ranged engraving",
+  "object_models_and_types": {
+    "models": [
+      54914
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 60,
@@ -20,5 +22,8 @@
       968,
       20424
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

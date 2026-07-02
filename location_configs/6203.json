@@ -1,10 +1,15 @@
 {
   "id": 6203,
   "name": "Lamp",
-  "models_2": [
-    5955,
-    5956
-  ],
+  "object_models": {
+    "models": [
+      5955,
+      5956
+    ]
+  },
   "unknown_24": 1868,
-  "translate_y": 65486
+  "translate_y": 65486,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

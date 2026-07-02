@@ -1,10 +1,12 @@
 {
   "id": 26257,
   "name": "Altar",
-  "models_2": [
-    19777
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      19777
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -18,5 +20,8 @@
   "scale_y": 100,
   "scale_z": 100,
   "unknown_69": 30,
-  "translate_x": 65516
+  "translate_x": 65516,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

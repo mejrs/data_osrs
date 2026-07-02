@@ -1,9 +1,11 @@
 {
   "id": 40144,
   "name": "Drawers",
-  "models_2": [
-    40794
-  ],
+  "object_models": {
+    "models": [
+      40794
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

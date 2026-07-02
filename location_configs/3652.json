@@ -1,9 +1,14 @@
 {
   "id": 3652,
   "name": "Cave",
-  "models_2": [
-    15622
-  ],
+  "object_models": {
+    "models": [
+      15622
+    ]
+  },
   "unknown_22": true,
-  "ambient": 70
+  "ambient": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

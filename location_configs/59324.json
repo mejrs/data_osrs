@@ -1,11 +1,13 @@
 {
   "id": 59324,
   "name": "Enormous skeleton",
-  "models_2": [
-    57626
-  ],
   "dim_x": 7,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      57626
+    ]
+  },
   "ambient": 15,
   "actions": [
     "Chart",
@@ -16,5 +18,8 @@
   ],
   "contrast": 25,
   "category": 2317,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

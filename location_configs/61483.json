@@ -1,0 +1,17 @@
+{
+  "id": 61483,
+  "name": "Cabinet",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60568
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

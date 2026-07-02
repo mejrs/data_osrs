@@ -1,10 +1,12 @@
 {
   "id": 15216,
   "name": "Ropeswing",
-  "models_2": [
-    15100
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      15100
+    ]
+  },
   "unknown_17": false,
   "actions": [
     "Swing-on",
@@ -38,5 +40,8 @@
       7442,
       10398
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

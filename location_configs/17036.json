@@ -1,10 +1,15 @@
 {
   "id": 17036,
   "name": "Strong Tree",
-  "models_2": [
-    16896
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 40
+  "object_models": {
+    "models": [
+      16896
+    ]
+  },
+  "ambient": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

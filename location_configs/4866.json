@@ -1,10 +1,15 @@
 {
   "id": 4866,
   "name": "Gnome Glider",
-  "models_2": [
-    4797
-  ],
   "dim_x": 4,
   "dim_y": 4,
-  "unknown_24": 1411
+  "object_models": {
+    "models": [
+      4797
+    ]
+  },
+  "unknown_24": 1411,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

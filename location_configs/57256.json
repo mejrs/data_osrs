@@ -1,9 +1,11 @@
 {
   "id": 57256,
   "name": "Rock",
-  "models_2": [
-    56647
-  ],
+  "object_models": {
+    "models": [
+      56647
+    ]
+  },
   "unknown_21": true,
   "ambient": 0,
   "contrast": 30,
@@ -41,5 +43,8 @@
       14872
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

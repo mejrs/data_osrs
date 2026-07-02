@@ -1,9 +1,11 @@
 {
   "id": 10616,
   "name": "Black Chest",
-  "models_2": [
-    2898
-  ],
+  "object_models": {
+    "models": [
+      2898
+    ]
+  },
   "ambient": 20,
   "contrast": 10,
   "colours": [
@@ -40,5 +42,8 @@
       10514
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

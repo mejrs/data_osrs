@@ -1,14 +1,19 @@
 {
   "id": 50157,
   "name": "Balcony",
-  "models_2": [
-    50598
-  ],
+  "object_models": {
+    "models": [
+      50598
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 15,
   "contrast": 15,
-  "category": 1898
+  "category": 1898,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

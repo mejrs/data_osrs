@@ -1,12 +1,14 @@
 {
   "id": 46161,
   "name": "Path of Crondis",
-  "models_2": [
-    45363,
-    45365
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      45363,
+      45365
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -21,5 +23,8 @@
   ],
   "contrast": 10,
   "category": 1681,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 2971,
-  "models": [
-    [
-      0,
-      584
-    ]
-  ],
   "name": "Shimmering field",
+  "object_models_and_types": {
+    "models": [
+      584
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Walk-through",
@@ -14,5 +16,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

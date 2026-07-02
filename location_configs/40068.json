@@ -1,7 +1,12 @@
 {
   "id": 40068,
   "name": "Range",
-  "models_2": [
-    40826
-  ]
+  "object_models": {
+    "models": [
+      40826
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 6794,
   "name": "Workbench",
-  "models_2": [
-    12188,
-    10559
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      12188,
+      10559
+    ]
+  },
   "actions": [
     "Work-at",
     null,
@@ -15,6 +17,9 @@
   ],
   "category": 206,
   "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "23": 80
   }

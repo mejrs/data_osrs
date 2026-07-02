@@ -1,9 +1,11 @@
 {
   "id": 37631,
   "name": "Supplies",
-  "models_2": [
-    11205
-  ],
+  "object_models": {
+    "models": [
+      11205
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -34,5 +36,8 @@
       33
     ]
   ],
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

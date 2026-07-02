@@ -1,11 +1,13 @@
 {
   "id": 52487,
   "name": "Tunnel",
-  "models_2": [
-    41389
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      41389
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -13,5 +15,8 @@
   "contrast": 10,
   "model": false,
   "scale_y": 160,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

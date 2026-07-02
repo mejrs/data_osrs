@@ -1,14 +1,19 @@
 {
   "id": 26267,
-  "models": [
-    [
-      22,
-      2316
-    ]
-  ],
   "name": "Plinth",
+  "object_models_and_types": {
+    "models": [
+      2316
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "scale_y": 40,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 11031,
   "name": "Wall",
-  "models_2": [
-    10911
-  ],
   "dim_x": 5,
+  "object_models": {
+    "models": [
+      10911
+    ]
+  },
   "unknown_19": 1,
   "mirror": true,
-  "scale_y": 256
+  "scale_y": 256,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,30 @@
+{
+  "id": 61688,
+  "name": "Mounted head",
+  "dim_y": 2,
+  "object_models_and_types": {
+    "models": [
+      61276
+    ],
+    "types": [
+      4
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2465,
+  "translate_z": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

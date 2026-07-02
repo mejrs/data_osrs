@@ -1,12 +1,14 @@
 {
   "id": 4062,
-  "models": [
-    [
-      4,
-      2034
-    ]
-  ],
   "name": "Shelf",
+  "object_models_and_types": {
+    "models": [
+      2034
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 50,
   "actions": [
     "Search",
@@ -36,5 +38,8 @@
       916,
       3980
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

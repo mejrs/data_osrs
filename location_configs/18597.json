@@ -1,12 +1,14 @@
 {
   "id": 18597,
   "name": "Stairwell",
-  "models_2": [
-    18710,
-    18709
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      18710,
+      18709
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Climb-down",
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

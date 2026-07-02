@@ -1,11 +1,16 @@
 {
   "id": 30587,
-  "models": [
-    [
-      22,
-      33768
-    ]
-  ],
   "name": "Trapdoor",
-  "unknown_19": 1
+  "object_models_and_types": {
+    "models": [
+      33768
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

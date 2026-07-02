@@ -1,0 +1,30 @@
+{
+  "id": 60765,
+  "name": "Gate",
+  "object_models_and_types": {
+    "models": [
+      966,
+      967,
+      968
+    ],
+    "types": [
+      0,
+      1,
+      9
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Leave",
+    "Quick-escape",
+    null,
+    null,
+    null
+  ],
+  "category": 2408,
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

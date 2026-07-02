@@ -1,24 +1,20 @@
 {
   "id": 14217,
-  "models": [
-    [
-      0,
-      14469
-    ],
-    [
-      1,
-      14470
-    ],
-    [
-      2,
-      14471
-    ],
-    [
-      9,
-      14472
-    ]
-  ],
   "name": "Wall",
+  "object_models_and_types": {
+    "models": [
+      14469,
+      14470,
+      14471,
+      14472
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      9
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -31,5 +27,8 @@
     null
   ],
   "category": 182,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

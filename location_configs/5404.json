@@ -1,9 +1,11 @@
 {
   "id": 5404,
   "name": "Mast",
-  "models_2": [
-    1868
-  ],
+  "object_models": {
+    "models": [
+      1868
+    ]
+  },
   "colours": [
     [
       5559,
@@ -17,5 +19,8 @@
       53,
       17583
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

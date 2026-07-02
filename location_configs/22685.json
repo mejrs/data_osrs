@@ -1,10 +1,15 @@
 {
   "id": 22685,
   "name": "Shelf",
-  "models_2": [
-    23381,
-    23380
-  ],
+  "object_models": {
+    "models": [
+      23381,
+      23380
+    ]
+  },
   "unknown_27": false,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

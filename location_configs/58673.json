@@ -1,9 +1,11 @@
 {
   "id": 58673,
   "name": "Mounted purplefin",
-  "models_2": [
-    59505
-  ],
+  "object_models": {
+    "models": [
+      59505
+    ]
+  },
   "unknown_17": false,
   "ambient": 25,
   "actions": [
@@ -14,5 +16,8 @@
     "Remove"
   ],
   "contrast": 25,
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

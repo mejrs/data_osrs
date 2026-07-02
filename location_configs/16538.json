@@ -1,9 +1,11 @@
 {
   "id": 16538,
   "name": "Spikey chain",
-  "models_2": [
-    9246
-  ],
+  "object_models": {
+    "models": [
+      9246
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Climb-down",
@@ -14,5 +16,8 @@
   ],
   "scale_x": 128,
   "scale_y": 145,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

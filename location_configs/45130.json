@@ -1,11 +1,13 @@
 {
   "id": 45130,
   "name": "Exit",
-  "models_2": [
-    45730
-  ],
   "dim_x": 3,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      45730
+    ]
+  },
   "unknown_22": true,
   "ambient": 0,
   "actions": [
@@ -17,5 +19,8 @@
   ],
   "contrast": 10,
   "category": 1657,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

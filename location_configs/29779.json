@@ -1,9 +1,11 @@
 {
   "id": 29779,
   "name": "Medium storage unit",
-  "models_2": [
-    32520
-  ],
+  "object_models": {
+    "models": [
+      32520
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -14,5 +16,8 @@
     "Upgrade"
   ],
   "category": 972,
-  "unknown_69": 23
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

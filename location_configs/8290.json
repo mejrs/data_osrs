@@ -1,10 +1,12 @@
 {
   "id": 8290,
   "name": "Yanillian Hops",
-  "models_2": [
-    8200,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8200,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     null,
@@ -26,5 +28,8 @@
       13210,
       9125
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

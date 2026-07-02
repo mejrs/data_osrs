@@ -1,0 +1,20 @@
+{
+  "id": 61059,
+  "name": "Corpses",
+  "dim_x": 4,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61187
+    ]
+  },
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 30,
+  "mirror": true,
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

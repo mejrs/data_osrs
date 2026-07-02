@@ -1,16 +1,16 @@
 {
   "id": 28790,
-  "models": [
-    [
-      10,
-      2112
-    ],
-    [
-      0,
-      25626
-    ]
-  ],
   "name": "Sliced web",
+  "object_models_and_types": {
+    "models": [
+      2112,
+      25626
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
   "unknown_22": true,
   "unknown_27": false,
   "actions": [
@@ -23,5 +23,8 @@
   "textures": {
     "12": 26
   },
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 7991,
   "name": "Dead pineapple plant",
-  "models_2": [
-    8097,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      8097,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Clear",
@@ -24,5 +26,8 @@
       12855,
       38049
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

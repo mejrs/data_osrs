@@ -1,12 +1,14 @@
 {
   "id": 43825,
-  "models": [
-    [
-      4,
-      7457
-    ]
-  ],
   "name": "Blood rift",
+  "object_models_and_types": {
+    "models": [
+      7457
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 50,
   "actions": [
     "Exit-through (Kourend)",
@@ -21,5 +23,8 @@
       38848,
       65474
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 22734,
   "name": "Moths",
-  "models_2": [
-    23474
-  ],
+  "object_models": {
+    "models": [
+      23474
+    ]
+  },
   "unknown_24": 6036,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

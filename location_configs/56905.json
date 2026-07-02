@@ -1,24 +1,20 @@
 {
   "id": 56905,
-  "models": [
-    [
-      0,
-      51795
-    ],
-    [
-      1,
-      51785
-    ],
-    [
-      9,
-      51794
-    ],
-    [
-      22,
-      56752
-    ]
-  ],
   "name": "Ledge",
+  "object_models_and_types": {
+    "models": [
+      51795,
+      51785,
+      51794,
+      56752
+    ],
+    "types": [
+      0,
+      1,
+      9,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -49,5 +45,8 @@
     ]
   ],
   "model": false,
-  "translate_y": 65534
+  "translate_y": 65534,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

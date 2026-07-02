@@ -1,12 +1,14 @@
 {
   "id": 4706,
   "name": "Veg stall",
-  "models_2": [
-    4631,
-    1421
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      4631,
+      1421
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     null,
@@ -40,5 +42,8 @@
       7081,
       5669
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

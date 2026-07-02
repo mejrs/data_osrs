@@ -1,10 +1,12 @@
 {
   "id": 20166,
   "name": "Penance Runner statue",
-  "models_2": [
-    20678,
-    20675
-  ],
+  "object_models": {
+    "models": [
+      20678,
+      20675
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Inspect",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

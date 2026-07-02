@@ -1,15 +1,20 @@
 {
   "id": 17132,
   "name": "Kitchen cabinet",
-  "models_2": [
-    17141,
-    17138
-  ],
+  "object_models": {
+    "models": [
+      17141,
+      17138
+    ]
+  },
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

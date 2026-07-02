@@ -22,5 +22,8 @@
       50084
     ],
     "default": 50085
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

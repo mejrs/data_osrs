@@ -1,10 +1,12 @@
 {
   "id": 4523,
   "name": "Fireplace space",
-  "models_2": [
-    12700
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12700
+    ]
+  },
   "actions": [
     null,
     null,
@@ -13,6 +15,9 @@
     "Build"
   ],
   "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "430": 2
   }

@@ -1,9 +1,11 @@
 {
   "id": 22137,
   "name": "Drawers",
-  "models_2": [
-    22938
-  ],
+  "object_models": {
+    "models": [
+      22938
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,
@@ -18,5 +20,8 @@
       6817
     ]
   ],
-  "translate_z": 16
+  "translate_z": 16,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

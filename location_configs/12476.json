@@ -1,10 +1,15 @@
 {
   "id": 12476,
   "name": "Anchor",
-  "models_2": [
-    13734
-  ],
+  "object_models": {
+    "models": [
+      13734
+    ]
+  },
   "unknown_22": true,
   "mirror": true,
-  "mapscene": 41
+  "mapscene": 41,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

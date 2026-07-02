@@ -1,9 +1,11 @@
 {
   "id": 23732,
   "name": "Bone Chain",
-  "models_2": [
-    15850
-  ],
+  "object_models": {
+    "models": [
+      15850
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Climb-up",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "mapscene": 7
+  "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

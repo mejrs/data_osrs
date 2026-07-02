@@ -1,10 +1,12 @@
 {
   "id": 54726,
   "name": "Bookshelf",
-  "models_2": [
-    7392,
-    7393
-  ],
+  "object_models": {
+    "models": [
+      7392,
+      7393
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Search",
@@ -42,5 +44,8 @@
   ],
   "category": 205,
   "scale_z": 148,
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

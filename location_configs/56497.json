@@ -1,9 +1,11 @@
 {
   "id": 56497,
   "name": "Fireplace",
-  "models_2": [
-    51737
-  ],
+  "object_models": {
+    "models": [
+      51737
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "ambient": -10,
@@ -13,5 +15,8 @@
       38181,
       39203
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

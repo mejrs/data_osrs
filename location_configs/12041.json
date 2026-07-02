@@ -1,9 +1,11 @@
 {
   "id": 12041,
   "name": "A gap through the wall",
-  "models_2": [
-    11917
-  ],
+  "object_models": {
+    "models": [
+      11917
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Squeeze-through",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

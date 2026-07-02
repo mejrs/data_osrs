@@ -1,11 +1,16 @@
 {
   "id": 23632,
   "name": "Stand",
-  "models_2": [
-    24905,
-    25779
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 20
+  "object_models": {
+    "models": [
+      24905,
+      25779
+    ]
+  },
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

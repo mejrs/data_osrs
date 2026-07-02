@@ -1,8 +1,13 @@
 {
   "id": 34799,
   "name": "Pillar",
-  "models_2": [
-    875
-  ],
-  "dim_x": 3
+  "dim_x": 3,
+  "object_models": {
+    "models": [
+      875
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

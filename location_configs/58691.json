@@ -1,18 +1,25 @@
 {
   "id": 58691,
   "name": "Umbral coral",
-  "models_2": [
-    59750,
-    7766,
-    59745
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      59750,
+      7766,
+      59745
+    ]
+  },
+  "ambient": 10,
   "actions": [
     "Collect",
     "Inspect",
     null,
     "Guide",
     null
-  ]
+  ],
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 35081,
   "name": "Floating Book",
-  "models_2": [
-    38517
-  ],
+  "object_models": {
+    "models": [
+      38517
+    ]
+  },
   "ambient": 40,
   "colours": [
     [
@@ -19,5 +21,8 @@
       21530
     ]
   ],
-  "category": 1344
+  "category": 1344,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

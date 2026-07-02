@@ -1,12 +1,14 @@
 {
   "id": 32166,
-  "models": [
-    [
-      0,
-      34684
-    ]
-  ],
   "name": "Blockage",
+  "object_models_and_types": {
+    "models": [
+      34684
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -17,5 +19,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

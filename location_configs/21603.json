@@ -1,9 +1,14 @@
 {
   "id": 21603,
   "name": "Broken barrel",
-  "models_2": [
-    22026
-  ],
+  "object_models": {
+    "models": [
+      22026
+    ]
+  },
   "is_transparent": true,
-  "ambient": 25
+  "ambient": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

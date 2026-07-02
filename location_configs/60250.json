@@ -1,37 +1,16 @@
 {
   "id": 60250,
-  "name": "Teak cargo hold",
-  "models_2": [
-    58157
-  ],
-  "is_transparent": true,
-  "unknown_19": 1,
-  "ambient": 15,
-  "actions": [
-    "Open",
-    "Quick-deposit",
-    null,
-    null,
-    "Modify"
-  ],
-  "contrast": 15,
-  "colours": [
-    [
-      21435,
-      61
-    ],
-    [
-      21464,
-      66
-    ],
-    [
-      54203,
-      6457
-    ],
-    [
-      54183,
-      6449
+  "name": "Deadman's chest",
+  "dim_x": 4,
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      34265
     ]
-  ],
-  "category": 2343
+  },
+  "unknown_19": 1,
+  "unknown_90": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

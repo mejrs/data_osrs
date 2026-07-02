@@ -1,9 +1,11 @@
 {
   "id": 44826,
   "name": "Sarcophagus",
-  "models_2": [
-    46285
-  ],
+  "object_models": {
+    "models": [
+      46285
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 9504,
   "ambient": 40,
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 30,
-  "unknown_89": false
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

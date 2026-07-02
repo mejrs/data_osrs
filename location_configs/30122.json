@@ -1,14 +1,19 @@
 {
   "id": 30122,
   "name": "Note",
-  "models_2": [
-    2600
-  ],
+  "object_models": {
+    "models": [
+      2600
+    ]
+  },
   "actions": [
     "Take",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

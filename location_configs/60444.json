@@ -1,14 +1,19 @@
 {
   "id": 60444,
-  "models_2": [
-    58604
-  ],
   "dim_x": 6,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      58604
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 0,
   "ambient": 20,
   "contrast": 25,
   "model": false,
-  "mapscene": 11
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

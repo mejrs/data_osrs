@@ -1,12 +1,14 @@
 {
   "id": 58717,
   "name": "Camphor tree",
-  "models_2": [
-    58636,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58636,
+      7767
+    ]
+  },
   "ambient": 15,
   "actions": [
     null,
@@ -20,5 +22,8 @@
     "8": 194,
     "60": 195
   },
-  "unknown_81": 80
+  "unknown_81": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

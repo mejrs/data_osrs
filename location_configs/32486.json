@@ -1,9 +1,11 @@
 {
   "id": 32486,
   "name": "Plinth",
-  "models_2": [
-    34825
-  ],
+  "object_models": {
+    "models": [
+      34825
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 5810,
   "name": "Seers weathervane",
-  "models_2": [
-    5522
-  ]
+  "object_models": {
+    "models": [
+      5522
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

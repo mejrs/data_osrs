@@ -1,12 +1,14 @@
 {
   "id": 33422,
-  "models": [
-    [
-      22,
-      18243
-    ]
-  ],
   "name": "Rocks",
+  "object_models_and_types": {
+    "models": [
+      18243
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -32,5 +34,8 @@
       7469
     ]
   ],
-  "breakroutefinding": true
+  "breakroutefinding": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

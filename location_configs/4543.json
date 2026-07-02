@@ -1,12 +1,14 @@
 {
   "id": 4543,
-  "models": [
-    [
-      0,
-      4580
-    ]
-  ],
   "name": "Strange wall",
+  "object_models_and_types": {
+    "models": [
+      4580
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "actions": [
@@ -21,5 +23,8 @@
       43051,
       10392
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 57993,
-  "models": [
-    [
-      22,
+  "name": "Bloodsplatter",
+  "object_models_and_types": {
+    "models": [
+      61582,
       1070
+    ],
+    "types": [
+      10,
+      22
     ]
-  ],
+  },
   "unknown_21": true,
   "ambient": 10,
   "colours": [
@@ -13,5 +18,8 @@
       916,
       404
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

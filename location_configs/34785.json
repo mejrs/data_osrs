@@ -1,10 +1,15 @@
 {
   "id": 34785,
   "name": "Pillar",
-  "models_2": [
-    865
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      865
+    ]
+  },
   "ambient": 40,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 42943,
   "name": "Stalagmite",
-  "models_2": [
-    21710
-  ],
+  "object_models": {
+    "models": [
+      21710
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -11,5 +13,8 @@
   "model": false,
   "scale_x": 104,
   "scale_y": 104,
-  "scale_z": 104
+  "scale_z": 104,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

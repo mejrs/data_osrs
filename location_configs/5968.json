@@ -1,13 +1,18 @@
 {
   "id": 5968,
   "name": "Cannonballs",
-  "models_2": [
-    1550
-  ],
+  "object_models": {
+    "models": [
+      1550
+    ]
+  },
   "colours": [
     [
       16,
       43297
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 52394,
   "name": "Bird bath",
-  "models_2": [
-    40774
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      40774
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 40,
@@ -15,5 +17,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

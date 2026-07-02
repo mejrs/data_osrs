@@ -1,12 +1,14 @@
 {
   "id": 779,
-  "models": [
-    [
-      0,
-      4007
-    ]
-  ],
   "name": "Bamboo Door",
+  "object_models_and_types": {
+    "models": [
+      4007
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -27,5 +29,8 @@
     ]
   ],
   "translate_y": 1,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

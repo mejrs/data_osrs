@@ -1,9 +1,11 @@
 {
   "id": 41851,
   "name": "Crates",
-  "models_2": [
-    7700
-  ],
+  "object_models": {
+    "models": [
+      7700
+    ]
+  },
   "unknown_19": 1,
   "ambient": 5,
   "actions": [
@@ -31,5 +33,8 @@
       6806
     ]
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

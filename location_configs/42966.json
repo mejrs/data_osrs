@@ -1,11 +1,13 @@
 {
   "id": 42966,
   "name": "Ancient Forge",
-  "models_2": [
-    43250
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      43250
+    ]
+  },
   "unknown_22": true,
   "unknown_24": 6645,
   "ambient": 25,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 20,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 9752,
   "name": "Crystal",
-  "models_2": [
-    9721
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      9721
+    ]
+  },
   "ambient": 20,
   "contrast": 20,
   "colours": [
@@ -13,5 +15,8 @@
       43528,
       54377
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

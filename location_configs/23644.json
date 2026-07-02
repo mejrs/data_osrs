@@ -1,12 +1,14 @@
 {
   "id": 23644,
-  "models": [
-    [
-      22,
-      1115
-    ]
-  ],
   "name": "A wooden log",
+  "object_models_and_types": {
+    "models": [
+      1115
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_22": true,
   "unknown_27": false,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "mapscene": 13
+  "mapscene": 13,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

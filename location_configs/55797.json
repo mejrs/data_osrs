@@ -1,12 +1,14 @@
 {
   "id": 55797,
-  "models": [
-    [
-      22,
-      50293
-    ]
-  ],
   "name": "Blue tile",
+  "object_models_and_types": {
+    "models": [
+      50293
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "ambient": 0,
   "actions": [
@@ -18,5 +20,9 @@
   ],
   "contrast": 40,
   "category": 1901,
-  "unknown_73": true
+  "unknown_73": true,
+  "raise": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

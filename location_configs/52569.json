@@ -1,8 +1,10 @@
 {
   "id": 52569,
-  "models_2": [
-    51316
-  ],
+  "object_models": {
+    "models": [
+      51316
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -10,5 +12,8 @@
   "contrast": 30,
   "scale_x": 96,
   "scale_z": 96,
-  "mapscene": 176
+  "mapscene": 176,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

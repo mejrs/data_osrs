@@ -1,10 +1,15 @@
 {
   "id": 10733,
   "name": "Portal",
-  "models_2": [
-    10619,
-    10618
-  ],
+  "object_models": {
+    "models": [
+      10619,
+      10618
+    ]
+  },
   "ambient": 20,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

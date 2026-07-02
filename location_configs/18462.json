@@ -1,16 +1,21 @@
 {
   "id": 18462,
   "name": "Crate",
-  "models_2": [
-    18299,
-    18328
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      18299,
+      18328
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 3743,
   "ambient": 20,
   "contrast": 10,
   "model": false,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

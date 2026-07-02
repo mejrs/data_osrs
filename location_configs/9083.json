@@ -1,7 +1,12 @@
 {
   "id": 9083,
   "name": "Dye pots",
-  "models_2": [
-    8997
-  ]
+  "object_models": {
+    "models": [
+      8997
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

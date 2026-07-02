@@ -1,14 +1,19 @@
 {
   "id": 4853,
   "name": "Roots",
-  "models_2": [
-    2172
-  ],
+  "object_models": {
+    "models": [
+      2172
+    ]
+  },
   "colours": [
     [
       6028,
       9100
     ]
   ],
-  "mapscene": 6
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

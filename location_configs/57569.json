@@ -1,10 +1,15 @@
 {
   "id": 57569,
   "name": "Post",
-  "models_2": [
-    57024
-  ],
+  "object_models": {
+    "models": [
+      57024
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

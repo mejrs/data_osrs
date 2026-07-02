@@ -1,8 +1,13 @@
 {
   "id": 17508,
   "name": "Waste pipes",
-  "models_2": [
-    17780
-  ],
-  "ambient": 20
+  "object_models": {
+    "models": [
+      17780
+    ]
+  },
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 10499,
   "name": "Potted fern",
-  "models_2": [
-    1628
-  ],
+  "object_models": {
+    "models": [
+      1628
+    ]
+  },
   "is_transparent": true,
   "ambient": 30,
   "colours": [
@@ -15,5 +17,8 @@
       5002,
       6550
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,16 +1,19 @@
 {
   "id": 18965,
-  "models": [
-    [
-      10,
-      15609
-    ],
-    [
-      0,
-      15610
-    ]
-  ],
   "name": "Rickety door",
+  "object_models_and_types": {
+    "models": [
+      15609,
+      15610
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
   "unknown_21": true,
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

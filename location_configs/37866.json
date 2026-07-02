@@ -1,13 +1,18 @@
 {
   "id": 37866,
   "name": "Nightmare",
-  "models_2": [
-    39183
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      39183
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

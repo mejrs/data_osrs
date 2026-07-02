@@ -1,7 +1,12 @@
 {
   "id": 39117,
   "name": "Mine cart",
-  "models_2": [
-    39851
-  ]
+  "object_models": {
+    "models": [
+      39851
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

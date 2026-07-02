@@ -1,11 +1,13 @@
 {
   "id": 18493,
   "name": "Signpost",
-  "models_2": [
-    18518
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      18518
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Read",
@@ -15,5 +17,8 @@
     null
   ],
   "category": 556,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

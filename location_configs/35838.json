@@ -1,12 +1,14 @@
 {
   "id": 35838,
-  "models": [
-    [
-      0,
-      38700
-    ]
-  ],
   "name": "Blocked Crevice",
+  "object_models_and_types": {
+    "models": [
+      38700
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

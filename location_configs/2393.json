@@ -1,9 +1,11 @@
 {
   "id": 2393,
   "name": "Gnome goal",
-  "models_2": [
-    1317
-  ],
+  "object_models": {
+    "models": [
+      1317
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Shoot",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 24736,
   "name": "Beanstalk",
-  "models_2": [
-    25954,
-    25953
-  ],
-  "unknown_24": 6500
+  "object_models": {
+    "models": [
+      25954,
+      25953
+    ]
+  },
+  "unknown_24": 6500,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

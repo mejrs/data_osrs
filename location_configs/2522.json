@@ -1,11 +1,13 @@
 {
   "id": 2522,
   "name": "Spooky stairs",
-  "models_2": [
-    1952
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1952
+    ]
+  },
   "actions": [
     "Walk-down",
     null,
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

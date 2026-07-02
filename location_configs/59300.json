@@ -1,9 +1,11 @@
 {
   "id": 59300,
   "name": "Notice from General Khazard",
-  "models_2": [
-    1552
-  ],
+  "object_models": {
+    "models": [
+      1552
+    ]
+  },
   "ambient": 17,
   "actions": [
     "Chart",
@@ -14,5 +16,8 @@
   ],
   "contrast": 17,
   "category": 2317,
-  "translate_y": 65526
+  "translate_y": 65526,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

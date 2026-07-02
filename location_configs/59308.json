@@ -1,11 +1,13 @@
 {
   "id": 59308,
   "name": "Crashed glider",
-  "models_2": [
-    57611
-  ],
   "dim_x": 4,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      57611
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Chart",
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 25,
-  "category": 2317
+  "category": 2317,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

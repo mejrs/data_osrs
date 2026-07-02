@@ -1,9 +1,11 @@
 {
   "id": 43870,
   "name": "Shield",
-  "models_2": [
-    2339
-  ],
+  "object_models": {
+    "models": [
+      2339
+    ]
+  },
   "ambient": 10,
   "contrast": 10,
   "colours": [
@@ -23,5 +25,8 @@
       57,
       796
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 25212,
-  "models": [
-    [
-      0,
+  "object_models_and_types": {
+    "models": [
       26552
+    ],
+    "types": [
+      0
     ]
-  ],
-  "ambient": 10
+  },
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 6575,
   "name": "Cart",
-  "models_2": [
-    1480,
-    5493
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1480,
+      5493
+    ]
+  },
   "colours": [
     [
       5330,
@@ -16,5 +18,8 @@
       5326,
       8514
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

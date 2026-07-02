@@ -1,9 +1,11 @@
 {
   "id": 30124,
   "name": "A barrel of rainwater",
-  "models_2": [
-    10145
-  ],
+  "object_models": {
+    "models": [
+      10145
+    ]
+  },
   "ambient": -10,
   "actions": [
     "Search",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

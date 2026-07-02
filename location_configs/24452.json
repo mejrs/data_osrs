@@ -1,9 +1,11 @@
 {
   "id": 24452,
   "name": "Information booth",
-  "models_2": [
-    25347
-  ],
+  "object_models": {
+    "models": [
+      25347
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 20,
@@ -13,5 +15,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

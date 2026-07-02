@@ -1,7 +1,12 @@
 {
   "id": 19887,
   "name": "Camping equipment",
-  "models_2": [
-    19995
-  ]
+  "object_models": {
+    "models": [
+      19995
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

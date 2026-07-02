@@ -1,12 +1,17 @@
 {
   "id": 12784,
   "name": "Bucket",
-  "models_2": [
-    14028,
-    14029
-  ],
+  "object_models": {
+    "models": [
+      14028,
+      14029
+    ]
+  },
   "is_transparent": true,
   "scale_x": 192,
   "scale_y": 192,
-  "scale_z": 192
+  "scale_z": 192,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

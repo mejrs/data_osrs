@@ -1,9 +1,11 @@
 {
   "id": 27064,
   "name": "Old log",
-  "models_2": [
-    1634
-  ],
+  "object_models": {
+    "models": [
+      1634
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Make-raft",
@@ -21,5 +23,8 @@
       4531,
       6674
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

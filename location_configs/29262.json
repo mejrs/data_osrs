@@ -1,16 +1,16 @@
 {
   "id": 29262,
-  "models": [
-    [
-      0,
-      32125
-    ],
-    [
-      2,
-      32122
-    ]
-  ],
   "name": "Redwood fence",
+  "object_models_and_types": {
+    "models": [
+      32125,
+      32122
+    ],
+    "types": [
+      0,
+      2
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
@@ -20,5 +20,8 @@
     null,
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

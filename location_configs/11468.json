@@ -1,10 +1,15 @@
 {
   "id": 11468,
   "name": "Lantern",
-  "models_2": [
-    11822
-  ],
+  "object_models": {
+    "models": [
+      11822
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 1868,
-  "translate_y": 65535
+  "translate_y": 65535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

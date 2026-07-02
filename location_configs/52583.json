@@ -1,10 +1,12 @@
 {
   "id": 52583,
   "name": "Sacks",
-  "models_2": [
-    13877,
-    13903
-  ],
+  "object_models": {
+    "models": [
+      13877,
+      13903
+    ]
+  },
   "colours": [
     [
       4506,
@@ -14,5 +16,8 @@
       5656,
       6932
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

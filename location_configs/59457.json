@@ -1,9 +1,11 @@
 {
   "id": 59457,
   "name": "Strong runic shield generator",
-  "models_2": [
-    44073
-  ],
+  "object_models": {
+    "models": [
+      44073
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 2686,
@@ -47,5 +49,8 @@
       38036
     ]
   ],
-  "category": 2320
+  "category": 2320,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

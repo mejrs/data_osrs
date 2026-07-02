@@ -1,9 +1,11 @@
 {
   "id": 45531,
   "name": "Damaged pillar",
-  "models_2": [
-    45425
-  ],
+  "object_models": {
+    "models": [
+      45425
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 9502,
@@ -38,5 +40,8 @@
   ],
   "scale_x": 88,
   "scale_y": 88,
-  "scale_z": 88
+  "scale_z": 88,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

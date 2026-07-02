@@ -1,10 +1,12 @@
 {
   "id": 18938,
   "name": "Cart track sign",
-  "models_2": [
-    14651,
-    14652
-  ],
+  "object_models": {
+    "models": [
+      14651,
+      14652
+    ]
+  },
   "ambient": 17,
   "contrast": 17,
   "colours": [
@@ -28,5 +30,8 @@
       8404,
       6336
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,17 @@
 {
   "id": 56686,
   "name": "Broken urn",
-  "models_2": [
-    56972
-  ],
+  "object_models": {
+    "models": [
+      56972
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

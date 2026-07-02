@@ -1,19 +1,17 @@
 {
   "id": 47634,
-  "models": [
-    [
-      0,
-      48819
-    ],
-    [
-      1,
-      48839
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      48819,
+      48839,
       48865
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -45,5 +43,8 @@
       47258,
       18
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

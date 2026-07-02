@@ -1,11 +1,13 @@
 {
   "id": 3198,
   "name": "Trawler net",
-  "models_2": [
-    1901
-  ],
   "dim_x": 2,
   "dim_y": 6,
+  "object_models": {
+    "models": [
+      1901
+    ]
+  },
   "actions": [
     "Inspect",
     null,
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

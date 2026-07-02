@@ -1,12 +1,14 @@
 {
   "id": 26705,
-  "models": [
-    [
-      22,
-      1664
-    ]
-  ],
   "name": "Blighted vine",
+  "object_models_and_types": {
+    "models": [
+      1664
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -30,5 +32,8 @@
   ],
   "scale_y": 136,
   "unknown_69": 23,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

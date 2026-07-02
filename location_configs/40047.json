@@ -1,9 +1,11 @@
 {
   "id": 40047,
   "name": "Bed",
-  "models_2": [
-    40816
-  ],
+  "object_models": {
+    "models": [
+      40816
+    ]
+  },
   "actions": [
     null,
     "Remove",
@@ -24,5 +26,8 @@
       8128,
       16796
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

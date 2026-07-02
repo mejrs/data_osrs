@@ -1,9 +1,11 @@
 {
   "id": 54679,
   "name": "Skeleton",
-  "models_2": [
-    1079
-  ],
+  "object_models": {
+    "models": [
+      1079
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "ambient": 10,
@@ -14,5 +16,8 @@
       32893
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

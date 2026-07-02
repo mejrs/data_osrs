@@ -1,9 +1,11 @@
 {
   "id": 7516,
   "name": "Tools",
-  "models_2": [
-    7914
-  ],
+  "object_models": {
+    "models": [
+      7914
+    ]
+  },
   "colours": [
     [
       61,
@@ -17,5 +19,8 @@
       70,
       5190
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

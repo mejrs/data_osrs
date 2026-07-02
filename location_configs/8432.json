@@ -1,12 +1,14 @@
 {
   "id": 8432,
   "name": "Dead Magic Tree",
-  "models_2": [
-    7982,
-    7768
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      7982,
+      7768
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Clear",
@@ -14,5 +16,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

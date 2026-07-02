@@ -1,10 +1,12 @@
 {
   "id": 51523,
   "name": "Chair",
-  "models_2": [
-    47758
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      47758
+    ]
+  },
   "ambient": 5,
   "contrast": 15,
   "colours": [
@@ -45,5 +47,8 @@
       5388
     ]
   ],
-  "scale_y": 112
+  "scale_y": 112,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

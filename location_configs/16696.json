@@ -1,9 +1,11 @@
 {
   "id": 16696,
   "name": "Bank chest",
-  "models_2": [
-    5272
-  ],
+  "object_models": {
+    "models": [
+      5272
+    ]
+  },
   "colours": [
     [
       14499,
@@ -22,5 +24,8 @@
       5660
     ]
   ],
-  "scale_y": 130
+  "scale_y": 130,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

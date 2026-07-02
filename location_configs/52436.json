@@ -1,19 +1,22 @@
 {
   "id": 52436,
-  "models": [
-    [
-      10,
-      51367
-    ],
-    [
-      22,
-      51368
-    ]
-  ],
   "name": "Pillow",
+  "object_models_and_types": {
+    "models": [
+      51367,
+      51368
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

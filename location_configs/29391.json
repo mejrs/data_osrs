@@ -1,18 +1,106 @@
 {
   "id": 29391,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
+  "name": "Waystone",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      41009,
+      41027
+    ]
+  },
+  "unknown_21": true,
+  "unknown_24": 8791,
   "unknown_27": false,
+  "ambient": 40,
   "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (CIS)",
+    "Channel",
+    "Channel (Wilderness)",
     null,
-    "Remove"
-  ]
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      33740,
+      1953
+    ],
+    [
+      5444,
+      35
+    ],
+    [
+      5435,
+      28
+    ],
+    [
+      5429,
+      20
+    ],
+    [
+      5541,
+      16
+    ],
+    [
+      7463,
+      16
+    ],
+    [
+      8472,
+      12
+    ],
+    [
+      10650,
+      12
+    ],
+    [
+      10638,
+      8
+    ],
+    [
+      16532,
+      8
+    ],
+    [
+      10768,
+      274
+    ],
+    [
+      10892,
+      268
+    ],
+    [
+      10760,
+      268
+    ],
+    [
+      15238,
+      262
+    ],
+    [
+      33752,
+      929
+    ],
+    [
+      33699,
+      1944
+    ],
+    [
+      33725,
+      918
+    ]
+  ],
+  "category": 2148,
+  "unknown_78": {
+    "unknown_1": 7560,
+    "unknown_2": 5
+  },
+  "mapscene": 14,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
+  "params": {
+    "876": 11
+  }
 }

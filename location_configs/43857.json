@@ -1,11 +1,13 @@
 {
   "id": 43857,
   "name": "Broken trip hammer",
-  "models_2": [
-    44845
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      44845
+    ]
+  },
   "unknown_27": false,
   "ambient": 0,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 30,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

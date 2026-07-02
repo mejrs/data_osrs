@@ -1,8 +1,13 @@
 {
   "id": 23280,
   "name": "Rocks",
-  "models_2": [
-    24240
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      24240
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 35451,
   "name": "Seal of Cadarn",
-  "models_2": [
-    38401
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      38401
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -14,5 +16,8 @@
     null,
     null
   ],
-  "contrast": 44
+  "contrast": 44,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

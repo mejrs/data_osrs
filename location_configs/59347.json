@@ -1,9 +1,12 @@
 {
   "id": 59347,
   "name": "Waterlogged book",
-  "models_2": [
-    6965
-  ],
+  "object_models": {
+    "models": [
+      6965
+    ]
+  },
+  "unknown_17": false,
   "actions": [
     "Chart",
     null,
@@ -26,5 +29,8 @@
     ]
   ],
   "category": 2317,
-  "translate_y": 6
+  "translate_y": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

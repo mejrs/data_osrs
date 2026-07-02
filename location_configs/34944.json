@@ -1,14 +1,19 @@
 {
   "id": 34944,
   "name": "Table",
-  "models_2": [
-    1213
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      1213
+    ]
+  },
   "is_transparent": true,
   "textures": {
     "5": 16,
     "22": 16
   },
-  "category": 156
+  "category": 156,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

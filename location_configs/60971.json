@@ -1,0 +1,18 @@
+{
+  "id": 60971,
+  "object_models_and_types": {
+    "models": [
+      60725
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 20,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

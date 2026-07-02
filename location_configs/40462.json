@@ -1,11 +1,13 @@
 {
   "id": 40462,
   "name": "Bandage table",
-  "models_2": [
-    7906,
-    41261
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      7906,
+      41261
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Take-from",
@@ -14,5 +16,8 @@
     "Take-10",
     null
   ],
-  "category": 1483
+  "category": 1483,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

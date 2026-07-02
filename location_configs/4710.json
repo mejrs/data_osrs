@@ -1,12 +1,14 @@
 {
   "id": 4710,
-  "models": [
-    [
-      0,
-      4007
-    ]
-  ],
   "name": "Doorway",
+  "object_models_and_types": {
+    "models": [
+      4007
+    ],
+    "types": [
+      0
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Open",
@@ -24,5 +26,8 @@
       5673,
       5673
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

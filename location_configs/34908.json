@@ -1,12 +1,14 @@
 {
   "id": 34908,
   "name": "Crystal tree patch",
-  "models_2": [
-    7797,
-    7768
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7797,
+      7768
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Rake",
@@ -17,5 +19,8 @@
   ],
   "scale_x": 85,
   "scale_y": 85,
-  "scale_z": 85
+  "scale_z": 85,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

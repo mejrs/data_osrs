@@ -1,12 +1,17 @@
 {
   "id": 40244,
   "name": "<col=ffff00>Dagannoth Supreme Jr.",
-  "models_2": [
-    9941,
-    9943
-  ],
+  "object_models": {
+    "models": [
+      9941,
+      9943
+    ]
+  },
   "unknown_24": 2850,
   "scale_x": 60,
   "scale_y": 60,
-  "scale_z": 60
+  "scale_z": 60,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

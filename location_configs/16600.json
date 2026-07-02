@@ -1,10 +1,12 @@
 {
   "id": 16600,
   "name": "Hurdle",
-  "models_2": [
-    16764
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      16764
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 4357,
   "unknown_27": false,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 40,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

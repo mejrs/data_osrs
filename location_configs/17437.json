@@ -1,11 +1,16 @@
 {
   "id": 17437,
   "name": "Stone table",
-  "models_2": [
-    17505,
-    17507
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_24": 4622
+  "object_models": {
+    "models": [
+      17505,
+      17507
+    ]
+  },
+  "unknown_24": 4622,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

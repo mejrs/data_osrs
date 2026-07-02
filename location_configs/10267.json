@@ -1,9 +1,11 @@
 {
   "id": 10267,
   "name": "Shield Display",
-  "models_2": [
-    10023
-  ],
+  "object_models": {
+    "models": [
+      10023
+    ]
+  },
   "actions": [
     "Study",
     null,
@@ -28,5 +30,8 @@
       6697,
       6808
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

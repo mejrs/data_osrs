@@ -1,16 +1,21 @@
 {
   "id": 17391,
   "name": "Steps",
-  "models_2": [
-    1772
-  ],
   "dim_x": 6,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      1772
+    ]
+  },
   "actions": [
     "Climb-up",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

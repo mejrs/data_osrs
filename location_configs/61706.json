@@ -1,0 +1,25 @@
+{
+  "id": 61706,
+  "name": "Shelves",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      60563
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2467,
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

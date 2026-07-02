@@ -1,15 +1,20 @@
 {
   "id": 40081,
   "name": "Bed space",
-  "models_2": [
-    12865
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12865
+    ]
+  },
   "actions": [
     null,
     null,
     null,
     "Build",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

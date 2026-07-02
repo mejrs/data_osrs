@@ -1,8 +1,13 @@
 {
   "id": 17445,
   "name": "Stone circle wall",
-  "models_2": [
-    17500
-  ],
-  "dim_x": 2
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      17500
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

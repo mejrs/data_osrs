@@ -1,9 +1,11 @@
 {
   "id": 34838,
   "name": "Grubby Chest",
-  "models_2": [
-    37325
-  ],
+  "object_models": {
+    "models": [
+      37325
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Open",
@@ -34,5 +36,8 @@
       8
     ]
   ],
-  "unknown_69": 29
+  "unknown_69": 29,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

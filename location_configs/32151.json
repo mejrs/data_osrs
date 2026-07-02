@@ -1,11 +1,16 @@
 {
   "id": 32151,
   "name": "Generator",
-  "models_2": [
-    34735
-  ],
   "dim_x": 5,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      34735
+    ]
+  },
   "unknown_22": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

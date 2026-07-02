@@ -1,14 +1,19 @@
 {
   "id": 56951,
   "name": "Food pot",
-  "models_2": [
-    52379
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      52379
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 10,
-  "contrast": 30
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

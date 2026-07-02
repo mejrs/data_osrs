@@ -1,11 +1,13 @@
 {
   "id": 58658,
   "name": "Rowboat space",
-  "models_2": [
-    58766
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      58766
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
@@ -19,5 +21,8 @@
     null
   ],
   "contrast": 10,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,14 +1,19 @@
 {
   "id": 5231,
   "name": "Stalagmite",
-  "models_2": [
-    694
-  ],
+  "object_models": {
+    "models": [
+      694
+    ]
+  },
   "unknown_21": true,
   "colours": [
     [
       5916,
       7331
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

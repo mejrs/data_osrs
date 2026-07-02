@@ -1,9 +1,11 @@
 {
   "id": 37444,
   "name": "Log pile",
-  "models_2": [
-    1468
-  ],
+  "object_models": {
+    "models": [
+      1468
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "colours": [
@@ -18,5 +20,8 @@
   ],
   "scale_x": 88,
   "scale_y": 88,
-  "scale_z": 88
+  "scale_z": 88,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 55460,
   "name": "Jack-O-Lanterns",
-  "models_2": [
-    55391
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      55391
+    ]
+  },
   "ambient": 10,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

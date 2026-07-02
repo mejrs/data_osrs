@@ -1,11 +1,13 @@
 {
   "id": 29247,
   "name": "Zen theme",
-  "models_2": [
-    32132
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32132
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
@@ -19,5 +21,8 @@
   "category": 206,
   "scale_x": 120,
   "scale_y": 120,
-  "scale_z": 120
+  "scale_z": 120,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

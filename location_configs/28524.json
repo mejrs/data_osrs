@@ -1,13 +1,18 @@
 {
   "id": 28524,
   "name": "Work table",
-  "models_2": [
-    30914
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      30914
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "category": 157
+  "category": 157,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

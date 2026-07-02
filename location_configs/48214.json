@@ -1,13 +1,18 @@
 {
   "id": 48214,
   "name": "Shadow Blocker",
-  "models_2": [
-    48541
-  ],
+  "object_models": {
+    "models": [
+      48541
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 10387,
   "unknown_27": false,
   "ambient": 30,
-  "contrast": 45
+  "contrast": 45,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

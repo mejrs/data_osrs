@@ -1,12 +1,14 @@
 {
   "id": 2699,
-  "models": [
-    [
-      0,
-      19291
-    ]
-  ],
   "name": "Mine cave",
+  "object_models_and_types": {
+    "models": [
+      19291
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -16,5 +18,8 @@
     null,
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

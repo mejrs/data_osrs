@@ -1,18 +1,18 @@
 {
   "id": 43633,
-  "models": [
-    [
-      10,
-      44044
-    ],
-    [
-      22,
-      44046
-    ]
-  ],
   "name": "Elk kelp",
   "dim_x": 2,
   "dim_y": 2,
+  "object_models_and_types": {
+    "models": [
+      44044,
+      44046
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 5,
@@ -20,5 +20,8 @@
   "scale_x": 242,
   "scale_y": 242,
   "scale_z": 200,
-  "mapscene": 26
+  "mapscene": 26,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

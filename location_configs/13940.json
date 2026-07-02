@@ -1,10 +1,15 @@
 {
   "id": 13940,
   "name": "Hope bridge",
-  "models_2": [
-    14260
-  ],
+  "object_models": {
+    "models": [
+      14260
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
-  "ambient": 50
+  "ambient": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

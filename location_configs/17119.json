@@ -1,17 +1,22 @@
 {
   "id": 17119,
-  "models": [
-    [
-      22,
-      16953
-    ]
-  ],
   "name": "Pool of Slime",
+  "object_models_and_types": {
+    "models": [
+      16953
+    ],
+    "types": [
+      22
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 90,
   "contrast": 25,
   "category": 533,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

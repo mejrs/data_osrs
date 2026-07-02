@@ -1,13 +1,18 @@
 {
   "id": 50347,
-  "models": [
-    [
-      0,
-      50361
-    ]
-  ],
   "name": "Sconce",
+  "object_models_and_types": {
+    "models": [
+      50361
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "ambient": 0,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

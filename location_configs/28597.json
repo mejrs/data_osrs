@@ -1,9 +1,11 @@
 {
   "id": 28597,
   "name": "Lovakite rocks",
-  "models_2": [
-    1391
-  ],
+  "object_models": {
+    "models": [
+      1391
+    ]
+  },
   "is_transparent": true,
   "ambient": 10,
   "actions": [
@@ -21,5 +23,8 @@
     ]
   ],
   "category": 918,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 16745,
   "name": "Stool",
-  "models_2": [
-    12577
-  ],
+  "object_models": {
+    "models": [
+      12577
+    ]
+  },
   "colours": [
     [
       6466,
@@ -13,5 +15,8 @@
       5545,
       5652
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

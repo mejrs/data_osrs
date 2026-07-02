@@ -1,12 +1,14 @@
 {
   "id": 5808,
-  "models": [
-    [
-      4,
-      5650
-    ]
-  ],
   "name": "Sculpture",
+  "object_models_and_types": {
+    "models": [
+      5650
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "ambient": 20,
@@ -17,5 +19,8 @@
     null,
     "Search"
   ],
-  "contrast": 80
+  "contrast": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

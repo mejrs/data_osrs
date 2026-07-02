@@ -1,16 +1,16 @@
 {
   "id": 51485,
-  "models": [
-    [
-      10,
-      51784
-    ],
-    [
-      0,
-      51796
-    ]
-  ],
   "name": "Calcified rocks",
+  "object_models_and_types": {
+    "models": [
+      51784,
+      51796
+    ],
+    "types": [
+      10,
+      0
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "ambient": 20,
@@ -24,5 +24,8 @@
   "contrast": 50,
   "category": 1932,
   "unknown_69": 23,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

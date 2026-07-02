@@ -1,0 +1,17 @@
+{
+  "id": 61621,
+  "name": "Bookcase",
+  "object_models": {
+    "models": [
+      60564
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

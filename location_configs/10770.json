@@ -1,15 +1,15 @@
 {
   "id": 10770,
-  "models": [
-    [
-      0,
-      10670
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      10670,
       10671
+    ],
+    "types": [
+      0,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -18,5 +18,8 @@
   "scale_x": 128,
   "scale_y": 192,
   "scale_z": 128,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

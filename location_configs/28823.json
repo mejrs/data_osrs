@@ -1,10 +1,12 @@
 {
   "id": 28823,
   "name": "Fruit Stall",
-  "models_2": [
-    31554
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      31554
+    ]
+  },
   "unknown_27": false,
   "actions": [
     null,
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

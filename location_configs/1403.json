@@ -1,14 +1,19 @@
 {
   "id": 1403,
   "name": "Cactus",
-  "models_2": [
-    1597
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1597
+    ]
+  },
   "ambient": 10,
   "contrast": 15,
   "model": false,
   "unknown_81": 80,
-  "mapscene": 4
+  "mapscene": 4,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

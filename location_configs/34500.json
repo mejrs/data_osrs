@@ -1,10 +1,12 @@
 {
   "id": 34500,
   "name": "Chicken coop",
-  "models_2": [
-    36449
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      36449
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Search",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 1469
+  "category": 1469,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

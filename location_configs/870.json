@@ -1,7 +1,12 @@
 {
   "id": 870,
   "name": "Totem Pole",
-  "models_2": [
-    1759
-  ]
+  "object_models": {
+    "models": [
+      1759
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

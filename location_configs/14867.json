@@ -1,15 +1,20 @@
 {
   "id": 14867,
   "name": "Barrels",
-  "models_2": [
-    14828,
-    14829
-  ],
+  "object_models": {
+    "models": [
+      14828,
+      14829
+    ]
+  },
   "ambient": 15,
   "colours": [
     [
       5524,
       5904
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

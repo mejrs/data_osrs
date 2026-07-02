@@ -1,9 +1,14 @@
 {
   "id": 6939,
   "name": "Bone arch",
-  "models_2": [
-    6900
-  ],
+  "object_models": {
+    "models": [
+      6900
+    ]
+  },
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

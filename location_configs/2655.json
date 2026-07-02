@@ -1,9 +1,11 @@
 {
   "id": 2655,
   "name": "Sinclair family crest",
-  "models_2": [
-    2036
-  ],
+  "object_models": {
+    "models": [
+      2036
+    ]
+  },
   "actions": [
     null,
     "Investigate",
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "translate_z": 65520
+  "translate_z": 65520,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

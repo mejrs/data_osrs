@@ -1,9 +1,11 @@
 {
   "id": 29071,
   "name": "Chest",
-  "models_2": [
-    40630
-  ],
+  "object_models": {
+    "models": [
+      40630
+    ]
+  },
   "is_transparent": true,
   "ambient": 30,
   "actions": [
@@ -30,5 +32,8 @@
   ],
   "category": 964,
   "unknown_69": 27,
-  "mapscene": 90
+  "mapscene": 90,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

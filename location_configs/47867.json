@@ -1,11 +1,13 @@
 {
   "id": 47867,
   "name": "Drain",
-  "models_2": [
-    49074
-  ],
   "dim_x": 5,
   "dim_y": 5,
+  "object_models": {
+    "models": [
+      49074
+    ]
+  },
   "unknown_22": true,
   "ambient": 15,
   "contrast": 40,
@@ -37,5 +39,8 @@
   ],
   "model": false,
   "scale_x": 212,
-  "scale_z": 212
+  "scale_z": 212,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

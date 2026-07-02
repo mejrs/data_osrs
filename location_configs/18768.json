@@ -1,10 +1,12 @@
 {
   "id": 18768,
   "name": "Mahogany cape rack",
-  "models_2": [
-    19005,
-    19001
-  ],
+  "object_models": {
+    "models": [
+      19005,
+      19001
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Search",
@@ -13,5 +15,8 @@
     "Upgrade",
     "Remove"
   ],
-  "category": 206
+  "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

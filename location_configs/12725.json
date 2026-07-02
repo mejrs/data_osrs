@@ -1,12 +1,14 @@
 {
   "id": 12725,
-  "models": [
-    [
-      0,
-      14889
-    ]
-  ],
   "name": "Colony gate",
+  "object_models_and_types": {
+    "models": [
+      14889
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Open",
@@ -23,5 +25,8 @@
   ],
   "category": 228,
   "mirror": true,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

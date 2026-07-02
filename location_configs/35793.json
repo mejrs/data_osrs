@@ -1,9 +1,14 @@
 {
   "id": 35793,
   "name": "Grate",
-  "models_2": [
-    38318
-  ],
+  "object_models": {
+    "models": [
+      38318
+    ]
+  },
   "ambient": 10,
-  "contrast": 5
+  "contrast": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

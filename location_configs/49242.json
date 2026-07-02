@@ -1,10 +1,12 @@
 {
   "id": 49242,
   "name": "Abyssal Portal",
-  "models_2": [
-    49397
-  ],
   "dim_x": 3,
+  "object_models": {
+    "models": [
+      49397
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 7301,
   "ambient": 35,
@@ -23,5 +25,8 @@
       42454
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

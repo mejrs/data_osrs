@@ -1,14 +1,19 @@
 {
   "id": 29334,
   "name": "Table",
-  "models_2": [
-    7906
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      7906
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
   "ambient": 15,
   "category": 156,
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 53222,
   "name": "Zombie Pirate's Locker",
-  "models_2": [
-    53111
-  ],
+  "object_models": {
+    "models": [
+      53111
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Open",
@@ -35,5 +37,8 @@
       10638
     ]
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

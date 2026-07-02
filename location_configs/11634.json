@@ -1,12 +1,14 @@
 {
   "id": 11634,
-  "models": [
-    [
-      4,
-      2074
-    ]
-  ],
   "name": "Roof top beams",
+  "object_models_and_types": {
+    "models": [
+      2074
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Climb",
@@ -16,5 +18,8 @@
     null
   ],
   "translate_y": 65506,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

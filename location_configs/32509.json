@@ -1,11 +1,16 @@
 {
   "id": 32509,
   "name": "Table",
-  "models_2": [
-    16357
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      16357
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

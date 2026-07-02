@@ -1,7 +1,12 @@
 {
   "id": 47419,
   "name": "Bank chest",
-  "models_2": [
-    47948
-  ]
+  "object_models": {
+    "models": [
+      47948
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

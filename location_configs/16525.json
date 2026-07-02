@@ -1,12 +1,14 @@
 {
   "id": 16525,
-  "models": [
-    [
-      0,
-      9240
-    ]
-  ],
   "name": "Weathered wall",
+  "object_models_and_types": {
+    "models": [
+      9240
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -38,5 +40,8 @@
       8493,
       16652
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

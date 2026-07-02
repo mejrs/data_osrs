@@ -1,10 +1,12 @@
 {
   "id": 3345,
-  "models_2": [
-    712
-  ],
   "dim_x": 2,
   "dim_y": 7,
+  "object_models": {
+    "models": [
+      712
+    ]
+  },
   "unknown_19": 0,
   "colours": [
     [
@@ -15,5 +17,8 @@
       5916,
       8076
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

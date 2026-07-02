@@ -1,9 +1,11 @@
 {
   "id": 4516,
   "name": "Chair space",
-  "models_2": [
-    12660
-  ],
+  "object_models": {
+    "models": [
+      12660
+    ]
+  },
   "actions": [
     null,
     null,
@@ -11,5 +13,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

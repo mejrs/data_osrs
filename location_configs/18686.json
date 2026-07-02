@@ -1,9 +1,14 @@
 {
   "id": 18686,
   "name": "Fan blade",
-  "models_2": [
-    18781
-  ],
   "dim_x": 3,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      18781
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

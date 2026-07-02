@@ -1,11 +1,16 @@
 {
   "id": 57859,
   "name": "Wheelbarrow",
-  "models_2": [
-    58896
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      58896
+    ]
+  },
   "ambient": 10,
-  "contrast": 25
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,15 @@
 {
   "id": 33013,
   "name": "Justiciar armour",
-  "models_2": [
-    35426
-  ],
+  "object_models": {
+    "models": [
+      35426
+    ]
+  },
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

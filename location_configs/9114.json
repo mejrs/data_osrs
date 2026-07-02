@@ -1,8 +1,13 @@
 {
   "id": 9114,
-  "models_2": [
-    9040
-  ],
   "dim_x": 2,
-  "unknown_19": 0
+  "object_models": {
+    "models": [
+      9040
+    ]
+  },
+  "unknown_19": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

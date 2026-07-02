@@ -1,12 +1,25 @@
 {
   "id": 47178,
-  "models": [
-    [
-      22,
-      14816
+  "name": "Thick Web",
+  "object_models_and_types": {
+    "models": [
+      2131,
+      25625
+    ],
+    "types": [
+      10,
+      0
     ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Enter-crypt",
+    "Quick-enter",
+    "Leave",
+    null,
+    null
   ],
-  "ambient": -25,
-  "unknown_73": true,
-  "maparea_id": 73
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

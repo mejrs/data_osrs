@@ -1,11 +1,13 @@
 {
   "id": 40466,
   "name": "Explosive potion table",
-  "models_2": [
-    7906,
-    41249
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      7906,
+      41249
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Take-from",
@@ -20,5 +22,8 @@
       7099
     ]
   ],
-  "category": 1485
+  "category": 1485,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,45 @@
+{
+  "id": 61526,
+  "object_models": {
+    "models": [
+      60535
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "contrast": 30,
+  "colours": [
+    [
+      284,
+      28
+    ],
+    [
+      280,
+      24
+    ],
+    [
+      278,
+      22
+    ],
+    [
+      274,
+      18
+    ],
+    [
+      272,
+      16
+    ],
+    [
+      268,
+      12
+    ]
+  ],
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

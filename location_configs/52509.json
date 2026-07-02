@@ -1,12 +1,17 @@
 {
   "id": 52509,
   "name": "Potted fan",
-  "models_2": [
-    52444
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      52444
+    ]
+  },
   "ambient": 30,
   "contrast": 30,
-  "category": 2217
+  "category": 2217,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

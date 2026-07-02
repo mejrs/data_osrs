@@ -1,11 +1,16 @@
 {
   "id": 47956,
   "name": "Bath",
-  "models_2": [
-    1284
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1284
+    ]
+  },
   "is_transparent": true,
   "ambient": -30,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

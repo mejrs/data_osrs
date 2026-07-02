@@ -1,9 +1,11 @@
 {
   "id": 41896,
   "name": "Giant vial",
-  "models_2": [
-    42357
-  ],
+  "object_models": {
+    "models": [
+      42357
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -20,5 +22,8 @@
       33321
     ]
   ],
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

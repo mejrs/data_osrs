@@ -1,9 +1,14 @@
 {
   "id": 20953,
   "name": "Bust",
-  "models_2": [
-    16393,
-    16394
-  ],
-  "ambient": 10
+  "object_models": {
+    "models": [
+      16393,
+      16394
+    ]
+  },
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,14 @@
 {
   "id": 189,
   "name": "Blurberry bar",
-  "models_2": [
-    1333
-  ],
   "dim_y": 3,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      1333
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 35876,
   "name": "Cooking Pots",
-  "models_2": [
-    4646
-  ],
+  "object_models": {
+    "models": [
+      4646
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -11,5 +13,8 @@
     null,
     null
   ],
-  "category": 1347
+  "category": 1347,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

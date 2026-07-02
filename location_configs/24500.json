@@ -1,7 +1,12 @@
 {
   "id": 24500,
   "name": "Tar buckets",
-  "models_2": [
-    25433
-  ]
+  "object_models": {
+    "models": [
+      25433
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

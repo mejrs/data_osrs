@@ -1,11 +1,16 @@
 {
   "id": 25278,
   "name": "Mighty torrent",
-  "models_2": [
-    26822
-  ],
+  "object_models": {
+    "models": [
+      26822
+    ]
+  },
   "unknown_19": 1,
   "unknown_24": 6732,
   "ambient": 10,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

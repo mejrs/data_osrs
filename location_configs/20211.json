@@ -1,10 +1,12 @@
 {
   "id": 20211,
   "name": "Obstacle net",
-  "models_2": [
-    20636
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      20636
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Climb-over",
@@ -38,5 +40,8 @@
       9098,
       5904
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

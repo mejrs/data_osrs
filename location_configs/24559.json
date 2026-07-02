@@ -1,9 +1,11 @@
 {
   "id": 24559,
   "name": "Dig Site specimen rocks",
-  "models_2": [
-    25340
-  ],
+  "object_models": {
+    "models": [
+      25340
+    ]
+  },
   "unknown_22": true,
   "ambient": 20,
   "actions": [
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 8664,
   "name": "Watermelon",
-  "models_2": [
-    8185,
-    7766
-  ],
+  "object_models": {
+    "models": [
+      8185,
+      7766
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Harvest",
@@ -22,5 +24,8 @@
       10155,
       15256
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

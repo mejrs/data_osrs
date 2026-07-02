@@ -1,12 +1,14 @@
 {
   "id": 43763,
-  "models": [
-    [
-      0,
-      39820
-    ]
-  ],
   "name": "Cave",
+  "object_models_and_types": {
+    "models": [
+      39820
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -19,5 +21,8 @@
     null
   ],
   "contrast": 10,
-  "scale_y": 160
+  "scale_y": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,13 @@
 {
   "id": 38430,
   "name": "Knight Statue",
-  "models_2": [
-    40154
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      40154
+    ]
+  },
   "unknown_21": true,
   "unknown_24": 8665,
   "unknown_27": false,
@@ -22,5 +24,8 @@
     ]
   ],
   "category": 1439,
-  "mapscene": 99
+  "mapscene": 99,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

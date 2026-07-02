@@ -1,11 +1,13 @@
 {
   "id": 4142,
   "name": "Swaying tree",
-  "models_2": [
-    4293
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      4293
+    ]
+  },
   "actions": [
     "Cut-branch",
     null,
@@ -26,5 +28,8 @@
     "unknown_1": 3137,
     "unknown_2": 3
   },
-  "unknown_81": 80
+  "unknown_81": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 19225,
   "name": "Magic box",
-  "models_2": [
-    19891
-  ],
+  "object_models": {
+    "models": [
+      19891
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 5222,
@@ -12,5 +14,8 @@
   "category": 591,
   "scale_x": 128,
   "scale_y": 128,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

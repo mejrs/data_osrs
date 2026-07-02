@@ -1,16 +1,21 @@
 {
   "id": 22795,
-  "models": [
-    [
-      22,
-      23497
-    ]
-  ],
   "name": "Shape puzzle",
+  "object_models_and_types": {
+    "models": [
+      23497
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 20,
   "scale_x": 90,
   "scale_y": 90,
-  "scale_z": 90
+  "scale_z": 90,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

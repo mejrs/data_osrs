@@ -1,27 +1,21 @@
 {
   "id": 1488,
-  "models": [
-    [
-      0,
-      893
-    ],
-    [
-      1,
-      894
-    ],
-    [
-      2,
-      876
-    ],
-    [
-      3,
-      877
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      893,
+      894,
+      876,
+      877,
       878
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_22": true,
   "occludes_1": false,
   "colours": [
@@ -29,5 +23,8 @@
       10334,
       43270
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

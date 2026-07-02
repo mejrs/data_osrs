@@ -1,13 +1,18 @@
 {
   "id": 964,
-  "models": [
-    [
-      4,
-      2075
-    ]
-  ],
   "name": "Stuffed swordfish",
+  "object_models_and_types": {
+    "models": [
+      2075
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
-  "contrast": 100
+  "contrast": 100,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

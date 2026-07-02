@@ -1,9 +1,11 @@
 {
   "id": 58650,
   "name": "Loom space",
-  "models_2": [
-    58761
-  ],
+  "object_models": {
+    "models": [
+      58761
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Build",
@@ -12,5 +14,8 @@
     null,
     null
   ],
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

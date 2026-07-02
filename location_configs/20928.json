@@ -1,14 +1,19 @@
 {
   "id": 20928,
   "name": "Fishing spot",
-  "models_2": [
-    1491
-  ],
+  "object_models": {
+    "models": [
+      1491
+    ]
+  },
   "actions": [
     "Harpoon",
     "Cage",
     "hidden",
     "hidden",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

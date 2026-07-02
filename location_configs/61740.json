@@ -1,0 +1,24 @@
+{
+  "id": 61740,
+  "name": "Brazier",
+  "object_models": {
+    "models": [
+      61250
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2467,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

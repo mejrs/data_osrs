@@ -1,12 +1,14 @@
 {
   "id": 9452,
-  "models": [
-    [
-      0,
-      5302
-    ]
-  ],
   "dim_x": 2,
+  "object_models_and_types": {
+    "models": [
+      5302
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_22": true,
   "colours": [
     [
@@ -26,5 +28,8 @@
       5784
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

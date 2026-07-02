@@ -1,9 +1,11 @@
 {
   "id": 9261,
   "name": "Roses",
-  "models_2": [
-    9162
-  ],
+  "object_models": {
+    "models": [
+      9162
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Take-seed",
@@ -17,5 +19,8 @@
       63296,
       61012
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

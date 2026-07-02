@@ -1,10 +1,12 @@
 {
   "id": 18810,
   "name": "Cape rack space",
-  "models_2": [
-    19003,
-    18998
-  ],
+  "object_models": {
+    "models": [
+      19003,
+      18998
+    ]
+  },
   "actions": [
     null,
     null,
@@ -12,5 +14,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,10 +1,12 @@
 {
   "id": 11304,
   "name": "Hoisted sail",
-  "models_2": [
-    1832
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      1832
+    ]
+  },
   "colours": [
     [
       5559,
@@ -15,5 +17,8 @@
       5904
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

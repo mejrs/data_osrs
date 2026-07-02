@@ -1,9 +1,11 @@
 {
   "id": 11363,
   "name": "Clay rocks",
-  "models_2": [
-    1391
-  ],
+  "object_models": {
+    "models": [
+      1391
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "ambient": 10,
@@ -22,5 +24,8 @@
     ]
   ],
   "category": 201,
-  "mapscene": 151
+  "mapscene": 151,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

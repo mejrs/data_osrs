@@ -1,9 +1,14 @@
 {
   "id": 12201,
   "name": "Well",
-  "models_2": [
-    12046
-  ],
+  "object_models": {
+    "models": [
+      12046
+    ]
+  },
   "unknown_19": 1,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

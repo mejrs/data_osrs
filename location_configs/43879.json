@@ -1,8 +1,13 @@
 {
   "id": 43879,
   "name": "STASH (hard)",
-  "models_2": [
-    32060
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      32060
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,18 +1,35 @@
 {
   "id": 29557,
-  "name": "Fairy ring",
-  "models_2": [
-    47197
+  "name": "Heroic statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      36062
+    ]
+  },
+  "unknown_22": true,
+  "ambient": -10,
+  "contrast": 30,
+  "colours": [
+    [
+      7741,
+      7754
+    ],
+    [
+      5813,
+      7741
+    ],
+    [
+      3623,
+      7727
+    ],
+    [
+      1569,
+      7704
+    ]
   ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
-  "unknown_27": false,
-  "ambient": 60,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (BJS)",
-    null,
-    null
-  ]
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

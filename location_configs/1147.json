@@ -1,7 +1,12 @@
 {
   "id": 1147,
   "name": "Fairy house",
-  "models_2": [
-    2002
-  ]
+  "object_models": {
+    "models": [
+      2002
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,15 +1,20 @@
 {
   "id": 50579,
-  "models": [
-    [
-      22,
-      50214
-    ]
-  ],
   "name": "Puddle",
+  "object_models_and_types": {
+    "models": [
+      50214
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 10743,
   "ambient": 0,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

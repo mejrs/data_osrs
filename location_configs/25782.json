@@ -1,10 +1,12 @@
 {
   "id": 25782,
   "name": "Old bookshelf",
-  "models_2": [
-    7387,
-    7388
-  ],
+  "object_models": {
+    "models": [
+      7387,
+      7388
+    ]
+  },
   "actions": [
     "Search",
     null,
@@ -22,5 +24,8 @@
       6315
     ]
   ],
-  "category": 205
+  "category": 205,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

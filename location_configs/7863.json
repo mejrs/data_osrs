@@ -1,12 +1,14 @@
 {
   "id": 7863,
   "name": "Dead limpwurt plant",
-  "models_2": [
-    7848,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7848,
+      7767
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Clear",
@@ -40,5 +42,8 @@
       65453,
       2867
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

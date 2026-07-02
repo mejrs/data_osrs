@@ -1,10 +1,12 @@
 {
   "id": 31572,
   "name": "Log storage",
-  "models_2": [
-    5238,
-    2967
-  ],
+  "object_models": {
+    "models": [
+      5238,
+      2967
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
   "actions": [
@@ -13,5 +15,8 @@
     "Check",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

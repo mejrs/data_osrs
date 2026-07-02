@@ -1,10 +1,15 @@
 {
   "id": 37488,
   "name": "Dragon trophy display",
-  "models_2": [
-    38996
-  ],
+  "object_models": {
+    "models": [
+      38996
+    ]
+  },
   "unknown_27": false,
   "ambient": 20,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

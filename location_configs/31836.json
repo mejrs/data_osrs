@@ -1,10 +1,12 @@
 {
   "id": 31836,
   "name": "Magic birdhouse (empty)",
-  "models_2": [
-    33646,
-    33629
-  ],
+  "object_models": {
+    "models": [
+      33646,
+      33629
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
   "ambient": 20,
@@ -40,5 +42,8 @@
       0,
       57228
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

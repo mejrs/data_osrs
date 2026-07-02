@@ -1,12 +1,14 @@
 {
   "id": 1736,
-  "models": [
-    [
-      0,
-      3369
-    ]
-  ],
   "name": "Odd looking wall",
+  "object_models_and_types": {
+    "models": [
+      3369
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Push",
@@ -28,5 +30,8 @@
   "textures": {
     "2": 23
   },
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

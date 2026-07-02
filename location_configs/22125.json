@@ -1,11 +1,16 @@
 {
   "id": 22125,
   "name": "Candle stand",
-  "models_2": [
-    22936
-  ],
+  "object_models": {
+    "models": [
+      22936
+    ]
+  },
   "unknown_24": 5906,
   "unknown_27": false,
   "ambient": 15,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

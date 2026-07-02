@@ -1,7 +1,12 @@
 {
   "id": 24153,
   "name": "Mirror",
-  "models_2": [
-    11595
-  ]
+  "object_models": {
+    "models": [
+      11595
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

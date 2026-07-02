@@ -1,13 +1,18 @@
 {
   "id": 2718,
-  "models": [
-    [
-      4,
-      25077
-    ]
-  ],
   "name": "Dead bat",
+  "object_models_and_types": {
+    "models": [
+      25077
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 30,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

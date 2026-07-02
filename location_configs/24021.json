@@ -1,16 +1,16 @@
 {
   "id": 24021,
-  "models": [
-    [
-      10,
-      11834
-    ],
-    [
-      4,
-      3185
-    ]
-  ],
   "name": "Spinning pole",
+  "object_models_and_types": {
+    "models": [
+      11834,
+      3185
+    ],
+    "types": [
+      10,
+      4
+    ]
+  },
   "unknown_24": 3231,
   "ambient": 25,
   "contrast": 25,
@@ -35,5 +35,8 @@
       945,
       555
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,11 +1,16 @@
 {
   "id": 44087,
-  "models_2": [
-    44744
-  ],
+  "object_models": {
+    "models": [
+      44744
+    ]
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "ambient": 15,
   "contrast": 15,
-  "mapscene": 24
+  "mapscene": 24,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

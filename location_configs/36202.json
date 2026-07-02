@@ -1,9 +1,11 @@
 {
   "id": 36202,
   "name": "Rocks",
-  "models_2": [
-    37841
-  ],
+  "object_models": {
+    "models": [
+      37841
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "ambient": 20,
@@ -16,5 +18,8 @@
   ],
   "contrast": 20,
   "category": 227,
-  "mapscene": 12
+  "mapscene": 12,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

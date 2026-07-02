@@ -1,7 +1,12 @@
 {
   "id": 1031,
   "name": "Mangle",
-  "models_2": [
-    1293
-  ]
+  "object_models": {
+    "models": [
+      1293
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

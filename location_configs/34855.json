@@ -1,9 +1,11 @@
 {
   "id": 34855,
   "name": "Sacred Bone Burner",
-  "models_2": [
-    37318
-  ],
+  "object_models": {
+    "models": [
+      37318
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Check-Faith",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

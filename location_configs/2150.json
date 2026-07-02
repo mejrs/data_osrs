@@ -1,10 +1,15 @@
 {
   "id": 2150,
   "name": "Obelisk of Earth",
-  "models_2": [
-    1761
-  ],
   "dim_x": 3,
   "dim_y": 3,
-  "category": 2166
+  "object_models": {
+    "models": [
+      1761
+    ]
+  },
+  "category": 2166,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

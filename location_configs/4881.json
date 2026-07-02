@@ -1,9 +1,11 @@
 {
   "id": 4881,
   "name": "Climbing rope",
-  "models_2": [
-    3640
-  ],
+  "object_models": {
+    "models": [
+      3640
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Climb",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 37988,
   "name": "Closed Chest",
-  "models_2": [
-    5272
-  ],
+  "object_models": {
+    "models": [
+      5272
+    ]
+  },
   "colours": [
     [
       14499,
@@ -25,5 +27,8 @@
       16536,
       7322
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

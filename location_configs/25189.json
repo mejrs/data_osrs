@@ -1,11 +1,13 @@
 {
   "id": 25189,
   "name": "Tree",
-  "models_2": [
-    1701
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1701
+    ]
+  },
   "colours": [
     [
       61,
@@ -20,5 +22,8 @@
       6583
     ]
   ],
-  "mapscene": 5
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

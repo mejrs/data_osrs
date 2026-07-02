@@ -1,27 +1,21 @@
 {
   "id": 1620,
-  "models": [
-    [
-      0,
-      678
-    ],
-    [
-      1,
-      679
-    ],
-    [
-      2,
-      636
-    ],
-    [
-      3,
-      637
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      678,
+      679,
+      636,
+      637,
       638
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_22": true,
   "occludes_1": false,
@@ -38,5 +32,8 @@
   "textures": {
     "2": 23
   },
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

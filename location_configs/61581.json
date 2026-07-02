@@ -1,0 +1,40 @@
+{
+  "id": 61581,
+  "name": "Door",
+  "object_models_and_types": {
+    "models": [
+      60817
+    ],
+    "types": [
+      0
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 100,
+  "colours": [
+    [
+      284,
+      5404
+    ],
+    [
+      278,
+      5400
+    ],
+    [
+      274,
+      5392
+    ],
+    [
+      540,
+      7079
+    ]
+  ],
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

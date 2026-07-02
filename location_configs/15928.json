@@ -1,14 +1,19 @@
 {
   "id": 15928,
   "name": "Steam Pump",
-  "models_2": [
-    15832
-  ],
+  "object_models": {
+    "models": [
+      15832
+    ]
+  },
   "actions": [
     "Pump",
     "Vent",
     "hidden",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

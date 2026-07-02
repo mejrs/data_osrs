@@ -1,15 +1,15 @@
 {
   "id": 50999,
-  "models": [
-    [
-      0,
-      51726
-    ],
-    [
-      2,
+  "object_models_and_types": {
+    "models": [
+      51726,
       51728
+    ],
+    "types": [
+      0,
+      2
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
@@ -17,5 +17,8 @@
   "contrast": 10,
   "model": false,
   "scale_y": 96,
-  "translate_y": 65408
+  "translate_y": 65408,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

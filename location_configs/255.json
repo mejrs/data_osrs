@@ -1,14 +1,19 @@
 {
   "id": 255,
   "name": "Winch",
-  "models_2": [
-    1835
-  ],
+  "object_models": {
+    "models": [
+      1835
+    ]
+  },
   "actions": [
     "Operate",
     null,
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

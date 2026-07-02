@@ -1,11 +1,16 @@
 {
   "id": 50257,
   "name": "Broken scroll holders",
-  "models_2": [
-    50296
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      50296
+    ]
+  },
   "unknown_19": 1,
   "ambient": 0,
-  "contrast": 40
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,12 @@
 {
   "id": 13669,
   "name": "Throne",
-  "models_2": [
-    12589
-  ],
+  "object_models": {
+    "models": [
+      12589
+    ]
+  },
+  "ambient": 35,
   "actions": [
     "Sit-on",
     null,
@@ -12,5 +15,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 15985,
   "name": "Deposit Box",
-  "models_2": [
-    15759
-  ],
+  "object_models": {
+    "models": [
+      15759
+    ]
+  },
   "actions": [
     "Deposit",
     null,
@@ -22,5 +24,8 @@
     ]
   ],
   "category": 276,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

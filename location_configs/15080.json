@@ -1,13 +1,15 @@
 {
   "id": 15080,
   "name": "Herbs",
-  "models_2": [
-    7801,
-    7875,
-    7766
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7801,
+      7875,
+      7766
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Rake",
@@ -15,5 +17,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

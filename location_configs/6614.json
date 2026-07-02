@@ -1,11 +1,13 @@
 {
   "id": 6614,
   "name": "Door",
-  "models_2": [
-    14199
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      14199
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Open",
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 10,
-  "translate_y": 178
+  "translate_y": 178,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 41155,
   "name": "Oak trophy case",
-  "models_2": [
-    41698,
-    41701
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      41698,
+      41701
+    ]
+  },
   "unknown_19": 1,
   "ambient": 20,
   "actions": [
@@ -18,6 +20,9 @@
   ],
   "contrast": 20,
   "category": 206,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "429": 2,
     "430": 2

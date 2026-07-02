@@ -1,10 +1,12 @@
 {
   "id": 18046,
   "name": "Statue with key",
-  "models_2": [
-    17616,
-    17642
-  ],
+  "object_models": {
+    "models": [
+      17616,
+      17642
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Inspect",
@@ -12,5 +14,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

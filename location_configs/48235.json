@@ -1,11 +1,13 @@
 {
   "id": 48235,
   "name": "Chest",
-  "models_2": [
-    49105
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      49105
+    ]
+  },
   "unknown_22": true,
   "ambient": -10,
   "actions": [
@@ -16,5 +18,8 @@
     null
   ],
   "contrast": 45,
-  "category": 1821
+  "category": 1821,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

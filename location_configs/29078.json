@@ -1,9 +1,14 @@
 {
   "id": 29078,
   "name": "Cupboard",
-  "models_2": [
-    2244
-  ],
   "dim_y": 2,
-  "category": 963
+  "object_models": {
+    "models": [
+      2244
+    ]
+  },
+  "category": 963,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

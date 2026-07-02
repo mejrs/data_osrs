@@ -1,10 +1,12 @@
 {
   "id": 18051,
   "name": "Table",
-  "models_2": [
-    1213
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1213
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Search",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 156
+  "category": 156,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

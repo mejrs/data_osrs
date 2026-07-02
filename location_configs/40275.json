@@ -1,12 +1,17 @@
 {
   "id": 40275,
   "name": "<col=ffff00>Wily cat",
-  "models_2": [
-    9428,
-    9426
-  ],
+  "object_models": {
+    "models": [
+      9428,
+      9426
+    ]
+  },
   "unknown_24": 317,
   "scale_x": 70,
   "scale_y": 70,
-  "scale_z": 70
+  "scale_z": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

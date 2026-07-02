@@ -1,13 +1,18 @@
 {
   "id": 2195,
-  "models": [
-    [
-      4,
-      24824
-    ]
-  ],
   "name": "Metal pieces",
+  "object_models_and_types": {
+    "models": [
+      24824
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 1,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

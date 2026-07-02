@@ -1,10 +1,12 @@
 {
   "id": 30135,
   "name": "Piano",
-  "models_2": [
-    25943
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      25943
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Play",
@@ -12,5 +14,8 @@
     "Search",
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

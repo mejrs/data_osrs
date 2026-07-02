@@ -1,10 +1,12 @@
 {
   "id": 19145,
   "name": "Altar",
-  "models_2": [
-    19777
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      19777
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Pray-at",
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "category": 897
+  "category": 897,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

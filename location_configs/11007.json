@@ -1,10 +1,15 @@
 {
   "id": 11007,
   "name": "Fountain",
-  "models_2": [
-    10884
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      10884
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 34967,
   "name": "Statue of Baxtorian",
-  "models_2": [
-    38322
-  ]
+  "object_models": {
+    "models": [
+      38322
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

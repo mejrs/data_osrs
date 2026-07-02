@@ -1,11 +1,13 @@
 {
   "id": 34050,
   "name": "Redwood tree patch",
-  "models_2": [
-    7801
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7801
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Rake",
@@ -13,5 +15,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

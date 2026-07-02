@@ -1,9 +1,14 @@
 {
   "id": 38055,
   "name": "Gravestone",
-  "models_2": [
-    40399
-  ],
+  "object_models": {
+    "models": [
+      40399
+    ]
+  },
   "ambient": 30,
-  "contrast": 15
+  "contrast": 15,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

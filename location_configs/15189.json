@@ -1,9 +1,11 @@
 {
   "id": 15189,
   "name": "Tunnel",
-  "models_2": [
-    15060
-  ],
+  "object_models": {
+    "models": [
+      15060
+    ]
+  },
   "unknown_22": true,
   "actions": [
     "Enter",
@@ -37,5 +39,8 @@
       0,
       10762
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,0 +1,28 @@
+{
+  "id": 62186,
+  "name": "Bank chest space",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61156
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Build",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

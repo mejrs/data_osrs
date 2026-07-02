@@ -1,9 +1,11 @@
 {
   "id": 4928,
   "name": "Crystal outcrop",
-  "models_2": [
-    4895
-  ],
+  "object_models": {
+    "models": [
+      4895
+    ]
+  },
   "unknown_21": true,
   "actions": [
     "Cut",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 30141,
   "name": "Wardrobe",
-  "models_2": [
-    1951
-  ],
+  "object_models": {
+    "models": [
+      1951
+    ]
+  },
   "ambient": 15,
   "colours": [
     [
@@ -22,5 +24,8 @@
       24,
       7446
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

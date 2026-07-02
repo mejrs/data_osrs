@@ -1,9 +1,14 @@
 {
   "id": 25266,
   "name": "funeral pyre",
-  "models_2": [
-    26693
-  ],
   "dim_y": 2,
-  "ambient": 20
+  "object_models": {
+    "models": [
+      26693
+    ]
+  },
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

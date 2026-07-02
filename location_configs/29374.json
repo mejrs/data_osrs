@@ -1,18 +1,75 @@
 {
   "id": 29374,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
+  "name": "Rock",
+  "object_models": {
+    "models": [
+      41016
+    ]
+  },
+  "unknown_21": true,
   "unknown_27": false,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (DIP)",
-    null,
-    "Remove"
-  ]
+  "ambient": 30,
+  "contrast": 10,
+  "colours": [
+    [
+      33740,
+      1944
+    ],
+    [
+      5444,
+      35
+    ],
+    [
+      5435,
+      28
+    ],
+    [
+      5429,
+      20
+    ],
+    [
+      5541,
+      16
+    ],
+    [
+      7463,
+      16
+    ],
+    [
+      8472,
+      12
+    ],
+    [
+      10650,
+      12
+    ],
+    [
+      10638,
+      8
+    ],
+    [
+      16532,
+      8
+    ],
+    [
+      10768,
+      274
+    ],
+    [
+      10892,
+      268
+    ],
+    [
+      10760,
+      268
+    ],
+    [
+      15238,
+      262
+    ]
+  ],
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

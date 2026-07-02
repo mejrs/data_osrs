@@ -1,30 +1,35 @@
 {
   "id": 56085,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       47473
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_19": 0,
   "ambient": 20,
   "contrast": 20,
   "colours": [
     [
       7981,
-      8128
+      7741
     ],
     [
       52160,
-      6969
+      7872
     ],
     [
       40627,
-      8
+      1569
     ],
     [
       691,
-      0
+      7727
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

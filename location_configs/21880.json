@@ -1,11 +1,13 @@
 {
   "id": 21880,
   "name": "Pipe machine",
-  "models_2": [
-    22667,
-    22668
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      22667,
+      22668
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Fix",
@@ -15,5 +17,8 @@
     null
   ],
   "contrast": 10,
-  "translate_y": 1
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

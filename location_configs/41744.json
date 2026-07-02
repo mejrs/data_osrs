@@ -1,8 +1,13 @@
 {
   "id": 41744,
   "name": "Rewards Chest",
-  "models_2": [
-    35451
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      35451
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,12 +1,14 @@
 {
   "id": 47452,
-  "models": [
-    [
-      4,
-      35273
-    ]
-  ],
   "name": "Drapes",
+  "object_models_and_types": {
+    "models": [
+      35273
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "contrast": 30,
@@ -35,5 +37,8 @@
       1932,
       528
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

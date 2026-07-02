@@ -1,9 +1,11 @@
 {
   "id": 56115,
   "name": "Crawling hand",
-  "models_2": [
-    56061
-  ],
+  "object_models": {
+    "models": [
+      56061
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Talk-to",
@@ -24,5 +26,8 @@
     ]
   ],
   "category": 206,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

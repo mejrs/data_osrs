@@ -1,18 +1,22 @@
 {
   "id": 29394,
-  "name": "Fairy ring",
-  "models_2": [
-    32109,
-    47197
-  ],
-  "unknown_19": 1,
-  "unknown_24": 9845,
+  "name": "Throne",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      60386
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
   "unknown_27": false,
-  "actions": [
-    "Zanaris",
-    "Configure",
-    "Last-destination (CLP)",
-    null,
-    "Remove"
-  ]
+  "ambient": 0,
+  "contrast": 40,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

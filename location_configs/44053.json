@@ -1,16 +1,16 @@
 {
   "id": 44053,
-  "models": [
-    [
-      0,
-      1509
-    ],
-    [
-      9,
-      1511
-    ]
-  ],
   "name": "Gate",
+  "object_models_and_types": {
+    "models": [
+      1509,
+      1511
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Open",
@@ -19,5 +19,8 @@
     "Pay-toll(10gp)",
     null
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

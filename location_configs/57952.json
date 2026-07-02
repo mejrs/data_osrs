@@ -1,12 +1,14 @@
 {
   "id": 57952,
   "name": "Rowboat",
-  "models_2": [
-    30279,
-    30349
-  ],
   "dim_x": 2,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      30279,
+      30349
+    ]
+  },
   "unknown_19": 1,
   "ambient": 10,
   "actions": [
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 10,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

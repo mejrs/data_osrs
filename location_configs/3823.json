@@ -1,9 +1,11 @@
 {
   "id": 3823,
   "name": "Sign",
-  "models_2": [
-    1552
-  ],
+  "object_models": {
+    "models": [
+      1552
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "colours": [
@@ -15,5 +17,8 @@
       127,
       7446
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

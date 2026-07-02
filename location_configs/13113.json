@@ -1,9 +1,14 @@
 {
   "id": 13113,
-  "models_2": [
-    16958,
-    16959
-  ],
+  "object_models": {
+    "models": [
+      16958,
+      16959
+    ]
+  },
   "unknown_19": 0,
-  "unknown_24": 4477
+  "unknown_24": 4477,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

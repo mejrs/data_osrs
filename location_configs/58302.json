@@ -1,9 +1,14 @@
 {
   "id": 58302,
   "name": "Anchor",
-  "models_2": [
-    13732
-  ],
+  "object_models": {
+    "models": [
+      13732
+    ]
+  },
   "unknown_22": true,
-  "mapscene": 41
+  "mapscene": 41,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

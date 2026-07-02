@@ -1,9 +1,11 @@
 {
   "id": 54918,
   "name": "Mixing vessel (Empty)",
-  "models_2": [
-    54866
-  ],
+  "object_models": {
+    "models": [
+      54866
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 11627,
@@ -17,5 +19,8 @@
     null
   ],
   "contrast": 25,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

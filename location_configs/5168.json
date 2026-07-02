@@ -1,9 +1,11 @@
 {
   "id": 5168,
   "name": "Grave",
-  "models_2": [
-    5165
-  ],
+  "object_models": {
+    "models": [
+      5165
+    ]
+  },
   "unknown_27": false,
   "actions": [
     "Read",
@@ -13,5 +15,8 @@
     null
   ],
   "unknown_69": 23,
-  "mapscene": 34
+  "mapscene": 34,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

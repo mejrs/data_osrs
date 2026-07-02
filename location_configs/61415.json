@@ -1,0 +1,20 @@
+{
+  "id": 61415,
+  "name": "Statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61312
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,10 +1,15 @@
 {
   "id": 4670,
   "name": "Camorra",
-  "models_2": [
-    1429
-  ],
+  "object_models": {
+    "models": [
+      1429
+    ]
+  },
   "scale_x": 120,
   "scale_y": 120,
-  "scale_z": 120
+  "scale_z": 120,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

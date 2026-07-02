@@ -1,19 +1,17 @@
 {
   "id": 3428,
-  "models": [
-    [
-      0,
-      3455
-    ],
-    [
-      1,
-      3456
-    ],
-    [
-      2,
+  "object_models_and_types": {
+    "models": [
+      3455,
+      3456,
       3457
+    ],
+    "types": [
+      0,
+      1,
+      2
     ]
-  ],
+  },
   "unknown_22": true,
   "colours": [
     [
@@ -21,5 +19,8 @@
       7566
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

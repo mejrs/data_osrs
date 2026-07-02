@@ -1,8 +1,13 @@
 {
   "id": 7391,
   "name": "Rolled up rug",
-  "models_2": [
-    7737
-  ],
-  "translate_y": 65526
+  "object_models": {
+    "models": [
+      7737
+    ]
+  },
+  "translate_y": 65526,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

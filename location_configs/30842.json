@@ -1,11 +1,13 @@
 {
   "id": 30842,
   "name": "Trap Door",
-  "models_2": [
-    33574
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      33574
+    ]
+  },
   "unknown_27": false,
   "ambient": 10,
   "actions": [
@@ -15,5 +17,8 @@
     null,
     null
   ],
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

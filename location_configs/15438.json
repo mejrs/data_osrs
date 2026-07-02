@@ -1,12 +1,14 @@
 {
   "id": 15438,
-  "models": [
-    [
-      22,
-      12883
-    ]
-  ],
   "name": "Trapdoor space",
+  "object_models_and_types": {
+    "models": [
+      12883
+    ],
+    "types": [
+      22
+    ]
+  },
   "unknown_27": false,
   "actions": [
     null,
@@ -15,5 +17,8 @@
     null,
     "Build"
   ],
-  "category": 207
+  "category": 207,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 13591,
   "name": "Fishing weights",
-  "models_2": [
-    14884
-  ]
+  "object_models": {
+    "models": [
+      14884
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

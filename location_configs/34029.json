@@ -1,12 +1,14 @@
 {
   "id": 34029,
   "name": "Dead dragonfruit plant",
-  "models_2": [
-    36649,
-    7767
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      36649,
+      7767
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Clear",
@@ -14,5 +16,8 @@
     null,
     "Guide",
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

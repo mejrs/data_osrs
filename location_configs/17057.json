@@ -1,11 +1,16 @@
 {
   "id": 17057,
   "name": "Crossbow Tree",
-  "models_2": [
-    16896,
-    16908
-  ],
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 40
+  "object_models": {
+    "models": [
+      16896,
+      16908
+    ]
+  },
+  "ambient": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

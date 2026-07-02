@@ -1,9 +1,14 @@
 {
   "id": 41308,
   "name": "Banner",
-  "models_2": [
-    41878
-  ],
+  "object_models": {
+    "models": [
+      41878
+    ]
+  },
   "ambient": 10,
-  "contrast": 10
+  "contrast": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

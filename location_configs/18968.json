@@ -1,7 +1,12 @@
 {
   "id": 18968,
   "name": "Climbing rope",
-  "models_2": [
-    1433
-  ]
+  "object_models": {
+    "models": [
+      1433
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,7 +1,12 @@
 {
   "id": 4863,
   "name": "Watchtower Legs",
-  "models_2": [
-    4765
-  ]
+  "object_models": {
+    "models": [
+      4765
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

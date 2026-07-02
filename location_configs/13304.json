@@ -1,9 +1,11 @@
 {
   "id": 13304,
   "name": "Carved teak bench",
-  "models_2": [
-    12403
-  ],
+  "object_models": {
+    "models": [
+      12403
+    ]
+  },
   "unknown_19": 1,
   "actions": [
     "Sit-on",
@@ -13,5 +15,8 @@
     "Remove"
   ],
   "category": 206,
-  "unknown_69": 30
+  "unknown_69": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

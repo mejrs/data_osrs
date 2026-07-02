@@ -1,9 +1,14 @@
 {
   "id": 6338,
   "name": "Plinth",
-  "models_2": [
-    6174
-  ],
   "dim_x": 2,
-  "dim_y": 2
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      6174
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,16 +1,19 @@
 {
   "id": 17006,
-  "models": [
-    [
-      0,
-      15879
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      15879,
       15880
+    ],
+    "types": [
+      0,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
-  "unknown_22": true
+  "unknown_22": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

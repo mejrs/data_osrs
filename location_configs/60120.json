@@ -1,9 +1,11 @@
 {
   "id": 60120,
   "name": "Uneven stone ledges",
-  "models_2": [
-    58356
-  ],
+  "object_models": {
+    "models": [
+      58356
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -25,6 +27,9 @@
   ],
   "category": 2341,
   "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2291": 83,
     "2294": 1,

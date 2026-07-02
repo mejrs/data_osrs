@@ -1,11 +1,13 @@
 {
   "id": 29875,
   "name": "<col=ffff00>Creature keeper</col>",
-  "models_2": [
-    32513
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      32513
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 2995,
@@ -19,5 +21,8 @@
     "Search"
   ],
   "contrast": 5,
-  "mapscene": 82
+  "mapscene": 82,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

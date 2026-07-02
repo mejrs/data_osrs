@@ -1,10 +1,12 @@
 {
   "id": 47872,
   "name": "Gate",
-  "models_2": [
-    48369
-  ],
   "dim_x": 4,
+  "object_models": {
+    "models": [
+      48369
+    ]
+  },
   "unknown_22": true,
   "ambient": -20,
   "contrast": 45,
@@ -33,5 +35,8 @@
       3470,
       43156
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

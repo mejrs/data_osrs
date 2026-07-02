@@ -1,13 +1,18 @@
 {
   "id": 47411,
-  "models": [
-    [
-      4,
-      47845
-    ]
-  ],
   "name": "Portraits",
+  "object_models_and_types": {
+    "models": [
+      47845
+    ],
+    "types": [
+      4
+    ]
+  },
   "unknown_19": 1,
   "ambient": 15,
-  "contrast": 20
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

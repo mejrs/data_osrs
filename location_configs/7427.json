@@ -1,10 +1,12 @@
 {
   "id": 7427,
   "name": "Bath screen",
-  "models_2": [
-    1149
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      1149
+    ]
+  },
   "ambient": 25,
   "colours": [
     [
@@ -15,5 +17,8 @@
       0,
       7587
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

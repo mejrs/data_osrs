@@ -1,9 +1,11 @@
 {
   "id": 60119,
   "name": "Large stone ledges",
-  "models_2": [
-    58355
-  ],
+  "object_models": {
+    "models": [
+      58355
+    ]
+  },
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_22": true,
@@ -26,6 +28,9 @@
   "category": 2341,
   "model": false,
   "mapscene": 7,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
   "params": {
     "2291": -1,
     "2294": 1,

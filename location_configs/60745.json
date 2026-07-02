@@ -1,0 +1,28 @@
+{
+  "id": 60745,
+  "name": "Birthday Banner",
+  "object_models": {
+    "models": [
+      60045
+    ]
+  },
+  "ambient": 20,
+  "contrast": 100,
+  "colours": [
+    [
+      565,
+      1569
+    ],
+    [
+      559,
+      7727
+    ],
+    [
+      6969,
+      7741
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

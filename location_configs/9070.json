@@ -1,15 +1,20 @@
 {
   "id": 9070,
   "name": "Crate",
-  "models_2": [
-    9008,
-    9012
-  ],
+  "object_models": {
+    "models": [
+      9008,
+      9012
+    ]
+  },
   "ambient": 35,
   "colours": [
     [
       6558,
       931
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

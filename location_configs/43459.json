@@ -1,12 +1,14 @@
 {
   "id": 43459,
-  "models": [
-    [
-      0,
-      12367
-    ]
-  ],
   "name": "Large door",
+  "object_models_and_types": {
+    "models": [
+      12367
+    ],
+    "types": [
+      0
+    ]
+  },
   "unknown_19": 1,
   "colours": [
     [
@@ -27,5 +29,8 @@
     ]
   ],
   "mirror": true,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

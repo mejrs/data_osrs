@@ -1,16 +1,16 @@
 {
   "id": 53322,
-  "models": [
-    [
-      0,
-      53545
-    ],
-    [
-      9,
-      53521
-    ]
-  ],
   "name": "Large doors",
+  "object_models_and_types": {
+    "models": [
+      53545,
+      53521
+    ],
+    "types": [
+      0,
+      9
+    ]
+  },
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
@@ -22,5 +22,8 @@
   ],
   "contrast": 25,
   "category": 167,
-  "unknown_75": 0
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

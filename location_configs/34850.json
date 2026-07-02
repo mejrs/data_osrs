@@ -1,12 +1,14 @@
 {
   "id": 34850,
-  "models": [
-    [
-      4,
-      37297
-    ]
-  ],
   "name": "Musty bookshelf",
+  "object_models_and_types": {
+    "models": [
+      37297
+    ],
+    "types": [
+      4
+    ]
+  },
   "ambient": 30,
   "actions": [
     "Search",
@@ -40,5 +42,8 @@
       21642,
       8
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

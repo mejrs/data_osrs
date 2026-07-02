@@ -1,10 +1,15 @@
 {
   "id": 58290,
   "name": "Bed",
-  "models_2": [
-    5440
-  ],
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      5440
+    ]
+  },
   "scale_z": 115,
-  "translate_z": 65506
+  "translate_z": 65506,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

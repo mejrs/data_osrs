@@ -1,9 +1,11 @@
 {
   "id": 19467,
   "name": "Rocks",
-  "models_2": [
-    818
-  ],
+  "object_models": {
+    "models": [
+      818
+    ]
+  },
   "is_transparent": true,
   "actions": [
     "Inspect",
@@ -20,5 +22,8 @@
   ],
   "scale_x": 64,
   "scale_y": 64,
-  "scale_z": 64
+  "scale_z": 64,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

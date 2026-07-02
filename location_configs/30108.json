@@ -1,12 +1,14 @@
 {
   "id": 30108,
   "name": "Rowboat",
-  "models_2": [
-    18304,
-    14158
-  ],
   "dim_x": 3,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      18304,
+      14158
+    ]
+  },
   "unknown_24": 3743,
   "actions": [
     "Board",
@@ -21,5 +23,8 @@
       38117
     ]
   ],
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

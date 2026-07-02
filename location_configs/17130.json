@@ -1,11 +1,16 @@
 {
   "id": 17130,
   "name": "Office table",
-  "models_2": [
-    17144,
-    17146,
-    17147
-  ],
+  "object_models": {
+    "models": [
+      17144,
+      17146,
+      17147
+    ]
+  },
   "is_transparent": true,
-  "unknown_24": 4535
+  "unknown_24": 4535,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

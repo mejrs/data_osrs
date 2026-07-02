@@ -1,9 +1,14 @@
 {
   "id": 27549,
   "name": "Bookcase",
-  "models_2": [
-    30234
-  ],
+  "object_models": {
+    "models": [
+      30234
+    ]
+  },
   "unknown_19": 1,
-  "unknown_27": false
+  "unknown_27": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

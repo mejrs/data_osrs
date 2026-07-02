@@ -1,11 +1,16 @@
 {
   "id": 36493,
   "name": "Crystal spire",
-  "models_2": [
-    37929
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      37929
+    ]
+  },
   "unknown_24": 8454,
-  "ambient": 10
+  "ambient": 10,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

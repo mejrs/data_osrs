@@ -1,9 +1,11 @@
 {
   "id": 31843,
   "name": "<col=ffff00>Annette</col>",
-  "models_2": [
-    33896
-  ],
+  "object_models": {
+    "models": [
+      33896
+    ]
+  },
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 7647,
@@ -45,5 +47,8 @@
   "scale_y": 112,
   "scale_z": 112,
   "unknown_69": 27,
-  "mapscene": 82
+  "mapscene": 82,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

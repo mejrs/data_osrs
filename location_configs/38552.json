@@ -1,10 +1,12 @@
 {
   "id": 38552,
   "name": "Rubble",
-  "models_2": [
-    40068,
-    40065
-  ],
+  "object_models": {
+    "models": [
+      40068,
+      40065
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
@@ -27,5 +29,8 @@
       32838,
       10299
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

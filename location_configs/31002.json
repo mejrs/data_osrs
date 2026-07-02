@@ -1,13 +1,18 @@
 {
   "id": 31002,
-  "models_2": [
-    33500
-  ],
+  "object_models": {
+    "models": [
+      33500
+    ]
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 15,
   "contrast": 15,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

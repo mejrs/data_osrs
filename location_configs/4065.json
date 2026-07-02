@@ -1,9 +1,11 @@
 {
   "id": 4065,
   "name": "Stone stand",
-  "models_2": [
-    1537
-  ],
+  "object_models": {
+    "models": [
+      1537
+    ]
+  },
   "is_transparent": true,
   "occludes_1": false,
   "unknown_27": false,
@@ -13,5 +15,8 @@
       24
     ]
   ],
-  "unknown_75": 1
+  "unknown_75": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

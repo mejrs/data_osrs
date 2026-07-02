@@ -1,12 +1,14 @@
 {
   "id": 18088,
-  "models": [
-    [
-      0,
-      17711
-    ]
-  ],
   "name": "Wall",
+  "object_models_and_types": {
+    "models": [
+      17711
+    ],
+    "types": [
+      0
+    ]
+  },
   "ambient": 10,
   "actions": [
     "Crawl-under",
@@ -17,5 +19,8 @@
   ],
   "scale_x": 128,
   "scale_y": 160,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

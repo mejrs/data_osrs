@@ -1,16 +1,22 @@
 {
   "id": 15688,
-  "models": [
-    [
-      22,
+  "object_models_and_types": {
+    "models": [
       1117
+    ],
+    "types": [
+      22
     ]
-  ],
+  },
   "unknown_22": true,
   "colours": [
     [
       7952,
       4884
     ]
-  ]
+  ],
+  "raise": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

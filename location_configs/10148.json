@@ -1,9 +1,11 @@
 {
   "id": 10148,
   "name": "Output Tap",
-  "models_2": [
-    9868
-  ],
+  "object_models": {
+    "models": [
+      9868
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "actions": [
@@ -13,5 +15,8 @@
     null,
     null
   ],
-  "scale_y": 115
+  "scale_y": 115,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

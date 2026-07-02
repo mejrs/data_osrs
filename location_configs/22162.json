@@ -1,11 +1,13 @@
 {
   "id": 22162,
   "name": "Larder",
-  "models_2": [
-    12502
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      12502
+    ]
+  },
   "unknown_27": false,
   "ambient": 15,
   "contrast": 15,
@@ -22,5 +24,8 @@
       6682,
       6936
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

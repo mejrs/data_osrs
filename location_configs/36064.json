@@ -1,9 +1,11 @@
 {
   "id": 36064,
   "name": "Crystal Deposit",
-  "models_2": [
-    37448
-  ],
+  "object_models": {
+    "models": [
+      37448
+    ]
+  },
   "is_transparent": true,
   "ambient": 30,
   "actions": [
@@ -17,5 +19,8 @@
   "category": 1353,
   "scale_x": 120,
   "scale_y": 120,
-  "scale_z": 120
+  "scale_z": 120,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 58977,
   "name": "Portal of Trahaearn",
-  "models_2": [
-    37828
-  ],
+  "object_models": {
+    "models": [
+      37828
+    ]
+  },
   "ambient": 60,
   "contrast": 44,
   "colours": [
@@ -21,5 +23,8 @@
     ]
   ],
   "scale_z": 365,
-  "translate_y": 65534
+  "translate_y": 65534,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

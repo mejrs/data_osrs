@@ -1,13 +1,15 @@
 {
   "id": 23611,
   "name": "Cocoon",
-  "models_2": [
-    24623,
-    24622,
-    24621
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      24623,
+      24622,
+      24621
+    ]
+  },
   "is_transparent": true,
   "unknown_24": 6274,
   "unknown_27": false,
@@ -18,5 +20,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

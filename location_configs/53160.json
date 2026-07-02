@@ -1,23 +1,19 @@
 {
   "id": 53160,
-  "models": [
-    [
-      0,
-      47459
-    ],
-    [
-      1,
-      2912
-    ],
-    [
-      4,
-      47463
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      47459,
+      2912,
+      47463,
       2913
+    ],
+    "types": [
+      0,
+      1,
+      4,
+      9
     ]
-  ],
+  },
   "unknown_19": 0,
   "unknown_21": true,
   "ambient": 15,
@@ -40,5 +36,8 @@
       54445
     ]
   ],
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 22161,
   "name": "Potted plant",
-  "models_2": [
-    17067
-  ],
+  "object_models": {
+    "models": [
+      17067
+    ]
+  },
   "is_transparent": true,
   "unknown_27": false,
   "ambient": 15,
@@ -29,5 +31,8 @@
       5404,
       6817
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

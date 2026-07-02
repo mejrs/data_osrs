@@ -1,11 +1,13 @@
 {
   "id": 52723,
   "name": "Statue of Prince Itzla",
-  "models_2": [
-    52323
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      52323
+    ]
+  },
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
@@ -14,5 +16,8 @@
   "model": false,
   "scale_x": 120,
   "scale_y": 120,
-  "scale_z": 120
+  "scale_z": 120,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

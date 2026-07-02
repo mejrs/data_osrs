@@ -1,11 +1,13 @@
 {
   "id": 46842,
   "name": "Altar",
-  "models_2": [
-    1152,
-    10386
-  ],
   "dim_x": 2,
+  "object_models": {
+    "models": [
+      1152,
+      10386
+    ]
+  },
   "is_transparent": true,
   "colours": [
     [
@@ -24,5 +26,8 @@
       6798,
       4882
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

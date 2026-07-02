@@ -1,11 +1,13 @@
 {
   "id": 45203,
   "name": "Pillar",
-  "models_2": [
-    44203
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      44203
+    ]
+  },
   "ambient": 10,
   "colours": [
     [
@@ -24,5 +26,8 @@
       5421,
       40094
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

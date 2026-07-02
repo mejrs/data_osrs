@@ -1,11 +1,13 @@
 {
   "id": 49917,
   "name": "Amalgamation",
-  "models_2": [
-    49791
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      49791
+    ]
+  },
   "is_transparent": true,
   "unknown_21": true,
   "ambient": -10,
@@ -15,5 +17,8 @@
       80,
       59
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

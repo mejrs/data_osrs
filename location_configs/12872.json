@@ -1,8 +1,13 @@
 {
   "id": 12872,
   "name": "Trapdoor",
-  "models_2": [
-    1203
-  ],
-  "unknown_19": 1
+  "object_models": {
+    "models": [
+      1203
+    ]
+  },
+  "unknown_19": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

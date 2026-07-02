@@ -1,7 +1,12 @@
 {
   "id": 34788,
   "name": "Mysterious stone",
-  "models_2": [
-    2315
-  ]
+  "object_models": {
+    "models": [
+      2315
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,14 +1,20 @@
 {
   "id": 43109,
   "name": "Fairy ring",
-  "models_2": [
-    47197
-  ],
+  "object_models": {
+    "models": [
+      47197
+    ]
+  },
+  "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 9845,
   "unknown_27": false,
   "ambient": 20,
   "category": 522,
-  "unknown_73": true
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

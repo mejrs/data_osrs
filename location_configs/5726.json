@@ -1,17 +1,20 @@
 {
   "id": 5726,
-  "models": [
-    [
-      12,
-      628
-    ],
-    [
-      13,
+  "object_models_and_types": {
+    "models": [
+      628,
       630
+    ],
+    "types": [
+      12,
+      13
     ]
-  ],
+  },
   "unknown_22": true,
   "textures": {
     "2": 23
-  }
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,13 +1,15 @@
 {
   "id": 8030,
   "name": "Curry tree",
-  "models_2": [
-    7973,
-    7767,
-    7969
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      7973,
+      7767,
+      7969
+    ]
+  },
   "ambient": 25,
   "actions": [
     "Pick-leaf",
@@ -21,5 +23,8 @@
       10023,
       7975
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

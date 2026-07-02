@@ -1,0 +1,18 @@
+{
+  "id": 60941,
+  "name": "Table",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      60623
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "category": 156,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,20 +1,21 @@
 {
   "id": 5196,
-  "models": [
-    [
-      0,
-      4468
-    ],
-    [
-      3,
-      4469
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      4468,
+      4469,
       4470
+    ],
+    "types": [
+      0,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_21": true,
   "unknown_22": true,
-  "ambient": 20
+  "ambient": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

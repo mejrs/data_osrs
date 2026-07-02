@@ -1,16 +1,21 @@
 {
   "id": 33178,
-  "models_2": [
-    35826,
-    16294
-  ],
   "dim_x": 2,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      35826,
+      16294
+    ]
+  },
   "unknown_19": 0,
   "unknown_24": 5773,
   "unknown_27": false,
   "ambient": 15,
   "contrast": 20,
   "model": false,
-  "mapscene": 0
+  "mapscene": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

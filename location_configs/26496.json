@@ -1,14 +1,19 @@
 {
   "id": 26496,
   "name": "Waterfall",
-  "models_2": [
-    27784
-  ],
   "dim_x": 3,
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      27784
+    ]
+  },
   "unknown_22": true,
   "unknown_24": 7024,
   "ambient": 26,
   "contrast": 20,
-  "model": false
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

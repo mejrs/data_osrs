@@ -1,19 +1,17 @@
 {
   "id": 42536,
-  "models": [
-    [
-      0,
-      39330
-    ],
-    [
-      1,
-      39404
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      39330,
+      39404,
       39350
+    ],
+    "types": [
+      0,
+      1,
+      9
     ]
-  ],
+  },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
@@ -22,5 +20,8 @@
   "contrast": 50,
   "model": false,
   "translate_y": 65535,
-  "mapscene": 22
+  "mapscene": 22,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

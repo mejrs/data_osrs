@@ -1,11 +1,13 @@
 {
   "id": 53621,
   "name": "Recessed blocks",
-  "models_2": [
-    53822
-  ],
   "dim_x": 3,
   "dim_y": 2,
+  "object_models": {
+    "models": [
+      53822
+    ]
+  },
   "unknown_19": 1,
   "unknown_22": true,
   "unknown_27": false,
@@ -18,5 +20,8 @@
   ],
   "contrast": 25,
   "category": 2013,
-  "unknown_69": 27
+  "unknown_69": 27,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

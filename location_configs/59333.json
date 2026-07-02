@@ -1,11 +1,13 @@
 {
   "id": 59333,
   "name": "Wreck of the Last Song",
-  "models_2": [
-    58191
-  ],
   "dim_x": 4,
   "dim_y": 4,
+  "object_models": {
+    "models": [
+      58191
+    ]
+  },
   "unknown_17": false,
   "unknown_22": true,
   "ambient": 20,
@@ -21,5 +23,8 @@
   "model": false,
   "scale_x": 96,
   "scale_y": 96,
-  "scale_z": 96
+  "scale_z": 96,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

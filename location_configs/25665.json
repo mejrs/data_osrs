@@ -1,9 +1,11 @@
 {
   "id": 25665,
   "name": "Sir Palomedes",
-  "models_2": [
-    27126
-  ],
+  "object_models": {
+    "models": [
+      27126
+    ]
+  },
   "unknown_17": false,
   "unknown_24": 6913,
   "ambient": 10,
@@ -24,5 +26,8 @@
       5537,
       5652
     ]
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

@@ -1,9 +1,11 @@
 {
   "id": 18267,
-  "models_2": [
-    18250
-  ],
   "dim_y": 3,
+  "object_models": {
+    "models": [
+      18250
+    ]
+  },
   "unknown_19": 0,
   "ambient": 25,
   "contrast": 5,
@@ -29,5 +31,8 @@
       8478
     ]
   ],
-  "mirror": true
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

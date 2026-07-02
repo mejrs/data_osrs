@@ -1,9 +1,11 @@
 {
   "id": 11663,
   "name": "Target",
-  "models_2": [
-    1451
-  ],
+  "object_models": {
+    "models": [
+      1451
+    ]
+  },
   "ambient": 20,
   "actions": [
     "Fire-at",
@@ -11,5 +13,8 @@
     null,
     null,
     null
-  ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

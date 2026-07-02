@@ -1,8 +1,13 @@
 {
   "id": 5598,
   "name": "Water Barrel",
-  "models_2": [
-    5499
-  ],
-  "category": 241
+  "object_models": {
+    "models": [
+      5499
+    ]
+  },
+  "category": 241,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }

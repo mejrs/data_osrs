@@ -1,27 +1,21 @@
 {
   "id": 2160,
-  "models": [
-    [
-      0,
-      4463
-    ],
-    [
-      1,
-      4464
-    ],
-    [
-      2,
-      4465
-    ],
-    [
-      3,
-      4466
-    ],
-    [
-      9,
+  "object_models_and_types": {
+    "models": [
+      4463,
+      4464,
+      4465,
+      4466,
       4467
+    ],
+    "types": [
+      0,
+      1,
+      2,
+      3,
+      9
     ]
-  ],
+  },
   "unknown_22": true,
   "occludes_1": false,
   "unknown_28": 32,
@@ -36,5 +30,8 @@
   },
   "scale_x": 128,
   "scale_y": 192,
-  "scale_z": 128
+  "scale_z": 128,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
 }
