@@ -1,0 +1,37 @@
+{
+  "id": 63019,
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      16089
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": -20,
+  "contrast": 25,
+  "colours": [
+    [
+      6726,
+      10270
+    ],
+    [
+      6717,
+      10266
+    ],
+    [
+      6711,
+      10262
+    ],
+    [
+      6705,
+      10258
+    ]
+  ],
+  "scale_x": 240,
+  "scale_y": 240,
+  "scale_z": 240,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

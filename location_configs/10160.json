@@ -6,6 +6,8 @@
       7700
     ]
   },
+  "ambient": 10,
+  "contrast": 40,
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

@@ -1,0 +1,22 @@
+{
+  "id": 63275,
+  "name": "Bank Chest",
+  "object_models": {
+    "models": [
+      62375
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    "Use",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 237,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

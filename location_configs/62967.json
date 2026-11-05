@@ -1,0 +1,22 @@
+{
+  "id": 62967,
+  "name": "Mask",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      62435
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "translate_y": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

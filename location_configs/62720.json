@@ -1,0 +1,46 @@
+{
+  "id": 62720,
+  "object_models_and_types": {
+    "models": [
+      62176,
+      62177,
+      62178
+    ],
+    "types": [
+      0,
+      1,
+      9
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "colours": [
+    [
+      41244,
+      7514
+    ],
+    [
+      43292,
+      6490
+    ],
+    [
+      46364,
+      5466
+    ],
+    [
+      51484,
+      4442
+    ],
+    [
+      284,
+      3418
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

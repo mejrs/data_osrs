@@ -1,0 +1,24 @@
+{
+  "id": 63109,
+  "name": "Archive Door",
+  "dim_x": 7,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      62195
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 15022,
+  "ambient": 20,
+  "contrast": 40,
+  "category": 2561,
+  "model": false,
+  "unknown_73": true,
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

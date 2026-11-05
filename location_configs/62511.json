@@ -1,0 +1,49 @@
+{
+  "id": 62511,
+  "object_models": {
+    "models": [
+      62032
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 15,
+  "colours": [
+    [
+      13601,
+      5400
+    ],
+    [
+      13592,
+      5404
+    ],
+    [
+      13716,
+      5400
+    ],
+    [
+      13840,
+      5400
+    ],
+    [
+      13964,
+      5524
+    ],
+    [
+      14216,
+      3350
+    ],
+    [
+      15238,
+      3350
+    ]
+  ],
+  "mirror": true,
+  "scale_y": 138,
+  "translate_y": 3,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

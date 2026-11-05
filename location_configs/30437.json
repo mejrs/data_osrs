@@ -17,10 +17,6 @@
     "Guide",
     null
   ],
-  "textures": {
-    "8": 65535,
-    "33": 65535
-  },
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

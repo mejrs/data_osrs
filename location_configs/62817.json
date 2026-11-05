@@ -1,0 +1,15 @@
+{
+  "id": 62817,
+  "name": "Cannonball",
+  "object_models": {
+    "models": [
+      62458
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

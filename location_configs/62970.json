@@ -1,0 +1,20 @@
+{
+  "id": 62970,
+  "name": "Brazier",
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      62354
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 70,
+  "translate_x": 0,
+  "translate_y": 65002,
+  "translate_z": 60,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

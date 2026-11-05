@@ -1,0 +1,21 @@
+{
+  "id": 62964,
+  "name": "Fresnel casing",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      62432
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

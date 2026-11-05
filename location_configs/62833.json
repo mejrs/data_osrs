@@ -1,0 +1,44 @@
+{
+  "id": 62833,
+  "name": "Rubble",
+  "object_models": {
+    "models": [
+      60989
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 50,
+  "contrast": 30,
+  "colours": [
+    [
+      280,
+      14490
+    ],
+    [
+      278,
+      14494
+    ],
+    [
+      274,
+      16545
+    ],
+    [
+      152,
+      14490
+    ],
+    [
+      154,
+      14494
+    ],
+    [
+      148,
+      16545
+    ]
+  ],
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

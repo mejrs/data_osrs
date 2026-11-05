@@ -1,0 +1,44 @@
+{
+  "id": 62451,
+  "name": "Shell",
+  "object_models": {
+    "models": [
+      39520
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Sound",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "colours": [
+    [
+      51546,
+      5470
+    ],
+    [
+      51538,
+      5669
+    ],
+    [
+      51480,
+      6020
+    ]
+  ],
+  "category": 2521,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_x": 20,
+  "translate_z": 65516,
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

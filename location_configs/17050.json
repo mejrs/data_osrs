@@ -1,6 +1,6 @@
 {
   "id": 17050,
-  "name": "Wall",
+  "name": "Rough wall",
   "object_models_and_types": {
     "models": [
       16913
@@ -22,6 +22,7 @@
     null
   ],
   "contrast": 15,
+  "category": 2513,
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

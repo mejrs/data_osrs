@@ -1,0 +1,47 @@
+{
+  "id": 62533,
+  "name": "Pete's crate",
+  "object_models": {
+    "models": [
+      7685
+    ]
+  },
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    "Loot",
+    "Load-outs",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      7322
+    ],
+    [
+      6439,
+      7442
+    ],
+    [
+      6563,
+      7690
+    ],
+    [
+      6558,
+      8070
+    ],
+    [
+      6682,
+      6020
+    ],
+    [
+      6806,
+      898
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": 63298,
+  "name": "The Fractured Archive",
+  "object_models": {
+    "models": [
+      62366
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

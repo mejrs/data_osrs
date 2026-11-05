@@ -1,0 +1,29 @@
+{
+  "id": 62530,
+  "name": "Young tree",
+  "object_models": {
+    "models": [
+      19930
+    ]
+  },
+  "actions": [
+    "Dismantle",
+    "Reset",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6682,
+      32827
+    ]
+  ],
+  "category": 2530,
+  "unknown_69": 30,
+  "unknown_75": 0,
+  "mapscene": 68,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": 63290,
+  "name": "Living Record (tier 2)",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      62469,
+      62471
+    ]
+  },
+  "ambient": 20,
+  "actions": [
+    "Claim",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

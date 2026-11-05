@@ -1,0 +1,25 @@
+{
+  "id": 62773,
+  "name": "Alliance records",
+  "dim_x": 3,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      62420
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

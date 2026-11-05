@@ -1,0 +1,29 @@
+{
+  "id": 62893,
+  "name": "Dummy",
+  "object_models": {
+    "models": [
+      25177
+    ]
+  },
+  "unknown_24": 6481,
+  "ambient": 30,
+  "contrast": 30,
+  "colours": [
+    [
+      5541,
+      7446
+    ],
+    [
+      4515,
+      7452
+    ],
+    [
+      5437,
+      7463
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

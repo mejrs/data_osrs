@@ -1,0 +1,15 @@
+{
+  "id": 63286,
+  "name": "Empty Record",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      62469
+    ]
+  },
+  "ambient": 20,
+  "contrast": 40,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

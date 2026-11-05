@@ -1,0 +1,29 @@
+{
+  "id": 62380,
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "morphs_1": {
+    "varbit": 15759,
+    "ids": [
+      62383,
+      62383,
+      62383,
+      62383,
+      62383,
+      62383,
+      62383,
+      62383,
+      62383,
+      62383,
+      62383,
+      62383
+    ]
+  },
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

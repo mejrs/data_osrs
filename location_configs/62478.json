@@ -1,0 +1,41 @@
+{
+  "id": 62478,
+  "name": "Bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      5524
+    ]
+  },
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5392,
+      6600
+    ],
+    [
+      5388,
+      7609
+    ],
+    [
+      5640,
+      7723
+    ]
+  ],
+  "category": 2526,
+  "model": false,
+  "mapscene": 6,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

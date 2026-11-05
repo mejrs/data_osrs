@@ -1,0 +1,18 @@
+{
+  "id": 62992,
+  "name": "Star",
+  "object_models": {
+    "models": [
+      62743
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_24": 3542,
+  "ambient": 50,
+  "contrast": 50,
+  "model": false,
+  "translate_y": 64636,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

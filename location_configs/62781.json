@@ -1,0 +1,17 @@
+{
+  "id": 62781,
+  "name": "Fallen shelves",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      62416
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

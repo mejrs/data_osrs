@@ -1,0 +1,41 @@
+{
+  "id": 62277,
+  "name": "Barrel",
+  "object_models": {
+    "models": [
+      8232,
+      9531
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "colours": [
+    [
+      5541,
+      7442
+    ],
+    [
+      5665,
+      7690
+    ],
+    [
+      5660,
+      7566
+    ],
+    [
+      5784,
+      8070
+    ],
+    [
+      5904,
+      7690
+    ]
+  ],
+  "scale_x": 142,
+  "scale_y": 142,
+  "scale_z": 142,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

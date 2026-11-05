@@ -1,0 +1,16 @@
+{
+  "id": 62985,
+  "name": "Branches",
+  "object_models": {
+    "models": [
+      62294
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": -25,
+  "contrast": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

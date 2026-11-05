@@ -1,0 +1,40 @@
+{
+  "id": 62477,
+  "name": "Plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      1645
+    ]
+  },
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      8747
+    ],
+    [
+      49,
+      11939
+    ],
+    [
+      41,
+      3346
+    ]
+  ],
+  "category": 2526,
+  "mapscene": 117,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": 62626,
+  "object_models_and_types": {
+    "models": [
+      45078,
+      45076
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 30,
+  "colours": [
+    [
+      10308,
+      57
+    ]
+  ],
+  "translate_y": 65526,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

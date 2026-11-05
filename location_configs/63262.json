@@ -1,0 +1,20 @@
+{
+  "id": 63262,
+  "name": "Makeshift entrance",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      62148
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

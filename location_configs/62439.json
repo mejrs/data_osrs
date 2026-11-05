@@ -1,0 +1,37 @@
+{
+  "id": 62439,
+  "name": "Bottle",
+  "object_models": {
+    "models": [
+      57909
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Drink",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "colours": [
+    [
+      2737,
+      5815
+    ],
+    [
+      6684,
+      33463
+    ],
+    [
+      2863,
+      51895
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

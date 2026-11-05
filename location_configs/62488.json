@@ -1,0 +1,25 @@
+{
+  "id": 62488,
+  "name": "Torn newspaper",
+  "object_models": {
+    "models": [
+      30868,
+      25775
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "translate_y": 65527,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

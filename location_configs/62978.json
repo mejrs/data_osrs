@@ -1,0 +1,17 @@
+{
+  "id": 62978,
+  "object_models": {
+    "models": [
+      62285
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 70,
+  "translate_x": 0,
+  "translate_z": 65472,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

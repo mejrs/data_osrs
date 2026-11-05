@@ -1,0 +1,19 @@
+{
+  "id": 63066,
+  "object_models_and_types": {
+    "models": [
+      62311
+    ],
+    "types": [
+      22
+    ]
+  },
+  "ambient": 0,
+  "contrast": 50,
+  "translate_x": 65280,
+  "raise": 13,
+  "mapscene": 52,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

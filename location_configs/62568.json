@@ -1,0 +1,41 @@
+{
+  "id": 62568,
+  "name": "Books",
+  "object_models": {
+    "models": [
+      62346
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 70,
+  "colours": [
+    [
+      37415,
+      43189
+    ],
+    [
+      37409,
+      43181
+    ],
+    [
+      23843,
+      12694
+    ],
+    [
+      23838,
+      12702
+    ],
+    [
+      23849,
+      12698
+    ]
+  ],
+  "translate_y": 65532,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

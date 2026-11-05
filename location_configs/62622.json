@@ -1,0 +1,24 @@
+{
+  "id": 62622,
+  "name": "Bones",
+  "object_models": {
+    "models": [
+      62377
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 30,
+  "colours": [
+    [
+      10308,
+      57
+    ]
+  ],
+  "model": false,
+  "translate_y": 65526,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

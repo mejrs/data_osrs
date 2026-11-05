@@ -1,0 +1,17 @@
+{
+  "id": 62490,
+  "name": "Chewed box",
+  "object_models": {
+    "models": [
+      7685
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

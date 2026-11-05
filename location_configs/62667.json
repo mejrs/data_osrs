@@ -1,0 +1,35 @@
+{
+  "id": 62667,
+  "object_models_and_types": {
+    "models": [
+      62216
+    ],
+    "types": [
+      22
+    ]
+  },
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      16545,
+      54315
+    ],
+    [
+      16536,
+      54298
+    ],
+    [
+      16540,
+      54302
+    ],
+    [
+      16549,
+      54321
+    ]
+  ],
+  "raise": 13,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

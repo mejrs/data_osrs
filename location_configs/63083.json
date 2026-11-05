@@ -1,0 +1,30 @@
+{
+  "id": 63083,
+  "name": "Strategy board",
+  "dim_x": 3,
+  "object_models": {
+    "models": [
+      62335
+    ]
+  },
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Spectate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "colours": [
+    [
+      7954,
+      7700
+    ]
+  ],
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

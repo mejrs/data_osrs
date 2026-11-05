@@ -1,0 +1,19 @@
+{
+  "id": 62552,
+  "name": "Book of Life and Death",
+  "dim_x": 5,
+  "dim_y": 5,
+  "object_models": {
+    "models": [
+      62352
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_24": 14681,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

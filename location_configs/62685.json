@@ -1,0 +1,20 @@
+{
+  "id": 62685,
+  "name": "Portal",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      62757
+    ]
+  },
+  "is_transparent": true,
+  "unknown_24": 14830,
+  "unknown_27": false,
+  "category": 2548,
+  "model": false,
+  "unknown_89": false,
+  "unknown_90": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

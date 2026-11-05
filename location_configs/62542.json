@@ -1,0 +1,20 @@
+{
+  "id": 62542,
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "contrast": 25,
+  "morphs_2": {
+    "varbit": 16354,
+    "ids": [
+      53638,
+      62543
+    ],
+    "default": 53638
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

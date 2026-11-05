@@ -1,0 +1,26 @@
+{
+  "id": 62693,
+  "name": "Bandosian Censer",
+  "object_models": {
+    "models": [
+      62438
+    ]
+  },
+  "unknown_24": 14833,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 70,
+  "category": 2550,
+  "unknown_89": false,
+  "unknown_90": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

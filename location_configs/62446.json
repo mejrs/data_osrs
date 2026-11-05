@@ -1,0 +1,22 @@
+{
+  "id": 62446,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 40,
+  "category": 2521,
+  "scale_x": 130,
+  "scale_y": 130,
+  "scale_z": 130,
+  "unknown_73": true,
+  "morphs_1": {
+    "varbit": 15846,
+    "ids": [
+      null,
+      62445
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

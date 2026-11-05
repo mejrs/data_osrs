@@ -9,7 +9,7 @@
   "ambient": 20,
   "actions": [
     "Study",
-    null,
+    "Create-last",
     null,
     null,
     null

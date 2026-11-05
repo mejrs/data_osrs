@@ -1,0 +1,25 @@
+{
+  "id": 62543,
+  "name": "Opening",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      62752
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Crawl-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -31,6 +31,9 @@
       10178
     ]
   ],
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

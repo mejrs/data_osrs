@@ -1,0 +1,23 @@
+{
+  "id": 62618,
+  "name": "Skeleton",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      1080
+    ]
+  },
+  "is_transparent": true,
+  "ambient": 20,
+  "contrast": 30,
+  "colours": [
+    [
+      6241,
+      57
+    ]
+  ],
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

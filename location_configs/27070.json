@@ -9,6 +9,7 @@
       0
     ]
   },
+  "ambient": 25,
   "actions": [
     null,
     null,
@@ -16,6 +17,7 @@
     null,
     "Build"
   ],
+  "contrast": 25,
   "category": 207,
   "sub_op": [],
   "conditional_op": [],

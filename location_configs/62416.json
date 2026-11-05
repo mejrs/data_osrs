@@ -1,0 +1,45 @@
+{
+  "id": 62416,
+  "name": "Ditch",
+  "object_models_and_types": {
+    "models": [
+      1124
+    ],
+    "types": [
+      22
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4892,
+      8656
+    ],
+    [
+      4899,
+      8656
+    ],
+    [
+      5921,
+      8656
+    ]
+  ],
+  "category": 2209,
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
+  "params": {
+    "2291": 83,
+    "2296": 40
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 62394,
+  "name": "Sunstone rocks",
+  "object_models": {
+    "models": [
+      1391
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      24,
+      8898
+    ]
+  ],
+  "category": 2509,
+  "mapscene": 155,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

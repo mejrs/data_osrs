@@ -12,7 +12,7 @@
   "ambient": 30,
   "actions": [
     "Deactivate",
-    null,
+    "Reset",
     null,
     null,
     null

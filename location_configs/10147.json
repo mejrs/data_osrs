@@ -8,6 +8,8 @@
   },
   "unknown_21": true,
   "unknown_22": true,
+  "ambient": 10,
+  "contrast": 40,
   "scale_y": 115,
   "sub_op": [],
   "conditional_op": [],

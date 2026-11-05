@@ -1,0 +1,33 @@
+{
+  "id": 62353,
+  "name": "Empty plinth",
+  "object_models": {
+    "models": [
+      61762
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Start-golem",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 55,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15759,
+      "min": 0,
+      "max": 19,
+      "text": ""
+    }
+  ],
+  "conditional_sub_op": []
+}

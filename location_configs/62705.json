@@ -1,0 +1,32 @@
+{
+  "id": 62705,
+  "name": "Cracks",
+  "object_models_and_types": {
+    "models": [
+      62682,
+      62683
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
+  "unknown_17": false,
+  "unknown_24": 14924,
+  "colours": [
+    [
+      2995,
+      20137
+    ],
+    [
+      9026,
+      20793
+    ]
+  ],
+  "category": 2552,
+  "translate_y": 65534,
+  "unknown_89": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

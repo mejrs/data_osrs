@@ -9,6 +9,8 @@
     ]
   },
   "is_transparent": true,
+  "ambient": 10,
+  "contrast": 15,
   "colours": [
     [
       7062,

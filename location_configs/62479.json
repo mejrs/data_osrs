@@ -1,0 +1,24 @@
+{
+  "id": 62479,
+  "name": "Circle",
+  "object_models": {
+    "models": [
+      61908
+    ]
+  },
+  "unknown_17": false,
+  "unknown_24": 14519,
+  "colours": [
+    [
+      8487,
+      8503
+    ]
+  ],
+  "model": false,
+  "scale_x": 40,
+  "scale_z": 40,
+  "translate_y": 65532,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

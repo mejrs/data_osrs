@@ -1,0 +1,24 @@
+{
+  "id": 62350,
+  "name": "Cattle prod supply",
+  "object_models": {
+    "models": [
+      61759
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

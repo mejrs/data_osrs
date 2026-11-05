@@ -1,0 +1,27 @@
+{
+  "id": 62424,
+  "name": "Rocks",
+  "object_models_and_types": {
+    "models": [
+      9235
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_21": true,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 128,
+  "scale_y": 64,
+  "scale_z": 128,
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

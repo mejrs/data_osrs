@@ -1,0 +1,47 @@
+{
+  "id": 62415,
+  "name": "Slope",
+  "object_models_and_types": {
+    "models": [
+      1124
+    ],
+    "types": [
+      22
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4892,
+      8656
+    ],
+    [
+      4899,
+      8656
+    ],
+    [
+      5921,
+      8656
+    ]
+  ],
+  "category": 2205,
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
+  "params": {
+    "2291": 83,
+    "2294": 8,
+    "2295": 1,
+    "2296": 40
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 62309,
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61645
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": 62347,
+  "name": "Goat Pit",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      61769
+    ]
+  },
+  "ambient": 15,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

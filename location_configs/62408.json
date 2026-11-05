@@ -1,0 +1,40 @@
+{
+  "id": 62408,
+  "name": "Stile",
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      19362
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      5404
+    ],
+    [
+      6684,
+      6697
+    ],
+    [
+      6930,
+      6550
+    ]
+  ],
+  "category": 211,
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

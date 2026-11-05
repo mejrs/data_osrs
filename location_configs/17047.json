@@ -1,6 +1,6 @@
 {
   "id": 17047,
-  "name": "Wall",
+  "name": "Rough wall",
   "object_models_and_types": {
     "models": [
       16911
@@ -21,6 +21,7 @@
     null
   ],
   "contrast": 25,
+  "category": 2512,
   "translate_y": 1,
   "sub_op": [],
   "conditional_op": [],

@@ -1,0 +1,17 @@
+{
+  "id": 51370,
+  "name": "Roses",
+  "object_models": {
+    "models": [
+      36495
+    ]
+  },
+  "ambient": 10,
+  "contrast": 15,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -7,6 +7,8 @@
   },
   "unknown_19": 0,
   "unknown_22": true,
+  "ambient": 10,
+  "contrast": 40,
   "colours": [
     [
       33,

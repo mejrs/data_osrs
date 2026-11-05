@@ -1,0 +1,25 @@
+{
+  "id": 62356,
+  "name": "Unfinished golem",
+  "object_models": {
+    "models": [
+      61762,
+      61764
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Shape-golem",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 55,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": 62819,
+  "name": "Rubble",
+  "object_models": {
+    "models": [
+      62460
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

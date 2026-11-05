@@ -1,0 +1,32 @@
+{
+  "id": 62504,
+  "name": "Water bowl",
+  "object_models": {
+    "models": [
+      2367
+    ]
+  },
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      7077,
+      55
+    ],
+    [
+      7081,
+      61
+    ],
+    [
+      7731,
+      66
+    ],
+    [
+      44263,
+      40237
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

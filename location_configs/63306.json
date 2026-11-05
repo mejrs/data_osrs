@@ -1,0 +1,17 @@
+{
+  "id": 63306,
+  "object_models_and_types": {
+    "models": [
+      61855
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "raise": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

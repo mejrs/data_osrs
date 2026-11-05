@@ -1,0 +1,25 @@
+{
+  "id": 63281,
+  "name": "Records room",
+  "dim_x": 4,
+  "object_models": {
+    "models": [
+      62154
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 70,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

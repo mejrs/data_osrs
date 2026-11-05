@@ -1,0 +1,21 @@
+{
+  "id": 62701,
+  "name": "Void",
+  "object_models_and_types": {
+    "models": [
+      62507,
+      62508
+    ],
+    "types": [
+      10,
+      22
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 14891,
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

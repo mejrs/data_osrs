@@ -1,0 +1,15 @@
+{
+  "id": 62605,
+  "name": "Corpse",
+  "object_models": {
+    "models": [
+      62380
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": -20,
+  "contrast": 60,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

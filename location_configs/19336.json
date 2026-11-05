@@ -12,7 +12,7 @@
   "unknown_24": 5239,
   "actions": [
     "Check",
-    null,
+    "Reset",
     null,
     null,
     null

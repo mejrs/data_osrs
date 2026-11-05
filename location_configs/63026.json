@@ -1,0 +1,17 @@
+{
+  "id": 63026,
+  "object_models_and_types": {
+    "models": [
+      61855
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_19": 0,
+  "raise": 26,
+  "mapscene": 52,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

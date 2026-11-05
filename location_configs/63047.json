@@ -1,0 +1,33 @@
+{
+  "id": 63047,
+  "object_models_and_types": {
+    "models": [
+      53808
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 0,
+  "contrast": 50,
+  "colours": [
+    [
+      11140,
+      0
+    ],
+    [
+      11138,
+      0
+    ]
+  ],
+  "scale_y": 270,
+  "unknown_73": true,
+  "raise": 23,
+  "mapscene": 52,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

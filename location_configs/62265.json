@@ -1,0 +1,23 @@
+{
+  "id": 62265,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "category": 2205,
+  "unknown_73": true,
+  "morphs_1": {
+    "varbit": 15720,
+    "ids": [
+      null,
+      62266
+    ]
+  },
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": [],
+  "params": {
+    "2291": 54,
+    "2294": 3,
+    "2295": 1,
+    "2296": 50
+  }
+}

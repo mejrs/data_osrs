@@ -1,0 +1,30 @@
+{
+  "id": 62823,
+  "name": "Ladder",
+  "object_models": {
+    "models": [
+      13990
+    ]
+  },
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "colours": [
+    [
+      13601,
+      7446
+    ],
+    [
+      13592,
+      7442
+    ]
+  ],
+  "scale_x": 192,
+  "scale_y": 224,
+  "scale_z": 192,
+  "translate_z": 80,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

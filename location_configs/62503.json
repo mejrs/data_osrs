@@ -1,0 +1,28 @@
+{
+  "id": 62503,
+  "name": "Food bowl",
+  "object_models": {
+    "models": [
+      11082
+    ]
+  },
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      7077,
+      55
+    ],
+    [
+      7081,
+      61
+    ],
+    [
+      7731,
+      66
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

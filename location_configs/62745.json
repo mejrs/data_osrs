@@ -1,0 +1,34 @@
+{
+  "id": 62745,
+  "name": "Portal",
+  "dim_x": 7,
+  "object_models": {
+    "models": [
+      44082
+    ]
+  },
+  "unknown_17": false,
+  "unknown_24": 9355,
+  "contrast": 100,
+  "colours": [
+    [
+      53068,
+      984
+    ],
+    [
+      46912,
+      7128
+    ],
+    [
+      57292,
+      10200
+    ]
+  ],
+  "scale_x": 360,
+  "scale_y": 360,
+  "scale_z": 360,
+  "translate_y": 200,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

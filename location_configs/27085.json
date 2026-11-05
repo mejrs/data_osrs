@@ -10,6 +10,7 @@
     ]
   },
   "occludes_1": false,
+  "ambient": 25,
   "actions": [
     "Open",
     null,
@@ -17,6 +18,7 @@
     null,
     null
   ],
+  "contrast": 25,
   "mirror": true,
   "translate_y": 1,
   "sub_op": [],

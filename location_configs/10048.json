@@ -1,0 +1,28 @@
+{
+  "id": 10048,
+  "name": "Engorged bloodwood tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      61083
+    ]
+  },
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Chop",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 30,
+  "unknown_69": 27,
+  "unknown_81": 1,
+  "mapscene": 264,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

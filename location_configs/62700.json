@@ -1,0 +1,19 @@
+{
+  "id": 62700,
+  "name": "Saradomin Censer",
+  "object_models": {
+    "models": [
+      62439
+    ]
+  },
+  "unknown_24": 14834,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "category": 2551,
+  "unknown_89": false,
+  "unknown_90": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

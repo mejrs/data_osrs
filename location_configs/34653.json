@@ -8,7 +8,7 @@
       36935
     ]
   },
-  "ambient": 30,
+  "ambient": 10,
   "actions": [
     "Configure",
     "Jars",

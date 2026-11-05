@@ -1,0 +1,20 @@
+{
+  "id": 63271,
+  "name": "Ascension rocks",
+  "object_models": {
+    "models": [
+      62328
+    ]
+  },
+  "unknown_21": true,
+  "unknown_24": 15074,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "category": 2563,
+  "unknown_89": false,
+  "unknown_90": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -12,7 +12,7 @@
   "ambient": 20,
   "actions": [
     "Dismantle",
-    null,
+    "Reset",
     null,
     null,
     null

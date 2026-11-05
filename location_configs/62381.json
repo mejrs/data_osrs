@@ -1,0 +1,39 @@
+{
+  "id": 62381,
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      14591
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      30,
+      16
+    ],
+    [
+      35,
+      20
+    ],
+    [
+      39,
+      24
+    ],
+    [
+      43,
+      28
+    ],
+    [
+      51,
+      33
+    ]
+  ],
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": 62768,
+  "name": "Archive Door",
+  "dim_x": 9,
+  "object_models": {
+    "models": [
+      62051
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

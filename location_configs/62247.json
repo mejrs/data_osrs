@@ -1,0 +1,14 @@
+{
+  "id": 62247,
+  "name": "Church pew",
+  "object_models": {
+    "models": [
+      61680
+    ]
+  },
+  "ambient": 10,
+  "contrast": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

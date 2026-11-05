@@ -1,0 +1,22 @@
+{
+  "id": 62949,
+  "name": "Vines",
+  "dim_x": 3,
+  "object_models_and_types": {
+    "models": [
+      62273
+    ],
+    "types": [
+      22
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_24": 15027,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 70,
+  "translate_y": 769,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

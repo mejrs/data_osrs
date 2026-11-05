@@ -1,0 +1,37 @@
+{
+  "id": 62632,
+  "name": "Pillar",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      62063
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 70,
+  "colours": [
+    [
+      21530,
+      22
+    ],
+    [
+      21534,
+      26
+    ],
+    [
+      21539,
+      30
+    ],
+    [
+      21541,
+      35
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

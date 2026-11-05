@@ -1,0 +1,32 @@
+{
+  "id": 62216,
+  "name": "Sunstone monolith",
+  "dim_x": 4,
+  "dim_y": 4,
+  "object_models": {
+    "models": [
+      61743
+    ]
+  },
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [
+    {
+      "index": 0,
+      "varp": 65535,
+      "varb": 15759,
+      "min": 4,
+      "max": 4,
+      "text": "Inspect"
+    }
+  ],
+  "conditional_sub_op": []
+}

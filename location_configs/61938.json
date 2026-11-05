@@ -15,6 +15,7 @@
   "ambient": 20,
   "contrast": 30,
   "translate_y": 1,
+  "mapscene": 22,
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

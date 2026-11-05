@@ -1,10 +1,14 @@
 {
   "id": 10137,
   "name": "Wooden Stair",
-  "dim_y": 2,
-  "object_models": {
+  "object_models_and_types": {
     "models": [
-      9883
+      47599,
+      56548
+    ],
+    "types": [
+      10,
+      22
     ]
   },
   "actions": [

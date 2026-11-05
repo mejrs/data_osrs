@@ -1,0 +1,16 @@
+{
+  "id": 62996,
+  "object_models": {
+    "models": [
+      62744
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 3542,
+  "ambient": 50,
+  "contrast": 50,
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

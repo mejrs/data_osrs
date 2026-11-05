@@ -18,6 +18,7 @@
   "ambient": 30,
   "contrast": 50,
   "model": false,
+  "translate_y": 1,
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

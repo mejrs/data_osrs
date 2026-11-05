@@ -1,0 +1,38 @@
+{
+  "id": 62643,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      62172
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 70,
+  "colours": [
+    [
+      7446,
+      20
+    ],
+    [
+      7442,
+      16
+    ],
+    [
+      7566,
+      12
+    ],
+    [
+      7690,
+      4
+    ],
+    [
+      8070,
+      8
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

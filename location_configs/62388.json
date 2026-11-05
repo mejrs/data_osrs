@@ -1,0 +1,36 @@
+{
+  "id": 62388,
+  "name": "Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      1637
+    ]
+  },
+  "ambient": 15,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      3470,
+      5665
+    ]
+  ],
+  "textures": {
+    "8": 211,
+    "60": 212
+  },
+  "category": 189,
+  "unknown_81": 80,
+  "mapscene": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

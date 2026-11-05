@@ -1,0 +1,22 @@
+{
+  "id": 62531,
+  "name": "Net trap",
+  "object_models": {
+    "models": [
+      62050
+    ]
+  },
+  "unknown_17": false,
+  "actions": [
+    "Dismantle",
+    "Reset",
+    null,
+    null,
+    null
+  ],
+  "category": 2531,
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

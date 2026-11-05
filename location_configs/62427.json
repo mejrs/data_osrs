@@ -1,0 +1,16 @@
+{
+  "id": 62427,
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      1405
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "mapscene": 11,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

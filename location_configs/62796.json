@@ -1,0 +1,26 @@
+{
+  "id": 62796,
+  "name": "Barrel",
+  "object_models": {
+    "models": [
+      62359,
+      62358
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "colours": [
+    [
+      49948,
+      6798
+    ],
+    [
+      49953,
+      3594
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63301,
+  "name": "Loot Wheelbarrow",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      62487,
+      62488,
+      62373
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

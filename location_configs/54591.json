@@ -15,6 +15,7 @@
   "contrast": 50,
   "mirror": true,
   "model": false,
+  "translate_y": 1,
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

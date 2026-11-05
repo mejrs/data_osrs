@@ -1,0 +1,30 @@
+{
+  "id": 62409,
+  "name": "Obstacle pipe",
+  "dim_x": 2,
+  "object_models": {
+    "models": [
+      61865
+    ]
+  },
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      9098
+    ]
+  ],
+  "textures": {
+    "2": 23
+  },
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

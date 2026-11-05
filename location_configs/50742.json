@@ -1,12 +1,14 @@
 {
   "id": 50742,
-  "object_models": {
-    "models": [
-      29311
+  "unknown_19": 1,
+  "category": 2593,
+  "morphs_1": {
+    "varbit": 16583,
+    "ids": [
+      50777,
+      50778
     ]
   },
-  "unknown_17": false,
-  "unknown_19": 0,
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

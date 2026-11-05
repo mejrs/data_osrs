@@ -1,0 +1,16 @@
+{
+  "id": 63297,
+  "name": "Rift",
+  "object_models": {
+    "models": [
+      43034
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 2556,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63088,
+  "name": "Door",
+  "dim_x": 5,
+  "object_models": {
+    "models": [
+      62192
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    "Quick-enter",
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "category": 2561,
+  "unknown_73": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": 62498,
+  "name": "Doghouse",
+  "dim_x": 4,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      61902
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "translate_x": 65476,
+  "translate_z": 90,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

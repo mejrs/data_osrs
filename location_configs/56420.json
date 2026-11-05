@@ -1,9 +1,14 @@
 {
   "id": 56420,
   "name": "Puddle",
-  "object_models": {
+  "object_models_and_types": {
     "models": [
-      29311
+      29311,
+      62493
+    ],
+    "types": [
+      10,
+      22
     ]
   },
   "unknown_17": false,

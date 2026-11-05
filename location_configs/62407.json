@@ -1,0 +1,14 @@
+{
+  "id": 62407,
+  "name": "Bush",
+  "object_models": {
+    "models": [
+      61011
+    ]
+  },
+  "ambient": 20,
+  "contrast": 20,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

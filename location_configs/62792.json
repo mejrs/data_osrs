@@ -1,0 +1,21 @@
+{
+  "id": 62792,
+  "name": "Sacks",
+  "object_models": {
+    "models": [
+      1482
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 30,
+  "colours": [
+    [
+      8094,
+      7463
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

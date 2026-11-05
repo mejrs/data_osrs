@@ -3307,7 +3307,7 @@
     "y": 39,
     "id": 1329,
     "type": 10,
-    "rotation": 2
+    "rotation": 3
   },
   {
     "plane": 2,
@@ -3367,7 +3367,7 @@
     "y": 60,
     "id": 1329,
     "type": 10,
-    "rotation": 2
+    "rotation": 3
   },
   {
     "plane": 2,
@@ -3607,7 +3607,7 @@
     "y": 52,
     "id": 1329,
     "type": 10,
-    "rotation": 0
+    "rotation": 2
   },
   {
     "plane": 3,
@@ -3667,7 +3667,7 @@
     "y": 6,
     "id": 1329,
     "type": 10,
-    "rotation": 1
+    "rotation": 2
   },
   {
     "plane": 2,
@@ -3687,7 +3687,7 @@
     "y": 1,
     "id": 1329,
     "type": 10,
-    "rotation": 1
+    "rotation": 2
   },
   {
     "plane": 3,
@@ -3697,7 +3697,7 @@
     "y": 9,
     "id": 1329,
     "type": 10,
-    "rotation": 0
+    "rotation": 3
   },
   {
     "plane": 3,
@@ -3707,7 +3707,7 @@
     "y": 2,
     "id": 1329,
     "type": 10,
-    "rotation": 1
+    "rotation": 3
   },
   {
     "plane": 3,
@@ -3717,7 +3717,7 @@
     "y": 13,
     "id": 1329,
     "type": 10,
-    "rotation": 0
+    "rotation": 2
   },
   {
     "plane": 3,
@@ -3747,7 +3747,7 @@
     "y": 0,
     "id": 1329,
     "type": 10,
-    "rotation": 3
+    "rotation": 2
   },
   {
     "plane": 2,

@@ -9,6 +9,7 @@
       0
     ]
   },
+  "ambient": 25,
   "actions": [
     null,
     null,
@@ -16,6 +17,7 @@
     null,
     "Remove"
   ],
+  "contrast": 25,
   "category": 206,
   "translate_y": 1,
   "sub_op": [],

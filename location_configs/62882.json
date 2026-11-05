@@ -1,0 +1,20 @@
+{
+  "id": 62882,
+  "name": "Corpse",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      46782
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 25,
+  "model": false,
+  "translate_y": 65523,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

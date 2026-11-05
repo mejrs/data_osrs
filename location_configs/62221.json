@@ -1,0 +1,26 @@
+{
+  "id": 62221,
+  "name": "Mine cart",
+  "dim_y": 3,
+  "object_models": {
+    "models": [
+      61707
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "category": 276,
+  "unknown_69": 23,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

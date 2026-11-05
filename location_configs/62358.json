@@ -1,0 +1,25 @@
+{
+  "id": 62358,
+  "name": "Unpowered golem",
+  "object_models": {
+    "models": [
+      61762,
+      61766
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Insert-core",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 55,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

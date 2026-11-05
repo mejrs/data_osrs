@@ -19,7 +19,10 @@
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
+  "ambient": 30,
+  "contrast": 40,
   "scale_y": 32,
+  "translate_y": 65496,
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

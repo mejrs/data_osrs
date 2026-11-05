@@ -9,6 +9,8 @@
   "is_transparent": true,
   "ambient": 20,
   "contrast": 20,
+  "scale_x": 100,
+  "scale_z": 100,
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

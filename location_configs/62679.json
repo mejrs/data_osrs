@@ -1,0 +1,44 @@
+{
+  "id": 62679,
+  "name": "Bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      11550
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 10,
+  "colours": [
+    [
+      5772,
+      0
+    ],
+    [
+      5648,
+      8
+    ],
+    [
+      5524,
+      12
+    ],
+    [
+      5400,
+      18
+    ],
+    [
+      6554,
+      24
+    ],
+    [
+      7580,
+      28
+    ]
+  ],
+  "model": false,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

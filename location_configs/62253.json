@@ -1,0 +1,15 @@
+{
+  "id": 62253,
+  "name": "Stand",
+  "object_models": {
+    "models": [
+      61852
+    ]
+  },
+  "unknown_24": 5906,
+  "ambient": 10,
+  "contrast": 50,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

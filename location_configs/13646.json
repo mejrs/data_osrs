@@ -8,7 +8,7 @@
   },
   "actions": [
     "Study",
-    null,
+    "Create-last",
     null,
     null,
     "Remove"

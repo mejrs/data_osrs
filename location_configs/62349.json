@@ -1,0 +1,24 @@
+{
+  "id": 62349,
+  "name": "Spikes supply",
+  "object_models": {
+    "models": [
+      61760
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take",
+    "Take-5",
+    "Take-10",
+    "Take-X",
+    null
+  ],
+  "contrast": 30,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

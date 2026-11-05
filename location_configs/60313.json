@@ -8,6 +8,8 @@
   },
   "ambient": 10,
   "contrast": 15,
+  "scale_x": 110,
+  "scale_z": 110,
   "sub_op": [],
   "conditional_op": [],
   "conditional_sub_op": []

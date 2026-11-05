@@ -1,0 +1,50 @@
+{
+  "id": 10804,
+  "object_models_and_types": {
+    "models": [
+      61853
+    ],
+    "types": [
+      0
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 15,
+  "colours": [
+    [
+      13601,
+      5400
+    ],
+    [
+      13592,
+      5404
+    ],
+    [
+      13716,
+      5400
+    ],
+    [
+      13840,
+      5400
+    ],
+    [
+      13964,
+      5524
+    ],
+    [
+      14216,
+      3350
+    ],
+    [
+      15238,
+      3350
+    ]
+  ],
+  "scale_y": 138,
+  "translate_y": 1,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

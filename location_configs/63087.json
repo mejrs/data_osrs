@@ -1,0 +1,27 @@
+{
+  "id": 63087,
+  "name": "Archive transporter",
+  "object_models": {
+    "models": [
+      62485
+    ]
+  },
+  "unknown_24": 15023,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Use",
+    "Quick-use",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "category": 2547,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

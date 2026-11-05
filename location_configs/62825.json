@@ -1,0 +1,42 @@
+{
+  "id": 62825,
+  "name": "Crates",
+  "object_models": {
+    "models": [
+      29965
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 70,
+  "colours": [
+    [
+      6563,
+      7452
+    ],
+    [
+      6443,
+      7446
+    ],
+    [
+      6558,
+      7442
+    ],
+    [
+      6439,
+      7452
+    ],
+    [
+      7700,
+      7566
+    ],
+    [
+      5904,
+      7566
+    ]
+  ],
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

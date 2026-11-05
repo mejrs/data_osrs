@@ -8,6 +8,7 @@
       32162
     ]
   },
+  "ambient": 10,
   "actions": [
     "Configure",
     "Jars",
@@ -15,6 +16,7 @@
     null,
     "Remove"
   ],
+  "contrast": 44,
   "category": 206,
   "scale_x": 112,
   "scale_y": 112,

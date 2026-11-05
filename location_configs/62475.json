@@ -1,0 +1,41 @@
+{
+  "id": 62475,
+  "name": "Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "object_models": {
+    "models": [
+      1701
+    ]
+  },
+  "ambient": 15,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      61,
+      14893
+    ],
+    [
+      49,
+      11825
+    ],
+    [
+      41,
+      5543
+    ]
+  ],
+  "category": 2526,
+  "scale_x": 144,
+  "scale_z": 144,
+  "mapscene": 5,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

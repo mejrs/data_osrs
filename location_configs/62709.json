@@ -1,0 +1,20 @@
+{
+  "id": 62709,
+  "object_models": {
+    "models": [
+      62699
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 14875,
+  "ambient": 70,
+  "contrast": 30,
+  "unknown_89": false,
+  "mapscene": 99,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

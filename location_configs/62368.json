@@ -1,0 +1,65 @@
+{
+  "id": 62368,
+  "name": "Cathedral door",
+  "object_models_and_types": {
+    "models": [
+      22838
+    ],
+    "types": [
+      0
+    ]
+  },
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "colours": [
+    [
+      6945,
+      5413
+    ],
+    [
+      6940,
+      5400
+    ],
+    [
+      6697,
+      5417
+    ],
+    [
+      4762,
+      5404
+    ],
+    [
+      4638,
+      5400
+    ],
+    [
+      7116,
+      6598
+    ],
+    [
+      6833,
+      6585
+    ],
+    [
+      6814,
+      5400
+    ],
+    [
+      9015,
+      6598
+    ]
+  ],
+  "category": 2508,
+  "scale_y": 137,
+  "unknown_75": 0,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

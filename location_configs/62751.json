@@ -1,0 +1,18 @@
+{
+  "id": 62751,
+  "name": "Corpses",
+  "object_models": {
+    "models": [
+      62383
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 60,
+  "category": 2554,
+  "model": false,
+  "translate_z": 96,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}

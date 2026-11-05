@@ -1,0 +1,17 @@
+{
+  "id": 63064,
+  "object_models_and_types": {
+    "models": [
+      62311
+    ],
+    "types": [
+      22
+    ]
+  },
+  "ambient": 0,
+  "contrast": 50,
+  "mirror": true,
+  "sub_op": [],
+  "conditional_op": [],
+  "conditional_sub_op": []
+}
